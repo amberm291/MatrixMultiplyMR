@@ -1,0 +1,200 @@
+conf/crypto/Berson82:::Thomas A. Berson:::Local Network Cryptosystem Architecture: Access Control.
+conf/crypto/BethLM94:::Thomas Beth::Dejan E. Lazic::A. Mathias:::Cryptanalysis of Cryptosystems Based on Remote Chaos Replication.
+conf/crypto/Maurer90:::Ueli M. Maurer:::A Universal Statistical Test for Random Bit Generators.
+conf/crypto/AdamsM87:::Carlisle M. Adams::Henk Meijer:::Security-Related Comments Regarding McEliece's Public-Key Cryptosystem.
+conf/crypto/Droste96:::Stefan Droste:::New Results on Visual Cryptography.
+conf/crypto/PreneelNRB93:::Bart Preneel::Marnix Nuttin::Vincent Rijmen::Johan Buelens:::Cryptanalysis of the CFB Mode of the DES with a Reduced Number of Rounds.
+conf/crypto/Mayers95:::Dominic Mayers:::On the Security of the Quantum Oblivious Transfer and Key Distribution Protocols.
+conf/crypto/Nielsen02a:::Jesper Buus Nielsen:::A Threshold Pseudorandom Function Construction and Its Applications.
+conf/crypto/Adleman82a:::Leonard M. Adleman:::On Breaking the Iterated Merkle-Hellman Public-Key Cryptosystem.
+conf/crypto/KelseySW96:::John Kelsey::Bruce Schneier::David Wagner:::Key-Schedule Cryptoanalysis of IDEA, G-DES, GOST, SAFER, and Triple-DES.
+conf/crypto/OdlyzkoLB83:::Ernest F. Brickell::J. C. Lagarias::Andrew M. Odlyzko:::Evaluation of the Adleman Attack on Multiply Iterated Knapsack Cryptosystems.
+conf/crypto/Jueneman82:::Robert R. Jueneman:::Analysis of Certain Aspects of Output Feedback Mode.
+conf/crypto/CusickW90:::Thomas W. Cusick::Michael C. Wood:::The REDOC II Cryptosystem.
+conf/crypto/Nielsen02:::Jesper Buus Nielsen:::Separating Random Oracle Proofs from Complexity Theoretic Proofs: The Non-committing Encryption Case.
+conf/crypto/Price89:::Wyn L. Price:::Progress in Data Security Standardization.
+conf/crypto/CramerDF01:::Ronald Cramer::Ivan Damgård::Serge Fehr:::On the Cost of Reconstructing a Secret, or VSS with Optimal Reconstruction Phase.
+conf/crypto/AbadiBLP91:::Martín Abadi::Michael Burrows::Butler W. Lampson::Gordon D. Plotkin:::A Calculus for Access Control in Distributed Systems.
+conf/crypto/VaziraniVB83:::Manuel Blum::Umesh V. Vazirani::Vijay V. Vazirani:::Reducibility Among Protocols.
+conf/crypto/MaurerM89:::Ueli M. Maurer::James L. Massey:::Perfect Local Randomness in Pseudo-Random Sequences.
+conf/crypto/JongeC86:::Wiebren de Jonge::David Chaum:::Some Variations on RSA Signatures and Their Security.
+conf/crypto/BlakleyR87:::G. R. Blakley::William Rundell:::Cryptosystems Based on an Analog of Heat Flow.
+conf/crypto/BeimelMM99:::Amos Beimel::Tal Malkin::Silvio Micali:::The All-or-Nothing Nature of Two-Party Secure Computation.
+conf/crypto/Rabin98:::Tal Rabin:::A Simplified Approach to Threshold and Proactive RSA.
+conf/crypto/Eberle92:::Hans Eberle:::A High-Speed DES Implementation for Network Applications.
+conf/crypto/QuisquaterQQQGGGGGGB89:::Jean-Jacques Quisquater::Myriam Quisquater::Muriel Quisquater::Michaël Quisquater::Louis C. Guillou::Marie Annick Guillou::Gaïd Guillou::Anna Guillou::Gwenolé Guillou::Soazig Guillou::Thomas A. Berson:::How to Explain Zero-Knowledge Protocols to Your Children.
+conf/crypto/RackoffS91:::Charles Rackoff::Daniel R. Simon:::Non-Interactive Zero-Knowledge Proof of Knowledge and Chosen Ciphertext Attack.
+conf/crypto/Rogaway95:::Phillip Rogaway:::Bucket Hashing and its Application to Fast Message Authentication.
+conf/crypto/Simmons85:::Gustavus J. Simmons:::A Secure Subliminal Channel (?).
+conf/crypto/Konheim84:::Alan G. Konheim:::Cryptanalysis of ADFGVX Encipherment Systems (Extended Abstract).
+conf/crypto/ItkisR02:::Gene Itkis::Leonid Reyzin:::SiBIR: Signer-Base Intrusion-Resilient Signatures.
+conf/crypto/Brickell83:::Ernest F. Brickell:::Solving Low Density Knapsacks.
+conf/crypto/AbadiABFH88:::Martín Abadi::Eric Allender::Andrei Z. Broder::Joan Feigenbaum::Lane A. Hemachandra:::On Generating Solved Instances of Computational Problems.
+conf/crypto/BlundoSCGV94:::Carlo Blundo::Alfredo De Santis::Giovanni Di Crescenzo::Antonio Giorgio Gaggia::Ugo Vaccaro:::Multi-Secret Sharing Schemes.
+conf/crypto/GalilHY85:::Zvi Galil::Stuart Haber::Moti Yung:::Symmetric Public-Key Encryption.
+conf/crypto/GalilHY87:::Zvi Galil::Stuart Haber::Moti Yung:::Cryptographic Computation: Secure Faut-Tolerant Protocols and the Public-Key Model.
+conf/crypto/Jakobson98:::Thomas Jakobson:::Cryptanalysis of Block Ciphers with Probabilistic Non-linear Relations of Low Degree.
+conf/crypto/WebsterT85:::A. F. Webster::Stafford E. Tavares:::On the Design of S-Boxes.
+conf/crypto/OorschotW96:::Paul C. van Oorschot::Michael J. Wiener:::Improving Implementable Meet-in-the-Middle Attacks by Orders of Magnitude.
+conf/crypto/BonehS01:::Dan Boneh::Igor Shparlinski:::On the Unpredictability of Bits of the Elliptic Curve Diffie--Hellman Scheme.
+conf/crypto/Rosen00:::Alon Rosen:::A Note on the Round-Complexity of Concurrent Zero-Knowledge.
+conf/crypto/DamgardN02a:::Ivan Damgård::Jesper Buus Nielsen:::Perfect Hiding and Perfect Binding Universally Composable Commitment Schemes with Constant Expansion Factor.
+conf/crypto/YacobiS89:::Yacov Yacobi::Zahava Shmuely:::On Key Distribution Systems.
+conf/crypto/Gasser81:::Morrie Gasser:::Limitations on the Use of Encryption to Enforce Mandatory Security.
+conf/crypto/GoldreichK89:::Oded Goldreich::Hugo Krawczyk:::Sparse Pseudorandom Distributions.
+conf/crypto/ZhengMI90:::Yuliang Zheng::Tsutomu Matsumoto::Hideki Imai:::Structural Properties of One-way Hash Functions.
+conf/crypto/ParkinD82:::Donald W. Davies::Graeme I. P. Parkin:::The Average Cycle Size of the Key Stream in Output Feedback Encipherment.
+conf/crypto/ImpagliazzoR88:::Russell Impagliazzo::Steven Rudich:::Limits on the Provable Consequences of One-way Permutations.
+conf/crypto/Shamir81:::Adi Shamir:::The Generation of Cryptographically Strong Pseudo-Random Sequences.
+conf/crypto/Shamir84:::Adi Shamir:::Identity-Based Cryptosystems and Signature Schemes.
+conf/crypto/Coppersmith99:::Don Coppersmith:::Weakness in Quaternion Signatures.
+conf/crypto/Blakley85:::G. R. Blakley:::Information Theory Without the Finiteness Assumption, II: Unfolding the DES.
+conf/crypto/FellD85:::Harriet J. Fell::Whitfield Diffie:::Analysis of a Public Key Approach Based on Polynomial Substitution.
+conf/crypto/Mihailescu94:::Preda Mihailescu:::Fast Generation of Provable Primes Using Search in Arithmetic Progressions.
+conf/crypto/EstesAKMM85:::Dennis Estes::Leonard M. Adleman::Kireeti Kompella::Kevin S. McCurley::Gary L. Miller:::Breaking the Ong-Schnorr-Shamir Signature Scheme for Quadratic Number Fields.
+conf/crypto/HenryN81:::Paul S. Henry::R. D. Nash:::High-Speed Hardware Implementation of the Knapsack Cipher.
+conf/crypto/CanettiGJKR99:::Ran Canetti::Rosario Gennaro::Stanislaw Jarecki::Hugo Krawczyk::Tal Rabin:::Adaptive Security for Threshold Cryptosystems.
+conf/crypto/Koblitz90:::Neal Koblitz:::Constructing Elliptic Curve Cryptosystems in Characteristic 2.
+conf/crypto/Koblitz98:::Neal Koblitz:::An Elliptic Curve Implementation of the Finite Field Digital Signature Algorithm.
+conf/crypto/BlundoMS96:::Carlo Blundo::Luiz A. Frota Mattos::Douglas R. Stinson:::Trade-offs Between Communication and Storage in Unconditionally Secure Schemes for Broadcast Encryption and Interactive Key Distribution.
+conf/crypto/PfitzmannW91:::Birgit Pfitzmann::Michael Waidner:::How To Break and Repair A "Provably Secure" Untraceable Payment System.
+conf/crypto/GuillouQ87:::Louis C. Guillou::Jean-Jacques Quisquater:::Efficient Digital Public-Key Signature with Shadow (Abstract).
+conf/crypto/Kaliski84:::Burton S. Kaliski Jr.:::Wyner's Analog Encryption Scheme: Results of a Simulation.
+conf/crypto/Patarin95:::Jacques Patarin:::Cryptoanalysis of the Matsumoto and Imai Public Key Scheme of Eurocrypt'88.
+conf/crypto/BrierCCN01:::Eric Brier::Christophe Clavier::Jean-Sébastien Coron::David Naccache:::Cryptanalysis of RSA Signatures with Fixed-Pattern Padding.
+conf/crypto/GoldreichKL88:::Oded Goldreich::Hugo Krawczyk::Michael Luby:::On the Existence of Pseudorandom Generators.
+conf/crypto/AndersonN95:::Ross J. Anderson::Roger M. Needham:::Robustness Principles for Public Key Protocols.
+conf/crypto/GraafP87:::Jeroen van de Graaf::René Peralta:::A Simple and Secure Way to Show the Validity of Your Public Key.
+conf/crypto/Gehrmann94:::Christian Gehrmann:::Cryptanalysis of the Gemmell and Naor Multiround Authentication Protocol.
+conf/crypto/Davies81:::Donald W. Davies:::Some Regular Properties of the DES.
+conf/crypto/Davies84:::Donald W. Davies:::A Message Authenticator Algorithm Suitable for A Mainframe Computer.
+conf/crypto/Adleman88:::Leonard M. Adleman:::An Abstract Theory of Computer Viruses.
+conf/crypto/MoritaOM91:::Hikaru Morita::Kazuo Ohta::Shoji Miyaguchi:::A Switching Closure Test to Analyze Cryptosystems.
+conf/crypto/KumarRS99:::Ravi Kumar::Sridhar Rajagopalan::Amit Sahai:::Coding Constructions for Blacklisting Problems without Computational Assumptions.
+conf/crypto/Vercauteren02:::Frederik Vercauteren:::Computing Zeta Functions of Hyperelliptic Curves over Finite Fields of Characteristic 2.
+conf/crypto/BeaverFKR90:::Donald Beaver::Joan Feigenbaum::Joe Kilian::Phillip Rogaway:::Security with Low Communication Overhead.
+conf/crypto/Plumstead82:::Joan B. Plumstead:::Inferring a Sequence Produced by a Linear Congruence.
+conf/crypto/DesmedtF89:::Yvo Desmedt::Yair Frankel:::Threshold Cryptosystems.
+conf/crypto/TaylorA82:::Selim G. Akl::Peter D. Taylor:::Cryptographic Solution to a Multilevel Security Problem.
+conf/crypto/BellareG92:::Mihir Bellare::Oded Goldreich:::On Defining Proofs of Knowledge.
+conf/crypto/BellareR93:::Mihir Bellare::Phillip Rogaway:::Entity Authentication and Key Distribution.
+conf/crypto/BergerKP85:::Richard Berger::Sampath Kannan::René Peralta:::A Framework for the Study of Cryptographic Protocols.
+conf/crypto/ChaumDG87:::David Chaum::Ivan Damgård::Jeroen van de Graaf:::Multiparty Computations Ensuring Privacy of Each Party's Input and Correctness of the Result.
+conf/crypto/Ben-AroyaB93:::Ishai Ben-Aroya::Eli Biham:::Differtial Cryptanalysis of Lucifer.
+conf/crypto/ChaoTT94:::Jinhui Chao::Kazuo Tanada::Shigeo Tsujii:::Design of Elliptic Curves with Controllable Lower Boundary of Extension Degree for Reduction Attacks.
+conf/crypto/Kemmerer87:::Richard A. Kemmerer:::Analyzing Encryption Protocols Using Formal Verification Authentication Schemes.
+conf/crypto/Chaum84a:::David Chaum:::How to Keep a Secret Alive: Extensible Partial Key, Key Safeguarding, and Threshold Systems.
+conf/crypto/ChaumA89:::David Chaum::Hans Van Antwerpen:::Undeniable Signatures.
+conf/crypto/ChaumE85:::David Chaum::Jan-Hendrik Evertse:::Crytanalysis of DES with a Reduced Number of Rounds: Sequences of Linear Factors in Block Ciphers.
+conf/crypto/ChaumE86:::David Chaum::Jan-Hendrik Evertse:::A Secure and Privacy-protecting Protocol for Transmitting Personal Information Between Organizations.
+conf/mmmacns/DasguptaG01:::Dipankar Dasgupta::Fabio A. González:::An Intelligent Decision Support System for Intrusion Detection and Response.
+conf/mmmacns/Smirnov03:::Michael Smirnov:::Rule-Based Systems Security Model.
+conf/mmmacns/WeeM03:::Kyubum Wee::Byungeun Moon:::Automatic Generation of Finite State Automata for Detecting Intrusions Using System Call Sequences.
+conf/mmmacns/ShanmugasundaramMSB03:::Kulesh Shanmugasundaram::Nasir D. Memon::Anubhav Savant::Hervé Brönnimann:::ForNet: A Distributed Forensics Network.
+conf/mmmacns/ZhangWZ03a:::Xinpeng Zhang::Shuozhong Wang::Kaiwen Zhang:::Steganography with Least Histogram Abnormality.
+conf/mmmacns/Martinelli03:::Fabio Martinelli:::Symbolic Partial Model Checking for Security Analysis.
+conf/mmmacns/Barker01:::Steve Barker:::TRBAC: A Temporal Authorization Model.
+conf/mmmacns/Barker03:::Steve Barker:::Distributed Access Control: A Logic-Based Approach.
+conf/mmmacns/IzotovMM01:::Boris V. Izotov::Alexander A. Moldovyan::Nick A. Moldovyan:::Controlled Operations as a Cryptographic Primitive.
+conf/mmmacns/KotenkoM03:::Igor V. Kotenko::E. Man'kov:::Experiments with Simulation of Attacks against Computer Networks.
+conf/cvrmed/BardinetCA95:::Eric Bardinet::Laurent D. Cohen::Nicholas Ayache:::Superquadrics and Free-Form Deformations: A Global Model to Fit and Track 3D Medical Data.
+conf/cvrmed/DeclerckFA97:::Jérôme Declerck::Jacques Feldmar::Nicholas Ayache:::Definition of a 4D continuous polar transformation for the tracking and the analysis of LV motion.
+conf/cvrmed/RueckertB97:::Daniel Rueckert::Peter Burger:::Shape-based segmentation and tracking in 4D cardiac MR images.
+conf/cvrmed/McInerneyT95:::Tim McInerney::Demetri Terzopoulos:::Medical Image Segmentation Using Topologically Adaptable Snakes.
+conf/cvrmed/GrimsonEWGLWK95:::W. Eric L. Grimson::Gil J. Ettinger::Steve J. White::P. Langham Gleason::Tomás Lozano-Pérez::William M. Wells III::Ron Kikinis:::Evaluating and Validating an Automated Registration System for Enhanced Reality Visualization in Surgery.
+conf/cvrmed/TroccazPD97:::Jocelyne Troccaz::Michael A. Peshkin::Brian L. Davies:::The use of localizers, robots and synergistic devices in CAS.
+conf/cvrmed/MasutaniKSD95:::Yoshitaka Masutani::Tsuyoshi Kurihara::Makoto Suzuki::Takeyoshi Dohi:::Quantitative Vascular Shape Analysis for 3D MR-Angiography Using Mathematical Morphology.
+conf/cvrmed/EeuwijkLG97:::Alexander H. W. van Eeuwijk::Steven Lobregt::Frans A. Gerritsen:::A novel method for digital X-ray imaging of the complete spine.
+conf/cvrmed/AlusiTLRW97:::G. H. Alusi::A. C. Tan::A. D. Linney::K. Raoof::A. Wright:::Three dimensional tracking with ultrasound for augmented reality applications in skull base surgery.
+conf/cvrmed/KarronC95:::Daniel B. Karron::James Cox:::Extracting 3D Objects from Volume Data Using Digital Morse Theory.
+conf/cvrmed/CarozzaLMDD97:::M. C. Carozza::L. Lencioni::B. Magnani::Simona D'Attanasio::Paolo Dario:::The development of a microrobot system for colonoscopy.
+conf/cvrmed/HamadehLSCP95:::Ali Hamadeh::Stéphane Lavallée::Richard Szeliski::Philippe Cinquin::Olivier Péria:::Anatomy-Based Registration for Computer-Integrated Surgery.
+conf/cvrmed/CoatrieuxMTC95:::Jean-Louis Coatrieux::F. Mao::C. Toumoulin::R. Collorec:::2D and 3D Motion Analysis in Digital Subtraction Angiography.
+conf/ecmast/JohanssonAFKVHD97:::Bengt-Erik Johansson::Mikael Andréasson::Hannu Flinck::Matti Kalervo::Osmo Vuorenmaa::Petra Hoepner::Raymond DaSilva:::Divide Your Systems to Conquer the Market.
+conf/ecmast/HartungG97:::Frank Hartung::Bernd Girod:::Copyright Protection in Video Delivery Networks by Watermarking of Precompressed Video.
+conf/ecmast/MartinYM99:::T. Martin::J. You::Alan Marshall:::Analysis of a Multiple Service MAC Layer For Two-Way Two-Layer LMDS Networks.
+conf/ecmast/RobertsonHFKB98:::P. Robertson::H.-P. Huth::K. Fazel::O. Klank::W. Bauerschmidt:::A System Design for a Wireless Home Multi-Media LAN.
+conf/ecmast/LeisenbergL98:::Manfred Leisenberg::Tommi Lindgren:::MOMENTS - Multimedia Services in a Narrow-Bandwith Cellular Environment.
+conf/ecmast/KunkelmannVMW98:::Thomas Kunkelmann::Hartmut Vogler::Marie-Luise Moschgarth::Lars C. Wolf:::Scalable Security Mechanisms in Transport Systems for Enhanced Multimedia Services.
+conf/ecmast/CortesL98:::Francisco Cortes::Reinhard Lüling:::A Parallel Continuous Media Server Complying to the RTSP Protocol.
+conf/ecmast/DarmstaedterDNM98:::V. Darmstaedter::Jean-Francois Delaigle::David Nicholson::Benoit M. Macq:::A Block Based Watermarking Technique for MPEG2 Signals: Optimization and Validation on Real Digital TV Distribution Links.
+conf/ecmast/KollerBW97:::Franz Koller::Michael Burmester::Andrea Wöhr:::User Interfaces for Interactive TV - A Case Study with End Users.
+conf/ecmast/DjerabaB97:::Chabane Djeraba::Henri Briand:::Temporal and Interactive Relations in a Multimedia Database System.
+conf/ecmast/GerkenSKCCQDBBSBMDG99:::Peter Gerken::Stefan Schultz::Gerald Knabe::Franco Casalino::Gianluca Di Cagno::Mauro Quaglia::Jean-Claude Dufourd::Souhila Boughoufalah::Frédéric Bouilhaguet::Michael Stepping::Thomas Bonse::Ulrich Mayer::Jürgen Deicke::Manfred Glesner:::MPEG-4 PC - Authoring and Playing of MPEG-4 Content for Local and Broadcast Applications.
+conf/doceng/RenearDS02:::Allen Renear::David Dubin::C. M. Sperberg-McQueen:::Towards a semantics for XML markup.
+conf/doceng/Muchaluat-SaadeS01:::Débora C. Muchaluat-Saade::Luiz Fernando G. Soares:::Towards the convergence between hypermedia authoring languages and architecture description languages.
+conf/doceng/VarlamisV01:::Iraklis Varlamis::Michalis Vazirgiannis:::Bridging XML-schema and relational databases: a system for generating and manipulating relational databases using valid XML documents.
+conf/doceng/AllierE02:::Bénédicte Allier::Hubert Emptoz:::Degraded character image restoration using active contours: a first approach.
+conf/doceng/PhelpsW01:::Thomas A. Phelps::Robert Wilensky:::The multivalent browser: a platform for new ideas.
+conf/doceng/Villard01:::Lionel Villard:::Authoring transformations by direct manipulation for adaptable multimedia presentations.
+conf/ecoopw/Pavillet98:::Gabriel Pavillet:::Integration of Object-Based Knowledge Representation in a Reflective Object-Oriented Language.
+conf/ecoopw/Huttemann99:::Stefan Hüttemann:::Object-Oriented Concepts for Parallel Smoothed Particle Hydrodynamics Simulations.
+conf/ecoopw/Vieth98:::Werner Vieth:::Using Object Orientation to Improve the Software of the German Shoe Industry.
+conf/ecoopw/Gray98:::Robert S. Gray:::D'Agents: Future Security Directions.
+conf/ecoopw/Hof99:::Markus Hof:::A Framework for Arbitrary Invocation Semantics.
+conf/ecoopw/Pazzi99:::Luca Pazzi:::Explicit Aspect Composition by Part-Whole State Charts.
+conf/ecoopw/Ruonavaara97:::Markku Ruonavaara:::Adding Architecture to Design.
+conf/ecoopw/IbrahimS98:::Rosziati Ibrahim::Clemens A. Szyperski:::Formalization of Component Object Model (COM) - The COMEL Language.
+conf/ecoopw/ZeidlerF93:::Christian Zeidler::Bernhard Fank:::Integrating Structural and Operational Programming to Manage Distributed Systems.
+conf/ecoopw/Kimelman98:::Doug Kimelman:::The Distribution Aspect - A Meeting Ground Between Tool and Programs.
+conf/ecoopw/MatsuokaWIY91:::Satoshi Matsuoka::Takuo Watanabe::Yuuji Ichisugi::Akinori Yonezawa:::Object-Oriented Concurrent Reflective Architectures.
+conf/ecoopw/RomeroPABP98:::Natalia Romero::María José Presso::Verónica Argañaraz::Gabriel Baum::Maximo Prieto:::Purpose: Between Types and Code.
+conf/ecoopw/GarbinatoGM93:::Benoît Garbinato::Rachid Guerraoui::Karim Mazouni:::Distributed Programming in GARF.
+conf/ecoopw/MeuterCDT02:::Wolfgang De Meuter::Pascal Costanza::Martine Devos::Dave Thomas:::Feyerabend: Redefining Computing.
+conf/ecoopw/Seiter98:::Linda M. Seiter:::A Java Architecture for Dynamic Object and Framework Customizations.
+conf/ecoopw/ClarkeC99:::Michael Clarke::Geoff Coulson:::An Explicit Binding Model for Runtime Extensible Operating Systems.
+conf/ecoopw/GuerriniMFKM99:::Giovanna Guerrini::Isabella Merlo::Elena Ferrari::Gerti Kappel::Adoración de Miguel Castaño:::Object-Oriented Database.
+conf/ecoopw/DemeyerD98:::Serge Demeyer::Stephane Ducasse:::Do Metrics Support Framework Development?
+conf/ecoopw/LeinoSS99:::K. Rustan M. Leino::James B. Saxe::Raymie Stata:::Checking Java Programs via Guarded Commands.
+conf/ecoopw/BrandtM93:::Søren Brandt::Ole Lehrmann Madsen:::Object-Oriented Distributed Programming in BETA.
+conf/ecoopw/Kendall98:::Elizabeth A. Kendall:::Partitioning Goals with Roles.
+conf/ecoopw/Steensgaard-Madsen97:::Jørgen Steensgaard-Madsen:::A Generator for Composition Interpreters.
+conf/ecoopw/Lunau98a:::Charlotte Pii Lunau:::Is Composition of Metaobjects = Aspect Oriented Programming.
+conf/ecoopw/HameurlainS99:::Nabil Hameurlain::Christophe Sibertin-Blanc:::Behavioural Types in CoOperative Objects.
+conf/ecoopw/LakosL99:::Charles Lakos::Glenn Lewis:::A Practical Approach to Behavioural Inheritance in the Context of Coloured Petri Nets.
+conf/ecoopw/LeubckeN99:::J. Leubcke::Ulf Nilsson:::On-the-Fly Model Checking of CTL Formulas Using Constraint Logic Programming.
+conf/ecoopw/Dochx98:::Jan Dochx:::Reflections on a Demonstration Chair.
+conf/ecoopw/Wohlrab97:::Lutz Wohlrab:::Configuration and Adaptation Management for Object-Oriented Operating Systems.
+conf/ecoopw/DmitrievA99:::Misha Dmitriev::Malcolm P. Atkinson:::Evolutionary Data Conversion in the PJama Persistent Language.
+conf/ecoopw/AbreuOG99:::Fernando Brito e Abreu::Luis Ochoa::Miguel Goulão:::The GOODLY Design Language for MOOD2 Metrics Collection.
+conf/ecoopw/BergmansL99:::Lodewijk Bergmans::Cristina Videira Lopes:::Aspect-Oriented Programming.
+conf/ecoopw/SiekL98:::Jeremy G. Siek::Andrew Lumsdaine:::The Matrix Template Library: A Unifying Framework for Numerical Linear Algebra.
+conf/ecoopw/Meisingset97:::Arve Meisingset:::Difficulties with Mapping OMT Specifications into GDMO.
+conf/ecoopw/Schnizler98:::Moritz Schnizler:::A Test Bench for Software.
+conf/ecoopw/Schmedding99:::Doris Schmedding:::Objects First, Modeling Is Important.
+conf/ecoopw/BoissierEGHLR98:::R. Boissier::M. Evivent::Eric Gressier-Soudan::François Horn::A. Laurent::D. Razafindramary:::Providing Real-Time Object Oriented Industrial Messaging Services.
+conf/ecoopw/Knolmayer98:::Gerhard Knolmayer:::Business Rules Layers Between Processes and Workflow Modeling: An Object-Oriented Perspective.
+conf/ecoopw/RamaswamyN99:::Ramkumar Ramaswamy::Uttara Nerurkar:::Creating Malleable Architectures for Application Software Product Families.
+conf/ecoopw/MensLTK97:::Kim Mens::Cristina Videira Lopes::Bedir Tekinerdogan::Gregor Kiczales:::Aspect-Oriented Programming Workshop Report.
+conf/ecoopw/Bollert99a:::Kai Böllert:::Aspect-Oriented Programming in Smalltalk.
+conf/ecoopw/MensG01:::Tom Mens::Galal Hassan Galal:::4th Workshop on Object-Oriented Architectural Evolution.
+conf/ecoopw/ZnatyH97:::Simon Znaty::Jean-Pierre Hubaux:::Workshop 1: Object-Oriented Technology for Telecommunications Services Engineering (Introduction).
+conf/ecoopw/GreefhorstEMM98:::Danny Greefhorst::Mark van Elswijk::Mattijs Maat::Rob Maijers:::Evaluating OO-CASE Tools: OO Research Meets Practice.
+conf/ecoopw/WelchS99:::Ian Welch::Robert J. Stroud:::Runtime Implementation of Aspects Using Kava.
+conf/ecoopw/Alexander98:::Ian F. Alexander:::Requirements Capture Using Goals.
+conf/ecoopw/Galal99:::Galal Hassan Galal:::A Note on Scenarios in Software Architecting.
+conf/ecoopw/ChibaNKOM97:::Shigeru Chiba::Takeshi Nishimura::Kenichi Kourai::Atsushi Ohnoki::Takashi Masuda:::Weak Protection for Reflective Operating Systems.
+conf/ecoopw/Nowack97:::Palle Nowack:::Architectural Abstractions for Frameworks.
+conf/ecoopw/Steindl98:::Christoph Steindl:::Intermodular Slicing of Object-Oriented Programs.
+conf/ecoopw/Tschudin99:::Christian F. Tschudin:::Apoptosis - the Programmed Death of Distributed Services.
+conf/ecoopw/NagaratnamL98:::Nataraj Nagaratnam::Doug Lea:::Role-Based Protection and Delegation for Mobile Object Environments.
+conf/ecoopw/OuthredP98:::Geoffrey H. Outhred::John Potter:::Component Composition with Sharing.
+conf/ecoopw/HennessyR99:::Matthew Hennessy::James Riely:::Type-Safe Execution of Mobile Agents in Anonymous Networks.
+conf/ecoopw/OssherT98:::Harold Ossher::Peri L. Tarr:::OO-in-the-Large: Software Development with Subject-Oriented Programming.
+conf/ecoopw/AmbriolaG98:::Vincenzo Ambriola::Vincenzo Gervasi:::The Case for Cooperative Requirement Writing.
+conf/ecoopw/DoornABW99:::Leendert van Doorn::Martín Abadi::Michael Burrows::Edward Wobber:::Secure Network Objects.
+conf/ecoopw/SilvaA99:::António Rito Silva::Miguel Antunes:::From DASCo to MOOSCo: MOO with Separation of Concerns.
+conf/ecoopw/Kantorowitz97:::Eliezer Kantorowitz:::On Implementation and Extension Complexities.
+conf/ecoopw/GolmK97:::Michael Golm::Jürgen Kleinöder:::Implementing Real-Time Actors with MetaJava.
+conf/ecoopw/BorneDG99:::Isabelle Borne::Serge Demeyer::Galal Hassan Galal:::Object-Oriented Architectural Evolution.
+conf/ecoopw/BoschSW02:::Jan Bosch::Clemens A. Szyperski::Wolfgang Weck:::Component-Oriented Programming.
+conf/ecoopw/Abello99:::Alberto Abelló:::The BLOOM Model Revisited: An Evolution Proposal.
+conf/ecoopw/DecheringJ99:::Paul Dechering::Edwin D. de Jong:::Transparent Process Replication in a Shared Data Space Architecture for Distributed Systems.
+conf/ecoopw/Madsen99:::Ole Lehrmann Madsen:::COM Suppot in BETA.
+conf/ecoopw/EvansFGHS99:::Andy Evans::Robert B. France::Guy Genilloud::Brian Henderson-Sellers::Perdita Stevens:::Aggregation.
+conf/microcomputing/Bode79:::Arndt Bode:::Bitslice-Mikroprozessoren und Monoprozessorstrukturen.
+conf/microcomputing/CzerwinskiP79:::Manfred Czerwinski::Ewald von Puttkamer:::Entwurf eines Parallelrechners mit sehr vielen Mikroprozessoren.
+conf/microcomputing/Wirth79:::Niklaus Wirth:::A Personal Computer Designed for Use with a High-Level Language.
+conf/microcomputing/Budenbender79:::H.-W. Büdenbender:::Gleitkomma-Arithmetik-Einheit für ein Mikroprozessor-System.
+conf/microcomputing/Remmele83:::Werner Remmele:::Schlüsseltechnologie Mikroelektronik - Schlüssel wozu.
+conf/microcomputing/SchoffelT79:::Josef Schöffel::Rudolf Thurmayr:::Halbautomatische Berichterstellung und Datenerfassung am Beispiel von Berichten über chirurgische Eingriffe im Klinkum rechts der Isar mit Hilfe eines Mikrorechnersystem.

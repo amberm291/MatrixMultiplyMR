@@ -1,0 +1,200 @@
+conf/cmg/Quigley95:::James P. Quigley:::Computers Don't Sweat Or Performance Metrics In The Distributed Computing Environment.
+conf/cmg/JenningsL94:::Thad Jennings::David C. LeGrys:::Predicting Program Paging Behavior: a Case Study on AIX.
+conf/cmg/Beretvas83:::Thomas Beretvas:::Page/Swap Configurations.
+conf/cmg/Beretvas87:::Thomas Beretvas:::Paging Analysis in an Expanded Storage Environment.
+conf/cmg/Beretvas98:::Thomas Beretvas:::DASD Tuning in the New DASD Environment.
+conf/cmg/RocheNG96:::Larry Roche::Henry Newman::Johannes Grawe:::Operational Needs for Software Products That Manage Batch Workloads and Distributed Computers.
+conf/cmg/Hudders88:::Eugene S. Hudders:::VSAM-Guidelines to Optimization and Design.
+conf/cmg/Cabrera84:::Luis-Felipe Cabrera:::An Introduction to UNIX Systems and Their Performance - A Tutorial.
+conf/cmg/Leganza90:::Gene M. Leganza:::Coping with Stress Tests: Managing the Application Benchmark.
+conf/cmg/Leganza95:::Gene M. Leganza:::SPE: A Methodology For Building Performance Into Client/Server Applications.
+conf/cmg/LazowskaZGS83:::Edward D. Lazowska::John Zahorjan::G. Scott Graham::Kenneth C. Sevcik:::Quantitative System Performance Computer System Analysis Using Queueing Network Models.
+conf/cmg/HardO94:::Donald W. Hard::Timothy S. O'Connor:::Information System Performance Evaluation Using Remote Terminal Emulation Technology.
+conf/cmg/Steinhauer85:::Henry Steinhauer:::How to Get Better Response from a Highly Modular Application. or What Do You Do When Structured Techniques Invade an IMS Shop.
+conf/cmg/Fannin79:::Daniel P. C. Fannin:::Relationship of Computer Performance Evaluation &amp; Information Systems Security.
+conf/cmg/McGavin00a:::Charles T. McGavin Jr.:::A SAN Is Born - An Installation Experience.
+conf/cmg/Stephan94:::Richard H. Stephan:::LAN Systems Management Tool Selection Framework.
+conf/cmg/Hughes80:::Herman D. Hughes:::A Study of a Procedure for Reducing the Feature Set of Workload Data.
+conf/cmg/Ellsworth96:::Bob Ellsworth:::The Effects Of MP Serialization On Logical Partitioning Capacity.
+conf/cmg/Bereznay87:::Frank M. Bereznay:::VSAM Specification and Tuning: Optimization of VSAM Performance in Batch and CICS Environments.
+conf/cmg/ZaleskiS97:::John R. Zaleski::Keith E. Silliman:::High Fidelity Measurement of Disk I/O Response Time Using Standard AIX Monitoring Tools.
+conf/cmg/Hellerstein97:::Joseph L. Hellerstein:::Automated Tuning Systems: Beyond Decision Support.
+conf/cmg/MacFarlandB95:::Tom H. MacFarland::Glen Bechtold:::Performance Management In A Large Scale Client Server Environment: The Do's And Dont's - A Case Study.
+conf/cmg/Becker83:::Glen Becker:::Modelling the Memory Impact of TSO and Batch Growth.
+conf/cmg/NoseK96:::Junro Nose::Mikio Kiyota:::Optimizing Database Allocations.
+conf/cmg/NoseO98:::Junro Nose::Jun Ohyama:::Performance Measurement Methodology: Passive vs. Active.
+conf/cmg/Gunther94:::Jack K. Gunther:::Benchmarking a Client/Server.
+conf/cmg/Botterbusch98:::Roger P. Botterbusch:::Workload Forecasting Issues for World Wide (and Web) Applications.
+conf/cmg/McNutt94:::Bruce McNutt:::A Survey of MVS Cache Locality by Data Pool: The Multiple Workload Approach Revisited.
+conf/cmg/McNutt97:::Bruce McNutt:::Analysis of Hierarchical Storage Management: A Model and Case Study.
+conf/cmg/Mullen88a:::J. William Mullen:::MVS/XA Performance and Resource Measurement Facility(RMF) Data Analysis.
+conf/cmg/Ahles89:::Eileen B. Ahles:::Meaningful Chargeback Reporting.
+conf/cmg/FioriniD02:::Pierre M. Fiorini::Yiping Ding:::On the Performability of Computing Systems: An Analytic Approach.
+conf/das/LeeH98:::Dar-Shyang Lee::Jonathan J. Hull:::Group 4 Compressed Document Matching.
+conf/das/LiDK98:::Huiping Li::David S. Doermann::Omid E. Kia:::Text Extraction, Enhancement and OCR in Digital Video.
+conf/das/FilatovNVZ98:::Alexander Filatov::Vadim Nikitin::Alexander Volgunin::Pavel Zelinsky:::The <i>Address</i>Script<sup>TM</sup> Recognition System for Handwritten Envelopes.
+conf/das/KogaMSF98:::Masashi Koga::Ryuji Mine::Hiroshi Sako::Hiromichi Fujisawa:::Lexical Search Approach for Character-String Recognition.
+conf/das/SakoFFW02:::Hiroshi Sako::Naohiro Furukawa::Masakazu Fujio::Shigeru Watanabe:::Document-Form Identification Using Constellation Matching of Keywords Abstracted by Character Recognition.
+conf/das/TodoranWS02:::Leon Todoran::Marcel Worring::Arnold W. M. Smeulders:::Data GroundTruth, Complexity, and Evaluation Measures for Color Document Analysis.
+conf/das/AparnaR02:::K. G. Aparna::A. G. Ramakrishnan:::A Complete Tamil Optical Character Recognition System.
+conf/das/VezzosiBT02:::Stefano Vezzosi::Luigi Bedini::Anna Tonazzini:::An Integrated System for the Analysis and the Recognition of Characters in Ancient Documents.
+conf/das/Murshed02:::Nabeel A. Murshed:::Automatic Reading of Traffic Tickets.
+conf/dcc/ConstantinescuA02:::Corneliu Constantinescu::Ronald Arps:::Fast Peak Autocorrelation Finding for Periodicity-Exploiting Compression Methods.
+conf/dcc/AaronG02:::Anne Aaron::Bernd Girod:::Compression with Side Information Using Turbo Codes.
+conf/dcc/Li02:::Xin Li:::Low Bit Rate Image Coding in the Scale Space.
+conf/dcc/Wu93:::X. Wu:::Globally Optimal Bit Allocation.
+conf/dcc/ItagakiY00:::Suguru Itagaki::Hidetoshi Yokoo:::PPM*-Style Context Sorting Compression Method Using a Prefix List.
+conf/dcc/Horspool95:::R. Nigel Horspool:::The Effect of Non-Greedy Parsing in Ziv-Lempel Compression Methods.
+conf/dcc/GuivarchCS00:::Lionel Guivarch::Jean-Claude Carlach::Pierre Siohan:::Joint Source-Channel Soft Decoding of Huffman Codes with Turbo-Codes.
+conf/dcc/FanC98:::G. L. Fan::W. K. Cham:::Post-Processing for Low Bit-Rate Wavelet-Based Image Coding Using Multiscale Edge Characterization.
+conf/dcc/NakanoYOY94:::Y. Nakano::H. Yahagi::Y. Okada::S. Yoshida:::Highly Efficient Universal Coding with Classifying to Subdictionaries for Text Compression.
+conf/dcc/RegunathanRG97:::Shankar L. Regunathan::Kenneth Rose::Shrinivas Gadkari:::Multimode Image Coding for Noisy Channels.
+conf/dcc/WakinRCB02:::Michael Wakin::Justin K. Romberg::Hyeokho Choi::Richard G. Baraniuk:::Image Compression using an Efficient Edge Cartoon + Texture Model.
+conf/dcc/ParkM99:::MoonSeo Park::David J. Miller:::Improved Joint Source-Channel Decoding for Variable-Length Encoded Data Using Soft Decisions and MMSE Estimation.
+conf/dcc/ShlepakovS00:::Dmitriy V. Shlepakov::Leonard N. Shlepakov:::On Zonal Morphological Approach to Natural Language Texts Processing.
+conf/dcc/JiS99:::Tingfang Ji::Wayne E. Stark:::Modified Viterbi Algorithm for Predictive TCQ.
+conf/dcc/Li02b:::Xin Li:::Embedded Coding of Palette Images in the Topological Space.
+conf/dcc/Lee00:::Wee Sun Lee:::Trees, Windows, and Tiles for Wavelet Image Compression.
+conf/dcc/WangS01:::Yong Wang::Mandyam D. Srinath:::Error Resilient Packet Video with Unequal Error Protection.
+conf/dcc/LarssonM99:::N. Jesper Larsson::Alistair Moffat:::Offline Dictionary-Based Compression.
+conf/dcc/WuB03:::Xintao Wu::Daniel Barbará:::Compressing High Dimensional Datasets by Fractals.
+conf/dcc/WuD02:::Xiaolin Wu::Sorina Dumitrescu:::On Optimal Multi-resolution Scalar Quantization.
+conf/dcc/WuZ94:::Xiaolin Wu::Kaizhong Zhang:::A Subjective Distortion Measure for Vector Quantization.
+conf/dcc/Xue99:::Xiaohui Xue:::Image Compression Based on Low-Pass Wavelet Transform and Multi-Scale Edge Compensation, Part I: MSEC Model.
+conf/dcc/LinG99:::Ken K. Lin::Robert M. Gray:::Vector Quantization of Video with Two Codebooks.
+conf/dcc/LinS93:::Jianhua Lin::James A. Storer:::Design and Performance of Tree-Structured Vector Quantizers.
+conf/dcc/HongLR01:::Edwin S. Hong::Richard E. Ladner::Eve A. Riskin:::Group Testing for Wavelet Packet Image Compression.
+conf/dcc/PrakashSSS03:::J. Prakash::C. Sandeep::Priti Shankar::Y. N. Srikant:::A Simple and Fast Scheme for Code Compression for VLIW Processors.
+conf/dcc/DevoreJL91:::Ronald A. DeVore::Bjorn D. Jawerth::Bradley J. Lucier:::Data Compression Using Wavelets: Errors, Smoothness, and Quantization.
+conf/dcc/PereiraAB03:::Manuela Pereira::Marc Antonini::Michel Barlaud:::Multiple description coding for noisy-varying channels.
+conf/dcc/Miettinen96:::Kristo Miettinen:::Low Bitrate Compression With Downsampling and JPEG.
+conf/dcc/Krivoulets02:::Alexandre Krivoulets:::On Coding of Sources with Two-Sided Geometric Distribution Using Binary Decomposition.
+conf/dcc/JafarkhaniT98:::Hamid Jafarkhani::Vahid Tarokh:::Successively Refinable Trellis Coded Quantization.
+conf/dcc/WongMH96:::Ping Wah Wong::Nader Moayeri::Cormac Herley:::Optimum Pre- and Post Filters for Robust Scalar Quantization.
+conf/dcc/FranceschiniM96:::Robert Franceschini::Amar Mukherjee:::Data Compression Using Encrypted Text.
+conf/dcc/GrumbachT93:::Stéphane Grumbach::Fariza Tahi:::Compression of DNA Sequences.
+conf/dcc/BajajPZ99:::Chandrajit L. Bajaj::Valerio Pascucci::Guozhong Zhuang:::Single Resolution Compression of Arbitrary Triangular Meshes with Properties.
+conf/dcc/ChiuB96:::Yi-Jen Chiu::Toby Berger:::Video Compression Using Fax Techniques.
+conf/dcc/TaylorCJ93:::H. H. Taylor::D. Chin::A. W. Jessup:::An MPEG Encoder Implementation on the Princeton Engine Video Supercomputer.
+conf/dcc/DemirS98:::N. Demir::Khalid Sayood:::Joint Source/Channel Coding for Variable Length Codes.
+conf/dcc/Nekritch00:::Yakov Nekrich:::Decoding of Canonical Huffman Codes with Look-Up Tables.
+conf/dcc/YanKLK99:::Zhidong Yan::Sunil Kumar::Jiankun Li::C. C. Jay Kuo:::Reversible Variable Length Codes (RVLC) for Robust Coding of 3D Topological Mesh Data.
+conf/dcc/PradhanR00:::S. Sandeep Pradhan::Kannan Ramchandran:::Distributed Source Coding: Symmetric Rates and Applications to Sensor Networks.
+conf/dcc/PradhanR99:::S. Sandeep Pradhan::Kannan Ramchandran:::Distributed Source Coding Using Syndromes (DISCUS): Design and Construction.
+conf/dcc/AdlerM01:::Micah Adler::Michael Mitzenmacher:::Towards Compressing Web Graphs.
+conf/dcc/ReznikS02:::Yuriy A. Reznik::Wojciech Szpankowski:::Improved Behaviour of Tries by the "Symmetrization" of the Source.
+conf/dcc/KariG98:::Jarkko Kari::Mihai Gavrilescu:::Intensity Controlled Motion Compensation.
+conf/dcc/OrdentlichWS98:::Erik Ordentlich::Marcelo J. Weinberger::Gadiel Seroussi:::A Low-Complexity Modeling Approach for Embedded Coding of Wavelet Coefficients.
+conf/dcc/FederM95:::Meir Feder::Neri Merhav:::Universal Coding for Arbitrarily Varying Sources and for Hierarchies of Model Classes.
+conf/dcc/ParreinNG01:::B. Parrein::N. Normand::J. P. Guédon:::Multiple Description Coding Using Exact Discrete Radon Transform.
+conf/dcc/Jones91:::Douglas W. Jones:::Practical Evaluation of a Data Compression Algorithm.
+conf/dcc/SheinwaldLZ91:::Dafna Sheinwald::Abraham Lempel::Jacob Ziv:::On Compression with Two-Way Head Machines.
+conf/dcc/HowardV91a:::Paul G. Howard::Jeffrey Scott Vitter:::New Methods for Lossless Image Compression Using Arithmetic Coding.
+conf/dcc/LangdonGS92:::Glen G. Langdon Jr.::A. Gulati::E. Seiler:::On the JPEG Model for Lossless Image Compression.
+conf/dcc/Servetto00:::Sergio D. Servetto:::Lattice Quantization with Side Information.
+conf/dcc/Bunton97:::Suzanne Bunton:::A Percolating State Selector for Suffix-Tree Context Models.
+conf/dcc/PrashantMH95:::K. S. Prashant::V. J. Mathews::Peter J. Hahn:::A New Model of Perceptual Threshold Functions of Application in Image Compression Systems.
+conf/dcc/SubbalakshmiV98:::K. P. Subbalakshmi::Jacques Vaisey:::Optimal Decoding of Entrophy Coded Memoryless Sources over Binary Symmetric Channels.
+conf/dcc/DionysianE92:::R. Dionysian::Milos D. Ercegovac:::Variable Precision Representation for Efficient VQ Codebook Storage.
+conf/dcc/Lanza98:::Piergiorgio Lanza:::Entrophy and Data Compression Performances.
+conf/dcc/ApostolicoL98:::Alberto Apostolico::Stefano Lonardi:::Some Theory and Practice of Greedy Off-Line Textual Substitution.
+conf/dcc/KelnerGK00:::Jonathan A. Kelner::Vivek K. Goyal::Jelena Kovacevic:::Multiple Description Lattice Vector Quantization: Variations and Extensions.
+conf/dcc/LekatsasW99:::Haris Lekatsas::Wayne Wolf:::Random Access Decompression Using Binary Arithmetic Coding.
+conf/dcc/Arnavut99:::Ziya Arnavut:::Move-to-Front and Permutation Based Inversion Coding.
+conf/dcc/CheungK95:::K.-M. Cheung::Aaron B. Kiely:::An Efficient Variable Length Coding Scheme for an IID Source.
+conf/dcc/NosratiniaO95:::Aria Nosratinia::Michael T. Orchard:::New Relationships in Operator-Based Backward Motion Compensation.
+conf/dcc/Yokoo93:::Hidetoshi Yokoo:::Application of AVL Trees to the Adaptive Compression of Numerical Data.
+conf/dcc/ChristiansenS02:::Bernd O. Christiansen::Klaus E. Schauser:::Fast Motion Detection for Thin Client Compression.
+conf/dcc/Storer98:::James A. Storer:::The Prevention of Error Propagation in Dictionary Compression with Update and Deletion.
+conf/dcc/ZengC99:::Zhaohui Zeng::Ian G. Cumming:::Modified SPIHT Encoding for SAR Image Data.
+conf/dcc/LinG01a:::Ken K. Lin::Robert M. Gray:::Rate-Distortion Optimization for the SPHIT Encoder.
+conf/dcc/LingA96:::Nam Ling::Rajesh Advani:::A High Speed Motion Estimator Using 2-D Log Search Algorithm.
+conf/dcc/Langdon91:::Glen G. Langdon Jr.:::Probabilistic and Q-Coder Algorithms for Binary Source Adaption.
+conf/dcc/AwanZMIM01:::Fauzia S. Awan::Nan Zhang::Nitin Motgi::Raja T. Iqbal::Amar Mukherjee:::LIPT: A Reversible Lossless Text Transform to Improve Compression Performance.
+conf/dcc/BauerH00:::Rainer Bauer::Joachim Hagenauer:::Iterative Source/Channel-Decoding Using Reversible Variable Length Codes.
+conf/dcc/RuhlH97:::Matthias Ruhl::Hannes Hartenstein:::Optimal Fractal Coding is NP-Hard.
+conf/dcc/CinqueAL02:::Luigi Cinque::Sergio De Agostino::Franco Liberati:::A Parallel Algorithm for Lossless Image Compression by Block Matching.
+conf/dcc/Nieto-SantistebanFOHS99:::María A. Nieto-Santisteban::Dale J. Fixsen::Joel D. Offenberg::Robert J. Hanisch::H. S. (Peter) Stockman:::Data Compression for the Next Generation Space Telescope.
+conf/dcc/YoonWPG03:::Sangho Yoon::Chee Sun Won::Kyungsuk Pyun::Robert M. Gray:::Image Classification using GMM with Context Information and with a Solution of Singular Covariance Problem.
+conf/dcc/KennardB01:::Douglas J. Kennard::William A. Barrett:::Just-in-Time Browsing for Digital Images.
+conf/dcc/SlyzN94:::Marko J. Slyz::David L. Neuhoff:::A Nonlinear VQ-Based Predictive Lossless Image Coder.
+conf/dcc/OrchardR94:::Michael T. Orchard::Kannan Ramchandran:::An Investigation of Wavelet-Based Image Coding Using an Entropy-Constrained Quantization Framework.
+conf/dcc/InglisW94:::Stuart Inglis::Ian H. Witten:::Compression-Based Template Matching.
+conf/dcc/Pigeon01b:::Steven Pigeon:::Unconstrained Vector Length in Fast Wavelet Transforms.
+conf/dcc/Sadakane99:::Kunihiko Sadakane:::A Modified Burrows-Wheeler Transformation for Case-Insensitive Search with Application to Suffix Array Compression.
+conf/dcc/FrostBX91:::R. L. Frost::C. F. Barnes::F. Xu:::Design and Performance of Residual Quantizers.
+conf/dcc/Ekstrand96:::Nicklas Ekstrand:::Lossless Compression of Grayscale Images via Context Tree Weighting.
+conf/dcc/RollinsC92:::M. Rollins::F. Carden:::Possible Harmonic-Wavelet Hybrids in Image Compression.
+conf/dcc/ZhaoCG01:::Debin Zhao::Y. K. Chan::Wen Gao:::Morphological Representation of DCT Data for Image Coding.
+conf/dcc/AcharyaJ96:::Tinku Acharya::Joseph JáJá:::Enhancing Lempel-Ziv Codes Using an On-Line Variable Length Binary Encoding.
+conf/dcc/BradleyB93:::Jonathan N. Bradley::Christopher M. Brislawn:::Wavelet Transform-Vector Quantization Compression of Supercomputer Ocean Models.
+conf/dcc/Vleuten99:::René J. van der Vleuten:::New Methods for Multiplication-Free Arithmetic Coding.
+conf/dcc/ChangWL01:::Pao-Chi Chang::Teng-Hsing Wang::Tien-Hsu Lee:::An Efficient Data Embedding Algorithm for H.263 Compatible Video Coding.
+conf/dcc/Agostino03:::Sergio De Agostino:::Almost Work-Optimal PRAM EREW Decoders of LZ Compressed Text.
+conf/dcc/MoffatNW95:::Alistair Moffat::Radford M. Neal::Ian H. Witten:::Arithmetic Coding Revisited.
+conf/dcc/BainbridgeI98:::David Bainbridge::Stuart Inglis:::Musical Image Compression.
+conf/dcc/WangXCM99:::Albert Wang::Zixiang Xiong::Philip A. Chou::Sanjeev Mehrotra:::Three-Dimensional Wavelet Coding of Video with Global Motion Compensation.
+conf/dcc/ZamirF94:::Ram Zamir::Meir Feder:::On Lattice Quantization Noise.
+conf/dcc/MitranB02:::P. Mitran::J. Bajcsy:::Turbo Source Coding: A Noise-Robust Approach to Data Compression.
+conf/dcc/AwanRH03:::A. Majid Awan::Nasir Rajpoot::S. Afaq Husain:::Stack-Run Adaptive Wavelet Image Coding.
+conf/dcc/SproullS92:::Robert F. Sproull::Ivan E. Sutherland:::A Comparison of Codebook Generation Techniques for Vector Quantization.
+conf/dcc/WeinbergerSS96:::Marcelo J. Weinberger::Gadiel Seroussi::Guillermo Sapiro:::Loco-I: A Low Complexity, Context-Based, Lossless Image Compression Algorithm.
+conf/dce/WeiW93:::Yi-Hsiu Wei::Chuan-lin Wu:::Integrating RPC and Message Passing for Distributed Programming.
+conf/dce/NarkiewiczGSGR93:::J. David Narkiewicz::Mahesh Girkar::Manoj Srivastava::Arthur S. Gaylord::Mustafizur Rahman:::Pilgrim's OSF DCE-based Services Architecture.
+conf/cms/MichelsH96:::Markus Michels::Patrick Horster:::Cryptanalysis of a Voting Scheme.
+conf/cms/Aslan03:::Heba K. Aslan:::AUTHMAC_DH: A New Protocol for Authentication and Key Distribution.
+conf/cms/RoudierFVM02:::Yves Roudier::Olivier Fouache::Pierre Vannel::Refik Molva:::Enabling adaptive and secure extranets.
+conf/cms/GabrijelcicSJ02:::Dusan Gabrijelcic::Arso Savanovic::Borka Jerman-Blazic:::Towards security architecture for future active IP networks.
+conf/cms/Kranning96:::A. Kranning:::PLASMA: Platform for Secure Multimedia Applications.
+conf/cms/Meerwald01:::Peter Meerwald:::Quantization Watermarking in the JPEG2000 Coding Pipeline.
+conf/cms/PopescuGT02:::Bogdan C. Popescu::Chandana Gamage::Andrew S. Tanenbaum:::Access control, reverse access control and replication control in a world wide distributed system.
+conf/cms/KainSA02:::K. Kain::Sean W. Smith::R. Asokan:::Digital signatures and electronic documents: a cautionary tale.
+conf/cms/HutchisonKT96:::A. Hutchison::Matthias Kaiserswerth::Peter Trommler:::Secure World Wide Web Access to Server Groups.
+conf/dbt/AschenbrennerHL79:::M. Aschenbrenner::M. Hein::Horst Langendörfer:::Entwurf und Realisierungskonzept einer dialogorientierten höheren Datenbanksprache.
+conf/ddb/NeuholdW82:::Erich J. Neuhold::Bernd Walter:::An Overview of the Architecture of the Distributed Data Base System "POREL".
+conf/ddb/Wilms80:::Paul F. Wilms:::Qualitative and Quantitative Comparison of Update Algorithms in Distributed Databases.
+conf/ddb/BreitwieserL82:::H. Breitwieser::M. Leszak:::Improving Availability of Partially Redundant Databases by Majority Consensus Protocols.
+conf/dcw/Orgun00:::Mehmet A. Orgun:::Towards a Logical Basis for Modelling and Querying Multi-dimensional Databases.
+conf/dcw/Plaice00:::John Plaice:::Multidimensional Lucid: Design, Semantics and Implementation.
+conf/dcw/KimHK02:::Boon-Hee Kim::Jun Hwang::Young-Chan Kim:::The Design of High-Level Database Access Method in a Web-Based 3D Object Authoring Tool.
+conf/dcw/PlaiceSA00:::John Plaice::Paul Swoboda::Ammar Alammar:::Building Intensional Communities Using Shared Contexts.
+conf/dcw/SalibaBK02:::Rima Saliba::Gilbert Babin::Peter G. Kropf:::SecAdvise: A Security Mechanism Advisor.
+conf/dcw/YuZHL02:::Shui Yu::Wanlei Zhou::Fuchun Huang::Mingjun Lan:::An Efficient Algorithm for Application-Layer Anycasting.
+conf/cpa/Anderson95:::Ross J. Anderson:::Crypto in Europe - Markets, Law and Policy.
+conf/cpe/WardL00:::William A. Ward Jr.::David Langan:::Calculation and Use of Peaking Factors for Remote Terminal Emulation.
+conf/cpe/TuffinT00:::Bruno Tuffin::Kishor S. Trivedi:::Implementation of Importance Splitting Techniques in Stochastic Petri Net Package.
+conf/cpe/German97:::Reinhard German:::SPNL: Processes as Language-Oriented Building Blocks of Stochastic Petri Nets.
+conf/cpe/WolterK03:::Katinka Wolter::Kristian Kasprowicz:::WebAppLoader: A Simulation Tool Set for Evaluating Web Application Performance.
+conf/cpe/RoseZR98:::Luiz De Rose::Ying Zhang::Daniel A. Reed:::SvPablo: A Multi-language Performance Analysis System.
+conf/cpe/FestagWW02:::Andreas Festag::Lars Westerhoff::Adam Wolisz:::The MOMBASA Software Environment - A Toolkit for Performance Evaluation of Multicast-Based Mobility Support.
+conf/cpe/PetriuW02:::Dorina C. Petriu::C. Murray Woodside:::Software Performance Models from System Scenarios in Use Case Maps.
+conf/cpe/ChandrasekaranWP03:::B. Chandrasekaran::Pete Wyckoff::Dhabaleswar K. Panda:::MIBA: A Micro-Benchmark Suite for Evaluating InfiniBand Architecture Implementations.
+conf/cpe/GuptaS94:::Vipul Gupta::Eugen Schenfeld:::NetSim - A Tool for Medling the Performance of Circuit Switched Multicomputer Networks.
+conf/cpe/GautamaG02:::Hasyim Gautama::Arjan J. C. van Gemund:::Symbolic Performance Prediction of Data-Dependent Parallel Programs.
+conf/cpe/Heindl00:::Armin Heindl:::Decomposition of General Tandem Queueing Networks with MMPP Input.
+conf/cpe/MalyW00:::Peter Maly::C. Murray Woodside:::Layered Modeling of Hardware and Software, with Application to a LAN Extension Router.
+conf/cpe/BauseK94:::Falko Bause::Peter Kemper:::QPN -Tool for Qualitative and Quantitative Analysis of Queueing Petri Nets.
+conf/cpe/HirelTT00:::Christophe Hirel::Bruno Tuffin::Kishor S. Trivedi:::SPNP: Stochastic Petri Nets. Version 6.0.
+conf/cpe/GrimsrudAFN94:::Knuth Stener Grimsrud::James K. Archibald::Richard L. Frost::Brent E. Nelson:::On the Accuracy of Memory Reference Models.
+conf/cpe/SerranoYWN94:::Mauricio J. Serrano::Wayne Yamamoto::Roger C. Wood::Mario Nemirovsky:::A Model for Performance Estimation in a Multistreamed Superscalar Processor.
+conf/cpe/GilmoreH94:::Stephen Gilmore::Jane Hillston:::The PEPA Workbench: A Tool to Support a Process Algebra-based Approach to Performance Modelling.
+conf/cpe/DaviesKK02:::Ian Davies::William Knottenbelt::Pieter S. Kritzinger:::Symbolic Methods for the State Space Exploration of GSPN Models.
+conf/cpe/LeaoSL00:::Rosa M. M. Leão::Edmundo de Souza e Silva::Sidney C. de Lucena:::A Set of Tools for Traffic Modeling, Analysis and Experimentation.
+conf/dem/Huber01:::Gary Huber:::Terraffectors and the Art of Consensus Building.
+conf/dem/MezosiK01:::Gábor Mezösi::Richárd Kiss:::Geomorphometrical Mapping of Relief-Dissection Using GIS.
+conf/dem/KoehrsenSK01:::Craig L. Koehrsen::William C. Sahm::Claude W. Keefer:::GPS-Based Earthmoving for Construction.
+conf/cpm/ZhangWM99:::Kaizhong Zhang::Lusheng Wang::Bin Ma:::Computing Similarity between RNA Structures.
+conf/cpm/ParkK95:::Kunsoo Park::Dong Kyue Kim:::String Matching in Hypertext.
+conf/cpm/Hui92:::Lucas Chi Kwong Hui:::Color Set Size Problem with Application to String Matching.
+conf/cpm/WangG96:::Lusheng Wang::Dan Gusfield:::Improved Approximation Algorithms for Tree Alignment.
+conf/cpm/JanssonL01:::Jesper Jansson::Andrzej Lingas:::A Fast Algorithm for Optimal Alignment between Similar Ordered Trees.
+conf/cpm/NelsonKS00:::Matthew R. Nelson::Sharon L. Kardia::Charles F. Sing:::The Combinatorial Partitioning Method.
+conf/cpm/Tronicek01:::Zdenek Tronícek:::Episode Matching.
+conf/cpm/FranekJLS02:::Frantisek Franek::Jiandong Jiang::Weilin Lu::William F. Smyth:::Two-Pattern Strings.
+conf/cpm/IlieY02:::Lucian Ilie::Sheng Yu:::Constructing NFA s by Optimal Use of Positions in Regular Expressions.
+conf/cpm/BrodalP00:::Gerth Stølting Brodal::Christian N. S. Pedersen:::Finding Maximal Quasiperiodicities in Strings.
+conf/cpm/Wenk99:::Carola Wenk:::Applying an Edit Distance to the Matching of Tree Ring Sequences in Dendrochronology.
+conf/cpm/KasaiLAAP01:::Toru Kasai::Gunho Lee::Hiroki Arimura::Setsuo Arikawa::Kunsoo Park:::Linear-Time Longest-Common-Prefix Computation in Suffix Arrays and Its Applications.
+conf/cpm/Witten00:::Ian H. Witten:::Browsing around a Digital Library: Today and Tomorrow.
+conf/cpm/Risvik98:::Knut Magne Risvik:::Approximate Word Sequence Matching over Sparse Suffix Trees.
+conf/cpm/MyersOG98:::Eugene W. Myers::Paulo Oliva::Katia S. Guimarães:::Reporting Exact and Approximate Regular Expression Matches.

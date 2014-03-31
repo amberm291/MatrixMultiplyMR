@@ -1,0 +1,200 @@
+conf/pcm/LinLC02:::Chia-Han Lin::Andro H. C. Lee::Arbee L. P. Chen:::A Semantic Model for Video Description and Retrieval.
+conf/pcm/ZhuWXLF01:::Xingquan Zhu::Lide Wu::Xiangyang Xue::Xiaoye Lu::Jianping Fan:::Automatic Scene Detection in News Program by Integrating Visual Feature and Rules.
+conf/pcm/YuZZZ01:::Fang Yu::Qian Zhang::Wenwu Zhu::Ya-Qin Zhang:::Network-Adaptive Cache Management Schemes for Mixed Media.
+conf/pcm/ZhuTZ01:::Lei Zhu::Chun Tang::Aidong Zhang:::Using Keyblock Statistics to Model Image Retrieval.
+conf/pcm/LinTCH02:::Chih-Yen Lin::I.-Cheng Ting::Chyouhwa Chen::Wen-Jen Ho:::An Error Resilient Scheme for MPEG-4 FGS Video over Packet Erasure Channel That Exhibits Graceful Degradation.
+conf/pcm/YoonKRW02:::Jungwon Yoon::Sehwan Kim::Jeha Ryu::Woontack Woo:::Multimodal Gumdo Game: The Whole Body Interaction with an Intelligent Cyber Fencer.
+conf/pcm/JoubertK01:::Gerhard R. Joubert::Odej Kao:::Efficient Dynamic Image Retrieval Using the Á Trous Wavelet Transformation.
+conf/pcm/LeePCJJH02:::Kangsun Lee::Hyunmin Park::Jonghoon Chun::Wouseok Jou::Jaeho Jung::Youngseok Hwang:::W-CoSIM (Web-Based Hardware-Software CoSimulator) - A Design-Time Simulation Tool for Estimating the Performance of Online Multimedia Applications.
+conf/pcm/HwangJC02:::Younghooi Hwang::Byeungwoo Jeon::Tai M. Chung:::Improved Error Detection Method for Real-Time Video Communication Using Fragile Watermarking.
+conf/pcm/SunCW02:::Tanfeng Sun::Lili Cui::Shuxun Wang:::Research on Technology of Chaos Secrecy Communications in Digital Watermarking.
+conf/pcm/Joubert02:::Gerhard R. Joubert:::A Project Management Model for Multimedia System Development.
+conf/pcm/KuoOOU02:::Pei-Jeng Kuo::Koji Omae::Ichiro Okajima::Narumi Umeda:::VoIP Quality Evaluation in Mobile Wireless Networks.
+conf/pcm/SongKR01:::B. C. Song::M.-J. Kim::Jong Beom Ra:::A Fast Descriptor Matching Algorithm for Exhaustive Search in Large Databases.
+conf/pcm/WangCFC01:::Zhiyong Wang::Zheru Chi::Dagan Feng::S. Y. Cho:::Adaptive Processing of Tree-Structure Image Representation.
+conf/pcm/ChangG02:::Chun-Fa Chang::Shyh-Haur Ger:::Enhancing 3D Graphics on Mobile Devices by Image-Based Rendering.
+conf/pdd/KimelmanZ93:::Doug Kimelman::Dror Zernik:::On-the-Fly Topological Sort - A Basis for Interactive Debugging and Live Visualization of Parallel Programs.
+conf/pdd/BrewerW93:::Eric A. Brewer::William E. Weihl:::Developing Parallel Applications Using High-Performance Simulation.
+conf/pdd/HoughC88:::Alfred Hough::Janice E. Cuny:::Initial Experiences with a Pattern-Oriented Parallel Debugger.
+conf/pdd/MasticolaR91:::Stephen P. Masticola::Barbara G. Ryder:::A Model of Ada Programs for Static Deadlock Detection in Polynomial Time.
+conf/pdd/BaconG91:::David F. Bacon::Seth Copen Goldstein:::Hardware-Assisted Replay of Multiprocessor Programs.
+conf/pdd/Wittie88:::Larry D. Wittie:::Debugging Distributed C Programs by Real Time Replay.
+conf/pdd/HurfinPR93:::Michel Hurfin::Noël Plouzeau::Michel Raynal:::Detecting Atomic Sequences of Predicates in Distributed Computations.
+conf/pdd/Valot93:::Celine Valot:::Characterizing the Accuracy of Distributed Timestamps.
+conf/pdd/Damodaran-KamalF93:::Suresh K. Damodaran-Kamal::Joan M. Francioni:::Nondeterminacy: Testing and Debugging in Message Passing Parallel Programs.
+conf/pdk/MantsivodaP91:::Andrei Mantsivoda::Vyacheslav Petukhin:::Implementation of the Functional-Logic Language Flang.
+conf/pdk/BruynoogheDJ91:::Maurice Bruynooghe::Veroniek Dumortier::Gerda Janssens:::Improving the Efficiency of Constraint Logic Programming Languages by Deriving Specialized Versions.
+conf/pdk/DorochevskyNT91:::Michel Dorochevsky::Jacques Noyé::Oliver Thibault:::Has Dedicated Hardware for Prolog a Future?
+conf/pds/FletcherS96:::L. R. Fletcher::M. Santini:::Periodicity in an asynchronous algorithm for parallel processing.
+conf/pds/MarcenacGG96:::Pierre Marcenac::Sylvain Giroux::J. R. Grasso:::Designing and implementing complex systems with agents.
+conf/pds/SantoFRZ96:::Michele Di Santo::Franco Frattolillo::Wilma Russo::Eugenio Zimeo:::The AL++ Project: object-oriented parallel programming on multicomputers.
+conf/pds/LukschMRW96:::Peter Luksch::Ursula Maier::Sabine Rathmayer::Matthias Weidmann:::SEMPA: software engineering methods for parallel scientific applications.
+conf/pds/DobsonW96:::Simon A. Dobson::Christopher P. Wadsworth:::Towards a theory of shared data in distributed systems.
+conf/pfe/Schmid01:::Klaus Schmid:::An Initial Model of Product Line Economics.
+conf/pfe/John01:::Isabel John:::Integrating Legacy Documentation Assets into a Product Line.
+conf/pfe/AuerswaldHKS01:::Marko Auerswald::Martin Herrmann::Stefan Kowalewski::Vincent Schulte-Coerne:::Reliability-Oriented Product Line Engineering of Embedded Systems.
+conf/pfe/LindenW01:::Frank van der Linden::Jan Gerben Wijnstra:::Platform Engineering for the Medical Domain.
+conf/pfe/BeckerGGB01:::Martin Becker::Lars Geyer::Andreas Gilbert::Karsten Becker:::Comprehensive Variability Modelling to Facilitate Efficient Variability Treatment.
+conf/pfe/Lange01:::Fons de Lange:::The Philips-Open TV<sup>®</sup> Product Family Architecture for Interactive Set-Top Boxes.
+conf/pfe/KnauberBBLLNSW01:::Peter Knauber::Jesús Bermejo Muñoz::Günter Böckle::Julio Cesar Sampaio do Prado Leite::Frank van der Linden::Linda M. Northrop::Michael Stark::David M. Weiss:::Quantifying Product Line Benefits.
+conf/pfe/DincelMH01:::Ebru Dincel::Nenad Medvidovic::André van der Hoek:::Measuring Product Line Architectures.
+conf/pfe/BayerW01:::Joachim Bayer::Tanya Widen:::Introducing Traceability to Product Lines.
+conf/pfe/Thiel01:::Steffen Thiel:::On the Definition of a Framework for an Architecting Process Supporting Product Family Development.
+conf/pet/DiazSCP02:::Claudia Diaz::Stefaan Seys::Joris Claessens::Bart Preneel:::Towards Measuring Anonymity.
+conf/pet/GiffinGLT02:::John Giffin::Rachel Greenstadt::Peter Litwack::Richard Tibbetts:::Covert Messaging through TCP Timestamps.
+conf/pet/AlamakiBDGGMNST02:::Tero Alamäki::Margareta Björksten::Péter Dornbach::Casper Gripenberg::Norbert Gyorbíró::Gábor Márton::Zoltán Németh::Timo Skyttä::Mikko Tarkiainen:::Privacy Enhancing Service Architectures.
+conf/pet/KarjothSW02:::Günter Karjoth::Matthias Schunter::Michael Waidner:::Platform for Enterprise Privacy Practices: Privacy-Enabled Management of Customer Data.
+conf/orm/Eden94:::Peter Eden:::Independent NIAM Schemas.
+conf/pkc/KurosawaOMM01:::Kaoru Kurosawa::Wakaha Ogata::Toshihiki Matsuo::Shuichi Makishima:::IND-CCA Public Key Schemes Equivalent to Factoring n=pq.
+conf/pkc/AnsperBRW01:::Arne Ansper::Ahto Buldas::Meelis Roos::Jan Willemson:::Efficient Long-Term Validation of Digital Signatures.
+conf/pkc/MerkleW98:::Johannes Merkle::Ralph Werchner:::On the Security of Server-Aided RSA Protocols.
+conf/pkc/JaulmesJ01:::Éliane Jaulmes::Antoine Joux:::Cryptanalysis of PKP: A New Approach.
+conf/pkc/HandschuhTY99:::Helena Handschuh::Yiannis Tsiounis::Moti Yung:::Decision Oracles are Equivalent to Matching Oracles.
+conf/pkc/JoyeT01:::Marc Joye::Christophe Tymen:::Compact Encoding of Non-adjacent Forms with Applications to Elliptic Curve Cryptography.
+conf/pkc/Okamoto98:::Tatsuaki Okamoto:::Lower Bounds on Term-Based Divisible Cash Systems.
+conf/pkc/Paillier99b:::Pascal Paillier:::Evaluating Differential Fault Analysis of Unknown Cryptosystems.
+conf/pkc/YoungY00:::Adam Young::Moti Yung:::RSA-Based Auto-recoverable Cryptosystems.
+conf/pkc/BurmesterDDMOTY00:::Mike Burmester::Yvo Desmedt::Hiroshi Doi::Masahiro Mambo::Eiji Okamoto::Mitsuru Tada::Yuko Yoshifuji:::A Structured ElGamal-Type Multisignature Scheme.
+conf/pkc/Boldyreva03:::Alexandra Boldyreva:::Threshold Signatures, Multisignatures and Blind Signatures Based on the Gap-Diffie-Hellman-Group Signature Scheme.
+conf/pkc/ShinRY99:::Sang Uk Shin::Kyung Hyune Rhee::Jae Woo Yoon:::Hash Functions and the MAC Using All-or-Nothing Property.
+conf/pkc/Misarsky98:::Jean-François Misarsky:::How (not) to Design RSA Signature Schemes.
+conf/pkc/HadaT99:::Satoshi Hada::Toshiaki Tanaka:::A Relationship between One-Wayness and Correlation Intractability.
+conf/pkc/BanksLS00:::William D. Banks::Daniel Lieman::Igor Shparlinski:::An Identification Scheme Based on Sparse Polynomials.
+conf/pos/Morrison00:::Ronald Morrison:::Epilogue.
+conf/pos/Morrison94:::Ronald Morrison:::Object Store Engineering 3.
+conf/pos/RidgwayW98:::John V. E. Ridgway::Jack C. Wileden:::Toward Class Evolution in Persistent Java?
+conf/pos/WidjojoHW90:::Surjatini Widjojo::Richard Hull::Dave Wile:::A Specificational Approach to Merging Persistent Object Bases.
+conf/pos/MunroBMM98:::David S. Munro::Alfred L. Brown::Ronald Morrison::J. Eliot B. Moss:::Incremental Garbage Collection of a Persistent Object Store using PMOS.
+conf/pos/Skarra94:::Andrea H. Skarra:::System Evolution.
+conf/pos/NettlesO96:::Scott Nettles::James O'Toole:::A Rollback Technique for Implementation Orthogonal Persistence.
+conf/pos/Powell92:::Malcolm S. Powell:::Transactions
+conf/pos/Rees87:::Owen Rees:::Object Oriented System Models.
+conf/pos/EvansS98:::Huw Evans::Susan Spence:::Porting a Distributed System to PJama: Orthogonal Persistence for Java?
+conf/pos/FeketeLMW89:::Alan Fekete::Nancy A. Lynch::Michael Merritt::William E. Weihl:::Commutativity-Based Locking for Nested Transactions.
+conf/pos/WileGA87:::David S. Wile::Neil M. Goldman::Dennis G. Allard:::Maintaining Object Persistence in the Common Lisp Framework.
+conf/pos/SuzukiKT94:::Shinji Suzuki::Masaru Kitsuregawa::Mikio Takagi:::An Efficient Pointer Swizzling Method for Navigation Intensive Applications.
+conf/pos/Donahue85:::James E. Donahue:::Integrating Programming Languages with Database Systems.
+conf/pos/Davie85:::Antony J. T. Davie:::Conditional Declarations and Pattern Matching.
+conf/pos/KeedyB92:::James Leslie Keedy::Peter Brössler:::Implementing Databases in the MONADS Virtual Memory.
+conf/pos/JordanA98:::Mick J. Jordan::Malcolm P. Atkinson:::Orthogonal Persistence for Java? - A Mid-term Report.
+conf/pos/BuhrGW92:::Peter A. Buhr::Anil K. Goel::Anderson Wai:::µDatabase: A Toolkit for Constructing Memory Mapped Databases.
+conf/pos/Rabitti92:::Fausto Rabitti:::Object Store Implementation
+conf/pos/Ghelli92:::Giorgio Ghelli:::Run-Time Support for Hierarchic Records in Persistent Languages.
+conf/pos/ZigmanBM00:::John N. Zigman::Stephen Blackburn::J. Eliot B. Moss:::TMOS: A Transactional Garbage Collector.
+conf/pos/Hosking00:::Antony L. Hosking:::Session 4: Overview.
+conf/pos/Hosking96:::Antony L. Hosking:::Residency Check Elimination for Object-Oriented Persistent Language.
+conf/pos/Matthews85:::David C. J. Matthews:::An Overview of the Poly Programming Language.
+conf/pos/BermanSVZ98:::Sonia Berman::R. Southern::A. Vasey::D. Ziskind:::Spatio-temporal Access in Persistent Java.
+conf/pos/AllardW89:::Dennis G. Allard::David S. Wile:::Aggregation, Persistence, and Identity in Worlds.
+conf/pos/CarrickM87:::Raymund Carrick::David S. Munro:::Execution Strategies in Persistent Systems.
+conf/pos/Wright89:::S. L. Wright:::The Evolution of the SSE Data Storage System into a Persistent Object System.
+conf/pos/BuzatoC92:::Luiz Eduardo Buzato::A. Calsavara:::Stabilis: A Case Study in Writing Fault-Tolerant Distributed Applications Using Persistent Objects.
+conf/pos/RichardsonC89:::Joel E. Richardson::Michael J. Carey:::Implementing Persistence in E.
+conf/pos/DaynesG92:::Laurent Daynès::Olivier Gruber:::Nested Actions in Eos.
+conf/pos/ReinwaldDCLPS94:::Berthold Reinwald::Stefan Deßloch::Michael J. Carey::Tobin J. Lehman::Hamid Pirahesh::V. Srinivasan:::Making Real Data Persistent: Initial Experiences with SMRC.
+conf/pos/McNallyJD90:::David J. McNally::Stef Joosten::Antony J. T. Davie:::Persistent Functional Programming.
+conf/pos/DearleCK89:::Alan Dearle::Quintin I. Cutts::Graham N. C. Kirby:::Browsing, Grazing and Bibbling Persistent data Structures.
+conf/pos/Preface98:::Ronald Morrison::Mick J. Jordan::Malcolm P. Atkinson:::Preface &amp; Foreword
+conf/pos/Ait-KaciN85:::Hassan Aït-Kaci:::Integrating Data Type Inheritance into Logic Programming.
+conf/pos/BlackburnZ98:::Stephen Blackburn::John N. Zigman:::Concurrency - The Fly in the Ointment?
+conf/psb/PustejovskyCZKC02:::James Pustejovsky::José M. Castaño::Jason Zhang::M. Kotecki::B. Cochran:::Robust Relational Parsing Over Biomedical Literature: Extracting Inhibit Relations.
+conf/psb/ParkPB01:::Peter J. Park::Marcello Pagano::Marco Bonetti:::A Nonparametric Scoring Algorithm for Identifying Informative Genes from Microarray Data.
+conf/psb/ChrismanLB03:::Lonnie Chrisman::Pat Langley::Stephen D. Bay:::Incorporating Biological Knowledge into Evaluation of Causal Regulatory Hypotheses.
+conf/psb/Hein01:::Jotun Hein:::An Algorithm for Statistical Alignment of Sequences Related by a Binary Tree.
+conf/psb/HeilGSWMWGS02:::J. Heil::S. Glanowski::J. Scott::E. Winn-Deen::I. McMullen::L. Wu::C. Gire::A. Sprague:::An Automated Computer System to Support Ultra High Throughput SNP Genotyping.
+conf/psb/XuLLKX03:::Jinbo Xu::Ming Li::Guo-Hui Lin::Dongsup Kim::Ying Xu:::Protein Threading by Linear Programming.
+conf/psb/Vert02:::Jean-Philippe Vert:::Support Vector Machine Prediction of Signal Peptide Cleavage Site Using a New Class of Kernels for Strings.
+conf/psb/KurhekarAJR02:::Manish P. Kurhekar::Sudeshna Adak::S. Jhunjhunwala::K. Raghupathy:::Genome-Wide Pathway Analysis and Visualization Using Gene Expression Data.
+conf/psb/WroeSGA03:::Chris Wroe::Robert Stevens::Carole A. Goble::M. Ashburner:::A Methodology to Migrate the Gene Ontology to a Description Logic Environment Using DAML+OIL.
+conf/psb/ShragerLP02:::Jeff Shrager::Pat Langley::Andrew Pohorille:::Guiding Revision of Regulatory Models with Expression Data.
+conf/psb/CooperHWWP02:::Catherine A. Cooper::Mathew J. Harrison::J. M. Webster::Marc R. Wilkins::Nicolle H. Packer:::Data Standardisation in GlycoSuiteDB.
+conf/psb/KlusSSWS01:::Gregory T. Klus::Andrew Song::Ari Schick::Matthias Wahde::Zoltan Szallasi:::Mutual Information Analysis as a Tool to Assess the Role of Aneuploidy in the Generation of Cancer-Associated Differential Gene Expression Patterns.
+conf/psb/BajorathKLN99:::Jürgen Bajorath::Teri E. Klein::Terry P. Lybrand::J. Novotny:::Computer-Aided Drug Design - Session Introduction.
+conf/psb/BaldiB01:::Pierre Baldi::Søren Brunak:::Bioethics, Fiction Science, and the Future of Mankind - Session Introduction.
+conf/psb/VegaKSS02:::Francisco M. de la Vega::Isaac S. Kohane::J. A. Schneider::J. C. Stephens:::Human Genome Variation: Disease, Drug Response, and Clinical Phenotypes - Session Introduction.
+conf/psb/MeadsHP99:::Doanna Meads::Marc D. Hansen::Alex Pang:::ProtAlign: A 3-Dimensional Protein Alignment Assessment Tool.
+conf/psb/NakhlehMRJSW02:::Luay Nakhleh::Bernard M. E. Moret::Usman Roshan::Katherine St. John::Jerry Sun::Tandy Warnow:::The Accuracy of Fast Phylogenetic Methods for Large Datasets.
+conf/psb/GordonO01:::Derek Gordon::Jürg Ott:::Assessment and Management of Single Nucleotide Polymorphism Genotype Errors in Genetic Association.
+conf/psb/SarkarCGHL03:::I. N. Sarkar::M. N. Cantor::R. Gelman::F. Hartel::Yves A. Lussier:::Linking Biomedical Language Information and Knowledge Resources in the 21st Century: GO and UMLS.
+conf/psb/ShkelK99:::I. A. Shkel::S. Kim:::Two-Dimensional Reaction of Biological Molecules Studied by Weighted-Ensemble Brownian Dynamics.
+conf/psb/WaughWWA01:::Allison Waugh::Glenn A. Williams::Liping Wei::Russ B. Altman:::Using Metacomputing Tools to Facilitate Large Scale Analyses of Biological Databases.
+conf/psb/SchwartzH03:::Ariel S. Schwartz::Marti A. Hearst:::A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text.
+conf/psb/HoonIKOM03:::Michiel J. L. de Hoon::Seiya Imoto::Kazuo Kobayashi::Naotake Ogasawara::Satoru Miyano:::Inferring Gene Regulatory Networks from Time-Ordered Gene Expression Data of Bacillus Subtilis Using Differential Equations.
+conf/psb/HahnS03:::Udo Hahn::Stefan Schulz:::Towards a Broad-Coverage Biomedical Ontology Based on Description Logics.
+conf/psb/GoldsteinPT01:::Richard A. Goldstein::David D. Pollock::Jeffrey L. Thorne:::Structures, Phylogenies, and Genomes: The Integrated Study of Protein Evolution - Session Introduction.
+conf/psb/SegalBK03:::Eran Segal::A. Battle::Daphne Koller:::Decomposing Gene Expression into Cellular Processes.
+conf/psc/Feeley92:::Marc Feeley:::A Message Passing Implementation of Lazy Task Creation.
+conf/psc/Osborne92:::Randy B. Osborne:::Extending the Multilisp Sponsor Model to Deal with Intertask Synchronization Side Effects.
+conf/psc/AgarwalBCDJKKLMMNPY92:::Anant Agarwal::Jonathan Babb::David Chaiken::Godfrey D'Souza::Kirk L. Johnson::David Kranz::John Kubiatowicz::Beng-Hong Lim::Gino Maa::Ken Mackenzie::Daniel Nussbaum::Mike Parkin::Donald Yeung:::Sparcle: A Multithreaded VLSI Processor for Parallel Computing.
+conf/pts/CsondesDK00:::Tibor Csöndes::Sarolta Dibuz::Péter Krémer:::Experiments on IPv6 Testing.
+conf/pts/BorodayPGQ02:::Sergiy Boroday::Alexandre Petrenko::Roland Groz::Yves-Marie Quemener:::Test Generation for CEFSM Combining Specification and Fault Coverage.
+conf/pts/OgishiIKS98:::Tomohiko Ogishi::Akira Idoue::Toshihiko Kato::Kenji Suzuki:::Intelligent Protocol Analyzer for WWW Server Accesses with Exception Handling Function.
+conf/pts/Veciana-NoguesCDS02:::Carlos Veciana-Nogués::Albert Cabellos-Aparicio::Jordi Domingo-Pascual::Josep Solé-Pareta:::Verifying IP Meters from Sampled Measurements.
+conf/pts/CastanetK93:::Richard Castanet::Osman Koné:::Deriving Coordinated Testers for Interoperability.
+conf/pts/Berghe91:::F. van den Berghe:::Overview of the Standardisation of Conformance Test Specifications and Tools: European Work, Contribution to ISO/CCITT and Worldwide Harmonisation.
+conf/pts/SchulzV02:::Stephan Schulz::Theofanis Vassiliou-Gioles:::Implementation of TTCN-3 Test Systems using the TRI.
+conf/pts/ChungS92:::Anthony Chung::Deepinder P. Sidhu:::Applications of Sufficient Conditions for Efficient Protocol Test Generation.
+conf/pts/Ahtiainen02:::Ari Ahtiainen:::Applying Formal Method in Mobile Protocol Testing.
+conf/pts/PetrenkoBD93:::Alexandre Petrenko::Gregor von Bochmann::Rachida Dssouli:::Conformance Relations and Test Derivation.
+conf/pts/Phalippou92:::Marc Phalippou:::The Limited Power of Testing.
+conf/pts/DesrochesLPRSV98:::C. Desroches::Mang Li::S. Pietsch::Axel Rennoch::Ina Schieferdecker::Theofanis Vassiliou-Gioles:::Test Suite Migration Experiences for B-ISUP and B-MTP.
+conf/pts/Cowin91:::G. W. Cowin:::Experiences in Developing a Test Suite Structure and Test Purposes Document for Open Systems.
+conf/pts/GrabowskiWWH00:::Jens Grabowski::Anthony Wiles::Colin Willcock::Dieter Hogrefe:::On the Design of the New Testing Language TTCN-3.
+conf/pts/Horvath02:::Endre Horváth:::Ad-hoc Protocol Modelling, Validation and Automated Test Suite Generation.
+conf/pts/MaggioreVP00:::Giulio Maggiore::Silvio Valeau::José Pons:::The Test Sub Group (TSG): A Cooperative Approach to Improve the Release Quality before Type Acceptance.
+conf/pts/KhoumsiADEG00:::Ahmed Khoumsi::Mehdi Akalay::Rachida Dssouli::Abdeslam En-Nouaary::Louis Granger:::An Approach for Testing Real Time Protocol Entities.
+conf/pts/Willcock99:::Colin Willcock:::New Directions in ASN.1: Towards a Formal Notation for Transfer Syntax.
+conf/pts/Drira93:::Khalil Drira:::The Refusal Graph: a Tradeoff between Verification and Test.
+conf/pts/KoufarevaPY99:::I. Koufareva::Alexandre Petrenko::Nina Yevtushenko:::Test Generation Driven by User-defined Fault Models.
+conf/pts/SchieferdeckerLR00:::Ina Schieferdecker::Mang Li::Axel Rennoch:::Incremental Testing at System Reference Points.
+conf/pts/El-FakihYB02:::Khaled El-Fakih::Nina Yevtushenko::Gregor von Bochmann:::FSM-based Re-Testing Methods.
+conf/pts/ShinK98:::J. Shin::S. Kang:::Interoperability Test Suite Derivation for the ATM/B-ISDN Signaling Protocol.
+conf/pts/TripathyN92:::Piyu Tripathy::Kshirasagar Naik:::Generation of Adaptive Test Cases from Nondeterministic Finite State Models.
+conf/pts/WalterP92:::Thomas Walter::Bernhard Plattner:::An Operational Semantics for Concurrent TTCN.
+conf/pts/DriraASC92:::Khalil Drira::Pierre Azéma::B. Soulas::A. M. Chemali:::Characterizing and Ordering Errors Detected by Conformance Testing.
+conf/pts/GecseK99:::Roland Gecse::Péter Krémer:::Automated Test of TCP Congestion Control Algorithms.
+conf/pts/CavalliFP93:::Ana R. Cavalli::Jean Philippe Favreau::Marc Phalippou:::Formal Methods for Conformance Testing: Results and Perspectives.
+conf/pvm/Wakatani03:::Akiyoshi Wakatani:::A Parallel Scheme for Solving a Tridiagonal Matrix with Pre-propagation.
+conf/pvm/Fink00:::Torsten Fink:::Integrating MPI Components into Metacomputing Applications.
+conf/pvm/BaiardiCMR00:::Fabrizio Baiardi::Sarah Chiti::Paolo Mori::Laura Ricci:::Adaptive Multigrid Methods in MPI.
+conf/pvm/FaggGRD01:::Graham E. Fagg::Edgar Gabriel::Michael Resch::Jack Dongarra:::Parallel IO Support for Meta-computing Applications: MPI_Connect IO Applied to PACX-MPI.
+conf/pvm/ArbenzBGLTM96:::Peter Arbenz::Martin Billeter::Peter Güntert::Peter Luginbühl::Michela Taufer::Urs von Matt:::Molecular Dynamics Simulations on Cray Clusters using the SCIDDLE-PVM environment.
+conf/pvm/BubakMZ02:::Marian Bubak::Maciej Malawski::Katarzyna Zajac:::Towards the CrossGrid Architecture.
+conf/pvm/BubakFSKW03:::Marian Bubak::Wlodzimierz Funika::Marcin Smetek::Zbigniew Kilianski::Roland Wismüller:::Architecture of Monitoring System for Distributed Java Applications.
+conf/pvm/GaitoRV01:::A. Gaito::Massimiliano Rak::Umberto Villano:::Adding Dynamic Coscheduling Support to PVM.
+conf/pvm/SeguelB03:::Jaime Seguel::Daniel Burbano:::A Scalable Crystallographic FFT.
+conf/pvm/StankovicZ99:::Nenad Stankovic::Kang Zhang:::Native Versus Java Message Passing.
+conf/pvm/BubakL99:::Marian Bubak::Piotr Luszczek:::Towards Portable Runtime Support for Irregular and Out-of-Core Computations.
+conf/pvm/RotaruN02:::Tiberiu Rotaru::Hans-Heinrich Nägeli:::Testbed for Adaptive Numerical Simulations in Heterogeneous Environments.
+conf/pvm/WagnerKS96:::Thomas Wagner::Christian Küblbeck::Christoph Schittko:::Genetic Selection and Generation of Textural Features with PVM.
+conf/pvm/ElwasifBKG01:::Wael R. Elwasif::David E. Bernholdt::James Arthur Kohl::G. A. Geist II:::An Architecture for a Multi-threaded Harness Kernel.
+conf/pvm/Wismuller97:::Roland Wismüller:::Debugging Message Passing Programs Using Invisible Message Tags.
+conf/pvm/WronaAIRM03:::Frank Wrona::Panagiotis A. Adamidis::Uwe Iben::Rolf Rabenseifner::Claus-Dieter Munz:::Dynamic Load Balancing for the Parallel Simulation of Cavitating Flows.
+conf/pvm/BadiaV99:::José M. Badía::Antonio M. Vidal:::Solving the Inverse Toeplitz Eigenproblem Using ScaLAPACK and MPI.
+conf/pvm/LudwigW97:::Thomas Ludwig II::Roland Wismüller:::OMIS 2.0 - A Universal Interface for Monitoring Systems.
+conf/pvm/DrosinosK03:::Nikolaos Drosinos::Nectarios Koziris:::Advanced Hybrid MPI/OpenMP Parallelization Paradigms for Nested Loop Algorithms onto Clusters of SMPs.
+conf/pvm/SouzaSSS97:::Paulo S. Souza::Luciano J. Senger::Marcos José Santana::Regina Helena Carlucci Santana:::Evaluating Personal High Performance Computing with PVM on Windows and LINUX Environments.
+conf/pvm/HansenMS03:::Jan P. Hansen::Thierry Matthey::Tor Sørevik:::A Parallel Split Operator Method for the Time Dependent Schrödinger Equation.
+conf/pvm/Ojeda-GuerraMS98:::C. N. Ojeda-Guerra::Elsa M. Macías::Alvaro Suárez:::Sparse LU Factorization with Partial Pivoting Overlapping Communications and Computations on the SP-2 Multicomputer.
+conf/pvm/Sunderam03:::Vaidy S. Sunderam:::Programming Environments for Grids and Distributed Computing Systems.
+conf/pvm/NorhashidahRK03:::Mohd. Ali Norhashidah::Abdullah Rosni::Jun Lee Kok:::Explicit Groupt Iterative Solver on a Message Passing Environment.
+conf/pvm/LudwigWO96:::Thomas Ludwig II::Roland Wismüller::Michael Oberhuber:::OCM - An OMIS Compliant Monitoring System.
+conf/pvm/JuhaszC96:::Zoltan Juhasz::Danny Crookes:::A PVM Implementation of a Portable Parallel Image Processing Library.
+conf/pvm/CiaccioC00:::Giuseppe Ciaccio::Giovanni Chiola:::GAMMA and MPI/GAMMA on Gigabit Ethernet.
+conf/pvm/MigliardiSF00:::Mauro Migliardi::Vaidy S. Sunderam::Arrigo Frisiani:::A Simple, Fault Tolerant Naming Space for the HARNESS Metacomputing System.
+conf/pvm/TsujitaITY02:::Yuichi Tsujita::Toshiyuki Imamura::Hiroshi Takemiya::Nobuhiro Yamagishi:::Stampi-I/O: A Flexible Parallel-I/O Library for Heterogeneous Computing Environment.
+conf/pvm/Fischer01:::Markus Fischer:::System Area Network Extensions to the Parallel Virtual Machine.
+conf/pvm/TruongFGM02:::Hong Linh Truong::Thomas Fahringer::Michael Geissler::Georg Madsen:::Performance Analysis for MPI Applications with SCALEA.
+conf/pvm/SzeberenyiD99:::Imre Szeberényi::Gábor Dokomos:::Solving Generalized Boundary Value Problems with Distributed Computing and Recursive Programming.
+conf/pvm/Celino96:::Massimo Celino:::Porting of an Empirical Tight-Binding Molecular Dynamics Code on MIMD Platforms.
+conf/pvm/CotronisTK00:::John Yiannis Cotronis::Zacharias Tsiatsoulis::C. Kouniakis:::Composition of Message Passing Applications On-Demand.
+conf/pvm/NapoliGF97:::Claudia Di Napoli::Maurizio Giordano::Mario Mango Furnari:::Distributed &amp; Cooperative Applications in PVM.
+conf/pvm/ReussnerTH00:::Ralf Reussner::Jesper Larsson Träff::Gunnar Hunzelmann:::A Benchmark for MPI Derived Datatypes.
+conf/pvm/SquyresL03:::Jeffrey M. Squyres::Andrew Lumsdaine:::A Component Architecture for LAM/MPI.
+conf/pvm/Darema01:::Frederica Darema:::The SPMD Model : Past, Present and Future.
+conf/pvm/EberlKTB99:::Michael Eberl::Wolfgang Karl::Carsten Trinitis::Andreas Blaszczyk:::Parallel Computing on PC Clusters - An Alternative to Supercomputers for Industrial Applications.
+conf/pvm/Geist97:::Al Geist:::Advanced Capabilities in PVM 3.4.
+conf/pvm/TheodoropoulosMTP96:::P. Theodoropoulos::G. Manis::Panayotis Tsanakas::George K. Papakonstantinou:::Extending Synchronization PVM Mechanisms.
+conf/pvm/ChanGPR98:::Ken J. Chan::Alan Gibbons::Marcelo Pias::Wojciech Rytter:::On the PVM Computations of Transitive Closure and Algebraic Path Problems.
+conf/pvm/BensonCHC03:::Gregory D. Benson::Cho-Wai Chu::Qing Huang::Sadik G. Caglar:::A Comparison of MPICH Allgather Algorithms on Switched Networks.
+conf/pvm/SilvaS99:::Pedro V. Silva::João Gabriel Silva:::Implementing MPI-2 Extended Collective Operations.

@@ -1,0 +1,200 @@
+conf/iscas/HarrerNRC94:::Hubert Harrer::Josef A. Nossek::Tamás Roska::Leon O. Chua:::A Current-Mode DTCNN Universal Chip .
+conf/iscas/MengG95:::Wu Meng::Feng Guangzeng:::A Multi-Solution Learning Algorithm for Fuzzy Rules.
+conf/iscas/NakagawaLKK95:::Masato Nakagawa::Dong-Ik Lee::Sadatoshi Kumagai::Shinzo Kodama:::Equivalent Net Abstraction and Firing Sequence Preservation.
+conf/iscas/WalkerC94:::Jacqueline Walker::Antonio Cantoni:::A New Design for A Frame Sampling Synchronizer.
+conf/iscas/DrangerP93:::Thomas S. Dranger::Roland Priemer:::Adaptive classifiers using ontogenetic neural networks with feedback.
+conf/iscas/MidtgaardS94:::Jacob Midtgaard::Christer Svensson:::5.8Gb/s 16: 1 Multiplexer and 1: 16 Demultiplexer Using 1.2µm BiCMOS.
+conf/iscas/CooleyFB95:::Gregory M. Cooley::Terri S. Fiez::Bryan Buchanan:::PWM and PCM Techniques for Control of Digitally Programmable Switching Power Supplies.
+conf/iscas/Kocarev95:::Ljupco Kocarev:::Chaos Synchronization of High-Dimensional Dynamical Systems.
+conf/iscas/SaitoM94:::Toshimichi Saito::Kunihiko Mitsubori:::Rigorous and Realistic Control of Piecewise Linear Chaos.
+conf/iscas/PaliourasSS93:::Vassilis Paliouras::D. Soudris::Thanos Stouraitis:::Methodology for the Design of Signed-digit DSP Processors.
+conf/iscas/ThakurCW95:::Shashidhar Thakur::Kai-Yuan Chao::D. F. Wong:::An Optimal Layer Assignment Algorithm for Minimizing Crosstalk for Three Layer VHV Channel Routing.
+conf/iscas/PaasioHP94:::Ari Paasio::Kari Halonen::Veikko Porra:::CMOS Implementation of Associative Memory Using Cellular Neural Network Having Adjustable Template Coefficients.
+conf/iscas/BlowHPT93:::Brian A. Blow::Ramesh Harjani::Dennis L. Polla::Takashi Tamagawa:::A Dual Frequency Range Integrated Circuit Accelerometer Using Capacitive and Piezoelectric Sensing Techniques.
+conf/iscas/DickmannF95:::G. Dickmann::N. J. Fliege:::Digital Signal Processing for Multi-Carrier Data Transmission on Phase-Controlled Power Lines with Nonlinearities.
+conf/iscas/FukumotoKT95:::Masahiro Fukumoto::Hajime Kubota::Shigeo Tsujii:::Improvement in Stability and Convergence Speed on Normalized LMS Algorithm.
+conf/iscas/UnwalaS93:::Ishaq H. Unwala::Earl E. Swartzlander Jr.:::Superpipelined Adder Designs.
+conf/iscas/YagiFESSKT93:::Nobuyuki Yagi::Kazuo Fukui::Kazumasa Enami::Nobuyuki Sasaki::Hidetaka Saitou::Yuji Konno::Ryuichiro Tomita:::A Programmable Video Signal Multi-processor for HDTV Signals.
+conf/iscas/ShatnawiAS95:::Ali Shatnawi::M. Omair Ahmad::M. N. S. Swamy:::Rate-Optimal Static Scheduling of DSP Data Flow Graphs onto Multiprocessors using Circuit Contraction.
+conf/iscas/PierzchalaR95:::Marian Pierzchala::Benedykt Rodanski:::Obtaining Symbolic Network Functions of Large Circuits - An Algebraic Approach.
+conf/iscas/Delgado-RestitutoR94:::Manuel Delgado-Restituto::Ángel Rodríguez-Vásquez:::CMOS Current-Mode Chaotic Neurons.
+conf/iscas/Horrocks93:::David H. Horrocks:::Generation of Symmetric Oscillators.
+conf/iscas/MatsumotoST93:::Tadashi Matsumoto::Tetsuya Sakabe::Kohkichi Tsuji:::On Parallel Symbolic Analysis of Large Networks and Systems.
+conf/iscas/NiZAD93:::Yang Ni::Yi-min Zhu::Bogdan Arion::F. Devos:::Yet another analog 2D Gaussian convolver.
+conf/iscas/ChaoSST94:::Jinhui Chao::Teruyuki Sato::Kohichi Sakaniwa::Shigeo Tsujii:::New Results on Stability Theory of Time-Varying Linear Systems.
+conf/iscas/JayasumanaMM95:::Anura P. Jayasumana::Yashwant K. Malaiya::Sankaran M. Menon:::A Novel High-Speed BiCMOS Domino Logic Family.
+conf/iscas/CollinsMB94:::S. Collins::G. F. Marshall::D. R. Brown:::An Analog Radial Basis Function Circuit Using a Compact Euclidean Distance Calculator.
+conf/iscas/Gilli93:::Marco Gilli:::A Lyapunov function approach to the study of the stability of cellular neural networks.
+conf/iscas/ChangSW93:::Ching-Haur Chang::Sammy Siu::Che-Ho Wei:::A decision feedback equalizer utilizing higher-order correlation.
+conf/iscas/GreenM95:::Michael M. Green::Robert C. Melville:::Sufficient Conditions for Finding Multiple Operating Points for CD Circuits Using Continuation Methods.
+conf/iscas/JamaliRKE94:::M. M. Jamali::S. Ravindranath::Subhash C. Kwatra::A. G. Eldin:::ASIC Design of a Generalized Covariance Matrix Processor for DOA Algorithms.
+conf/iscas/MauritzM94:::H. Mauritz::Wolfgang Mathis:::Integration System as Adaptive Control System.
+conf/iscas/YamadaNISK95:::Akihisa Yamada::Satoru Nakamura::Nagisa Ishiura::Isao Shirakawa::Takashi Kambe:::Optimal Scheduling for Conditional Recource Sharing.
+conf/iscas/deFigueiredo93:::Rui J. P. deFigueiredo:::A neural network model for nonlinear predicitve coding in Fock space.
+conf/iscas/SiqueiraAD95:::M. G. Siqueira::A. Alwan::P. S. R. Diniz:::Finite Precision Analysis of the Fast QRD-RLS Lattice Algorithm.
+conf/iscas/SiqueiraDA94:::Marcio G. Siqueira::P. S. R. Diniz::A. Alwan:::Infinite Precision Analysis of the Fast QR Decomposition RLS Algorithm.
+conf/iscas/MalinowskiZA94:::Aleksander Malinowski::Jacek M. Zurada::Peter B. Aronhime:::Minimal Training Set Size Estimation for Neural Network-Based Function Approximation.
+conf/iscas/Halen94:::Paul Van Halen:::A Physical Charge-Based Model for the Space Charge Region of Abrupt and Linear Semiconductor Junctions.
+conf/iscas/WangLLC93:::Lih-Yang Wang::Yen-Tai Lai::Bin-Da Liu::Tin-Chung Chang:::Layout Compaction with Minimzed Delay Bound on Timing Critical Paths.
+conf/iscas/Hanna94:::Magdy T. Hanna:::Maximally Continuous Windows.
+conf/iscas/WebsterPHR94:::D. R. Webster::A. E. Parker::D. G. Haigh::Paul M. Radmore:::Device Circuit Interaction in the Common Source Amplifier.
+conf/iscas/AburE93:::Ali Abur::Antonio Gómez Expósito:::Observability and bad data identfication when using ampere measurements in state estimation.
+conf/iscas/GreenfieldH94:::Scott E. Greenfield::Marwan M. Hassoun:::Direct Hierarchical Symbolic Transient Analysis of Linear Circuits.
+conf/iscas/LeeLAS93:::Byung-Gook Lee::Ki Yong Lee::Souguil Ann::Iickho Song:::A sequential algorithm for robust parameter estimation and enhancement of noisy speech.
+conf/iscas/CarreiraF94:::João Pedro A. Carreira::José E. Franca:::High-Speed CMOS Current Comparators.
+conf/iscas/SrinivasP94:::Hosahalli R. Srinivas::Keshab K. Parhi:::A Fast Radix-4 Division Algorithm.
+conf/iscas/KhooKW93:::Kei-Yong Khoo::Alan Kwentus::Alan N. Willson Jr.:::An efficient 175 MHz programmable FIR digital filter.
+conf/iscas/GopinathB93:::R. A. Gopinath::C. Sidney Burrus:::A tutorial overview of filter banks, wavelets and interrelations.
+conf/iscas/VitalFS93:::João C. Vital::José E. Franca::Nuno S. Silva:::Fully-digital Testability of a High-speed Conversion System.
+conf/iscas/JiangKHM93:::W. W. Jiang::S.-Z. Kiang::N. Z. Hakim::H. E. Meadows:::Lossless compression for medical imaging systems using linear/non-linear prediction and arithmetic coding.
+conf/iscas/Mizutani94:::Hikaru Mizutani:::The Back Propagation Method for CNN.
+conf/iscas/FrancesconiLLMT93:::F. Francesconi::G. Lazzari::Valentino Liberali::Franco Maloberti::Guido Torelli:::Multiplier-free Lagrange interpolators for oversampled D/A converters.
+conf/iscas/RobertsonPP93:::W. Robertson::S Periyalwar::W. J. Phillips:::RTL Synthesis for Systolic Arrays.
+conf/iscas/ChangW94:::J. Y. Chang::W. H. Wang:::A New 2-D Zero Phase Digital Filter Design with Quadrantally Symmetric or Antisymmetric Properties.
+conf/iscas/GadzhevaR94:::E. D. Gadzheva::L. H. Raykovska:::Nullator-Norator Spproach for Diagnosis and Fault Prediction in Analog Circuits.
+conf/isess/DornerP99:::Sarah Dorner::Christopher Pal:::Case Libraries and Information Theoretic Case Matching for Soil and Water Resources Management.
+conf/isess/Maul99:::Christian Maul:::What Would a Reusable Meteorology Component for Environmental Models Look Like?
+conf/isess/Bride99:::G. Mc Bride:::Some Current Issues in Using Diffuse Large Datasets for Environmental Modelling in New Zealand.
+conf/isess/Purvis99:::Martin K. Purvis:::A Distributed Architecture for Environmental Information Systems.
+conf/ishpc/RothmanS02:::Jeffrey B. Rothman::Alan Jay Smith:::Minerva: An Adaptive Subblock Coherence Protocol for Improved SMP Performance.
+conf/ishpc/BenknerS02:::Siegfried Benkner::Viera Sipková:::Language and Compiler Support for Hybrid-Parallel Programming on SMP Clusters.
+conf/ishpc/Cybenko97:::George Cybenko:::High Performance Wireless Computing.
+conf/ishpc/Loulergue00:::Frédéric Loulergue:::BSlambda<sub> <i>p</i> </sub>: Functional BSP Programs on Enumerated Vectors.
+conf/ishpc/AkiyamaMOMSNOA97:::Yutaka Akiyama::Kiyotaka Misoo::Yoshiharu Omura::Hiroshi Matsumoto::Minoru Saito::Tamotsu Noguchi::Kentaro Onizuka::Makoto Ando:::Parallelization of Space Plasma Particle Simulation.
+conf/ishpc/PrabhakarGC02:::Achal Prabhakar::Vladimir Getov::Barbara M. Chapman:::Performance Comparisons of Basic OpenMP Constructs.
+conf/ishpc/MikiHI99:::Mitsunori Miki::Tomoyuki Hiroyasu::Taiju Ikeda:::Parallel Distributed Optimization by Resource Addition and Reduction.
+conf/ishpc/TangVNG02:::Weiyu Tang::Alexander V. Veidenbaum::Alexandru Nicolau::Rajesh K. Gupta:::Integrated I-cache Way Predictor and Branch Target Buffer to Reduce Energy Consumption.
+conf/ishpc/KoteraHSS00:::Hidetoshi Kotera::Taku Hirasawa::Sasatoshi Senga::Susumu Shima:::A Study on the Effect of Air on the Dynamic Motion of a MEMS Device and Its Shape Optimization.
+conf/ishpc/NemethTKA99:::Zsolt Németh::Hiroshi Tomiyasu::Péter Kacsuk::Makoto Amamiya:::Multithreaded LOGFLOW on KUMP/D.
+conf/ishpc/NakanoIOKK02:::Hirofumi Nakano::Kazuhisa Ishizaka::Motoki Obata::Keiji Kimura::Hironori Kasahara:::Static Coarse Grain Task Scheduling with Cache Optimization Using OpenMP.
+conf/ishpc/ArmstrongKE00:::Brian Armstrong::Seon Wook Kim::Rudolf Eigenmann:::Quantifying Differences between OpenMP and MPI Using a Large-Scale Application Suite.
+conf/ishpc/FalconSMFRV02:::Ayose Falcón::Oliverio J. Santana::Pedro Medina::Enrique Fernández::Alex Ramírez::Mateo Valero:::Studying New Ways for Improving Adaptive History Length Branch Predictors.
+conf/ishpc/SaitoGJEILWW02:::Hideki Saito::Greg Gaertner::Wesley B. Jones::Rudolf Eigenmann::Hidetoshi Iwashita::Ron Lieberman::G. Matthijs van Waveren::Brian Whitney:::Large System Performance of SPEC OMP2001 Benchmarks.
+conf/ishpc/SatakeKTON03:::Shin-ichi Satake::Tomoaki Kunugi::Kazuyuki Takase::Yasuo Ose::Norihito Naito:::Large Scale Structures of Turbulent Shear Flow via DNS.
+conf/ishpc/BasumallikME02:::Ayon Basumallik::Seung-Jai Min::Rudolf Eigenmann:::Towards OpenMP Execution on Software Distributed Shared Memory Systems.
+conf/ishpc/Evripidou97:::Paraskevas Evripidou:::Thread Synchronization Unit (TSU): A Building Block for High Performance Computers.
+conf/ishpc/InenagaKMA97:::Kentaro Inenaga::Shigeru Kusakabe::Tetsuro Morimoto::Makoto Amamiya:::Hybrid Approach for Non-strict Dataflow Program on Commodity Machine.
+conf/ishpc/HiranoST03:::Motonori Hirano::Mitsuhisa Sato::Yoshio Tanaka:::OpenGR: A Directive-Based Grid Programming Environment.
+conf/ishpc/TsuruokaKH03:::Nobuhiko Tsuruoka::Motoyoshi Kurokawa::Ryutaro Himeno:::Evaluation of High-Speed VPN Using CFD Benchmark.
+conf/ismar/SuganoKT03:::Natsuki Sugano::Hirokazu Kato::Keihachiro Tachibana:::The Effects of Shadow Representation of Virtual Objects in Augmented Reality.
+conf/ismar/AgusantoLCS03:::Kusuma Agusanto::Li Li::Zhu Chuangui::Ng Wan Sing:::Photorealistic rendering for augmented reality using environment illumination.
+conf/ismar/NajafiK03:::Hesam Najafi::Gudrun Klinker:::Model-Based Tracking with Stereovision for AR.
+conf/ismar/KoyamaKO03:::Takayoshi Koyama::Itaru Kitahara::Yuichi Ohta:::Live Mixed-Reality 3D Video in Soccer Stadium.
+conf/ismar/MaedaHYHH03:::Hiroyuki Maeda::Kazuhiko Hirose::Jun Yamashita::Koichi Hirota::Michitaka Hirose:::All-Around Display for Video Avatar in Real World.
+conf/ismar/OkumaKS03:::Takashi Okuma::Takeshi Kurata::Katsuhiko Sakaue:::Fiducial-less 3-D Object Tracking in AR Systems Based on the Integration of Top-down and Bottom-up Approaches and Automatic Database Addition.
+conf/ismar/KleinD03:::Georg Klein::Tom Drummond:::Robust Visual Tracking for Non-Instrumented Augmented Reality.
+conf/ismar/LivingstonSGHHJBB03:::Mark A. Livingston::J. Edward Swan II::Joseph L. Gabbard::Tobias Höllerer::Deborah Hix::Simon Julier::Yohan Baillot::Dennis Brown:::Resolving Multiple Occluded Layers in Augmented Reality.
+conf/ismar/DavisonMM03:::Andrew J. Davison::Walterio W. Mayol-Cuevas::David W. Murray:::Real-Time Localisation and Mapping with Wearable Active Vision.
+conf/ismar/RoetenbergLV03:::Daniel Roetenberg::Henk Luinge::Peter Veltink:::Inertial and magnetic sensing of human movement near ferromagnetic materials.
+conf/ismda/LammaMNPRS01:::Evelina Lamma::Paola Mello::A. Nanetti::G. Poli::Fabrizio Riguzzi::S. Storari:::An Expert System for Microbiological Data Validation and Surveillance.
+conf/ismda/MaojoS00:::Victor Maojo::José A. Sanandrés:::A Survey of Data Mining Techniques.
+conf/ismda/RianoP00:::David Riaño::Susana Prado:::A Data Mining Alternative to Model Hospital Operations: Filtering, Adaption and Behaviour Prediction.
+conf/ismda/LinderP01:::Roland Linder::Siegfried J. Pöppl:::ACMD: A Practical Tool for Automatic Neural Net Based Learning.
+conf/ismda/GiulianiB00:::Alessandro Giuliani::Romualdo Benigni:::Principal Component Analysis for Descriptive Epidemiology.
+conf/ismda/DaumerHKLSS03:::Martin Däumer::Christian Harböck::Felix Ko::Christian Lederer::Thomas Schindler::Michael Scholz:::Towards an Improved On-linme Algorithm to Estimate the Fetal Heart Rate from Ultrasound Data.
+conf/ismda/SierraIL00:::Basilio Sierra::Iñaki Inza::Pedro Larrañaga:::Medical Bayes Networks.
+conf/ismda/ViikkiJ01:::Kati Viikki::Martti Juhola:::Refining the Knowledge Base 0f an Otoneurological Expert System.
+conf/ismda/PernerGPFE03:::Petra Perner::T. Günther::Horst Perner::G. Fiss::R. Ernst:::Health Monitoring by an Image Interpretation System - A System for Airborne Fungi Identification.
+conf/ismda/MendezTVLSV01:::Arturo J. Méndez::Pablo G. Tahoces::Celia Varela::María J. Lado::Miguel Souto::Juan J. Vidal:::Improvement of a Mammographic CAD System for Mass Detection.
+conf/ismda/BillhardtCMMM01:::Holger Billhardt::José Crespo::Victor Maojo::Fernando Martin::José Luis Maté:::A New Method for Unifying Heterogeneous Databases.
+conf/ismda/AlonsoLMMC01:::Fernando Alonso::África López-Illescas::Loïc Martínez::César Montes::Juan Pedro Caraça-Valente:::Analysis of Strength Data Based on Expert Knowledge.
+conf/ismda/ChoiLYK03:::Soo-Mi Choi::Don-Su Lee::Seong-Joon Yoo::Myoung-Hee Kim:::Interactive Visualization of Diagnostic Data from Cardiac Images Using 3D Glyphs.
+conf/ismda/WagenpfeilTL03:::Stefan Wagenpfeil::Uwe Treiber::Antonie Lehmer:::Isobologram Analysis in MATLAB for Combined Effects of Two Agents in Dose-Response Experiments.
+conf/ismda/InzaMLQSG00:::Iñaki Inza::Marisa Merino::Pedro Larrañaga::Jorge Quiroga::Basilio Sierra::Marcos Girala:::Feature Subset Selection Using Probabilistic Tree Structures. A Case Study in the Survival of Cirrhotic Patients Treated with TIPS.
+conf/ismda/FrigerNR01:::Michael Friger::Yelena Novack::Ulrich Ranft:::Quasi-Fourier Modeling for Individual and Count Outcomes.
+conf/ismda/Rodriguez-DazaLRCMLL03:::I. Rodríguez-Daza::Luis M. Laita::Eugenio Roanes-Lozano::A. M. Crespo-Alonso::Victor Maojo::Luis de Ledesma::Laura Laita:::An Outline of an Expert System for Diagnosis and Treatment of Bronchogenic Carcinoma.
+conf/ismis/GiordanaNS96:::Attilio Giordana::Filippo Neri::Lorenza Saitta:::A Fine-Grained Parallel Evolutionary Program for Concept Induction.
+conf/ismis/GiordanaSB93:::Attilio Giordana::Lorenza Saitta::Cristina Baroglio:::Learning Simple Recursive Theories.
+conf/ismis/BackS96:::Thomas Bäck::Martin Schütz:::Intelligent Mutation Rate Control in Canonical Genetic Algorithms.
+conf/ismis/Badia99:::Antonio Badia:::Extending Description Logics with Generalized Quantifikation.
+conf/ismis/BuvacBM94:::Sasa Buvac::Vanja Buvac::Ian A. Mason:::The Semantics of Propositional Contexts.
+conf/ismis/Johnson00:::C. A. Johnson:::Top-Down Query Processing in First Order Deductive Databases under the DWFS.
+conf/ismis/RaedtL93:::Luc De Raedt::Nada Lavrac:::The Many Faces of Inductive Logic Programming.
+conf/ismis/Guarino88:::Nicola Guarino:::Attributed and Extensional Equivalence in DRL.
+conf/ismis/Eusterbrock97:::Jutta Eusterbrock:::Program Synthesis from Examples by Theory Formation.
+conf/ismis/BalabanM87:::Mira Balaban::Neil V. Murray:::A First Order Calculus for Temporal Knowledge.
+conf/ismis/Gan94:::Honghua Gan:::Understanding a Story With Causal Relationships.
+conf/ismis/NgS91:::Raymond T. Ng::V. S. Subrahmanian:::Stable Model Semantics for Probabilistic Deductive Databases.
+conf/ismis/CundellSSS00:::Diana R. Cundell::Randy S. Silibovsky::Robyn Sanders::Les M. Sztandera:::Using Intelligent Systems in Predictions of the Bacterial Causative Agent of an Infection.
+conf/ismis/WuZ99:::Cheng-Min Wu::Yan Zhang:::Implementing Prioritized Logic Programming.
+conf/ismis/McClusky88:::T. L. McCluskey:::Deriving a Correct Logic Program from the Formal Specification of a Non-Linear Planner.
+conf/ismis/BagaiSZC93:::Rajiv Bagai::Vasant Shanbhogue::Jan M. Zytkow::Shang-Ching Chou:::Automatic Theorem Generation in Plane Geometry.
+conf/ismis/Tsumoto00:::Shusaku Tsumoto:::Discovery of Clinical Knowledge in Hospital Information Systems: Two Case Studies.
+conf/ismis/RasD02:::Zbigniew W. Ras::Agnieszka Dardzinska:::Handling Semantic Inconsistencies in Distributed Knowledge Systems Using Ontologies.
+conf/ismis/BoscP02:::Patrick Bosc::Olivier Pivert:::Mixing Selections and Foreign Key Joins in Queries against Possibilistic Databases.
+conf/ismis/BoscP97:::Patrick Bosc::Olivier Pivert:::On Representation-Based Querying of Databases Containing Ill-known Values.
+conf/ismis/BarruffiMT00:::Rosy Barruffi::Michela Milano::Paolo Torroni:::Planning while Executing: A Constraint-Based Approach.
+conf/ismis/SimpsonMLK00:::Ron M. Simpson::T. L. McCluskey::D. Liu::D. E. Kitchin:::Knowledge Representation in Planning: A PDDL to <i>OCL<sub>h</sub> </i> Translation.
+conf/ismis/Bruno88:::Silvia Bruno:::ORION: A Knowledge Based Clustering System.
+conf/ismis/CalmetT91:::Jacques Calmet::Indra A. Tjandra:::Representation of Mathematical Knowledge.
+conf/ismis/Yoon97:::Suk-Chung Yoon:::Towards Conceptual Query Answering.
+conf/ismis/Xiang94:::Yang Xiang:::Distributed Multi-Agent Probabilistic Reasoning With Bayesian Networks.
+conf/ismis/Puget93:::Jean-Francois Puget:::On the Satisfiability of Symmetrical Constrained Satisfaction Problems.
+conf/ismis/AlmeidaM99:::Mauricio Amaral de Almeida::Stan Matwin:::Machine Learning Method for Software Quality Model Building.
+conf/ismis/DesaiZ91:::Bipin C. Desai::Li Zhang:::Multilevel Interface to a Distributed Database System.
+conf/ismis/LaerRD97:::Wim Van Laer::Luc De Raedt::Saso Dzeroski:::On Multi-class Problems and Discretization in Inductive Logic Programming.
+conf/ismis/CarberryC97:::Sandra Carberry::John R. Clarke:::TraumaCASE: Exploiting the Knowledge Base of an Existing Decision Support System to Automatically Construct Medical Cases.
+conf/ismis/NissanR97:::Ephraim Nissan::Daniel Rousseau:::Towards AI Formalisms for Legal Evidence.
+conf/ismis/ElomaaR97:::Tapio Elomaa::Juho Rousu:::Well-Behaved Evaluation Functions for Numerical Attributes.
+conf/ismis/PlazaA00:::Enric Plaza::Josep Lluís Arcos:::Towards a Software Architecture for Case-Based Reasoning Systems.
+conf/ismis/LowryHP97:::Michael R. Lowry::Klaus Havelund::John Penix:::Verification and Validation of AI Systems that Control Deep-Space Spacecraft.
+conf/ismis/KimKL02:::Eunju Kim::Wooju Kim::Yillbyung Lee:::Classifier Fusion Using Local Confidence.
+conf/ismis/Backstrom88:::Christer Bäckström:::A Representation of Coordinated Actions Characterized by Interval Valued Conditions.
+conf/ismis/LassezM87:::Catherine Lassez::Ken McAloon:::Stratified Interactive Knowledge Bases.
+conf/ismis/Janikow91:::Cezary Z. Janikow:::A New System for Inductive Learning in Attribute-Based Spaces.
+conf/ismis/EklundC02:::Peter W. Eklund::Richard Cole:::Structured Ontology and Information Retrieval for Email Search and Discovery.
+conf/ismis/EjdysG99:::Piotr Ejdys::Grzegorz Góra:::The More We Learn the Less We Know? On Inductive Learning from Examples.
+conf/ismis/Susmaga99:::Robert Susmaga:::Computation of Minimal Cost Reducts.
+conf/ismis/LambrixM96:::Patrick Lambrix::Jalal Maleki:::Learning Composite Concepts in Description Logics: A First Step.
+conf/ismis/LambrixP97:::Patrick Lambrix::Lin Padgham:::A Description Logic Model for Querying Knowledge Bases for Structured Documents.
+conf/ismis/BrownMW93:::Allen L. Brown Jr.::Surya Mantha::Toshiro Wakayama:::A Logical Reconstruction of Constraint Relaxation Hierarchies in Logic Programming.
+conf/ismis/McMillan87:::William W. McMillan:::Classical Conditioning as an Example of Natural Models Useful in Machine Learning.
+conf/ismis/Lorenz91:::Sven Lorenz:::Nonmonotonic Temporal Reasoning: Persistence, Justified Causation and Event Minimization.
+conf/ismis/PetersHR99:::James F. Peters::Liting Han::Sheela Ramanna:::Approximate Time Rough Software Cost Decision System: multicriteria Decision-Making Approach.
+conf/ismis/LinLY94:::Tsau Young Lin::Qing Liu::Y. Y. Yao:::Logics Systems for Approximate Reasoning: Approximation via Rough Sets and Topological Spaces.
+conf/ismis/ShiHB94:::ShengLi Shi::M. Elizabeth C. Hull::David A. Bell:::A New Rule for Updating Evidence.
+conf/ismis/GelfondPP88:::Michael Gelfond::Halina Przymusinska::Teodor C. Przymusinski:::Minimal Model Semantics vs. Negation as Failure: A Comparison of Semantics.
+conf/ismis/Kundu99:::Sukhamay Kundu:::A Better Fitness Measure of a Text-Document for a Given Set of Keywords.
+conf/ismis/Sebastiani99:::Fabrizio Sebastiani:::Total Knowledge and Partial Knowledge in Logical Models of Information Retrieval.
+conf/ismis/Konolige88:::Kurt Konolige:::Defeasible Argumentation in Reasoning About Events.
+conf/ismis/Malec91:::Jacek Malec:::Process Transition Networks: A Formal Graphical Knowledge Representation Tool.
+conf/ismis/Rousset02:::Marie-Christine Rousset:::Knowledge Representation for Information Integration.
+conf/ismis/Portinale91:::Luigi Portinale:::Generalization Handling in a Dynamic Case Memory.
+conf/ismis/Lowry93:::Michael R. Lowry:::Methodologies for Knowledge-Based Software Engineering.
+conf/ismis/RyuCWK02:::Yeonseung Ryu::Kyoungwoon Cho::Youjip Won::Kern Koh:::Intelligent Buffer Cache Management in Multimedia Data Retrieval.
+conf/ismis/Ambroszkiewicz93:::Stanislaw Ambroszkiewicz:::Mutual Knowledge.
+conf/ismis/Cholewinski96:::Pawel Cholewinski:::Towards Programming in Default Logic.
+conf/ismis/HofmannUDKKR87:::Martin Hofmann::Anne Usha::Souri Das::Kazuhiko Kawamura::Atsushi Kara::Ravi Rastogi:::Module: A Modular Programming Environment in Prolog.
+conf/ismis/BrattenJEW88:::W. A. Bratten::M. L. Johnson::M. L. Emrich::J. M. Williams:::Rule-Based Approach to Telecommunications Design.
+conf/ismis/WendlandtD91:::Edgar B. Wendlandt::James R. Discroll:::Semantic Extensions to Text Retrieval.
+conf/ismis/CamachoMBA02:::David Camacho::José M. Molina::Daniel Borrajo::Ricardo Aler:::Solving Travel Problems by Integrating WEB Information with Planning.
+conf/ismis/PaiBKB87:::Miao-Li Pai::Gautam Biswas::Christopher Kendall::James C. Bezdek:::Towards the Design of a Knowledge Based System for Hypercarbon Play Analysis.
+conf/ismis/CholvyG02:::Laurence Cholvy::Christophe Garion:::Answering Queries Addressed to Several Databases: A Query Evaluator which Implements a Majority Merging Approach.
+conf/ismis/Demolombe96:::Robert Demolombe:::Validity Queries and Completeness Queries.
+conf/ismis/AdeMR94:::Hilde Adé::Bart Malfait::Luc De Raedt:::RUTH: an ILP Theory Revision System.
+conf/ismis/HacidT00:::Mohand-Said Hacid::Farouk Toumani:::Logic-Based Approach to Semistructured Data Retrieval.
+conf/ismis/Mazlack97:::Lawrence J. Mazlack:::Autonomous Database Mining and Disorder Measures.
+conf/ismvl/ShmerkoYLB96:::Vlad P. Shmerko::Svetlana N. Yanushkevich::Vitaly G. Levashenko::I. Bondar:::Technique of Computing Logic Derivatives for MVL-Functions.
+conf/ismvl/MoragaP90:::Claudio Moraga::Jörg Poswig:::Properties of the Zhang-Hartley Spectrum of Patterns.
+conf/ismvl/MoragaW98:::Claudio Moraga::W. Wang:::Evolutionary Methods in the Design of Quaternery Digital Circuits.
+conf/ismvl/FeiZ92:::Benchu Fei::Nan Zhuang:::Fast Logic Synthesis Based Upon Ternary Universal Logic Module <i> <sub>f</sub> </i>.
+conf/ismvl/Hanikova01:::Petr Hájek::Zuzana Haniková:::A Set Theory within Fuzzy Logic.
+conf/ismvl/HataHHKY97:::Yutaka Hata::Kiyoshi Hayase::Takahiro Hozumi::Naotake Kamiura::Kazuharu Yamato:::Multiple-Valued Logic Minimization by Genetic Algorithms.
+conf/ismvl/Haga92:::Takahiro Haga:::An Application of the p-Valued Input, q-Kind-Valued Output Logic to the Synthesis of the p-Valued Logical Networks.
+conf/ismvl/EklundGMOV01:::Patrik Eklund::M. A. Galán::Jesús Medina::Manuel Ojeda-Aciego::Agustín Valverde:::Composing Submonads.
+conf/ismvl/HanS90:::Jia-Yuan Han::Supreet Singh:::Comparison Look-Ahead and Design of Fast Fuzzy Operation Units.
+conf/ismvl/Liu96:::W. Liu:::The Incidence Propagation Method.
+conf/ismvl/Liu99:::Renren Liu:::Research on the Similarity among Precomplete Sets Preserving m-ary Relations in Partial K-Valued Logic.
+conf/ismvl/WahoKM02:::Takao Waho::Shin-ya Kobayashi::Koji Matsuura:::An Impact of Introducing Multi-Level Signals to a Bandpass Cascaded Delta-Sigma Modulator.
+conf/ismvl/HuaZ01:::Q. Hua::Q.-L. Zhen:::The Designing and Training of a Fuzzy Neural Hamming Classifier.
+conf/ismvl/Ras90:::Zbigniew W. Ras:::Fault-Recovery and Intelligent Distributed System.
+conf/ismvl/Stankovic99:::Radomir S. Stankovic:::Matrix-Valued EXOR-TDDs in Decompositon of Switching Functions.
+conf/ismvl/AsaiA03:::Tetsuya Asai::Yoshihito Amemiya:::Biomorphic Analog Devices based on Reaction-Diffusion Systems.
+conf/ismvl/LeeG92:::Edward K. F. Lee::P. Glenn Gulak:::Dynamic Current-Mode Multi-Valued MOS Memory with Error Correction.
+conf/ismvl/SongLKKKBLLP03:::Ki-Whan Song::Sang-Hoon Lee::Dae Hwan Kim::Kyung Rok Kim::Jaewoo Kyung::Gwanghyeon Baek::Chun-An Lee::Jong Duk Lee::Byung-Gook Park:::Complementary Self-Biased Scheme for the Robust Design of CMOS/SET Hybrid Multi-Valued Logic.
+conf/ismvl/Wojcik91:::Anthony S. Wojcik:::Reasoning About Digital Systems.
+conf/ismvl/WangLC95:::Hui Min Wang::Chung-Len Lee::Jwu E. Chen:::Factorization of Multi-Valued Logic Functions.
+conf/ismvl/EtiembleN93:::Daniel Etiemble::K. Navi:::A Basis for the Comparison of Binary and m-Valued Current Mode Circuits: the Multioperand Addition with Redundant Number Systems.
+conf/ismvl/MirmotahariB03:::Omid Mirmotahari::Yngvar Berg:::A Novel Multiple-Input Multiple-Valued Semi-Floating-Gate LATC.
+conf/ismvl/Pfalzgraf01:::Jochen Pfalzgraf:::On Logical Fiberings and Decomposition of Many-Valued Operations: A Brief Survey.
+conf/ismvl/Rosenberg96:::Ivo G. Rosenberg:::An Algebraic Approach to Hyperalgebras.

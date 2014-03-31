@@ -1,0 +1,200 @@
+conf/istcs/Leighton96:::Frank Thomson Leighton:::How to Pick a Winner Almost Every Time: Provably-Good Algorithms for Decision Making in the Face of Uncertainty.
+conf/istcs/CohenM92:::Edith Cohen::Nimrod Megiddo:::New Algorithms for Generalized Network Flows.
+conf/istcs/Hartman92:::Irith Ben-Arroyo Hartman:::Optimal K-Coloring and K-Nesting of Intervals.
+conf/istcs/Katz95:::Matthew J. Katz:::Improved Algorithms in Geometric Optimization via Expanders.
+conf/istcs/OstrovskyW93:::Rafail Ostrovsky::Avi Wigderson:::One-Way Fuctions are Essential for Non-Trivial Zero-Knowledge.
+conf/istcs/Sere93:::Kaisa Sere:::A Formalization of Superposition Refinement.
+conf/istcs/LubyVW93:::Michael Luby::Boban Velickovic::Avi Wigderson:::Deterministic Approximate Counting of Depth-2 Circuits.
+conf/istcs/Ben-DorIS95:::Amir Ben-Dor::Amos Israeli::Asaf Shirazi:::Dynamic Counting.
+conf/istcs/FeigeG95:::Uriel Feige::Michel X. Goemans:::Aproximating the Value of Two Prover Proof Systems, With Applications to MAX 2SAT and MAX DICUT.
+conf/istcs/FeigeR96:::Uriel Feige::Yuri Rabinovich:::Deterministic Approximation of the Cover Time.
+conf/istcs/Shamir93:::Adi Shamir:::Practical Cryptography - Recent Trends and Results.
+conf/istcs/CrescenziST96:::Pierluigi Crescenzi::Riccardo Silvestri::Luca Trevisan:::To Weight or Not to Weight: Where is the Question?
+conf/istcs/GalHI92:::Shmuel Gal::Yona Hollander::Alon Itai:::Optimal Mapping in Direct Mapped Cache Environments.
+conf/istcs/Stomp93:::Frank A. Stomp:::Structured Design of Self-Stabilizing Programs.
+conf/istcs/TardosB95:::Gábor Tardos::David A. Mix Barrington:::A Lower Bound on the Mod 6 Degree of the OR Function.
+conf/istcs/CzumajHS95:::Artur Czumaj::Friedhelm Meyer auf der Heide::Volker Stemann:::Improved Optimal Shared Memory Simulations, and the Power of Reconfiguration.
+conf/istcs/GoldbergZ95:::Tal Goldberg::Uri Zwick:::Optimal deterministic approximate parallel prefix sums and their applications.
+conf/istcs/LynchR96:::Nancy A. Lynch::Sergio Rajsbaum:::On the Borowsky-Gafni Simulation Algorithm.
+conf/issta/KolanoK00:::Paul Z. Kolano::Richard A. Kemmerer:::Classification schemes to aid in the analysis of real-time systems.
+conf/issta/Encontre02:::Vincent Encontre:::Is ISSTA research relevant to industrial users? panel - ISSTA 2002: empowering the developer to be a tester too!
+conf/issta/LatellaM02:::Diego Latella::Mieke Massink:::On testing and conformance relations for UML statechart diagrams behaviours.
+conf/issta/AgrawalDS91:::Hiralal Agrawal::Richard A. DeMillo::Eugene H. Spafford:::Dynamic Slicing in the Presence of Unconstrained Pointers.
+conf/issta/Coen-PorisiniK93:::Alberto Coen-Porisini::Richard A. Kemmerer:::The Composability of ASTRAL Realtime Specifications.
+conf/issta/BultanGL98:::Tevfik Bultan::Richard Gerber::Christopher League:::Verifying Systems with Integer Constraints and Boolean Predicates: A Composite Approach.
+conf/issta/YehY91:::Wei Jen Yeh::Michal Young:::Compositional Reachability Analysis Using Process Algebra.
+conf/issta/SloaneH96:::Anthony M. Sloane::Jason Holdsworth:::Beyond Traditional Program Slicing.
+conf/issta/OffuttH96:::A. Jefferson Offutt::Jane Huffman Hayes:::A Semantic Model of Program Faults.
+conf/issta/Corbett96:::James C. Corbett:::Constructing Abstract Models of Concurrent Real-Time Software.
+conf/issta/AvruninBCDW91:::George S. Avrunin::Ugo A. Buy::James C. Corbett::Laura K. Dillon::Jack C. Wileden:::Experiments with an Improved Constrained Expression Toolset.
+conf/issta/FleyshgakkerW94:::Vladimir N. Fleyshgakker::Stewart N. Weiss:::Efficient Mutation Analysis: A New Approach.
+conf/issta/ChechikG94:::Marsha Chechik::John D. Gannon:::Automatic Verification of Requirements Implementation.
+conf/issta/Richardson94:::Debra J. Richardson:::TAOS: Testing with Analysis and Oracle Support.
+conf/issta/Korel96:::Bogdan Korel:::Automated Test Data Generation for Programs with Procedures.
+conf/issta/Young94:::Michal Young:::State-Space Analysis as an Aid to Testing (Abstract).
+conf/issta/PodgurskiC89:::Andy Podgurski::Lori A. Clarke:::The Implications of Program Dependencies for Software Testing, Debugging, and Maintenance.
+conf/issta/MarxF96:::Delia I. S. Marx::Phyllis G. Frankl:::The Path-Wise Approach to Data Flow Testing with Pointer Variables.
+conf/issta/FranklD00:::Phyllis G. Frankl::Yuetang Deng:::Comparison of delivered reliability of branch, data flow and operational testing: A case study.
+conf/issta/AvritzerL93:::Alberto Avritzer::Brian Larson:::Load Testing Software Using Deterministic State Testing.
+conf/issta/KnightCFW94:::John C. Knight::Aaron G. Cass::Antonio M. Fernández::Kevin G. Wika:::Testing a Safety-Critical Application.
+conf/issta/HillerJS02:::Martin Hiller::Arshad Jhumka::Neeraj Suri:::PROPANE: an environment for examining the propagation of errors in software.
+conf/issta/RichardsonOT89:::Debra J. Richardson::T. Owen O'Malley::C. Tittle:::Approaches to Specification-Based Testing.
+conf/issta/Tracz96:::Will Tracz:::Test and Analysis of Software Architectures.
+conf/issta/CobleighCO00:::Jamieson M. Cobleigh::Lori A. Clarke::Leon J. Osterweil:::Verifying properties of process definitions.
+conf/issta/HarroldS89:::Mary Jean Harrold::Mary Lou Soffa:::Interprocedual Data Flow Testing.
+conf/issta/PandeL91:::Hemant D. Pande::William Landi:::Interprocedural Def-Use Associations in C Programs.
+conf/jisbd/MoraZC96a:::Eduardo Mora::Marta E. Zorrilla::Pedro Corcuera:::Orientaciones para el diseño de un sistema corporativo de gestión documental.
+conf/jisbd/LlidoCBM96:::Dolores María Llidó::Ramón Cirilo::Enrique Bonet::Gregorio Martín:::Pasarelas entre World Wide Web y Bases de Datos: Descriptión y ejemplos de implementación.
+conf/jisbd/GutierrezLP96:::Darío Álvarez Gutiérrez::Juan Manuel Cueva Lovelle::Benjamin López Pérez:::Laboratorio de Bases de Datos: Realizatión con otras asignaturas.
+conf/iwaca/VelezGTH94:::José M. Velez::Mário Rui Gomes::Bernhard Tritsch::Christoph Hornung:::Dedicated - Modular Training System (DELTA Project D2014).
+conf/iwaca/AltenhofenST94:::Michael Altenhofen::Joachim Schaper::Susan Thomas:::The BERKOM Multimedia Teleservices.
+conf/iwaca/RozekC94:::Andreas Rozek::Paul Christ:::The CIO Multimedia Communication Platform.
+conf/iwann/DujardinAMAM99:::Anne-Sophie Dujardin::Véronique Amarger::Kurosh Madani::Olivier Adam::Jean-François Motsch:::Multi-neural Network Approach for Classification of Brainstem Evoked Response Auditory.
+conf/iwann/MiftakovC99:::Roustem Miftakov::James Christensen:::A Biophysical Model of Intestinal Motility: Application in Pharmacological Studies.
+conf/iwann/Ruiz-del-SolarK99:::Javier Ruiz-del-Solar::Daniel Kottow:::ASGCS: A New Self-Organizing Network for Automatic Selection of Feature Variables.
+conf/iwann/FernandezMLARB95:::Miguel Angel Fernández::José Mira::Maria T. López::José R. Álvarez::Angeles Manjarrés Riesco::Senén Barro:::Local Accumulation of Persistent Activity at Synaptic Level: Application to Motion Analysis.
+conf/iwann/ValdesG97:::Julio J. Valdés::Ricardo García:::A Model for Heterogeneous Neurons and Its Use in Configuring Neural Networks for Classification Problems.
+conf/iwann/AleksanderMD01:::Igor Aleksander::Helen Morton::Barry Dunmall:::Seeing is Believing: Depictive Neuromodeling of Visual Awareness.
+conf/iwann/DaffertshoferH95:::A. Daffertshofer::H. Haken:::Adaptive Hierarchical Structures.
+conf/iwann/MolinaFR97:::Christophe G. Molina::William J. Fitzgerald::Peter J. W. Rayner:::Regularisation by Convolution in Symmetric-alpha-Stable Function Networks.
+conf/iwann/PaulyKE99:::Martin Pauly::Klaus Kopecz::Reinhard Eckhorn:::Gaze Control with Neural Networks: A Unified Approach for Saccades and Smooth Pursuits.
+conf/iwann/CorbachoA95:::Fernando J. Corbacho::Michael A. Arbib:::Schema Based Learning &amp; Learning to Detour.
+conf/iwann/CorbachoA97:::Fernando J. Corbacho::Michael A. Arbib:::Schema-Based Learning: Biologically Inspired Principles of Dynamic Organization.
+conf/iwann/HoW95:::A. M. C.-L. Ho::Philippe De Wilde:::General Transient Length Upper Bound for Recurrent Neural Networks.
+conf/iwann/MaekawaS97:::Satoshi Maekawa::Hidefumi Sawai:::Self-Organizing Formation of Receptive Fields and Competitive Systems.
+conf/iwann/LiW01:::Sa Li::Lipo Wang:::Channel Assignment for Mobile Communications Using Stochastic Chaotic Simulated Annealing.
+conf/iwann/HamamiL01:::Latifa Hamami::Nadia Lassouaoui:::An Approach Fractal and Analysis of Variogram for Edge Detection of Biomedical Images.
+conf/iwann/Yun01:::Tae Soo Yun:::Classification of Specular Object Based on Statistical Learning Theory.
+conf/iwann/SanchezBMC01:::Eduardo Sanchez::Senén Barro::Jorge Mariño::Antonio Canedo:::A Realistic Computational Model of the Local Circuitry of the Cuneate Nucleus.
+conf/iwann/MilliganWL01:::Gordon Milligan::Michael K. Weir::Jonathan P. Lewis:::Neural Steering: Diffcult and Impossible Sequential Problems for Gradient Descent.
+conf/iwann/WhiteL93:::David White::Panos A. Ligomenides:::GANNet: A Genetic Algorithm for Optimizing Topology and Weights in Neural Network Design.
+conf/iwann/RedondoE99a:::Mercedes Fernández Redondo::Carlos Hernández Espinosa:::Optimal Use of a Trained Neural Network for Input Selection.
+conf/iwann/MercierM95:::Gilles Mercier::Kurosh Madani:::CMAC Real-Time Adaptive Control Implementation on a D.S.P. Based Card.
+conf/iwann/PantaleonF93:::Carlos Pantaleón::Aníbal R. Figueiras-Vidal:::Nonlinear Time Series Modeling by Competitive Segmentation of State Space.
+conf/iwann/ChillemiBG99:::Santi Chillemi::Michele Barbi::Angelo Di Garbo:::Synchronisation in a Network of FHN Units with Synaptic-Like Coupling.
+conf/iwann/MorenoCC93:::Juan Manuel Moreno::F. Castillo::Joan Cabestany:::Optimiized Learning for Improving the Evolution of Piecewise Linear Separation Incremental Algorithms.
+conf/iwann/PascualBMC99:::Alberto Pascual::Montserrat Barcéna::Juan J. Merelo Guervós::José María Carazo:::Application of the Fuzzy Kohonen Clustering Network to Biological Macromolecules Images Classification.
+conf/iwann/SaltykovS99:::Konstantin A. Saltykov::Igor A. Shevlev:::Model of the Neuronal Net for Detection of Single Bars and Cross-Like Figures.
+conf/iwann/KeyvanR99:::Shahla Keyvan::Luis C. Rabelo:::Application of ART2-A as a Pseudo-supervised Paradigm to Nuclear Reactor Diagnosis.
+conf/iwann/Backhaus99:::Werner Backhaus:::Neuronal Coding and Color Sensations.
+conf/iwann/LopezLS01:::Antonio Miguel López Rodríguez::Hilario López García::Luciano Sánchez:::Graph Based GP Applied to Dynamical Systems Modeling.
+conf/iwann/LopezVC99:::P. López::David López Vilariño::Diego Cabello:::Genetic Algorithm Based Training for Multilayer Discrete-Time Cellular Neural Networks.
+conf/iwann/ZalamaGC95:::Eduardo Zalama::Paolo Gaudiano::Juan López Coronado:::Obstacle Avoidance by Means of an Operant Conditioning Model.
+conf/iwann/Moreno-Diaz97:::Roberto Moreno-Díaz:::System Models of Retinal Cells: A Classical Example.
+conf/iwann/AyoubiSS95:::Mihiar Ayoubi::M. Schäfer::S. Sinsel:::Dynamic Neural Units for Nonlinear Dynamic Systems Identification.
+conf/iwann/Shirazi01:::Mehdi N. Shirazi:::Orientation Selectivity of Intracortical Inhibitory Cells in the Striate Visual Cortex: A Computational Theory and a Neural Circuitry.
+conf/iwann/BertoliniPP99:::Cédric Bertolini::Hélène Paugam-Moisy::Didier Puzenat:::Priming an Artificial Associative Memory.
+conf/iwann/AnguitaPFP95:::Mancia Anguita::Francisco J. Pelayo::F. J. Fernández::Alberto Prieto:::A Low-Power Analog Implementation of Cellular Neural Networks.
+conf/iwann/Benitez-DiazG95:::D. Benitez-Diaz::J. Garcia-Quesada:::Learning Algorithm with Gaussian Membership Function for Fuzzy RBF Neural Networks.
+conf/iwann/VilarinoCM95:::David López Vilariño::Diego Cabello::Antonio Mosquera González:::Optimization Neural Networks for Image Segmentation.
+conf/iwann/GranadoLG99:::Bertrand Granado::Lionel Lacassagne::Patrick Garda:::Can General Purpose Micro-processors Simulate Neural Networks in Real-Time?
+conf/iwann/DouenceMSM01:::Vincent Douence::Sylvie Renaud-Le Masson::Sylvain Saïghi::Gwendal Le Masson:::A Field-Programmable Conductance Array IC for Biological Neurons Modeling.
+conf/iwann/MartinMBRFBL99:::P. Martin::Manuel Mazo::Luciano Boquete::F. J. Rodríguez::I. Fernández::Rafael Barea::J. L. Lázaro:::Hardware Implementation Using DSP's of the Neurocontrol of a Wheelchair.
+conf/iwann/Prida95:::Liset Menendez de la Prida:::Modeling Cortical Networks.
+conf/iwann/MiraMF91:::José Mira::Roberto Moreno-Díaz::José Simões da Fonseca:::Neural Net's Theory - The Specifications of a Computational Model of Memory and Information Processing in Decision-Making.
+conf/iwann/LeibovicM91:::K. Nicholas Leibovic::Roberto Moreno-Díaz Jr.:::On the Semantics of Morphogenesys in Photoreceptors.
+conf/iwann/CabelloPBPH93:::Diego Cabello::Manuel G. Penedo::Senén Barro::Xosé Manuel Pardo López::J. Heras:::CT Image Segmentation by Self-Organizing Learning.
+conf/iwann/RouwHR99:::Eelco Rouw::Jaap Hoekstra::Arthur H. M. Roermund:::An Artificial Dendrite Using Active Channels.
+conf/iwann/IkeguchiAA91:::T. Ikeguchi::M. Adachi::Kazuyuki Aihara:::Chaotic Neural Networks and Associative Memory.
+conf/iwann/RodriguezL97:::Francisco de Borja Rodríguez Ortiz::Vicente López:::Stability and Hebbian Learning in Populations of Probabilistic Neurons.
+conf/iwann/PridaS99:::Liset Menendez de la Prida::Juan Vicente Sánchez-Andrés:::Filtering Capability of Neural Networks from the Developing Mammalian Hippocampus.
+conf/iwann/JoyaH95:::Gonzalo Joya Caparrós::Francisco Sandoval Hernández:::A Neural Paradigm for Controlling Autonomous Systems with Reflex Behaviour and Learning Capability.
+conf/iwann/RoussetG01:::Patrick Rousset::Christiane Guinot:::Distance between Kohonen Classes Visualization Tool to Use SOM in Data Set Analysis and Representation.
+conf/iwann/CastilloCM93:::F. Castillo::Joan Cabestany::Juan Manuel Moreno:::Region of Influence (ROI) Networks. Model and Implementation.
+conf/iwann/AleksanderM93:::Igor Aleksander::Helen Morton:::A Neural State Machine for Iconic Language Representation.
+conf/iwann/FelzerHHM97:::Torsten Felzer::Peter Hartmann::Karlheinz Hohm::Peter Marenbach:::Motor Sequence Processing with an Artificial Learning System.
+conf/iwann/CoutinhoLB99:::Henrique J. S. Coutinho::Edgar A. Lanzer::Aran Bey:::Do Plants Optimize ?
+conf/iwann/BlascoHMS01:::Xavier Blasco Ferragud::Juan Manuel Herrero Durá::Miguel Andres Martínez Iranzo::Juan S. Senent Español:::Nonlinear Parametric Model Identification with Genetic Algorithms. Application to a Thermal Process.
+conf/iwann/Sahin01:::Erol Sahin:::Towards an On-Line Neural Conditioning Model for Mobile Robots.
+conf/iwann/HoekstraM95:::Jaap Hoekstra::Mohamed Maouli:::An Analytical Solution of the Compartment Model for Use in Logical Learning in Artificial Neural Networks.
+conf/iwann/BernierMOP95:::José Luis Bernier::Juan J. Merelo Guervós::Julio Ortega::Alberto Prieto:::Test Pattern Generation for Analog Circuits Using Neural Networks and Evolutive Algorithms.
+conf/iwann/BurgerL99:::Thomas Burger::Elmar Wolfgang Lang:::A Network Model for the Emergence of Orientation Maps and Local Lateral Circuits.
+conf/iwann/TambouratzisS93:::George Tambouratzis::T. John Stonham:::The Role of Forgetting in Efficient Learning Strategies for Self-Organising Discriminator-Based Systems.
+conf/iwann/LopezA01:::Félix de la Paz López::José Ramón Álvarez-Sánchez:::Topological Maps for Robot's Navigation: A Conceptual Approach.
+conf/iwann/StreyAHFCV95:::Alfred Strey::Narcís Avellana::Raul Holgado::J. Alberto Fernández::Ramon Capillas::Elena Valderrama:::A Massively Parallel Neurocomputer with a Reconfigurable Arithmetical Unit.
+conf/iwann/Diaz-OteroFLS95:::F. Díaz-Otero::Antonio Fernández-Caballero::A. Lorenzo::Juan A. Sigüenza:::Effects of Spatial Frequency and Stimulus Size on the Orientation Sensitivity of Humans.
+conf/iwann/GuisadoG01:::Miguel Angel Patricio Guisado::Darío Maravall Gómez-Allende:::Wood Texture Analysis by Combining the Connected Elements Histogram and Artificial Neural Networks.
+conf/iwann/Perez-UribeS97:::Andrés Pérez-Uribe::Eduardo Sanchez:::Structure-Adaptable Neurocontrollers: A Hardware-Friendly Approach.
+conf/iwann/Gomez-AllendeRPCG91:::Darío Maravall Gómez-Allende::Juan Rios::M. Pérez-Castellanos::A. Carpintero::J. Gómez-Calcerrada:::Comparison of Neural Networks and Conventional Techniques for Automatic Recognition of a Multilingual Speech Database.
+conf/iwann/PalagiG95:::P. M. Palagi::Anne Guérin-Dugué:::An Architecture for Texture Segmentation: from Energy Features to Region Detection.
+conf/iwann/Burkitt93:::Anthony N. Burkitt:::Optimised Attractor Neural Networks with External Inputs.
+conf/iwann/Faundez-Zanuy99:::Marcos Faúndez-Zanuy:::Adaptive Hybrid Speech Coding with a MLP/LPC Structure.
+conf/iwann/OrtegaPPPP93:::Julio Ortega::Francisco J. Pelayo::Alberto Prieto::Begoñ Pino::Carlos García Puntonet:::MapA: An Array Processor Architecture for Neural Networks.
+conf/iwann/PerezV93:::Juan Carlos Pérez-Cortes::Enrique Vidal:::Constructive Design of LVQ and DSM Classifiers.
+conf/iwann/ValderramaVCGNBC95:::Elena Valderrama::Rosa Villa::Enric Cabruja::Paco Garrido::Xavier Navarro::Miquel Buti::Santiago Calvet:::Regenerative-Type Neural Interface.
+conf/iwann/VicoOAH95:::Francisco J. Vico::F. Ortega::J. Almaraz::Francisco Sandoval Hernández:::Character Recognition with Neural Assemblies.
+conf/iwann/Botana99:::Francisco Botana:::Learning Efficient Rulsets from Fuzzy Data with a Generic Algorithm.
+conf/iwann/ArulampalamB01:::Ganesh Arulampalam::Abdesselam Bouzerdoum:::Novel Training Algorithm Based on Quadratic Optimisation Using Neural Networks.
+conf/iwann/Asanovic97:::Krste Asanovic:::A Fast Kohonen Net Implementation for Spert-II.
+conf/iwann/FengB97:::Jianfeng Feng::David Brown:::Viewing a Class of Neurodynamics on Parameter Space.
+conf/iwann/FengT95:::Jianfeng Feng::B. Tirozzi:::An Application of the Saturated Attractor Analysis to Three Typical Models.
+conf/iwann/EngelbrechtV99:::Andries Petrus Engelbrecht::H. L. Viktor:::Rule Improvement Through Decision Boundary Detection Using Sensitivity Analysis.
+conf/iwann/HeraultJG99:::Jeanny Hérault::Claire Jausions-Picaud::Anne Guérin-Dugué:::Curvilinear Component Analysis for High-Dimensional Data Representation: I. Theoretical Aspects and Practical Use in the Presence of Noise.
+conf/iwann/Centeno-GonzalezVI99:::José Centeno-González::Juan R. Velasco::Carlos Argel Iglesias:::An Agent-Based Operational Model for Hybrid Connectionist-Symbolic Learning.
+conf/iwann/GironesS99:::Rafael Gadea Gironés::Antonio Mocholí Salcedo:::Forward-Backward Parallelism in On-Line Backpropagation.
+conf/iwann/MiraD01:::José Mira::Ana E. Delgado García:::What Can We Compute with Lateral Inhibition Circuits?
+conf/iwann/LanskyV99:::Petr Lánský::Jean Vaillant:::Stochastic Model of the Place Cell Discharge.
+conf/iwann/FarhatHL97:::Nabil H. Farhat::Emilio Del Moral Hernandez::Gee-Hyuk Lee:::Strategies for Autonomous Adaptation and Learning in Dynamical Networks.
+conf/iwann/TheisBPL01:::Fabian J. Theis::Christoph Bauer::Carlos García Puntonet::Elmar Wolfgang Lang:::Pattern Repulsion Revisited.
+conf/iwann/Strey99:::Alfred Strey:::A Unified Model for the Simulation of Artificial and Biology-Oriented Neural Networks.
+conf/iwann/GranaDATH93:::Manuel Graña::Alicia D'Anjou::F. Xabier Albizuri::F. J. Torrealdea::M. C. Hernandez:::Local Stochastic Competition and Vector Quantization.
+conf/iwann/ThissenVLMD95:::Philippe Thissen::Michel Verleysen::Jean-Didier Legat::Jordi Madrenas::Jordi Domínguez:::A VLSI System for Neural Bayesian and LVQ Classification.
+conf/iwann/VersinoG95:::Cristina Versino::Luca Maria Gambardella:::Learning the Visuomotor Coordination of a Mobile Robot by Using the Invertible Kohonen Map.
+conf/iwann/RedondoE99:::Mercedes Fernández Redondo::Carlos Hernández Espinosa:::How to Select the Inputs for a Multilayer Feedforward Network by Using the Training Set.
+conf/iwann/Martin-del-BrioB95:::Bonifacio Martín-del-Brío::Javier Blasco-Alberto:::Hardware-Oriented Models for VLSI Implementation of Self-Organizing Maps.
+conf/iwann/GoserHR91:::Karl Goser::U. Hilleringmann::Ulrich Rückert:::Application and Implementation of Neural Networks in Microelectronics.
+conf/iwann/RodriguesVT01:::Roberto J. Rodrigues::Gizelle K. Vianna::Antonio C. G. Thomé:::Character Feature Extraction Using Polygonal Projection Sweep (Contour Detection).
+conf/iwann/BulsariSS93:::Abhai B. Bulsari::Bjørn Saxén::Henrik Saxén:::Feed-Forward Neural Networks for Bioreactor Control.
+conf/iwann/Falcon91:::Jorge Fernández Falcón:::Simulated Evolution of Modular Networks.
+conf/iwann/Grossberg95:::Stephen Grossberg:::Are There Universal Principles of Brain Computation?
+conf/iwann/GonzalezCLD95:::Ana M. González::Carlos Santa Cruz::Vicente López::José R. Dorronsoro:::Fast Automatic Architecture Selection on RBF Networks.
+conf/iwann/SantosCOM97:::José Santos Reyes::Manuel Cabarcos::Ramón P. Otero::José Mira:::Parallelization of Connectionist Models Based on a Symbolic Formalism.
+conf/iwann/PerezMT01:::Olga M. Perez::Francisco Javier Marín::Oswaldo Trelles:::Improving Biological Sequence Property Distances by Using a Genetic Algorithm.
+conf/iwann/LisaCVAV93:::Ferran Lisa::Jordi Carrabina::C. J. Pérez Vicente::Narcís Avellana::Elena Valderrama:::Feed Forward Network for Vehicle License Character Recognition.
+conf/iwcls/Wilson99a:::Stewart W. Wilson:::Get Real! XCS with Continuous-Valued Inputs.
+conf/iwlcs/Holmes00:::John H. Holmes:::Applying a Learning Classifier System to Mining Explanatory and Predictive Models from a Large Clinical Database.
+conf/iwlcs/ButzS01:::Martin Butz::Wolfgang Stolzmann:::An Algorithmic Description of ACS2.
+conf/iwlcs/KovacsK00:::Tim Kovacs::Manfred Kerber:::What Makes a Problem Hard for XCS?
+conf/iwlcs/KovacsL00:::Tim Kovacs::Pier Luca Lanzi:::A Bigger Learning Classifier Systems Bibliography.
+conf/iwqos/LiuSDFHP03:::Xue Liu::Lui Sha::Yixin Diao::Steve Froehlich::Joseph L. Hellerstein::Sujay Parekh:::Online Response Time Optimization of Apache Web Server.
+conf/iwqos/Sventek01:::Joe Sventek:::Invited Talk: Automated, Dynamic Traffic Engineering in Multi-service IP Networks.
+conf/iwqos/BrilS01:::Reinder J. Bril::E. F. M. Steffens:::User Focus in Consumer Terminals and Conditionally Guaranteed Budgets.
+conf/iwqos/PanagakisS01:::Antonis Panagakis::Ioannis Stavrakakis:::Optimal Call Admission Control under Generalized Processor Sharing Scheduling.
+conf/iwqos/KimS03a:::Songkuk Kim::Kang G. Shin:::Improving Dependability of Real-Time Communication with Preplanned Backup Routes and Spare Resource Pool.
+conf/iwqos/CampbellGLMMVZ01:::Andrew T. Campbell::Carsten Griwodz::Jörg Liebeherr::Dwight J. Makaroff::Andreas Mauthe::Giorgio Ventre::Michael Zink:::Panel Discussion: How Will Media Distribution Work in the Internet.
+conf/iwqos/BodinJS01:::Ulf Bodin::Andreas Jonsson::Olov Schelén:::On Creating Proportional Loss-Rate Differentiation: Predictability and Performance.
+conf/iwsas/LawsTWR01:::A. G. Laws::A. Taleb-Bendiab::S. J. Wade::D. Reilly:::From Wetware to Software: A Cybernetic Perspective of Self-adaptive Software.
+conf/iwsas/AdamisT01:::Gusztáv Adamis::Katalin Tarnay:::Frame-Based Self-adaptive Test Case Selection.
+conf/iwsas/RobertsonLS00:::Paul Robertson::Robert Laddaga::Howard E. Shrobe:::Introduction: The First International Workshop on Self-Adaptive Software.
+conf/jobim/Thierry-MiegT00:::Nicolas Thierry-Mieg::Laurent Trilling:::InterDB, a Prediction-Oriented Protein Interaction Database for C. elegans.
+conf/jobim/HeldenGWSW00:::Jacques van Helden::David Gilbert::Lorenz Wernisch::Michael Schroeder::Shoshana J. Wodak:::Application of Regulatory Sequence Analysis and Metabolic Network Analysis to the Interpretation of Gene Expression Data.
+conf/jsspp/SaphirTT95:::William Saphir::Leigh Ann Tanner::Bernard Traversat:::Job Management Requirements for NAS Parallel Systems and Clusters.
+conf/jsspp/ZhouWB00:::Bing Bing Zhou::David Walsh::Richard P. Brent:::Resource Allocation Schemes for Gang Scheduling.
+conf/jsspp/ParsonsS95:::Eric W. Parsons::Kenneth C. Sevcik:::Multiprocessor Scheduling for High-Variability Service Time Distributions.
+conf/jsspp/PinchakLG02:::Christopher Pinchak::Paul Lu::Mark Goldenberg:::Practical Heterogeneous Placeholder Scheduling in Overlay Metacomputers: Early Experiences.
+conf/jsspp/SmithFT98:::Warren Smith::Ian T. Foster::Valerie E. Taylor:::Predicting Application Run Times Using Historical Information.
+conf/jsspp/CirneB00:::Walfredo Cirne::Francine Berman:::Adaptive Selection of Partition Size for Supercomputer Requests.
+conf/jsspp/HoriTISKM96:::Atsushi Hori::Hiroshi Tezuka::Yutaka Ishikawa::Noriyuki Soda::Hiroki Konaka::Munenori Maeda:::Implementation of Gang-Scheduling on Workstation Cluster.
+conf/jsspp/Gibbons97:::Richard Gibbons:::A Historical Application Profiler for Use by Parallel Schedulers.
+conf/jsspp/FeitelsonR96:::Dror G. Feitelson::Larry Rudolph:::Towards Convergence in Job Schedulers for Parallel Supercomputers.
+conf/jsspp/Downey97:::Allen B. Downey:::Using Queue Time Predictions for Processor Allocation.
+conf/jsspp/Crovella01:::Mark Crovella:::Performance Evaluation with Heavy Tailed Distributions.
+conf/larch/GuaspariMP92:::David Guaspari::Carla Marceau::Wolfgang Polak:::Formal Verification of Ada Programs.
+conf/larch/BidoitH92:::Michel Bidoit::Rolf Hennicker:::How to Prove Observational Theorems with LP.
+conf/larch/Voisin92:::Frédéric Voisin:::A New Front-End for the Larch Prover.
+conf/kmgov/AmbriolaBP03:::Vincenzo Ambriola::Silvia Bertagnini::Letizia Pratesi:::Knowledge Management in Public Web Call Centres.
+conf/kmgov/LeL03:::Tang-Ho Lê::Luc Lamontagne:::A Collaborative E-authoring Tool for Knowledge Assets.
+conf/kmgov/MoriciNS03:::Roberta Morici::Eugenio Nunziata::Gloria Sciarra:::A Knowledge Management System for E-government Projects and Actors.
+conf/kmgov/Mustajarvi03:::Olli Mustajärvi:::MPs and KM: How Strict ICT Policy Has Enabled Development of Personalized KM Services in the Parliament of Finland.
+conf/latin/HerbreteauCFRS02:::Frédéric Herbreteau::Franck Cassez::Alain Finkel::Olivier Roux::Grégoire Sutre:::Verification of Embedded Reactive Fiffo Systems.
+conf/latin/Pin98:::Jean-Eric Pin:::Positive Varieties and Infinite Words.
+conf/latin/FerreiraS92:::Afonso Ferreira::Siang W. Song:::Achieving Optimality for Gate Matrix Layout and PLA Folding: a Graph Theoretic Approach.
+conf/latin/Feuerstein95:::Esteban Feuerstein:::Paging More Than One Page.
+conf/latin/Giesbrecht92:::Mark Giesbrecht:::Factoring in Skew-Polynomial Rings.
+conf/latin/Kaltofen92:::Erich Kaltofen:::Polynomial Factorization 1987-1991.
+conf/latin/BarthCDGV00:::Dominique Barth::Sylvie Corteel::Alain Denise::Danièle Gardy::Mario Valencia-Pabon:::On the Complexity of Routing Permutations on Trees by Arc-Disjoint Paths. Extended Abstract.
+conf/latin/CarlssonC92:::Svante Carlsson::Jingsen Chen:::Parallel Complexity of Heaps and Min-Max Heaps.
+conf/latin/CiceroneSFN00:::Serafino Cicerone::Gabriele Di Stefano::Daniele Frigioni::Umberto Nanni:::A Fully Dynamic Algorithm for Distributed Shortest Paths.
+conf/latin/Edelsbrunner98:::Herbert Edelsbrunner:::Shape Reconstruction with Delaunay Complex.
+conf/latin/BeckerDW95:::Bernd Becker::Rolf Drechsler::Ralph Werchner:::On the Relation Betwen BDDs and FDDs.
+conf/latin/Rolim92:::José D. P. Rolim:::On the Density and Core of the Complexity Classes.

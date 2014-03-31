@@ -1,0 +1,200 @@
+conf/ismvl/PoschelR92:::Reinhard Pöschel::M. Reichel:::Rectangular Algebras.
+conf/ismvl/TomaszewskaYS02:::Anna M. Tomaszewska::Svetlana N. Yanushkevich::Vlad P. Shmerko:::The Word-Level Models for Efficient Computation of Multiple-Valued Functions. PART 2: LWL Based Model.
+conf/ismvl/BraytonGJJLMSV02:::Robert K. Brayton::M. Gao::J.-H. Jiang::Y. Jiang::Y. Li::Alan Mishchenko::Subarnarekha Sinha::Tiziano Villa:::Optimization of Multi-Valued Multi-Level Networks.
+conf/ismvl/WuZP93:::Haomin Wu::Nan Zhuang::Marek A. Perkowski:::Novel CMOS Scan Design for VLSI Testability.
+conf/ismvl/TakimotoAH94:::Takashi Takimoto::Takafumi Aoki::Tatsuo Higuchi:::Design of Multiplex Interconnection Networks for Massively Parallel Computing Systems.
+conf/ismvl/XieRG03:::Shoulie Xie::Susanto Rahardja::Zhenghui Gu:::Relationship between UCHT and FFT.
+conf/ismvl/Kinvi-BohASO03:::E. Kinvi-Boh::M. Aline::O. Sentieys::Edgar "Dan" Olson:::MVL circuit design and characterization at the transistor level using SUS-LOC.
+conf/ismvl/HiratsukaAH97:::Masahiko Hiratsuka::Takafumi Aoki::Tatsuo Higuchi:::Enzyme Transistor Circuits for Biomolecular Computing.
+conf/ismvl/UtsumiKHY97:::T. Utsumi::Naotake Kamiura::Yutaka Hata::Kazuharu Yamato:::Multiple-Valued Programmable Logic Arrays with Universal Literals.
+conf/ismvl/CockK00:::Martine De Cock::Etienne E. Kerre:::A New Class of Fuzzy Modifiers.
+conf/ismvl/Brzozowski00:::Janusz A. Brzozowski:::De Morgan Bisemilattices.
+conf/ismvl/BeckertHM99:::Bernhard Beckert::Reiner Hähnle::Felip Manyà:::Transformations between Signed and Classical Clause Logic.
+conf/ismvl/ElliottS90:::W. Elliott Jr.::M. Schneider:::The Learning Aspects of the Fault Finder Expert System.
+conf/ismvl/NakajimaK93:::Masami Nakajima::Michitaka Kameyama:::Design of Multiple-Valued Linear Digital Circuits for Highly Parallel Unary Operations.
+conf/ismvl/NakajimaK96:::Masami Nakajima::Michitaka Kameyama:::Design of Highly Parallel Linear Digital Circuits Based on Symbol-Level Redundancy.
+conf/ismvl/SteinbachPL99:::Bernd Steinbach::Marek A. Perkowski::Christian Lang:::Bi-Decompositions of Multi-Valued Functions for Circuit Design and Data Mining Applications.
+conf/ismvl/InokawaT03:::Hiroshi Inokawa::Yasuo Takahashi:::Experimental and Simulation Studies of Single-Electron-Transistor-Based Multiple-Valued Logic.
+conf/ismvl/KrokhinBJ03:::Andrei A. Krokhin::Andrei A. Bulatov::Peter Jeavons:::Functions of multiple-valued logic and the complexity of constraint satisfaction: A short survey.
+conf/ismvl/SyutoSTI00:::Makoto Syuto::Jing Shen::Koichi Tanno::Okihiko Ishizuka:::Multi-Input Variable-Threshold Circuits for Multi-Valued Logic Functions.
+conf/ismvl/DueckR91:::Gerhard W. Dueck::G. H. John van Rees:::On the Maximum Number of Implicants Needed to Cover a Multiple-Valued Logic Function Using Window Literals.
+conf/ismvl/Sasao99:::Tsutomu Sasao:::Totally Undecomposable Functions: Applications to Efficient Multiple-Valued Decompositions.
+conf/ismvl/Romov02:::B. A. Romov:::Partial Hyperclones on a Finite Set.
+conf/ismvl/Romov95:::B. A. Romov:::Completeness Theory for Vector Partial Multiple-Valued Logic Functions.
+conf/ismvl/DrechslerKB97:::Rolf Drechsler::Martin Keim::Bernd Becker:::Sympathy-MV: Fast Exact Minimization of Fixed Polarity Multi-Valued Linear Expressions.
+conf/ismvl/DrechslerTW00:::Rolf Drechsler::Mitchell A. Thornton::David Wessels:::MDD-Based Synthesis of Multi-Valued Logic Networks.
+conf/ismvl/HanyuTK03:::Takahiro Hanyu::Tomohiro Takahashi::Michitaka Kameyama:::Bidirectional Data Transfer Based Asynchronous VLSI System Using Multiple-Valued Current Mode Logic.
+conf/ismvl/HanyuTK98:::Takahiro Hanyu::Kaname Teranishi::Michitaka Kameyama:::Multiple-Valued Floating-Gate-MOS Pass Logic and its Application to Logic-in-Memory VLSI.
+conf/ismvl/WesselsM92:::David Wessels::Jon C. Muzio:::Concurrent Checking and Unidirectional Errors in Multiple-Valued Circuits.
+conf/ismvl/MurakamiOS95:::R. Murakami::Yoshiteru Ohkura::Ryosaku Shimada:::2<sup>k</sup>-ary Cyclic AN Codes for Burst Error Correction.
+conf/ismvl/FilesP98a:::C. Files::Marek A. Perkowski:::Multi-Valued Functional Decomposition as a Machine Learning Method.
+conf/ismvl/FeyKD03:::Görschwin Fey::Sebastian Kinder::Rolf Drechsler:::Using Games for Benchmarking and Representing the Complete Solution Space using Symbolic Techniques.
+conf/ismvl/GrygielPMLJ97:::Stan Grygiel::Marek A. Perkowski::Malgorzata Marek-Sadowska::Tadeusz Luba::Lech Józwiak:::Cube Diagram Bundles: A New Representation of Strongly Unspecified Multiple-Valued Functions and Relations.
+conf/ismvl/TakagiM90:::Noboru Takagi::Masao Mukaidono:::Kleene-Stone Logic Functions.
+conf/ismvl/Perkowski92:::Marek A. Perkowski:::A Universal Logic Machine.
+conf/ismvl/LubaMYOS00:::T. Luba::Claudio Moraga::Svetlana N. Yanushkevich::M. Opoka::Vlad P. Shmerko:::Evolutionary Multi-Level Network Synthesis in Given Design Style.
+conf/ismvl/Bignall91:::Robert J. Bignall:::A Non-Commutative Multiple-Valued Logic.
+conf/ismvl/ArakiTM92:::Kiyomichi Araki::Masayuki Takada::Masakatu Morii:::On the Efficient Decoding of Reed-Solomon Codes Based on GMD Criterion.
+conf/ismvl/FontR90:::Josep Maria Font::Miquel Rius:::A Four-Valued Modal Logic Arising from Monteiro's Last Algebras.
+conf/ismvl/Tsuchiya91:::Yoshifumi Tsuchiya:::An Algorithm for the Solution of Multi-Valued Logic Programming.
+conf/ismvl/KamiuraHM00:::Naotake Kamiura::Yutaka Hata::Nobuyuki Matsui:::Controllability/Observability Measures for Multiple-Valued Test Generation Based on D-Algorithm.
+conf/ismvl/KobashiKH03:::Syoji Kobashi::Katsuya Kondo::Yutaka Hata:::Automated Finding of the Willis Ring in MR Angiography Images Using Fuzzy Knowledge Base.
+conf/ismvl/ButlerS03:::Jon T. Butler::Tsutomu Sasao:::On the Average Path Length in Decision Diagrams of Multiple-Valued Functions.
+conf/ismvl/ButlerS98:::Jon T. Butler::Tsutomu Sasao:::On the Properties of Multiple-Valued Functions that are Symmetric in both Variable Values and Labels.
+conf/ismvl/HataY94:::Yutaka Hata::Kazuharu Yamato:::A Multiple-Valued Logic Synthesis Using the Kleenean Coefficients.
+conf/ismvl/StankovicMJ99:::Radomir S. Stankovic::Dejan Milenovic::Dragan Jankovic:::Quaternion Groups versus Dyadic Groups in Representations and Processing of Switching Functions.
+conf/ismvl/StankovicSM01:::Radomir S. Stankovic::Milena Stankovic::Claudio Moraga:::Design of Haar Wavelet Transforms and Haar Spectral Transform Decision Diagrams for Multiple-Valued Functions.
+conf/ismvl/NinomiyaM00:::Tomoko Ninomiya::Masao Mukaidono:::Independence of the Axioms of Boolean Algebra in Multiple-Valued Logic.
+conf/ismvl/NinomiyaM03:::Tomoko Ninomiya::Masao Mukaidono:::Complete and Independent Sets of Axioms of Boolean Algebra.
+conf/ismvl/NinomiyaM99:::Tomoko Ninomiya::Masao Mukaidono:::Clarifying the Axioms of Kleene Algebra based on the Method of Indeterminate Coefficients.
+conf/ismvl/ThorntonDG00:::Mitchell A. Thornton::Rolf Drechsler::Wolfgang Günther:::A Method for Approximate Equivalence Checking.
+conf/ismvl/Malinowski96:::G. Malinowski:::Helena Rasiowa - A View of the Academic Trajectory and the Influence upon Polish and the International Scientific Community.
+conf/ispan/JiaAHZ02:::Weijia Jia::Pui-on Au::Yong He::Wanlei Zhou:::Optimal Multicast Tree Routing for Cluster Computing in Hypercube Interconnection Networks.
+conf/ispan/HarwoodS02:::Aaron Harwood::Hong Shen:::Random Hierarchies that Facilitate Self-Organization.
+conf/ispan/TanTS02:::Ling Tan::David Taniar::Kate A. Smith:::A New Parallel Genetic Algorithm.
+conf/isorc/Romanovsky00:::Alexander B. Romanovsky:::An Exception Handling Framework for N-Version Programming in Object-Oriented Systems.
+conf/isorc/PaunickaCM01:::James L. Paunicka::David Corman::Brian R. Mendel:::A CORBA-Based Middleware Solution for UAVs.
+conf/isorc/KimKMI98:::Jung-Guk Kim::Moon-hae Kim::Byoung-Joon Min::D. B. Im:::A Soft Real-Time TMO Platform - WTMOS - and its Implementation Techniques.
+conf/isorc/LiW02:::J. Jenny Li::W. Eric Wong:::Automatic Test Generation from Communicating Extended Finite State Machine (CEFSM)-Based Models.
+conf/isorc/PereiraBGN99:::Carlos Eduardo Pereira::Leandro Buss Becker::Martin Gergeleit::Edgar Nett:::An Integrated Environment for the Complete Development Cycle of an Object-Oriented Distributed Real-Time System.
+conf/isorc/RyuHKKJ00:::Chanho Ryu::Hyeok Han::Yongkeol Kim::Young-kuk Kim::Seongil Jin:::Kernel Structuring Using Time-Triggered Message-Triggered Objects for Real-Time Active DBMS in Layered Architecture.
+conf/isorc/KimS98:::K. H. Kim::Chittur Subbaraman:::Principles of Constructing a Timeliness-Guaranteed Kernel and Time-Triggered Message-Triggered Object Support Mechanisms.
+conf/isorc/Higuera-ToledanoIBCLP01:::M. Teresa Higuera-Toledano::Valérie Issarny::Michel Banâtre::Gilbert Cabillic::Jean-Philippe Lesot::Frédéric Parain:::Region-Based Memory Management for Real-Time Java.
+conf/isorc/SchultP02:::Wolfgang Schult::Andreas Polze:::Aspect-Oriented Programming with C# and .NET.
+conf/isorc/HoriETR03:::Kenichi Hori::Tomoya Enokido::Makoto Takizawa::Michel Raynal:::Nested Invocation Protocol for Object-Based Systems.
+conf/isorc/LankesJR02:::Stefan Lankes::Andreas Jabs::Michael Reke:::A Time-Triggered Ethernet Protocol for Real-Time CORBA.
+conf/isorc/BernardeschiSF98:::Cinzia Bernardeschi::Luca Simoncini::Alessandro Fantechi:::Validating the Design of Dependable Systems.
+conf/isorc/WongD00:::Allan K. Y. Wong::Tharam S. Dillon:::Load Balancing to Improve Dependability and Performance for Program Objects in Distributed Real-Time Co-Operation over the Internet.
+conf/isorc/PolzePW98:::Andreas Polze::Daniel Plakosh::Kurt C. Wallnau:::CORBA in Real-Time Settings: A Problem from the Manufacturing Domain.
+conf/isorc/YauX98:::Stephen S. Yau::Bing Xia:::An Approach to Distributed Component-Based Real-Time Application Software Development.
+conf/isorc/AtighetchiPWJ03:::Michael Atighetchi::Partha Pratim Pal::Franklin Webber::Christopher C. Jones:::Adaptive Use of Network-Centric Mechanisms in Cyber-Defense.
+conf/isorc/Raynal02:::Michel Raynal:::Wait-Free Objects for Real-Time Systems? (position paper).
+conf/isorc/CaugheyLS98:::Steve J. Caughey::Mark C. Little::Santosh K. Shrivastava:::Checked Transactions in an Asynchronous Message Passing Environment.
+conf/isorc/Noseworthy02:::J. Russell Noseworthy:::IKE 2-Implementing the Stateful Distributed Object Paradigm.
+conf/isorc/JigoreaMEP00:::Razvan Jigorea::Sorin Manolache::Petru Eles::Zebo Peng:::Modeling of Real-Time Embedded Systems in an Object-Oriented Design Environment with UML.
+conf/isorc/SchoenSSS00:::Friedrich Schoen::Wolfgang Schroeder-Preikschat::Olaf Spinczyk::Ute Spinczyk:::On Interrupt-Transparent Synchronization in an Embedded Object-Oriented Operating System.
+conf/isorc/ChatterjeeSB99:::Saurav Chatterjee::Bikash Sabata::Michael Brown:::Adaptive QoS Support for Distributed, Java-Based Applications.
+conf/isorc/Fleisch99:::Wolfgang Fleisch:::Applying Use Cases for the Requirements Validation of Component-Based Real-Time Software.
+conf/isorc/ClaessonES03:::Vilgot Claesson::Cecilia Ekelin::Neeraj Suri:::The Event-Triggered and Time-Triggered Medium-Access Methods.
+conf/isorc/PerngTHK03:::Nei-Chiung Perng::Neung-Tsung Tsai::Jenwei Hsieh::Tei-Wei Kuo:::The Design and Implementation of A Real-Time Data Dispatching System.
+conf/isorc/GundojuM98:::Vikram Gundoju::Toshimi Minoura:::Distributed Observable/Observer: A Distributed Real-Time Object-Communication Mechanism.
+conf/isorc/Jezequel98:::Jean-Marc Jézéquel:::Object-Oriented Design of Real-Time Telecom Systems.
+conf/isorc/Shrum01:::Edgar V. Shrum:::Use of RT CORBA in the U.S. Army.
+conf/isorc/ZhuRT98:::Feng Zhu::Sanjai Rayadurgam::Wei-Tek Tsai:::Automating Regression Testing for Real-Time Software in a Distributed Environment.
+conf/isorc/KopetzS03:::Hermann Kopetz::Neeraj Suri:::Compositional Design of RT Systems: A Conceptual Basis for Specification of Linking Interfaces.
+conf/isorc/SavigniT00:::Andrea Savigni::Francesco Tisato:::Real-Time Programming-in-the-Large: The Case of Monitoring and Control System.
+conf/isorc/HalangPF01:::Wolfgang A. Halang::Carlos Eduardo Pereira::Alceu Heinke Frigeri:::Safe Object Oriented Programming of Distributed Real Time Systems in PEARL.
+conf/isorc/ShokriCK98:::Eltefaat Shokri::Patrick Crane::K. H. Kim:::An Implementation Model for Time-Triggered Message-Triggered Object Support Mechanisms in CORBA-Compliant COTS Platforms.
+conf/isorc/BessaniFL03:::Alysson Neves Bessani::Joni da Silva Fraga::Lau Cheuk Lung:::Implementing the Multicast Inter-ORB Protocol.
+conf/isorc/Tohma03:::Yoshihiro Tohma:::Dependability Issue on Autonomic Computing Environment.
+conf/isorc/KangSS02:::Kyoung-Don Kang::Sang Hyuk Son::John A. Stankovic:::Service Differentiation in Real-Time Main Memory Databases.
+conf/isorc/BondavalliGGPR98:::Andrea Bondavalli::Felicita Di Giandomenico::Fabrizio Grandoni::David Powell::Christophe Rabéjac:::State Restoration in a COTS-Based N-Modular Architecture.
+conf/isorc/FreedmanMWTWM00:::Richard Freedman::John A. Maurer::Steve Wohlever::Bhavani M. Thuraisingham::Victor Fay Wolfe::Michael Milligan:::Benchmarking Real-Time Distributed Object Management Systems for Evolvable and Adaptable Command and Control Applications.
+conf/isqed/ChoC02:::Grun Rae Cho::Tom Chen:::Mixed PTL/Static Logic Synthesis Using Genetic Algorithms for Low-Power Applications.
+conf/isqed/JandhyalaWGS02:::Vikram Jandhyala::Yong Wang::Dipanjan Gope::C.-J. Richard Shi:::Coupled Electromagnetic-Circuit Simulation of Arbitrarily-Shaped Conducting Structures Using Triangular Meshes.
+conf/isqed/Coudert02a:::Olivier Coudert:::Timing and Design Closure in Physical Design Flows (invited).
+conf/isqed/ChenM02:::Lauren Hui Chen::Malgorzata Marek-Sadowska:::Efficient Closed-Form Crosstalk Delay Metrics.
+conf/isqed/LimDC02:::Chee How Lim::W. Robert Daasch::George Cai:::A Thermal-Aware Superscalar Microprocessor (invited).
+conf/isqed/IonescuPFBDRHFR02:::Adrian M. Ionescu::V. Pott::R. Fritschi::K. Banerjee::Michel J. Declercq::P. Renaud::C. Hibert::Ph. Fluckiger::G. A. Racine:::Modeling and Design of a Low-Voltage SOI Suspended-Gate MOSFET (SG-MOSFET) with a Metal-over-Gate Architecture.
+conf/isqed/ShimazakiHT02:::Kenji Shimazaki::Shouzou Hirano::Hiroyuki Tsujikawa:::An EMI-Noise Analysis on LSI Design with Impedance Estimation.
+conf/isqed/BecerPBH02:::Murat R. Becer::Rajendran Panda::David Blaauw::Ibrahim N. Hajj:::Pre-route Noise Estimation in Deep Submicron Integrated Circuits.
+conf/isqed/JayaramanVA02:::Kamalnayan Jayaraman::Vivekananda M. Vedula::Jacob A. Abraham:::Native Mode Functional Self-Test Generation for Systems-on-Chip.
+conf/isqed/KahngM02:::Andrew B. Kahng::Stefanus Mantik:::Measurement of Inherent Noise in EDA Tools.
+conf/isqed/Ghosh02:::Sumit Ghosh:::nVHDL: A Hardware Design Language for Modeling Discrete and Analog Design and Simulation of Mixed-Signal Electronic Systems (Tutorial Abstract).
+conf/isqed/Chang02b:::Henry Chang:::Platform-Based Design: A Tutorial (Tutorial Abstract).
+conf/issac/GanzhaS90:::V. G. Ganzha::Michail Yu. Shashkov:::Local Approximation Study of Difference Operators by Means of REDUCE System.
+conf/issac/Chen89:::G. Chen:::Computing the Normal Forms of Matrices Depending on Parameters.
+conf/issac/Schicho02:::Josef Schicho:::Simplification of surface parametrizations.
+conf/issac/Cook92:::Grant O. Cook Jr.:::Code Generation in ALPAL Using Symbolic Techniques.
+conf/issac/RocSRV88:::Jean-Louis Roch::Pascale Sénéchaud::Françoise Roch-Siebert::Gilles Villard:::Computer Algebra on MIMD Machine.
+conf/issac/AnaiW00:::Hirokazu Anai::Volker Weispfenning:::Deciding linear-trigonometric problems.
+conf/issac/Fateman91:::Richard J. Fateman:::Canonical Representations in Lisp and Applications to Computer Algebra systems.
+conf/issac/CohenT91:::Ian Cohen::Karl-Erik Thylwe:::Obtaining Exact Steady-state Responses in Driven Undamped Oscillators.
+conf/issac/Hoeij96:::Mark van Hoeij:::Rational Solutions of the Mixed Differential Equation and Its Application to Factorization of Differential Operators.
+conf/issac/Holt00:::Derek F. Holt:::Computation in word-hyperbolic groups.
+conf/issac/Hong93:::Hoon Hong:::Quantifier Elimination for Formulas Constrained by Quadratic Equations.
+conf/issac/Jeannerod00:::Claude-Pierre Jeannerod:::An algorithm for the eigenvalue perturbation problem: reduction of a -matrix to a Lidskii matrix.
+conf/issac/Pan00:::Victor Y. Pan:::Matrix structure, polynomial arithmetic, and erasure-resilient encoding/decoding.
+conf/issac/Pan01:::Victor Y. Pan:::Univariate polynomials: nearly optimal algorithms for factorization and rootfinding.
+conf/issac/SemmlerS95:::Klaus-Dieter Semmler::Mika Seppälä:::Numerical Uniformization of Hyperelliptic Curves.
+conf/issac/WhiteM88:::Neil L. White::Tim McMillan:::Cayley Factorization.
+conf/issac/Weber94:::Andreas Weber:::Algorithms for Type Inference with Coercions.
+conf/issac/Vinette91:::F. Vinette:::Features of Symbolic Computation Exploited in the Calculation of Lower Energy Bounds of Cyclic Polyene Models.
+conf/issac/BachmannWZ94:::Olaf Bachmann::Paul S. Wang::Eugene V. Zima:::Chains of Recurrences - a Method to Expedite the Evaluation of Closed-form Functions.
+conf/issac/DiazKSV91:::Angel Díaz::Erich Kaltofen::K. Schmitz::T. Valente:::DSC: A System for Distributed Symbolic Computation.
+conf/issac/GorielyT94:::Alain Goriely::Michael Tabor:::How to Compute the Melnikov Vector?
+conf/issac/Canny88:::John F. Canny:::Generalized Characteristic Polynomials.
+conf/issac/EgnerP98:::Sebastian Egner::Markus Püschel:::Solving Puzzles Related to Permutation Groups.
+conf/issac/GiorgiJV03:::Pascal Giorgi::Claude-Pierre Jeannerod::Gilles Villard:::On the complexity of polynomial matrix computations.
+conf/issac/Schwarz89:::Fritz Schwarz:::A Factorization Algorithm for Linear Ordinary Differential Equations.
+conf/issac/Schwarz92:::Fritz Schwarz:::Reduction and Completion Algorithms for Partial Differential Equations.
+conf/issac/FortunaGPT02:::Elisabetta Fortuna::Patrizia Gianni::Paola Parenti::Carlo Traverso:::Computing the topology of real algebraic surfaces.
+conf/issac/Kutzler89:::B. Kutzler:::Careful Algebraic Translations of Geometry Theorems.
+conf/issac/Rybowicz91:::Marc Rybowicz:::An Algorithms for Computing Integral Bases of an Algebraic Function Field.
+conf/issac/LakshmanCJ98:::Yagati N. Lakshman::Bruce W. Char::Jeremy Johnson:::Software Components Using Symbolic Computation for Problem Solving Environments.
+conf/issac/IlyinKRT91:::V. A. Ilyin::A. P. Kryukov::A. Ya. Rodionov::A. Yu. Taranov:::PC Implementation of Fast Dirac Matrix Trace Calculations.
+conf/issac/AbramovK91:::Sergei A. Abramov::K. Yu. Kvansenko:::Fast Algorithms to Search for the Rational Solutions of Linear Differential Equations with Polynomial Coefficients.
+conf/issac/AbramovK93:::Sergei A. Abramov::K. Yu. Kvashenko:::On the Greatest Common Divisor of Polynomials which Depend on a Parameter.
+conf/issac/DolzmannGS98:::Andreas Dolzmann::Oliver Gloor::Thomas Sturm:::Approaches to Parallel Quantifier Elimination.
+conf/issac/YokoyamaNT90a:::Kazuhiro Yokoyama::Masayuki Noro::Taku Takeshima:::On Factoring Multi-Variate Polynomials over Algebraically Closed Fields (abstract).
+conf/issac/BronsteinS93:::Manuel Bronstein::Bruno Salvy:::Full Partial Fraction Decomposition of Rational Functions.
+conf/issac/ChouG90:::Shang-Ching Chou::Xiao-Shan Gao:::Methods for Mechanical Geometry Formula Deriving.
+conf/issac/Zeng03:::Zhonggang Zeng:::A method computing multiple roots of inexact polynomials.
+conf/issac/Zima93:::Eugene V. Zima:::Numeric Code Optimization in Computer Algebra Systems and Recurrent Relations Technique.
+conf/issac/DominguezR01:::César Domínguez::Julio Rubio:::Modeling inheritance as coercion in a symbolic computation system.
+conf/issac/CaboaraDR96:::Massimo Caboara::Gabriel de Dominicis::Lorenzo Robbiano:::Multigraded Hilbert Functions and Buchberger Algorithm.
+conf/issac/TraversoD89:::Carlo Traverso::L. Donati:::Experimenting the Gröbner Basis Algorithm with the A1P<i>I</i> System.
+conf/issac/CaboaraT98:::Massimo Caboara::Carlo Traverso:::Efficient Algorithms for Ideal Operations (extended abstract).
+conf/issac/Dewar92:::Michael C. Dewar:::Using Computer Algebra to Select Numerical Algorithms.
+conf/issac/McCallum03:::Scott McCallum:::On order-invariance of a binomial over a nullifying cell.
+conf/issac/DiazK95:::Angel Díaz::Erich Kaltofen:::On Computing Greatest Common Divisors with Polynomials Given by Black Boxes for Their Evaluations.
+conf/issac/Siebert-Roch89:::Françoise Siebert-Roch:::Parallel Algorithms for Hermite Normal Form of an Integer Matrix.
+conf/issac/MarinariMM91:::Maria Grazia Marinari::H. Michael Möller::Teo Mora:::Gröbner Bases of Ideals Given by Dual Bases.
+conf/issac/Abramov02:::Sergei A. Abramov:::Applicability of Zeilberger's algorithm to hypergeometric terms.
+conf/issac/Abramov93:::Sergei A. Abramov:::On d'Alembert Substitution.
+conf/issac/BarkatouP98:::Moulay A. Barkatou::Eckhard Pflügel:::On the Equivalence Problem of Linear Differential Systems and Its Application for Factoring Completely Reducible Systems.
+conf/issac/GiesbrechtLS98:::Mark Giesbrecht::A. Lobo::B. David Saunders:::Certifying Inconsistency of Sparse Linear Systems.
+conf/issac/BradfordD02:::Russell Bradford::James H. Davenport:::Towards better simplification of elementary functions.
+conf/issac/LlovetS90:::Juan Llovet::J. Rafael Sendra:::A Modular Approach to the Computation of the Number of Real Roots.
+conf/issac/Muller-QuadeR98:::Jörn Müller-Quade::Martin Rötteler:::Deciding Linear Disjointness of Finitely Generated Fields.
+conf/issac/DaberkowP95:::Mario Daberkow::Michael Pohst:::Computations with Relative Extensions of Number Fields with an Application to the Construction of Hilbert Class Fields.
+conf/issac/CannyKY89:::John F. Canny::Erich Kaltofen::Yagati N. Lakshman:::Solving Systems of Nonlinear Polynomial Equations Faster.
+conf/issac/Shoup91:::Victor Shoup:::A Fast Deterministic Algorithm for Factoring Polynomials over Finite Fields of Small Characteristic.
+conf/issac/GrigorievL95:::Dima Grigoriev::Yagati N. Lakshman:::Algorithms for Computing Sparse Shifts for Multivariate Polynomials.
+conf/issac/GrigorievS98:::Dima Grigoriev::Anatol Slissenko:::Polytime Algorithm for the Shortest Path in a Homotopy Class Amidst Semi-Algebraic Obstacles in the Plane.
+conf/issac/GeddesF92:::Keith O. Geddes::Gregory J. Fee:::Hybrid Symbolic-Numeric Integration in MAPLE.
+conf/issac/Teitelbaum88:::Jeremy Teitelbaum:::On the Computational Complexity of the Resolution of Plane Curve Singularities.
+conf/issac/GeddesZ03:::Keith O. Geddes::Wei Wei Zheng:::Exploiting fast hardware floating point in high precision computation.
+conf/issac/SchonertS94:::Martin Schönert::Ákos Seress:::Finding Blocks of Imprimitivity in Small-Base Groups in Nearly Linear Time.
+conf/issac/ReidTZ03:::Gregory J. Reid::Jianliang Tang::Lihong Zhi:::A complete symbolic-numeric linear method for camera pose determination.
+conf/issac/AbramovLP03:::Sergei A. Abramov::H. Q. Le::Marko Petkovsek:::Rational canonical forms and efficient representations of hypergeometric terms.
+conf/issac/RayesWW94:::Mohamed Omar Rayes::Paul S. Wang::Kenneth Weber:::Parallelization of the Sparse Modular GCD Algorithm for Multivariate Polynomials on Shared Memory Multiprocessors.
+conf/issac/Fitch90:::John Fitch:::A Delivery System for REDUCE.
+conf/issac/PopovaU98:::Evgenija D. Popova::Christian P. Ullrich:::Simplication of Symbolic-Numerical Interval Expressions.
+conf/issac/Ivanyos00:::Gábor Ivanyos:::Fast randomized algorithms for the structure of matrix algebras over finite fields (extended abstract).
+conf/issac/Renner91:::Friedrich Renner:::Nonlinear Evolution Equations and the Painlevé Analysis: A Constructive Approach with REDUCE.
+conf/issac/Rakoczi95:::Ferenc Rakoczi:::Fast Recognition of the Nilpotency of Permutation Groups.
+conf/issac/Dooley02:::Samuel S. Dooley:::Editing mathematical content and presentation markup in interactive mathematical documents.
+conf/issac/Dooley98:::Samuel S. Dooley:::Coordinating Mathematical Content and Presentation Markup in Interactive Mathematical Documents.
+conf/issac/ToddC88:::P. H. Todd::George W. Cherry:::Symbolic Analysis of Planar Drawings.
+conf/issac/Sasaki03:::Tateaki Sasaki:::The subresultant and clusters of close roots.
+conf/issac/Tsarev97:::Serguei P. Tsarev:::Symbolic Manipulation of Integrodifferential Expressions and Factorization of Linear Ordinary Differential Operators over Transcendental Extensions of a Differential Field.
+conf/issac/Pflugel97:::Eckhard Pflügel:::An Algorithm for Computing Exponential Solutions of First Order Linear Differential Systems.
+conf/issac/CormierSU00:::Olivier Cormier::Michael F. Singer::Felix Ulmer:::Computing the Galois group of a polynomial using linear differential equations.
+conf/issac/Norenberg98:::R. Nörenberg:::Covering Nonomial Algebras.
+conf/issac/CaprasseDS88:::Hubert Caprasse::Jaques Demaret::Eberhard Schrüfer:::Can EXCALC be used to Investigate High-Dimensional Cosmological Models with Non-Linear Lagrangians?
+conf/issac/CoopermanG01:::Gene Cooperman::Victor Grinberg:::Scalable parallel coset enumeration using bulk definition.
+conf/issac/CoopermanR03:::Gene Cooperman::Eric Robinson:::Memory-based and disk-based algorithms for very high degree permutation groups.
+conf/issac/ButlerC88:::Gregory Butler::John J. Cannon:::Cayley, Version 4: The User Language.
+conf/issac/Gatemann90:::K. Gatemann:::Symbolic Solution Polynomial Equation Systems with Symmetry.
+conf/issac/Mourrain93:::Bernard Mourrain:::The 40 ``generic'' Positions of a Parallel Robot.
+conf/issac/Weispfenning94:::Volker Weispfenning:::Quantifier Elimination for Real Algebra - the Cubic Case.
+conf/issac/Weispfenning99:::Volker Weispfenning:::Mixed Real-Integer Linear Quantifier Elimination.
+conf/issac/Singer88:::Michael F. Singer:::Liouvillian First Integrals of Differential Equations.
+conf/issac/BajajCGW89:::Chandrajit L. Bajaj::John F. Canny::R. Garrity::Joe D. Warren:::Factoring Rational Polynomials over the Complexes.
+conf/issac/NodaM90:::M. T. Noda::E. Miyahiro:::On the Symbolic/Numeric Hybrid Integration.
+conf/issac/FaradzevK91:::I. A. Faradzev::M. H. Klin:::For Computations with Coherent Configurations.
+conf/issac/GutierrezR92:::Jaime Gutierrez::Tomás Recio:::A Practical Implementation of Two Rational Function Decomposition Algorithms.
+conf/issac/NoroT92:::Masayuki Noro::Taku Takeshima:::Risa/Asir - a Computer Algebra System.
+conf/issac/NoroY02:::Masayuki Noro::Kazuhiro Yokoyama:::Yet another practical implementation of polynomial factorization over finite fields.
+conf/issac/Graaf97:::Willem A. de Graaf:::Constructing Faithful Matrix Representations of Lie Algebras.

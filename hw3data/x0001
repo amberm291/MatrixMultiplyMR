@@ -1,0 +1,200 @@
+conf/cc/Mughal88:::Khalid Azim Mughal:::Generation of Incremental Indirect Threaded Code for Language-Based Programming Environments.
+conf/cc/DeRemerJ80:::Frank DeRemer::Richard Jüllig:::Tree-affix dendrogrammars for languages and compilers.
+conf/cc/Madsen01:::Ole Lehrmann Madsen:::Virtual Classes and Their Implementation.
+conf/cc/WilhelmSR00:::Reinhard Wilhelm::Shmuel Sagiv::Thomas W. Reps:::Shape Analysis.
+conf/cd/PoernomoRS02:::Iman Poernomo::Ralf Reussner::Heinz W. Schmidt:::Architectures of Enterprise Systems: Modelling Transactional Contexts.
+conf/cd/MarangozovaH02:::Vania Marangozova::Daniel Hagimont:::An Infrastructure for CORBA Component Replication.
+conf/cg/FrankB98:::Ian Frank::David A. Basin:::Optimal Play against Best Defence: Complexity and Heuristics.
+conf/cg/Littman00:::Michael L. Littman:::Review: Computer Language Games.
+conf/cg/Cazenave00:::Tristan Cazenave:::Abstract Proof Search.
+conf/cg/KojimaY98:::Takuya Kojima::Atsushi Yoshikawa:::A Two-Step Model of Pattern Acquisition: Application to Tsume-Go.
+conf/cg/JunghannsS98:::Andreas Junghanns::Jonathan Schaeffer:::Relevance Cuts: Localizing the Search.
+conf/cl/Inoue00:::Katsumi Inoue:::A Simple Characterization of Extended Abduction.
+conf/cl/Miller00:::Dale Miller:::Abstract Syntax for Variable Binders: An Overview.
+conf/cl/GartnerSTDP00:::Joseph Gartner::Terrance Swift::Allen Tien::Carlos Viegas Damásio::Luís Moniz Pereira:::Psychiatric Diagnosis from the Viewpoint of Computational Logic.
+conf/cl/HarlandLW00:::James Harland::Tatjana Lutovac::Michael Winikoff:::Goal-Directed Proof Search in Multiple-Conclusions Intuitionistic Logic.
+conf/cl/ChirkovaG00:::Rada Chirkova::Michael R. Genesereth:::Linearly Bounded Reformulations of Conjunctive Databases.
+conf/cl/BroersenWM00:::Jan Broersen::Roel Wieringa::John-Jules Ch. Meyer:::A Semantics for Persistency in Propositional Dynamic Logic.
+conf/cl/Janhunen00:::Tomi Janhunen:::Comparing the Expressive Powers of Some Syntactically Restricted Classes of Logic Programs.
+conf/cl/FerreR00:::Sébastien Ferré::Olivier Ridoux:::A File System Based on Concept Analysis.
+conf/cl/StorrT00:::Hans-Peter Störr::Michael Thielscher:::A New Equational Foundation for the Fluent Calculus.
+conf/cl/CelleB00:::Alexander Celle::Leopoldo E. Bertossi:::Querying Inconsistent Databases: Algorithms and Implementation.
+conf/dc/AtarashiONC01:::Rei Atarashi::Hiroyuki Ohno::Makoto Niimi::Kunihiro Chihara:::Priority Control Mechanism managed by Metadata.
+conf/dc/GreenbergPPR01:::Jane Greenberg::Maria Cristina Pattuelli::Bijan Parsia::W. Davenport Robertson:::Author-generated Dublin Core Metadata for Web Resources: A Baseline Study in an Organization.
+conf/dc/KimLP01:::Yong Soon Kim::Ji Won Lee::Hyeong Yong Park:::Adopting DC Metadata for Union Serial System of KERIS: It's Design and Implementation.
+conf/dc/SuttonM01:::Stuart A. Sutton::Jon Mason:::The Dublin Core and Metadata for Educational Resources.
+conf/dc/PockleyC01:::Simon Pockley::Emily Cavanagh:::Collaborative Cataloguing of Moving Images and New Media Art Works.
+conf/dc/RobertsonLDG01:::W. Davenport Robertson::Ellen M. Leadem::Jed Dube::Jane Greenberg:::Design and Implementation of the National Institute of Environmental Health Sciences Dublin Core Metadata Schema.
+conf/dc/Kaneko01:::Yasuki Kaneko:::ISI's Implementation of Network Resources in Secondary Databases: Selection Criteria, Metadata, and Linking.
+conf/dc/HabingCM01:::Thomas G. Habing::Timothy W. Cole::William H. Mischo:::Qualified Dublin Core using RDF for Sci-Tech Journal Articles.
+conf/cp/Fioravanti01:::Fabio Fioravanti:::Verification of Infinite-State Systems by Specialization of CLP Programs.
+conf/cp/TigheSL03:::Ann Tighe::Finlay Smith::Gerard Lyons:::An Adaptive Controller for Real-Time Resolution of the Vehicle Routing Problem.
+conf/cp/ChenGS01:::Hubie Chen::Carla P. Gomes::Bart Selman:::Formal Models of Heavy-Tailed Behavior in Combinatorial Search.
+conf/cp/Pontow98:::Stephan Pontow:::Modelling CSP Solution Algorithms with Petri Decision Nets.
+conf/cp/Parkes02:::Andrew J. Parkes:::Scaling Properties of Pure Random Walk on Random 3-SAT.
+conf/cp/Colombani96:::Yves Colombani:::Constraint Programming: an Efficient and Practical Approach to Solving the Job-Shop Problem.
+conf/cp/BenoistBCR01:::Thierry Benoist::Eric Bourreau::Yves Caseau::Benoît Rottembourg:::Towards Stochastic Constraint Programming: A Study of Online Multi-choice Knapsack with Deadlines.
+conf/cp/WahW99a:::Benjamin W. Wah::Tao Wang:::Simulated Annealing with Asymptotic Convergence for Nonlinear Constrained Global Optimization.
+conf/cp/Hamadi99:::Youssef Hamadi:::Optimal Distributed Arc-Consistency.
+conf/cp/Walsh00:::Toby Walsh:::SAT v CSP.
+conf/cp/DechterKL01:::Rina Dechter::Kalev Kask::Javier Larrosa:::A General Scheme for Multiple Lower Bound Computation in Constraint Optimization.
+conf/cp/AffaneB96:::Mohamed-Salah Affane::Hachemi Bennaceur:::A Labelling Arc Consistency Method for Functional Constraints.
+conf/cp/BruniS00:::Renato Bruni::Antonio Sassano:::Finding Minimal Unsatisfiable Subformulae in Satisfiability Instances.
+conf/cp/HarveyS98:::Warwick Harvey::Peter J. Stuckey:::Constraint Representation for Propagation.
+conf/cp/HollandO03:::Alan Holland::Barry O'Sullivan:::Algorithmic Mechanism Design and Constraints.
+conf/cp/FernandeyHS03:::Antonio J. Fernández::Teresa Hortalá-González::Fernando Sáenz-Pérez:::Toy(FD): Sketch of Operational Semantics.
+conf/cp/LawL02:::Y. C. Law::Jimmy Ho-Man Lee:::Algebraic Properties of CSP Model Operators.
+conf/cp/SoininenGN99:::Timo Soininen::Esther Gelle::Ilkka Niemelä:::A Fixpoint Definition of Dynamic Constraint Satisfaction.
+conf/cp/Gavanelli01:::Marco Gavanelli:::Partially Ordered Constraint Optimization Problems.
+conf/cp/BettiniWJ97:::Claudio Bettini::Xiaoyang Sean Wang::Sushil Jajodia:::Satisfiability of Quantitative Temporal Constraints with Multiple Granularities.
+conf/cp/ChoiHN01:::Chiu Wo Choi::Martin Henz::Ka Boon Ng:::Components for State Restoration in Tree Search.
+conf/cp/ChoiLS03:::Chiu Wo Choi::Jimmy Ho Man Lee::Peter J. Stuckey:::Propagation Redundancy in Redundant Modelling.
+conf/cp/Jeavons98:::Peter Jeavons:::Constructing Constraints.
+conf/cp/CaseauLS99:::Yves Caseau::François Laburthe::Glenn Silverstein:::A Meta-Heuristic Factory for Vehicle Routing Problems.
+conf/cp/WongNL96:::Jason H. Y. Wong::Kai-fai Ng::Ho-Fung Leung:::A Stochastic Approach to Solving Fuzzy Constraint Satisfaction Problems.
+conf/cp/Schwarz01:::Sibylle Schwarz:::Partial Stable Generated Models of Generalized Logic Programs with Constraints.
+conf/cp/Junker98:::Ulrich Junker:::Constrained-Based Problem Decomposition for a Key Configuration Problem.
+conf/cp/FrankD03:::Jeremy Frank::Richard Dearden:::Scheduling in the Face of Uncertain Resource Consumption and Utility.
+conf/cp/JeavonsCG95:::Peter Jeavons::David Cohen::Marc Gyssens:::A Unifying Framework for Tractable Constraints.
+conf/cp/Gennari01:::Rosella Gennari:::Translations for Comparing Soft Frameworks.
+conf/cp/HickeyEW98:::Timothy J. Hickey::Maarten H. van Emden::Huan Wu:::A Unified Framework for Interval Constraints and Interval Arithmetic.
+conf/cp/WahC00:::Benjamin W. Wah::Yi Xin Chen:::Optimal Anytime Constrained Simulated Annealing for Constrained Global Optimization.
+conf/cp/Urbina96:::Luis Urbina:::Analysis of Hybrid Systems in CLP(R).
+conf/cp/Bessiere99:::Christian Bessière:::Non-Binary Constraints.
+conf/cp/FrischHKMW02:::Alan M. Frisch::Brahim Hnich::Zeynep Kiziltan::Ian Miguel::Toby Walsh:::Global Constraints for Lexicographic Orderings.
+conf/cp/YokooH99:::Makoto Yokoo::Katsutoshi Hirayama:::Frequency Assignment for Cellular Mobile Systems Using Constraint Satisfaction Techniques.
+conf/cp/FocacciLM99:::Filippo Focacci::Andrea Lodi::Michela Milano:::Cost-Based Domain Filtering.
+conf/cp/HollandOO03:::Alan Holland::Barry O'Callaghan::Barry O'Sullivan:::A Constraint-Aided Conceptual Design Environment for Autodesk Inventor.
+conf/cp/FernandezBKG02:::Cèsar Fernàndez::Ramón Béjar::Bhaskar Krishnamachari::Carla P. Gomes:::Communication and Computation in Distributed CSP Algorithms.
+conf/cp/EisenbergF03:::Carlos Eisenberg::Boi Faltings:::Using the Breakout Algorithm to Identify Hard and Unsolvable Subproblems.
+conf/cp/Sellmann02:::Meinolf Sellmann:::An Arc-Consistency Algorithm for the Minimum Weight All Different Constraint.
+conf/cp/BeldiceanuC01:::Nicolas Beldiceanu::Mats Carlsson:::Sweep as a Generic Pruning Technique Applied to the Non-overlapping Rectangles Constraint.
+conf/cp/CruzB99:::Jorge Cruz::Pedro Barahona:::An Interval Constraint Approach to Handle Parametric Ordinary Differential Equations for Decision Support.
+conf/cp/Simonis95:::Helmut Simonis:::The CHIP System and Its Applications.
+conf/cp/FrostD96:::Daniel Frost::Rina Dechter:::Looking at Full Looking Ahead.
+conf/cp/ChengLS03:::Chi Kan Cheng::Jimmy Ho Man Lee::Peter J. Stuckey:::Box Constraint Collections for Adhoc Constraints.
+conf/cp/ChengLW96:::B. M. W. Cheng::Jimmy Ho-Man Lee::J. C. K. Wu:::Speeding Up Constraint Propagation By Redundant Modeling.
+conf/cp/FaltingsM02:::Boi Faltings::Santiago Macho-Gonzalez:::Open Constraint Satisfaction.
+conf/cp/Kilborn01:::Erik Kilborn:::Aircraft Assignment Using Constraint Programming.
+conf/cp/ProsserSW00:::Patrick Prosser::Kostas Stergiou::Toby Walsh:::Singleton Consistencies.
+conf/cp/Hellinck96:::Wim Hellinck:::Experiences with Combining Constraint Programming and Discrete Event Simulation.
+conf/cp/Bartak02:::Roman Barták:::Visopt ShopFloor: On the Edge of Planning and Scheduling.
+conf/cp/Hentenryck95:::Pascal Van Hentenryck:::Constraint Solving for Combinatorial Search Problems: A Tutorial.
+conf/cp/EreminW01:::Andrew Eremin::Mark Wallace:::Hybrid Benders Decomposition Algorithms in Constraint Logic Programming.
+conf/cp/ReveszC00:::Peter Z. Revesz::Mengchu Cai:::Efficient Querying of Periodic Spatiotemporal Objects.
+conf/cp/FocacciM01:::Filippo Focacci::Michela Milano:::Global Cut Framework for Removing Symmetries.
+conf/cp/Smith95:::Barbara M. Smith:::In Search of Exceptionally Difficult Constraint Satisfaction Problems.
+conf/cp/Smith99:::Barbara M. Smith:::The Brélaz Heuristic and Optimal Static Orderings.
+conf/cp/Venable02:::Kristen B. Venable:::Solving and Learning Soft Temporal Constraints; Ceteris Paribus Statements Represented as Soft Constraints Problems.
+conf/cp/Wallace03:::Mark Wallace:::Languagea versus Packages for Constraint Problem Solving.
+conf/cp/Sheridan03:::Daniel Sheridan:::Dynamic Step Size Adjustment in Iterative Deepening Search.
+conf/cp/AmaralB02:::Paula Amaral::Pedro Barahona:::On Optimal Correction of Inconsistent Linear Constraints.
+conf/cp/CharatonikP96:::Witold Charatonik::Andreas Podelski:::The Independence Property of a Class of Set Constraints.
+conf/cp/ZhangZ95:::Jian Zhang::Hantao Zhang:::Constraint Propagation in Model Generation.
+conf/cp/Neagu01:::Nicoleta Neagu:::Exploiting the CSP Structure by Interchangeability.
+conf/cp/BanerjeeF96:::Dhritiman Banerjee::Jeremy Frank:::Constraint Satisfaction in Optical Routing for Passive Wavelength-Routed Networks.
+conf/cp/ColussiMM95:::Livio Colussi::Elena Marchiori::Massimo Marchiori:::On Termination of Constraint Logic Programs.
+conf/cp/BessiereR99:::Christian Bessière::Jean-Charles Régin:::Enforcing Arc Consistency on Global Constraints by Solving Subproblems on the Fly.
+conf/cp/DugganOF03:::Moyra Duggan::Barry O'Sullivan::Eugene C. Freuder:::Interactive Tradeoff Generation.
+conf/cp/JampelJGH96:::Michael Jampel::Jean-Marie Jacquet::David Gilbert::Sebastian Hunt:::Transformations Between HCLP and PCSP.
+conf/cp/KrishnamachariXSW00:::Bhaskar Krishnamachari::Xi Xie::Bart Selman::Stephen B. Wicker:::Analysis of Random Noise and Random Walk Algorithms.
+conf/cp/Panati01:::Andrea Panati:::Constraint Processing Techniques for Model-Based Reasoning about Dynamic Systems.
+conf/ct/MorikawaM01:::Osamu Morikawa::Takanori Maesako:::The Relationship between the Arrangement of Participants and the Comfortableness of Conversation in HyperMirror.
+conf/ct/LandauerB01:::Christopher Landauer::Kirstie L. Bellman:::Computational Infrastructure for Experiments in Cognitive Leverage.
+conf/ct/Halloran01:::John Halloran:::Can We Afford It? Issues in Designing Transparent Technologies.
+conf/ct/BoulayL01:::Benedict du Boulay::Rosemary Luckin:::The Plausibility Problem: An Initial Analysis.
+conf/ct/BrophyV01:::Richard Brophy::Will Venters:::Work, Workspace, and the Workspace Portal.
+conf/ct/JelfsW01:::Anne Jelfs::Denise Whitelock:::Presence and the Role of Activity Theory in Understanding: How Students Learn in Virtual Learning Environments.
+conf/dl/Nevill-ManningWP97:::Craig G. Nevill-Manning::Ian H. Witten::Gordon W. Paynter:::Browsing in Digital Libraries: A Phrase-Based Approach.
+conf/dl/FurutaMSL96:::Richard Furuta::Catherine C. Marshall::Frank M. Shipman III::John J. Leggett:::Physical Objects in the Digital Library.
+conf/dl/BrownS00:::Michael S. Brown::W. Brent Seales:::Beyond 2D images: effective 3D imaging for library materials.
+conf/dl/RauberM99:::Andreas Rauber::Dieter Merkl:::SOMLib: A Digital Library System Based on Neural Networks.
+conf/dl/GohL00:::Dion Hoe-Lian Goh::John J. Leggett:::Patron-augmented digital libraries.
+conf/dl/Agogino99:::Alice M. Agogino:::Visions for a Digital Library for Science, Mathematics, Engineering and Technology Education (SMETE).
+conf/dl/HuJ99:::Michael J. Hu::Ye Jian:::Multimedia Description Framework (MDF) for Content Description of Audio/Video Documents.
+conf/dl/Lim99:::Joo-Hwee Lim:::Learnable Visual Keywords for Image Classification.
+conf/dl/DewanJSSO95:::Prasun Dewan::Kevin Jeffay::John Smith::P. David Stotts::William Oliver:::Early Prototypes of the Repository for Patterned Injury Data.
+conf/dl/WuL97:::Zhibiao Wu::Mark Liberman:::LDC Online: A Digital Library for Linguistic Research and Development.
+conf/dl/HitchcockCHHH97:::Steve Hitchcock::Les Carr::S. Harris::Jessie Hey::Wendy Hall:::Citation Linking: Improving Access to Online Journals.
+conf/dl/ThompsonBM97:::Derek Thompson::Jeffrey Burka::Gary Marchionini:::Connecting Citizens to the National Spatial Data Infrastructure via Local Libraries (Poster).
+conf/dl/WeinsteinA97:::Peter Weinstein::Gene Alloway:::Seed Ontologies: Growing Digital Libraries as Distributed, Intelligent Dystems.
+conf/dl/KumazawaKYHKM00:::Masayuki Kumazawa::Hironori Kamada::Atsushi Yamada::Hiroshi Hoshino::Yahiko Kambayashi::Mukesh K. Mohania:::Relationship among copyright holders for use and reuse of digital contents.
+conf/dl/PuvvadaC96:::Varna Puvvada::Roy H. Campbell:::Inverse Mapping in the Handle Management System (poster).
+conf/dl/SmithCS00:::Lloyd A. Smith::Eline F. Chiu::Brian L. Scott:::A speech interface for building musical score collections.
+conf/dl/SmotroffHB94:::Ira Smotroff::Lynette Hirschman::Samuel Bayer:::Integrating Natural Language With Large Dataspace Visualization.
+conf/dl/PettengillA95:::Robert Pettengill::Guillermo Arango:::Four Lessons Learned from Managing World Wide Web Digital Libraries.
+conf/dl/DushayFL99:::Naomi Dushay::James C. French::Carl Lagoze:::Using Query Mediators for Distributed Searching in Federated Digital Libraries.
+conf/dl/NurnbergFLMS95:::Peter J. Nürnberg::Richard Furuta::John J. Leggett::Catherine C. Marshall::Frank M. Shipman III:::Digital Libraries: Issues and Architectures.
+conf/dl/ChenSRC97:::Hsinchun Chen::Bruce R. Schatz::Marshall Ramsey::Yi-Ming Chung:::The Itsy Bitsy Spider (Poster).
+conf/dl/Arnold-MooreAS97:::Timothy Arnold-Moore::Phil Anderson::Ron Sacks-Davis:::Managing a Digital Library of Legislation.
+conf/dl/Brassil96:::Jack Brassil:::SEPTEMBER - Secure Electronic Publishing Trail (poster).
+conf/dl/AbdullaHF97:::Ghaleb Abdulla::Winfield S. Heagy::Edward A. Fox:::Quantitative Analysis and Visualization Regarding Interactive Learning with a Digital Library in Computer Science (Poster).
+conf/dl/ChenEGGSY99:::Yuan Chen::Jan Edler::Andrew V. Goldberg::Allan Gottlieb::Sumeet Sobti::Peter N. Yianilos:::A Prototype Implementation of Archival Intermemory.
+conf/dl/SlaughterOWHW98:::Laura A. Slaughter::Douglas W. Oard::Vernon L. Warnick::Julie L. Harding::Galen J. Wilkerson:::A Graphical Interface for Speech-Based Retrieval.
+conf/dl/DunnM99:::Jon W. Dunn::Constance A. Mayer:::VARIATIONS: A Digital Music Library System at Indiana University.
+conf/dl/ChenSHSNL97:::Hsinchun Chen::Bruce R. Schatz::Andrea Houston::Robin R. Sewell::Tobun D. Ng::Chienting Lin:::Internet Browsing and Searching: User Evaluations of Category Map and Concept Space Techniques (Poster).
+conf/dl/HouseLBB96:::Nancy A. Van House::David M. Levy::Ann Peterson Bishop::Barbara Buttenfield:::User Needs Assessment and Evaluation: Issues and Methods (Workshop).
+conf/dl/HoubenB00:::Geert-Jan Houben::Paul De Bra:::Automatic hypermedia generation for ad hoc queries on semi-structured data.
+conf/dl/Spink95:::Amanda Spink:::Digital Libraries and Sustainable Development?
+conf/dl/ShinNK97:::Dongwook Shin::Sejin Nam::Munseok Kim:::Hypertext Construction Using Statistical and Semantic Similarity.
+conf/dl/DoornV00:::Mark G. L. M. van Doorn::Arjen P. de Vries:::The psychology of multimedia databases.
+conf/dl/Trant96:::Jennifer Trant:::MESL Project Description (poster).
+conf/dl/Borgman96:::Christine L. Borgman:::Social Aspects of Digital Libraries (working session).
+conf/dl/PhelpsW96:::Thomas A. Phelps::Robert Wilensky:::Toward Active, Extensible, Networked Documents: Multivalent Architecture and Applications.
+conf/dl/RutledgeOHB98:::Lloyd Rutledge::Jacco van Ossenbruggen::Lynda Hardman::Dick C. A. Bulterman:::Practical Application of Existing Hypermedia Standards and Tools.
+conf/dl/MartinH98:::Joe D. Martin::Robert Holte:::Searching for Content-Based Addresses on the World-Wide Web.
+conf/dl/LeeYYB96:::Yong Kyu Lee::Seong-Joon Yoo::Kyoungro Yoon::P. Bruce Berra:::Index Structures for Structured Documents.
+conf/dl/ChangG98:::Kevin Chen-Chuan Chang::Hector Garcia-Molina:::Conjunctive Constraint Mapping for Data Translation.
+conf/eb/Duchateau-NguyenWP95:::Guillemette Duchateau-Nguyen::Gérard Weisbuch::L Peliti:::Emergence of Mutualism.
+conf/ec/Lehmann94:::Fritz Lehmann:::Machine-Negotiated, Ontology-Based EDI (Electronic Data Interchange).
+conf/ds/MahmoudRT79:::Samy A. Mahmoud::J. Spruce Riordon::K. C. Toth:::Distributed Database Partitioning and Query Processing.
+conf/ds/DamianiOTV99:::Ernesto Damiani::Barbara Oliboni::Letizia Tanca::D. Veronese:::Using WG-log Schemata to Represent Semistructured Data.
+conf/ds/Everest74:::Gordon C. Everest:::Concurrent Update Control and Data Base Integrity.
+conf/ds/WeigandVD95:::Hans Weigand::Egon Verharen::Frank Dignum:::Integrated Semantics for Information and Communication Systems.
+conf/ds/Schlageter79:::Gunter Schlageter:::Enhancement of Concurrency in Database Systems by the Use of Special Rollback Methods.
+conf/ds/Engles76:::Robert W. Engles:::Currency and Concurrency in the COBOL Data Base Facility.
+conf/ds/Cholvy86:::Laurence Cholvy:::A Modal Approach to Update Semantics Problem.
+conf/ds/Olle75:::T. William Olle:::An Analysis of the Flaws in the Schema DDL and Proposed Improvements.
+conf/ds/Brown75:::A. P. G. Brown:::Modelling a Real World System and Designing a Schema to Represent It.
+conf/ds/YanL92:::Ling-Ling Yan::Tok Wang Ling:::Translating Relational Schema With Constraints Into OODB Schema.
+conf/ds/MoulinRTSST76:::P. Moulin::J. Randon::M. Teboul::S. Savoysky::Stefano Spaccapietra::H. Tardieu:::Conceptual Model as a Data Base Design Tool.
+conf/ds/Stacey74:::G. M. Stacey:::The Interface between a Data Base and its Host Languages.
+conf/ds/DemolombeIB88:::Robert Demolombe::Arantza Illarramendi::José Miguel Blanco:::Semantic Optimization in Data Bases Using Artificial Intelligence Techniques.
+conf/ds/CliftonHR97:::Chris Clifton::E. Housman::Arnon Rosenthal:::Experience with a Combined Approach to Attribute-Matching Across Heterogeneous Databases.
+conf/ds/StonebrakerRLGCBBB90:::Michael Stonebraker::Lawrence A. Rowe::Bruce G. Lindsay::Jim Gray::Michael J. Carey::Michael L. Brodie::Philip A. Bernstein::David Beech:::Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function.
+conf/ds/DouqueN75:::B. C. M. Douqué::G. M. Nijssen:::The Wépion Recommendations on the CODASYL DDL 1973.
+conf/ds/Lausen85:::Georg Lausen:::Conceptual Modelling Based on Net Refinements.
+conf/ds/TangF01:::Jian Tang::Ada Wai-Chee Fu:::Secure E-Commerce Transactions, Modeling and Implementation Aspects.
+conf/ds/Mercz79:::L. I. Mercz:::Issues in Building a Relational Interface on a Codasyl DBMS.
+conf/ds/Rundensteiner88:::Elke A. Rundensteiner:::The Role of AI in Databases versus the Role of Database Theory in AI: An Opinion.
+conf/ds/YingKCZ01:::Manen Ying::Yahiko Kambayashi::Kai Cheng::Yanchun Zhang:::Web Notary Systems for Privacy Keeping E-Commerce.
+conf/ds/HarderR79:::Theo Härder::Andreas Reuter:::Optimization of Logging and Recovery in a Database System.
+conf/ds/TaylorS74:::Robert W. Taylor::David W. Stemple:::On the Development of Data Base Editions.
+conf/ds/SchekW92:::Hans-Jörg Schek::Andreas Wolf:::Cooperation between Autonomous Operation Services and Object Database Systems in a Heterogeneous Environment.
+conf/ds/KnuthHR86:::Elöd Knuth::László Hannák::Péter Rádo:::A Taxonomy of Conceptual Foundations.
+conf/eh/AbramoviciES01:::Miron Abramovici::John M. Emmert::Charles E. Stroud:::Roving Stars: An Integrated Approach To On-Line Testing, Diagnosis, And Fault Tolerance For Fpgas In Adaptive Computing Systems.
+conf/eh/StoicaKZ01:::Adrian Stoica::Didier Keymeulen::Ricardo Salem Zebulum:::Evolvable Hardware Solutions For Extreme Temperature Electronics.
+conf/eh/MitraM02:::Subhasish Mitra::Edward J. McCluskey:::Dependable Reconfigurable Computing Design Diversity and Self Repair.
+conf/eh/VassilevMF99:::Vesselin K. Vassilev::Julian F. Miller::Terence C. Fogarty:::On the Nature of Two-Bit Multiplier Landscapes.
+conf/eh/TempestiMPST03:::Gianluca Tempesti::Daniel Mange::Enrico Petraglio::André Stauffer::Yann Thoma:::Developmental Processes in Silicon: An Engineering Perspective.
+conf/eh/SekaninaR03:::Lukás Sekanina::Richard Ruzicka:::Easily Testable Image Operators: The Class of Circuits Where Evolution Beats Engineers.
+conf/eh/SeokLZLS00:::Ho-Sik Seok::Kwang-Ju Lee::Byoung-Tak Zhang::Dong-Wook Lee::Kwee-Bo Sim:::Genetic Programming of Process Decomposition Strategies for Evolvable Hardware.
+conf/eh/GarisBDHGD00:::Hugo de Garis::Andrzej Buller::Thierry Dob::Jean Honlet::Padma Guttikonda::Derek Decesare:::Building Multimodule Systems with Unlimited Evolvable Capacities from Modules with Limited Evolvable Capacities (MECs).
+conf/eh/Louis03:::Sushil J. Louis:::Learning for Evolutionary Design.
+conf/eh/MillerD02:::Julian F. Miller::Keith L. Downing:::Evolution in materio: Looking Beyond the Silicon Box.
+conf/eh/DamianiTL99:::Ernesto Damiani::Andrea Tettamanzi::Valentino Liberali:::On-Line Evolution of FPGA-Based Circuits: A Case Study on Hash Functions.
+conf/eh/Crossley99:::William A. Crossley:::Optimization for Aerospace Conceptual Design through the use of Genetic Algorithms.
+conf/eh/Milne99:::George J. Milne:::A Model for Dynamic Adaptation in Reconfigurable Hardware Systems.
+conf/eh/MangeSST00:::Daniel Mange::Moshe Sipper::André Stauffer::Gianluca Tempesti:::Toward Self-Repairing and Self-Replicating Hardware: The Embryonics Approach.
+conf/ei/Hill98:::Bernhard Hill:::Multispectral Color Technology: A Way towards High Definition Color Image Scanning and Encoding.
+conf/fc/FoxL99:::Barbara Fox::Brian A. LaMacchia:::Online Certificate Status Checking in Financial Transactions: The Case for Re-issuance.
+conf/fc/GabberJMM98:::Eran Gabber::Markus Jakobsson::Yossi Matias::Alain J. Mayer:::Curbing Junk E-Mail via Secure Classification.
+conf/fc/JakobssonJ98:::Markus Jakobsson::Ari Juels:::X-Cash: Executable Digital Cash.
+conf/fc/JakobssonM99:::Markus Jakobsson::Joy Müller:::Improved Magic Ink Signatures Using Hints.
+conf/fc/Yacobi97:::Yacov Yacobi:::On the Continuum Between On-line and Off-line E-cash Systems - 1.
+conf/fc/Yacobi99:::Yacov Yacobi:::Risk Management for E-Cash Systems with Partial Real-Time Audit.
+conf/fc/SchechterPH99:::Stuart Schechter::Todd Parnell::Alexander Hartemink:::Anonymous Authentication of Membership in Dynamic Groups.
+conf/fc/Rivest98:::Ronald L. Rivest:::Can We Eliminate Certificate Revocations Lists?
+conf/fc/GolleS01:::Philippe Golle::Stuart G. Stubblebine:::Secure Distributed Computing in a Commercial Environment.
+conf/fc/Wright97:::Benjamin Wright:::Alternative Visions for Legal Signatures and Evidence.
+conf/fc/Shamir01:::Adi Shamir:::SecureClick: A Web Payment System with Disposable Credit Card Numbers.

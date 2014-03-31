@@ -1,0 +1,200 @@
+conf/eccv/BouixS00:::Sylvain Bouix::Kaleem Siddiqi:::Divergence-Based Medial Surfaces.
+conf/eccv/MichaelisS94:::Markus Michaelis::Gerald Sommer:::Junction classification by multiple orientation detection.
+conf/eccv/DericheF90:::Rachid Deriche::Olivier D. Faugeras:::Tracking Line Segments.
+conf/eccv/TellC00:::Dennis Tell::Stefan Carlsson:::Wide Baseline Point Matching Using Affine Invariants Computed from Intensity Profiles.
+conf/eccv/ElderZ96a:::James H. Elder::Steven W. Zucker:::Local Scale Control for Edge Detection and Blur Estimation.
+conf/eccv/RocheGAM00:::Alexis Roche::Alexandre Guimond::Nicholas Ayache::Jean Meunier:::Multimodal Elastic Matching of Brain Images.
+conf/eccv/AloimonosD92:::Yiannis Aloimonos::Zoran Duric:::Active Egomotion Estimation: A Qualitative Approach.
+conf/eccv/ZerrougN94:::Mourad Zerroug::Ramakant Nevatia:::Segmentation and Recovery of SHGCs from a Real Intensity Image.
+conf/eccv/Fleck92:::Margaret M. Fleck:::Texture: Plus ça change, ...
+conf/eccv/BorensteinU02:::Eran Borenstein::Shimon Ullman:::Class-Specific, Top-Down Segmentation.
+conf/eccv/AndreyT96:::Philippe Andrey::Philippe Tarroux:::Unsupervised Texture Segmentation using Selectionist Relaxation.
+conf/eccv/PugetS90:::P. Puget::Thomas Skordas:::An Optimal Solution for Mobile Camera Calibration.
+conf/eccv/JonesM92a:::David G. Jones::Jitendra Malik:::Determining Three-Dimensional Shape from Orientation and Spatial Frequency Disparities.
+conf/eccv/ValchukWK02:::Tetiana Valchuk::Roman Wyrzykowski::Leonid Kompanets:::Mental Characteristics of Person as Basic Biometrics
+conf/eccv/NielsenFD96:::Mads Nielsen::Luc Florack::Rachid Deriche:::Regularization, Scale-Space, and Edge Detection Filters.
+conf/eccv/UedaM92:::Naonori Ueda::Kenji Mase:::Tracking Moving Contours Using Energy-Minimizing Elastic Contour Models.
+conf/eccv/GiblinK02:::Peter J. Giblin::Benjamin B. Kimia:::Transitions of the 3D Medial Axis under a One-Parameter Family of Deformations.
+conf/eccv/GiblinW94:::Peter J. Giblin::Richard S. Weiss:::Epipolar Fields on Surfaces.
+conf/eccv/KompanetsBW02:::Leonid Kompanets::Janusz Bobulski::Roman Wyrzykowski:::Pseudo-entropy Similarity for Human Biometrics.
+conf/eccv/TordoffM02:::Ben Tordoff::David W. Murray:::Guided Sampling and Consensus for Motion Estimation.
+conf/eccv/WalkerCT00:::K. N. Walker::Timothy F. Cootes::Christopher J. Taylor:::Determining Correspondences for Statistical Models of Appearance.
+conf/eccv/BergenM98:::Lothar Bergen::Fernand Meyer:::Motion Segmenation and Depth Ordering Based on Morphological Segmentation.
+conf/eccv/CsurkaDRH98:::Gabriella Csurka::David Demirdjian::Andreas Ruf::Radu Horaud:::Closed-Form Solutions for the Euclidean Calibration of a Stereo Rig.
+conf/eccv/JahneHSSSS98:::Bernd Jähne::Horst W. Haussecker::Hanno Scharr::Hagen Spies::D. Schmundt::Uli Schurr:::Study of Dynamical Processes with Tensor-Based Spatiotemporal Image Processing Techniques.
+conf/eccv/BernanderK90:::Öjvind Bernander::Christof Koch:::Local Cross-Modality Image Alignment Using Unsupervised Learning.
+conf/eccv/LindebergG94:::Tony Lindeberg::Jonas Gårding:::Shape-Adapted Smoothing in Estimation of 3-D Depth Cues from Affine Distortions of Local 2-D Brightness Structure.
+conf/eccv/TaylorB94:::Michael J. Taylor::Andrew Blake:::Grasping the Apparent Contour.
+conf/eccv/RobertVS90:::Luc Robert::Régis Vaillant::Michel Schmitt:::3D-vision-based robot navigation: first steps.
+conf/eccv/NakashimaMF02:::Akiko Nakashima::Atsuto Maki::Kazuhiro Fukui:::Constructing Illumination Image Basis from Object Motion.
+conf/eccv/ChangC92:::Chienchung Chang::Shankar Chatterjee:::A Deterministic Approach for Stereo Disparity Calculation.
+conf/eccv/KerenOG00:::Daniel Keren::Margarita Osadchy::Craig Gotsman:::Anti-Faces for Detection.
+conf/echt/OssenbruggenE94:::Jacco van Ossenbruggen::Anton Eliëns:::Music in Time-Based Hypermedia.
+conf/echt/RostekM94:::Lothar Rostek::Wiebke Möhr:::An Editor's Workbench for an Art History Reference Work.
+conf/echt/QuintV92:::Vincent Quint::Irène Vatton:::Combining Hypertext and Structured Documents in Grif.
+conf/echt/LandowK92:::George P. Landow::Paul Kahn:::Where's the Hypertext? The Dickens Web as a System-Independent Hypertext.
+conf/echt/AmannSR94:::Bernd Amann::Michel Scholl::Antoine Rizk:::Querying Typed Hypertexts in Multicard/O2.
+conf/echt/Bernstein90:::Mark Bernstein:::An Apprentice That Discovers Hypertext Links.
+conf/echt/AndersonTW94:::Kenneth M. Anderson::Richard N. Taylor::E. James Whitehead Jr.:::Chimera: Hypertext for Heterogeneous Software Environments.
+conf/echt/Scamuzzo92:::Stefano Scamuzzo:::KWICK: the Knowledge Worker's Workbench (Demonstration).
+conf/ecir/HeeschR03:::Daniel Heesch::Stefan M. Rüger:::Relevance Feedback for Content-Based Image Retrieval: What Can Three Mouse Clicks Achieve?
+conf/ecir/VegasFC02:::Jesús Vegas::Pablo de la Fuente::Fabio Crestani:::A Graphical User Interface for Structured Document Retrieval.
+conf/ecir/MartinetOCM03:::Jean Martinet::Iadh Ounis::Yves Chiaramella::Philippe Mulhem:::A Weighting Scheme for Star-Graphs.
+conf/dnis/Liu03:::Jiming Liu:::The World Wide Wisdom Web (W4).
+conf/dnis/JeonH03:::Yeonghyo Jeon::Eenjun Hwang:::Automatically Customizing Service Pages on the Web for Mobile Devices.
+conf/dnis/BottoniLR03:::Paolo Bottoni::Stefano Levialdi::Paola Rizzo:::An Analysis and Case Study of Digital Annotation.
+conf/dnis/JambalsurenC02:::Mungunsukh Jambalsuren::Zixue Cheng:::An Interactive Programming Environment for Enhancing Learning Performance.
+conf/dnis/LeeHSH02:::Hun Lee::Gun Ho Hong::Ha Yoon Song::Sang-Yong Han:::Coding and Presentation of Multimedia for Data Broadcasting with Broadcasting Markup Language.
+conf/ecml/JappyDGH94:::Pascal Jappy::Marie-Catherine Daniel-Vatonne::Olivier Gascuel::Colin De La Higuera:::Learning from Recursive, Tree Structured Examples.
+conf/ecml/LavracDG91:::Nada Lavrac::Saso Dzeroski::Marko Grobelnik:::Learning Nonrecursive Definitions of Relations with LINUS.
+conf/ecml/Lee94:::Changhwan Lee:::An Instance-Based Learning Method for Database: An Information Theoretic Approach.
+conf/ecml/KimL00:::DaeEun Kim::Jaeho Lee:::Handling Continuous-Valued Attributes in Decision Tree with Neural Network Modelling.
+conf/ecml/MoreiraM98:::Miguel Moreira::Eddy Mayoraz:::Improved Pairwise Coupling Classification with Correcting Classifiers.
+conf/ecml/BouthinonS98:::Dominique Bouthinon::Henry Soldano:::An Inductive Logic Programming Framework to Learn a Concept from Ambiguous Examples.
+conf/ecml/ZenobiC01:::Gabriele Zenobi::Padraig Cunningham:::Using Diversity in Preparing Ensembles of Classifiers Based on Different Feature Subsets to Minimize Generalization Error.
+conf/ecml/SpearsJBFG93:::William M. Spears::Kenneth A. De Jong::Thomas Bäck::David B. Fogel::Hugo de Garis:::An Overview of Evolutionary Computation.
+conf/ecml/MorikR02:::Katharina Morik::Stefan Rüping:::A Multistrategy Approach to the Classification of Phases in Business Cycles.
+conf/ecml/SucB01:::Dorian Suc::Ivan Bratko:::Induction of Qualitative Trees.
+conf/ecml/HerrmannAPR94:::Jürgen Herrmann::Reiner Ackermann::Jörg Peters::Detlef Reipa:::A Multistrategy Learning System and Its Integration into an Interactive Floorplanning Tool.
+conf/ecml/Lanquillon00:::Carsten Lanquillon:::Partially Supervised Text Classification: Combining Labeled and Unlabeled Documents Using an EM-like Scheme.
+conf/ecml/Margineantu02:::Dragos D. Margineantu:::Class Probability Estimation and Cost-Sensitive Classification Decisions.
+conf/ecml/BradfordKKBB98:::Jeffrey P. Bradford::Clayton Kunz::Ron Kohavi::Clifford Brunk::Carla E. Brodley:::Pruning Decision Trees with Misclassification Costs.
+conf/ecml/OliverH94:::Jonathan J. Oliver::David J. Hand:::Averaging Over Decision Stumps.
+conf/ecml/Turney93:::Peter D. Turney:::Exploiting Context When Learning to Classify.
+conf/ecml/YangBR91:::Der-Shung Yang::Gunnar Blix::Larry A. Rendell:::The Replication Problem: A Constructive Induction Approach.
+conf/ecml/DaelemansHMN03:::Walter Daelemans::Véronique Hoste::Fien De Meulder::Bart Naudts:::Combined Optimization of Feature Selection and Algorithm Parameters in Machine Learning of Language.
+conf/ecml/Tausend94:::Birgit Tausend:::Representing Biases for Inductive Logic Programming.
+conf/ecml/HirowatariA94:::Eizyu Hirowatari::Setsuo Arikawa:::Partially Isomorphic Generalization and Analogical Reasoning.
+conf/ecml/TorgoG97:::Luís Torgo::Joao Gama:::Search-Based Class Discretization.
+conf/ecml/Decaestecker91:::Christine Decaestecker:::Description Contrasting in Incremental Concept Formation.
+conf/ecml/McKoskeyB00:::David McKoskey::Daniel Boley:::Error Analysis of Automatic Speech Recognition Using Principal Direction Divisive Partitioning.
+conf/ecml/ChevaleyreZ01:::Yann Chevaleyre::Jean-Daniel Zucker:::A Framework for Learning Rules from Multiple Instance Data.
+conf/ecml/Pfahringer95:::Bernhard Pfahringer:::A New MDL Measure for Robust Rule Induction (Extended Abstract).
+conf/ecml/Pfahringer97:::Bernhard Pfahringer:::Compression-Based Pruning of Decision Lists.
+conf/ecml/KwekN02:::Stephen Kwek::Chau Nguyen:::iBoost: Boosting Using an i nstance-Based Exponential Weighting Scheme.
+conf/ecml/ShanHC97:::Ning Shan::Howard J. Hamilton::Nick Cercone:::Inducing and Using Decision Rules in the GRG Knowledge Discovery System.
+conf/ecml/KubatF95:::Miroslav Kubat::Doris Flotzinger:::Pruning Multivariate Decision Trees by Hyperplane Merging.
+conf/ecml/Furnkranz95:::Johannes Fürnkranz:::A Tight Integration of Pruning and Learning (Extended Abstract).
+conf/ecml/DzeroskiMR93:::Saso Dzeroski::Stephen Muggleton::Stuart J. Russell:::Learnability of Constrained Logic Programs.
+conf/ecml/OntanonP01:::Santiago Ontañón::Enric Plaza:::Learning When to Collaborate among Learning Agents.
+conf/ecml/OntanonP02:::Santiago Ontañón::Enric Plaza:::Case Exchange Strategies in Multiagent Learning.
+conf/ecml/Tausend94a:::Birgit Tausend:::Biases and Their Effects in Inductive Logic Programming.
+conf/ecml/SalustowiczS97:::Rafal Salustowicz::Jürgen Schmidhuber:::Probabilistic Incremental Program Evolution: Stochastic Search Through Program Space.
+conf/ecml/Schneider98:::René Schneider:::Automatic Acquisition of Lexical Knowledge from Sparse and Noisy Data.
+conf/ecml/CunninghamC00:::Padraig Cunningham::John Carney:::Diversity versus Quality in Classification Ensembles Based on Feature Selection.
+conf/ecml/Niblett93:::Tim Niblett:::A Note on Refinement Operators.
+conf/ecml/PaceFB91:::Luigi Di Pace::F. Fabrocini::G. Bolis:::Shift of Bias in Learning from Drug Compounds: The Fleming Project.
+conf/ecml/BanerjeeP02:::Bikramjit Banerjee::Jing Peng:::Convergent Gradient Ascent in General-Sum Games.
+conf/ecml/Medina-ChicoSL01:::Victor Medina-Chico::Alberto Suárez::James F. Lutsko:::Backpropagation in Decision Trees for Regression.
+conf/ecml/BergadanoERW91:::Francesco Bergadano::Floriana Esposito::Céline Rouveirol::Stefan Wrobel:::Panel: Evaluating and Changing Representation in Concept Acquisition.
+conf/edcc/NikolosV96:::Dimitris Nikolos::Haridimos T. Vergos:::On the Yield of VLSI Processors with on-chip CPU Cache.
+conf/edcc/PrataS99:::Paula Prata::João Gabriel Silva:::Fault-Detection by Result-Checking for the Eigenproblem.
+conf/edcc/CunhaCHRS02:::João Carlos Cunha::António Correia::Jorge Henriques::Mário Zenha Rela::João Gabriel Silva:::Reset-Driven Fault Tolerance.
+conf/edcc/TahirDGH94:::Jamel M. Tahir::Satnam Singh Dlay::Raouf N. Gorgui-Naguib::Oliver R. Hinton:::Concurrent Error Detection in Fast FNT Networks.
+conf/edcc/FabreDR94:::Jean-Charles Fabre::Yves Deswarte::Brian Randell:::Designing Secure and Reliable Applications using Fragmentation-Redundancy-Scattering: An Object-Oriented Approach.
+conf/edcc/Bigham02:::John Bigham:::Security and Survivability of Large Scale Critical Infrastructures.
+conf/edcc/CosquerAV96:::François J. N. Cosquer::Pedro Antunes::Paulo Verissimo:::Enhancing Dependability of Cooperative Applications in Partitionable Environments.
+conf/edcc/GarbolinoH99:::Tomasz Garbolino::Andrzej Hlawiczka:::A New LFSR with D and T Flip-Flops as an Effective Test Pattern Generator for VLSI Circuits.
+conf/edcc/WaeselynckT99:::Hélène Waeselynck::Pascale Thévenod-Fosse:::A Case Study in Statistical Testing of Reusable Concurrent Objects.
+conf/edbt/Gollmick02:::Christoph Gollmick:::Using Replication Proxy Servers for Scalable Mobile Database Access.
+conf/edbt/CeriCGLLTZ88:::Stefano Ceri::Stefano Crespi-Reghizzi::Georg Gottlob::F. Lamperti::Luigi Lavazza::Letizia Tanca::Roberto Zicari:::The Algres Project.
+conf/edbt/Beech88:::David Beech:::A Foundation for Evolution from Relational to Object Databases.
+conf/edbt/Deo00:::Annalisa Di Deo:::Spatio-Temporal Constraint Databases built on Object-Oriented Frameworks.
+conf/edbt/Barbedette90:::Gilles Barbedette:::LISPO<sub>2</sub>: a Persistent Object-Oriented Lisp.
+conf/edbt/SomogyiKHR94:::Zoltan Somogyi::David B. Kemp::James Harland::Kotagiri Ramamohanarao:::Subsumption-Free Bottom-up Evaluation of Logic Programs with Partially Instantiated Data Structures.
+conf/edbt/Schlieder02:::Torsten Schlieder:::Schema-Driven Evaluation of Approximate Tree-Pattern Queries.
+conf/edbt/ToyamaN98:::Motomichi Toyama::Takuhiro Nagafuji:::Dynamic and Structured Presentation of Database Contents on the Web.
+conf/edbt/LinK98:::Dao-I Lin::Zvi M. Kedem:::Pincer Search: A New Algorithm for Discovering the Maximum Frequent Set.
+conf/edbt/CasatiS02:::Fabio Casati::Ming-Chien Shan:::Semantic Analysis of Business Process Executions.
+conf/edbt/Altareva02:::Evguenia Altareva:::Uncertain Information in Data Integration.
+conf/edbt/WangZH02:::Ke Wang::Senqiang Zhou::Jiawei Han:::Profit Mining: From Patterns to Actions.
+conf/edbt/WangYW00:::Qiu Yue Wang::Jeffrey Xu Yu::Kam-Fai Wong:::Approximate Graph Schema Extraction for Semi-Structured Data.
+conf/edbt/Herbert94:::Andrew Herbert:::Databases in Distributed Systems: The New Frontier (Extended Abstract).
+conf/edbt/GuptaJM96:::Ashish Gupta::H. V. Jagadish::Inderpal Singh Mumick:::Data Integration using Self-Maintainable Views.
+conf/edbt/Kalinichenko90:::Leonid A. Kalinichenko:::Methods and Tools for Equivalent Data Model Mapping Construction.
+conf/edbt/Bonjour96:::Daisy Bonjour:::The Need for an Object Relational Model and its Use.
+conf/edbt/FraternaliP98:::Piero Fraternali::Paolo Paolini:::A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications.
+conf/edbt/BonnerI90:::Anthony J. Bonner::Tomasz Imielinski:::The Reuse and Modification of Rulebases by Predicate Substituation.
+conf/edbt/MahnkeR02:::Wolfgang Mahnke::Norbert Ritter:::The ORDB-Based SFB-501-Reuse-Repository.
+conf/edbt/SeshadriN92:::S. Seshadri::Jeffrey F. Naughton:::Sampling Issues in Parallel Database Systems.
+conf/edbt/BuchheitJNS94:::Martin Buchheit::Manfred A. Jeusfeld::Werner Nutt::Martin Staudt:::Subsumption between Queries to Object-Oriented Databases.
+conf/edbt/PiraheshMSL94:::Hamid Pirahesh::Bernhard Mitschang::Norbert Südkamp::Bruce G. Lindsay:::Composite-Object Views in Relational DBMS: An Implementation Perspective.
+conf/edbt/TangH98:::Jian Tang::San-Yih Hwang:::A Scheme to Specify and Implement Ad-Hoc Recovery in Workflow Systems.
+conf/edbt/HutfleszSW88:::Andreas Hutflesz::Hans-Werner Six::Peter Widmayer:::The Twin Grid File: A Nearly Space Optimal Index Structure.
+conf/edbt/FankhauserGO02:::Peter Fankhauser::Tobias Groh::Sven Overhage:::XQuery by the Book: The IPSI XQuery Demonstrator.
+conf/edbt/ShethLW88:::Amit P. Sheth::James A. Larson::Evan Watkins:::TAILOR, A Tool for Updating Views.
+conf/edbt/Amer-YahiaCS02:::Sihem Amer-Yahia::SungRan Cho::Divesh Srivastava:::Tree Pattern Relaxation.
+conf/edbt/MiloW88:::Amir Milo::Ouri Wolfson:::Placement of Replicated Items in Distributed Databases.
+conf/edbt/WolfsonCLTZR02:::Ouri Wolfson::Hu Cao::Hai Lin::Goce Trajcevski::Fengli Zhang::Naphtali Rishe:::Management of Dynamic Location Information in DOMINO.
+conf/edbt/JohannsenLRS88:::W. Johannsen::Winfried Lamersdorf::Kurt Reinhardt::Joachim W. Schmidt:::The DURES Project: Extending Datbases into an Open System Architecture.
+conf/edbt/KoellerR02:::Andreas Koeller::Elke A. Rundensteiner:::Incremental Maintenance of Schema-Restructuring Views.
+conf/edbt/Horrocks02:::Ian Horrocks:::DAML+OIL: A Reason-able Web Ontology Language.
+conf/edbt/FuhrR98:::Norbert Fuhr::Thomas Rölleke:::HySpirit - A Probabilistic Inference Engine for Hypermedia Retrieval in Large Databases.
+conf/edbt/BertinoH88:::Elisa Bertino::Laura M. Haas:::Views and Security in Distributed Database Management Systems.
+conf/edbt/HanQC88:::Jiawei Han::Ghassan Z. Qadah::Chinying Chaou:::The Processing and Evaluation of Transitive Closure Queries.
+conf/edbt/BerckenSS00:::Jochen Van den Bercken::Martin Schneider::Bernhard Seeger:::Plug&amp;Join: An easy-to-use Generic Algorithm for Efficiently Processing Equi and Non-Equi Joins.
+conf/ecsq/AbrahamssonK02:::Pekka Abrahamsson::Karlheinz Kautz:::Personal Software Process: Classroom Experiences from Finland.
+conf/ecsq/Dehli02:::Einar Dehli:::Model-Driven Business Operations.
+conf/ecsq/Richardson02:::Ita Richardson:::SPI Models: What Characteristics Are Required for Small Software Development Companies?
+conf/ecsq/Okazaki02:::Yasuko Okazaki:::Cooperation and Competition with Partner Companies: Practices for Quality Control through Competition among Teams.
+conf/ecsq/NawrockiWW02:::Jerzy R. Nawrocki::Bartosz Walter::Adam Wojciechowski:::Comparison of CMM Level 2 and eXtreme Programming.
+conf/edoc/Feldman00:::Stuart I. Feldman:::Technology Trends and Drivers and a Vision of the Future of e-Business.
+conf/edoc/PreussSK97:::Thomas Preuß::Jens-Hagen Syrbe::Hartmut König:::Virtual Private Resources.
+conf/edoc/WegmannN01:::Alain Wegmann::Andrey Naumenko:::Conceptual Modeling of Complex Systems Using an RM-ODP Based Ontology.
+conf/edoc/ThissenLL97:::Dirk Thißen::Claudia Linnhoff-Popien::Steffen Lipperts:::Can CORBA Fulfill Data Transfer Requirements of Industrial Enterprises?
+conf/edoc/ErdmannW97:::Sebastian Erdmann::Jan Wortmann:::Enterprise Modelling with FUNSOFT Nets.
+conf/edoc/BeppuNKCHO00:::Yasuyuki Beppu::Shin Nakajima::Fumihiro Kumeno::Kenta Cho::Tetsuo Hasegawa::Akihiko Ohsuga:::A Directory Server for Mobile Agents Interoperability.
+conf/edoc/LoftusOIV97:::Chris W. Loftus::A. Olsen::Euricio Inocêncio::Paula Viana:::A Code Generation Strategy for CORBA-Based Internet Applications.
+conf/edoc/LupuS97:::Emil Lupu::Morris Sloman:::A Policy Based Role Object Model.
+conf/edoc/JainCIR01:::Hemant K. Jain::Naresh Chalimeda::Navin Ivaturi::Balarama Reddy:::Business Component Identification - A Formal Approach.
+conf/edoc/OldevikSEB02:::Jon Oldevik::Arnor Solberg::Brian Elvesæter::Arne-Jørgen Berre:::Framework for Model Transformation and Code Generation.
+conf/edoc/PiccinelliEZS02:::Giacomo Piccinelli::Wolfgang Emmerich::Christian Zirpins::Kevin Schütt:::Web Service Interfaces for Inter-Organisational Business Processes: An Infrastructure for Automated Reconciliation.
+conf/edoc/BaiTSLP01:::Xiaoying Bai::Wei-Tek Tsai::Techeng Shen::Bing Li::Ray J. Paul:::Distributed End-to-End Testing Management.
+conf/edoc/OserGGG02:::Philipp Oser::Christian Gasser::Daniel Gorostidi::Rachid Guerraoui:::The LEAF Platform: Incremental Enhancements for the J2EE.
+conf/dood/BertinoGM97:::Elisa Bertino::Giovanna Guerrini::Isabella Merlo:::Trigger Inheritance and Overriding in Active Object Database Systems.
+conf/dood/MumickR93:::Inderpal Singh Mumick::Kenneth A. Ross:::Noodle: A Language for Declarative Querying in an Object-Oriented Database.
+conf/dood/Shu97:::Hua Shu:::View Maintenance Using Conditional Tables.
+conf/dood/LeeO95:::Hing-Yan Lee::Hwee-Leng Ong:::A New Visualisation Technique for Knowledge Discovery in OLAP (Abstract).
+conf/dood/LuSL95:::Hongjun Lu::Rudy Setiono::Huan Liu:::Towards Effective Classfication Rule Extraction (Abstract).
+conf/dood/SaraeeT95:::Mohamed H. Saraee::Babis Theodoulidis:::Knowledge Discovery in Temporal Databases: The Initial Step.
+conf/dood/TanK89:::Lichao Tan::Takuya Katayama:::Meta Operations for Type Management in Object-Oriented Databases.
+conf/dood/MollerS95:::P. Möller::Suryanarayana M. Sripada:::The ChronoBase Temporal Deductive Database System.
+conf/dood/CoburnW93:::Neil Coburn::Grant E. Weddell:::A Logic for Rule-Based Query Optimization in Graph-Based Data Models.
+conf/dood/Wieringa91:::Roel Wieringa:::A Formalization of Objects Using Equational Dynamic Logic.
+conf/dood/FegarasMS93:::Leonidas Fegaras::David Maier::Tim Sheard:::Specifying Rule-Based Query Optimizers in a Reflective Framework.
+conf/dood/LaurentLS93:::Dominique Laurent::Viet Phan Luong::Nicolas Spyratos:::Database Updating Revisited.
+conf/dood/Tanaka89:::Yuzuru Tanaka:::A Tool Kit System for the Synthesis and the Management of Active Media Objects.
+conf/dood/MaierZO89:::David Maier::Jianhua Zhu::Hitomi Ohkawa:::Features of the TEDM Object Model.
+conf/dood/CheineyH91:::Jean-Pierre Cheiney::Yan-Nong Huang:::Set-Oriented Propagation of Updates into Transitively Closed Relations.
+conf/dood/BusscheV93:::Jan Van den Bussche::Gottfried Vossen:::An Extension of Path Expressions to Simplify Navigation in Object-Oriented Queries.
+conf/dood/Ullman91:::Jeffrey D. Ullman:::A Comparison between Deductive and Object-Oriented Database Systems.
+conf/dood/LanzelotteVZC91:::Rosana S. G. Lanzelotte::Patrick Valduriez::Mikal Ziane::Jean-Pierre Cheiney:::Optimization of Nonrecursive Queries in OODBs.
+conf/dood/ShawZ89:::Gail M. Shaw::Stanley B. Zdonik:::Object-Oriented Queries: Equivalence and Optimization.
+conf/dood/MattoxSL93:::David Mattox::Kenneth Smith::Stephen C. Y. Lu:::Tracking Causal Dependencies in an Active Object-Oriented Database.
+conf/dood/AbererCB97:::Karl Aberer::Dunren Che::Klemens Böhm:::Rule-Based Generation of Logical Query Plans with Controlled Complexity.
+conf/dood/ZhangO93:::Xubo Zhang::Z. Meral Özsoyoglu:::On Efficient Reasoning with Implication Constraints.
+conf/dood/BrassL91:::Stefan Brass::Udo W. Lipeck:::Semantice of Inheritance in Logical Object Specifications.
+conf/dood/NguWW91:::Anne H. H. Ngu::Limsoon Wong::Surjatini Widjojo:::On Canonical and Non-canonical Classifications.
+conf/dood/AtzeniCM93:::Paolo Atzeni::Luca Cabibbo::Giansalvatore Mecca:::ISALOG- : A Deductive Language with Negation for Complex-Object Databases with Hierarchies.
+conf/dpds/LeeFM88:::Kuo Chu Lee::Ophir Frieder::Victor Wing-Kit Mak:::A Parallel VLSI Architecture for Unformatted Data Processing.
+conf/dpds/SridharI90:::Radhakrishnan Sridhar::S. Sitharama Iyengar:::Efficient Parallel Algorithms for Functional Dependency Manipulations.
+conf/dppi/DamazioD03:::Vera Damazio::Pablo Dias:::www.a.site.for.things-that.bring.back.memories.
+conf/dppi/WeightmanM03:::David Weightman::Deana McDonagh:::People are doing it for themselves.
+conf/dppi/Zimmerman03:::John Zimmerman:::Exploring the role of emotion in the interaction design of digital music players.
+conf/ehci/AhlbergT95:::Christopher Ahlberg::Staffan Truvé:::Exploring terra incognita in the design space of query devices.
+conf/ehci/GrahamG98:::T. C. Nicholas Graham::John C. Grundy:::External Requirements of Groupware Development Tools.
+conf/ehci/Dewan95:::Prasun Dewan:::Multiuser architectures.
+conf/ehci/BenedettiBLMM95:::G. Benedetti::B. Bodin::F. Lhuisset::O. Martineau::Bernard Mérialdo:::A structured video browsing tool.
+conf/ehci/Vodislav95:::Dan Vodislav:::HandMove: a system for creating animated user interface components by direct manipulation.
+conf/ehci/MakarainenTK01:::Minna Mäkäräinen::Johanna Tiitola::Katja Konkka:::How Cultural Needs Affect User Interface Design?
+conf/ehci/ChessonJD98:::Paul Chesson::Lorraine Johnston::Philip W. Dart:::Towards a Framwork and Procedure for Specifying User Interfaces.
+conf/egov/AnagnostakisSTFL02:::A. Anagnostakis::G. C. Sakellaris::M. Tzima::Dimitrios I. Fotiadis::Aristidis Likas:::CITATION - Citizen Information Tool in Smart Administration.
+conf/egov/RossumCM02:::Martin van Rossum::Daniele Chauvel::Alasdair Mangham:::BRAINCHILD, Building a Constituency for Future Research in Knowledge Management for Local Administrations.
+conf/egov/MoussalliS02:::Antoinette Moussalli::Christopher Stokes:::Bridging the Digital Divide with AVANTI Technology.
+conf/egov/Petrovic02:::Otto Petrovic:::The Immanent Fields of Tension Associated with e-Government.
+conf/egov/GouscosLLMG02:::Dimitris Gouscos::Giorgos Laskaridis::Dimitris Lioulias::Gregory Mentzas::Panagiotis Georgiadis:::An Approach to Offering One-Stop e-Government Services - Available Technologies and Architectural Issues.
+conf/egov/DesmedtK02:::Yvo Desmedt::Brian King:::Verifiable Democracy a Protocol to Secure an Electronic Legislature.
+conf/egov/TarabanisP02:::Konstantinos A. Tarabanis::Vassilios Peristeras:::Requirements for Transparent Public Services Provision amongst Public Administrations.
+conf/dser/BecchiniCKVV01:::R. Becchini::P. Chilaev::V. Krivtsov::I. Viglietti::V. Volochinov:::Middleware.
+conf/dsom/AschemannDHKZ99:::Gerd Aschemann::Svetlana Domnitcheva::Peer Hasselmeyer::Roger Kehr::Andreas Zeidler:::A Framework for the Integration of Legacy Devices into a Jini Management Federation.
+conf/dsom/YewSLP03:::Alvin Yew::Audun Strand::Antonio Liotta::George Pavlou:::Aggregation of Composite Location-Aware Services for Mobile Cellular Networks.

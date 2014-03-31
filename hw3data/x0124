@@ -1,0 +1,200 @@
+conf/stacs/CulikK92:::Karel Culik II::Juhani Karhumäki:::Iterative Devices Generating Infinite Words.
+conf/stacs/KosubW00:::Sven Kosub::Klaus W. Wagner:::The Boolean Hierarchy of NP-Partitions.
+conf/stacs/ZhangBT93:::Zhi-Li Zhang::David A. Mix Barrington::Jun Tarui:::Computing Symmetric Functions with AND/OR Circuits and a Single MAJORITY Gate.
+conf/stacs/AlloucheS90:::Jean-Paul Allouche::Jeffrey Shallit:::The Ring of k-Regular Sequences.
+conf/stacs/BergmanS99:::Clifford Bergman::Giora Slutzki:::Complexity of Some Problems in Universal Algebra.
+conf/stacs/AltKW01:::Helmut Alt::Christian Knauer::Carola Wenk:::Matching Polygonal Curves with Respect to the Fréchet Distance.
+conf/stacs/PavanS02:::Aduri Pavan::Alan L. Selman:::Bi-Immunity Separates Strong NP-Completeness Notions.
+conf/stacs/AmbainisFS96:::Andris Ambainis::Rusins Freivalds::Carl H. Smith:::General Inductive Inference Types Based on Linearly-Ordered Sets.
+conf/stacs/BoudolRS85:::Gérard Boudol::Gérard Roucairol::Robert de Simone:::Petri Nets and Algebraic Calculi of Processes.
+conf/stacs/Penna00:::Paolo Penna:::Succinct Representations of Model Based Belief Revision.
+conf/stacs/CaiLLORS95:::Jin-yi Cai::Richard J. Lipton::Luc Longpré::Mitsunori Ogihara::Kenneth W. Regan::D. Sivakumar:::Communication Complexity of Key Agreement on Small Ranges.
+conf/stacs/KuceraMPS93:::Ludek Kucera::Kurt Mehlhorn::B. Preis::E. Schwarzenecker:::Exact Algorithms for a Geometric Packing Problem (Extended Abstract).
+conf/stacs/BertDE87:::Didier Bert::P. Drabik::Rachid Echahed:::LPG: A Generic, Logic and Functional Programming Language.
+conf/stacs/Wilke99:::Thomas Wilke:::Classifying Discrete Temporal Properties.
+conf/stacs/Rhodes84:::John Rhodes:::Algebraic and Topological Theory of Languages and Computation, Part I: Theorems for Arbitrary Labguages Generalizing the Theorems of Eilenberg, Kleene, Schützenberger and Straubing.
+conf/stacs/Schwill90:::Andreas Schwill:::Nonblocking Graphs: Greedy Algorithms to Compute Disjoint Paths.
+conf/stacs/Sieling98:::Detlef Sieling:::On the Existence of Polynomial Time Approximation Schemes for OBDD Minimization (Extended Abstract).
+conf/stacs/RosierY85:::Louis E. Rosier::Hsu-Chun Yen:::Boundedness, Empty Channel Detection and Synchronization for Communicating Finite State Machines.
+conf/stacs/Krause95:::Matthias Krause:::On Realizing Iterated Multiplication by Small Depth Threshold Circuits.
+conf/stacs/HemaspaandraHH97:::Edith Hemaspaandra::Lane A. Hemaspaandra::Harald Hempel:::A Downward Translation in the Polynomial Hierarchy.
+conf/stacs/IlieSY03:::Lucian Ilie::Baozhen Shan::Sheng Yu:::Fast Algorithms for Extended Regular Expression Matching and Searching.
+conf/stacs/BarringtonLMS98:::David A. Mix Barrington::Chi-Jen Lu::Peter Bro Miltersen::Sven Skyum:::Searching Constant Width Mazes Captures the AC<sup>0</sup> Hierarchy.
+conf/stacs/BerardGP96:::Béatrice Bérard::Paul Gastin::Antoine Petit:::On the Power of Non-Observable Actions in Timed Automata.
+conf/stacs/BalcazarB86:::José L. Balcázar::Ronald V. Book:::On Generalized Kolmogorov Complexity.
+conf/stacs/Staiger93:::Ludwig Staiger:::Recursive Automata on Infinite Words.
+conf/stacs/Jeron91:::Thierry Jéron:::Testing for Unboundedness of FIFO Channels.
+conf/stacs/EiterIM99:::Thomas Eiter::Toshihide Ibaraki::Kazuhisa Makino:::On the Difference of Horn Theories.
+conf/stacs/Weil85:::Pascal Weil:::Groups, Codes and Unambiguous Automata.
+conf/stacs/HoyerW02:::Peter Høyer::Ronald de Wolf:::Improved Quantum Communication Complexity Bounds for Disjointness and Equality.
+conf/stacs/KosubSV98:::Sven Kosub::Heinz Schmitz::Heribert Vollmer:::Uniformly Defining Complexity Classes of Functions.
+conf/stacs/DemriS98:::Stéphane Demri::Ph. Schnoebelen:::The Complexity of Propositional Linear Temporal Logics in Simple Cases (Extended Abstract).
+conf/stacs/KaufmannM87:::Michael Kaufmann::Kurt Mehlhorn:::On Local Routing of Two-Terminal Nets.
+conf/stacs/AdlerR02:::Micah Adler::Adi Rosén:::Tight Bounds for the Performance of Longest-in-System on DAGs.
+conf/stacs/CervelleF03:::Julien Cervelle::Enrico Formenti:::On Sand Automata.
+conf/stacs/FernandesN01:::Cristina G. Fernandes::Till Nierhoff:::The UPS Problem.
+conf/stacs/Ogiwara94:::Mitsunori Ogiwara:::NC^k(NP) = AC^(k-1)(NP).
+conf/stacs/KleinW88:::Rolf Klein::Derick Wood:::Voronoi Diagrams Based on General Metrics in the Plane.
+conf/stacs/Lambert90:::Jean-Luc Lambert:::Sorting the Sums (xi+yj) in O(n²) Comparisons.
+conf/stacs/KaplanP87:::S. Kaplan::Amir Pnueli:::Specification and Implementation of Concurrently Accessed Data Structures: An Abstract Data Type Approach.
+conf/stacs/HagerupT01:::Torben Hagerup::Torsten Tholey:::Efficient Minimal Perfect Hashing in Nearly Minimal Space.
+conf/stacs/Rutenburg91:::Vladislav Rutenburg:::Complexity Classification of Truth Maintenance Systems.
+conf/stacs/GrammatikakisJ92:::Miltos D. Grammatikakis::Jung-Sing Jwo:::A Discrete Event Simulator of Communication Algorithms in Interconnection Networks.
+conf/stacs/Regan94:::Kenneth W. Regan:::A New Parallel Vector Model, with Exact Characterization of NC^k.
+conf/stacs/Alfaro97:::Luca de Alfaro:::Temporal Logics for the Specification of Performance and Reliability.
+conf/stacs/Thorup98:::Mikkel Thorup:::Floats, Integers, and Single Source Shortest Paths.
+conf/stacs/DingR02:::Yan Zong Ding::Michael O. Rabin:::Hyper-Encryption and Everlasting Security.
+conf/stacs/ChytilM90:::Michal Chytil::Burkhard Monien:::Caterpillars and Context-Free Languages.
+conf/stacs/AartsBHL86:::Emile H. L. Aarts::F. M. J. de Bont::J. H. A. Habers::P. J. M. Laarhoven:::A Parallel Statistical Cooling Algorithm.
+conf/stacs/KirousisKKP97:::Lefteris M. Kirousis::Evangelos Kranakis::Danny Krizanc::Andrzej Pelc:::Power Consumption in Packet Radio Networks (Extended Abstract).
+conf/stacs/Kelter86:::Udo Kelter:::Strictness and Serializability.
+conf/stacs/Felice88:::Clelia de Felice:::Construction of a Family of Finite Maximal Codes.
+conf/stacs/Felice92:::Clelia de Felice:::On the Factorization Conjecture.
+conf/stacs/Reinhardt97:::Klaus Reinhardt:::Strict Sequential P-completeness.
+conf/stacs/Scheideler02:::Christian Scheideler:::Models and Techniques for Communication in Dynamic Networks.
+conf/stacs/KratschS99:::Dieter Kratsch::Lorna Stewart:::Approximating Bandwidth by Mixing Layouts of Interval Graphs.
+conf/stacs/Cassaigne01:::Julien Cassaigne:::Recurrence in Infinite Words.
+conf/stacs/Antimirov95:::Valentin M. Antimirov:::Partial Derivates of Regular Expressions and Finite Automata Constructions.
+conf/stacs/Gilleron91:::Rémi Gilleron:::Decision Problems for Term Rewriting Systems and Recognizable Tree Languages.
+conf/stacs/KloksK93:::Ton Kloks::Dieter Kratsch:::Treewidth of Bipartite Graphs.
+conf/stacs/Dowek02:::Gilles Dowek:::What Is a Theory?
+conf/stacs/Bollig03:::Beate Bollig:::Complexity Theoretical Results on Nondeterministic Graph-Driven Read-Once Branching Programs.
+conf/stacs/FranciosaFG97:::Paolo Giulio Franciosa::Daniele Frigioni::Roberto Giaccio:::Semi-Dynamic Shortest Paths and Breadth-First Search in Digraphs.
+conf/stacs/Gamatie86:::B. Gamatie:::Towards Specification and Proof of Asynchronous Systems.
+conf/stacs/LautemannS01:::Clemens Lautemann::Nicole Schweikardt:::An Ehrenfeucht-Fraïssé Approach to Collapse Results for First-Order Queries over Embedded Databases.
+conf/stacs/Diekert85:::Volker Diekert:::On Hotz Groups and Homomorphic Images of Sentential Form Languages.
+conf/stacs/EstebanT99:::Juan Luis Esteban::Jacobo Torán:::Space Bounds for Resolution.
+conf/stacs/KaufmannMV92:::Michael Kaufmann::Paul Molitor::Wolfgang Vogelgesang:::Performance Driven k-Layer Wiring.
+conf/stacs/HeideV95:::Friedhelm Meyer auf der Heide::Berthold Vöcking:::A Packet Routing Protocol for Arbitrary Networks.
+conf/stacs/Drosten84:::Klaus Drosten:::Towards Executable Specifications Using Conditional Axioms.
+conf/stacs/Spirakis86:::Paul G. Spirakis:::Input Sensitive, Optimal Parallel Randomized Algorithms for Addition and Identification.
+conf/stacs/FederMMOP03:::Tomás Feder::Adam Meyerson::Rajeev Motwani::Liadan O'Callaghan::Rina Panigrahy:::Representing Graph Metrics with Fewest Edges.
+conf/stacs/AlfaroKM97:::Luca de Alfaro::Arjun Kapur::Zohar Manna:::Hybrid Diagrams: A Deductive-Algorithmic Approach to Hybrid System Verification.
+conf/stacs/Narbel93:::Philippe Narbel:::The Limit Set of Recognizable Substitution Systems.
+conf/stacs/ClementiCPRV01:::Andrea E. F. Clementi::Pierluigi Crescenzi::Paolo Penna::Gianluca Rossi::Paola Vocca:::On the Complexity of Computing Minimum Energy Consumption Broadcast Subgraphs.
+conf/stacs/BuhrmanT96:::Harry Buhrman::Thomas Thierauf:::The Complexity of Generating and Checking Proffs of Membership.
+conf/stacs/Irastorza85:::Christine Irastorza:::Base non finie de varietes.
+conf/stacs/BaetenV02:::Jos C. M. Baeten::Erik P. de Vink:::Axiomatizing GSOS with Termination.
+conf/stacs/ArvindB87:::V. Arvind::S. Biswas:::Expressibility of First Order Logic with a Nondeterministic Inductive Operator.
+conf/stacs/ArvindK00:::Vikraman Arvind::Johannes Köbler:::Graph Isomorphism Is Low for ZPP(NP) and Other Lowness Results.
+conf/stacs/Kummer96:::Martin Kummer:::On the Complexity of Random Strings (Extended Abstract).
+conf/stacs/BreutzmannL97:::Josef M. Breutzmann::Jack H. Lutz:::Equivalence of Measures of Complexity Classes.
+conf/stacs/Gradel91:::Erich Grädel:::The Expressive Power of Second Order Horn Logic.
+conf/stacs/Bassino96:::Frédérique Bassino:::Star-Height of an N-Rational Series.
+conf/stacs/GlasserS00:::Christian Glaßer::Heinz Schmitz:::Languages of Dot-Depth 3/2.
+conf/stacs/GilleronTT93:::Rémi Gilleron::Sophie Tison::Marc Tommasi:::Solving Systems of Set Constraints using Tree Automata.
+conf/stacs/MalerPS95:::Oded Maler::Amir Pnueli::Joseph Sifakis:::On the Synthesis of Discrete Controllers for Timed Systems (An Extended Abstract).
+conf/stacs/Nickl89:::Friederike Nickl:::Algebraic Specifications for Domain THeory.
+conf/stacs/Lienhardt88:::Pascal Lienhardt:::Extension of the Notion of Map and Subdivisions of a Three-Dimensional Space.
+conf/stacs/AgostinoS98:::Sergio De Agostino::Riccardo Silvestri:::Bounded Size Dictionary Compression: SC<sup>k</sup>-Completeness and NC Algorithms.
+conf/stacs/Godau91:::Michael Godau:::A Natural Metric for Curves - Computing the Distance for Polygonal Chains and Approximation Algorithms.
+conf/stacs/Keranen87:::Veikko Keränen:::On the k-Freeness of Morphisms on Free Monoids.
+conf/stacs/KargKS97:::Christoph Karg::Johannes Köbler::Rainer Schuler:::The Complexity of Generating Test Instances.
+conf/stacs/HirvensaloHW99:::Vesa Halava::Mika Hirvensalo::Ronald de Wolf:::Decidability and Undecidability of Marked PCP.
+conf/stacs/ArvindBL98:::V. Arvind::Richard Beigel::Antoni Lozano:::The Complexity of Modular Graph Automorphism.
+conf/stacs/DeshmukhSDR00:::Kaustubh Deshmukh::Priti Shankar::Amitava Dasgupta::B. Sundar Rajan:::On the Many Faces of Block Codes.
+conf/stacs/Becker92:::Bernd Becker:::Synthesis for Testability: Binary Decision Diagrams.
+conf/stacs/Selivanov01:::Victor L. Selivanov:::A Logical Approach to Decidability of Hierarchies of Regular Star-Free Languages.
+conf/stacs/HarjuKK96:::Tero Harju::Juhani Karhumäki::Daniel Krob:::Remarks on Generalized Post Correspondence Problem.
+conf/stacs/MehlhornMO90:::Kurt Mehlhorn::Stefan Meiser::Colm Ó'Dúnlaing:::On the Construction of Abstract Voronoi Diagrams.
+conf/stacs/SchuiererS99:::Sven Schuierer::Ines Semrau:::An Optimal Strategy for Searching in Unknown Streets.
+conf/stacs/AurenhammerI87:::Franz Aurenhammer::Hiroshi Imai:::Geometric Relations Among Voronoi Diagrams.
+conf/syben/Christ98:::Paul Christ:::Gigabit ATM - Another Technical Mistake?
+conf/syben/BomMCP98:::João Bom::Paulo Marques::Miguel Correia::Paulo Pinto:::Integrated Dymanic QoS Control for Multimedia Applications.
+conf/syben/CavigliaGB98:::Francesco Caviglia::Angelantonio Gnazzo::Guido Baroncelli:::Splitter Position in a PON-based Architecture: A Techno-economic Analysis.
+conf/syben/MusatenkoK98a:::Yurij S. Musatenko::Vitalij N. Kurashov:::Optimal image coding for compression of correlated image sets.
+conf/syben/BraunM98:::Torsten Braun::Martin Mähler:::Implementation of Virtual LANs over ATM WANs.
+conf/syben/SchmaussWP98:::Bernard Schmauß::Dieter Werner::Michael Picker:::Optimized Dispersion Compensation Scheme for Long Distance Transmission in Nonlinear Fibers.
+conf/syben/CallegatiBG98:::Franco Callegati::B. Bostica::C. Guillemot:::Network Architecture for Transparent Optical Packet Switching.
+conf/tphol/Bolignano99:::Dominique Bolignano:::Formal Methods and Security Evaluation (Invited Talk).
+conf/tphol/Parnas93:::David Lorge Parnas:::Some Theorems We Should Prove.
+conf/tphol/NaraschewskiW98:::Wolfgang Naraschewski::Markus Wenzel:::Object-Oriented Verification Based on Record Subtyping in Higher-Order Logic.
+conf/tphol/LuC94:::Juin-Yeu Lu::Shiu-Kai Chin:::Generating Designs Using an Algorithmic Register Transfer Language with Formal Semantics.
+conf/tphol/Hurd01:::Joe Hurd:::Predicate Subtyping with Predicate Sets.
+conf/tphol/Voort92:::Mark van der Voort:::Introducing well-founded function definitions in HOL.
+conf/tphol/Jacobs01:::Bart Jacobs:::JavaCard Program Verification.
+conf/tphol/Loewenstein92:::Paul Loewenstein:::A Formal Theory of Simulations Between Infinite Automata.
+conf/tphol/Lucena91:::E. de Barros Lucena:::Reasoning about Petri Nets in HOL.
+conf/tphol/TaharC96:::Sofiène Tahar::Paul Curzon:::A Comparison of MDG and HOL for Hardware Verification.
+conf/tphol/Boulton92a:::Richard J. Boulton:::Boyer-Moore Automation for the HOL System.
+conf/tphol/Kalvala91a:::Sara Kalvala:::Developing an Interface for HOL.
+conf/tphol/ZhangMHH02:::Xingyuan Zhang::Malcolm Munro::Mark Harman::Lin Hu:::Weakest Precondition for General Recursive Programs Formalized in Coq.
+conf/tphol/JoyceS93:::Jeffrey J. Joyce::Carl-Johan H. Seger:::The HOL-Voss System: Model-Checking inside a General-Purpose Theorem-Prover.
+conf/tphol/Dowek97:::Gilles Dowek:::Proof Normalization for a First-Order Formulation of Higher-Order Logic.
+conf/tphol/CarrenoM00:::Victor Carreño::César Muñoz:::Aircraft Trajectory Modeling and Altering Algorithm Verification.
+conf/tphol/HemerHS01:::David Hemer::Ian J. Hayes::Paul A. Strooper:::Refinement Calculus for Logic Programming in Isabelle/HOL.
+conf/tphol/HickeyN00:::Jason Hickey::Aleksey Nogin:::Fast Tactic-Based Theorem Proving.
+conf/tphol/Kropf99:::Thomas Kropf:::Recent Advancements in Hardware Verification - How to Make Theorem Proving Fit for an Industrial Usage.
+conf/tphol/Gordon00:::Michael J. C. Gordon:::Reachability Programming in HOL98 Using BDDs.
+conf/tphol/Keutzer91:::Kurt Keutzer:::The Need for Formal Verification in Hardware Design and What Formal Verification Has Not Done for Me Lately.
+conf/tphol/Slind94:::Konrad Slind:::A Parameterized Proof Manager.
+conf/tphol/DevillersGM97:::Marco Devillers::W. O. David Griffioen::Olaf Müller:::Possibly Infinite Sequences in Theorem Provers: A Comparative Study.
+conf/tphol/Windley92:::Phillip J. Windley:::Abstract Theories in HOL.
+conf/tphol/Constable97:::Robert L. Constable:::ML Programming in Constructive Type Theory (abstract).
+conf/tphol/HeckmanZBPLO96:::Mark Heckman::Cui Zhang::Brian R. Becker::Dave Peticolas::Karl N. Levitt::Ronald A. Olsson:::Towards Applying the Composition Principle to Verify a Microkernel Operating System.
+conf/tphol/EisenbieglerSK93:::Dirk Eisenbiegler::Klaus Schneider::Ramayya Kumar:::A Functional Approach for Formalizing Regular Hardware Structures.
+conf/tphol/LangbackaW97:::Thomas Långbacka::Joakim von Wright:::Refining Reactive Systems in HOL Using Action Systems.
+conf/tphol/ChapmanFF94:::Nick Chapman::Simon Finn::Michael P. Fourman:::Datatypes in L2.
+conf/tphol/Wenzel99:::Markus Wenzel:::Isar - A Generic Interpretative Approach to Readable Formal Proof Documents.
+conf/tphol/Santen99:::Thomas Santen:::Isomorphisms - A Link Between the Shallow and the Deep.
+conf/tphol/SchneiderKK93a:::Klaus Schneider::Ramayya Kumar::Thomas Kropf:::Eliminating Higher-Order Quantifiers to Obtain Decision Procedures for Hardware Verification.
+conf/tphol/Mohri97:::Takahisa Mohri:::On Formalization of Bicategory Theory.
+conf/tphol/Harrison00:::John Harrison:::Formal Verification of IA-64 Division Algorithms.
+conf/tphol/Harrison92:::John Harrison:::Constructing the real numbers in HOL.
+conf/tphol/Harrison93:::John Harrison:::A HOL Decision Procedure for Elementary Real Algebra.
+conf/tphol/Harrison95:::John Harrison:::Floating Point Verification in HOL.
+conf/tphol/FuraWS93:::David A. Fura::Phillip J. Windley::Arun K. Somani:::Abstraction Techniques for Modeling Real-World Interface Chips.
+conf/tphol/BlackW95:::Paul E. Black::Phillip J. Windley:::Autotically Synthesized Term Denotation Predicates: A Proof Aid.
+conf/tphol/Zammit97:::Vincent Zammit:::A Comparative Study of Coq and HOL.
+conf/tphol/HeydC96:::Barbara Heyd::Pierre Crégut:::A Modular Coding of UNITY in COQ.
+conf/treds/LeclercLLMW96:::M. Leclerc::Claudia Linnhoff-Popien::Steffen Lipperts::T. Müssener::H. Wegmann:::CORBA-Based Data Transfer for Financial Risk Management.
+conf/uiall/HornbaekF02:::Kasper Hornbæk::Erik Frøkjær:::Evaluating User Interfaces with Metaphors of Human Thinking.
+conf/uiall/DonnellyM02:::Alexis A. Donnelly::Mark Magennis:::Making Accessibility Guidelines Usable.
+conf/uiall/AlmIAN02:::Norman Alm::Mamoru Iwabuchi::Peter N. Andreasen::Kenryu Nakamura:::A Multi-lingual Augmentative Communication System.
+conf/uiall/Eronen02:::Leena Eronen:::Digital Television for All: User Preferences and Designers' Views on What Would Suit the User.
+conf/uiall/FairhurstGDG02:::Michael C. Fairhurst::R. M. Guest::Farzin Deravi::J. George:::Using Biometrics as an Enabling Technology in Balancing Universality and Selectivity for Management of Information Access.
+conf/uiall/BernerR02:::Uwe Berner::Thomas Rieger:::A Scalable Avatar for Conversational User Interfaces.
+conf/uidis/Dix99:::Alan J. Dix:::Design of User Interfaces for the Web.
+conf/uidis/BugajskaM01:::Malgorzata Bugajska::Andrew Vande Moere:::Virtual Library: Paths to Knowledge.
+conf/ukcbr/FunkR95:::Peter J. Funk::David Stuart Robertson:::Capturing and Matching Dynamic Behaviour in Case-Based Reasoning.
+conf/ukcbr/Ellman95:::Jeremy Ellman:::An Application of Case Based Reasoning to Object Oriented Database Retrieval.
+conf/ukmas/SchutWP02:::Martijn Schut::Michael Wooldridge::Simon Parsons:::On Partially Observable MDPs and BDI Models.
+conf/ulpaa/GopalW92:::Gita Gopal::Sze-Ying Wuu:::A Directory Model to Support Cross-Context Naming and Addressing.
+conf/ulpaa/Lubich94a:::Hannes P. Lubich:::Electronic Mail Gatewaying versus Tunnelling.
+conf/ulpaa/Grimm92:::Rüdiger Grimm:::A Model of Security in Open Telecooperation.
+conf/vchci/Al-KhonaiziAA93:::M. Al-Khonaizi::Mansoor Al-A'Ali::Ala Al-Zobaidie:::Understanding Natural Arabic Text.
+conf/vchci/AttiogbeD93:::Christian Attiogbé::Jean-Louis Durieux:::Handling Interaction in Software Specification.
+conf/vchci/KoivunnenLARRR93:::Marja-Riitta Koivunnen::Ora Lassila::Juha Ahvo::Minna Rankinen::Sirpa Riihiaho::Bodil Riihinen:::ActorStudio: An Interactive User Interface Editor.
+conf/vchci/EichelbergA93:::Dominik Eichelberg::Philipp Ackermann:::Integrating Interactive 3D-Graphics into an Object-Oriented Application Framework.
+conf/vchci/GillW93:::Simon H. Gill::David K. Wright:::Offering Different Perspectives in a Learning Environment.
+conf/types/Wolfram93:::David A. Wolfram:::Semantics for Abstract Clauses.
+conf/types/Paulson94:::Lawrence C. Paulson:::A Concrete Final Coalgebra Theorem for ZF Set Theory.
+conf/types/LeclercP93:::François Leclerc::Christine Paulin-Mohring:::Programming with Streams in Coq - A Case Study: the Sieve of Eratosthenes.
+conf/types/Cederquist96:::Jan Cederquist:::An Implementation of the Heine-Borel Covering Theorem in Type Theory.
+conf/types/Manoury94:::Pascal Manoury:::A User's Friendly Syntax to Define Recursive Functions as Typed lambda-Terms.
+conf/types/Carlstrom02:::Jesper Carlström:::Subsets, Quotients and Partial Functions in Martin-Löf's Type Theory.
+conf/types/BakelBF99:::Steffen van Bakel::Franco Barbanera::Maribel Fernández:::Polymorphic Intersection Type Assignment for Rewrite Systems with Abstractions and <i>beta</i>-Rule.
+conf/types/SambinG98:::Giovanni Sambin::Silvia Gebellato:::A Preview of the Basic Picture: A New Perspective on Formal Topology.
+conf/types/Seisenberger00:::Monika Seisenberger:::An Inductive Version of Nash-Williams' Minimal-Bad-Sequence Argument for Higman's Lemma.
+conf/types/Hayashi93:::Susumu Hayashi:::Logic of Refinement Types.
+conf/types/Nipkow02:::Tobias Nipkow:::Structured Proofs in Isar/HOL.
+conf/types/PfenningS98:::Frank Pfenning::Carsten Schürmann:::Algorithms for Equality and Unification in the Presence of Notational Definitions.
+conf/usits/CaoI97:::Pei Cao::Sandy Irani:::Cost-Aware WWW Proxy Caching Algorithms.
+conf/usits/HodesK99:::Todd D. Hodes::Randy H. Katz:::A Document-based Framework for Internet Application Control.
+conf/usits/Manber97:::Udi Manber:::Creating a Personal Web Notebook.
+conf/usits/DouglisHR97:::Fred Douglis::Antonio Haro::Michael Rabinovich:::HPP: HTML Macro-Preprocessing to Support Dynamic Document Caching.
+conf/usits/CherkasovaL03:::Ludmila Cherkasova::Jangwon Lee:::FastReplica: Efficient Large File Distribution Within Content Delivery Networks.
+conf/usits/SalzBS03:::Jon Salz::Hari Balakrishnan::Alex C. Snoeren:::TESLA: A Transparent, Extensible Session-Layer Architecture for End-to-end Network Services.
+conf/usits/HarveyJSTW03:::Nicholas J. A. Harvey::Michael B. Jones::Stefan Saroiu::Marvin Theimer::Alec Wolman:::SkipNet: A Scalable Overlay Network with Practical Locality Properties.
+conf/usits/GoldbergGWB99:::Ian Goldberg::Steven D. Gribble::David Wagner::Eric A. Brewer:::The Ninja Jukebox.
+conf/usits/KosticRABV03:::Dejan Kostic::Adolfo Rodriguez::Jeannie R. Albrecht::Abhijeet Bhirud::Amin Vahdat:::Using Random Subsets to Build Scalable Network Services.
+conf/vldbw/DerksDJW99:::Wijnand Derks::Sietse Dijkstra::Willem Jonker::Jeroen Wijnands:::Assesment of Scaleable Database Architectures for CDR Analysis - An Experimental Approach.
+conf/vldbw/ChaKL99:::Sang Kyun Cha::Ki Hong Kim::Juchang Lee:::Database Architecture for Location and Trajectory Management in Telecommunications.
+conf/vldbw/KempsterBT99:::Tim Kempster::Gordon J. Brebner::Peter Thanisch:::A Transactional Approach to Configuring Telecommunications Services.
+conf/vmcai/BernardeschiF02:::Cinzia Bernardeschi::Nicoletta De Francesco:::Combining Abstract Interpretation and Model Checking for Analysing Security Properties of Java Bytecode.
+conf/vmcai/WinEGKL03:::Toh Ne Win::Michael D. Ernst::Stephen J. Garland::Dilsun Kirli::Nancy A. Lynch:::Using Simulated Execution in Verifying Distributed Algorithms.
+conf/vmcai/GiacobazziM03:::Roberto Giacobazzi::Isabella Mastroeni:::Domain Compression for Complete Abstractions.
+conf/vlsid/DattaCB02:::Anupam Datta::Sidharth Choudhury::Anupam Basu:::Using Randomized Rounding to Satisfy Timing Constraints of Real-Time Preemptive Tasks.
+conf/vlsid/FranklinS94:::Manoj Franklin::Kewal K. Saluja:::An Algorithm to Test Reconfigured RAMs.
+conf/vlsid/XuHJCG02:::Jingyu Xu::Xianlong Hong::Tong Jing::Yici Cai::Jun Gu:::An Efficient Hierarchical Timing-Driven Steiner Tree Algorithm for Global Routing.
+conf/vlsid/MonteiroKDN94:::José Monteiro::James H. Kukula::Srinivas Devadas::Horácio C. Neto:::Bitwise Encoding of Finite State Machines.

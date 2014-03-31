@@ -1,0 +1,200 @@
+conf/cluster/LimPPH01:::Sang Seok Lim::Yunheung Paek::Kyu Ho Park::Jay Hoeflinger:::A Parallel Programming Environment for a V-Busbased PC-cluste.
+conf/cluster/Gorzig01:::Steffen Görzig:::CPPvm - Parallel Programming in C++.
+conf/cluster/Fischer01:::Markus Fischer:::GMSOCKS - A Direct Sockets Implementation on Myrinet.
+conf/cluster/ChronopoulosBGA01:::Anthony T. Chronopoulos::Manuel Benche::Daniel Grosu::Razvan Andonie:::A Class of Loop Self-Scheduling for Heterogeneous Clusters.
+conf/cluster/PastorB01:::Luis Pastor::José L. Bosque:::An efficiency and scalability model for heterogeneous clusters.
+conf/rbac/Brooks99:::Kami Brooks:::Migrating to Role-Based Access Control.
+conf/rbac/NaC00:::SangYeob Na::SuhHyun Cheon:::Role delegation in role-based access control.
+conf/rbac/Roeckle00:::Haio Roeckle:::Role-finding/role-engineering (panel session).
+conf/rbac/GebhardtH00:::Thomas Gebhardt::Thomas Hildmann:::Enabling technologies for role based online decision engines.
+conf/rbac/Coyne95:::Edward J. Coyne:::Prioritizing RBAC features.
+conf/rbac/Al-SalqanJDZR95:::Yahya Y. Al-Salqan::V. Juggy Jagannathan::Tad Davis::Nich Zhang::Y. V. Ramana Reddy:::Security and confidentiality in health care informatics.
+conf/rbac/EpsteinS95:::Jeremy Epstein::Ravi S. Sandhu:::NetWare 4 as an example of role-based access control.
+conf/rbac/BeznosovD99:::Konstantin Beznosov::Yi Deng:::A Framework for Implementing Role-Based Access Control Using CORBA Security Service.
+conf/rbac/Giuri99:::Luigi Giuri:::Role-Based Access Control on the Web Using Java.
+conf/rbac/AhnSKP00:::Gail-Joon Ahn::Ravi S. Sandhu::Myong Kang::Joon S. Park:::Injecting RBAC to secure a Web-based workflow system.
+conf/qsic/Lund03:::Mass Soldal Lund:::Testing Decomposition of Component Specifications Based on a Rule for Formal Verification.
+conf/qsic/TsaiSYP03:::Wei-Tek Tsai::Akihiro Saimi::Lian Yu::Raymond A. Paul:::Scenario-based Object-Oriented Testing Framework.
+conf/qsic/YuNC03:::Ysong Yueh Yu::Sebastian P. Ng::Eric Y. K. Chan:::Generating, Selecting and Prioritizing Test Cases from Specifications with Tool Support.
+conf/qsic/HuangCRH03:::Xishi Huang::Luiz Fernando Capretz::Jing Ren::Danny Ho:::A Neuro-Fuzzy Model for Software Cost Estimation.
+conf/qsic/BeydedaG03:::Sami Beydeda::Volker Gruhn:::State of the art in testing components.
+conf/qsic/BekbayL03:::Sirin Bekbay::Shaoying Liu:::A Study of Japanese Software Process Practices and a Potential for Improvement Using SOFL.
+conf/ride/McGregorK02:::Carolyn McGregor::Santhosh Kumaran:::An Agent-Based System for Trading Partner Management in B2B e-Commerce.
+conf/ride/GrovlenT92:::Øystein Grøvlen::Øivind Due Trier:::Query Performance Evaluation of a Relational DBMS.
+conf/ride/Bertino91:::Elisa Bertino:::Integration of Heterogeneous Data Repositories by Using Object-Oriented Views.
+conf/ride/Han92:::Jiawei Han:::Chain-Based Evaluation - A Bridge Linking Recursive and Nonrecursive Query Evaluation.
+conf/ride/KakeshitaX92:::Tetsuro Kakeshita::Haiyan Xu:::Transaction Sequencing Problems for Maximal Parallelism.
+conf/ride/LuOG93:::Hongjun Lu::Beng Chin Ooi::Cheng Hian Goh:::Multidatabase Query Optimization: Issues and Solutions.
+conf/ride/LeungM92:::T. Y. Cliff Leung::Richard R. Muntz:::Generalized Data Stream Indexing and Temporal Query Processing.
+conf/ride/CzejdoT91:::Bogdan D. Czejdo::Malcolm C. Taylor:::Integration of Database Systems Using an Object-Oriented Approach.
+conf/ride/UrbanSR93:::Susan Darling Urban::Jami J. Shah::Mary Rogers:::An Overview of the ASU Engineering Database Project: Interoperability in Engineering Design.
+conf/ride/MitschangHR96:::Bernhard Mitschang::Theo Härder::Norbert Ritter:::Design Management in CONCORD: Combining Transaction Management, Workflow Management and Cooperative Control.
+conf/ride/AhmedADKLS93:::Rafi Ahmed::Joseph Albert::Weimin Du::William Kent::Witold Litwin::Ming-Chien Shan:::An Overview of Pegasus.
+conf/ride/NerjesMW97:::Guido Nerjes::Peter Muth::Gerhard Weikum:::Stochastic Performance Guarantees for Mixed Workloads in a Multimedia Information System.
+conf/ride/MehtaGPF93:::Ashish Mehta::James Geller::Yehoshua Perl::Peter Fankhauser:::Computing Access Relevance to Support Path-Method Generation in Interoperable Multi-OODB.
+conf/ride/AlbertAKKS93:::Joseph Albert::Rafi Ahmed::Mohammad A. Ketabchi::William Kent::Ming-Chien Shan:::Automatic Importation of Relational Schemas in Pegasus.
+conf/ride/WashburnDW96:::Greg A. Washburn::Lois M. L. Delcambre::Mark A. Whiting:::Queries from Outer Space.
+conf/ride/Behrends94:::Helge Behrends:::Simualtion-based Debugging of Active Databases.
+conf/ride/Johannesson93:::Paul Johannesson:::A Logical Bases for Schema Integration.
+conf/ride/KonomiF91:::Shin'ichi Konomi::Tetsuya Furukawa:::Updating Duplicate Values in Distributed Multidatabase Systems.
+conf/ride/Hoffner99:::Yigal Hoffner:::Supporting Contract Match-Making.
+conf/ride/JoshiWH97:::Anupam Joshi::Sanjiva Weerawarana::Elias N. Houstis:::On Disconnected Browsing of Distributed Information.
+conf/ride/ArcieriMNT02:::Franco Arcieri::Giovanna Melideo::Enrico Nardelli::Maurizio Talamo:::Experiences and issues in the realization of e-government services.
+conf/ride/KunoR96:::Harumi A. Kuno::Elke A. Rundensteiner:::Augmented Inherited Multi-Index Structure for Maintenaince of Materialized Path Query Views.
+conf/ride/Silva95:::M. Mira da Silva:::Automating Type-safe RPC.
+conf/ride/AlonsoFHLSW99:::Gustavo Alonso::Ulrich Fiedler::Claus Hagen::Amaia Lazcano::Heiko Schuldt::N. Weiler:::WISE: Business to Business E-Commerce.
+conf/ride/OhsieDSS94:::David Ohsie::Hasanat M. Dewan::Salvatore J. Stolfo::Sushil Da Silva:::Performance of Incremental Update in Database Rule Processing.
+conf/ride/Georgakopoulos91:::Dimitrios Georgakopoulos:::Multidatabase Recoverability and Recovery.
+conf/ride/Gertz94:::Michael Gertz:::Specifying Reactive Integrity Control for Active Databases.
+conf/ride/HayeC96:::Marie-Pierre Haye::Olivier Caron:::ADEPTE Project: An Individual Federated Database On A Smart Card.
+conf/ride/SeligmanK93:::Leonard J. Seligman::Larry Kerschberg:::Knowledge-base/Database Consistency in a Federated Multidatabase Environment.
+conf/ride/BuchholzZSH00:::Sven Buchholz::Thomas Ziegert::Alexander Schill::Albert Held:::Transaction Processing in a Mobile Computing Environment with Alternating Client Hosts.
+conf/ride/FankhauserT99:::Peter Fankhauser::Thomas Tesch:::Agents, a Broker, and Lies.
+conf/ride/ChangG98:::Edward Y. Chang::Hector Garcia-Molina:::Cost-Based Media Server Design.
+conf/rims/OnoTA84:::Satoshi Ono::Naohisa Takahashi::Makoto Amamiya:::Partial Computation with a Dataflow Machine.
+conf/rims/Koga84:::Akihiko Koga:::On Program Transformation with Tupling Technique.
+conf/rims/Shimizu84:::Kentaro Shimizu:::A Portable Logic Simulation System for Development of FLATS Machine.
+conf/saga/Jourdan91:::Martin Jourdan:::A Survey of Parallel Attribute Evaluation Methods.
+conf/saga/JourdanP91:::Martin Jourdan::Didier Parigot:::Internals and Externals of the FNC-2 Attribute Grammar System.
+conf/saga/Koster91:::Cornelis H. A. Koster:::Affix Grammars for Programming Languages.
+conf/saga/BaalhamS03:::Paul Baalham::Ole Steuernagel:::Two-Component Traffic Modelled by Cellular Automata: Imposing Passing Restrictions on Slow Vehicles Increases the Flow.
+conf/saga/LuebkeW03:::Karsten Luebke::Claus Weihs:::Testing a Simulated Annealing Algorithm in a Classification Problem.
+conf/saga/Kolpakov03:::Roman Kolpakov:::Classes of Binary Rational Distributions Closed under Discrete Transformations.
+conf/saga/Barbay03:::Jérémy Barbay:::Optimality of Randomized Algorithms for the Intersection Problem.
+conf/saig/HelsenT00:::Simon Helsen::Peter Thiemann:::Fragmental Specialization.
+conf/saig/Czarnecki01:::Krzysztof Czarnecki:::Generative Programming and Software System Families.
+conf/saig/FischbachH00:::Adam Fischbach::John Hannan:::Specification and Correctness of Lambda Lifting.
+conf/saig/Makholm00:::Henning Makholm:::On Jones-Optimal Specialization for Strongly Typed Languages.
+conf/sbbd/Medeiros02:::Claudia Bauzer Medeiros:::Pesquisa e Desenvolvimento em Bancos de Dados.
+conf/sbbd/MaS03:::Hui Ma::Klaus-Dieter Schewe:::Fragmentation of XML Documents.
+conf/sbbd/PortoLV03:::Fabio Porto::Eduardo Sany Laber::Patrick Valduriez:::Cherry Picking: A Semantic Query Processing Strategy for the Evaluation of Expensive Predicates.
+conf/sbbd/BoullosaCX99:::José Roberto de Freitas Boullosa::Flavia Cardoso de Almeida Cruz::Geraldo Xéxeo:::Incerteza em Bancos de Dados: Tipo de Dados Nebulosos no GOA++.
+conf/sbbd/VivanH02:::Orlando Miguel Vivan::Carlos A. Heuser:::Semiautomatic Generation of Data-Extraction Ontologies from Relational Databases.
+conf/sbbd/LoulyLSC00:::Karine de Góes Louly::Alberto H. F. Laender::Altigran Soares da Silva::Tatiana A. S. Coelho:::Uma Interface Gráfica para Consulta a Fontes de Dados XML.
+conf/sbbd/FiletoMLPA03:::Renato Fileto::Claudia Bauzer Medeiros::Ling Liu::Calton Pu::Eduardo Delgado Assad:::Using Domain Ontologies to Help Track Data Provenance.
+conf/sbbd/BraynerH99:::Angelo Brayner::Theo Härder:::Recovery in Multidatabase Systems.
+conf/sara/ZhangSH02:::Jun Zhang::Adrian Silvescu::Vasant Honavar:::Ontology-Driven Induction of Decision Trees at Multiple Levels of Abstraction.
+conf/sara/Mingozzi02:::Aristide Mingozzi:::State Space Relaxation and Search Strategies in Dynamic Programming.
+conf/sara/ChoueiryD02:::Berthe Y. Choueiry::Amy M. Davis:::Dynamic Bundling: Less Effort for More Solutions.
+conf/sara/Kumar02a:::T. K. Satish Kumar:::Reformulating Combinatorial Optimization as Constraint Satisfaction.
+conf/sara/Clement02:::Bradley J. Clement:::Abstract Reasoning for Planning and Coordination.
+conf/sara/Ellman00:::Thomas Ellman:::Program Synthesis and Transformation Techniques for Simulation, Optimization, and Constraint Satisfaction.
+conf/sbia/LeiteH96:::José A. F. Leite::Edwin R. Hancock:::Iterative Curve Organisation with the EM Algorithm.
+conf/sbia/ZuninoCM02:::Alejandro Zunino::Marcelo Campo::Cristian Mateos:::Simplifying Mobile Agent Development through Reactive Mobility by Failure.
+conf/sbia/RiccioQ95:::Nicia Cristina Rocha Riccio::Ruy J. G. B. de Queiroz:::Labelled Abduction.
+conf/sbia/MoussalleVC96:::Neila Maria Moussalle::Rosa Maria Vicari::Milton Corrêa:::Intelligent Tutoring Systems Modelled Through the Mental States.
+conf/sbia/GarciaLQ98:::Berilhes Borges Garcia::José Gabriel Pereira Lopes::Paulo Quaresma:::Modelling Credulity and Skepticism through Plausibility Measures.
+conf/sbia/TorgoG96:::Luís Torgo::Joao Gama:::Regression by Classification.
+conf/sbia/RinoS96:::Lucia Helena Machado Rino::Donia Scott:::A Discourse Model for Gist Preservation.
+conf/sbia/Klein96:::Mark Klein:::Status &amp; Challenges for Coordination Technology: An AI Perspective (Abstract).
+conf/sbia/SabaC95:::Walid S. Saba::Jean-Pierre Corriveau:::Quantification and Cognitive Constraints in Natural Language Understanding.
+conf/sbia/Robin96:::Jacques Robin:::Evaluating the Robstness and Scalability of Revision-Based Natural Language Generation.
+conf/sbia/NunezR00:::Arturo Núñez::María Cristina Riff Rojas:::Multiple Populations Guided by the Constraint-Graph for CSP.
+conf/sbia/CardosoO00:::Henrique Lopes Cardoso::Eugenio Oliveira:::Using and Evaluating Adaptive Agents for Electronic Commerce Negotiation.
+conf/sbia/Bazzan96:::Ana L. C. Bazzan:::Coordination Among Individually-Motivated Agents: An Evolutionary Approach.
+conf/sbia/OliveiraBC00:::Ilídio Castro Oliveira::Orlando Belo::João Paulo Cunha:::Agents Working on the Integration of Heterogeneous Information Sources in Distributed Healthcare Environments.
+conf/sbia/CostaLF95:::Evandro de Barros Costa::Manoel A. Lopes::Edilson Ferneda:::Mathema: A Learning Environment Based on a Multi-Agent Architecture.
+conf/sbia/AimeurFA95:::Esma Aïmeur::Claude Frasson::Carmen Alexe:::Towards New Learning Strategies in Intelligent Tutoring Systems.
+conf/sbia/JohannCRK00:::Marcelo O. Johann::Andrew E. Caldwell::Ricardo A. L. Reis::Andrew B. Kahng:::Admissibility Proofs for the LCS* Algorithm.
+conf/sbia/BharadwajHB96:::Kamal Kant Bharadwaj::Nabil M. Hewahi::Maria Augusta Brandao:::Adaptive Hierarchical Censored Production Rule-Based System: A Generic Algorithm Approach.
+conf/sbia/SilvaS02:::José Demisio Simões da Silva::Paulo Ouvera Simoni:::The Correspondence Problem under an Uncertainty Reasoning Approach.
+conf/sbia/SilvaV00:::João C. P. da Silva::Sheila R. M. Veloso:::Representing Belief Revision through Default Theories.
+conf/sbia/Fonkam95:::M. M. Fonkam:::On a Composite Formalism and Approach to Presenting the Knowledge Content of a Relational Database.
+conf/sbia/Becher95:::Verónica Becher:::Two Conditional Logics for Defeasible Inference: A Comparison Preliminary Version.
+conf/sbia/BharadwajS98:::Kamal Kant Bharadwaj::José Demisio Simões da Silva:::Towards Integrating Hierarchical Censored Production Rule(HCPR) Based and Neural Networks.
+conf/scai/Sormunen89:::Eero Sormunen:::A Knowledge-Based Intermediary System for Finnish Databases.
+conf/scai/Johnsen95:::Hanne Rygg Johnsen:::LIRE - Language Interface for Requirements Engineering.
+conf/scai/Harrius93:::Jonni Harrius:::From Problem Solving to Solution Critiquing by Reusing an Existing Knowledge Base.
+conf/scai/PerramD97:::John W. Perram::Yves Demazeau:::A Multi-Agent Architecture for Distributed Constrained Optimization and Control.
+conf/scai/KaarelaKO89:::L. Kaarela::M. Kurki::M. Olivo:::Building Embedded Real Time Expert Systems.
+conf/scai/Hoek91:::Wiebe van der Hoek:::Qualitative Modalities.
+conf/scai/Trave-MassuyesM95:::Louise Travé-Massuyès::Robert Milne:::Diagnosis of Dynamic Systems Based on Explicit and Implicit Behavioural Models: An Application to Gas Turbines in Esprit Project TIGER.
+conf/scai/HynynenL89:::Juha Hynynen::Ora Lassila:::On the Use of Object-Oriented Paradigm in a Distributed Problem Solver.
+conf/scai/BulsariS91:::Abhai B. Bulsari::Henrik Saxén:::A Feed-Forward Neural Network as a Chemical Reactor Seletcion Expert System.
+conf/scai/Pliuskevicius93:::Regimantas Pliuskevicius:::The Analytic Tableaux for Linear Minscoped Temporal Logic.
+conf/scai/Zeuthen88:::S. Zeuthen:::SEMAID: A Knowledge-Based System for the Conceptual Design of Terminal Structures (Offshore Loading Systems - OLS).
+conf/scai/MagnussonLR97:::Charlotte Magnusson::Jan Eric Larsson::Kirsten Rassmus-Gröhn:::SVARNE - An Expert System Based on Tacit Knowledge.
+conf/scai/AutioEK01:::Ilkka Autio::Tapio Elomaa::Teemu Kurppa:::Robot Landmark Learning with SVMs.
+conf/scai/PuigO95:::V. Puig::Chabane Oussalah:::OOC: An Object Oriented Constraint Model.
+conf/scai/SteinebachP89:::Christian Steinebach::C. Pereira:::SALMEX: An Intelligent Knowledge Based System for the Diagnosis of Salmonid Fish Diseases.
+conf/scai/JacksonH95:::W. Ken Jackson::William S. Havens:::Committing to User Choices in Mixed Initiative CSPs.
+conf/scai/RaynerHAW89:::Manny Rayner::Åsa Hugosson::Martin Aronsson::Annika Wærn:::Formal Reasoning about Plan-Controlled Vehicles.
+conf/scai/TessemE88:::Bjørnar Tessem::L. J. Ersland:::Handling Uncertainty in a System for Text-Symbol Context Analysis.
+conf/scai/BenjaminsAJ91:::V. Richard Benjamins::Ameen Abu-Hanna::Wouter N. H. Jansweijer:::Models in Model Based Diagnosis: Classification and Construction.
+conf/scai/HyvonenP95:::Eero Hyvönen::Stefano De Pascale:::A Function Evaluator for Imprecise Numerical Inference.
+conf/scai/Petrov97:::Evgueni S. Petrov:::Applications of Interval Domain Library: Expressing Connectivity via Non-Linear Constraints.
+conf/scai/Henno89a:::Jaak Henno:::Complexity of Sets of Logical Functions.
+conf/scai/LiuWSD95:::Heyun Liu::Kehong Wang::Chunyi Shi::Wang Dingxin:::An Intention MAintenance Mechanism.
+conf/scai/Herrestad91:::Henning Herrestad:::AI and Law: Will the Marriage Last?
+conf/scai/Trans91:::Kim Trans:::An Expert System Shell for Planning with Automatic Feedback Learning.
+conf/scai/RaynerHH88:::Manny Rayner::Åsa Hugosson::Göran Hagert:::Using a Logic Grammar to Learn a Lexicon.
+conf/scai/Heinemann97:::Bernhard Heinemann:::Revisiting Knowledge and Time from a Topological Point of View.
+conf/scai/Gustafsson01:::Joakim Gustafsson:::Object-Oriented Reasoning about Action and Change.
+conf/sccc/RamosBL97:::Claudiney Vander Ramos::José Luís Braga::Alberto H. F. Laender:::Cooperative Querying in Relational Databases.
+conf/sccc/PinoM97:::José A. Pino::Hugo A. Mora:::Scheduling Meetings with Guests' Approval.
+conf/sccc/AvilaAP97:::Bráulio Coelho Ávila::Jair Minoro Abe::José Pacheco de Almeida Prado:::ParaLog_e: A Paraconsistent Evidential Logic Programming Language.
+conf/sccc/SantosRFKZB97:::Antonio dos Santos::Simone Vasconcelos Ribiero::Luciano G. Fagundes::Ricardo M. Kayo::Tédi I. Zanfolim::Cibele Brunetto:::SACE-CSCW: A Synchronous Asynchronous Common Environment for Computer Supported Cooperative Work to Aid Concurrent Engineering Processes.
+conf/sccc/Ribeiro-NetoA97:::Berthier A. Ribeiro-Neto::Guilherme Assis:::Reactive Ranking for Cooperative Databases.
+conf/sccc/GabarroM97:::Joaquim Gabarró::Xavier Messeguer:::A Unified Approach to Concurrent and Parallel Algorithms on Balanced Data Structures (Invited Paper).
+conf/sccc/GralaH97:::Anderson Grala::Carlos A. Heuser:::GDOC: A System for Storage and Authoring of Documents through WEB Browsers.
+conf/sbrn/DuarteBB02:::Eber M. Duarte::Antônio de Pádua Braga::José L. Braga:::Internet economic news gathering and classification: a neural network software agent based approach.
+conf/sbrn/SouzaVP00:::Flávio Joaquim de Souza::Marley B. R. Vellasco::Marco Aurélio Cavalcanti Pacheco:::Hierarchical Neuro-Fuzzy BSP Model - HNFB.
+conf/sbrn/Zhao00:::Liang Zhao:::A Dynamically Coupled Chaotic Oscillatory Correlation Network.
+conf/sbrn/HenriquesA98:::Andre S. Henriques::Aluizio F. R. Araujo:::Context and Scale Influencing Clustering through Unsupervised Neural Networks.
+conf/sbrn/BurattiniGF02:::E. Burattini::M. De Gregorio::A. de Francesco:::NSL: a Neuro-Symbolic Language for Monotonic and Non-Monotonic Logical Inferences.
+conf/sbrn/BurattiniGT00:::E. Burattini::M. de Gregorio::Guglielmo Tamburrini:::NeuroSymbolic Processing: Non-Monotonic Operators and Their FPGA Implementation.
+conf/sbrn/CorreaL02:::Renato Fernandes Corrêa::Teresa Bernarda Ludermir:::Automatic Text Categorization: Case Study.
+conf/sbrn/BarrosC02:::Allan Kardec Barros::Andrzej Chichocki:::Neural Coding by Redundancy Reduction and Correlation.
+conf/sbrn/FerreiraRGMC98:::P. Ferreira::J. Campêlo A. Romari::M. Graciano::O. Maia::J. Costa:::Realization of a Mixed-Mode Neural Coprocessor for Signal Processing.
+conf/sbrn/CostaBM02:::Marcelo Azevedo Costa::Antônio de Pádua Braga::Benjamin Rodrigues de Menezes:::Improved generalization learning with Sliding Mode Control and the Levenberg-Marquadt Algorithm.
+conf/sbrn/BalliniG02:::Rosangela Ballini::Fernando A. C. Gomide:::A Recurrent Fuzzy Neural Network: Learning and Application.
+conf/sbrn/ValencaL02:::Mêuser Jorge Silva Valença::Teresa Bernarda Ludermir:::NeuroInflow: The New Model to Forecast Average Monthly Inflow.
+conf/sbrn/PadoanAB02:::Antonio C. Padoan Jr.::Aluizio F. R. Araújo::Guilherme De A. Barreto:::Dynamic Modeling of Robotic Trajectories Using the Parametrized SOM.
+conf/sbrn/LacerdaLC00:::E. G. M. de Lacerda::Teresa Bernarda Ludermir::André Carlos Ponce Leon Ferreira de Carvalho:::Evolutionary Optimization of RBF Networks.
+conf/sbrn/OliveiraSL02a:::José Carlos Martins Oliveira::Marcílio Carlos Pereira de Souto::Teresa Bernarda Ludermir:::Implementation of Probabilistic Automata in Weightless Neural Networks.
+conf/scia/KolesnikB03:::Marina Kolesnik::Alexander Barlit:::Iterative Orientation Tuning in V1: A Simple Cell Circuit with Cross-Orientation Suppression.
+conf/scia/WickelAK03:::Jochen Wickel::Pablo Alvarado::Karl-Friedrich Kraiss:::Extracting Symbolic Descriptors for Interactive Object Retrieval.
+conf/scia/Olsen03:::Søren I. Olsen:::End-Stop Exemplar Based Recognition.
+conf/scia/Hult03:::Roger Hult:::Segmentation of T1-MRI of the Human Cortex Using a 3D Grey-level Morphology Approach.
+conf/scia/KottowKR03:::Daniel Kottow::Mario Köppen::Javier Ruiz-del-Solar:::Temporal Dynamical Interactions between Multiple Layers of Local Image Features for Event Detection in Video Sequences.
+conf/scia/Erikson03:::Mats Erikson:::Structure-Preserving Segmentation of Individual Tree Crowns by Brownian Motion.
+conf/scia/El-SonbatyI03:::Yasser El-Sonbaty::M. A. Ismail:::Matching Occluded Objects Invariant to Rotations, Translations, Reflections, and Scale Changes.
+conf/scia/MakiharaTSS03:::Yasushi Makihara::Masao Takizawa::Yoshiaki Shirai::Nobutaka Shimada:::Object Recognition under Various Lighting Conditions.
+conf/scia/ShioyamaWI03:::Tadayoshi Shioyama::Haiyuan Wu::Atsushi Iwai:::Detection of Vehicles Using Gabor Filters and Affine Moment Invariants from an Image.
+conf/scia/RiegerVV03:::Bernd Rieger::Lucas J. van Vliet::Piet W. Verbeek:::Estimation of Curvature Based Shape Properties of Surfaces in 3D Grey-Value Images.
+conf/scia/PerssonB03:::Martin Persson::Josef Bigün:::Protein Spot Detection by Symmetry Derivatives of Gaussians.
+conf/scia/PakkanenII03:::Jussi Pakkanen::Antti Ilvesmäki::Jukka Iivarinen:::Defect Image Classification and Retrieval with MPEG-7 Descriptors.
+conf/scia/IkedaSY03:::Sei Ikeda::Tomokazu Sato::Naokazu Yokoya:::Panoramic Movie Generation Using an Omnidirectional Multi-camera System for Telepresence.
+conf/scia/LeonardJ03:::Simon Léonard::Martin Jägersand:::Tracking the Pose of Objects through Subspace.
+conf/scia/CocquerezCB03:::Jean Pierre Cocquerez::Laurent Chanas::Jacques Blanc-Talon:::Simultaneous Inpainting and Motion Estimation of Highly Degraded Video-Sequences.
+conf/scia/LepistoKAV03:::Leena Lepistö::Iivari Kunttu::Jorma Autio::Ari Visa:::Multiresolution Texture Analysis of Surface Reflection Images.
+conf/scia/KarlssonSH03:::Adam Karlsson::Kent Stråhlén::Anders Heyden:::Segmentation of Histopathological Sections Using Snakes.
+conf/scia/HammarstedtKH03:::Pär Hammarstedt::Fredrik Kahl::Anders Heyden:::Affine Structure from Translational Motion in Image Sequences.
+conf/scia/DominguezBB03:::Gustavo Fernández Domínguez::Horst Bischof::Reinhard Beichel:::Fast 3D Mean Shift Filter for CT Images.
+conf/scia/FelsbergG03:::Michael Felsberg::Gösta H. Granlund:::Anisotropic Channel Filtering.
+conf/scia/SolemH03:::Jan Erik Solem::Anders Heyden:::Surface Shape from Specularities.
+conf/scia/BigunBN03:::Josef Bigün::Tomas Bigun::Kenneth Nilsson:::Orientation Fields Filtering by Derivatives of a Gaussian.
+conf/scia/MartinM03:::Enric X. Martín::Antonio B. Martinez:::Generalizing the Virtual Camera Pose for View Synthesis.
+conf/scia/Olsen03a:::Christina Olsén:::Analysing the Curvature of the Pectoralis Muscle in Mammograms.
+conf/scie/BoguraevK97:::Branimir Boguraev::Christopher Kennedy:::Technical Terminology for Domain Specification and Content Characterisation.
+conf/si3d/Lengyel99:::Jerome Edward Lengyel:::Compression of time-dependent geometry.
+conf/si3d/MohrTG03:::Alex Mohr::Luke Tokheim::Michael Gleicher:::Direct manipulation of interactive character skins.
+conf/si3d/HakuraSL01:::Ziyad S. Hakura::John M. Snyder::Jerome Edward Lengyel:::Parameterized environment maps.
+conf/si3d/WareF97:::Colin Ware::Daniel J. Fleet:::Context Sensitive Flying Interface.
+conf/si3d/LengyelPFH01:::Jerome Edward Lengyel::Emil Praun::Adam Finkelstein::Hugues Hoppe:::Real-time fur over arbitrary surfaces.
+conf/si3d/BastosHWL99:::Rui Bastos::Kenneth E. Hoff III::William C. Wynn::Anselmo Lastra:::Increased photorealism for interactive architectural walkthroughs.
+conf/si3d/ZydaPMW92:::Michael Zyda::David R. Pratt::James G. Monahan::Kalin P. Wilson:::NPSNET: Constructing a 3D Virtual World.
+conf/si3d/FunkhouserST92:::Thomas A. Funkhouser::Carlo H. Séquin::Seth J. Teller:::Management of Large Amounts of Data in Interactive Building Walkthroughs.
+conf/si3d/FleischerRL95:::Stephen D. Fleischer::Stephen M. Rock::Michael J. Lee:::Underwater Vehicle Control from a Virtual Environment Interface.
+conf/si3d/HudsonGFSD95:::Randy Hudson::Charlie Gunn::George Francis::Daniel J. Sandin::Thomas A. DeFanti:::Mathenautics: Using VR to Visit 3-D Manifolds.
+conf/si3d/FinchCTFWS95:::Mark Finch::Vernon L. Chi::Russell M. Taylor II::Mike Falvo::Sean Washburn::Richard Superfine:::Surface Modification Tools in a Virtual Environment Interface to a Scanning Probe Microscope.
+conf/si3d/GarlandWH01:::Michael Garland::Andrew J. Willmott::Paul S. Heckbert:::Hierarchical face clustering on polygonal surfaces.
+conf/si3d/WoolleyLWD03:::Cliff Woolley::David P. Luebke::Benjamin Watson::Abhinav Dayal:::Interruptible rendering.
+conf/si3d/OliveiraB99:::Manuel M. Oliveira::Gary Bishop:::Image-based objects.
+conf/si3d/VlachosPBM01:::Alex Vlachos::Jörg Peters::Chas Boyd::Jason L. Mitchell:::Curved PN triangles.
+conf/si3d/ZydaGRMGH03:::Michael Zyda::Robert Gehorsam::Philip Rosedale::Mark R. Mine::Mike Goslin::J. C. Herz:::Does the metaverse start now?
+conf/si3d/WlokaA95:::Matthias M. Wloka::Brian G. Anderson:::Resolving Occlusion in Augmented Reality.
+conf/si3d/MohrG01:::Alex Mohr::Michael Gleicher:::Non-invasive, interactive, stylized rendering.
+conf/si3d/NiederauerHAH03:::Christopher Niederauer::Mike Houston::Maneesh Agrawala::Greg Humphreys:::Non-invasive interactive visualization of dynamic architectural environments.
+conf/si3d/SalisburyBMSZ95:::John Kenneth Salisbury Jr.::David L. Brock::Thomas Massie::N. Swarup::C. Zilles:::Haptic Rendering: Programming Touch Interaction with Virtual Objects.
+conf/si3d/GortlerC95:::Steven J. Gortler::Michael F. Cohen:::Hierarchical and Variational Geometric Modeling with Wavelets.

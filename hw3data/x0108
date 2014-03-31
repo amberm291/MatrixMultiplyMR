@@ -1,0 +1,200 @@
+conf/icapr/RibeiroH01:::Eraldo Ribeiro::Edwin R. Hancock:::Analysis of Curved Textured Surfaces Using Local Spectral Distortion.
+conf/icapr/SantoPSV01:::Massimo De Santo::Gennaro Percannella::Carlo Sansone::Mario Vento:::A Neural Multi-expert Classification System for MPEG Audio Segmentation.
+conf/icapr/AkselaLOK01:::Matti Aksela::Jorma Laaksonen::Erkki Oja::Jari Kangas:::Application of Adaptive Committee Classifiers in On-Line Character Recognition.
+conf/icapr/JunkerD01:::Markus Junker::Andreas Dengel:::Preventing Overfitting in Learning Text Patterns for Document Categorization.
+conf/icapr/DutaJ01:::Nicolae Duta::Anil K. Jain:::Learning-Based Detection, Segmentation, and Matching of Objects.
+conf/icapr/TerrillonSMSSAY01:::Jean-Christophe Terrillon::Mahdad Nouri Shirazi::Daniel McReynolds::Mohamed Sadek::Yunlong Sheng::Shigeru Akamatsu::Kazuhiko Yamamoto:::Invariant Face Detection in Color Images Using Orthogonal Fourier-Mellin Moments and Support Vector Machines.
+conf/iccad/Ip00:::C. Norris Ip:::Simulation Coverage Enhancement Using Test Stimulus Transformations.
+conf/iccad/Qu01:::Gang Qu:::What is the Limit of Energy Saving by Dynamic Voltage Scaling?
+conf/iccad/SzekelyR97:::Vladimir Székely::Márta Rencz:::Fast field solver-programs for thermal and electrostatic analysis of microsystem elements.
+conf/iccad/CaiW90:::Yang Cai::D. F. Wong:::An Optimal Channel Pin Assignment Algorithm.
+conf/iccad/CaiW91:::Yang Cai::D. F. Wong:::Minimizing Channel Density by Shifting Blocks and Terminals.
+conf/iccad/SapatnekarRV91:::Sachin S. Sapatnekar::Vasant B. Rao::Pravin M. Vaidya:::A Convex Optimization Approach to Transistor Sizing for CMOS Circuits.
+conf/iccad/GopalakrishnanR01:::Prakash Gopalakrishnan::Rob A. Rutenbar:::Direct Transistor-Level Layout for Digital Blocks.
+conf/iccad/ZhuHSW01:::Zhenhai Zhu::Jingfang Huang::Ben Song::Jacob White:::Improving the Robustness of a Surface Integral Formulation for Wideband Impendance Extraction of 3D Structures.
+conf/iccad/SchilpM96:::William J. Schilp::Peter M. Maurer:::Unit delay simulation with the inversion algorithm.
+conf/iccad/PedramB91:::Massoud Pedram::Narasimha B. Bhat:::Layout Driven Logic Restructuring/Decomposition.
+conf/iccad/BeeftinkKKS98:::Frederik Beeftink::Prabhakar Kudva::David S. Kung::Leon Stok:::Gate-size selection for standard cell libraries.
+conf/iccad/Hajj90:::Ibrahim N. Hajj:::An Algebra for Switch-Level Simulation.
+conf/iccad/CohenS91:::Amnon Baron Cohen::Michael Shechory:::Track Assignment in the Pathway Datapath Layout Assembler.
+conf/iccad/HerW91:::T. W. Her::D. F. Wong:::Optimal Module Implementation and Its Application to Transistor Placement.
+conf/iccad/HouC98:::Junwei Hou::Abhijit Chatterjee:::CONCERT: a concurrent transient fault simulator for nonlinear analog circuits.
+conf/iccad/JouC91:::Jing-Yang Jou::Kwang-Ting Cheng:::Timing-Driven Partial Scan.
+conf/iccad/KimK90:::Kee S. Kim::Charles R. Kime:::Partial Scan by Use of Empirical Testability.
+conf/iccad/LiuH01:::Hongchao (Stephanie) Liu::Xiaobo Hu:::Efficient Performance Estimation for General Real-Time Task Systems.
+conf/iccad/MakW96:::Wai-Kei Mak::D. F. Wong:::Minimum replication min-cut partitioning.
+conf/iccad/Long98:::David E. Long:::The design of a cache-friendly BDD library.
+conf/iccad/LuoJ00:::Jiong Luo::Niraj K. Jha:::Power-Conscious Joint Scheduling of Periodic Task Graphs and Aperiodic Tasks in Distributed Real-Time Embedded Systems.
+conf/iccad/HsuRP96:::Frank F. Hsu::Elizabeth M. Rudnick::Janak H. Patel:::Enhancing high-level control-flow for improved testability.
+conf/iccad/WangYS00:::Maogang Wang::Xiaojian Yang::Majid Sarrafzadeh:::DRAGON2000: Standard-Cell Placement Tool for Large Industry Circuits.
+conf/iccad/KukimotoGSB97:::Yuji Kukimoto::Wilsin Gosti::Alexander Saldanha::Robert K. Brayton:::Approximate timing analysis of combinational circuits under the XBD0 model.
+conf/iccad/VancorenlandPSGS01:::Peter J. Vancorenland::Geert Van der Plas::Michiel Steyaert::Georges G. E. Gielen::Willy M. C. Sansen:::A Layout-Aware Synthesis Methodology for RF Circuits.
+conf/iccad/IwashitaN97:::Hiroaki Iwashita::Tsuneo Nakata:::Forward model checking techniques oriented to buggy designs.
+conf/iccad/AgrawalC90:::Vishwani D. Agrawal::Srimat T. Chakradhar:::Logic Simulation and Parallel Processing.
+conf/iccad/FeldmannF97:::Peter Feldmann::Roland W. Freund:::Circuit noise evaluation by Padé approximation based model-reduction techniques.
+conf/iccad/MatsunagaFK90:::Yusuke Matsunaga::Masahiro Fujita::Takeo Kakuda:::Multi-Level Logic Minimization Across Latch Boundaries.
+conf/iccad/ShiT97:::C.-J. Richard Shi::Xiang-Dong Tan:::Symbolic analysis of large analog circuits with determinant decision diagrams.
+conf/iccad/PhillipsS01:::Joel R. Phillips::L. Miguel Silveira:::Simulation Approaches for Strongly Coupled Interconnect Systems.
+conf/iccad/SrivastavaKS00:::Ankur Srivastava::Ryan Kastner::Majid Sarrafzadeh:::Timing Driven Gate Duplication: Complexity Issues and Algorithms.
+conf/iccad/SunB92:::Jane S. Sun::Robert W. Brodersen:::Design of system interface modules.
+conf/iccad/AsharGM96:::Pranav Ashar::Aarti Gupta::Sharad Malik:::Using complete-1-distinguishability for FSM equivalence checking.
+conf/iccad/ChenB97:::Yirng-An Chen::Randal E. Bryant:::PHDD: an efficient graph representation for floating point circuit verification.
+conf/iccad/YalcinHS96:::Hakan Yalcin::John P. Hayes::Karem A. Sakallah:::An approximate timing analysis method for datapath circuits.
+conf/iccad/WongKMP01:::Jennifer L. Wong::Farinaz Koushanfar::Seapahn Meguerdichian::Miodrag Potkonjak:::A Probabilistic Constructive Approach to Optimization Problems.
+conf/iccad/JiangS99:::Yanbin Jiang::Sachin S. Sapatnekar:::An integrated algorithm for combined placement and libraryless technology mapping.
+conf/iccad/JacksonSK90:::Michael A. B. Jackson::Arvind Srinivasan::Ernest S. Kuh:::A Fast Algorithm for Performance-Driven Placement.
+conf/iccad/HeebRJD90:::Hansruedi Heeb::Albert E. Ruehli::J. Janak::Shahrokh Daijavad:::Simulating Electromagnetic Radiation of Printed Circuit Boards.
+conf/iccad/WhiteAEW99:::Jacob White::Jacob Avidan::Abe Elfadel::D. F. Wong:::Advances in transistor timing, simulation, and optimization (tutorial abstract).
+conf/iccad/SundararajanSP99:::Vijay Sundararajan::Sachin S. Sapatnekar::Keshab K. Parhi:::Marsh: min-area retiming with setup and hold constraints.
+conf/iccad/LachMP98:::John Lach::William H. Mangione-Smith::Miodrag Potkonjak:::Signature hiding techniques for FPGA intellectual property protection.
+conf/iccad/McGeerSSBS91:::Patrick C. McGeer::Alexander Saldanha::Paul R. Stephan::Robert K. Brayton::Alberto L. Sangiovanni-Vincentelli:::Timing Analysis and Delay-Fault Test Generation using Path-Recursive Functions.
+conf/iccad/XiaoqingS96:::Xiaoqing Wen::Kewal K. Saluja:::A new method towards achieving global optimality in technology mapping.
+conf/iccad/CongX98:::Jason Cong::Songjie Xu:::Delay-oriented technology mapping for heterogeneous FPGAs with bounded resources.
+conf/iccad/HuangPRR00:::Yu Huang::Irith Pomeranz::Sudhakar M. Reddy::Janusz Rajski:::Improving the Proportion of At-Speed Tests in Scan BIST.
+conf/iccad/HoffmannSNBWM01:::Andreas Hoffmann::Oliver Schliebusch::Achim Nohl::Gunner Braun::Oliver Wahlen::Heinrich Meyr:::A Methodology for the Design of Application Specific Instruction Set Processors (ASIP) using the Machine Description Language LISA.
+conf/iccad/WatanbeB91:::Yosinori Watanbe::Robert K. Brayton:::Heuristic Minimazation of Multiple-Valued Relations.
+conf/iccad/Matsunaga98:::Yusuke Matsunaga:::On accelerating pattern matching for technology mapping.
+conf/iccad/NarayanIJBS97:::Amit Narayan::Adrian J. Isles::Jawahar Jain::Robert K. Brayton::Alberto L. Sangiovanni-Vincentelli:::Reachability analysis using partitioned-ROBDDs.
+conf/iccad/HossainS91:::Moazzem Hossain::Naveed A. Sherwani:::On Topological Via Minimization and Routing.
+conf/iccad/Muller-GlaserKN91:::Klaus D. Müller-Glaser::K. Kirsch::K. Neusinger:::Estimating Essential Design Characteristics to Support Project Planning for ASIC Design Management.
+conf/iccad/KalavadeS97:::Asawaree Kalavade::P. A. Subrahmanyam:::Hardware/software partitioning for multi-function systems.
+conf/iccad/MehendaleMP91:::Mahesh Mehendale::P. Murugavel::M. Poornima:::SLIM: A System for ASIC Library Management.
+conf/iccad/NakamuraTKW98:::Kazuhiro Nakamura::Kazuyoshi Takagi::Shinji Kimura::Katsumasa Watanabe:::Waiting false path analysis of sequential logic circuits for performance optimization.
+conf/iccad/KudlugiST01:::Murali Kudlugi::Charles Selvidge::Russell Tessier:::Static Scheduling of Multi-Domain Memories For Functional Verification.
+conf/iccad/ChakrabortyM96:::Kanad Chakraborty::Pinaki Mazumder:::An efficient, bus-layout based method for early diagnosis of bussed driver shorts in printed circuit boards.
+conf/iccad/ChiodoSSB92:::Massimiliano Chiodo::Thomas R. Shiple::Alberto L. Sangiovanni-Vincentelli::Robert K. Brayton:::Automatic compositional minimization in CTL model checking.
+conf/iccad/KramerM92:::H. Krämer::J. Müller:::Assignment of global memory elements for multi-process VHDL specifications.
+conf/iccad/OdabasiogluCP99:::Altan Odabasioglu::Mustafa Celik::Lawrence T. Pileggi:::Practical considerations for passive reduction of RLC circuits.
+conf/iccad/Balasa00:::Florin Balasa:::Modeling Non-Slicing Floorplans with Binary Trees.
+conf/iccad/SarrafzadehW97:::Majid Sarrafzadeh::Maogang Wang:::NRG: global and detailed placement.
+conf/iccad/ArtsBE96:::Harm Arts::Michel Berkelaar::C. A. J. van Eijk:::Polarized observability don't cares.
+conf/iccad/LiawTL90:::Heh-Tyan Liaw::Jia-Horng Tsaih::Chen-Shang Lin:::Efficient Automatic Diagnosis of Digital Circuits.
+conf/iccad/AskarC99:::Serkan Askar::Maciej J. Ciesielski:::Analytical approach to custom datapath design.
+conf/iccad/Gebotys92:::Catherine H. Gebotys:::Optimal synthesis of multichip architectures.
+conf/iccad/MahmoodBHJ92:::A. Mahmood::W. I. Baker::Jayantha A. Herath::A. Jayasumana:::A logic simulation engine based on a modified data flow architecture.
+conf/iccad/VassiliouCDCMS96:::Iasson Vassiliou::Henry Chang::Alper Demir::Edoardo Charbon::Paolo Miliozzi::Alberto L. Sangiovanni-Vincentelli:::A video driver system designed using a top-down, constraint-driven methodology.
+conf/iccad/WuHWCW00:::Chi-Feng Wu::Chih-Tsun Huang::Chih-Wea Wang::Kuo-Liang Cheng::Cheng-Wen Wu:::Error Catch and Analysis for Semiconductor Memories Using March Tests.
+conf/iccad/Stoica90:::Susana Stoica:::A Hierarchical Approach for Testing Large Circuits.
+conf/iccad/WhiteFM99:::Jacob White::Gary K. Fedder::Tamal Mukherjee:::Path toward future CAD environments for MEMS (tutorial abstract).
+conf/iccad/KimuraKH92:::Shinji Kimura::Shigemi Kashima::Hiromasa Haneda:::Precise timing verification of logic circuits under combined delay model.
+conf/iccad/NarayanJFS96:::Amit Narayan::Jawahar Jain::Masahiro Fujita::Alberto L. Sangiovanni-Vincentelli:::Partitioned ROBDDs - a compact, canonical and efficiently manipulable representation for Boolean functions.
+conf/iccad/LinPR99:::Xijiang Lin::Irith Pomeranz::Sudhakar M. Reddy:::Techniques for improving the efficiency of sequential circuit test generation.
+conf/iccad/DuttF99:::Nikil D. Dutt::Eric Foster:::Design of a set-top box system on a chip (abstract).
+conf/iccad/HeraguPA96:::Keerthi Heragu::Janak H. Patel::Vishwani D. Agrawal:::SIGMA: a simulator for segment delay faults.
+conf/iccad/SerdarS99:::Tatjana Serdar::Carl Sechen:::AKORD: transistor level and mixed transistor/gate level placement tool for digital data paths.
+conf/iccad/FanLW00:::Hongbing Fan::Jiping Liu::Yu-Liang Wu:::General Models for Optimum Arbitrary-Dimension FPGA Switch Box Designs.
+conf/iccad/CuvielloDBZ99:::Michael Cuviello::Sujit Dey::Xiaoliang Bai::Yi Zhao:::Fault modeling and simulation for crosstalk in system-on-chip interconnects.
+conf/iccad/TeraiTNS91:::Masayuki Terai::Kazuhiro Takahashi::Kazuo Nakajima::Koji Sato:::A New Model for Over-The-Cell Channel Routing with Three Layers.
+conf/iccad/BaumgartnerK01:::Jason Baumgartner::Andreas Kuehlmann:::Min-Area Retiming on Dynamic Circuit Structures.
+conf/iccad/KoushanfarKP00:::Farinaz Koushanfar::Darko Kirovski::Miodrag Potkonjak:::Symbolic Debugging Scheme for Optimized Hardware and Software.
+conf/iccad/RyanF90:::Paul G. Ryan::W. Kent Fuchs:::Partial Detectability Profiles.
+conf/iccad/CelikC96:::Mustafa Celik::Andreas C. Cangellaris:::A general dispersive multiconductor transmission line model for interconnect simulation in SPICE.
+conf/iccad/StrehlT98:::Karsten Strehl::Lothar Thiele:::Symbolic model checking of process networks using interval diagram techniques.
+conf/iccad/DebanyHVM91:::Warren H. Debany Jr.::Carlos R. P. Hartmann::Pramod K. Varshney::Kishan G. Mehrota:::Comparison of Random Test Vector Generation Strategies.
+conf/iccad/BertaccoD97:::Valeria Bertacco::Maurizio Damiani:::The disjunctive decomposition of logic functions.
+conf/iccad/Ewering90:::Christian Ewering:::Automatic High Level Syntesis of Partitioned Busses.
+conf/iccad/GovindarajuD00:::Shankar G. Govindaraju::David L. Dill:::Counterexample-Guided Choice of Projections in Approximate Symbolic Model Checking.
+conf/iccad/CoelhoPS01:::Carlos P. Coelho::Joel R. Phillips::Luis M. Silveira:::A Convex Programming Approach to Positive Real Rational Approximation.
+conf/iccad/DingHWP96:::Chih-Shun Ding::Cheng-Ta Hsieh::Qing Wu::Massoud Pedram:::Stratified random sampling for power estimation.
+conf/iccad/MeixnerL90:::G. Meixner::Ulrich Lauther:::A New Global Router Based on a Flow Model and Linear Assignment.
+conf/iccad/CongHKP97:::Jason Cong::Lei He::Cheng-Kok Koh::David Zhigang Pan:::Global interconnect sizing and spacing with consideration of coupling capacitance.
+conf/iccad/PapachristouB97:::Christos A. Papachristou::Mikhail Baklashov:::A test synthesis technique using redundant register transfers.
+conf/iccad/HenzingerQR00:::Thomas A. Henzinger::Shaz Qadeer::Sriram K. Rajamani:::Decomposing Refinement Proofs Using Assume-Guarantee Reasoning.
+conf/iccad/BanerjeeM01:::Kaustav Banerjee::Amit Mehrotra:::Coupled Analysis of Electromigration Reliability and Performance in ULSI Signal Nets.
+conf/iccad/JacomeVL00:::Margarida F. Jacome::Gustavo de Veciana::Victor S. Lapinskii:::Exploring Performance Tradeoffs for Clustered VLIW ASIPs.
+conf/iccad/SavojB91:::Hamid Savoj::Robert K. Brayton:::Observability Relations and Observability Don't Cares.
+conf/iccad/DevadasK90:::Srinivas Devadas::Kurt Keutzer:::An Automata-Theoretic Approach to Behavioral Equivalence.
+conf/iccad/VerhaeghAG98:::Wim F. J. Verhaegh::Emile H. L. Aarts::Paul C. N. van Gorp:::Period assignment in multidimensional periodic scheduling.
+conf/iccad/DeVane97:::Charles J. DeVane:::Efficient circuit partitioning to extend cycle simulation beyond synchronous circuits.
+conf/iccal/Dafa90:::Li Dafa:::Intelligent CAI Course in the First-Order Logic.
+conf/iccal/Huber89:::Friedrich Huber:::A Proposal for an Authoring System Avoiding Common Errors in Tutorial Lessons.
+conf/iccal/HamburgerL89:::Henry Hamburger::Akhtar Lodgher:::Exploration in Coinland.
+conf/iccal/LemmenGB90:::Karel Lemmen::Wendela J. Gillissen::Kasper L. Boon:::The Direct Use of Already Existing User Manuals for Computer Aided Instruction and Information Retrieval with the Aid of Hypermedia.
+conf/iccal/GonzalezSCPS92:::Joan C. González::Joan J. Sancho::Joan M. Carbó::Alex Patak::Ferran Sanz:::Intelligent Tutorial System in Medicine through an Interactive Testing Program: HyperMIR.
+conf/iccal/Messina89:::Luiz Ary Messina:::A Teachware Concept for Education in CAD.
+conf/iccal/PlankBB90:::R. J. Plank::I. W. Burgess::C. J. Brown:::Teaching Software for Structural Engineering.
+conf/iccal/AnoskeyC92:::Alana M. Anoskey::Richard Catrambone:::Text and Graphics in Instructional Design.
+conf/iccal/Tompa90:::Frank Wm. Tompa:::Flexible Access to Text-Based Resources.
+conf/iccbr/KhoshgoftaarBG03:::Taghi M. Khoshgoftaar::Lofton A. Bullard::Kehan Gao:::Detecting Outliers Using Rule-Based Modeling for Improving CBR-Based Software Quality Classification Models.
+conf/iccbr/JarmulakKV97:::Jacek Jarmulak::Eugene J. H. Kerckhoffs::Peter Paul van't Veen:::Case-Based Reasoning in an Ultrasonic Rail-Inspection System.
+conf/iccbr/Hurley95:::Neil Hurley:::Evaluating the Application of CBR in Mesh Design for Simulation Problems.
+conf/iccbr/LenzAM98:::Mario Lenz::Eric Auriol::Michel Manago:::Diagnosis and Decision Support.
+conf/iccbr/HoweC97:::Nicholas Howe::Claire Cardie:::Examining Locally Varying Weights for Nearest Neighbor Algorithms.
+conf/iccbr/TsatsoulisS03:::Costas Tsatsoulis::Brent Stephens:::Using Genetic Algorithms to Discover Selection Criteria for Contradictory Solutions Retrieved by CBR.
+conf/iccbr/Vazquez-SalcedaSC03:::Javier Vázquez-Salceda::Miquel Sànchez-Marrè::Ulises Cortés:::Using Case-Based Reasoning to Overcome High Computing Cost Interactive Simulations.
+conf/iccbr/Wisdo97:::Christopher Wisdo:::A Scalable Approach for Question Based Indexing of Encyclopedic Texts.
+conf/iccbr/HastingsBL95:::John D. Hastings::Karl Branting::Jeffrey A. Lockwood:::Case Adaption Using an Incomplete Causal Model.
+conf/iccbr/Ting95:::Kai Ming Ting:::Towards using a Single Uniform Metric in Instance-Based Learning.
+conf/iccbr/ShimazuK01:::Hideo Shimazu::Dai Kusui:::Real-Time Creation of Frequently Asked Questions.
+conf/iccbr/PortinaleTM97:::Luigi Portinale::Pietro Torasso::Diego Magro:::Selecting Most Adaptable Diagnostic Solutions through Pivoting-Based Retrieval.
+conf/iccbr/YangC03:::Qiang Yang::Hong Cheng:::Case Mining from Large Databases.
+conf/iccbr/Branting01:::Karl Branting:::Acquiring Customer Preferences from Return-Set Selections.
+conf/iccbr/PlazaO01:::Enric Plaza::Santiago Ontañón:::Ensemble Case-Based Reasoning: Collaboration Policies for Multiagent Cooperative CBR.
+conf/iccbr/Munoz-AvilaH95:::Hector Muñoz-Avila::Jochem Hüllen:::Retrieving Cases in Structured Domains by Using Goal Dependencies.
+conf/iccbr/GomesB97:::Paulo Gomes::Carlos Bento:::A Case-Based Approach for Elaboration of Design Requirements.
+conf/iccbr/MainD99:::Julie Main::Tharam S. Dillon:::A Hybrid Case-Based Reasoner for Footwear Design.
+conf/iccbr/StrubeEJK95:::Gerhard Strube::A. Enzinger::Dietmar Janetzko::Markus Knauff:::Knowledge Engineering for CBR systems from a Cognitive Science Perspective.
+conf/iccbr/ChampinS03:::Pierre-Antoine Champin::Christine Solnon:::Measuring the Similarity of Labeled Graphs.
+conf/iccbr/BurkeMPQ01:::Edmund K. Burke::Bart MacCarthy::Sanja Petrovic::Rong Qu:::Case-Based Reasoning in Course Timetabling: An Attribute Graph Approach.
+conf/iccbr/MacedoPGC97:::Luís Macedo::Francisco C. Pereira::Carlos Grilo::Amílcar Cardoso:::Experimental Study of a Similarity Metric for Retrieving Pieces from Structured Plan Cases: Its Role in the Originality of Plan Case Solutions.
+conf/iccbr/MougouieRB03:::Babak Mougouie::Michael M. Richter::Ralph Bergmann:::Diversity-Conscious Retrieval from Generalized Cases: A Branch and Bound Algorithm.
+conf/iccbr/BisioM95:::Rosella Bisio::Fabio Malabocchia:::Cost Estimation of Software Projects through Case Base Reasoning.
+conf/iccbr/FaganB99:::Michael Fagan::Konrad Bloor:::Case-Based Reasoning for Candidate List Extraction in a Marketing Domain.
+conf/iccbr/BruninghausA97:::Stefanie Brüninghaus::Kevin D. Ashley:::Using Machine Learning for Assigning Indices to Textual Cases.
+conf/iccbr/RodriguezVS97:::Andres F. Rodriguez::Sunil Vadera::Luis Enrique Sucar:::A Probabilistic Model for Case-Based Reasoning.
+conf/iccbr/BergmannMVM98:::Ralph Bergmann::Hector Muñoz-Avila::Manuela M. Veloso::Erica Melis:::CBR Applied to Planning.
+conf/iccbr/MelchiorsT99:::Cristina Melchiors::Liane M. Rockenbach Tarouco:::Fault Management in Computer Networks Using Case-Based Reasoning: DUMBO System.
+conf/iccbr/Agre95:::Gennady Agre:::KBS Maintenance as Learning Two-Tiered Domain Representation.
+conf/icchp/Panek94:::Paul Panek:::Protocolling the TINATEL-System: A Contribution for Long Term Evaluation of an AAC-System for Speech Impaired Persons to Access the Public Telephone Network.
+conf/icchp/Lane94:::Joseph P. Lane:::Toward a Single Global Market for Assistive Technology.
+conf/icchp/KruegerG02:::Myron W. Krueger::Deborah Gilden:::Going Places with "KnowWare": Virtual Reality Maps for Blind People.
+conf/icchp/OgawaKO94:::Yasuhiko Ogawa::Yoshinobu Kikuchi::Nobuyuki Ohtake:::Braille Reader - Old Braille Text for Young.
+conf/icchp/StevensE94:::Robert D. Stevens::Alistair D. N. Edwards:::Mathtalk: The Design of an Interface for Reading Algebra Using Speech.
+conf/icchp/MurphyKT02:::Damian T. Murphy::Michael C. Kelly::Anthony I. Tew:::3D Audio in the 21<sup>st</sup> Century.
+conf/icchp/Zeun94:::Ulrich Zeun:::Large Print Desktop-Publishing by PC for the Partially Sighted.
+conf/icchp/CiupaCS94:::Radu V. Ciupa::Alexandra A. Ciupa::Emil Simion:::Computer Utilization for Speaking Re-Education.
+conf/icchp/SilvermanF02:::Charles Silverman::Deborah I. Fels:::Emotive Captioning in a Digital World.
+conf/icchp/Noirhomme-FraitureGC94:::Monique Noirhomme-Fraiture::Luc Goffinet::C. Charrière:::Evaluation of ERGOLAB.
+conf/icchp/Challis02a:::Ben P. Challis:::Access Music - Introduction to the Special Thematic Session.
+conf/icchp/FlachbergerPZ94:::Christian Flachberger::Paul Panek::Wolfgang L. Zagler:::AUTONOMY - A Flexible and Easy-to-Use Assistive System to Support the Independence of Handicapped and Elderly Persons.
+conf/icchp/EvreinovaR02:::Tatiana Evreinova::Roope Raisamo:::Visualization of Music Notation for Partially Sighted Persons.
+conf/icchp/Klaus94:::Joachim Klaus:::Study Center for Visually Impaired Persons - Supportive System for Blind and Partially Sighted Students at the University of Karlsruhe/Germany.
+conf/icchp/Treviranus02:::Jutta Treviranus:::Making Yourself at Home - Portable Personal Access Preferences.
+conf/icchp/HechtZ02:::Janice Hecht::Bogdan Zamfir:::The Evolving Door: Providing Technology Access for Post-secondary Students in a Constantly Changing Technology-Based Culture.
+conf/icchp/DiggleKEB02:::T. Diggle::Sri Hastuti Kurniawan::David Gareth Evans::Paul Blenkhorn:::An Analysis of Layout Errors in Word Processed Documents Produced by Blind People.
+conf/icchp/Eftring94:::Håkan Eftring:::Robot Control Methods Using the RAID Workstation.
+conf/icchp/Gilden02:::Deborah Gilden:::Using MS Office Features as Low Vision Accessibility Tools.
+conf/icchp/PetzMS02:::Andrea Petz::Klaus Miesenberger::Bernhard Stöger:::Developing Academic Skills among Print Disabled Students: IT Based Austrian-Wide Network for Service Provision.
+conf/icchp/OliveiraKS02:::Flavio Oliveira::Iwao Kobayashi::Mitsumasa Sugawara:::A Multimedia Based Software for Non-Japanese to Learn Japanese Sign Language.
+conf/icchp/KarshmerOBKR94:::Arthur I. Karshmer::Bill Ogden::Pres Brawner::Karlis Kaugars::George Reiswig:::Adapting Graphical User Interfaces for Use by Visually Handicapped Computer Users: Current Results and Continuing Research.
+conf/icchp/WitteGW02:::Luc P. de Witte::G. J. Gelderblom::R. D. Wessels:::Future Challenges in AT Outcome Measurement.
+conf/icchp/Gaura02:::Pavel Gaura:::REMathEx - Reader and Editor of the Mathematical Expressions for Blind Students.
+conf/icchp/RaynalS02:::Mathieu Raynal::Mathieu Serrurier:::CYNTHIA: An HTML Browser for Visually Handicapped People.
+conf/icchp/VincentSVB02:::Brasseur Vincent::Mohamed Slimane::Nicole Vincent::Dominique Burger:::Quick Access to Dictionaries for Blind and Visually Impaired People.
+conf/icchp/KomedaKUMKKOF94:::Takashi Komeda::Hiroyuki Koyama::Tateki Uchida::Masao Miyagi::Kikuo Kanaya::Sadae Kuroiwa::Susumu Otsuka::Hiroyasu Funakubo:::Development of the Bedsore Alarm System Using Micro Computer for Wheelchair Users.
+conf/icchp/Zagler02:::Wolfgang L. Zagler:::Matching Typing Persons and Intelligent Interfaces - Introduction to the Special Thematic Session.
+conf/icchp/SchneiderP94:::Arnold Schneider::Cleto Pescia:::The Electronic Kiosk - Accessing Newspapers with Electronic Media.
+conf/icchp/Kochanek94:::Dirk Kochanek:::Designing an OffScreen Model for a GUI.
+conf/icchp/Kerscher02:::George Kerscher:::Structured Access to Documents, Digital Talking Books, and Beyond: The DAISY Consortium.
+conf/icdar/BertilleG95:::Jean-Michel Bertille::Michel Gilloux:::A probabilistic approach to automatic handwritten address reading.
+conf/icdar/LeedhamYTTM03:::Graham Leedham::Chen Yan::Kalyan Takru::Joie Hadi Nata Tan::Li Mian:::Comparison of Some Thresholding Algorithms for Text/Background Segmentation in Difficult Document Images.
+conf/icdar/Amin01:::Adnan Amin:::Recognition of Hand-Printed Characters Based on Structural Description and Inductive Logic Programming.
+conf/icdar/ZhouHL95:::Xin-Lun Zhou::Xing-Cheng Hua::Feng Li:::A method of Jia Gu Wen recognition based on a two-level classification.
+conf/icdar/Verma03:::Brijesh Verma:::A Contour Code Feature Based Segmentation For Handwriting Recognition.
+conf/icdar/OkamotoIT01:::Masayuki Okamoto::Hiroki Imai::Kazuhiko Takagi:::Performance Evaluation of a Robust Method for Mathematical Expression Recognition.
+conf/icdar/TanYHWZ99:::Chew Lim Tan::Bo Yuan::Weihua Huang::Qian Wang::Zheng Zhang:::Text/Graphics Separation using Agent-based Pyramid Operations.
+conf/icdar/Baird03:::Henry S. Baird:::Digital Libraries and Document Image Analysis.
+conf/icdar/ParkGS99:::Jaehwa Park::Venu Govindaraju::Sargur N. Srihari:::Efficient Word Segmentation Driven by Unconstrained Handwritten Phrase Recognition.
+conf/icdar/StubberudKK95:::P. Stubberud::Junichi Kanai::V. Kalluri:::Adaptive image restoration of text images that contain touching or broken characters.
+conf/icdar/AnquetilL97:::Éric Anquetil::Guy Lorette:::Perceptual Model of Handwriting Drawing Application to the Handwriting Segmentation Problem.
+conf/icdar/EtoS01:::Yuko Eto::Masakazu Suzuki:::Mathematical Formula Recognition Using Virtual Link Network.
+conf/icdar/AllierDGME03:::Bénédicte Allier::Jean Duong::Antoine Gagneux::Pierre Mallet::Hubert Emptoz:::Texture Feature Characterization for Logical Pre-labeling.
+conf/icdar/ZhongKJ95:::Yu Zhong::Kalle Karu::Anil K. Jain:::Locating text in complex color images.
+conf/icdar/NatarajanBLMS99:::Premkumar Natarajan::Issam Bazzi::Zhidong Lu::John Makhoul::Richard M. Schwartz:::Robust OCR of Degraded Documents.
+conf/icdar/HanS95:::Ke Han::Ishwar K. Sethi:::Signature identification via local association of features.
+conf/icdar/PalMC01:::U. Pal::Mandar Mitra::B. B. Chaudhuri:::Multi-Skew Detection of Indian Script Documents.
+conf/icdar/FinkWS01:::Gernot A. Fink::Markus Wienecke::Gerhard Sagerer:::Video-Based On-line Handwriting Recognition.
+conf/icdar/CesariniFGS99:::Francesca Cesarini::Enrico Francesconi::Marco Gori::Giovanni Soda:::A Two Level Knowledge Approach for Understanding Documents of a Multi-Class Domain.
+conf/icdar/GuoM01:::Jinhong Katherine Guo::Matthew Ma:::Separating Handwritten Material from Machine Printed Text Using Hidden Markov Models.
+conf/icdar/ParkL95:::Hee-Seon Park::Seong-Whan Lee:::Hidden Markov mesh random field: theory and its application to handwritten character recognition.
+conf/icdar/HeD03:::J. He::Andy C. Downton:::User-Assisted Archive Document Image Analysis for Digital Library Construction.

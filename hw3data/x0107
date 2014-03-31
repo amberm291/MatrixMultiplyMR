@@ -1,0 +1,200 @@
+conf/icalp/KirschenhoferPS92:::Peter Kirschenhofer::Helmut Prodinger::Wojciech Szpankowski:::How to Count Quickly and Accurately: A Unified Analysis of Probabilistic Counting and Other Related Problems.
+conf/icalp/BhattacharyaT91:::Binay K. Bhattacharya::Godfried T. Toussaint:::Computing Shortest Transversals.
+conf/icalp/HertlingW98:::Peter Hertling::Klaus Weihrauch:::Randomness Spaces.
+conf/icalp/Gerth82:::Rob Gerth:::A Sound and Complete Hoare Axiomatization of the Ada-Rendevous.
+conf/icalp/FaginV84:::Ronald Fagin::Moshe Y. Vardi:::The Theory of Data Dependencies - An Overview.
+conf/icalp/BilardiM89:::Gianfranco Bilardi::Abha Moitra:::Time Lower Bounds For CREW-PRAM Computation Of Monotone Functions.
+conf/icalp/BilardiP01:::Gianfranco Bilardi::Enoch Peserico:::A Characterization of Temporal Locality and Its Portability across Memory Hierarchies.
+conf/icalp/ChaudhuriSWZ98:::Shiva Chaudhuri::K. V. Subrahmanyam::Frank Wagner::Christos D. Zaroliagis:::Computing Mimicking Networks.
+conf/icalp/JuedesLL93:::David W. Juedes::James I. Lathrop::Jack H. Lutz:::Computational Depth and Reducibility (Extended Abstract).
+conf/icalp/HenzingerK97a:::Thomas A. Henzinger::Peter W. Kopke:::Discrete-Time Control for Rectangular Hybrid Automata.
+conf/icalp/GlasslerRV00:::Christian Glaßer::Steffen Reith::Heribert Vollmer:::The Complexity of Base Station Positioning in Cellular Networks.
+conf/icalp/GambosiNT87:::Giorgio Gambosi::Jaroslav Nesetril::Maurizio Talamo:::Posets, Boolean Representations and Quick Path Searching.
+conf/icalp/Chandra74:::Ashok K. Chandra:::Generalized Program Schemas.
+conf/icalp/KlarlundMS94:::Nils Klarlund::Madhavan Mukund::Milind A. Sohoni:::Determinizing Asynchronous Automata.
+conf/icalp/EtessamiWS01:::Kousha Etessami::Thomas Wilke::Rebecca A. Schuller:::Fair Simulation Relations, Parity Games, and State Space Reduction for Büchi Automata.
+conf/icalp/BertoniMT77:::Alberto Bertoni::Giancarlo Mauri::Mauro Torelli:::Some Recursive Unsolvable Problems Relating to Isolated Cutpoints in Probabilistic Automata.
+conf/icalp/GawlickSSL94:::Rainer Gawlick::Roberto Segala::Jørgen F. Søgaard-Andersen::Nancy A. Lynch:::Liveness in Timed and Untimed Systems.
+conf/icalp/BuchsbaumGW98:::Adam L. Buchsbaum::Raffaele Giancarlo::Jeffery Westbrook:::On the Determinization of Weighted Finite Automata.
+conf/icalp/Leeuwen76:::Jan van Leeuwen:::On the Construction of Huffman Trees.
+conf/icalp/Winskel89:::Glynn Winskel:::A Note on Model Checking the Modal nu-Calculus.
+conf/icalp/Furer85:::Martin Fürer:::Deterministic and Las Vegas Primality Testing Algorithms.
+conf/icalp/KarkkainenS03:::Juha Kärkkäinen::Peter Sanders:::Simple Linear Work Suffix Array Construction.
+conf/icalp/Lengauer86:::Thomas Lengauer:::Hierarchical Planary Testing Algorithms.
+conf/icalp/Fernando91:::Tim Fernando:::Provably Recursive Programs and Program Extraction.
+conf/icalp/FialaP03:::Jirí Fiala::Daniël Paulusma:::The Computational Complexity of the Role Assignment Problem.
+conf/icalp/ChuangGHKL98:::Richie Chih-Nan Chuang::Ashim Garg::Xin He::Ming-Yang Kao::Hsueh-I Lu:::Compact Encodings of Planar Graphs via Canonical Orderings and Multiple Parentheses.
+conf/icalp/VergauwenL94:::Bart Vergauwen::Johan Lewi:::Efficient Local Correctness Checking for Single and Alternating Boolean Equation Systems.
+conf/icalp/Jerrum85:::Mark Jerrum:::Random Generation of Combinatorial Structures from a Uniform Distribution (Extended Abstract).
+conf/icalp/Gecseg74:::Ferenc Gécseg:::Composition of Automata.
+conf/icalp/Orponen93:::Pekka Orponen:::On the Computational Power of Discrete Hopfield Nets.
+conf/icalp/GrafS87:::Susanne Graf::Joseph Sifakis:::Readiness Semantics for Regular Processes with Silent Actions.
+conf/icalp/Hennessy85:::Matthew Hennessy:::An Algebraic Theory of Fair Asynchronous Communicating Processes.
+conf/icalp/OchmanskiW93:::Edward Ochmanski::Pierre-André Wacrenier:::On Regular Compatibility of Semi-Commutations.
+conf/icalp/Sipser82:::Michael Sipser:::On Relativization and the Existence of Complete Sets.
+conf/icalt/KortRP01:::Barry Kort::Rob Reilly::Rosalind W. Picard:::An Affective Model of Interplay between Emotions and Learning: Reengineering Educational Pedagogy - Building a Learning Companion.
+conf/icalt/AtanovD03:::Gennady Atanov::Elena Dudyanova:::The Hypertext Semantic Synopsis as a Tool to Realize the Activities Approach in Learning.
+conf/icalt/MavrikisMAL03:::Manolis Mavrikis::Antony Maciocia::Duncan Abela::John Lee:::User-Centred Design &amp; Development of an Applied Web-Based ITS.
+conf/icalt/KuittinenPS01:::Marja Kuittinen::Susanna Pöntinen::Erkki Sutinen:::How to Design Web-Based Counseling Systems.
+conf/icalt/GavrilovKKK03:::S. E. Gavrilov::S. A. Kiprushkin::S. Yu. Kurskov::A. D. Khakhaev:::Distributed Information System for Experimental Investigations and Educational Process Support.
+conf/icalt/GiulianiMN03:::Diego Giuliani::Ornella Mich::Marianna Nardon:::A Study on the Use of a Voice Interactive System for Teaching English to Italian Children.
+conf/icalt/GonzalezMLFMS01:::Pascual González::Francisco Montero::Víctor López-Jaquero::Antonio Fernández-Caballero::Juan Montañés::Trinidad Sánchez:::A Virtual Learning Environment for Short Age Children.
+conf/icalt/DanielW03:::Ben Daniel::Honggang Wu:::Developing a Schema for Learning Object Based on Object Oriented Model of Object Inheritance.
+conf/icalt/Paris03:::Maeve Paris:::Authoring Interactive Software Simulations for e-Learning.
+conf/icalt/AlbanoF01:::Giovannina Albano::Ferrante Formato:::E-learning from Expertize: A Computational Approach to a Non-textual Culture of Learning.
+conf/icalt/MaraschiCM01:::Daniele Maraschi::Stefano A. Cerri::Gianna Martinengo:::From CD-ROM to Web-Served: Reverse Engineering of an Interactive Multimedia Course.
+conf/icalt/SilveiraFA03:::Ismar Frango Silveira::Maria Alice G. V. Ferreira::Carlos Fernando Araújo Jr.:::From Socrates to PIAGET: Patterns for Distance Learning.
+conf/icalt/Walker01:::David R. Walker:::Facilitating Entry into Professional Life with CMC Support.
+conf/icalt/LockyerGHO03:::M. A. Lockyer::G. Griffiths::B. D. Hebbron::B. J. Oates:::A Teaching Method &amp; Tool for Web Engineering.
+conf/icalt/Pahl01:::Claus Pahl:::Interactivity and Integration in Virtual Courses.
+conf/icalt/PoyryP03:::Päivi Pöyry::Juha Puustjärvi:::CUBER: A Personalised Curriculum Builde.
+conf/icalt/LimoancoS03:::Teresita Limoanco::Raymund Sison:::Learner Agents as Student Modeling: Design and Analysis.
+conf/icalt/Ueno01:::Maomi Ueno:::Student Models Construction by Using Information Criteria.
+conf/icalt/Axmann01:::Mandi Axmann:::Effective Learning Strategies for the On-Line Learning Environment: Including the Lost Learner.
+conf/icalt/Delium03:::Claire Delium:::OSCAR: A Framework for Structuring Mediated Communication by Speech Acts.
+conf/icalt/WuCJL03:::Yu Lung Wu::Teyi Chan::Bin Shyan Jong::Tsong Wuu Lin:::A Web-Based Virtual Reality Physics Laboratory.
+conf/icalt/OkamotoSOTH01:::Mayumi Okamoto::Masanori Shinohara::Yasuhiro Okui::Shigeki Terashima::Mari Hashimoto:::Investigation of Learning Object Metadata and Application to a Search Engine for K-12 Schools in Japan.
+conf/icalt/RagonisH03:::Noa Ragonis::Bruria Haberman:::Management Issues of Flexible, Multi-Level Distance Learning-Based Teacher Training.
+conf/icalt/KaragiannidisSC01:::Charalampos Karagiannidis::Demetrios G. Sampson::Fabrizio Cardinali:::An Architecture for Defining Re-usable Adaptive Educational Content.
+conf/icalt/WitzkeWHMCGP01:::Wayne O. Witzke::Donald B. Witzke::James D. Hoskins::Michael J. Mastrangelo::Uyen B. Chu::Ivan M. George::Adrian E. Park:::A Criterion-Referenced Approach to Assessing Perioperative Skills in a VR Environment.
+conf/icalt/HadjileontiadouNHB03:::Sofia J. Hadjileontiadou::Georgia N. Nikolaidou::Leontios J. Hadjileontiadis::George N. Balafoutas:::A Fuzzy Logic Evaluating System to Support Web-Based Collaboration Using Collaborative and Metacognitive Data.
+conf/icalt/JiangLZ01:::Guorui Jiang::Junqiang Lan::Xinhua Zhuang:::Distance Learning Technologies and an Interactive Multimedia Educational System.
+conf/icalt/BourdaD03:::Yolaine Bourda::Bich-Liên Doan:::The Semantic Web for Learning Resources.
+conf/icalt/GasevicD03:::Dragan Gasevic::Vladan Devedic:::Software Support for Teaching Petri Nets: P3.
+conf/icalt/LawrenceB01:::C. N. Lawrence::R. G. Baird:::Making Design Accessible.
+conf/icalt/TsaganouGC03:::Grammatiki Tsaganou::Maria Grigoriadou::Theodora Cavoura:::Dialogue-Based Historical Text Comprehension.
+conf/icalt/Benson03a:::Angela D. Benson:::Planning Online Degree Programs: The Stakeholders? Perspectives.
+conf/icalt/ChinienB03:::Chris Chinien::France Boutin:::Bridging the Cognitive Divide in ICT-Mediated Learning.
+conf/icalt/ShindoMY03:::Yoshiaki Shindo::Hiroshi Matusda::Akitoshi Yokoyama:::Kana-Input Navigation System for Kids Based on the Cyber Assistant.
+conf/icalt/XiangSG03:::Xin Xiang::Yuanchun Shi::Ling Guo:::A Conformance Test Suite of Localized LOM Model.
+conf/icalt/LaperrousazT03:::Christelle Laperrousaz::Philippe Teutsch:::A Software Companion Capable of Dialogue.
+conf/icalt/KayamaO01:::Mizue Kayama::Toshio Okamoto:::The Knowledge Management for Collaborative Learning Support in the INTERNET Learning Space.
+conf/icalt/VassiliaK03:::Vassilia N. Pashaloudi::Konstantinos G. Margaritis:::Towards an Assistive Tool for Greek Sign Language Communication.
+conf/icalt/Garner01:::Brian J. Garner:::Collaborative Knowledge Management Requirements for Experiential Learning (CKM).
+conf/icalt/Kumar03:::Amruth N. Kumar:::A Reified Interface for a Tutor on Program Debugging.
+conf/icalt/MaglogiannisBK03:::Ilias Maglogiannis::Constantinos Bourletidis::Kostas Karpouzis:::Combining Synchronous and Asynchronous Distance Learning for Adult Education: The Greek Army Case.
+conf/icalt/ThomasP01:::Pete Thomas::Carina Paine:::How Students Learn to Program: Observations of Practical Tasks Completed.
+conf/icalt/TsirigaV03:::Victoria Tsiriga::Maria Virvou:::Initializing Student Models in Web-Based ITSs: A Generic Approach.
+conf/icalt/Sykes03:::Edward R. Sykes:::An Intelligent Tutoring System Prototype for Learning to Program Java?
+conf/icalt/LarranagaREA03:::Mikel Larrañaga::Urko Rueda::Jon A. Elorriaga::Ana Arruarte Arruarte:::A Multilingual Concept Mapping Tool for a Diverse World.
+conf/icalt/SlatorDSSBHB03:::Brian M. Slator::Lisa M. Daniels::Bernhardt Saini-Eidukat::Donald P. Schwert::Otto Borchert::Guy Hokanson::Richard T. Beckwith:::Software Tutors for Scaffolding on Planet Oit.
+conf/icalt/WittmannM03:::Jochen Wittmann::Dietmar P. F. Möller:::The Content-Graph as a Basic Data Structure to Manage Authoring- and Learning Processes.
+conf/icalt/DuffinG01:::Joel W. Duffin::Andrew S. Gibbons:::Decompressing and Aligning the Structures of CBI Design.
+conf/icalt/Nijholt01:::Anton Nijholt:::Agents, Believability and Embodiment in Advanced Learning Environments: Introduction to a Panel Discussion.
+conf/icann/GaunersdorferH01:::Andrea Gaunersdorfer::Cars H. Hommes:::Nonlinear Adaptive Beliefs and the Dynamics of Financial Markets: The Role of the Evolutionary Fitness Measure.
+conf/icann/WadaOS01:::Yasuhiro Wada::Kei Ohkawa::Keiichi Sumita:::Generation of Diversiform Characters Using a Computational Handwriting Model and a Genetic Algorithm.
+conf/icann/BenabdeslemBJ02:::Khalid Benabdeslem::Younès Bennani::Eric Janvier:::Visualization and Analysis of Web Navigation Data.
+conf/icann/ObaSTMMI02:::Shigeyuki Oba::Masa-aki Sato::Ichiro Takemasa::Morito Monden::Ken-ichi Matsubara::Shin Ishii:::Missing Value Estimation Using Mixture of PCAs.
+conf/icann/LenezD97:::Thierry Lenez::Bernadette Dorizzi:::Predictive Neural Models in Noisy Environment.
+conf/icann/VerikasLM02:::Antanas Verikas::Arunas Lipnickas::Kerstin Malmqvist:::Selecting Neural Networks for Making a Committee Decision.
+conf/icann/HoR97:::Tuong Vinh Ho::Jean Rouat:::A Novelty Detector Using a Network of Integrate and Fire Neurons.
+conf/icann/Hammer01:::Barbara Hammer:::On the Generalization Ability of Recurrent Networks.
+conf/icann/ShimomuraSMA02:::Masao Shimomura::Shunji Satoh::Shogo Miyake::Hirotomo Aso:::A Neural Network Model for Pattern Recognition Based on Hypothesis and Verification with Moving Region of Attention.
+conf/icann/GrahamW96:::Bruce Graham::David J. Willshaw:::Information Efficiency of the Associative Net at Arbitrary Coding Rates.
+conf/icann/HruschkaFP01:::Harald Hruschka::Werner Fettes::Markus Probst:::Analyzing Purchase Data by a Neural Net Extension of the Multinomial Logit Model.
+conf/icann/LiuX02:::Zhiyong Liu::Lei Xu:::On Convergence of an Iterative Factor Estimate Algorithm for the NFA Model.
+conf/icann/LichtensteigerP02:::Lukas Lichtensteiger::Rolf Pfeifer:::An Optimal Sensor Morphology Improves Adaptability of Neural Network Controllers.
+conf/icann/DorronsoroGC01:::José R. Dorronsoro::Ana M. González::Carlos Santa Cruz:::Architecture Selection in NLDA Networks.
+conf/icann/LuSI01:::Bao-Liang Lu::Jonghan Shin::Michinori Ichikawa:::Massively Parallel Classification of EEG Signals Using Min-Max Modular Neural Networks.
+conf/icann/WengS02:::Sebastian Weng::Jochen J. Steil:::Data Driven Generation of Interactions for Feature Binding and Relaxation Labeling.
+conf/icann/GhennamB02:::Souheila Ghennam::Khier Benmahammed:::Multiresolution Support for Adaptive Image Restoration Using Neural Networks.
+conf/icann/ChatenetB97:::Nathalie Chatenet::Hugues Bersini:::Economical Reinforcement Learning for Non Stationary Problems.
+conf/icann/VennaK01:::Jarkko Venna::Samuel Kaski:::Neighborhood Preservation in Nonlinear Projection Methods: An Experimental Study.
+conf/icann/Paccanaro03:::Alberto Paccanaro:::Learning Distributed Representations of High-Arity Relational Data with Non-linear Relational Embedding.
+conf/icann/CharalambousHM01:::Chris Charalambous::George C. Hadjinicola::Eitan Muller:::Product Positioning Using Principles from the Self-Organizing Map.
+conf/icann/EgnerS97:::Steffen Egner::Christian Scheier:::Feature Binding Through Temporally Correlated Neural Activity in a Robot Model of Visual Perception.
+conf/icann/MattavelliAV97:::Marco Mattavelli::Edoardo Amaldi::Jean-Marc Vesin:::A Perceptron-Based Approach to Piecewise Linear Modeling with an Application to Time Series.
+conf/icann/DominguezKTE02:::David R. C. Dominguez::E. Korutcheva::W. K. Theumann::R. Erichsen Jr.:::Flow Diagrams of the Quadratic Neural Network.
+conf/icann/FranzS96:::Martin Franz::René Schüffny:::An Architectural Study of a Massively Parallel Processor for Convolution-Type Operations in Complex Vision Tasks.
+conf/icann/DaigremontLBT96:::P. Daigremont::H. de Lassus::Fouad Badran::Sylvie Thiria:::Regression by Topological Map: Application on Real Data.
+conf/icann/Nelles96:::Oliver Nelles:::Local Linear Model Trees for On-Line Identification of Time-Variant Nonlinear Dynamic Systems.
+conf/icann/CallanP96:::Robert E. Callan::Dominic Palmer-Brown:::Analytical Technique for Deriving Connectionist Representations of Symbol Structures.
+conf/icann/Lago-FernandezC02:::Luis F. Lago-Fernández::Fernando J. Corbacho:::Optimal Extraction of Hidden Causes.
+conf/icann/GraepelS02:::Thore Graepel::Nicol N. Schraudolph:::Stable Adaptive Momentum for Rapid Online Learning in Nonlinear Systems.
+conf/icann/Gorodnichy96:::Dmitry O. Gorodnichy:::Desaturating Coefficient for Projection Learning Rule.
+conf/icann/TavitianFL96:::Stephane Tavitian::Tibor Fomin::András Lörincz:::Stabilizing Competitive Learning During On-Line Training with an Anti-Hebbian Weight Modulation.
+conf/icann/FrontzekLE01a:::Thomas Frontzek::Thomas Navin Lal::Rolf Eckmiller:::Towards Learning Path Planning for Solving Complex Robot Tasks.
+conf/icann/BarretoA02:::Guilherme De A. Barreto::Aluizio F. R. Araújo:::Nonlinear Modeling of Dynamic Systems with the Self-Organizing Map.
+conf/icann/SierraC02:::Alejandro Sierra::Fernando J. Corbacho:::Input and Output Feature Selection.
+conf/icann/ZimmermannNG01:::Hans-Georg Zimmermann::Ralph Neuneier::Ralph Grothmann:::Multi-agent FX-Market Modeling Based on Cognitive Systems.
+conf/icann/EdmondsM01:::Bruce Edmonds::Scott Moss:::The Importance of Representing Cognitive Processes in Multi-agent Models.
+conf/icann/HerzallahL02:::Randa Herzallah::David Lowe:::A Novel Approach to Modelling and Exploiting Uncertainty in Stochastic Control Systems.
+conf/icann/RobertsHD01:::Stephen J. Roberts::Christopher Holmes::Dave Denison:::Minimum-Entropy Data Clustering Using Reversible Jump Markov Chain Monte Carlo.
+conf/icann/BottoBC96:::Miguel Ayala Botto::Hubert A. B. te Braake::José Sá da Costa:::Solving Nonlinear MBPC through Convex Optimization: A Comparative Study Using Neural Networks.
+conf/icann/OwensHF02:::Jonathan Owens::Andrew Hunter::Eric Fletcher:::Novelty Detection in Video Surveillance Using Hierarchical Neural Networks.
+conf/icann/MaurerM96:::Thomas Maurer::Christoph von der Malsburg:::Tracking and Learning Graphs on Image Sequences of Faces.
+conf/icann/TrentinG01:::Edmondo Trentin::Marco Gori:::Continuous Speech Recognition with a Robust Connectionist/Markovian Hybrid Model.
+conf/icann/Martin-MerinoM01:::Manuel Martín-Merino::Alberto Muñoz:::Self Organizing Map and Sammon Mapping for Asymmetric Proximities.
+conf/icann/Vaucher96:::Gilles Vaucher:::Neuro-Biological Bases for Spatio-Temporal Data Coding in Artificial Neural Networks.
+conf/icann/SennTM97:::Walter Senn::Misha Tsodyks::Henry Markram:::An Algorithm for Synaptic Modification Based on Exact Timing of Pre- and Post-Synaptic Action Potentials.
+conf/icann/DecoS96:::Gustavo Deco::Bernd Schürmann:::Nonparametric Data Selection for Improvement of Parametric Neural Learning: A Cumulant-Surrogate Method.
+conf/icann/GieseSH96:::Martin A. Giese::G. Schöner::H. S. Hock:::Neural Field Dynamics for Motion Perception.
+conf/icann/YangA96:::Howard Hua Yang::Shun-ichi Amari:::Two Gradient Descent Algorithms for Blind Signal Separation.
+conf/icann/KolinummiHKK96:::Pasi Kolinummi::Timo Hämäläinen::Harri Klapuri::Kimmo Kaski:::Mapping of Multilayer Perceptron Networks to Partial Tree Shaped Parallel Neurocomputer.
+conf/icann/KarakahyaYE03:::Hakan Karakahya::Bingül Yazgan::Okan K. Ersoy:::A Spectral-Spatial Classification Algorithm for Multispectral Remote Sensing Data.
+conf/icann/Al-DuwaishA01:::Hussain N. Al-Duwaish::Ali Syed Saad Azhar:::Hammerstein Model Identification Using Radial Basis Functions Neural Networks.
+conf/icann/ObermaierMP01:::Bernhard Obermaier::Gernot Müller::Gert Pfurtscheller:::'Virtual Keyboard' Controlled by Spontaneous EEG Activity.
+conf/icann/Bote-LorenzoDG02:::Miguel L. Bote-Lorenzo::Yannis A. Dimitriadis::Eduardo Gómez-Sánchez:::A Hybrid Two-Stage Fuzzy ARTMAP and LVQ Neuro-Fuzzy System for On-Line Handwriting Recognition.
+conf/icann/Rojo-AlvarezGMVFA02:::José Luis Rojo-Álvarez::Arcadi García-Alberola::Manel Martínez-Ramón::Mariano Valdés::Aníbal R. Figueiras-Vidal::Antonio Artés-Rodríguez:::Support Vector Robust Algorithms for Non-parametric Spectral Analysis.
+conf/icann/KappenV96:::Hilbert J. Kappen::Pablo Varona:::Dynamic Feature Linking in Stochastic Networks with Short Range Interactions.
+conf/icann/CottrellGR97:::Marie Cottrell::Bernard Girard::Patrick Rousset:::Long Term Forecasting by Combining Kohonen Algorithm and Standard Prevision.
+conf/icann/GerardPd97:::Olivier Gérard::Jean-Noël Patillon::Florence d'Alché-Buc:::Neural Network Adaptive Modeling of Battery Discharge Behavior.
+conf/icann/CeguerraK02:::Anna Ceguerra::Irena Koprinska:::Automatic Fingerprint Verification Using Neural Networks.
+conf/icann/BedingfieldS03:::Susan E. Bedingfield::Kate A. Smith:::Predicting Bad Credit Risk: An Evolutionary Approach.
+conf/icann/CurukluL01:::Baran Çürüklü::Anders Lansner:::Spike and Burst Synchronization in a Detailed Cortical Network Model with I-F Neurons.
+conf/icann/VogiatzisS02:::Dimitrios Vogiatzis::Andreas Stafylopatis:::Mapping the Growing Neural Gas to Situation Calculus.
+conf/icann/TeytaudS01:::Olivier Teytaud::David Sarrut:::Kernel Based Image Classification.
+conf/icann/TanselSCK03:::Ibrahim N. Tansel::Reen Nripjeet Singh::Peng Chen::Claudia V. Kropas-Hughes:::Neural Network Based Material Identification and Part Thickness Estimation from Two Radiographic Images.
+conf/icann/JohanssonSL02:::Christopher Johansson::Anders Sandberg::Anders Lansner:::Attractor Neural Networks with Hypercolumns.
+conf/icann/ParkBSL03:::Sang-Jae Park::Sang-Woo Ban::Jang-Kyoo Shin::Minho Lee:::Implementation of Visual Attention System Using Bottom-up Saliency Map Model.
+conf/icann/HaschkeSR01:::Robert Haschke::Jochen J. Steil::Helge Ritter:::Controlling Oscillatory Behaviour of a Two Neuron Recurrent Neural Network Using Inputs.
+conf/icann/Wright01:::W. Andy Wright:::Sequential Strategy for Learning Multi-stage Multi-agent Collaborative Games.
+conf/icann/QuelavoineN97:::Régis Quélavoine::Pascal Nocera:::Learning Verification in Multilayer Neural Networks.
+conf/icann/LeisinkKB02:::Martijn A. R. Leisink::Hilbert J. Kappen::Han G. Brunner:::Linkage Analysis: A Bayesian Approach.
+conf/icann/BarlaO02:::Annalisa Barla::Francesca Odone:::Kernel-Based 3D Object Representation.
+conf/icann/VidalS03:::Carmen Vidal::Alberto Suárez:::Hierarchical Mixtures of Autoregressive Models for Time-Series Modeling.
+conf/icann/AminiG01:::Massih-Reza Amini::Patrick Gallinari:::Learning for Text Summarization Using Labeled and Unlabeled Sentences.
+conf/icann/GrabczewskiD02:::Krzysztof Grabczewski::Wlodzislaw Duch:::Heterogeneous Forests of Decision Trees.
+conf/icann/CsatoCO01:::Lehel Csató::Dan Cornford::Manfred Opper:::Online Approximations for Wind-Field Models.
+conf/icann/Laaksonen97:::Jorma Laaksonen:::Local Subspace Classifier.
+conf/icann/FoucherGV02:::Christophe Foucher::Daniel Le Guennec::Gilles Vaucher:::Kohonen Maps Applied to Fast Image Vector Quantization.
+conf/icann/MavroudiDPB03:::Seferina Mavroudi::Andrei Dragomir::Stergios Papadimitriou::Anastasios Bezerianos:::Integrating Supervised and Unsupervised Learning in Self Organizing Maps for Gene Expression Data Analysis.
+conf/icann/LedouxB97:::Corinne Ledoux::François Bonnard:::Identification of the Electric Arc of a Furnace.
+conf/icann/AmbuhlCE97:::J. Ambühl::D. Cattani::P. Eckert:::Classification of Meteorological Patterns.
+conf/icann/Henkel97:::Rolf D. Henkel:::Constructing the Cyclopean View.
+conf/icann/NolfiP97:::Stefano Nolfi::Domenico Parisi:::Neural Networks in an Artificial Life Perspective.
+conf/icann/GelenbeLX02:::Erol Gelenbe::Ricardo Lent::Zhiguang Xu:::Networking with Cognitive Packets.
+conf/icann/MechsnerP96:::Franz Mechsner::Günther Palm:::The Cerebellum as a ``Coupling Machine''.
+conf/icann/BasalygaR02:::Gleb Basalyga::Magnus Rattray:::Dynamics of ICA for High-Dimensional Data.
+conf/icann/CharlesKMF02:::Darryl Charles::Jos Koetsier::Donald MacDonald::Colin Fyfe:::Multi-stream Exploratory Projection Pursuit for the Formation of Complex Cells Similar to Visual Cortical Neurons.
+conf/icann/AndresSSD96:::Marianne Andres::Oliver Schlüter::Friederike Spengler::Hubert R. Dinse:::Modification of Kohonen's SOFM to Simulate Cortical Plasticity Induced by Coactivation Input Patterns.
+conf/icann/WersingEK03:::Heiko Wersing::Julian Eggert::Edgar Körner:::Sparse Coding with Invariance Constraints.
+conf/icann/GaoPS03:::X. W. Gao::L. Podladchikova::D. Shaposhnikov:::Application of Vision Models to Traffic Sign Recognition.
+conf/icann/HabtomL97:::Ressom Habtom::Lothar Litz:::Neurocontrol of Nonlinear Dynamic Systems Subject to Unmeasured Disturbance Inputs.
+conf/icann/GueorguievaV03:::Natacha Gueorguieva::Iren Valova:::Building RBF Neural Network Topology through Potential Functions.
+conf/icann/MelzerRB01:::Thomas Melzer::Michael Reiter::Horst Bischof:::Nonlinear Feature Extraction Using Generalized Canonical Correlation Analysis.
+conf/icann/AizenbergBBKMM02:::Igor Aizenberg::Taras Bregin::Constantine Butakoff::Victor N. Karnaukhov::Nickolay S. Merzlyakov::Olga Milukova:::Type of Blur and Blur Parameters Identification Using Neural Network and Its Application to Image Restoration.
+conf/icann/WeissZH03:::Olaf Weiss::Andreas Ziehe::Hanspeter Herzel:::Optimizing Property Codes in Protein Data Reveals Structural Characteristics.
+conf/icann/KohlmorgenMRP97:::Jens Kohlmorgen::Klaus-Robert Müller::J. Rittweger::Klaus Pawelzik:::Analysis of Wake/Sleep EEG with Competing Experts.
+conf/icann/Yamazaki01:::Tadashi Yamazaki:::A Mathematical Analysis of a Correlation Based Model for the Orientation Map Formation.
+conf/icann/Sutton97:::Richard S. Sutton:::On the Significance of Markov Decision Processes.
+conf/icann/BakirciogluGC97:::Hakan Bakircioglu::Erol Gelenbe::Larry Carin:::Random Neural Network Recognition of Shaped Objects in Strong Clutter.
+conf/icann/ScheierP97:::Christian Scheier::Rolf Pfeifer:::Information Theoretic Implications of Embodiment for Neural Network Learning.
+conf/icann/VersinoG96:::Cristina Versino::Luca Maria Gambardella:::Learing Fine Motion by Using the Hierarchical Extended Kohonen Map.
+conf/icann/TsudaRMM01:::Koji Tsuda::Gunnar Rätsch::Sebastian Mika::Klaus-Robert Müller:::Learning to Predict the Leave-One-Out Error of Kernel Based Classifiers.
+conf/icann/Alaiz-RodriguezC02:::Rocío Alaiz-Rodríguez::Jesús Cid-Sueiro:::Neural Minimax Classifiers.
+conf/icann/WiskottS97:::Laurenz Wiskott::Terrence J. Sejnowski:::Objective Functions for Neural Map Formation.
+conf/icann/YoshimotoIS02:::Junichiro Yoshimoto::Shin Ishii::Masa-aki Sato:::Hierarchical Model Selection for NGnet Based on Variational Bayes Inference.
+conf/icann/KinjoSN03:::Mitsunaga Kinjo::Shigeo Sato::Koji Nakajima:::Quantum Adiabatic Evolution Algorithm for a Quantum Neural Network.
+conf/icann/KimuraN96:::Masahiro Kimura::Ryohei Nakano:::Learning Dynamical Systems Produced by Recurrent Neural Networks.
+conf/icann/KimuraN97:::Masahiro Kimura::Ryohei Nakano:::Unique Representations of Dynamical Systems Produced by Recurrent Neural Networks.
+conf/icann/Nitta03:::Tohru Nitta:::The Computational Power of Complex-Valued Neuron.
+conf/icann/ObaSI03:::Shigeyuki Oba::Masa-aki Sato::Shin Ishii:::Prior Hyperparameters in Bayesian PCA.
+conf/icann/RobertsP01:::Stephen J. Roberts::William D. Penny:::Mixtures of Independent Component Analysers.
+conf/icann/Fukushima03:::Kunihiko Fukushima:::Restoring Partly Occluded Patterns: A Neural Network Model with Backward Paths.
+conf/icann/BerkesW02:::Pietro Berkes::Laurenz Wiskott:::Applying Slow Feature Analysis to Image Sequences Yields a Rich Repertoire of Complex Cell Properties.
+conf/icann/WallaceB02:::J. G. (Iain) Wallace::Kevin Bluff:::Episodic Memory: A Connectionist Interpretation.
+conf/icann/KuzminaMS01:::Margarita Kuzmina::Eduard Manykin::Irina Surina:::Tunable Oscillatory Network for Visual Image Segmentation.
+conf/icann/ScherfB97:::Matthias Scherf::Wilfried Brauer:::Improving RBF Networks by the Feature Selection Approach EUBAFES.
+conf/icapr/WanasK01:::Nayer M. Wanas::Mohamed S. Kamel:::Feature Based Decision Fusion.
+conf/icapr/PajdlaH01:::Tomás Pajdla::Václav Hlavác:::Image-Based Self-Localization by Means of Zero Phase Representation in Panoramic Images.

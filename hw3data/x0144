@@ -1,0 +1,200 @@
+conf/sigmod/Ross00:::Ronald G. Ross:::Expressing Business Rules.
+conf/sigmod/Shyy95:::Yuh-Ming Shyy::H. Stephen Au-Yeung::C. P. Chou:::VERSANT Replication: Supporting Fault-Tolerant Object Databases.
+conf/sigmod/BorrP88:::Andrea J. Borr::Gianfranco R. Putzolu:::High Performance SQL Through Low-Level System Integration.
+conf/sigmod/KellerGM91:::Tom Keller::Goetz Graefe::David Maier:::Efficient Assembly of Complex Objects.
+conf/sigmod/KellerJA93:::Arthur M. Keller::Richard Jensen::Shailesh Agrawal:::Persistence Software: Bridging Object-Oriented Programming and Relational Databases.
+conf/sigmod/Chang75:::Shi-Kuo Chang:::Data Base Decomposition in a Hierarchical Computer System.
+conf/sigmod/RabinovichL92:::Michael Rabinovich::Edward D. Lazowska:::Improving Fault Tolerance and Supporting Partial Writes in Structured Coterie Protocols for Replicated Objects.
+conf/sigmod/LeeKOTM00:::Mong-Li Lee::Masaru Kitsuregawa::Beng Chin Ooi::Kian-Lee Tan::Anirban Mondal:::Towards Self-Tuning Data Placement in Parallel Database Systems.
+conf/sigmod/RossSS96:::Kenneth A. Ross::Divesh Srivastava::S. Sudarshan:::Materialized View Maintenance and Integrity Constraint Checking: Trading Space for Time.
+conf/sigmod/GrayHOS96:::Jim Gray::Pat Helland::Patrick E. O'Neil::Dennis Shasha:::The Dangers of Replication and a Solution.
+conf/sigmod/ZhuS03:::Yunyue Zhu::Dennis Shasha:::Warping Indexes with Envelope Transforms for Query by Humming.
+conf/sigmod/YanMHF01:::Ling-Ling Yan::Renée J. Miller::Laura M. Haas::Ronald Fagin:::Data-Driven Understanding and Refinement of Schema Mappings.
+conf/sigmod/Collmeyer72:::Arthur J. Collmeyer:::Implications of Data Independence on Architecture of Database Management Systems.
+conf/sigmod/PatelYKTNBHRLEKGDN97:::Jignesh M. Patel::Jie-Bing Yu::Navin Kabra::Kristin Tufte::Biswadeep Nag::Josef Burger::Nancy E. Hall::Karthikeyan Ramasamy::Roger Lueder::Curt Ellman::Jim Kupsch::Shelly Guo::David J. DeWitt::Jeffrey F. Naughton:::Building a Scaleable Geo-Spatial DBMS: Technology, Implementation, and Evaluation.
+conf/sigmod/LarsonG03:::Per-Åke Larson::Jonathan Goldstein::Jingren Zhou:::Transparent Mid-Tier Database Caching in SQL Server.
+conf/sigmod/LarsonG98:::Per-Åke Larson::Goetz Graefe:::Memory Management During Run Generation in External Sorting.
+conf/sigmod/Descollonges92:::Marc Descollonges:::A Concurrency Model for Transaction Management.
+conf/sigmod/FernandezS96:::Phillip M. Fernandez::Donovan A. Schneider:::The Ins and Outs (and Everthing in Between) of Data Warehousing.
+conf/sigmod/MaheshwariL97:::Umesh Maheshwari::Barbara Liskov:::Partitioned Garbage Collection of Large Object Store.
+conf/sigmod/KleinU93:::Johannes Klein::Francis Upton IV:::Open DECdtm: Constraint Based Transaction Management.
+conf/sigmod/YangM97:::Renée J. Miller::Yuping Yang:::Association Rules over Interval Data.
+conf/sigmod/Freytag87:::Johann Christoph Freytag:::A Rule-Based View of Query Optimization.
+conf/sigmod/JohnsonGLMSW92:::Rowland R. Johnson::Mandy Goldner::Mitch Lee::Keith McKay::Robert Shectman::John Woodruff:::USD - A Database Management System for Scientific Research.
+conf/sigmod/ShanmugasundaramNSR99:::Jayavel Shanmugasundaram::Arvind Nithrakashyap::Rajendran M. Sivasankaran::Krithi Ramamritham:::Efficient Concurrency Control for Broadcast Environments.
+conf/sigmod/JoshiA01:::Mahesh V. Joshi::Ramesh C. Agarwal:::Mining Needle in a Haystack: Classifying Rare Classes via Two-phase Rule Induction.
+conf/sigmod/Stonebraker03:::Michael Stonebraker:::Visionary: A Next Generation Visualization System for Databases.
+conf/sigmod/Stonebraker74:::Michael Stonebraker:::A Functional View of Data Independence.
+conf/sigmod/Zdonik93:::Stanley B. Zdonik:::Incremental Database Systems: Databases from Ground Up.
+conf/sigmod/CruzJ99:::Isabel F. Cruz::Kimberly M. James:::A User-Centered Interface for Querying Distributed Multimedia Databases.
+conf/sigmod/ArnowT84:::David M. Arnow::Aaron M. Tenenbaum:::An Empirical Comparison of B-Trees, Compact B-Trees and Multiway Trees.
+conf/sigmod/KlaholdSUW85:::Peter Klahold::Gunter Schlageter::Rainer Unland::Wolfgang Wilkes:::A Transaction Model Supporting Complex Applications in Integrated Information Systems.
+conf/sigmod/MaierMS79:::David Maier::Alberto O. Mendelzon::Yehoshua Sagiv:::Testing Implications of Data Dependencies (Abstract).
+conf/sigmod/MaierRW83:::David Maier::David Rozenshtein::David Scott Warren:::Windows on the World.
+conf/sigmod/LandsonS77:::Barry M. Landson::Robert G. Sargent:::A Comparison of Sequential and Associate Computing of Priority Queues.
+conf/sigmod/BohmBKK01:::Christian Böhm::Bernhard Braunmüller::Florian Krebs::Hans-Peter Kriegel:::Epsilon Grid Order: An Algorithm for the Similarity Join on Massive High-Dimensional Data.
+conf/sigmod/BarbicP85:::Federico Barbic::Barbara Pernici:::Time Modeling in Office Information Systems.
+conf/sigmod/Robinson81:::John T. Robinson:::The K-D-B-Tree: A Search Structure For Large Multidimensional Dynamic Indexes.
+conf/sigmod/GuptaW93:::Ashish Gupta::Jennifer Widom:::Local Verification of Global Integrity Constraints in Distributed Databases.
+conf/sigmod/AstrahanAFS72:::Morton M. Astrahan::Edward B. Altman::P. L. Fehder::Michael E. Senko:::Concepts of a Data Independent Accessing Model.
+conf/sigmod/LangS01:::Christian A. Lang::Ambuj K. Singh:::Modeling High-Dimensional Index Structures using Sampling.
+conf/sigmod/RadekeBBEKKN95:::Elke Radeke::Ralf Böttger::Bernd Burkert::Yaron Engel::Gerd Kachel::Silvia Kolmschlag::Dietmar Nolte:::Efendi: Federated Database System of Cadlab.
+conf/sigmod/BiskupC86:::Joachim Biskup::Bernhard Convent:::A Formal View Integration Method.
+conf/sigmod/LankaM91:::Sitaram Lanka::Eric Mays:::Fully Persistent B+-trees.
+conf/sigmod/DeutschFS99:::Alin Deutsch::Mary F. Fernandez::Dan Suciu:::Storing Semistructured Data with STORED.
+conf/sigmod/GardarinMP95:::Georges Gardarin::Fernando Machuca::Philippe Pucheral:::OFL: A Functional Execution Model for Object Query Languages.
+conf/sigmod/Sakai80:::Hirotaka Sakai:::Entity-Relationship Approach to the Conceptual Schema Design.
+conf/sigmod/LometS92:::David B. Lomet::Betty Salzberg:::Access Method Concurrency with Recovery.
+conf/sigmod/Butler87:::Margaret H. Butler:::Storage Reclamation in Object Oriented Database Systems.
+conf/sigmod/LiCHH97:::Wen-Syan Li::K. Selçuk Candan::Kyoji Hirata::Yoshinori Hara:::SEMCOG: An Object-based Image Retrieval System and Its Visual Query Interface.
+conf/sigmod/DohertyHR96:::Michael Doherty::Richard Hull::Mohammed Rupawalla:::Structures for Manipulating Proposed Updates in Object-Oriented Databases.
+conf/sigmod/RothK87:::Mark A. Roth::Henry F. Korth:::The Design of ¬1NF Relational Databases into Nested Normal Form.
+conf/sigmod/ClarkH78:::J. D. Clark::Jeffrey A. Hoffer:::A Procedure for the Determination of Attribute Access Probabilities.
+conf/sigmod/RoweS79:::Lawrence A. Rowe::Kurt A. Shoens:::Data Abstractions, Views and Updates in RIGEL.
+conf/sigmod/LaurentS88:::Dominique Laurent::Nicolas Spyratos:::Partition Semantics for Incomplete Information in Relational Databases.
+conf/sigmod/Goldstein80:::Ira P. Goldstein:::Integrating a Network-Structured Database Into an Object-Oriented Programming Language.
+conf/sigmod/ProcopiucJAM02:::Cecilia Magdalena Procopiuc::Michael Jones::Pankaj K. Agarwal::T. M. Murali:::A Monte Carlo algorithm for fast projective clustering.
+conf/sigmod/Wright83:::David D. Wright:::On Merging Partitioned Databases.
+conf/sigmod/ShatdalN95:::Ambuj Shatdal::Jeffrey F. Naughton:::Adaptive Parallel Aggregation Algorithms.
+conf/sigmod/DoanDH01:::AnHai Doan::Pedro Domingos::Alon Y. Halevy:::Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach.
+conf/sigmod/Sheng90:::Yeh-Heng Sheng:::IDLOG: Extending the Expressive Power of Deductive Database Languages.
+conf/sigmod/Gerritsen75:::Rob Gerritsen:::A Preliminary System for the Design of DBTG Data Structures (Abstract).
+conf/sigmod/GruenwaldE91:::Le Gruenwald::Margaret H. Eich:::MMDB Reload Algorithms.
+conf/sigmod/Williams78:::Rhon Williams:::A Multiprocessing System for the Direct Execution of LISP.
+conf/sigmod/FukudaMMT96:::Takeshi Fukuda::Yasuhiko Morimoto::Shinichi Morishita::Takeshi Tokuyama:::Data Mining Using Two-Dimensional Optimized Accociation Rules: Scheme, Algorithms, and Visualization.
+conf/sigmod/ShuHL75:::Nan C. Shu::Barron C. Housel::Vincent Y. Lum:::CONVERT: A High Level Translation Definition Language for Data Conversion (Abstract).
+conf/sigmod/McGee70:::William C. McGee:::Informal Definitions for the Development of a Storage Structure Definition Language.
+conf/sigmod/McGee72:::William C. McGee:::Some Current Issues in Data Description.
+conf/sigmod/BrinkhoffKSS94:::Thomas Brinkhoff::Hans-Peter Kriegel::Ralf Schneider::Bernhard Seeger:::Multi-Step Processing of Spatial Joins.
+conf/sigmod/Colliat03:::George Colliat:::Data Management Challenges in CRM.
+conf/sigmod/KambayashiYY82:::Yahiko Kambayashi::Masatoshi Yoshikawa::Shuzo Yajima:::Query Processing for Distributed Databases Using Generalized Semi-Joins.
+conf/sigmod/SorensonW77:::Paul G. Sorenson::Joseph A. Wald:::PICASSO - An Aid to an End-User Facility.
+conf/sigmod/AnkerstBKS99:::Mihael Ankerst::Markus M. Breunig::Hans-Peter Kriegel::Jörg Sander:::OPTICS: Ordering Points To Identify the Clustering Structure.
+conf/sigmod/Melmom92:::Paul Melmom:::The Sybase Open Server.
+conf/sigmod/HsiaoK77:::David K. Hsiao::Krishnamurthi Kannan:::The Architecture of a Database Computer - A Summary.
+conf/sigmod/Galindo-LegariaJ01:::César A. Galindo-Legaria::Milind Joshi:::Orthogonal Optimization of Subqueries and Aggregation.
+conf/sigmod/HouselLS74:::Barron C. Housel::Vincent Y. Lum::Nan C. Shu:::Architecture to An Interactive Migration System (AIMS).
+conf/sigmod/MehlW74:::James W. Mehl::C. P. Wang:::A Study of Order Transformations of Hierarchical Structures in IMS Data Base.
+conf/sigmod/Zaniolo79:::Carlo Zaniolo:::Design of Relational Views over Network Schemas.
+conf/sigmod/CranorGJSS02:::Charles D. Cranor::Yuan Gao::Theodore Johnson::Vladislav Shkapenyuk::Oliver Spatscheck:::Gigascope: high performance network monitoring with an SQL interface.
+conf/sigmod/LuniewskiSSST93:::Allen Luniewski::Peter M. Schwarz::Kurt A. Shoens::Jim Stamos::John Thomas:::Information Organization Using Rufus.
+conf/sigmod/Team95c:::The Access Team:::Upsizing from File Server to Clent Server Architectures.
+conf/sigmod/WelchG76:::James W. Welch::J. Wesley Graham:::Retrieval Using Ordered Lists in Inverted and Multilist Files.
+conf/sigmod/CruzALRZ97:::Isabel F. Cruz::Michael Averbuch::Wendy T. Lucas::Melissa Radzyminski::Kirby Zhang:::Delaunay: A Database Visualization System.
+conf/sigmod/DeutscherST75:::R. F. Deutscher::Paul G. Sorenson::J. Paul Tremblay:::Distribution-Dependent Hashing Functions and Their Characteristics.
+conf/sigmod/MinPC03:::Jun-Ki Min::Myung-Jae Park::Chin-Wan Chung:::XPRESS: A Queriable Compression for XML Data.
+conf/sigmod/Rajaraman99:::Anand Rajaraman:::E-Commerce Database Issues and Experience.
+conf/sigmod/KorenjakT75:::A. J. Korenjak::A. H. Teger:::Individual Data Bases for Circuit Design.
+conf/sigmod/Herman83:::Marian Herman:::A Data Base Design Methodology for an Integrated Data Base Environment.
+conf/sigmod/CeriNP82:::Stefano Ceri::Mauro Negri::Giuseppe Pelagatti:::Horizontal Data Partitioning in Database Design.
+conf/sigmod/BouguettayaBH99:::Athman Bouguettaya::Boualem Benatallah::Lily Hendra::James Beard::Kevin Smith::Mourad Ouzzani:::World Wide Database - Integrating the Web, CORBA, and Databases.
+conf/sigmod/Sibley70:::Edgar H. Sibley:::Restructuring (Intra-System) (pre-discussion summary).
+conf/sigmod/KumarS88:::Akhil Kumar::Michael Stonebraker:::Semantics Based Transaction Management Techniques for Replicated Data.
+conf/sigmod/AndersonA86:::T. Lougenia Anderson::Gad Ariav:::User Interfaces and Database Management Systems.
+conf/sigmod/Rodriguez-Martinez00:::Manuel Rodriguez-Martinez::Nick Roussopoulos::John M. McGann::Stephen Kelley::Vadim Katz::Zhexuan Song::Joseph JáJá:::MOCHA: A Database Middleware System Featuring Automatic Deployment of Application-Specific Functionality.
+conf/sigmod/Mohan02:::C. Mohan:::Tutorial: application servers and associated technologies.
+conf/sigmod/IoannidisP95:::Yannis E. Ioannidis::Viswanath Poosala:::Balancing Histogram Optimality and Practicality for Query Result Size Estimation.
+conf/sigmod/SrinivasanC91:::V. Srinivasan::Michael J. Carey:::Performance of B-Tree Concurrency Algorithms.
+conf/sigmod/Ramakrishna88:::M. V. Ramakrishna:::Hashing in Practive, Analysis of Hashing and Universal Hashing.
+conf/sigmod/Thatcher80:::James W. Thatcher:::Data Abstraction, Data Bases and Conceptual Modelling.
+conf/sigmod/FungSG02:::Wai Fu Fung::David Sun::Johannes Gehrke:::COUGAR: the network is the database.
+conf/sigmod/Bastian70:::A. Lewis Bastian:::Data Validation (pre-discussion summary).
+conf/sigmod/FukudaMMT96a:::Takeshi Fukuda::Yasuhiko Morimoto::Shinichi Morishita::Takeshi Tokuyama:::SONAR: System for Optimized Numeric AssociationRules.
+conf/sigmod/StuckiCRT78:::M. J. Stucki::Jerome R. Cox Jr.::Gruia-Catalin Roman::P. N. Turcu:::Coordinating Concurrent Access in a Distributed Database Architecture.
+conf/sigmod/Guttman84:::Antonin Guttman:::R-Trees: A Dynamic Index Structure for Spatial Searching.
+conf/sigmod/FadousF75:::Raymond Fadous::John Forsyth:::Finding Candidate Keys for Relational Data Bases.
+conf/sigmod/Feather80:::Martin S. Feather:::Some Contrasts and Considerations of an Approach to Modelling.
+conf/sigmod/McGee75a:::William C. McGee:::Data Base Structures - Present and Future.
+conf/sigmod/KamelF92:::Ibrahim Kamel::Christos Faloutsos:::Parallel R-trees.
+conf/sigmod/HanKK97:::Eui-Hong Han::George Karypis::Vipin Kumar:::Scalable Parallel Data Mining for Association Rules.
+conf/sigmod/Kibler80:::Tom R. Kibler:::APCAM (A Practical Cellular Associative Memory).
+conf/sigmod/Dozier92:::Jeff Dozier:::Access to Data in NASA's Earth Observing System.
+conf/sigmod/Sayani74:::Hasan H. Sayani:::Restart and Recovery in a Transaction-Oriented Information Processing System.
+conf/sigmod/ImielinskiV95:::Tomasz Imielinski::Aashu Virmani:::DataMine - Interactive Rule Discovery System.
+conf/sigmod/ShivakumarG97:::Narayanan Shivakumar::Hector Garcia-Molina:::Wave-Indices: Indexing Evolving Databases.
+conf/sigmod/CareyDNAGS97:::Michael J. Carey::David J. DeWitt::Jeffrey F. Naughton::Mohammad Asgarian::Paul Brown::Johannes Gehrke::Dhaval Shah:::The BUCKY Object-Relational Benchmark (Experience Paper).
+conf/sigmod/DasuJMS02:::Tamraparni Dasu::Theodore Johnson::S. Muthukrishnan::Vladislav Shkapenyuk:::Mining database structure; or, how to build a data quality browser.
+conf/sigmod/CODASYL70a:::CODASYL:::Storage Structure Definition Language Task Group: Design Objectives for a Storage Structure Definition Language (SSDL).
+conf/sigmod/BukhresCP93:::Omran A. Bukhres::Jiansan Chen::Rob Pezzoli:::An InterBase System at BNR.
+conf/sigmod/Ellison95:::Larry Ellison:::Keynote Address.
+conf/sigmod/LiuHBPT99:::Ling Liu::Wei Han::David Buttler::Calton Pu::Wei Tang:::An XML-based Wrapper Generator for Web Information Extraction.
+conf/sigmod/Edelberg74:::Murray Edelberg:::Data Base Contamination and Recovery.
+conf/sigmod/GotoK03:::Koichi Goto::Yahiko Kambayashi:::Integration of Electronic Tickets and Personal Guide System for Public Transport using Mobile Terminals.
+conf/sigmod/ChangC01:::Edward Y. Chang::Tim Cheng::Lihyuarn L. Chang:::PBIR - Perception-Based Image Retrieval.
+conf/sofsem/Li95:::Warren X. Li:::A Simple and Efficient Incremental LL(1) parsing.
+conf/sofsem/Scholz96:::Peter Scholz:::A Light-Weight Formalism for the Specification of Reactive Systems.
+conf/sofsem/Boas99:::Ghica van Emde Boas:::IBM SanFrancisco: Java Based Business Components and New Tools to Develop Applications.
+conf/sofsem/Han96:::Jia Liang Han:::Decision Trees, Knowledge Rules and Some Related Data Mining Algorithms.
+conf/sofsem/Kosecka00:::Jana Kosecka:::Hierarchies of Sensing and Control in Visually Guided Agents.
+conf/sofsem/GaibissoNP96:::Carlo Gaibisso::Enrico Nardelli::Guido Proietti:::An Output Sensitive Solution to the Set Union and Intersection Problem.
+conf/sofsem/Peter97:::Yvan Peter:::Mobility Management in CORBA: A Generic Implementation of the LifeCycle Service.
+conf/sofsem/PlachetkaSA01:::Tomas Plachetka::Olaf Schmidt::Frank Albracht:::The HiQoS Rendering System.
+conf/sofsem/Roisin98:::Cécile Roisin:::Authoring Structured Multimedia Documents.
+conf/sofsem/Maurer95:::Hermann A. Maurer:::On Some New Aspects of Networked Multimedia Systems.
+conf/sofsem/Sima95:::Jirí Síma:::Hopfield Languages.
+conf/sofsem/BrattkaH96:::Vasco Brattka::Peter Hertling:::Feasible Real Random Access Machines.
+conf/sofsem/Ultes-Nitsche99:::Ulrich Ultes-Nitsche:::A Persistent-Set Approach to Abstract Stat-Space Construction in Verification.
+conf/sofsem/ZizkaK96:::Jan Zizka::Zdenek Kratochvíl:::Genetic Algoriths-Based Creation of Fuzzy-Rule Bases for the Car Control.
+conf/sofsem/LulingGS98:::Reinhard Lüling::Francisco Cortes Gomez::Norbert Sensen:::Parallel Interactive Media Server Systems.
+conf/sofsem/Baeza-Yates96:::Ricardo A. Baeza-Yates:::A Unified View to String Matching Algorithms.
+conf/sofsem/DickL96:::Jeremy Dick::Jérôme Loubersac:::A Visual Approach to VDM.
+conf/sofsem/MrazPV96:::Frantisek Mráz::Martin Plátek::Jörg Vogel:::Restarting Automata with Rewriting.
+conf/sofsem/Kramosil99:::Ivan Kramosil:::Towards Possibilistic Decision Functions with Minimum-Based Sugeno Integrals.
+conf/sofsem/Kisiel-Dorohinicki02:::Marek Kisiel-Dorohinicki:::Agent-Oriented Model of Simulated Evolution.
+conf/sofsem/AfsarmaneshKH01:::Hamideh Afsarmanesh::Ersin Cem Kaletas::Louis O. Hertzberger:::The Potential of Grid, Virtual Laboratories and Virtual Organizations for Bio-sciences.
+conf/sofsem/Vanoirbeek98:::Christine Vanoirbeek:::Towards the Use of Dynamic Documents in Business Processes.
+conf/sofsem/CernaKS99:::Ivana Cerna::Ondrej Klíma::Jirí Srba:::Pattern Equations and Equations with Stuttering.
+conf/sofsem/Ronen00:::Amir Ronen:::Algorithms for Rational Agents.
+conf/sofsem/PasqualeN01:::Adriano Di Pasquale::Enrico Nardelli:::ADST: An Order Preserving Scalable Distributed Data Structure with Constant Access Costs.
+conf/sofsem/Boasson98:::Maarten Boasson:::Software Architecture for Distributed Reactive Systems.
+conf/sofsem/BednarekMOYZ96:::David Bednárek::Petr Merta::David Obdrzálek::Jakub Yaghob::Filip Zavoral:::Interprocess Communication in the T4 System.
+conf/sofsem/Jeffery95:::Keith G. Jeffery:::Database: Introduction to Problems.
+conf/sofsem/Niedermeier98:::Rolf Niedermeier:::Some Prospects for Efficient Fixed Parameter Algorithms.
+conf/sofsem/Feldmann97:::Rainer Feldmann:::Computer Chess: Algorithms and Heuristics for a Deep Look into the Future.
+conf/sofsem/Gebala01:::Maciej Gebala:::The Reconstruction of Polyominoes from Approximately Orthogonal Projections.
+conf/sofsem/CovaciM97:::Stefan Covaci::Thomas Magedanz:::The Mobile Agent Technology.
+conf/spieSR/BarrosFMKC96:::Julio E. Barros::James C. French::Worthy N. Martin::Patrick M. Kelly::T. Michael Cannon:::Using the Triangle Inequality to Reduce the Number of Comparisons Required for Similarity-Based Retrieval.
+conf/spieSR/Delanoy96:::Richard L. Delanoy:::Supervised Learning of Tools for Content-Based Search of Image Databases.
+conf/spieSR/NiblackBEFGPYFT93:::Wayne Niblack::Ron Barber::William Equitz::Myron Flickner::Eduardo H. Glasman::Dragutin Petkovic::Peter Yanker::Christos Faloutsos::Gabriel Taubin:::The QBIC Project: Querying Images by Content, Using Color, Texture, and Shape.
+conf/spieSR/HoltH94:::Bonnie J. Holt::Laura Hartwick:::Visual Image Retrieval for Applications in Art and Art History.
+conf/spieSR/Jain93:::Ramesh Jain:::NSF Workshop on Visual Information Management Systems: Workshop Report.
+conf/spieSR/YuW98:::Hong-heather Yu::Wayne Wolf:::Multiresolution Video Segmentation Using Wavelet Transformation.
+conf/spieSR/LeeD94:::Jungwoo Lee::Bradley W. Dickinson:::Multiresolution Video Indexing for Subband Coded Video Databases.
+conf/spieSR/LeeK93:::Suh-Yin Lee::Huan-Ming Kao:::Video Indexing: An Approach Based on Moving Object and Track.
+conf/spieSR/SamadaniH93:::Ramin Samadani::Cecilia S. Han:::Computer-Assisted Extraction of Boundaries from Images.
+conf/spieSR/IdrisP97:::Fayez M. Idris::Sethuraman Panchanathan:::Detection of Camera Operations in Compressed Video Sequences.
+conf/spieSR/OakleyDS93:::John P. Oakley::Darryl N. Davis::Richard T. Shann:::Manchester Visual Query Language.
+conf/spieSR/LorenzM95:::Oliver Lorenz::Gladys Monagan:::Automatic Indexing for Storage and Retrieval of Line Drawings.
+conf/spieSR/LiSBC98:::Chung-Sheng Li::John R. Smith::Lawrence D. Bergman::Vittorio Castelli:::Sequential Processing for Content-Based Retrieval of Composite Objects.
+conf/spieSR/LiTKW97:::Yanbing Li::Bo Tao::Shun Kei::Wayne Wolf:::Semantic Image Retrieval Through Human Subject Segmentation and Characterization.
+conf/spieSR/StrickerD96:::Markus A. Stricker::Alexander Dimai:::Color Indexing with Weak Spatial Constraints.
+conf/spieSR/SamadaniHK93:::Ramin Samadani::Cecilia S. Han::Lalitesh K. Katragadda:::Content-Based Event Selection from Satellite Images of the Aurora.
+conf/spieSR/SongY98:::Junehwa Song::Boon-Lock Yeo:::Spatially Reduced Image Extraction from MPEG-2 Video: Fast Algorithms and Applications.
+conf/spieSR/Hersch93:::Roger D. Hersch:::Benefits of an Image-Oriented Parallel File System.
+conf/spieSR/AgnewFWWX97:::Brent Agnew::Christos Faloutsos::Zhengyu Wang::Donald J. Welch::Xiaogang Xue:::Multimedia Indexing over the Web.
+conf/spieSR/FranchiGP93:::Santina Franchi::Roberto Guarda::Franco Prampolini:::Mass-Storage Management for Distributed Image/Video Archives.
+conf/coordination/Tolksdorf97:::Robert Tolksdorf:::Berlinda: An Object-Oriented Platform for Implementing Coordination Languages in Java.
+conf/coordination/SnyderM02:::Jim Snyder::Ronaldo Menezes:::Using Logical Operators as an Extended Coordination Mechanism in Linda.
+conf/coordination/McCannR97:::Peter J. McCann::Gruia-Catalin Roman:::Mobile UNITY Coordination Constructs Applied to Packet Forwarding for Mobile Hosts.
+conf/coordination/TolksdorfR02:::Robert Tolksdorf::Gregor Rojec-Goldmann:::The SPACETUB Models and Framework.
+conf/coordination/Day99:::Mark Day:::Presence and Instant Messaging via HTTP /1.1: A Coordination Perspective.
+conf/coordination/HazeyamaK96:::Atsuo Hazeyama::Seiichi Komiya:::A Case Study of Integration of a Software Process Management System with Software Engineering Environments for Process Monitoring and Management.
+conf/coordination/KokS00:::Joost N. Kok::Kaisa Sere:::Coordination-Based Design of Distributed Systems.
+conf/coordination/GroenewegenV02:::Luuk Groenewegen::Erik P. de Vink:::Operational Semantics for Coordination in Paradigm.
+conf/coordination/ArbabM00:::Farhad Arbab::Eric Monfroy:::Distributed Splitting of Constraint Satisfaction Problems.
+conf/coordination/HashimotoY00:::Masatomo Hashimoto::Akinori Yonezawa:::MobileML: A Programming Language for Mobile Computation.
+conf/coordination/StraubH96:::Pablo A. Straub::Carlos A. Hurtado:::Understanding Behavior of Business Process Models.
+conf/coordination/FlorijnBG96:::Gert Florijn::Timo Besamusca::Danny Greefhorst:::ARIADNE and HOPLa: Flexible Coordination of Collaborative Processes.
+conf/coordination/WooldridgeH02:::Michael Wooldridge::Wiebe van der Hoek:::Time, Knowledge, and Cooperation: Alternating-Time Temporal Epistemic Logic and Its Applications.
+conf/coordination/ArbabBB00:::Farhad Arbab::Frank S. de Boer::Marcello M. Bonsangue:::A Logical Interface Description Language for Components.
+conf/testen/Schless92:::Peter Schless:::Methoden und Werkzeuge zur Automatisierung des Software-Tests.
+conf/testen/Kneuper92:::Ralf Kneuper:::Validation und Verifikation von Software durch symbolische Ausführung.
+conf/smartnet/ArbanowskiMP00:::Stefan Arbanowski::Sven van der Meer::Radu Popescu-Zeletin:::I-centric Services in the Area of Telecommunication 'The I-Talk Service'.
+conf/smartnet/Ferchenbauer00:::Josef Ferchenbauer:::Centralized Network Intelligence vs. Decentralized Network Intelligence.
+conf/smartnet/SchabauerPSH00:::Johann Schabauer::Hans Portschy::Rudolf Siebenhofer::Andrea Holzinger:::Statistics Warehouse for Intelligent Networks.
+conf/smartnet/SpeerWZ00:::Anke Speer::Ralph Wittmann::Martina Zitterbart:::Locating Services in Programmable Networks with AMnet-Signalling.
+conf/smartnet/AgoulmineSSS99:::Nazim Agoulmine::José Neuman de Souza::Jorge Luis de Castro e Silva::Arnoldo Nunes da Silva:::The Use of Mobile Agent Based System as a Solution for Efficient Management of Telecommunication Networks and Services in a Multi-Domain Environment.
+conf/smartnet/MeerA00:::Sven van der Meer::Stefan Arbanowski:::Service Interoperability through Advanced Media Gateways.
+conf/smartnet/FarjamiGB99:::Peyman Farjami::Carmelita Görg::Frank Bell:::A Mobile Agent-Based Approach for the UMTS/VHE Concept.
+conf/smartnet/MinhA00:::Hoang Nguyen Minh::Harmen R. van As:::Profile-based IN Service Provision for Third Generation Mobile Communication Networks.
+conf/smartnet/Chernock02:::R. Chernock:::nside iTV-Interactive Commerce Services for Broadcast Digital Television.

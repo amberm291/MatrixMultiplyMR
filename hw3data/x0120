@@ -1,0 +1,200 @@
+conf/latin/NiedermeierR92:::Rolf Niedermeier::Peter Rossmanith:::Unambiguous Simulations of Auxiliary Pushdown Automata and Circuits (Extended Abstract).
+conf/latin/KnesslS00:::Charles Knessl::Wojciech Szpankowski:::Heights in Generalized Tries and PATRICIA Tries.
+conf/latin/Frougny02:::Christiane Frougny:::Conversion between Two Multiplicatively Dependent Linear Numeration Systems.
+conf/latin/Frougny92:::Christiane Frougny:::How to Write Integers in Non-Integer Base.
+conf/latin/AsanoRRWW95:::Tetsuo Asano::Desh Ranjan::Thomas Roos::Emo Welzl::Peter Widmayer:::Space Filling Curves and Their Use in the Design of Geometric Data Structures.
+conf/latin/BettayebCGS92:::Saïd Bettayeb::Bin Cong::Mike Girou::Ivan Hal Sudborough:::Simulation Permutation Networks on Hypercubes.
+conf/latin/BalasubramanianRS95:::R. Balasubramanian::Venkatesh Raman::G. Srinivasaraghavan:::Tight Bounds for Finding Degrees from the Adjacency Matrix.
+conf/latin/GutierrezM98:::Marisa Gutierrez::Joao Meidanis:::On the Clique Operator.
+conf/korso/HeinkelL95:::Stefan Heinkel::Thomas Lindner:::SDL.
+conf/korso/LewerentzL95b:::Claus Lewerentz::Thomas Lindner:::Comparative Survey.
+conf/korso/LewerentzL95:::Claus Lewerentz::Thomas Lindner:::``Production Cell'': A Comparative Study in Formal Specification and Verification.
+conf/kroml/Morik87:::Katharina Morik:::Sloppy Modeling.
+conf/lilog/Eberle89:::Kurt Eberle:::Eventualities in a Natural Language Understanding System.
+conf/lilog/BlasiusRS89:::Karl-Hans Bläsius::Claus-Rainer Rollinger::Jörg H. Siekmann:::Structure and Control of the L-LILOG Inference System.
+conf/lilog/KloseP92:::Gudrun Klose::Thomas Pirlein:::Die Modellierung der LEU/2-Wissensbasis im Überblick.
+conf/lilog/Beierle89:::Christoph Beierle:::Types, Modules and Databases in the Logic Programming Language PROTOS-L.
+conf/lilog/Owsnicki-Klewe89:::Bernd Owsnicki-Klewe:::A General Characterization of Term Description Languages.
+conf/mates/DingLMP03:::Yun Ding::Heiner Litz::Rainer Malaka::Dennis Pfisterer:::On Programming Information Agent Systems - An Integrated Hotel Reservation Service as Case Study.
+conf/medoc/Schwab98:::Uwe Schwab:::Books and Journals in MeDoc - Experiences on Bringing Publications Online.
+conf/medoc/DregerLM98:::Markus Dreger::Stefan Lohrum::Peter Müller:::The MeDoc Communication Protocol.
+conf/medoc/Apillner98:::Andreas Spillner:::Use of MeDoc Offerings in Technical Education.
+conf/medoc/Bruggemann-KleinH98:::Anne Brüggemann-Klein::Cornelia Haber:::The MeDoc Library: Security Aspects.
+conf/mfdbs/AlbertR91:::Luc Albert::Mireille Régnier:::Complexity of Recursive Production Rules Execution.
+conf/mfdbs/Benecke87:::Klaus Benecke:::On Hierarchical Normal Forms.
+conf/mfdbs/DemetrovicsLM89:::János Demetrovics::Leonid Libkin::Ilya B. Muchnik:::Functional Dependencies and the Semilattice of Closed Classes.
+conf/mfdbs/HoubenP87:::Geert-Jan Houben::Jan Paredaens:::A Formal Model for Distributed Information Systems.
+conf/mfdbs/SchmidtPB87:::Joachim W. Schmidt::Jan Paredaens::Paul De Bra:::Database Models, where they are going now?
+conf/lpnmr/GeertsV91:::P. Geerts::Dirk Vermeir:::Credulous and Autoepistemic Reasoning Using Ordered Logic.
+conf/lpnmr/Cadoli99:::Marco Cadoli:::Using LPNMR for Problem Specification and Code Generation.
+conf/lpnmr/Schwarz91:::Grigori Schwarz:::Autoepistemic Logic of Knowledge.
+conf/lpnmr/Bonatti91:::Piero A. Bonatti:::Beliefs as Stable Conjectures.
+conf/lpnmr/Bonatti97:::Piero A. Bonatti:::Resolution for Skeptical Stable Semantics.
+conf/lpnmr/SyrjanenN01:::Tommi Syrjänen::Ilkka Niemelä:::The Smodels System.
+conf/lpnmr/BrogiCT97:::Antonio Brogi::Simone Contiero::Franco Turini:::Composing General Logic Programs.
+conf/lpnmr/Drabent93:::Wlodzimierz Drabent:::SLS-Resolution without Floundering.
+conf/lpnmr/YangBB90:::Feng Yang::Allen L. Brown Jr.::Howard A. Blair:::Programming in Default Logic.
+conf/lpnmr/EastT01:::Deborah East::Miroslaw Truszczynski:::aspps - An Implementation of Answer-Set Programming with Propositional Schemata.
+conf/lpnmr/GelfondP93:::Michael Gelfond::Halina Przymusinska:::Reasoning on Open Domains.
+conf/lpnmr/SonenbergT90:::Liz Sonenberg::Rodney W. Topor:::A Preferred Model Semantics for Inheritance Systems.
+conf/lpnmr/Sefranek99:::Ján Sefránek:::Belief, Knowledge, Revisions, and a Semantics of Non-Monotonic Reasoning.
+conf/lpnmr/BrogiLMM95:::Antonio Brogi::Evelina Lamma::Paolo Mancarella::Paola Mello:::An Abductive Framework for Extended Logic Programming.
+conf/lpnmr/Denecker95:::Marc Denecker:::A Terminological Interpretation of (Abductive) Logic Programming.
+conf/lpnmr/KakasM90:::Antonis C. Kakas::Paolo Mancarella:::Abductive Logic Programming.
+conf/lpnmr/Simons99:::Patrik Simons:::Extending the Stable Model Semantics with More Expressive Rules.
+conf/lpnmr/BrewkaMS91:::Gerhard Brewka::David Makinson::Karl Schlechta:::JTMS and Logic Programming.
+conf/lpnmr/MullerD93:::Martin Müller::Jürgen Dix:::Implementing Semantics of Disjunctive Logic Programs Using Fringes and Abstract Properties (Extended Abstract).
+conf/micai/FloresP02:::Juan J. Flores::Nelio Pastor:::Qualitative Systems Identification for Linear Time Invariant Dynamic Systems.
+conf/micai/Ringwelski02:::Georg Ringwelski:::Object-Oriented Constraint Programming with J.CP.
+conf/micai/KirschningA00:::Ingrid Kirschning::Nancy Aguas:::Verification of Correct Pronunciation of Mexican Spanish Using Speech Technology.
+conf/micai/Buen-RodriguezMV00:::Pablo Roberto de Buen-Rodríguez::Eduardo F. Morales::Sunil Vadera:::RuLess: A Method for the Acquisition and Simplification of Rules.
+conf/micai/MunozPF00:::Rafael Muñoz::Manuel Palomar::Antonio Ferrández Rodríguez:::Processing of Spanish Definite Descriptions.
+conf/micai/YanTM00:::Jianjun Yan::Naoyuki Tokuda::Juichi Miyamichi:::Integrated Reinforcement and Evolutionary Learning Algorithm: Application to Alife in a Shared World.
+conf/micai/Arroyo-FigueroaH02:::Gustavo Arroyo-Figueroa::Raúl Herrera-Avelar:::Modeling Dynamical Causal Interactions with Fuzzy Temporal Networks for Process Operation Support Systems.
+conf/micai/MarianoM00:::Carlos Mariano::Eduardo F. Morales:::A New Approach for the Solution of Multiple Objective Optimization Problems Based on Reinforcement Learning.
+conf/micai/VasconcelosA00:::Wamberto Weber Vasconcelos::Marcelo A. T. Aragão:::Automatic Extraction of Logig Program Transformations from Examples.
+conf/micro/MarcuelloTG99:::Pedro Marcuello::Jordi Tubella::Antonio González:::Value Prediction for Speculative Multithreaded Architectures.
+conf/micro/Chen95:::Tien-Fu Chen:::An effective programmable prefetch engine for on-chip caches.
+conf/micro/WilsonMSHP87:::James E. Wilson::Steve Melvin::Michael Shebanow::Wen-mei W. Hwu::Yale N. Patt:::On tuning the microarchitecture of an HPS implementation of the VAX.
+conf/micro/Pollack99:::Fred J. Pollack:::New Microarchitecture Challenges in the Coming Generations of CMOS Process Technologies.
+conf/micro/KandemirCRB98:::Mahmut T. Kandemir::Alok N. Choudhary::J. Ramanujam::Prithviraj Banerjee:::Improving Locality Using Loop and Data Transformations in an Integrated Framework.
+conf/micro/ThompsonHO02:::Chris J. Thompson::Sahngyun Hahn::Mark Oskin:::Using modern graphics architectures for general-purpose computing: a framework and analysis.
+conf/micro/RauchwergerDN93:::Lawrence Rauchwerger::Pradeep K. Dubey::Ravi Nair:::Measuring limits of parallelism and characterizing its vulnerability to resource constraints.
+conf/micro/SuHZWW94:::Bogong Su::Stanley Habib::Wei Zhao::Jian Wang::Youfeng Wu:::A study of pointer aliasing for software pipelining using run-time disambiguation.
+conf/micro/ConteS95:::Thomas M. Conte::Sumedh W. Sathaye:::Dynamic rescheduling: a technique for object code compatibility in VLIW architectures.
+conf/micro/MelvinSP88:::Stephen W. Melvin::Michael Shebanow::Yale N. Patt:::Hardware support for large atomic units in dynamically scheduled machines.
+conf/micro/BailasK88:::A. Bailas::Larry L. Kinney:::Evaluation of a concurrent error detection method for microprogrammed control units.
+conf/micro/SmothermanKAH91:::Mark Smotherman::Sanjay Krishnamurthy::P. S. Aravind::David Hunnicutt:::Efficient DAG Construction and Heuristic Calculation for Instruction Scheduling.
+conf/micro/MowryL97:::Todd C. Mowry::Chi-Keung Luk:::Predicting Data Cache Misses in Non-Numeric Applications through Correlation Profiling.
+conf/micro/RamirezSLV02:::Alex Ramírez::Oliverio J. Santana::Josep-Lluis Larriba-Pey::Mateo Valero:::Fetching instruction streams.
+conf/micro/FarrensP91:::Matthew K. Farrens::Arvin Park:::Workload and Implementation Considerations for Dynamic Base Register Caching.
+conf/micro/FahsBCSSTPL01:::Brian Fahs::Satarupa Bose::Matthew Crum::Brian Slechta::Francesco Spadini::Tony Tung::Sanjay J. Patel::Steven S. Lumetta:::Performance characterization of a hardware mechanism for dynamic optimization.
+conf/micro/ZillesES99:::Craig B. Zilles::Joel S. Emer::Gurindar S. Sohi:::The Use of Multithreading for Exception Handling.
+conf/micro/XieWL01:::Yuan Xie::Wayne Wolf::Haris Lekatsas:::A code decompression architecture for VLIW processors.
+conf/micro/JonesA91:::Reese B. Jones::Vicki H. Allan:::Software Pipelining: An Evaluation of Enhanced Pipelining.
+conf/micro/MahlkeN96:::Scott A. Mahlke::Balas K. Natarajan:::Compiler Synthesized Dynamic Branch Prediction.
+conf/micro/HuangHHO92:::Shih-Hsu Huang::Cheng-Tsung Hwang::Yu-Chin Hsu::Yen-Jen Oyang:::A new approach to schedule operations across nested-ifs and nested-loops.
+conf/micro/OkunoOT87:::Hiroshi G. Okuno::Nobuyasu Osato::Ikuo Takeuchi:::Firmware approach to fast Lisp interpreter.
+conf/micro/MulderPSV88:::J. M. Mulder::R. J. Portier::A. Srivastava::R. in't Velt:::Efficient macro-code emulation in hardwired pipelined processors.
+conf/micro/GovindarajanAG94:::Ramaswamy Govindarajan::Erik R. Altman::Guang R. Gao:::Minimizing register requirements under resource-constrained rate-optimal software pipelining.
+conf/micro/Allan89a:::Vicki H. Allan:::Peephole optimization as a targeting and coupling tool.
+conf/micro/AllanM87:::Vicki H. Allan::Robert A. Mueller:::Phase coupling for horizontal microcode generation.
+conf/micro/YoungS98:::Cliff Young::Michael D. Smith:::Better Global Scheduling Using Path Profiles.
+conf/micro/TysonFP92:::Gary S. Tyson::Matthew K. Farrens::Andrew R. Pleszkun:::MISC: a Multiple Instruction Stream Computer.
+conf/micro/LefurgyBCM97:::Charles Lefurgy::Peter L. Bird::I-Cheng K. Chen::Trevor N. Mudge:::Improving Code Density Using Compression Techniques.
+conf/micro/BrownSP01:::Mary D. Brown::Jared Stark::Yale N. Patt:::Select-free instruction scheduling logic.
+conf/micro/AbrahamSWRG93:::Santosh G. Abraham::Rabin A. Sugumar::Daniel Windheiser::B. Ramakrishna Rau::Rajiv Gupta:::Predictability of load/store instruction latencies.
+conf/micro/NestorSM89:::J. A. Nestor::B. Soudan::Z. Mayet:::MIES: a microarchitecture design tool.
+conf/micro/MoudgillPV93:::Mayan Moudgill::Keshav Pingali::Stamatis Vassiliadis:::Register renaming and dynamic speculation: an alternative approach.
+conf/micro/Keukes00:::Phil Keukes:::Defect tolerant molecular electronics: algorithms, architectures, and atoms.
+conf/micro/LoCCL94:::Raymond Lo::Sun Chan::Fred C. Chow::Shin-Ming Liu:::Improving resource utilization of the MIPS R8000 via post-scheduling global instruction distribution.
+conf/micro/ChangCLH88:::J. H. Chang::H. H. Chao::K. Lewis::M. Holland:::Control store implementation of a high performance VLSI CISC.
+conf/micro/HoogerbruggeCM91:::Jan Hoogerbrugge::Henk Corporaal::Hans Mulder:::Software Pipelining for Transport-Triggered Architectures.
+conf/micro/EichenbergerD95a:::Alexandre E. Eichenberger::Edward S. Davidson:::Stage scheduling: a technique to reduce the register requirements of a modulo schedule.
+conf/micro/MulderS89:::Hans Mulder::P. Stravers:::A flexible VLSI core for an adaptable architecture.
+conf/micro/SemeraroADMDS02:::Greg Semeraro::David H. Albonesi::Steve Dropsho::Grigorios Magklis::Sandhya Dwarkadas::Michael L. Scott:::Dynamic frequency and voltage control for a multiple clock domain microarchitecture.
+conf/micro/SeznecC92:::André Seznec::Karl Courtel:::Controlling and sequencing a heavily pipelined floating-point operator.
+conf/micro/GrunwaldG02:::Dirk Grunwald::Soraya Ghiasi:::Microarchitectural denial of service: insuring microarchitectural fairness.
+conf/micro/Gocal90:::Beverly Gocal:::PRISM architecture: parallel and pipeline features.
+conf/micro/TysonA97:::Gary S. Tyson::Todd M. Austin:::Improving the Accuracy and Performance of Memory Communication Through Renaming.
+conf/micro/ZalameaLAV01:::Javier Zalamea::Josep Llosa::Eduard Ayguadé::Mateo Valero:::Modulo scheduling with integrated register spilling for clustered VLIW architectures.
+conf/micro/AndrewsL88:::M. Andrews::F. Lam:::A new rapid prototyping firmware (RPF) tool.
+conf/micro/ChangA90:::C. Hwa Chang::Hammad K. Azzam:::A weighted technique for programmable logic devices minimization.
+conf/micro/VachharajaniVPBA02:::Manish Vachharajani::Neil Vachharajani::David A. Penry::Jason A. Blome::David I. August:::Microarchitectural exploration with Liberty.
+conf/mikro/Meier90:::W. Meier:::Hierarchical Netlist Extraction and Design Rule Check.
+conf/minar/WeiLS98:::Gang Wei::Dongge Li::Ishwar K. Sethi:::Web-WISE: Compressed Image Retrieval over the Web.
+conf/minar/Perner98:::Petra Perner:::Content-Based Image Indexing and Retrieval in an Image Database for Technical Domains.
+conf/mkern/Wiecek92:::Cheryl A. Wiecek:::A Model and Prototype of VMS Using the Mach 3.0 Kernel.
+conf/mkern/Reynolds92:::Franklin Reynolds:::An Architectural Overview of Alpha: A Real-Time, Distributed Kernel.
+conf/mlics/NobleSP95:::Brian Noble::Mahadev Satyanarayanan::Morgan Price:::A Programming Interface for Application-Aware Adaptation in Mobile Computing.
+conf/mlmta/SabhnaniS03:::Maheshkumar Sabhnani::Gürsel Serpen:::Application of Machine Learning Algorithms to KDD Intrusion Detection Dataset within Misuse Detection Context.
+conf/mlmta/Rushton03:::J. Nelson Rushton:::Natural Language Parsing Using Simple Neural Networks.
+conf/napaw/GodskesenL92:::Jens Chr. Godskesen::Kim Guldstrand Larsen:::Real-Time Calculi and Expansion Theorems.
+conf/napaw/CostaC92:::Rosvelter João Coelho da Costa::Jean-Pierre Courtiat:::A Causality-based Semantics for CCS.
+conf/mmnet/ScholtenHB95:::Hans Scholten::Marcel Heijmans::Gerrit-Jan Bloem:::Helicon - A Distributed Multimedia Framework (Abstract).
+conf/mmnet/CourtiatO95:::Jean-Pierre Courtiat::Roberto C. de Oliveira:::RT-LOTOS and Its Application to Multimedia Protocol Specification and Validation.
+conf/mmnet/SmitH95:::Gerard J. M. Smit::Paul J. M. Havinga:::Multicast and Broadcast in the Rattlesnake ATM Switch.
+conf/mobis/BeckerKS03:::Jörg Becker::Karsten Klose::Martin Schneider:::Prozessmodellbasierte Vertragsgestaltung in überbetrieblichen Kooperationen.
+conf/mobis/Knobloch03:::Bernd Knobloch:::Eine Methodik zur ganzheitlichen Analyse und Gestaltung von Customer-Relationship-Management-Systemen.
+conf/mobis/EckertSMS03:::Sven Eckert::Martin Schissler::Stephan Mantel::Claus Schäffner:::Entwicklung von Kopplungsarchitekturen - Evaluierung einer Methodik anhand eines Beispiels aus der Automobilzulieferindustrie.
+conf/model/Zilber89:::B. Zil'ber:::Some Remarks on Model Theory of Algebraically Closed Fields.
+conf/model/Basarab89:::Serban A. Basarab:::Morgan-Shalen Compactification of affine algebraic varieties over local fields.
+conf/model/Sochor89:::A. Sochor:::Submodels Satisfying ZF<sub>Fin</sub>.
+conf/model/Macpherson89:::H. D. Macpherson:::Universal Closed Permutation Groups.
+conf/ngits/Wolfson02:::Ouri Wolfson:::Moving Objects Information Management: The Database Challenge.
+conf/ngits/NgL97:::Wilfred Ng::Mark Levene:::OSQL: An Extension to SQL to Manipulate Ordered Relational Databases.
+conf/ngits/LeiR97:::Hui Lei::Kenneth A. Ross:::Faster Joins, Self Joins and Multi-Way Joins Using Join Indices.
+conf/ngits/ShovalS95:::Peretz Shoval::Sagit Shiran:::An Experimental Comparison of Entity-Relationship and Object-Oriented Model on Quality of Design.
+conf/ngits/EloviciSM02:::Yuval Elovici::Bracha Shapira::Adlai Maschiach:::A New Privacy Model for Web Surfing.
+conf/ngits/KonopnickiS99:::David Konopnicki::Oded Shmueli:::WWW Exploration Queries.
+conf/ngits/AnkerCDK97:::Tal Anker::Gregory Chockler::Danny Dolev::Idit Keidar:::The Caelum Toolkit for CSCW: The Sky is the Limit.
+conf/ngits/Ranft93:::Michael Ranft:::Integrating Multiple Concurrency Control Algorithms.
+conf/ngits/KoganMSS97:::Yakov A. Kogan::David Michaeli::Yehoshua Sagiv::Oded Shmueli:::Utilizing the Multiple Facets of WWW Contents.
+conf/ngits/SlonimLA93:::Jacob Slonim::Per-Åke Larson::Gopi K. Attaluri:::Advanced Transaction Systems in CORDS Multidatabase System Environment.
+conf/ngits/BalakrishnanCL97:::J. Balakrishnan::C. Cheng::A. Lee:::A Neural Network Approach for Software Development Cost Estimation.
+conf/ngits/KemperMW93:::Alfons Kemper::Guido Moerkotte::Hans-Dirk Walter:::Autonomous Objects: A Natural Model for Complex Applications.
+conf/ngits/Kilov93:::Haim Kilov:::Information Modeling and Object Z: Specifying Generic Reusable Applications.
+conf/ngits/MacskassyS97:::S. Macskassy::Leon A. Shklar:::Maintaining Information Resources.
+conf/ngits/OliveiraRL99:::Claudia Oliveira::Luis Gustavo Varges Resende::Roberto Lehmann:::Interactive Query Expansion in a Meta-search Engine.
+conf/ngits/GidronBA99:::Yoad Gidron::Israel Ben-Shaul::Yariv Aridor:::Dynamic Configuration and Enforcement of Access Control for Mobile Components.
+conf/nmelp/AlferesP94:::José Júlio Alferes::Luís Moniz Pereira:::An Argumentation Theoretic Semantics Based on Non-Refutable Falsity.
+conf/nmelp/OsorioJ96:::Mauricio Osorio::Bharat Jayaraman:::Aggregation and Well-Founded Semantics.
+conf/nlprs/NakagawaKM01:::Tetsuji Nakagawa::Taku Kudoh::Yuji Matsumoto:::Unknown Word Guessing and Part-of-Speech Tagging Using Support Vector Machines.
+conf/nlprs/HisamitsuN01:::Toru Hisamitsu::Yoshiki Niwa:::Topic-Word Selection Based on Combinatorial Probability.
+conf/nlprs/Tsujii01:::Jun-ichi Tsujii:::Are NLP technologies really ready for application? (Panel).
+conf/nlprs/PengS01:::Fuchun Peng::Dale Schuurmans:::A Simple Closed-Class/Open-Class Factorization for Improved Language Modeling.
+conf/nlprs/KangW01:::Seung-Shik Kang::Chong-Woo Woo:::Automatic Segmentation of Words using Syllable Bigram Statistics.
+conf/nlprs/MartinsR01:::Camilla Brandel Martins::Lucia Helena Machado Rino:::Pruning UNL texts for Summarizing Purposes.
+conf/nlprs/SerassetM01:::Gilles Sérasset::Mathieu Mangeot:::Papillon Lexical Database Project: Monolingual Dictionaries &amp; Interlingual Links.
+conf/nlprs/TakedaNNKSMNMT01:::Koichi Takeda::Hiroshi Nomiyama::Tetsuya Nasukawa::Mei Kobayashi::Takashi Sakairi::Hirofumi Matsuzawa::Tohru Nagano::Akiko Murakami::Hironori Takeuchi:::Text Mining and Site Outlining Projects.
+conf/nlprs/YangKSCP01:::Seong-il Yang::Young Kil Kim::Young Ae Seo::Sung-Kwon Choi::Sang-Kyu Park:::Korean to English TV Caption Translator: ""CaptionEye/KE"".
+conf/nlulp/Hess84:::Michael Hess:::About the Role of Control Information in Natural Language Question Answering Systems.
+conf/nlulp/Dahlgren87:::Kathleen Dahlgren:::Using Commonsense Knowledge to Disambiguate Word Sense.
+conf/nlulp/Hasle91:::Per F. V. Hasle:::Building a Temporal Logic for Natural Language Understanding with the HOL-system.
+conf/obpdc/JacquemotJC95:::Christian Jacquemot::Peter Starup Jensen::Stéphane Carrez:::CHORUS/COOL: CHORUS Object Oriented Technology.
+conf/obpdc/DarcheRC95:::Philippe Darche::Pierre-Guillaume Raverdy::Eric Commelin:::ActNet: The Actor Model Applied to Mobile Robotic Environments.
+conf/obpdc/BellissardAKR95:::Luc Bellissard::Slim Ben Atallah::Alain Kerbrat::Michel Riveill:::Component-Based Programming and Application Management with Olan.
+conf/chorochronos/MirbelPTVV03:::Isabelle Mirbel::Barbara Pernici::Babis Theodoulidis::Alex Vakaloudis::Michalis Vazirgiannis:::Advanced Uses: Composing Interactive Spatio-temporal Documents.
+conf/chorochronos/BreunigTBDGJRRSS03:::Martin Breunig::Can Türker::Michael H. Böhlen::Stefan Dieker::Ralf Hartmut Güting::Christian S. Jensen::Lukas Relly::Philippe Rigaux::Hans-Jörg Schek::Michel Scholl:::Architectures and Implementations of Spatio-temporal Database Management Systems.
+conf/pakdd/ZhongD02:::Ning Zhong::Juzhen Dong:::Mining Interesting Rules in Meningitis Data by Cooperatively Using GDT-RS and RSBR.
+conf/pakdd/JensenS00:::Viviane Crestana-Jensen::Nandit Soparkar:::Frequent Itemset Counting Across Multiple Tables.
+conf/pakdd/ChoW98:::Vincent Cho::Beat Wüthrich:::Towards Real Time Discovery from Distributed Information Sources.
+conf/pakdd/Estivill-CastroH99:::Vladimir Estivill-Castro::Michael E. Houle:::Robust Clustering of Large Geo-referenced Data Sets.
+conf/pakdd/HanC00:::Jianchao Han::Nick Cercone:::AViz: A Visualization System for Discovering Numeric Association Rules.
+conf/pakdd/HanC02:::Jianchao Han::Nick Cercone:::Interactive Construction of Classification Rules.
+conf/pakdd/ParkZ03:::Seong-Bae Park::Byoung-Tak Zhang:::Large Scale Unstructured Document Classification Using Unlabeled Data and Syntactic Information.
+conf/pakdd/HoNM99:::Tu Bao Ho::Ngoc Binh Nguyen::Takafumi Morita:::Study of a Mixed Similarity Measure for Classification and Clustering.
+conf/pakdd/Lin99:::Tsau Young Lin:::Data Mining: Granular Computing Approach.
+conf/pakdd/Pawlak99:::Zdzislaw Pawlak:::Data Mining - a Rough Set Perspective.
+conf/pakdd/KimL01:::DaeEun Kim::Jaeho Lee:::Rule Reduction over Numerical Attributes in Decision Tree Using Multilayer Perceptron.
+conf/pakdd/LiLD03:::Zhigang Li::Liangang Liu::Margaret H. Dunham:::Considering Correlation between Variables to Improve Spatiotemporal Forecasting.
+conf/pakdd/LiRD01:::Jinyan Li::Kotagiri Ramamohanarao::Guozhu Dong:::Combining the Strength of Pattern Frequency and Distance for Classification.
+conf/pakdd/LuLT98:::Ying Lu::Huan Liu::Chew Lim Tan:::CFMD: A Conflict-Free Multivariate Discretization Algorithm.
+conf/pakdd/MataAR02:::Jacinto Mata Vázquez::José Luis Álvarez Macías::José Cristóbal Riquelme Santos:::Discovering Numeric Association Rules via Evolutionary Algorithm.
+conf/pakdd/HarringtonHKPW03:::Edward Harrington::Ralf Herbrich::Jyrki Kivinen::John C. Platt::Robert C. Williamson:::Online Bayes Point Machines.
+conf/pakdd/YahiaJ99:::Sadok Ben Yahia::Ali Jaoua:::BRRA: A Based Relevant Rectangles Algorithm for Mining Relationships in Databases.
+conf/pakdd/PerrochonMKL99:::Louis Perrochon::Walter Mann::Stephane Kasriel::David C. Luckham:::Event Mining with Event Processing Networks.
+conf/pakdd/Rumantir00:::Grace W. Rumantir:::Minimum Message Length Criterion for Second-Order Polynomial Model Disovery.
+conf/pakdd/YeYYC03:::Chen-zhou Ye::Jie Yang::Li-xiu Yao::Nian-yi Chen:::Improving Performance of Decision Tree Algorithms with Multi-edited Nearest Neighbor Rule.
+conf/pakdd/JiangTT99:::Mon-Fong Jiang::Shian-Shyong Tseng::Chang-Jiun Tsai:::Discovering Structure from Document Databases.
+conf/pakdd/DomingoW00:::Carlos Domingo::Osamu Watanabe:::Scaling Up a Boosting-Based Learner via Adaptive Sampling.
+conf/pakdd/KowalczykP98:::W. Kowalczyk::Zdzislaw Piasta:::Rough-Set Inspired Approach to Knowledge Discovery in Business Databases.
+conf/pakdd/NguyenHS01:::Trong Dung Nguyen::Tu Bao Ho::Hiroshi Shimodaira:::A Scalable Algorithm for Rule Post-pruning of Large Decision Trees.
+conf/pakdd/KeoghP00:::Eamonn J. Keogh::Michael J. Pazzani:::A Simple Dimensionality Reduction Technique for Fast Similarity Search in Large Time Series Databases.
+conf/pakdd/LeeLC99:::K. L. Lee::Guanling Lee::Arbee L. P. Chen:::Efficient Graph-Based Algorithm for Discovering and Maintaining Knowledge in Large Databases.
+conf/pakdd/LinCH02:::Jung-Yi Lin::Been-Chian Chien::Tzung-Pei Hong:::A Function-Based Classifier Learning Scheme Using Genetic Programming.
+conf/pakdd/Zheng98:::Zijian Zheng:::Scaling Up the Rule Generation of C4.5.
+conf/pakdd/HuSLWS01:::Keyun Hu::Yuefei Sui::Yuchang Lu::Ju Wang::Chunyi Shi:::Concept Approximation in Concept Lattice.
+conf/pakdd/PramudionoSTK99:::Iko Pramudiono::Takahiko Shintani::Takayuki Tamura::Masaru Kitsuregawa:::Parallel SQL Based Association Rule Mining on Large Scale PC Cluster: Performance Comparison with Directly Coded C Implementation.
+conf/pakdd/AnandH98:::Sarabjot S. Anand::John G. Hughes:::Hybrid Data Mining Systems: The Next Generation.
+conf/pakdd/HongZWS03:::Mingsheng Hong::Haofeng Zhou::Wei Wang::Baile Shi:::An Efficient Algorithm of Frequent Connected Subgraph Extraction.
+conf/pakdd/ZighedCT99:::Djamel A. Zighed::Myriam Côté::Nader Troudi:::The Data-Mining and the Technology af Agents to Fight the Illicit Electronic Messages.
+conf/pakdd/FurukawaUYMSN02:::Kazuyoshi Furukawa::Tomoyuki Uchida::Kazuya Yamada::Tetsuhiro Miyahara::Takayoshi Shoudai::Yasuaki Nakamura:::Extracting Characteristic Structures among Words in Semistructured Documents.
+conf/pakdd/LiuCHFH01:::Zhenyu Liu::Wesley W. Chu::Adam Huang::Chris Folk::Chih-Ming Ho:::Mining Sequence Patterns from Wind Tunnel Experimental Data for Flight Control.
+conf/pakdd/VladutuPMB01:::Liviu Vladutu::Stergios Papadimitriou::Seferina Mavroudi::Anastasios Bezerianos:::Generalised RBF Networks Trained Using an IBL Algorithm for Mining Symbolic Data.
+conf/pakdd/ShibataIKMI99:::Daisuke Shibata::Nobuhiro Inuzuka::Shohei Kato::Tohgoroh Matsui::Hidenori Itoh:::An Induction Algorithm Based on Fuzzy Logic Programming.
+conf/pakdd/Tsukimoto99:::Hiroshi Tsukimoto:::Rule Extraction from Prediction Models.
+conf/pakdd/StrzikS98:::Zbigniew R. Struzik::Arno Siebes:::Wavelet Transform in Similarity Paradigm.
+conf/parco/Baum97:::M. Baum:::Performing DNS of Turbulent Combustion with Detailed Chemistry on Parallel Computers.
+conf/parco/Jakobus97:::U. Jakobus:::Parallel Computation of the Electromagnetic Field of Hand-Held Mobile Telephones Radiating Close to the Human Head.
+conf/parco/KubotaTMSTHI97:::Kazuto Kubota::Y. Tanaka::M. Matsuda::Mitsuhisa Sato::Hiroshi Tezuka::Atsushi Hori::Yutaka Ishikawa:::Communication Performance of Gigabit LAN Workstation Cluster RWC/WSC.

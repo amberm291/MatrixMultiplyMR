@@ -1,0 +1,200 @@
+journals/networks/Eppstein00:::David Eppstein:::Clustering for faster network simplex pivots.
+journals/networks/BalbuenaFMP02:::C. Balbuena::Josep Fàbrega::X. Marcote::I. Pelayo:::Superconnected digraphs and graphs with small conditional diameters.
+journals/networks/GouveiaM00:::Luis Gouveia::Pedro Martins:::A hierarchy of hop-indexed models for the Capacitated Minimum Spanning Tree Problem.
+journals/networks/Sastry00:::S. Trilochan Sastry:::A characterization of the two-commodity network design problem.
+journals/networks/ShiouraS97:::Akiyoshi Shioura::Maiko Shigeno:::The tree center problems and the relationship with the bottleneck knapsack problems.
+journals/networks/HochbaumP96:::Dorit S. Hochbaum::Anu Pathria:::The bottleneck graph partition problem.
+journals/networks/Aboelaze96:::Mokhtar Aboelaze:::MLH: A hierarchical hypercube network.
+journals/networks/KulasingheB99:::Priyalal Kulasinghe::Saïd Bettayeb:::An optimal algorithm for layered wheel floorplan designs.
+journals/networks/BlanchiniQRU96:::Franco Blanchini::Maurice Queyranne::Franca Rinaldi::Walter Ukovich:::A feedback strategy for periodic network flows.
+journals/networks/MatsubayashiU99:::Akira Matsubayashi::Shuichi Ueno:::Small congestion embedding of graphs into hypercubes.
+journals/simulation/GevorgianK98:::Vahagn Gevorgian::Mark Kaiser:::Fuel Distribution and Consumption Simulation in the Republic of Armenia.
+journals/simulation/ZaricBBO98:::Gregory S. Zaric::Margaret L. Brandeau::Ahmed M. Bayoumi::Douglas K. Owens:::The Effects of Protease Inhibitors on the Spread of HIV and the Development of Drug-Resistant HIV Strains: A Simulation Study.
+journals/concurrency/Fahringer96:::Thomas Fahringer:::On estimating the useful work distribution of parallel programs under P3T: a static performance estimator.
+journals/concurrency/CrooksP98:::P. Crooks::Ronald H. Perrott:::An automatic data distribution generator for distributed memory machines.
+journals/concurrency/Fidanova97:::Stefka Fidanova:::Linear Array for Spelling Correction.
+journals/concurrency/Choi98:::Jaeyoung Choi:::A new parallel matrix multiplication algorithm on distributed-memory concurrent computers.
+journals/concurrency/FosterGNST98:::Ian T. Foster::Jonathan Geisler::Bill Nickless::Warren Smith::Steven Tuecke:::Software infrastructure for the I-WAY metacomputing experiment.
+journals/concurrency/Fox00a:::Geoffrey Fox:::Special Issue: ACM 1999 Java Grande Conference (Editorial).
+journals/concurrency/SzafronS96:::Duane Szafron::Jonathan Schaeffer:::An experiment to measure the usability of parallel programming systems.
+journals/concurrency/HartensteinBKR96:::Reiner W. Hartenstein::Jürgen Becker::Rainer Kress::Helmut Reinig:::High-performance computing using a reconfigurable accelerator.
+journals/concurrency/WatsonBCHKC02:::William A. Watson III::Ian Bird::Jie Chen::Bryan Hess::Andy Kowalski::Ying Chen:::A Web services data analysis Grid.
+journals/concurrency/NarasimhanA96:::V. Lakshmi Narasimhan::J. Armstrong:::Performance modelling of three parallel sorting algorithms on a pipelined transputer network.
+journals/concurrency/Fox00:::Geoffrey Fox:::Special Issue: ACM 1999 Java Grande Conference (Editorial).
+journals/concurrency/PauwS00:::Wim De Pauw::Gary Sevitsky:::Visualizing reference patterns for solving memory leaks in Java.
+journals/concurrency/KimK90:::Y. Kim::M. Kim:::A Step-wise-overlapped Parallel Annealing Algorithm on a Message-passing Multiprocessor System.
+journals/concurrency/LiZM96:::Xi Li::Sotirios G. Ziavras::Constantine N. Manikopoulos:::Parallel DSP algorithms on TurboNet: an experimental system with hybrid message-passing/shared-memory architecture.
+journals/concurrency/Lyon02:::Douglas Lyon:::Simulating multiple inheritance in Java.
+journals/concurrency/DamasSOOP01:::Miguel Damas::Moisés Salmerón::Julio Ortega::G. Olivares::Héctor Pomares:::Parallel dynamic water supply scheduling in a cluster of computers.
+journals/concurrency/CoetzeeB98:::Louis Coetzee::Elizabeth C. Botha:::The parallel downhill simplex algorithm for unconstrained optimisation.
+journals/concurrency/LecomberSS00:::David Lecomber::Constantinos J. Siniolakis::K. R. Sujithan:::PRAM programming: in theory and in practice.
+journals/concurrency/LeuzeDP89:::Michael R. Leuze::Lawrence W. Dowdy::K.-H. Park:::Multiprogramming a Distributed-Memory Multiprocessor.
+journals/concurrency/FujishiroCTNS02:::Issei Fujishiro::Li Chen::Yuriko Takeshima::Hiroko Nakamura::Yasuko Suzuki:::Parallel visualization of gigabyte datasets in GeoFEM.
+journals/concurrency/SmithGB97:::Taber H. Smith::Aaron E. Gower::Duane S. Boning:::A Matrix Math Library for Java.
+journals/concurrency/JamesS00:::Jerry James::Ambuj K. Singh:::Design of the Kan distributed object system.
+journals/concurrency/DarlingtonRW90:::John Darlington::Mike Reeve::Sue Wright:::Declarative Languages and Program Transformation for Programming Parallel Systems.
+journals/concurrency/YutakaTY00:::Oiwa Yutaka::Kenjiro Taura::Akinori Yonezawa:::Extending Java virtual machine with integer-reference conversion.
+journals/concurrency/JonesK00:::Joel Jones::Samuel N. Kamin:::Annotating Java class files with virtual registers for performance.
+journals/concurrency/XingM02:::H. L. Xing::Akifumi Makinouchi:::Finite-element modeling of multibody contact and its application to active faults.
+journals/concurrency/JacksonT96:::David Jeff Jackson::Greg Scott Tinney:::Performance analysis of distributed implementations of a fractal image compression algorithm.
+journals/concurrency/Novotny02:::Jason Novotny:::The Grid Portal Development Kit.
+journals/concurrency/HoekstraSLMVH96:::Alfons G. Hoekstra::Peter M. A. Sloot::Frank van der Linden::M. van Muiswinkel::J. J. J. Vesseur::Louis O. Hertzberger:::Native and generic parallel programming environments on a transputer and a PowerPC platform.
+journals/concurrency/SeymourD03:::Keith Seymour::Jack Dongarra:::Automatic translation of Fortran to JVM bytecode.
+journals/concurrency/OakashaCS01:::Hussien Oakasha::Stefan Conrad::Gunter Saake:::Consistency management in object-oriented databases.
+journals/concurrency/Theobald96:::Kevin B. Theobald:::The W-Network: A low-cost fault-tolerant multistage interconnection network for fine-grain multiprocessing.
+journals/concurrency/IwashitaSKW02:::Hidetoshi Iwashita::Naoki Sueyasu::Sachio Kamiya::G. Matthijs van Waveren:::VPP Fortran and the design of HPF/JA extensions.
+journals/concurrency/KerenB98:::Arie Keren::Amnon Barak:::Adaptive placement of parallel Java agents in a scalable computing cluster.
+journals/concurrency/ThomasDMMMR02:::Mary Thomas::Maytal Dahan::Kurt Mueller::Stephen Mock::Cathie Mills::Ray Regno:::Application portals: practice and experience.
+journals/concurrency/PhilippsenZ97:::Michael Philippsen::Matthias Zenger:::JavaParty - Transparent Remote Objects in Java.
+journals/concurrency/MoreiraMG03:::José E. Moreira::Samuel P. Midkiff::Manish Gupta:::Supporting multidimensional arrays in Java.
+journals/concurrency/Boillat90:::Jacques E. Boillat:::Load Balancing and Poisson Equation in a Graph.
+journals/concurrency/McGrathLF97:::Robert E. McGrath::Xinjian Lu::Michael Folk:::Java Applications Using NCSA HDF Files.
+journals/concurrency/ShendeM03:::Sameer Shende::Allen D. Malony:::Integration and application of TAU in parallel Java environments.
+journals/concurrency/KrintzW01:::Chandra Krintz::Richard Wolski:::Using JavaNws to compare C and Java TCP-Socket performance.
+journals/concurrency/TariM01:::Zahir Tari::Robert Meersman:::Special Issue: Distributed Objects and Applications '99.
+journals/concurrency/LaszewskiRFSADNS02:::Gregor von Laszewski::Michael Russell::Ian T. Foster::John Shalf::Gabrielle Allen::Greg Daues::Jason Novotny::Edward Seidel:::Community software development with the Astrophysics Simulation Collaboratory.
+journals/concurrency/Schroeder99:::Wayne Schroeder:::The SDSC encryption/authentication (SEA) system.
+journals/concurrency/HameedHKP97:::Farooq Hameed::Susanne E. Hambrusch::Ashfaq A. Khokhar::Jamshed N. Patel:::Contour ranking on coarse grained machines: a case study for low-level vision computations.
+journals/concurrency/PhilippsenHN00:::Michael Philippsen::Bernhard Haumacher::Christian Nester:::More efficient serialization and RMI for Java.
+journals/concurrency/SchuchardtDB02:::Karen Schuchardt::Brett Didier::Gary Black:::Ecce - a problem-solving environment's evolution toward Grid services and a Web architecture.
+journals/concurrency/BoichatFG01:::Romain Boichat::Svend Frølund::Rachid Guerraoui:::Open consensus.
+journals/concurrency/Wadsworth99:::Chris Wadsworth:::Editorial: Portable software tools for parallel architectures.
+journals/concurrency/LoidlTHJMJ99:::Hans-Wolfgang Loidl::Philip W. Trinder::Kevin Hammond::Sahalu B. Junaidu::Richard G. Morgan::Simon L. Peyton Jones:::Engineering parallel symbolic programs in GPH.
+journals/concurrency/SongCL97:::Jianjian Song::Heng Kek Choo::Kuok Ming Lee:::Application-Level Load Migration and Its Implementation on Top of PVM.
+journals/concurrency/MeyerP96:::Gerard G. L. Meyer::Mike Pascale:::A family of parallel QR factorization algorithms.
+journals/concurrency/FahringerSCBBKW02:::Thomas Fahringer::K. Sowa-Pieklo::P. Czerwinski::Peter Brezany::Marian Bubak::Rainer Koppler::Roland Wismüller:::SPiDER - An advanced symbolic debugger for Fortran 90/HPF programs.
+journals/concurrency/BrorssonC00:::Mats Brorsson::Barbara M. Chapman:::Special Issue: EWOMP'99 - First European Workshop on OpenMP.
+journals/concurrency/CzarneckiE00:::Krzysztof Czarnecki::Ulrich W. Eisenecker:::Synthesizing objects.
+journals/concurrency/RodaRMA99:::José L. Roda::Casiano Rodríguez::Daniel González-Morales::Francisco Almeida:::Predicting the execution time of message passing models.
+journals/concurrency/HeberBG00:::Gerd Heber::Rupak Biswas::Guang R. Gao:::Self-Avoiding Walks over Adaptive Unstructured Grids.
+journals/concurrency/JacobPK98:::Matthias Jacob::Michael Philippsen::Martin Karrenbach:::Large-scale parallel geophysical algorithms in Java: a feasibility study.
+journals/concurrency/GuESV98:::Weiming Gu::Greg Eisenhauer::Karsten Schwan::Jeffrey S. Vetter:::Falcon: On-line monitoring for steering parallel programs.
+journals/arobots/KalmarSL98:::Zsolt Kalmár::Csaba Szepesvári::András Lrincz:::Module-Based Reinforcement Learning: Experiments with a Real Robot.
+journals/arobots/LiS99:::Guang Li::Bertil Svenson:::Navigating with a Focus-Directed Mapping Network.
+journals/arobots/Huntsberger01:::Terrance L. Huntsberger:::Biologically Inspired Autonomous Rover Control.
+journals/arobots/TrahaniasVO99:::Panos E. Trahanias::Savvas Velissaris::Stelios C. Orphanoudakis:::Visual Recognition of Workspace Landmarks for Topological Navigation.
+journals/arobots/NguyenBEFNSWZ01:::Laurent A. Nguyen::Maria Bualat::Laurence J. Edwards::Lorenzo Flueckiger::Charles Neveu::Kurt Schwehr::Michael D. Wagner::Eric Zbinden:::Virtual Reality Interfaces for Visualization and Control of Remote Vehicles.
+journals/arobots/UnsalKK01:::Cem Ünsal::Han Kiliççöte::Pradeep K. Khosla:::A Modular Self-Reconfigurable Bipartite Robotic System: Implementation and Motion Planning.
+journals/arobots/Sukhatme02:::Gaurav S. Sukhatme:::Guest Editorial.
+journals/arobots/WakitaHSHF01:::Yujin Wakita::Shigeoki Hirai::Takashi Suehiro::Toshio Hori::Kiyoshi Fujiwara:::Information Sharing via Projection Function for Coexistence of Robot and Human.
+journals/arobots/Delcomyn99:::Fred Delcomyn:::Walking Robots and the Central and Peripheral Control of Locomotion in Insects.
+journals/arobots/Tunstel01:::Edward Tunstel:::Ethology as an Inspiration for Adaptive Behavior Synthesis in Autonomous Planetary Rovers.
+journals/arobots/JungS02:::Boyoon Jung::Gaurav S. Sukhatme:::Tracking Targets Using Multiple Robots: The Effect of Environment Occlusion.
+journals/arobots/JungZ00:::David Jung::Alexander Zelinsky:::Grounded Symbolic Communication between Heterogeneous Cooperating Robots.
+journals/arobots/FuentesN98:::Olac Fuentes::Randal C. Nelson:::Learning Dextrous Manipulation Skills for Multifingered Robot Hands Using the Evolution Strategy.
+journals/arobots/AstrandB02:::Björn Åstrand::Albert-Jan Baerveldt:::An Agricultural Mobile Robot with Vision-Based Perception for Mechanical Weed Control.
+journals/arobots/Garcia99:::Christophe Garcia:::Fully Vision-based Calibration of a Hand-Eye Robot.
+journals/arobots/Matsuoka97:::Yoky Matsuoka:::The Mechanisms in a Humanoid Robot Hand.
+journals/arobots/Sgouros02:::Nikitas M. Sgouros:::Qualitative Navigation for Autonomous Wheelchair Robots in Indoor Environments.
+journals/arobots/Zheng97:::Yuan F. Zheng:::Guest Editorial.
+journals/arobots/TremblayF00:::Pierre-Jules Tremblay::Frank P. Ferrie:::The Skeptical Explorer: A Multiple-Hypothesis Approach to Visual Modeling and Exploration.
+journals/arobots/HagrasCCC02:::Hani Hagras::Martin Colley::Victor Callaghan::Malcolm Carr-West:::Online Learning and Adaptation of Autonomous Mobile Robots for Sustainable Agriculture.
+journals/arobots/Maurette03:::M. Maurette:::Mars Rover Autonomous Navigation.
+journals/arobots/MahadevanTK98:::Sridhar Mahadevan::Georgios Theocharous::Nikfar Khaleeli:::Rapid Concept Learning for Mobile Robots.
+journals/arobots/DeanKSSC99:::Jeffrey Dean::Thomas Kindermann::Josef Schmitz::Michael Schumm::Holk Cruse:::Control of Walking in the Stick Insect: From Behavior and Physiology to Modeling.
+journals/arobots/HoriuchiH01:::Timothy K. Horiuchi::Kai M. Hynna:::A VLSI-Based Model of Azimuthal Echolocation in the Big Brown Bat.
+journals/arobots/LindgrenHSM02:::D. R. Lindgren::Tony Hague::P. J. Probert Smith::John A. Marchant:::Relating Torque and Slip in an Odometric Model for an Autonomous Agricultural Vehicle.
+journals/arobots/Schenker03:::Paul S. Schenker:::Guest Introduction.
+journals/arobots/HyamsPM00:::Jeff Hyams::Mark W. Powell::Robin R. Murphy:::Cooperative Navigation of Micro-Rovers Using Color Segmentation.
+journals/arobots/BayazitSA01:::O. Burçhan Bayazit::Guang Song::Nancy M. Amato:::Enhancing Randomized Motion Planners: Exploring with Haptic Hints.
+journals/crossroads/Fu00:::Kevin Fu:::In Memory of David Huffman.
+journals/crossroads/Maxim00:::Mike Maxim:::Microsoft Windows Programming Strategies.
+journals/sigmetrics/Maffeis93:::Silvano Maffeis:::File Access Patterns in Public FTP Archives and an Index for Locality of Reference.
+journals/sigmetrics/BolzoniCMS82:::M. L. Bolzoni::Maria Calzarossa::P. Mapelli::Giuseppe Serazzi:::A Package for the Implementation of Static Workload Models.
+journals/sigmetrics/ConwayG92:::Adrian E. Conway::Nicolas D. Georganas:::Queuing Networks - Exact Computational Algorithms: A Unified Theory Based on Decomposition and Aggregation (Book Review).
+journals/sigmetrics/Hac86:::Anna Hac:::A Distributed Algorithm for Performance Improvement Through File Replication, File Migration and Process Migration.
+journals/sigmetrics/Fisher87:::Robert Fisher:::The Impact of Interactive Application Development with Codestar.
+journals/sigmetrics/RochbergG97:::David Rochberg::Garth A. Gibson:::Prefetching Over a Network: Early Experience With CTIP.
+journals/sigmetrics/Haring82:::Günter Haring:::On State-Dependent Workload Characterization by Software Resources.
+journals/sigmetrics/RomS93:::Raphael Rom::Moshe Sidi:::Multiple Access Protocols: Performance and Analysis (Book Review).
+journals/sigmetrics/Brandwajn82:::Alexandre Brandwajn:::Fast Approximate Solution of Multiprogramming Models.
+journals/sigmetrics/FateyevPD91:::A. E. Fateyev::S. M. Porotskiy::V. I. Drujinin:::Comparative Evaluation of Approximate Methods for Modelling of Network Systems.
+journals/sigmetrics/WabnigH95:::Harald Wabnig::Günter Haring:::Performance Prediction of Parallel Systems with Scalable Specifications - Methodology and Case Study.
+journals/sigmetrics/PanchalKLMOY98:::Jignesh Panchal::Owen Kelly::Jie Lai::Narayan B. Mandayam::Andrew T. Ogielski::Roy D. Yates:::Parallel Simulation of Wireless Networks with TED: Radio Propagation, Mobility and Protocols.
+journals/sigmetrics/NeuseC82:::Doug Neuse::K. Mani Chandy:::HAM: The Heuristic Aggregation Method.
+journals/sigmetrics/SmithL82:::Connie U. Smith::David D. Loendorf:::Performance Analysis of Software for an MIMD Computer.
+journals/sigmetrics/Smith92:::Connie U. Smith:::Performance Engineering of Software Systems (Book Review).
+journals/sigmetrics/MoslehHB85:::Ali Mosleh::E. Richard Hilton::Peter S. Browne:::Bayesian Probabilistic Risk Analysis.
+journals/sigmetrics/Gelenbe82:::Erol Gelenbe:::Stationary Deterministic Flows in Discrete Systems : I.
+journals/sigmetrics/OzdenRS97:::Banu Özden::Rajeev Rastogi::Abraham Silberschatz:::Architecture Issues In Multimedia Storage Systems.
+journals/sigmetrics/LarsenAA81:::Ronald L. Larsen::Jonathan R. Agre::Ashok K. Agrawala:::A Comparative Evaluation of Local Area Communication Technology.
+journals/sigmetrics/Elshoff84:::James L. Elshoff:::The Peek Measurement Program.
+journals/sigmetrics/Spiegel82:::Mitchell G. Spiegel:::Software Counting Rules: Will History Repeat Itself?
+journals/scheduling/PruhsK03:::Kirk Pruhs::Bala Kalayansundaram:::Editorial: Special Issue on On-line Scheduling.
+journals/scheduling/AgnetisAN03:::Alessandro Agnetis::Arianna Alfieri::Gaia Nicosia:::Part Batching and Scheduling in a Flexible Cell to Minimize Setup Costs.
+journals/scheduling/WrenFKKPP03:::Anthony Wren::Sarah Fores::Ann S. K. Kwan::Raymond S. K. Kwan::Margaret Parker::Les Proll:::A Flexible System for Scheduling Drivers.
+journals/scheduling/MiggeJN03:::Jorn Migge::Alain Jean-Marie::Nicolas Navet:::Timing Analysis of Compound Scheduling Policies: Application to Posix1003.1B.
+journals/scheduling/ChangY03:::Ee-Chien Chang::Chee Yap:::Competitive On-Line Scheduling with Level of Service.
+journals/informs/KijowskiP97:::B. A. Kijowski::U. S. Palekar:::Optimal Resource Assignment of Preemptive Periodic Tasks on Multiple Processors.
+journals/informs/DeuermeyerCDV97:::Bryan L. Deuermeyer::Guy L. Curry::Andrew T. Duchowski::Srilakshmi Venkatesh:::An Automatic Approach to Deadlock Detection and Resolution in Discrete Simulation Systems.
+journals/informs/FishmanY97:::George S. Fishman::L. Stephen Yarberry:::An Implementation of the Batch Means Method.
+journals/informs/Gondzio97:::Jacek Gondzio:::Presolove Analysis of Linear Programs Prior to Applying an Interior Point Method.
+journals/informs/SchollK97:::Armin Scholl::Robert Klein:::SALOME: A Bidirectional Branch-and-Bound Procedure for Assembly Line Balancing.
+journals/informs/CrainicTG97:::Teodor Gabriel Crainic::Michel Toulouse::Michel Gendreau:::Toward a Taxonomy of Parallel Tabu Search Heuristics.
+journals/informs/LEcuyerC97:::Pierre L'Ecuyer::Raymond Couture:::An Implementation of the Lattice and Spectral Tests for Multiple Recursive Linear Random Number Generators.
+journals/informs/KakuM97:::Bharat K. Kaku::Joseph B. Mazzola:::A Tabu-Search Heuristic for the Dynamic Plant Layout Problem.
+journals/informs/BennettB97:::Kristin P. Bennett::Erin J. Bredensteiner:::A Parametric Optimization Method for Machine Learning.
+journals/informs/Chinneck97:::John W. Chinneck:::Finding a Useful Subset of Constraints for Analysis in an Infeasible Linear Program.
+journals/informs/CohenHRB97:::David M. Cohen::Daniel P. Heyman::Asya Rabinovitch::Danit Brown:::A Parallel Implementation of the GTH Algorithm.
+journals/informs/BabayevGR97:::Djangir A. Babayev::Fred Glover::Jennifer Ryan:::A New Knapsack Solution Approach by Integer Equivalent Aggregation and Consistency Determination.
+journals/informs/DaleyS97:::D. J. Daley::Leslie D. Servi:::Estimating Waiting Times from Transactional Data.
+journals/sLogica/MontagnaO02:::Franco Montagna::Hiroakira Ono:::Kripke Semantics, Undecidability and Standard Completeness for Esteva and Godo's Logic MTL[forall].
+journals/sLogica/FittingTV01:::Melvin Fitting::Lars Thalmann::Andrei Voronkov:::Term-Modal Logics.
+journals/sLogica/Wansing00:::Heinrich Wansing:::The Idea of a Proof-Theoretic Semantics and the Meaning of the Logical Operations.
+journals/sLogica/Troelstra99:::A. S. Troelstra:::Marginalia on Sequent Calculi.
+journals/sLogica/Zakharyaschev97:::Michael Zakharyaschev:::The Greatest Extension of S4 into which Intuitionistic Logic is Embeddable.
+journals/sLogica/Madarasz99:::Judit X. Madarász:::Interpolation and Amalgamation; Pushing the Limits. Part II.
+journals/sLogica/GhilardiM99:::Silvio Ghilardi::Pierangelo Miglioli:::On Canonicity and Strong Completeness Conditions in Intermediate Propositional Logics.
+journals/sLogica/Nelson98:::George C. Nelson:::Preservation Theorems Without Continuum Hypothesis.
+journals/sLogica/DyckhoffP98:::Roy Dyckhoff::Luis Pinto:::Cut-Elimination and a Permutation-Free Sequent Calculus for Intuitionistic Logic.
+journals/sLogica/LewinMS00:::Renato A. Lewin::Irene F. Mikenberg::María G. Schwarze:::Algebras and Matrices for Annotated Logics.
+journals/sLogica/Bezhanishvili01:::Guram Bezhanishvili:::Glivenko Type Theorems for Intuitionistic Modal Logics.
+journals/sLogica/Kerth98:::Rainer Kerth:::Isomorphism and Equational Equivalence of Continuous [lambda]-Models.
+journals/sLogica/Benthem98:::Johan van Benthem:::Program Constructions that are Safe for Bisimulation.
+journals/sLogica/AdillonV00:::Romà J. Adillon::Ventura Verdú:::On a Contraction-Less Intuitionistic Propositional Logic with Conjunction and Fusion.
+journals/sLogica/DuntschSW01:::Ivo Düntsch::Gunther Schmidt::Michael Winter:::A Necessary Relation Algebra for Mereotopology.
+journals/sLogica/Dudek02:::Józef Dudek:::Affine Spaces over GF(3).
+journals/sLogica/Krivtsov00:::Victor N. Krivtsov:::A Negationless Interpretation of Intuitionistic Theories, II.
+journals/sLogica/BasinMV98:::David A. Basin::Seán Matthews::Luca Viganò:::Natural Deduction for Non-Classical Logics.
+journals/sLogica/Hodkinson02a:::Ian M. Hodkinson:::Monodic Packed Fragment with Equality is Decidable.
+journals/sLogica/BatensM01:::Diderik Batens::Joke Meheus:::Shortcuts and Dynamic Marking in the Tableau Method for Adaptive Logics.
+journals/sLogica/ChiaraM99:::Maria Luisa Dalla Chiara::Daniele Mundici:::Preface.
+journals/sLogica/PogorzelskiW01:::Witold A. Pogorzelski::Piotr Wojtylak:::Cn-Definitions of Propositional Connectives.
+journals/sLogica/GabbayO98:::Dov M. Gabbay::Nicola Olivetti:::Algorithmic Proof Methods and Cut Elimination for Implicational Logics Part I: Modal Implication.
+journals/sLogica/AghaeiA01:::Mojtaba Aghaei::Mohammad Ardeshir:::Gentzen-Style Axiomatizations for Some Conservative Extensions of Basic Propositional Logic.
+journals/kognitionswissenschaft/Mallot99:::Hanspeter A. Mallot:::Spatial cognition: Behavioral competences, neural mechanisms, and evolutionary scaling.
+journals/kognitionswissenschaft/Lenzen97:::Wolfgang Lenzen:::Schatten über den Geist, Eine kritische Rezension der Bücher von Roger Penrose.
+journals/kognitionswissenschaft/Weber97:::Gerhard Weber:::Leitthema: Analogien.
+journals/kognitionswissenschaft/Tack97:::Werner H. Tack:::Kognitionswissenschaft: eine Interdisziplin.
+journals/kognitionswissenschaft/Jameson97:::Anthony Jameson:::KOGWIS96: Wie interdisziplinär?
+journals/kognitionswissenschaft/Byrne98:::Ruth M. J. Byrne:::Spatial Mental Models in Counterfactual Thinking About What Might Have Been Räumliche mentale Modelle beim kontrafaktischen Denken über das, was sein hätte können.
+journals/kognitionswissenschaft/StrasserRW02:::Anna Strasser::Sandra Riedewald::Stephan Weibelzahl:::5. Fachtagung der Gesellschaft für Kognitionswissenschaft KogWis01.
+journals/kognitionswissenschaft/Schumacher98:::Ralph Schumacher:::Bericht von der interdisziplinären Tagung Bild, Bildwahrnehmung, Bildverarbeitung in Magdeburg vom 5. bis 8. März 1997.
+journals/kognitionswissenschaft/Melis97:::Erica Melis:::Beweisen durch Analogie.
+journals/kognitionswissenschaft/GoebelV91:::Rainer Goebel::Dirk Vorberg:::Das Lösen rekursiver Programmierprobleme: Ein Simulationsmodell.
+journals/algorithmica/ShachnaiH98:::Hadas Shachnai::Micha Hofri:::The List Update Problem: Improved Bounds for the Counter Scheme.
+journals/algorithmica/LanthierMS01:::Mark Lanthier::Anil Maheshwari::Jörg-Rüdiger Sack:::Approximating Shortest Paths on Weighted Polyhedral Surfaces.
+journals/algorithmica/SifronyS87:::Shmuel Sifrony::Micha Sharir:::A New Efficient Motion-Planning Algorithm for a Rod in Two-Dimensional Polygonal Space.
+journals/algorithmica/Ayeb02:::Béchir el Ayeb:::Fault Identification in System-Level Diagnosis: a Logic-Based Framework and an O(n<sup>2</sup>sqrt(tau/log n) Algorithm.
+journals/algorithmica/Chen97:::Lin Chen:::Efficient Parallel Recognition of Some Circular Arc Graphs, II.
+journals/algorithmica/Irani02a:::Sandy Irani:::Page Replacement with Multi-Size Pages and Applications to Web Caching.
+journals/algorithmica/MunroR96:::J. Ian Munro::Venkatesh Raman:::Fast Stable In-Place Sorting with <i>O (n)</i> Data Moves.
+journals/algorithmica/BachS93:::Eric Bach::Jonathan Sorenson:::Sieve Algorithms for Perfect Power Testing.
+journals/algorithmica/ChernH01:::Hua-Huai Chern::Hsien-Kuei Hwang:::Transitional Behaviors of the Average Cost of Quicksort with Median-of-(2t+1).
+journals/algorithmica/BrownD00:::R. G. Brown::Bruce Randall Donald:::Mobile Robot Self-Localization without Explicit Landmarks.
+journals/algorithmica/PelegSW97:::David Peleg::Gideon Schechtman::Avishai Wool:::Randomized Approximation of Bounded Multicovering Problems.
+journals/algorithmica/BaurF01:::Christoph Baur::Sándor P. Fekete:::Approximation of Geometric Dispersion Problems.
+journals/algorithmica/ShahrokhiSSV96:::Farhad Shahrokhi::László A. Székely::Ondrej Sýkora::Imrich Vrto:::Drawings of Graphs on Surfaces with Few Crossings.
+journals/algorithmica/CohenK02:::Edith Cohen::Haim Kaplan:::Caching Documents with Variable Sizes and Fetching Costs: An LP-Based Approach.
+journals/algorithmica/PanSL96:::Peichen Pan::Weiping Shi::C. L. Liu:::Area Minimization for Hierarchical Floorplans.
+journals/algorithmica/Mantzaris93:::S. L. Mantzaris:::On "An Improved Algorithm for Finding the Median Distributively".
+journals/algorithmica/BlairKLS87:::Jean R. S. Blair::Sanjiv Kapoor::Errol L. Lloyd::Kenneth J. Supowit:::Minimizing Channel Density in Standard Cell Layout.
+journals/algorithmica/AndrewsACL00:::M. G. Andrews::Mikhail J. Atallah::Danny Z. Chen::D. T. Lee:::Parallel Algorithms for Maximum Matching in Complements of Interval Graphs and Related Problems.
+journals/algorithmica/Gonzalez01:::Teofilo F. Gonzalez:::Simple Algorithms for Multimessage Multicasting with Forwarding.
+journals/algorithmica/LeongI03:::Hon-Wai Leong::Hiroshi Imai:::Guest Editors' Foreword.
+journals/algorithmica/Rub92:::Christine Rüb:::Line-Segment Intersection Reporting in Parallel.
+journals/algorithmica/WuL90:::Michael M. Wu::Michael C. Loui:::An Efficient Distributed Algorithm for Maximum Matching in General Graphs.
+journals/algorithmica/WuM92:::Sun Wu::Udi Manber:::Path-Matching Problems.
+journals/algorithmica/Yap87:::Chee-Keng Yap:::Preface Special Issue on Robotics.
+journals/algorithmica/BoissonnatDT93:::Jean-Daniel Boissonnat::Olivier Devillers::Monique Teillaud:::A Semidynamic Construction of Higher-Order Voronoi Diagrams and Its Randomized Analysis.
+journals/algorithmica/LamY01:::Tak Wah Lam::Fung Ling Yue:::Optimal Edge Ranking of Trees in Linear Time.

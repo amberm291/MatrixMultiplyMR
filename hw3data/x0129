@@ -1,0 +1,200 @@
+conf/tapsoft/InverardiKY93:::Paola Inverardi::Balachander Krishnamurthy::Daniel Yankelevich:::Yeast: A Case Study for a Practical Use of Formal Methods.
+conf/tapsoft/Gaudel95:::Marie-Claude Gaudel:::Testing Can Be Formal, Too.
+conf/tapsoft/BossiC89:::Annalisa Bossi::Nicoletta Cocco:::Verifying Correctness of Logic Programs.
+conf/tapsoft/Boudol89:::Gérard Boudol:::Towards a Lambda-Calculus for Concurrent and Communicating Systems.
+conf/tapsoft/Smith93:::Geoffrey Smith:::Polymorphic Type Inference with Overloading and Subtyping.
+conf/tapsoft/HofmannS95:::Martin Hofmann::Donald Sannella:::On Behavioral Abstraction and Behavioural Satisfaction in Higher-Order Logic.
+conf/tapsoft/LevesonS85:::Nancy G. Leveson::Janice L. Stolzy:::Analyzing Safety and Fault Tolerance Using Time Petri Nets.
+conf/tapsoft/SteffenMC95:::Bernhard Steffen::Tiziana Margaria::Andreas Claßen:::The META-Frame: An Environment for Flexible Tool Management.
+conf/tapsoft/FiadeiroL97:::José Luiz Fiadeiro::Antónia Lopes:::Semantics of Architectural Connectors.
+conf/tapsoft/Ganzinger89:::Harald Ganzinger:::Order-Sorted Completion: The Many-Sorted Way (Extended Abstract).
+conf/kyotoDL/SchkeHN00:::Gerald J. Schke::Matthias Hemmje::Erich J. Neuhold:::Convergence of Digital Libraries, Museums and Archives to Collective Memories.
+conf/kyotoDL/Cho00:::Junghoo Cho:::WebBase and the Stanford InterLib Project.
+conf/kyotoDL/Ashworth00:::John Ashworth:::The British Library's Role as the National Library and Its Commitment to Electronic International Library Development.
+conf/kyotoDL/Jefcoate00:::Graham Jefcoate:::Digitisation for Access: The Digitisation of Rare Books at the British Library.
+conf/kyotoDL/HananiF00:::Uri Hanani::Ariel J. Frank:::The Parallel Evolution of Search Engines and Digital Libraries: Their Convergence to the Mega-Portal.
+conf/kyotoDL/QiuHN00:::Zhanzi Qiu::Matthias Hemmje::Erich J. Neuhold:::Using Link-Based Domain Models in Web Searching.
+conf/kyotoDL/MohaniaKKB00:::Mukesh K. Mohania::Vijay Kumar::Yahiko Kambayashi::Bharat K. Bhargava:::Secured Web Access.
+conf/kyotoDL/Wiederhold00:::Gio Wiederhold:::Global Issues in Digital Libraries.
+conf/kyotoDL/TakedaN00:::Koichi Takeda::Hiroshi Nomiyama:::View Composition for Digital Libraries.
+conf/kyotoDL/Kitagawa00:::Zentaro Kitagawa:::Digital Library as an Application of "Copymart".
+conf/teleteaching/Bates93:::A. W. Bates:::Educational aspects of the telecommunications revolution.
+conf/teleteaching/Fine93:::Carole S. Fine:::CAWP Online: enhancing collaboration through technology.
+conf/teleteaching/Hurst93:::Lilliam Hurst:::News from the front.
+conf/teleteaching/PaquetteBB93:::Gilbert Paquette::Gilles Bergeron::Jacqueline Bourdeau:::The virtual classroom revisited.
+conf/teleteaching/FulfordZ93:::Catherine P. Fulford::S. Zhang:::Predicting student satisfaction from perceptions of interaction in distance learning.
+conf/teleteaching/HansenG93:::Ole Hansen::Pia Guttorm:::TESS - more than technology.
+conf/teleteaching/Schroder93:::Bernd Schröder:::Tele-Seminars via satellite - communication and further education in new paths.
+conf/teleteaching/Rasmussen93:::Svein Arne Rasmussen:::International E-mail in language instruction.
+conf/teleteaching/Solvik93:::Oluf Magnus Solvik:::Communication and distance education.
+conf/teleteaching/Jensen93:::Astrid Elisabeth Jensen:::Learning computer network services by using them in familiar surroundings.
+conf/teleteaching/VivetLHMP93:::Martial Vivet::P. Lerout::O. Hubert::J. Morandeau::C. Parmentier:::Teleassistance of trainees in an SME: a case study.
+conf/parcella/EvansM88:::D. J. Evans::Graham M. Megson:::Systolic preconditioning algorithms for the Jacobi iterative solution of sparse linear systems.
+conf/parcella/DehneS88:::Frank K. H. A. Dehne::Jörg-Rüdiger Sack:::A survey of paralle computational geometry algorithms.
+conf/parcella/Spirakis88:::Paul G. Spirakis:::Fast parallel algorithms and the complexity of parallelism (Basic issues and recent advances).
+conf/parcella/Schendel88:::U. Schendel:::Parallel computation and supercomputers and applications.
+conf/assistive/PenningtonM98:::Christopher A. Pennington::Kathleen F. McCoy:::Providing Intelligent Language Feedback for Augmentative Communication Users.
+conf/ercimdl/BlocksBCT02:::Dorothee Blocks::Ceri Binding::Daniel Cunliffe::Douglas Tudhope:::Qualitative Evaluation of Thesaurus-Based Retrieval.
+conf/ercimdl/YeminiDF98:::Yechiam Yemini::Apostolos Dailianas::Danilo Florissi:::MarketNet: Using Virtual Currency to Protect Information Systems.
+conf/ercimdl/Law98:::Derek Law:::Access Versus Holdings: The Paradox of the Internet.
+conf/ercimdl/Koehler00:::Wallace C. Koehler Jr.:::The Bibliographic Management of Web Documents in Digital and Hybrid Libraries.
+conf/ercimdl/HongCH01:::Jen-Shin Hong::Bai-Hsuen Chen::Jieh Hsiang:::XSL-based Content Management for Multi-presentation Digital Museum Exhibitions.
+conf/ercimdl/Ajisaka98:::Tsuneo Ajisaka:::Electronic Commerce for Software.
+conf/ercimdl/KapidakisTS98:::Sarantos Kapidakis::Sotirios Terzis::Jakka Sairamesh:::A Management Architecture for Measuring and Monitoring the Behavior of Digital Libraries.
+conf/ercimdl/SerralheiroCMT02:::António Serralheiro::Diamantino Caseiro::Hugo Meinedo::Isabel Trancoso:::Word Alignment in Digital Talking Books Using WFSTs.
+conf/ercimdl/LandoniWG00:::Monica Landoni::Ruth Wilson::Forbes Gibb:::From the Visual Book to the WEB Book: The Importance of Good Design.
+conf/ercimdl/LopezRH99:::Manuel J. Maña López::Manuel de Buenaga Rodríguez::José María Gómez Hidalgo:::Using and Evaluating User Directed Summaries to Improve Information Access.
+conf/ercimdl/BreuW97:::Michael Breu::Ricarda Weber:::Charging for a Digital Library - The Business Model and the Cost Models of the MeDoc Digital Library.
+conf/ercimdl/SmeatonC97:::Alan F. Smeaton::Francis Crimmins:::Relevance Feedback and Query Expansion for Searching the Web: A Model for Searching a Digital Library.
+conf/ercimdl/PayetteL00:::Sandra Payette::Carl Lagoze:::Policy-Carrying, Policy-Enforcing Digital Objects.
+conf/ercimdl/KoKSLC02:::Seung-Kyu Ko::Myoung-Soo Kang::Won-Sung Sohn::Soon-Bum Lim::Yoon-Chul Choy:::Conversion of eBook Documents Based on Mapping Relations.
+conf/ercimdl/NeurothP03:::Heike Neuroth::Tamara Pianos:::VASCODA: A German Scientific Portal for Cross-Searching Distributed Digital Resource Collections.
+conf/ercimdl/ZervosPDDPPPKS98:::Costas Zervos::Stathis Panis::Dionysis Dionysiou::Michaelis Dionysiou::Constantinos S. Pattichis::Andreas Pitsillides::George Papadopoulos::Antonis C. Kakas::Christos Schizas:::Electronic Roads in the Information Society.
+conf/ercimdl/Hembise00:::Céline Hembise:::Appropriation of Legal Information: Evaluation of Data Bases for Researchers.
+conf/ercimdl/HunterJ00:::Jane Hunter::Darren James:::The Application of an Event-Aware Metadata Model to an Online Oral History Archive.
+conf/ercimdl/Ferber97:::Reginald Ferber:::Automated Indexing with Thesaurus Descriptors: A Co-occurence Based Approach to Multilingual Retrieval.
+conf/ercimdl/SemeraroFFE01:::Giovanni Semeraro::Stefano Ferilli::Nicola Fanizzi::Floriana Esposito:::Document Classification and Interpretation through the Inference of Logic-Based Models.
+conf/ercimdl/PaynterW01:::Gordon W. Paynter::Ian H. Witten:::A Combined Phrase and Thesaurus Browser for Large Document Collections.
+conf/ercimdl/AuffretB99:::Gwendal Auffret::Bruno Bachimont:::Audiovisual Cultural Heritage: From TV and Radio Archiving to Hypermedia Publishing.
+conf/ercimdl/Pelizzari00:::Eugenio Pelizzari:::Electronic Dissemination of Statistical Information at Local Level: A Cooperative Project between a University Library and Other Public Institutions.
+conf/ercimdl/TsinarakiAMC98:::Chrisa Tsinaraki::George Anestis::Nektarios Moumoutzis::Stavros Christodoulakis:::Implementing Powerful Retrieval Capabilities in a Distributed Environment for Libraries and Archives.
+conf/ercimdl/MuresanH01:::Gheorghe Muresan::David J. Harper:::Document Clustering and Language Models for System-Mediated Information Access.
+conf/ercimdl/AmaralT00:::Rui Amaral::Isabel Trancoso:::Topic Detection in Read Documents.
+conf/ercimdl/HardingCW97:::Stephen M. Harding::W. Bruce Croft::C. Weir:::Probabilistic Retrieval of OCR Degraded Text Using N-Grams.
+conf/ercimdl/Norvag03:::Kjetil Nørvåg:::Space-Efficient Support for Temporal Text Indexing in a Document Archive Context.
+conf/ercimdl/IshikawaCK01:::Yoshiharu Ishikawa::Yibing Chen::Hiroyuki Kitagawa:::An On-Line Document Clustering Method Based on Forgetting Factors.
+conf/ercimdl/Monch00:::Christian Mönch:::INDIGO - An Approach to Infrastructures for Digital Libraries.
+conf/softarc/Lewerentz86:::Claus Lewerentz:::Entwurf und Implementierung eines syntaxgesteuerten Editors für Software-Architekturen.
+conf/softarc/Winkler86:::Jürgen F. H. Winkler:::Eine Konfigurationssprache f7uumlr Ada.
+conf/softeks/Skowron93:::Andrzej Skowron:::Management of Uncertainty in AI: A Rough Set Approach.
+conf/softerg/Springer95:::Johannes Springer:::Software-ergonomische Probleme und Lösungen in CAD/CAM-Anwendungen.
+conf/softerg/Rodiger95:::Karl-Heinz Rödiger:::Anwendungsbereiche lernen voneinander...und woraus lernen wir?
+conf/softerg/Schmidt-Lademann85:::Frank-Peter Schmidt-Lademann:::Eine graphikfähige Rechnerschnittstelle für Blinde.
+conf/softerg/ZimmerKK87:::Alf C. Zimmer::Hermann Körndle::Cornelia Karger:::Informativität versus Robusthelt. Vergleich von Suchvorgängen im menschlichen Gedächtnis mit Mensch-Maschine-Dialogen am Beispiel Btx.
+conf/softerg/HubwieserS99:::Peter Hubwieser::Johann H. Schlichter:::HyperCons: Eine Informationswelt für Bildungseinrichtungen.
+conf/softerg/WandkeDH99:::Hartmut Wandke::Andreas Dubrowsky::Jens Hüttner:::Anforderungsanalyse zur Einführung eines Unterstützungssystems bei Software-Entwicklern.
+conf/softerg/Ziegler99:::Susanne Ziegler:::Der automatisierte Wissenserwerb im Kontext der Kommunikation. Ein Vorschlag zur Entwicklung von Expertensystemen durch die Experten.
+conf/softerg/Schragl87:::Rudolf Schragl:::Prototyping von Benutzerdialogen in Prolog.
+conf/softerg/IqbalOPK99:::Arif Iqbal::Reinhard Oppermann::Ashok Patel::Kinshuk:::A Classification of Evaluation Methods for Intelligent Tutoring Systems.
+conf/softerg/PfisterWB99:::Hans-Rüdiger Pfister::Martin Wessner::Jennifer Beck-Wilson:::Soziale und kognitive Orientierung in einer computergestützten kooperativen Lernumgebung.
+conf/softerg/HeineckeBK95:::Andreas M. Heinecke::Sigrid Bumann::Thomas Kerstan:::Software-ergonomische Evaluation von Kiosksystemen im Museum.
+conf/softerg/Paul93:::Hansjürgen Paul:::Das Explorative Modell als konzeptioneller Ansatz zur Gestaltung interaktiver Systeme.
+conf/softerg/BonitzNBW87:::D. Bonitz::Friedhelm Nachreiner::C. Benz::M. Wäger:::Zur Analyse und Bewertung rechnerunterstützter Tätigkeiten im Bürobereich.
+conf/softerg/SchultzS89:::Ferdinand Schultz::Sabine Sonnentag:::Menschengerechte Gestaltungsansätze in der Fertigbetonlogistik - Arbeitsanalytische Untersuchungen zur aufgabenorientierten Gestaltung computergestützter Arbeit.
+conf/softerg/Peschanel85:::F. D. Peschanel:::Designarbeit: Aufgabenteilung und Intelligenzfaktoren.
+conf/softerg/RollesS99:::Roland Rolles::Yven Schmidt:::Kontinuierliche Prozeßverbesserung durch Integration von Workflow und Intranet.
+conf/softerg/Rauterberg91:::Matthias Rauterberg:::Benutzung-sorientierte Benchmark-Tests: eine Methode zur Benutzerbeteiligung bei Standardsoftware-Entwicklungen.
+conf/softerg/AckermannN85:::David Ackermann::Jürg Nievergelt:::Die Fünf-Finger-Maus: Eine Fallstudie zur Synthese von Hardware, Software und Psychologie.
+conf/softerg/HolmerS99:::Torsten Holmer::Norbert A. Streitz:::Neue Möglichkeiten der Analyse der Mensch-Computer-Interaktion zur Evaluation von computerunterstützten Gruppensitzungen.
+conf/softerg/GornyV91:::Peter Gorny::Axel Viereck:::Ein Software-Ergonomie-Expertensystem.
+conf/softerg/SkarpelisH91:::Constantin Skarpelis::G. Huba:::Thesen zur Diskussionsgruppe: KI in der Arbeitswelt - Unterstützung oder Ersatz von Experten?
+conf/softerg/Dzida95:::Wolfgang Dzida:::Software-ergonomische Qualitätssicherung.
+conf/softerg/Greutmann93:::Thomas Greutmann:::Datenmodellierung und aufgabengerechte Dialoge: ein Synchronisationsproblem.
+conf/softerg/EberlehM95:::Edmund Eberleh::Falco Meinke:::OASE: Eine Arbeitsplatzumgebung für komplexe Anwendungssysteme.
+conf/softerg/Ressel95:::Matthias Ressel:::Kooperative Interaktionsunterstützung in Groupware.
+conf/softerg/Haaks91:::Detlef Haaks:::Anpassbare Informationssysteme - Basis für aufgabenorientierte Systemgestaltung und Funtionalität.
+conf/softerg/KastenS95:::Christoph Kasten::Constantin Skarpelis:::Arbeitsunterstützung durch Software: Perspektiven im Forschungsprogramm "Arbeit und Technik".
+conf/softerg/Klutmann87:::Beate Klutmann:::Benutzer-Entwickler-Kommunikation im Softwareentwicklungs-Prozeß.
+conf/softerg/GellersenM95:::Hans-Werner Gellersen::Max Mühlhäuser:::Arbeitsplatzintegration und Medienintegration: Mensch-Computer-Interaktion in kooperativen Anwendungen.
+conf/softerg/GreutmannA89:::Thomas Greutmann::David Ackermann:::Zielkonflikte bei Software-Gestaltungskriterien.
+conf/softerg/Weng-Beckmann89:::Ulrike Weng-Beckmann:::Eine objekt- und fensterorientierte Bedienoberfläche für graphikfähige UNIX-Workstations.
+conf/softvis/WangWBDDHV03:::Qin Wang::Wei Wang::Rhodes Brown::Karel Driesen::Bruno Dufour::Laurie J. Hendren::Clark Verbrugge:::EVolve: An Open Extensible Software Visualisation Framework.
+conf/softvis/HausmannK03:::Jan Hendrick Hausmann::Stuart Kent:::Visualizing Model Mappings in UML.
+conf/metrics/IdriA01:::Ali Idri::Alain Abran:::A Fuzzy Logic Based Set of Measures for Software Project Similarity: Validation and Possible Improvements.
+conf/metrics/Weyuker99:::Elaine J. Weyuker:::Predicting Project Risk from Architecture Reviews.
+conf/metrics/OlssonRBB01:::Thomas Olsson::Per Runeson::Niclas Bauer::Lars Bratthall:::An Experiment on Lead-Time Impact in Testing of Distributed Real-Time Systems.
+conf/metrics/KhoshgoftaarS02:::Taghi M. Khoshgoftaar::Naeem Seliya:::Tree-Based Software Quality Estimation Models For Fault Prediction.
+conf/metrics/FewsterM01:::Rachel Fewster::Emilia Mendes:::Measurement, Prediction and Risk Analysis for Web Applications.
+conf/metrics/ChulaniRSL03:::Sunita Chulani::Bonnier Ray::Padmanabhan Santhanam::R. Leszkowicz:::Metrics for Managing Customer View of Software Quality.
+conf/raeumlich/Khenkhar90:::Mohammed Nadjib Khenkhar:::Eine objektorientierte Darstellung von Depiktionen auf der Grundlage von Zellmatrizen.
+conf/raeumlich/Pribbenow90:::Simone Pribbenow:::Interaktion von propositionalen und bildhaften Repräsentationen.
+conf/raeumlich/ZimmermannB90:::Kai Zimmermann::Petra Bräunling:::Gesamtliteraturverzeichnis: Repräsentation und Verarbeitung räumlichen Wissens.
+conf/raeumlich/Tischer90:::Bernd Tischer:::Das Erkennen richtungsräumlicher Objektrelationen auf der Grundlage verbaler und bildlicher Informationen.
+conf/raeumlich/Hartl90:::Anton Hartl:::Kognitive Karten und kognitives Kartieren.
+conf/esorics/Toussaint92:::Marie-Jeanne Toussaint:::Separating the Specification and Implementation Phases in Cryptology.
+conf/esorics/HeG92:::Jingsha He::Virgil D. Gligor:::Formal Methods and Automated Tool for Timing-Channel Identification in TCB Source Code.
+conf/esorics/Mantel00:::Heiko Mantel:::Unwinding Possibilistic Security Properties.
+conf/esorics/WarnerLKP96:::Andrew Warner::Qiang Li::Thomas F. Keefe::Shankar Pal:::The Impact of Multilevel Security on Database Buffer Management.
+conf/esorics/MaoB94:::Wenbo Mao::Colin Boyd:::On Strengthening Authentication Protocols to Foil Cryptanalysis.
+conf/esorics/Calas94:::Christel Calas:::Distributed File System over a Multilevel Secure Architecture - Problems and Solutions.
+conf/esorics/Waidner96:::Michael Waidner:::Development of a Secure Electronic Marketplace for Europe.
+conf/esorics/Anderson98:::Ross J. Anderson:::On the Security of Digital Tachographs.
+conf/esorics/KangK92:::Iwen E. Kang::Thomas F. Keefe:::On Transaction Processing for Multilevel Secure Replicated Databases.
+conf/esorics/Josang98:::Audun Jøsang:::A Subjective Metric of Authentication.
+conf/esorics/BullGS92:::John A. Bull::Li Gong::Karen R. Sollins:::Towards Security in an Open Systems Federation.
+conf/esorics/SandhuJ92:::Ravi S. Sandhu::Sushil Jajodia:::Polyinstantation for Cover Stories.
+conf/esorics/AtluriH96:::Vijayalakshmi Atluri::Wei-kuang Huang:::An Authorization Model for Workflows.
+conf/esorics/Soshi00:::Masakazu Soshi:::Safety Analysis of the Dynamic-Typed Access Matrix Model.
+conf/esorics/WelchS00:::Ian Welch::Robert J. Stroud:::Using Reflection as a Mechanism for Enforcing Security Policies in Mobile Code.
+conf/esorics/KochMP02:::Manuel Koch::Luigi V. Mancini::Francesco Parisi-Presicce:::Decidability of Safety in Graph-Based Models for Access Control.
+conf/aPcsac/KiseHY03:::Kenji Kise::Hiroki Honda::Toshitsugu Yuba:::SimAlpha Version 1.0: Simple and Readable Alpha Processor Simulator.
+conf/aPcsac/TsaiLRC03:::Kun-Lin Tsai::Feipei Lai::Shanq-Jang Ruan::Szu-Wei Chaung:::State Reordering for Low Power Combinational Logic.
+conf/accurate/Trager85:::Barry M. Trager:::Computer Algebra and Exact Solutions to Systems of Polynomial Equations (Abstract).
+conf/verwaltung/Picht80a:::Hartmut Picht:::Aussprache zum Referat von Wolfgand Hartenstein.
+conf/verwaltung/Vogel83:::Elisabeth Vogel:::Zur Konzeption, Realisierung und Akzeptanz des Konstanzer Diplom-Aufbaustudiengangs Informationswissenschaft.
+conf/verwaltung/Vogel84:::Dieter Vogel:::Die informationstechnologische Herausforderung.
+conf/verwaltung/Reichwald80:::Ralf Reichwald:::Überlegungen zur Effektivität neuer Kommunikationstechnologien im Verwaltungsbereich.
+conf/verwaltung/Kleinschroth84:::Karl Kleinschroth:::Informationsprobleme bei der BAFÖG-Verwaltung.
+conf/verwaltung/Fricke80:::Peter Fricke:::Aussprache zu den Referaten von Renate Troste und Dieter Grässle.
+conf/verwaltung/Langseder80:::Alois Langseder:::Rechtliche und organisatorische Rahmenbedinguen der Datenverarbeitung in der öffentlichen Verwaltung - Der Bundesrepublik Deutschland - am Beispiel Bayern für die Bundesländer.
+conf/verwaltung/Fiedler83:::Herbert Fiedler:::Anforderungen an das Rechtsystem für die Nutzung neuer Kommunikationsmedien.
+conf/verwaltung/WeltzB83:::Friedrich Weltz::Heinrich Bollinger:::Zum Problem der Beteiligung bei Technisch-Organisatorischen Veränderungen im Verwaltungsbereich.
+conf/verwaltung/Staud83:::Josef L. Staud:::Integrierte Abspeicherung und Verarbeitung numerischer Fakten. Zur Konzeption eines neuen Systemtyps.
+conf/verwaltung/Frankenbach80a:::Wilfried Frankenbach:::Aussprache zum Referat von Friedel Hoßfeld.
+conf/verwaltung/Schneider80:::Hans-Jochen Schneider:::Entwicklungslinien der Informationstechnik.
+conf/verwaltung/Kummer83:::Bernd Kummer:::Personelle und organisatorische Auswirkungen des Einsatzes von Bürotechnologien.
+conf/verwaltung/Steimer83:::Fritz L. Steimer:::Automation und Kommunikation im Büro und Verwaltungsbereich.
+conf/verwaltung/Jaburek83:::Walter J. Jaburek:::Teleconferencing im Bildschirmtext.
+conf/acmmpc/DoornbosB00:::Henk Doornbos::Roland Carl Backhouse:::Algebra of Program Termination.
+conf/eurasip/NiranjanF90:::Mahesan Niranjan::Frank Fallside:::Speech Feature Extraction Using Neural Networks.
+conf/eurasip/Kollias90:::Stefanos Kollias:::A Study of Neural Network Applications to Signal Processing.
+conf/eurasip/Brown90:::Gordon D. A. Brown:::A Neural Net Model of Human Short-Term Memory Development.
+conf/eurasip/HerveFD90:::Thierry Hervé::Olivier François::Jacques Demongeot:::Markovian Spatial Properties of a Random Field Describing a Stochastic Neural Network: Sequential of Parallel Implementation?
+conf/eurocal/Chenadec85:::Philippe le Chenadec:::A Completion of some Coxeter Groups.
+conf/eurocal/Beth85:::Thomas Beth:::Algebraic and Symbolic Computation in Digital Signal Processing, Coding and Cryptography.
+conf/eurocal/Hulzen83:::J. A. van Hulzen:::Code optimization of multivariate polynominal schemes: A pragmatic approach.
+conf/eurocal/Lenstra82:::Arjen K. Lenstra:::Lattices and Factorization of Polynomials over Algebraic Number Fields.
+conf/eurocal/Riedel85:::Wolfgang Riedel:::A Program System for Root Finding.
+conf/eurocal/Kaltofen83:::Erich Kaltofen:::On the complexity of finding short vectors in integer lattices.
+conf/eurocal/Davenport83a:::James H. Davenport:::Factorization of sparse polynominals.
+conf/eurocal/DavenportP85:::James H. Davenport::Julian A. Padget:::HEUGCD: How Elementary Upperbounds Generated Cheaper Data.
+conf/eurocal/ProbstA82:::David K. Probst::Vangalur S. Alagar:::An Adaptive Hybrid Algorithm for Multiplying Dense Polynomials.
+conf/eurocal/TombalM85:::Ph. Tombal::A. Moussiaux:::MACSYMA's Computation of Dirac-Bergmann Algorithm for Hamiltonian Systems with Constraints.
+conf/eurocal/Mukhopadhyay85:::Asish Mukhopadhyay:::A Solution to the Polynominal Hensel-Code Conversion Problem.
+conf/eurocal/McCallum85:::Scott McCallum:::An Improved Projection Operation for Cylindrical Algebraic Decomposition.
+conf/eurocal/BogeGK85:::W. Böge::Rüdiger Gebauer::Heinz Kredel:::Gröbner Bases Using SAC-2.
+conf/eurocal/Gibert85:::Jacek Gibert:::The J-Machine: Functional Programming with Combinators.
+conf/eurocal/KondratevaP87:::M. V. Kondratéva::E. V. Pankratév:::A recursive algorithm for computation of the Hilbert polynomial.
+conf/eurocal/CaferraJ85:::Ricardo Caferra::Philippe Jorrand:::Unification in Parallel with Refined Linearity Test: An Example of Recursive Network Structure in FP2, A Functional Parallel Programming Language.
+conf/eurocal/Collins82:::George E. Collins:::Factorization in Cylindrical Algebraic Decomposition.
+conf/eurocal/Lazard83:::Daniel Lazard:::Gröbner-Bases, Gaussian elimination and resolution of systems of algebraic equations.
+conf/eurocal/EltekovS87:::Vitali A. Eltekov::Vladimir B. Shikalov:::The methods for symbolic evaluation of determinants and their realization in the planner-analytic system.
+conf/eurocal/AmandJM85:::Jan E. Åman::R. A. d'Inverno::G. C. Joly::Malcolm A. H. MacCallum:::Progress on the Equivalence Problem.
+conf/eurocal/MutrieCB87:::Mark P. W. Mutrie::Bruce W. Char::Richard H. Bartels:::Expression optimization using high-level knowledge.
+conf/eurocal/Kazasov87:::Cristomir Kazasov:::Laplace transformations in REDUCE 3.
+conf/eurocal/Spiridonova87:::M. Spiridonova:::Some extensions and applications of REDUCE System.
+conf/eurocal/Bruderlin85:::Beat Brüderlin:::Using Prolog for Constructing Geometric Objects defined by Constraints.
+conf/eurocal/PaigeH85:::Robert Paige::Fritz Henglein:::Mechanical Translation of Set Theoretic Problem Specifications into Efficient RAM Code - A Case Study.
+conf/eurocal/KatkovP87:::Vladislav L. Katkov::Michail D. Popov:::Computerised system of analytic transformations for analysing of differential equations.
+conf/eurodac/ChessL94:::Brian Chess::Tracy Larrabee:::Generating Test Patterns for Bridge Faults in CMOS ICs.
+conf/eurodac/NicolaidisB94:::Michael Nicolaidis::H. Bederr:::Efficient Implementations of Self-Checking Multiply and Divide Arrays.
+conf/eurodac/BanerjeeRCP94:::Savita Banerjee::Rabindra K. Roy::Srimat T. Chakradhar::Dhiraj K. Pradhan:::Signal Transition Graph Transformations for Initializability.
+conf/eurodac/SivaramanS94:::Mukund Sivaraman::Andrzej J. Strojwas:::Towards Incorporating Device Parameter Variations in Timing Analysis.
+conf/eurodac/HelbigK94:::Johannes Helbig::Peter Kelb:::An OBDD-Representation of Statecharts.
+conf/eurodac/KimCL94:::Taewhan Kim::Ki-Seok Chung::Chien-Liang Liu:::A Stepwise Refinement Data Path Synthesis Procedure for Easy Testability.
+conf/eurodac/JohanssonVG94:::Thomas Johansson::L. R. Virtanen::J. M. Gobbi:::``Underground Capacitors'' Very Efficient Decoupling for High Performance UHF Signal Processing ICs.
+conf/eurodac/RamachandranGC94:::Loganath Ramachandran::Daniel Gajski::Viraphol Chaiyakul:::An Algorithm for Array Variable Clustering.
+conf/eurodac/Vitsyn94:::N. M. Vitsyn:::The Russian EDA Standards Activities
+conf/eurodac/BernGMS94:::Jochen Bern::Jordan Gergov::Christoph Meinel::Anna Slobodová:::Boolean Manipulation with Free BDD's. First Experimental Results.
+conf/europar/RoderLB98:::Christian Röder::Thomas Ludwig II::Arndt Bode:::Configurable Load Measurement in Heterogeneous Workstation Clusters.
+conf/europar/ManningK99:::Anna M. Manning::John A. Keane:::Inducing Load Balancing and Efficient Data Distribution Prior to Association Rule Discovery in a Parallel Environment.
+conf/europar/JuganaruSMM97:::M. Juganaru::I. Sakho::C. Maurice::F. Montheillet:::A Parallel Simulation of a Quantitative Large-Strain Polycrystal Deformation.
+conf/europar/RadhakrishnanJ99:::Ramesh Radhakrishnan::Lizy Kurian John:::A Performance Study of Modern Web Server Applications.
+conf/europar/ChuI01:::Yul Chu::Mabo Robert Ito:::An Efficient Indirect Branch Predictor.
+conf/europar/Zavanella99:::Andrea Zavanella:::Optimising Skeletal-Stream Parallelism on a BSP Computer.
+conf/europar/FurmentoMMND01:::Nathalie Furmento::Anthony Mayer::Stephen McGough::Steven Newhouse::John Darlington:::A Component Framework for HPC Applications.
+conf/europar/AssarssonS01:::Ulf Assarsson::Per Stenström:::A Case Study of Load Distribution in Parallel View Frustum Culling and Collision Detection.
+conf/europar/FreitagH99:::Burkhard Freitag::Kader Hameurlain:::Parallel and Distributed Databases - Introduction.
+conf/europar/AltBG02:::Martin Alt::Holger Bischof::Sergei Gorlatch:::Algorithm Design and Performance Prediction in a Java-Based Grid System with Skeletons.
+conf/europar/BilardiCCPR97:::Gianfranco Bilardi::Bruno Codenotti::G. Del Corso::Maria Cristina Pinotti::Giovanni Resta:::Broadcast and Associative Operations on Fat-Trees.
+conf/europar/RodriguezSLCD98:::Casiano Rodríguez::F. Sande::Coromoto León::I. Coloma::A. Delgado:::Load Balancing and Processor Assignment Statements.

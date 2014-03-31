@@ -1,0 +1,200 @@
+conf/cmg/LiuM89:::Catherine H. Liu::W. Nathaniel Mills III:::Automating Network Service Level Management.
+conf/cmg/Perry92:::Patricia D. Perry:::Standardization After the Data Center Consolidation.
+conf/cmg/Mark94:::Michael P. Mark:::Application Performance: An Improvement Exercise of the Third Kind.
+conf/cmg/Houtekamer91:::Gilbert E. Houtekamer:::Cache Management: Subsystem and Data Set Level Approaches.
+conf/cmg/SiegelZ01:::Eric Siegel::Jing Zhi:::Accuracy and Practicality of Techniques for Measuring the Web Experience of Dial-Up Users.
+conf/cmg/Glover92:::Dave M. Glover:::Performance Measurement Instrumentation for UNIX: The Future is Not a Myth.
+conf/cmg/MeeY99:::Tom A. Mee::Paul N. Ybarra:::Capacity Planning Analyses of Large Networks: Case Study.
+conf/cmg/Wells89:::Robert Wells:::System Managed Storage: The Aftershock.
+conf/cmg/MoseberryW02:::Clyde V. Moseberry::Chi-haur Wu:::Dynamic Performance Tuning in a Unix Environment: A Collaborative CMAC Design.
+conf/cmg/Martin85:::Nancy Martin:::The Management of Expert System Development.
+conf/cmg/Connor92:::John L. Connor:::A Technique to Achieve Advanced Automation.
+conf/cmg/FarrellMS98:::Brian L. Farrell::Richard Menninger::Stephen G. Strickland:::Performance Testing &amp; Analysis of Distributed Client/Server Database Systems.
+conf/cmg/Harmon89:::John Harmon:::The Determination and Use of Poll Delay to Provide Insight into an.
+conf/cmg/Hoplin85:::Herman P. Hoplin:::Decision Support for Managers Built on Knowledge-Based Systems: A Future Trend in Information Systems.
+conf/cmg/Papy88:::Wayne S. Papy:::DASD I/O Performance Tuning: A Case Study of Techniques and Results.
+conf/cmg/Wicks95:::Ray Wicks:::Performance Analysis For Capacity Planning - An Introduction.
+conf/cmg/Keller89a:::Ted C. Keller:::Four Management Styles.
+conf/cmg/Lewars90:::W. D. Lewars:::Use of An SSD For Service Level Improvement.
+conf/cmg/Morris94:::Wayne S. Morris:::Applying Service Level Management to the Enterprise.
+conf/cmg/Verbil87:::Holly E. K. Verbil:::The Role of Capacity Planning in Consolidations, Acquisitions and Mergers.
+conf/cmg/KeeneyS87:::Gary Keeney::Greg Simmons:::3090-Class Processor Architectures and Workload Performance Levels.
+conf/cmg/HellersteinZS98:::Joseph L. Hellerstein::Fan Zhang::Perwez Shahabuddin:::Characterizing Normal Operation of a Web Server: Application to Workload Forecasting and Problem Determination.
+conf/cmg/Waldowski91:::Paul Waldowski:::Using Queueing Systems to Identify a CPU Saturation Situation when Running MVS Under VM.
+conf/cmg/Sabo82:::Christopher M. Sabo:::An Integrated Software Approach to Capacity Planning.
+conf/cmg/Bonin89:::Gerald J. Bonin:::Performance Objectives - Getting Started.
+conf/cmg/Gunderson94:::Leonard W. Gunderson:::Capacity Planning: How to Predict the Unknown.
+conf/cmg/Zaslavsky01:::Michael Zaslavsky:::Batch Cycle Modeling; A Practical Solution.
+conf/cmg/Miller94:::Randal J. Miller:::AS/400 Performance Management for the MVS Veteran.
+conf/cmg/Hodgins02:::Craig Hodgins:::A Cornucopia of Opportunities: DB2 Application Performance.
+conf/cmg/Anderson78:::Edwin Anderson:::Performance Monitors: A Tutorial Summary.
+conf/cmg/Brice81:::Linda Brice:::Existing Computer Applications Maintain or Redesign: How to Decide?
+conf/cmg/Volansky82:::Elaine Volansky:::Performance Measurement of the Tracking and Data Relay Satellite System Computer Network.
+conf/cmg/Fiorini00:::Pierre M. Fiorini:::Voice Over IP (VoIP) for Enterprise Networks: Performance Implications and Solutions.
+conf/cmg/FriedmanR98:::Ellen M. Friedman::Jerry L. Rosenberg:::Countdown to the Millenium: Issues to Consider in the Final Year.
+conf/cmg/Watson99:::Larry E. Watson:::Successful Multi-tier Benchmarking and Load Testing.
+conf/cmg/Fischer88a:::R. L. Fischer:::Network Tuning War Stories With a Happy Ending.
+conf/cmg/PopeD91:::William G. Pope::Margaret M. Doherty:::An Experiment with VM/XA Share.
+conf/cmg/Brandwajn89:::Alexandre Brandwajn:::Performance Benefits of Parallelism in Cached DASD Controllers.
+conf/cmg/Vogt02:::Kelly L. Vogt:::How We Successfully Converted to WLM Batch Initiators.
+conf/cmg/Welf85:::Ronald T. Welf:::Capacity Planning in an ACP/TPF Message Switching Environment.
+conf/cmg/ContiDMWW79:::Dennis M. Conti::Robert G. Dunn::A. Mukherjee::Frank C. Wimler::Thomas F. Wyrick:::Selecting Computer Systems: Evolving Ideas and Techniques (panel abstract).
+conf/cmg/FarrellR90:::Brian L. Farrell::G. Ramamurthy:::Performance Analysis of a DBMS based Factory Information System.
+conf/cmg/Woods00:::Edward A. Woods:::DB2 Application Trace Analysis: Asking The Right Questions.
+conf/cmg/Woods98:::Edward A. Woods:::Expanding The Reach Of DB2: TCP/IP and DRDA.
+conf/cmg/Woods99:::Edward A. Woods:::A Look At DB2 Statistics and Performance Traces.
+conf/cmg/Irwin80:::Bob Irwin:::Measurement Event Equations.
+conf/cmg/Rabinovitch97:::Eddie Rabinovitch:::Building Scaleable IP Networks.
+conf/cmg/Merrill94:::Barry Merrill:::Executing MXG and Other SAS Applications Under OS/2, Windows, and UNIX.
+conf/cmg/Merritt97:::Linwood Merritt:::From the Server to the Intranet: Automating the Collection and Reporting of Enterprise Performance Data.
+conf/cmg/Bouhana80:::James P. Bouhana:::Alternative Parameterizations of Product-Form Queueing Networks.
+conf/cmg/Bouhana82:::James P. Bouhana:::Pitfalls of Performance Instrumentation (abstract).
+conf/cmg/Bouhana90:::James P. Bouhana:::Economic Measures of Transaction Processing Performance.
+conf/cmg/Molloy02a:::Chris L. Molloy:::Performance and Capacity Tools - One Size Doesn't Fit All.
+conf/cmg/Yori94:::Robert S. Yori:::Designing and Managing Gigabit LANS.
+conf/cmg/GimarcC85:::Richard L. Gimarc::K. Mani Chandy:::HSS: A Tool for Evaluating the Performance of Office Systems.
+conf/cmg/Kahng89:::John S. Kahng:::A Methodology for Fast and Effective TPNS Script Development.
+conf/cmg/Davis84:::D. P. Davis:::Managing MDS Resources at PNB.
+conf/cmg/Schwartz91:::Philip L. Schwartz:::An IMS MPP Transaction Workload Balancing Study.
+conf/cmg/Schwartz92:::Jeffry A. Schwartz:::Techniques for Developing a Validated Analytical Model.
+conf/cmg/Schwartz97:::Jeffry A. Schwartz:::Using an Office Application Suite to Automate Performance and Capacity Analysis and Reporting.
+conf/cmg/Puldy92:::Michael L. Puldy:::Escon Experiences - Migration and 3990-3 Performance.
+conf/cmg/Terplan87:::Kornel Terplan:::Netview and Netview/PC Tutorial.
+conf/cmg/Thompson00:::George I. Thompson:::Six Levels of Sophistication for Capacity Management.
+conf/cmg/Sziede96:::Dick Sziede:::Statistics For The Algebraically Challenged.
+conf/cmg/Cohen87:::Edward I. Cohen:::Coupled Systems for Performance.
+conf/cmg/Samchuck90:::Gerald M. Samchuck:::The Application of CPE Techniques to Data Architectures As a Basis.
+conf/cmg/CoolK88:::William S. Cool::Joe Kersey:::SMF, RMF, and LOGREC: Primary Data Sources.
+conf/cmg/Deese98:::Donald R. Deese:::Evaluating and Improving CICS Performance in MVS (Goal Mode).
+conf/cmg/Arkins91:::William L. Arkins:::IMS/ESA 3.1 and the Storage Hierarchy.
+conf/cmg/McCormack90a:::Bill McCormack:::Kernel Benchmarking: Friend or Foe?
+conf/cmg/Arnold-RoksandichR92:::Joan A. Arnold-Roksandich::William J. Raymond:::CTC Hammer: Can't Touch That.
+conf/cmg/Jones90:::Roy A. L. Jones:::SSD is Cheaper than DASD.
+conf/cmg/KaplanR84:::Carol B. Kaplan::Paul R. Robichaux:::Planning Information Systems for User Satisfaction.
+conf/cmg/DomanskiS88:::Bernard Domanski::Sidney W. Soberman:::Expert Systems for Computer Performance Evaluation: On MetaRules and Knowledge Engineering.
+conf/cmg/Blaylock80:::Jerome W. Blaylock:::An Analysis of the Standard Unit of Processing on the Sperry Univac Series 1100 Computer System.
+conf/cmg/DomanskiKS90:::Bernard Domanski::Jack van Kinsbergen::Sidney W. Soberman:::Knowledge Acquisition.
+conf/cmg/Lulofs85:::Bill Lulofs:::Disk Capacity Assessment Program Planning of the DASD Resource.
+conf/cmg/Tyrrell97:::John C. Tyrrell:::The Only Good I/O Is A Dead I/O.
+conf/cmg/MaccabeeLS95:::Mark M. Maccabee::Anna Long::Walter Schwane:::Distributed Client/Server End To End Response Time: Instrumentation, Methodology And Experience With A Commercial Product.
+conf/cmg/BastianHL81:::A. Lewis Bastian::J. S. Hyde::W. E. Langstroth:::Characteristics of DASD Use.
+conf/cmg/Arnold98:::Hans W. Arnold:::TPF - An Operating System for Performance.
+conf/cmg/Abernathy78:::Frances Smith Abernathy:::Communicating Capacity Plans to Management.
+conf/cmg/DingA94:::Yiping Ding::Subhash C. Agrawal:::Tuning Memory Pool Sizes In AS/400.
+conf/cmg/DingA95:::Yiping Ding::Subhash C. Agrawal:::RAID Modeling Factors And Their Performance Implications.
+conf/cmg/Drakopoulos91:::Elias Drakopoulos:::Study of the Performance Impact of NFS Workload on Large Mainframe UNIX Systems.
+conf/cmg/Stancavish87:::Joseph Stancavish:::Experience in Cost Allocation.
+conf/cmg/SimmonsK97:::Jim Simmons::John Kelly:::UNIX Capacity Planning: It isn't Just for Breakfast Anymore.
+conf/cmg/Terkowitz83a:::Roberta S. Terkowitz:::DASD Growth Management.
+conf/cmg/Curry92:::Michael A. Curry:::Open Systems for Printing.
+conf/cmg/Agrawal88:::Subhash C. Agrawal:::On Relative Speeds of VAX Processors.
+conf/cmg/Keller84:::Ted C. Keller:::Some Experiences Using Queuing Theory.
+conf/cmg/KellyR78:::John C. Kelly::Gary P. Route:::A Structured Approach for Evaluating UNIVAC 1100 Series Computer Systems.
+conf/cmg/SmithW00:::Connie U. Smith::Lloyd G. Williams:::Building Responsive and Scalable Web Applications.
+conf/cmg/Klein92:::David A. Klein:::A Decision-Analytic Approach to Evaluating and Justifying Capacity Plans.
+conf/cmg/Quinn90:::Eugene Quinn:::Allocating VSAM Buffers to Minimize I/O.
+conf/cmg/Rivet81:::Elizabeth A. Rivet:::Performance Evaluation During System Selection.
+conf/cmg/Hackenberg96:::Steven R. Hackenberg:::CICS Dynamic Transaction Routing: Methods And Techniques.
+conf/cmg/JamtheA97:::Sudha Jamthe::Subhash C. Agrawal:::Performance Issues of Designing a High Performance Intranet.
+conf/cmg/YoungR97:::David J. Young::William J. Raymond:::DB2 Type II Index Processing in a Data Sharing Environment.
+conf/cmg/HansonC00:::Craig D. Hanson::Pat V. Crain:::Building or Buying a Scalable Software System - A Handbook.
+conf/cmg/HansonC99:::Craig D. Hanson::Pat V. Crain:::User and Computer Performance Optimization - A New Model for Efficiency.
+conf/cmg/Allen84a:::Arnold O. Allen:::Getting Started in Analytic Modeling.
+conf/cmg/Allen86a:::Arnold O. Allen:::Introduction to Computer Modeling.
+conf/cmg/Richardson87:::Joseph W. Richardson:::Capacity Budgets and Financial Budgets: Relating Them to Each Other Through Resource Accounting.
+conf/cmg/TetzlaffG91a:::William H. Tetzlaff::Hossein H. Ghannad:::Paging in VM/ESA.
+conf/cmg/Cornejo91:::Rene Cornejo:::Availability of a Remote Processing Network.
+conf/cmg/Berkeley85:::Peter E. Berkeley:::Computer Operations Training: A Strategy for Change.
+conf/cmg/Scott87:::Jim Scott:::Reporting Availability at the Job Step Level.
+conf/cmg/GreenbergS95:::Margaret R. Greenberg::Henry Steinhauer:::LAN Performance: Sniffing Out Results Without Dogging The User.
+conf/cmg/DragoescuC95:::Claudia Dragoescu::Felipe Cabrera:::A Performance Modeling Tool For A Client/Server Backup Product.
+conf/cmg/Lieman90:::Stephen L. Lieman:::Never Accept the Unacceptable: A Powerful Approach for Correcting.
+conf/cmg/Hecker90:::Lyn Hecker:::Coping After the Disaster.
+conf/cmg/LevyS86:::Allan I. Levy::Victor C. Soder:::Performance Analysis During Application Design: An IMS Case Study.
+conf/cmg/Freimayer88:::Peter J. Freimayer:::Data Center Chargeback - A Resource Accounting Methodology.
+conf/cmg/Kraus98:::Irwin F. Kraus:::The RMF Type 70 Record: A Plethora of Possibilities.
+conf/cmg/Bhatnagar95:::Nirdosh Bhatnagar:::Characterization Of Bursty Traffic.
+conf/cmg/Pourciau90:::Marc Pourciau:::Developing an Application Tuning Strategy.
+conf/cmg/Stoesz85:::Roger D. Stoesz:::Validation Tips for Analytic Models of MVS Systems.
+conf/cmg/BiardoEM86:::Sam L. Biardo::Martha Evens::Anneliese von Mayrhauser:::Why Build an Expert System for Computer Performance Management?
+conf/cmg/Goldstein87:::Stephen Goldstein:::Storage Performance - An Eight Year Outlook.
+conf/cmg/Goldstein92:::Joel Goldstein:::DB2 Performance Planning - A Management Perspective.
+conf/cmg/Goldstein96:::Joel Goldstein:::DB2 Version 3 &amp; 4 Performance Metrics.
+conf/cmg/Zears81:::Russell W. Zears:::An Interactive Workload Model of a Virtual Memory System at Johnson Space Center.
+conf/cmg/Kroon86:::J. G. M. Kroon:::Program Behavior and Page Hit Probabilities.
+conf/cmg/Goodgold94:::Stuart R. Goodgold:::Distributed Backup and Restore Performance.
+conf/cmg/Roeseler88:::Armin Roeseler:::Determining the Relative Efficiencies Of Computation Systems: A Linear Programming Approach.
+conf/cmg/Young84:::Donald Young:::Regional Office Performance Measurement at State Farm.
+conf/cmg/Young92:::David J. Young:::IMS/ESA Versus CICS/ESA In a DB2 Query Environment.
+conf/cmg/Lambourne98:::Steve C. Lambourne:::Will the REAL Parallel Sysplex Please Stand Up.
+conf/cmg/Kimball85:::David Kimball:::Complex Network Management.
+conf/cmg/Kohlman90:::Chris Kohlman:::Improving CADAM and CICS Response Time - The Sequel.
+conf/cmg/BozikianA88:::G. Bozikian::J. William Atwood:::CICS LSR Buffer Simulator (CLBS).
+conf/cmg/BuzenS89:::Jeffrey P. Buzen::Annie W. Shum:::Modeling PR/SM and MDF.
+conf/cmg/Feinstein86:::Alan Feinstein:::I/O Differences Between MVS/370 and MVS/XA.
+conf/cmg/Williams87:::Brian Williams:::Accounting for Workload Variation in Interval Selection and Analysis.
+conf/cmg/Varbel92:::Daniel W. Varbel:::DASD Traffic Advisory: DB2 Intersection Ahead!
+conf/cmg/ZaslavskyK00:::Michael Zaslavsky::Alex Kvitko:::Evaluating Relative Processors Performance Using Real Life Workloads.
+conf/cmg/ZaslavskyK99:::Michael Zaslavsky::Alex Kvitko:::Service Level Targets - The First Step to Service Level Objectives.
+conf/cmg/McGavin95:::Ted McGavin:::Introduction To Controller Performance Analysis.
+conf/cmg/MackY86:::D. Russell Mack::William M. Yarnall:::Network Capacity Planning Implementation.
+conf/cmg/DodgeM98:::Ronald Dodge::Daniel A. Menascé:::Prefetching Inlines to Improve Web Server Latency.
+conf/cmg/Godbehere89:::W. W. Godbehere:::Managing the Vendor Interface Vendor Assessment: A Quantitative Management Process.
+conf/cmg/ShaneC87:::Jason G. Shane::James Cook:::CICS and DB2: A Marriage Made in Heaven?
+conf/cmg/Alviar84:::Santiago M. Alviar:::Design, Measurement, and Analysis of Performance Experiments on Selected Sorting Algorithms.
+conf/cmg/MacNairS84:::Edward A. MacNair::Charles H. Sauer:::Elements of Practical Performance Modeling.
+conf/cmg/Gimarc89:::Richard L. Gimarc:::Quantifying the Necessity of Configuration Upgrades.
+conf/cmg/MankekarM83:::Prakash S. Mankekar::Charles A. Milligan:::Performance Prediction and Validation of Interacting Multiple Subsystems in Skew-Loaded Cached DASD.
+conf/cmg/Beretvas99a:::Thomas Beretvas:::Assessing the Performance of MVS I/O Systems with a View Towards the Future.
+conf/cmg/BeretvasR02:::Thomas Beretvas::Barton Robinson:::Linux I/O Performance on VM.
+conf/cmg/Gewurtz88:::G. Gewurtz:::Chargeback Concepts.
+conf/cmg/Hsieh95a:::George S. Hsieh:::Intelligent Software Entities For Distributed Systems Management.
+conf/cmg/Terkowitz84:::Ralph S. Terkowitz:::Performance Management During Application Development.
+conf/cmg/Smith86:::Neal Smith:::A Technique for Analyzing VM Workload.
+conf/cmg/Smith87:::Connie U. Smith:::General Principles for Performance Oriented Design.
+conf/cmg/Felix91:::Sue Felix:::Account Management: Key to IS Success.
+conf/cmg/LongS87:::A. Long::W. Suhler:::A Flexible Approach to Performance Prediction For Large System Software Development.
+conf/cmg/Cruz-Uribe91a:::Benjamin Cruz-Uribe:::Forecasting Computer CPU Resources Using Business Elements: A K.I.S.S. Example.
+conf/cmg/Linton79:::Lee H. Linton:::Case Study: Design and Performance Evaluation of a Permanant File Archiving System.
+conf/cmg/Ingraham86:::Bruce A. Ingraham:::Introduction to Box-Jenkins Forecasting.
+conf/cmg/Ingraham87:::Bruce A. Ingraham:::What We Can Learn From Other Capacity Planners: A Survey of Quantitative Methods.
+conf/cmg/YuDRIC85:::Philip S. Yu::Daniel M. Dias::John T. Robinson::Balakrishna R. Iyer::Douglas Cornell:::Distributed Concurrency Control Analysis for Data Sharing.
+conf/cmg/Samson92a:::Stephen L. Samson:::MVS Performance Management: ESA/390 Edition.
+conf/cmg/Sherkow00:::Alan M. Sherkow:::Update on LPAR and Parallel Sysplex Capacity Planning.
+conf/cmg/Somin91:::Yefim Somin:::Performance Analysis in GUI Environments under UNIX.
+conf/cmg/Lipsky96:::Lester Lipsky:::Modelling Telecommunications Systems That Have Power-Tail (Bursty, Chaotic, Heavy-Tail, Self-Similar, etc.) Traffic.
+conf/cmg/Barnett91a:::Brian O. Barnett:::An Introduction to Time Series Forecasting for CPE.
+conf/cmg/MachugaL95:::Michael J. Machuga::Rick Lebsack:::Chargeback: An Adventure In Re-engineering.
+conf/cmg/Erwin88:::Harry R. Erwin:::Performance Engineering Techniques for Complex Dynamic Systems.
+conf/cmg/Maccabee96:::Mark M. Maccabee:::Client/Server End-To-End Response Time: Real Life Experience.
+conf/cmg/Miller87a:::George W. (Bill) Miller:::Workload Characterization and Forecasting for a Large Commercial Environment.
+conf/cmg/MacKinnon89:::Douglas R. MacKinnon:::Lies, Damned Lies and Statistics.
+conf/cmg/Lubow94:::Diana Lubow:::Understanding the Performance of Tape Library Storage Systems.
+conf/cmg/WestallGS99:::James Westall::Robert Geist::Kevin F. Spicer:::Simulation Modeling of Self-Similarity in Network Traffic.
+conf/cmg/Merton98:::Joseph K. Merton:::Organizational Behavior to Systems Implementation Failures.
+conf/cmg/Shallahamer01a:::Craig A. Shallahamer:::The Ratio Modeling Technique - Quickly Performing Low Confidence Capacity Predictions.
+conf/cmg/Rimicci91:::Carol Rimicci:::DB2 Performance Trace - Maximizing the Benefits while Minimizing the Overhead.
+conf/cmg/Becker84b:::Glen Becker:::Modelling the Memory Impact of TSO and Batch Growth.
+conf/cmg/Reddington76:::Dennis M. Reddington:::Data Processing Authority Workload History, Characterization, and Forecast Description.
+conf/cmg/Dujmovic96:::Jozo J. Dujmovic:::A Method For Evaluation And Selection Of Complex Hardware And Software Systems.
+conf/cmg/TharejaABHMPZ83:::Ashok K. Thareja::Subhash C. Agrawal::Jeffrey P. Buzen::D. E. Hall::Robert W. McNitt::E. B. Petrovich::C. Zaiontz:::Impact of Network Parameters on the Performance of Single Domain SNA Networks.
+conf/cmg/HenleyL87:::Martha R. Henley::Ingrid Liu:::Static vs Dynamic Management of Consistently Very Active Data Sets.
+conf/cmg/HenleyM89:::Marti R. Henley::Bruce McNutt:::DASD I/O Characteristics, A Comparison of MVS to VM.
+conf/cmg/TripathiS77:::Satish K. Tripathi::Kenneth C. Sevcik:::The Influence of Multiprogramming Limit on Interactive Response Time in a Virtual Memory System.
+conf/cmg/Brandenstein91:::Rick Brandenstein:::When 31 Bit REAL is not Enough....
+conf/cmg/Sutton83:::Daniel A. Sutton:::How Simple can a Cost Allocation System be?
+conf/cmg/Ingrassia87:::Frank J. Ingrassia:::Expert Systems: Let's Build one Together.
+conf/cmg/KumarR87:::Arun Kumar::Melur K. Raghuraman:::Balanced Exponential Approximation Algorithm.
+conf/cmg/Norton96:::Tim R. Norton:::Simalytic Enterprise Modeling - The Best Of Both Worlds.
+conf/cmg/MohrP80:::Jeffrey Mohr::Steven G. Penansky:::A Framework for the Projection of ADP Workloads.
+conf/cmg/Foxon00:::Tim Foxon:::Performance Management and Capacity Planning for Microsoft SQL Server.
+conf/cmg/Gunther94a:::Neil J. Gunther:::The Answer is Still 42 but What's the Question? The Paradox of Open Systems Benchmarks.
+conf/cmg/SyedS02:::Saqib N. Syed::Deborah A. Sheetz:::Sizing Exchange 2000 Server based on Exchange 5.5 Workloads.
+conf/cmg/Moore85:::Fred Moore:::Solid State Device Considerations.
+conf/cmg/Goosmann99:::Clifford J. Goosmann:::Managing Tape in the Next Millennium.
+conf/cmg/Bastian82:::A. Lewis Bastian:::Cached DASD Performance Prediction and Validation.
+conf/cmg/Bastian85:::A. Lewis Bastian:::Getting Good Performance from a PC.
+conf/cmg/Hoffecker88:::Jeffrey C. Hoffecker:::A Performance Analysis of Solid-State Disk.
+conf/cmg/StadelmannA96:::Michael R. Stadelmann::Subhash C. Agrawal:::UNIX Web Server Performance Analysis.
+conf/cmg/AskinsBST90:::Bradley J. Askins::Christopher G. Butler::David Singleton::H. Reza Taheri:::Tracer: A Tool to Trace and Time Procedure Call Graphs.
+conf/cmg/Griffith90a:::David P. Griffith:::DASD Performance - The Hidden Variables.

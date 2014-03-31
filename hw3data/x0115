@@ -1,0 +1,200 @@
+conf/ijcai/KuzinPF75:::E. Kuzin::G. Pozdnyak::I. Fominykh:::Planning The Activity Of Robot With Artificial Intelligence.
+conf/ijcai/HuangF97:::Xiaorong Huang::Armin Fiedler:::Proof Verbalization as an Application of NLG.
+conf/ijcai/HuangR97:::Timothy Huang::Stuart J. Russell:::Object Identification in a Bayesian Context.
+conf/ijcai/StrouliaG97:::Eleni Stroulia::Ashok K. Goel:::Redesigning a Problem-Solver's Operations to Improve Solution Quality.
+conf/ijcai/Eshghi93:::Kave Eshghi:::A Tractable Class of Abduction Problems.
+conf/ijcai/IsraelPT91:::David Israel::John Perry::Syun Tutiya:::Actions and Movements.
+conf/ijcai/Hayashi95:::Yoshihiko Hayashi:::Recovering Problem-Solving Activities from Query Messages.
+conf/ijcai/RagavanRST93:::Harish Ragavan::Larry A. Rendell::Michael J. Shaw::Antoinette Tessmer:::Complex Concept Acquisition through Directed Search and Feature Caching.
+conf/ijcai/SchuurmansSH01:::Dale Schuurmans::Finnegan Southey::Robert C. Holte:::The Exponentiated Subgradient Algorithm for Heuristic Boolean Programming.
+conf/ijcai/AndersonDW01:::Corin R. Anderson::Pedro Domingos::Daniel S. Weld:::Adaptive Web Navigation for Wireless Devices.
+conf/ijcai/DeckerL93:::Keith Decker::Victor R. Lesser:::An Approach to Analyzing the Need for Meta-Level Communication.
+conf/ijcai/Tadepalli91:::Prasad Tadepalli:::A Formalization of Explanation-Based Macro-operator Learning.
+conf/ijcai/Doyle83a:::Jon Doyle:::The Ins and Outs of Reason Maintenance.
+conf/ijcai/WechslerS75:::Harry Wechsler::J. Skiansky:::Automatic Detection Of Rib Contours in Chest Radiographs.
+conf/ijcai/BouhoulaR93:::Adel Bouhoula::Michaël Rusinowitch:::Automatic Case Analysis in Proof by Induction.
+conf/ijcai/DudekJMW93:::Gregory Dudek::Michael R. M. Jenkin::Evangelos E. Milios::D. Wilkes:::Map Validation and Self-location in a Graph-like World.
+conf/ijcai/Sandewall85:::Erik Sandewall:::A Functional Approach to Non-Monotonic Logic.
+conf/ijcai/Sandewall93:::Erik Sandewall:::The Range of Applicability of Nonmonotonic Logics for the Inertia Problem.
+conf/ijcai/MorgensternS97:::Leora Morgenstern::Moninder Singh:::An Expert System Using Nonmonotonic Techniques for Beneefits Inquiry in the Insurance Industry.
+conf/ijcai/Kaplan71:::Ronald M. Kaplan:::Augmented Transition Networks as Psychological Models of Sentence Comprehension.
+conf/ijcai/RubinB77:::Aviel D. Rubin::Bertram C. Bruce:::From Conversations to Stories: An Analysis of Differences Between Oral and Written Language Comprehension.
+conf/ijcai/MurrayR85:::Neil V. Murray::Erik Rosenthal:::Path Resolution with Link Deletion.
+conf/ijcai/SinghG85:::Vineet Singh::Michael R. Genesereth:::A Variable Supply Model for Distributing Deductions.
+conf/ijcai/PerraultK77:::C. Raymond Perrault::P. R. Kohen:::Overview of 'Planning Speech Acts'
+conf/ijcai/Faltings87:::Boi Faltings:::Qualitative Kinematics in Mechanisms.
+conf/ijcai/ClergueC99:::Manuel Clergue::Philippe Collard:::Genetic Heuristic for Search Space Exploration.
+conf/ijcai/Madama75:::P. Madama:::A Control Structure For A Question-Answering System.
+conf/ijcai/OyamaKIYK01:::Satoshi Oyama::Takashi Kokubo::Toru Ishida::Teruhiro Yamada::Yasuhiko Kitamura:::Keyword Spices: A New Method for Building Domain-Specific Web Search Engines.
+conf/ijcai/NoguchiO69:::Shoichi Noguchi::Juro Oizumi:::Characteristics and Organizing Capability of Statistical Organizer.
+conf/ijcai/PopplestoneBAC75:::Robin J. Popplestone::Christopher M. Brown::A. P. Ambler::G. Crawford:::Forming Models Of Plane-And-Cylinder Faceled Bodies From Light Stripes.
+conf/ijcai/GruberC87:::Thomas R. Gruber::Paul R. Cohen:::Knowledge Engineering Tools at the Architecture Level.
+conf/ijcai/KubicaCH01:::Jeremy Kubica::Arancha Casal::Tad Hogg:::Agent-Based Control for Object Manipulation with Modular Self-reconfigurable Robots.
+conf/ijcai/GershonJT87:::Ron Gershon::Allan D. Jepson::John K. Tsotsos:::The Use of Color in Highlight Identification.
+conf/ijcai/DvorakK89:::Daniel Dvorak::Benjamin Kuipers:::Model-Based Monitoring of Dynamic Systems.
+conf/ijcai/ChangF89:::Kuo-Chu Chang::Robert M. Fung:::Node Aggregation for Distributed Inference in Bayesian Networks.
+conf/ijcai/AhaK89:::David W. Aha::Dennis F. Kibler:::Noise-Tolerant Instance-Based Learning Algorithms.
+conf/human/KimH01:::Seok-Soo Kim::Dea-Joon Hwang:::An Algorithm for Formation and Confirmation of Password for Paid Members on the Internet-Based Telemedicine.
+conf/human/KwonCC03:::Eun-Kyeong Kwon::Yong-Gu Cho::Kijoon Chae:::Refundable Electronic Cash for Mobile Commerce.
+conf/human/MartinezC03:::Javier Jaén Martínez::José Hilario Canós Cerdá:::A Grid Architecture for Building Hybrid Museums.
+conf/human/LeeJ03:::Dong Hoon Lee::Soon Ki Jung:::Computer Vision-Assisted Interaction in X3D Virtual Environment on WWW.
+conf/human/HungC03:::Kuo-Lung Hung::Chin-Chen Chang:::A Robust and Recoverable Tamper Proofing Technique for Image Authentication.
+conf/human/LeungL01:::Elvis Wai Chung Leung::Qing Li:::Agent-Based Approach to e-Learning: An Architectural Framework.
+conf/human/LeeLGLPS03:::Jaeil Lee::Minsoo Lee::Jabeom Gu::Seoklae Lee::Sehyun Park::JooSeok Song:::New Adaptive Trust Models against DDoS: Back-Up CA and Mesh PKI.
+conf/human/BaikYSH03:::MaengSoon Baik::KwonWoo Yang::Jin Gon Shon::Chong-Sun Hwang:::Message Transferring Model between Mobile Agents in Multi-region Mobile Agent Computing Environment.
+conf/human/KimLPSJ03:::Gwanyeon Kim::Chinu Lee::Sehyun Park::Ohyoung Song::Byungho Jung:::A Study on Mobile Commerce AAA Mechanism for Wireless LAN.
+conf/human/JangKR01:::Sei-Ie Jang::Joong-Han Kim::R. S. Ramakrishna:::Framework for Building Mobile Contex-Aware Applications.
+conf/human/KwonLLL03:::Youngsun Kwon::Hong-Kyu Lee::Sunmi Lee::Jungsub Lee:::The Virtual Enterprise: Redefining the Concept.
+conf/human/KohOW03:::Gunyoung Koh::Duyoung Oh::Heekyoung Woo:::A Graph-Based Approach to Compute Multiple Paths in Mobile Ad Hoc Networks.
+conf/human/LeeHSSRF03:::Wonjun Lee::Raja Harinath::Jaideep Srivastava::Difu Su::James Richardson::Mark Foresti:::Experiences with Media-Integrated Distributed Control for C4IApplications in Global Military Infosphere.
+conf/human/Diaz-AlcantaraM01:::Oscar Díaz-Alcántara::Dermont McCluskey:::Towards Policy-Based Management QoS in Multicommunicative Education.
+conf/human/KongLL03:::In-Yeup Kong::Joong-Lyul Lee::Jung-Tae Lee:::Design and Implementation of IPv6-IPv4 Protocol Translation System Using Dynamic IP Address.
+conf/imacs/LambiotteBHO82:::Jules J. Lambiotte Jr.::Shahid H. Bokhari::M. Yousuff Hussaini::Steven A. Orszag:::Navier-Stokes Solution on the CYBER-203 by a Pseudospectral Technique.
+conf/imacs/Ameling84:::Walter Ameling:::Simulation Using Parallelism in Computer Architecture.
+conf/imacs/MyersC82:::Thomas J. Myers::A. Toni Cohen:::Through a Glass Darkly: Observations on Referential Translucency.
+conf/imacs/BakocsS84:::László Bakocs::Jozsef Sivak:::Economy-wide Planning and Simulation.
+conf/imacs/FaroM82:::Alberto Faro::Gaetano Messina:::A Layered Approach for Performance Evaluation of Computer Networks.
+conf/imacs/WallisG82:::John R. Wallis::J. Rodney Grisham:::Petroleum Reservoir Simulation on the CRAY-1 and on the FPS-164.
+conf/imacs/Kulisch82:::Ulrich W. Kulisch:::A New Arithmetic for Scientific Computation.
+conf/imacs/SchonauerR82:::Willi Schönauer::Karlheinz Raith:::A Polyalgorithm with Diagonal Storing for the Solution of Very Large Indefinite Linear Banded Systems on a Vector Computer.
+conf/imcim/Preucil95:::Libor Preucil:::Active Subsystems for CIM Environments.
+conf/imcim/Kroha95:::Petr Kroha:::Shortcomings and Extensions of Relational DBMS.
+conf/jbidi/Lopez-CuadradoVSPAZ01:::Javier López-Cuadrado::Mikel Villamañe::Julián Gutiérrez Serrano::Tomás A. Pérez::Rosa Arruabarrena::José Ángel Vadillo Zorita:::CIBERBIBLIO: Una Biblioteca Virtual Multimedia.
+conf/jbidi/Ortiz-RojasC03:::Sergio Ortiz-Rojas::Rafael C. Carrasco:::Presentación sinóptica de textos bilingües mediante distancias de edición.
+conf/jbidi/PerezACL01:::Juan Manuel Pérez::Isabel Alfaro::María José Aramburu Cabo::Rafael Berlanga Llavori:::Sistema de Suscripción basado en XML para noticias digitales.
+conf/jbidi/Palacio00:::Javier Gutiérrez Palacio:::Generación de texto redundante para recuperar información: la experiencia con las Firmas de Infanzonía del AHP de Zaragoza.
+conf/jbidi/Borges00:::Karen Selbach Borges:::SEOD - Sistema para Gerência de Empréstimos e Devoluções de Objetos Digitais.
+conf/jbidi/CerdaFGF00:::José Hilario Canós Cerdá::Edward A. Fox::Marcos André Gonçalves::Robert K. France:::NDLTD: una biblioteca digital global de tesis doctorales y de licenciatura.
+conf/incdm/HippGN02:::Jochen Hipp::Ulrich Güntzer::Gholamreza Nakhaeizadeh:::Data Mining of Association Rules and the Process of Knowledge Discovery in Databases.
+conf/jcdcg/Avis98:::David Avis:::Living with <i>lrs</i>.
+conf/jcdcg/Nielsen98:::Frank Nielsen:::Grouping and Querying: A Paradigm to Get Output-Sensitive Algorithms.
+conf/jcdcg/IaconoL00:::John Iacono::Stefan Langerman:::Volume Queries in Polyhedra.
+conf/jcdcg/NagaiT00:::Takayuki Nagai::Nobuki Tokura:::Tight Error Bounds of Geometric Problems on Convex Objects with Imprecise Coordinates.
+conf/jcdcg/SchmittS98:::Dominique Schmitt::Jean-Claude Spehner:::Order-<i>k</i> Voronoi Diagrams, <i>k</i>-Sections, and <i>k</i>-Sets.
+conf/jcdkb/FreitagB88:::Burkhard Freitag::Olaf Biernath:::An Airtravel Expert Database.
+conf/jcdkb/BeeriNT88:::Catriel Beeri::Roger Nasr::Shalom Tsur:::Embedding Psi-Terms in a Horn-Clause Logic Language.
+conf/jcdkb/MirandaN82:::Serge Miranda::Jean Nsonde::José Busta:::LAGRIF: A Pictorial Non-Programmer-Oriented Request Language for a Relational Data Base Management System.
+conf/jcdkb/SernadasG82:::Amílcar Sernadas::Graça Gaspar::José Granado:::BIPS: A Layered Predicative Query Language for a DBTG Database System.
+conf/jcdkb/AbiteboulV88:::Serge Abiteboul::Victor Vianu:::The Connection of Static Constraints with Determinism and Boundedness of Dynamic Specifications.
+conf/jcdkb/SaccaZ88:::Domenico Saccà::Carlo Zaniolo:::Differential Fixpoint Methods and Stratification of Logic Programs.
+conf/jcdkb/BerkelKSW88:::Thomas Berkel::Peter Klahold::Gunter Schlageter::Wolfgang Wilkes:::Modelling CAD-Objects by Abstraction.
+conf/jcdkb/GreenblattW78:::David Greenblatt::Jerry Waxman:::A Study of Three Database Query Languages.
+conf/imycs/Hromkovic86:::Juraj Hromkovic:::Lower bound techniques for VLSI algorithms.
+conf/imycs/CulikD90:::Karel Culik II::Simant Dube:::Methods for Generating Deterministic Fractals and Image Compression.
+conf/imycs/Kari88:::Jarkko Kari:::A Cryptosystem Based on Propositional Logic.
+conf/imycs/Tuza86:::Zsolt Tuza:::Some combinatorial problems concerning finite languages.
+conf/inria/Boisserie73:::J. M. Boisserie:::Application de la méthode de éléments finis - Un procédé de sous-assemblage.
+conf/inria/BensoussanL73:::Alain Bensoussan::J. L. Lions:::Sur l'approximation numérique d'inéquations quasi-variationnelles stationnaires.
+conf/inria/ArgyrisD73:::J. H. Argyris::P. C. Dunne:::Some contributions to non-linear solid mechanics.
+conf/inria/MirankerH73:::Willard L. Miranker::F. Hoppensteadt:::Numerical methods for stiff systems of differential equations related with transistors, tunnel diodes, etc..
+conf/inria/Netravali92:::Arun N. Netravali:::Digital HDTV: A Technical Challenge.
+conf/inria/Sussmann92:::Héctor J. Sussmann:::Differential-Geometric Methods: A Powerful Set of New Tools for Optimal Control.
+conf/inria/Chavent73:::G. Chavent:::Estimation de paramètres distribués dans les équations aux dérivées partielles.
+conf/iolts/OikonomakosZ02:::Petros Oikonomakos::Mark Zwolinski:::Transformation Based Insertion of On-Line Testing Resources in a High-Level Synthesis Environment.
+conf/iolts/Bolsens03:::Ivo Bolsens:::Challenges and Opportunities for FPGA Programmable System Platforms.
+conf/iolts/AlderighiDSM01:::Monica Alderighi::Sergio D'Angelo::Giacomo R. Sechi::Cecilia Metra:::Novel Fault-Tolerant Adder Design for FPGA-Based Systems.
+conf/iolts/GoncalvesSTT01:::F. M. Gonçalves::Marcelino B. Santos::I. C. Teixeira::João Paulo Teixeira:::Design and Test of Certifiable ASICs for Safety-Critical Gas Burners Contro.
+conf/iolts/SchianoMM02:::Luca Schiano::Cecilia Metra::Diego Marino:::Design and Implementation of a Self-Checking Scheme for Railway Trackside Systems.
+conf/iolts/BensoCNPB00:::Alfredo Benso::Silvia Chiusano::Giorgio Di Natale::Paolo Prinetto::Monica Lobetti Bodoni:::A Family of Self-Repair SRAM Cores.
+conf/iolts/Bied-CharretonGJ02:::D. Bied-Charreton::D. Guillon::B. Jacques:::The YATE Fail-Safe Interface: The User's Point of View.
+conf/iolts/NicolaidisZCB00:::Michael Nicolaidis::N. Zaidan::Th. Calin::D. Bied-Charreton:::ISIS: A Fail-Safe Interface Realized in Smart Power Technology.
+conf/iolts/PflanzWGV02:::Matthias Pflanz::K. Walther::C. Galke::Heinrich Theodor Vierhaus:::On-Line Error Detection and Correction in Storage Elements with Cross-Parity Check.
+conf/iolts/PicosFIRG03:::Rodrigo Picos::Joan Font::Eugeni Isern::Miquel Roca::Eugenio García:::A Configurable Built in Current Sensor for Mixed Signal Circuit Testing.
+conf/iolts/MarienfeldSOG02:::D. Marienfeld::Egor S. Sogomonyan::V. Ocheretnij::Michael Gössel:::A New Self-Checking Code-Disjoint Carry-Skip Adder.
+conf/iolts/LalaK01:::P. K. Lala::Mark G. Karpovsky:::An Approach for Designing On-Line Testable State Machines.
+conf/iolts/PiestrakBK01:::Stanislaw J. Piestrak::Dimitris Bakalis::Xrysovalantis Kavousianos:::On the Design of Self-Testing Checkers for Modified Berger Codes.
+conf/iolts/AidemarkFK01:::Joakim Aidemark::Peter Folkesson::Johan Karlsson:::Path-Based Error Coverage Prediction.
+conf/iolts/KagarisT01:::Dimitri Kagaris::Spyros Tragoudas:::Using a WLFSR to Embed Test Pattern Pairs in Minimum Time.
+conf/iolts/FontGIRSG02:::J. Font::J. Ginard::Eugeni Isern::Miquel Roca::Jaume Segura::E. García:::A BICS for CMOS Opamps by Monitoring the Supply Current Peak.
+conf/iolts/PflanzWV01:::Matthias Pflanz::K. Walther::Heinrich Theodor Vierhaus:::On-line Error Detection Techniques for Dependable Embedded Processors with High Complexity.
+conf/iolts/MerinoBHSCJVBFB01:::J. L. Merino::S. A. Bota::A. Herms::J. Samitier::E. Cabruja::X. Jordà::M. Vellvehí::J. Bausells::A. Ferré::J. Bigorr:::Smart Temperature Sensor for On-Line Monitoring in Automotive Applications.
+conf/iolts/ReordaV03:::Matteo Sonza Reorda::Massimo Violante:::Accurate and Efficient Analysis of Single Event Transients in VLSI Circuits.
+conf/iolts/LewisLDMDBF01:::D. Lewis::H. Lapuyade::Y. Deval::Y. Maidon::F. Darracq::R. Briand::P. Fouillat:::A New Laser System for X-Rays Flashes Sensitivity Evaluation.
+conf/iolts/EntrenaLOME01:::Luis Entrena::Celia López::Emilio Olías::Enrique San Millán::José Alberto Espejo:::Logic Optimization of Unidirectional Circuits with Structural Methods.
+conf/iolts/Kagaris02:::Dimitri Kagaris:::Built-in Generation of m -Sequences with Irreducible Characteristic Polynomials.
+conf/jelia/Muskens90:::Reinhard Muskens:::Anaphora and the Logic of Change.
+conf/jelia/Genesereth96:::Michael R. Genesereth:::McCarthy's Idea.
+conf/jelia/JanhunenO02:::Tomi Janhunen::Emilia Oikarinen:::Testing the Equivalence of Logic Programs under Stable Model Semantics.
+conf/jelia/AngerKL02:::Christian Anger::Kathrin Konczak::Thomas Linke:::NoMoRe : Non-monotonic Reasoning with Logic Programs.
+conf/jelia/Sierra-Santibanez00:::Josefina Sierra-Santibáñez:::Declarative Formalization of Strategies for Action Selection: Applications to Planning.
+conf/jelia/RahatFS90:::Amir Rahat::Nissim Francez::Oded Shmueli:::On the Equivalence of Deferred Substitution and Immediate Substitution Semantics for Logic Programs.
+conf/jelia/CostantiniT02:::Stefania Costantini::Arianna Tocchio:::A Logic Programming Language for Multi-agent Systems.
+conf/jelia/AlferesDP02:::José Júlio Alferes::Pierangelo Dell'Acqua::Luís Moniz Pereira:::A Compilation of Updates plus Preferences.
+conf/jelia/AlferesPP96:::José Júlio Alferes::Luís Moniz Pereira::Teodor C. Przymusinski:::Strong and Explicit Negation in Non-Monotonic Reasoning and Logic Programming.
+conf/jelia/VosV00:::Marina De Vos::Dirk Vermeir:::A Logic for Modeling Decision Making with Dynamic Preferences.
+conf/jelia/AlferesP00:::José Júlio Alferes::Luís Moniz Pereira:::Updates plus Preferences.
+conf/jelia/DemriK98:::Stéphane Demri::Beata Konikowska:::Relative Similarity Logics are Decidable: Reduction to FO<sup>2</sup> with Equality.
+conf/jelia/Vakarelov92:::Dimiter Vakarelov:::A Modal Theory of Arrows. Arrow Logics I.
+conf/jelia/MantelK98:::Heiko Mantel::Christoph Kreitz:::A Matrix Characterization for MELL.
+conf/jelia/BeierleK02:::Christoph Beierle::Gabriele Kern-Isberner:::Using Institutions for the Study of Qualitative and Quantitative Conditional Logics.
+conf/jelia/RoyerQ92:::Véronique Royer::Joachim Quantz:::Deriving Inference Rules for Terminological Logics.
+conf/jelia/LinkeAK02:::Thomas Linke::Christian Anger::Kathrin Konczak:::More on noMoRe.
+conf/jelia/NicolasSS02:::Pascal Nicolas::Frédéric Saubion::Igor Stéphan:::Answer Set Programming by Ant Colony Optimization.
+conf/jelia/Chatalic94:::Philippe Chatalic:::Viewing Hypothesis Theories as Constrained Graded Theories.
+conf/jelia/Leiss90:::Hans Leiß:::Polymorphic Constructs in Natural and Programming Languages.
+conf/jelia/DegtyarevV96:::Anatoli Degtyarev::Andrei Voronkov:::What You Always Wanted to Know About Rigid E-Unification.
+conf/jelia/Petermann90:::Uwe Petermann:::Towards a Connection Procedure with Built in Theories.
+conf/jelia/AguileraGO94:::Gabriel Aguilera::Inman P. de Guzmán::Manuel Ojeda:::TAS-D<sup>++</sup>: Syntactic Trees Transformations for Automated Theorem Proving.
+conf/jelia/EiterFLPP02a:::Thomas Eiter::Wolfgang Faber::Nicola Leone::Gerald Pfeifer::Axel Polleres:::The DLV<sup>K</sup> Planning System: Progress Report.
+conf/jelia/LinkeS98:::Thomas Linke::Torsten Schaub:::An Approach to Query-Answering in Reiter's Default Logic and the Underlying Existence of Extensions Problem.
+conf/jelia/GiordanoS02:::Laura Giordano::Camilla Schwind:::Towards a Conditional Logic of Actions and Causation.
+conf/jelia/Davies90:::Nick Davies:::A First Order Logic of Truth, Knowledge and Belief.
+conf/jelia/Sandewall98:::Erik Sandewall:::The Logical Characterization of Goal-Directed Behavior in the Presence of Exogenous Events.
+conf/jelia/Pereira90:::Fernando C. N. Pereira:::Semantic Interpretation as Higher-Order Deduction.
+conf/jelia/SchmidtT02:::Renate A. Schmidt::Dmitry Tishkovsky:::Multi-agent Logics of Dynamic Belief and Knowledge.
+conf/jelia/ArtosiBGR96:::Alberto Artosi::Paola Benassi::Guido Governatori::Antonino Rotolo:::Labelled Proofs for Quantified Modal Logic.
+conf/ipsen/Westfechtel96b:::Bernhard Westfechtel:::Specification of the Management of Products, Processes, and Reseources.
+conf/ipsen/Schurr96a:::Andy Schürr:::The Formal Background of PROGRES.
+conf/iptps/ChenKK02:::Yan Chen::Randy H. Katz::John Kubiatowicz:::Dynamic Replica Placement for Scalable Content Delivery.
+conf/isaac/Ogawa92:::Mizuhito Ogawa:::Chew's Theorem Revisited -Uniquely Normalizing Property of Nonlinear Term Rewriting Systems-.
+conf/isaac/BaoI94:::Feng Bao::Yoshihide Igarashi:::A Randomized Algorithm to Finite Automata Public Key Cryptosystem.
+conf/isaac/SrivastavS94:::Anand Srivastav::Peter Stangier:::Algorthmic Chernoff-Hoeffding Inequalitiers in Integer Programming.
+conf/isaac/Chen95:::Zhi-Zhong Chen:::NC Algorithms for Partitioning Sparse Graphs into Induced Forests with an Application.
+conf/isaac/DasH93:::Gautam Das::Paul J. Heffernan:::Constructing Degree-3 Spanners with Other Sparseness Properties.
+conf/isaac/ChenLW93:::Siu-Wing Cheng::Andrew Lim::Ching-Ting Wu:::Optimal Rectilinear Steiner Tree for Extremal Point Sets.
+conf/isaac/ChenLX01:::Danny Z. Chen::Shuang Luan::Jinhui Xu:::Topological Peeling and Implementation.
+conf/isaac/AronovKOV98:::Boris Aronov::Marc J. van Kreveld::René van Oostrum::Kasturi R. Varadarajan:::Facility Location on Terrains.
+conf/isaac/BergOGSTHS93:::Mark de Berg::Mark H. Overmars::Leonidas J. Guibas::Otfried Schwarzkopf::Monique Teillaud::Dan Halperin::Micha Sharir:::Reaching a Goal with Directional Uncertainty.
+conf/isaac/ItoIUYI00:::Hiro Ito::Yuichiro Itatsu::Hideyuki Uehara::Mitsuo Yokoyama::Motoyasu Ito:::Location Problems Based on Node-Connectivity and Edge-Connectivity between Nodes and Node-Subsets.
+conf/isaac/Cai02:::Jin-yi Cai:::On the Minimum Volume of a Perturbed Unit Cube.
+conf/isaac/Shi95:::Fei Shi:::Fast Approximate Dictionary Matching.
+conf/isaac/Zhu94:::Binhai Zhu:::Further Computational Geometry in Secondary Memory.
+conf/isaac/GreenbergHS93:::Ronald I. Greenberg::Shih-Chuan Hung::Jau-Der Shih:::Parallel Algorithms for Single-Layer Channel Routing.
+conf/isaac/Asano94:::Tetsuo Asano:::Reporting and Counting Intersections of Lines within a Polygon.
+conf/isaac/HsuLT99:::Fang-Rong Hsu::Yaw-Ling Lin::Yin-Te Tsai:::Parallel Algorithms for Shortest Paths and Related Problems on Trapezoid Graphs.
+conf/isaac/WangCX96:::Cao An Wang::Francis Y. L. Chin::Yin-Feng Xu:::A New Subgraph of Minimum Weight Triangulations.
+conf/isaac/BoseM99:::Prosenjit Bose::Pat Morin:::Online Routing in Triangulations.
+conf/isaac/SunR01:::Zheng Sun::John H. Reif:::BUSHWHACK: An Approximation Algorithm for Minimal Paths through Pseudo-Euclidean Spaces.
+conf/isaac/FeuersteinM93:::Esteban Feuerstein::Alberto Marchetti-Spaccamela:::Memory Paging for Connectivity and Path Problems in Graphs.
+conf/isaac/Chen93a:::Danny Z. Chen:::Optimally Computing the Shortest Weakly Visible Subedge of a Simple Polygon.
+conf/isaac/Cheng02:::Qi Cheng:::Some Remarks on the L-Conjecture.
+conf/isaac/WuLL00:::Q. S. Wu::Chin Lung Lu::Richard C. T. Lee:::An Approximate Algorithm for the Weighted Hamiltonian Path Completion Problem on a Tree.
+conf/isaac/Tajima98:::Akira Tajima:::Optimality and Integer Programming Formulations of Triangulations in General Dimension.
+conf/isaac/AsanoKK99:::Tetsuo Asano::Naoki Katoh::Kazuhiro Kawashima:::A New Approximation Algorithm for the Capacitated Vehicle Routing Problem on a Tree.
+conf/isaac/FossmeierKZ93:::Ulrich Fößmeier::Michael Kaufmann::Alexander Zelikovsky:::Faster Approximation Algorithms for the Rectilinear Steiner Tree Problem.
+conf/isaac/DuchEM98:::Amalia Duch::Vladimir Estivill-Castro::Conrado Martinez:::Randomized K-Dimensional Binary Search Trees.
+conf/isaac/PanconesiPTV94:::Alessandro Panconesi::Marina Papatriantafilou::Philippas Tsigas::Paul M. B. Vitányi:::Randomized Wait-Free Naming.
+conf/isaac/Preparata95:::Franco P. Preparata:::Should Amdahl's Law Be Repealed? (Abstract).
+conf/isaac/MatsuuraN97:::Kaihiro Matsuura::Akira Nagoya:::Formulation of the Addition-Shift-Sequence Problem and Its Complexity.
+conf/isaac/LeePC99:::Jae-Ha Lee::Chong-Dae Park::Kyung-Yong Chwa:::Carrying Umbrellas: An Online Relocation Problem on Graphs.
+conf/isaac/LeeSC96:::Jae-Ha Lee::Chan-Su Shin::Kyung-Yong Chwa:::Directed Hamiltonian Packing in <i>d</i>-Dimensional Meshes and Its Application (Extended Abstract).
+conf/isaac/HuangCC00:::Jingui Huang::Jianer Chen::Songqiao Chen:::A Simple Linear-Time Approximation Algorithm for Multi-processor Job Scheduling on Four Processors.
+conf/isaac/AbelloESU95:::James Abello::Vladimir Estivill-Castro::Thomas C. Shermer::Jorge Urrutia:::Illumination with Orthogonal Floodlights.
+conf/isaac/CiceroneSH99:::Serafino Cicerone::Gabriele Di Stefano::Dagmar Handke:::Survivable Networks with Bounded Delay: The Edge Failure Case.
+conf/isaac/AsanoHIM00:::Takao Asano::Magnús M. Halldórsson::Kazuo Iwama::Takeshi Matsuda:::Approximation Algorithms for the Maximum Power Consumption Problem on Combinatorial Circuits.
+conf/isaac/Litow96:::Bruce E. Litow:::Bounded Length UCFG Equivalence.
+conf/isaac/JansenP00:::Klaus Jansen::Lorant Porkolab:::Preemptive Parallel Task Scheduling in O(n)+Poly(m) Time.
+conf/isaac/Yamamoto01:::Hiroaki Yamamoto:::A New Recognition Algorithm for Extended Regular Expressions.
+conf/isaac/Sanders99:::Peter Sanders:::Asynchronous Random Polling Dynamic Load Balancing.
+conf/isaac/CrescenzoSY98:::Giovanni Di Crescenzo::Kouichi Sakurai::Moti Yung:::Checking Programs Discreetly: Demonstrating Result-Correctness Efficiently while Concealing it.
+conf/isaac/DehneKS02:::Frank K. H. A. Dehne::Rolf Klein::Raimund Seidel:::Maximizing a Voronoi Region: The Convex Case.
+conf/isaac/TaniI94:::Seiichiro Tani::Hiroshi Imai:::A Reordering Operation for an Ordered Binary Decision Diagram and an Extended Framework for Combinatorics of Graphs.
+conf/isaac/Kobayashi92:::Kojiro Kobayashi:::On Malign Input Distributions for Algorithms.
+conf/isaac/Shimozono95:::Shinichi Shimozono:::An Approximation Algorithm for Alphabet Indexing Problem.
+conf/isaac/Goldberg01:::Andrew V. Goldberg:::Shortest Path Algorithms: Engineering Aspects.
+conf/isaac/BiedlDLRS99:::Therese C. Biedl::Erik D. Demaine::Sylvain Lazard::Steven M. Robbins::Michael A. Soss:::Convexifying Monotone Polygons.
+conf/isaac/DedorathGH95:::Jürgen Dedorath::Jordan Gergov::Torben Hagerup:::More Efficient Parallel Flow Algorithms.
+conf/isaac/Sadakane00:::Kunihiko Sadakane:::Compressed Text Databases with Efficient Query Algorithms Based on the Compressed Suffix Array.
+conf/isaac/WatanabeMT92:::Toshimasa Watanabe::Toshiya Mashima::Satoshi Taoka:::The k-Edge-Connectivity Augmentation Problem of Weighted Graphs.
+conf/isaac/IwamaM99:::Kazuo Iwama::Shuichi Miyazaki:::Tree-Like Resolution Is Superpolynomially Slower Than DAG-Like Resolution for the Pigeonhole Principle.
+conf/isaac/BabelCKK01:::Luitpold Babel::Bo Chen::Hans Kellerer::Vladimir Kotov:::On-Line Algorithms for Cardinality Constrained Bin Packing Problems.

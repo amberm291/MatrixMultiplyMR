@@ -1,0 +1,200 @@
+conf/date/WambacqDZEMB99:::Piet Wambacq::Stéphane Donnay::Hocine Ziad::Marc Engels::Hugo De Man::Ivo Bolsens:::A Single-Package Solution for Wireless Transceivers.
+conf/date/GanesanV00:::Sree Ganesan::Ranga Vemuri:::Technology Mapping and Retargeting for Field-Programmable Analog Arrays.
+conf/date/Wilson01:::Ron Wilson:::Managing the SoC design challenge with "Soft" hardware.
+conf/date/DaveJ98:::Bharat P. Dave::Niraj K. Jha:::CASPER: Concurrent Hardware-Software Co-Synthesis of Hard Real-Time Aperiodic and Periodic Specifications of Embedded System Architectures.
+conf/date/AdlerB00:::Thorsten Adler::Erich Barke:::Single Step Current Driven Routing of Multiterminal Signal Nets for Analog Applications.
+conf/date/MaamarR99:::A. Maamar::G. Russel:::ADOLT -- An ADaptable On - Line Testing Scheme for VLSI Circuits.
+conf/date/DabrowskiP99:::Jerzy Dabrowski::Andrzej Pulka:::Experiences with Modeling of Analog and Mixed A/D Systems Based on PWL Technique.
+conf/date/HassounCC02:::Soha Hassoun::Eduardo Calvillo-Gámez::Christopher Cromer:::Verifying Clock Schedules in the Presence of Cross Talk.
+conf/date/Bricaud02:::Pierre Bricaud:::IP Day: How to Choose Semiconductor IP?
+conf/date/LiHCSWCCHL02:::Jun-Fu Li::Hsin-Jung Huang::Jeng-Bin Chen::Chih-Ping Su::Cheng-Wen Wu::Chuang Cheng::Shao-I Chen::Chi-Yi Hwang::Hsiao-Ping Lin:::A Hierarchical Test Scheme for System-On-Chip Designs.
+conf/date/MetraSRF02:::Cecilia Metra::Luca Schiano::Bruno Riccò::Michele Favalli:::Self-Checking Scheme for the On-Line Testing of Power Supply Noise.
+conf/date/PomeranzR98a:::Irith Pomeranz::Sudhakar M. Reddy:::Design-for-Testability for Synchronous Sequential Circuits using Locally Available Lines.
+conf/date/PomeranzRK03:::Irith Pomeranz::Sudhakar M. Reddy::Sandip Kundu:::On the Characterization of Hard-to-Detect Bridging Faults.
+conf/date/CataldoCPW00:::Silvia Cataldo::Silvia Chiusano::Paolo Prinetto::Hans-Joachim Wunderlich:::Optimal Hardware Pattern Generation for Functional BIST.
+conf/date/RedaS01:::Sherief Reda::A. Salem:::Combinational equivalence checking using Boolean satisfiability and binary decision diagrams.
+conf/date/ChandramouliWS98:::V. Chandramouli::Jesse Whittemore::Karem A. Sakallah:::AFTA: A Formal Delay Model for Functional Timing Analysis.
+conf/date/DiezL00:::Juan M. Díez::Juan Carlos López:::Influence of Manufacturing Variations in IDDQ Measurements: A New Test Criterion.
+conf/date/DingM02:::Li Ding::Pinaki Mazumder:::Optimal Transistor Tapering for High-Speed CMOS Circuits.
+conf/date/JiangMB03:::Jie-Hong Roland Jiang::Alan Mishchenko::Robert K. Brayton:::Reducing Multi-Valued Algebraic Operations to Binary.
+conf/date/GovindarajanV00:::Sriram Govindarajan::Ranga Vemuri:::Improving the Schedule Quality of Static-List Time-Constrained Scheduling.
+conf/date/AgaesseL99:::Jean-François Agaësse::Bernard Laurent:::Virtual Components Application and Customization.
+conf/date/PillaiJ03:::Satish Pillai::Margarida F. Jacome:::Compiler-Directed ILP Extraction for Clustered VLIW/EPIC Machines: Predication, Speculation and Modulo Scheduling.
+conf/date/SaitohAT01:::Makoto Saitoh::Masaaki Azuma::Atsushi Takahashi:::Clustering based fast clock scheduling for light clock-tree.
+conf/date/GouraryRUZGM00:::M. M. Gourary::S. G. Rusakov::S. L. Ulyanov::M. M. Zharov::K. K. Gullapalli::B. J. Mulvaney:::A New Approach for Computation of Timing Jitter in Phase Locked Loops.
+conf/date/LiverisZSG02:::N. Liveris::N. D. Zervas::Dimitrios Soudris::Constantinos E. Goutis:::A Code Transformation-Based Methodology for Improving I-Cache Performance of DSP Applications.
+conf/date/PenzesM02:::Paul I. Pénzes::Alain J. Martin:::An Energy Estimation Method for Asynchronous Circuits with Application to an Asynchronous Microprocessor.
+conf/date/ZhaoP98:::Wei Zhao::Christos A. Papachristou:::Testing DSP Cores Based on Self-Test Programs.
+conf/date/CarroKWO00:::Luigi Carro::Márcio Kreutz::Flávio Rech Wagner::Márcio Oyamad:::System Synthesis for Multiprocessor Embedded Applications.
+conf/date/JemaiKJ98:::A. Jemai::Polen Kission::Ahmed Amine Jerraya:::Architectural Simulation in the Context of Behavioral Synthesis.
+conf/date/LoKWH03:::Jennifer Y.-L. Lo::Wu-An Kuo::Allen C.-H. Wu::TingTing Hwang:::A Custom-Cell Identification Method for High-Performance Mixed Standard/Custom-Cell Designs.
+conf/date/MartorellMA03:::Ferran Martorell::Diego Mateo::Xavier Aragonès:::Modeling and Evaluation of Substrate Noise Induced by Interconnects.
+conf/date/JacomePRL99:::Margarida F. Jacome::Helvio Peixoto::Ander Royo::Juan C. Lopez:::The Design Space Layer: Supporting Early Design Space Exploration for Core-Based Designs.
+conf/date/PaschalisKPGZ99:::Antonis M. Paschalis::N. Kranitis::Mihalis Psarakis::Dimitris Gizopoulos::Yervant Zorian:::An Effective BIST Architecture for Fast Multiplier Cores.
+conf/date/ChandraC02:::Anshuman Chandra::Krishnendu Chakrabarty:::Test Resource Partitioning and Reduced Pin-Count Testing Based on Test Data Compression.
+conf/date/HsiaoC98:::Michael S. Hsiao::Srimat T. Chakradhar:::State Relaxation Based Subsequence Removal for Fast Static Compaction in Sequential Circuits.
+conf/date/CiesielskiKZR02:::Maciej J. Ciesielski::Priyank Kalla::Zhihong Zeng::Bruno Rouzeyre:::Taylor Expansion Diagrams: A Compact, Canonical Representation with Applications to Symbolic Verification.
+conf/date/Loore98:::Bart de Loore:::IP-Based System-on-a-Chip Design.
+conf/date/ChungBBM99:::Eui-Young Chung::Luca Benini::Alessandro Bogliolo::Giovanni De Micheli:::Dynamic Power Management for non-stationary service requests.
+conf/date/ShengH03:::Shuo Sheng::Michael S. Hsiao:::Efficient Preimage Computation Using A Novel Success-Driven ATPG.
+conf/date/LeijtenMTJ98:::Jeroen A. J. Leijten::Jef L. van Meerbergen::Adwin H. Timmer::Jochen A. G. Jess:::Stream Communication between Real-Time Tasks in a High-Performance Multiprocessor.
+conf/date/ZolfyMN01:::Mina Zolfy::Shahrzad Mirkhani::Zainalabedin Navabi:::Adaptation of an event-driven simulation environment to sequentially propagated concurrent fault simulation.
+conf/date/ShinKK99:::Jongchul Shin::Hyunjin Kim::Sungho Kang:::At-Speed Boundary-Scan Interconnect Testing in a Board with Multiple System Clocks.
+conf/date/FerrandiRS02:::Fabrizio Ferrandi::Michele Rendine::Donatella Sciuto:::Functional Verification for SystemC Descriptions Using Constraint Solving.
+conf/date/Leveugle02:::Régis Leveugle:::Automatic Modifications of High Level VHDL Descriptions for Fault Detection or Tolerance.
+conf/date/PolianBR03:::Ilia Polian::Bernd Becker::Sudhakar M. Reddy:::Evolutionary Optimization of Markov Sources for Pseudo Random Scan BIST.
+conf/date/Hering02:::Klaus Hering:::A Parallel LCC Simulation System.
+conf/date/CaldariCCCOPT03:::M. Caldari::M. Conti::M. Coppola::P. Crippa::S. Orcioni::L. Pieralisi::C. Turchetti:::System-Level Power Analysis Methodology Applied to the AMBA AHB Bus.
+conf/date/CarmonaJDER02:::Ricardo Carmona::F. Jiménez-Garrido::Rafael Domínguez-Castro::Servano Espejo-Meana::Ángel. Rodríguez-Vázquez:::Bio-Inspired Analog VLSI Design Realizes Programmable Complex Spatio-Temporal Dynamics on a Single Chip.
+conf/date/HenkeGV00:::Jörg Henke::Tony Givargis::Frank Vahid:::Fast Cache and Bus Power Estimation for Parameterized System-on-a-Chip Design.
+conf/date/NamSR01:::Gi-Joon Nam::Karem A. Sakallah::Rob A. Rutenbar:::A boolean satisfiability-based incremental rerouting approach with application to FPGAs.
+conf/date/Hetzel98:::Asmus Hetzel:::A Sequential Detailed Router for Huge Grid Graphs.
+conf/date/MendiasH98:::José M. Mendías::Román Hermida:::Correct High-Level Synthesis: a Formal Perspective.
+conf/date/ZhangM03:::Lintao Zhang::Sharad Malik:::Validating SAT Solvers Using an Independent Resolution-Based Checker: Practical Implementations and Other Applications.
+conf/date/GrajcarG02:::Martin Grajcar::Werner Grass:::Improved Constraints for Multiprocessor System Scheduling.
+conf/date/HeringLM01:::Klaus Hering::Jork Löser::Jens Markwardt:::dibSIM: a parallel functional logic simulator allowing dynamic load balancing.
+conf/date/QuasemG01:::Md. Saffat Quasem::Sandeep K. Gupta:::Exact fault simulation for systems on Silicon that protects each core's intellectual property.
+conf/date/StrakaMVS98:::B. Straka::Hans A. R. Manhaeve::Jozef Vanneuville::M. Svajda:::A Fully Digital Controlled Off-Chip IDDQ Measurement Unit.
+conf/date/Pillkahn00:::Ulf Pillkahn:::Evaluation of Interconnects with TDR.
+conf/date/GoldbergN02:::Evgueni Goldberg::Yakov Novikov:::BerkMin: A Fast and Robust Sat-Solver.
+conf/date/MartinR98:::Hans-Georg Martin::Wolfgang Rosenstiel:::A Comparing Study of Technology Mapping for FPGA.
+conf/date/AzevedoICGDVN02:::Ana Azevedo::Ilya Issenin::Radu Cornea::Rajesh Gupta::Nikil D. Dutt::Alexander V. Veidenbaum::Alexandru Nicolau:::Profile-Based Dynamic Voltage Scheduling Using Program Checkpoints.
+conf/date/MukherjeeJTFAF99:::Rajarshi Mukherjee::Jawahar Jain::Koichiro Takayama::Masahiro Fujita::Jacob A. Abraham::Donald S. Fussell:::An Efficient Filter-Based Approach for Combinational Verification.
+conf/date/MillanEECC99:::Enrique San Millán::Luis Entrena::José Alberto Espejo::Silvia Chiusano::Fulvio Corno:::Integrating Symbolic Techniques in ATPG-Based Sequential Logic Optimization.
+conf/date/GoorN99:::A. J. van de Goor::J. de Neef:::Industrial Evaluation of DRAM Tests.
+conf/date/SchmitzAE03:::Marcus T. Schmitz::Bashir M. Al-Hashimi::Petru Eles:::A Co-Design Methodology for Energy-Efficient Multi-Mode Embedded Systems with Consideration of Mode Execution Probabilities.
+conf/date/VerderberZL03:::Matjaz Verderber::Andrej Zemva::Damjan Lampret:::HW/SW Partitioned Optimization and VLSI-FPGA Implementation of the MPEG-2 Video Decoder.
+conf/date/ZachariahCKT03:::Sujit T. Zachariah::Yi-Shing Chang::Sandip Kundu::Chandra Tirumurti:::On Modeling Cross-Talk Faults.
+conf/dbpl/NixonM87:::Brian A. Nixon::John Mylopoulos:::Integration Issues in Implementing Semantic Data Models.
+conf/dbpl/BeeriT93:::Catriel Beeri::Paula Ta-Shma:::Bulk Data Types, A Theoretical Approach.
+conf/dbpl/ChenKW89:::Weidong Chen::Michael Kifer::David Scott Warren:::HiLog as a Platform for Database Languages.
+conf/dbpl/Wadler97:::Philip Wadler:::Functional Programming: An Angry Half-Dozen.
+conf/dbpl/Lenzerini87:::Maurizio Lenzerini:::Class Hierarchies and Their Complexity.
+conf/dbpl/BruceW87:::Kim B. Bruce::Peter Wegner:::An Algebraic Model of Subtype and Inheritance.
+conf/dbpl/GeertsHK01:::Floris Geerts::Sofie Haesevoets::Bart Kuijpers:::A Theory of Spatio-Temporal Database Queries.
+conf/dbpl/GrahneW99:::Gösta Grahne::Emmanuel Waller:::How to Make SQL Stand for String Query Language.
+conf/dbpl/BeeriMT97:::Catriel Beeri::Tova Milo::Paula Ta-Shma:::Towards a Language for the Fully Generic Queries.
+conf/dbpl/ManethN99:::Sebastian Maneth::Frank Neven:::Structured Document Transformations Based on XSL.
+conf/dbpl/DongHKSZ99:::Guozhu Dong::Richard Hull::Bharat Kumar::Jianwen Su::Gang Zhou:::A Framework for Optimizing Distributed Workflow Executions.
+conf/dbpl/Matthes97:::Florian Matthes:::Business Conversations: A High-level System Model for Agent Coordination.
+conf/dbpl/Blakeley95:::José A. Blakeley:::Viaggio Lungo il Nilo: OLE DB and Component Databases (abstract only).
+conf/dbpl/DeutschT01:::Alin Deutsch::Val Tannen:::Optimization Properties for Classes of Conjunctive Regular Path Queries.
+conf/dbpl/Dayal89:::Umeshwar Dayal:::Queries and Views in an Object-Oriented Data Model.
+conf/dbpl/LingatR89:::Jean-Yves Lingat::Colette Rolland:::PROQUEL: a PROgramming QUEry Language.
+conf/dbpl/StempleMA91:::David W. Stemple::Ronald Morrison::Malcolm P. Atkinson:::Type-safe Linguistic Reflection.
+conf/dbpl/BakerFS87:::Deborah A. Baker::David A. Fisher::Jonathan C. Shultis:::A Practical Language to Provide Persistence and a rich Typing System.
+conf/dbpl/Fegaras93:::Leonidas Fegaras:::Efficient Optimization of Iterative Queries.
+conf/dbpl/ConnorABCKM93:::Richard C. H. Connor::Malcolm P. Atkinson::Sonia Berman::Quintin I. Cutts::Graham N. C. Kirby::Ronald Morrison:::The Joy of Sets.
+conf/dbpl/MatthesS89:::Florian Matthes::Joachim W. Schmidt:::The Type System of DBPL.
+conf/dbpl/BeneventanoBLS95:::Domenico Beneventano::Sonia Bergamaschi::Stefano Lodi::Claudio Sartori:::Consistency Checking in Complex Object Database Schemata with Integrity Constraints.
+conf/dbpl/Bonner97:::Anthony J. Bonner:::Modular Composition of Transaction Programs with Deductive Databases.
+conf/dbpl/Lassez91:::Jean-Louis Lassez:::From LP to LP: Programming with Constraints.
+conf/dbpl/LibkinW93a:::Leonid Libkin::Limsoon Wong:::Aggregate Functions, Conservative Extensions, and Linear Orders.
+conf/dbpl/RosenbergH93:::John Rosenberg::Michael Hitchens:::Linguistic Support for Persistent Modules and Capabilities.
+conf/dbpl/DongLW95:::Guozhu Dong::Leonid Libkin::Limsoon Wong:::On Impossibility of Decremental Recomputation of Recursive Queries in Relational Calculus and SQL.
+conf/dbpl/Andrews93:::Tim Andrews:::Designing Linguistic Interfaces to an Object Database or What do C++, SQL, and Hell have in Common?
+conf/dbpl/DearleCBM89:::Alan Dearle::Richard C. H. Connor::Fred Brown::Ronald Morrison:::Napier88 - A Database Programming Language?
+conf/dbpl/Nixon91:::Brian A. Nixon:::Implementation of Information System Design Specifications: A Performance Perspective.
+conf/dbpl/ErwigL91:::Martin Erwig::Udo W. Lipeck:::A Functional DBPL Revealing High Level Optimizations.
+conf/cmsb/KimIM03:::SunYong Kim::Seiya Imoto::Satoru Miyano:::Dynamic Bayesian Network and Nonparametric Regression for Nonlinear Modeling of Gene Networks from Time Series Gene Expression Data.
+conf/cmsb/EveillardRJBB03:::Damien Eveillard::Delphine Ropers::Hidde de Jong::Christiane Branlant::Alexander Bockmayr:::Multiscale Modeling of Alternative Splicing Regulation.
+conf/cmsb/LemkeHBM03:::Ney Lemke::Fabiana Herédia::Cláudia K. Barcellos::José C. M. Mombach:::A Method to Identify Essential Enzymes in the Metabolism: Application to Escherichia Coli.
+conf/coco/Book90:::Ronald V. Book:::On Separating Complexity Classes.
+conf/coco/ChenFZ97:::Jianer Chen::Donald K. Friesen::Hao Zheng:::Tight Bound on Johnson's Algoritihm for Max-SAT.
+conf/coco/Beigel92:::Richard Beigel:::Perceptrons, PP, and the Polynomial Hierarchy.
+conf/coco/AllenderR98:::Eric Allender::Klaus Reinhardt:::Isolation, Matching, and Counting.
+conf/coco/Ambos-SpiesMRS01:::Klaus Ambos-Spies::Wolfgang Merkle::Jan Reimann::Frank Stephan:::Hausdorff Dimension in Exponential Time.
+conf/coco/Micciancio02:::Daniele Micciancio:::Improved Cryptographic Hash Functions with Worst-Case/Average-Case Connection.
+conf/coco/Gal95:::Anna Gál:::Semi-Unbounded Fan-In Circuits: Boolean vs. Arithmetic.
+conf/coco/Zimand95:::Marius Zimand:::Weighted NP Optimization Problems: Logical Definability and Approximation Properties.
+conf/coco/Vereshchagin93:::Nikolai K. Vereshchagin:::Relationships between NP-sets, Co-NP-sets, and P-sets relative to random oracles.
+conf/coco/Khot02:::Subhash Khot:::On the Power of Unique 2-Prover 1-Round Games.
+conf/coco/JakobyR00:::Andreas Jakoby::Rüdiger Reischuk:::Average Case Complexity of Unbounded Fanin Circuits.
+conf/coco/LiLV86:::Ming Li::Luc Longpré::Paul M. B. Vitányi:::The Power of the Queue.
+conf/coco/Ambos-Spies86:::Klaus Ambos-Spies:::Randomness, Relativizations, and Polynomial Reducibilities.
+conf/coco/Ambos-Spies95:::Klaus Ambos-Spies:::Resource-Bounded Genericity.
+conf/coco/DantchevR01:::Stefan S. Dantchev::Søren Riis:::Tree Resolution Proofs of the Weak Pigeon-Hole Principle.
+conf/coco/Bloch92:::Stephen A. Bloch:::Functional Characterizations of Uniform Log-depth and Polylog-depth Circuit Families.
+conf/coco/Schuler97:::Rainer Schuler:::A Note on Universal Distributions for Polynomial-Time Computable Distributions.
+conf/coco/FortnowGM96:::Lance Fortnow::Judy Goldsmith::Stephen R. Mahaney:::L-Printable Sets.
+conf/coco/TrevisanV02:::Luca Trevisan::Salil P. Vadhan:::Pseudorandomness and Average-Case Complexity via Uniform Reductions.
+conf/coco/KarchmerW93:::Mauricio Karchmer::Avi Wigderson:::On Span Programs.
+conf/coco/Buss86a:::Samuel R. Buss:::The Polynomial Hierarchy and Intuitionistic Bounded Arithmetic.
+conf/coco/RazTVV98:::Ran Raz::Gábor Tardos::Oleg Verbitsky::Nikolai K. Vereshagin:::Arthur-Merlin Games in Boolean Decision Trees.
+conf/coco/Wilson89:::Christopher B. Wilson:::Decomposing NC and AC.
+conf/coco/Fortnow01:::Lance Fortnow:::Comparing Notions of Full Derandomization.
+conf/coco/Klauck98:::Hartmut Klauck:::Lower Bounds for Computation with Limited Nondeterminism.
+conf/coco/GuruswamiS02:::Venkatesan Guruswami::Madhu Sudan:::Decoding Concatenated Codes using Soft Information.
+conf/coco/BabaiL99:::László Babai::Sophie Laplante:::Stronger Separations for Random-Self-Reducibility, Rounds, and Advice.
+conf/coco/Edmonds91:::Jeff Edmonds:::Lower Bounds with Smaller Domain Size On Concurrent Write Parallel Machines.
+conf/coco/Ben-Sasson02:::Eli Ben-Sasson:::Hard Examples for Bounded Depth Frege.
+conf/coco/LiskiewiczRR94:::Maciej Liskiewicz::Rüdiger Reischuk:::The Complexity World below Logarithmic Space.
+conf/coco/FeigeS89:::Uriel Feige::Adi Shamir:::Multi-Oracle Interactive Protocols with Space Bounded Verifiers.
+conf/coco/AbiteboulVV92:::Serge Abiteboul::Moshe Y. Vardi::Victor Vianu:::Fixpoint Logics, Relational Machines, and Computational Complexity.
+conf/coco/Bar-YossefJKS02:::Ziv Bar-Yossef::T. S. Jayram::Ravi Kumar::D. Sivakumar:::Information Theory Methods in Communication Complexity.
+conf/coco/Koler95:::Johannes Köbler:::On the Structure of Low Sets.
+conf/coco/GoldreichV99:::Oded Goldreich::Salil P. Vadhan:::Comparing Entropies in Statistical Zero Knowledge with Applications to the Structure of SZK.
+conf/coco/AllenderBH01:::Eric Allender::David A. Mix Barrington::William Hesse:::Uniform Circuits for Division: Consequences and Problems.
+conf/coco/Sivakumar02:::D. Sivakumar:::Algorithmic Derandomization via Complexity Theory.
+conf/coco/HemachandraR90:::Lane A. Hemachandra::Roy S. Rubinstein:::A Note on Relativizing Complexity Classes with Tally Oracles.
+conf/coco/FortnowM00:::Lance Fortnow::Dieter van Melkebeek:::Time-Space Tradeoffs for Nondeterministic Computation.
+conf/coco/HinrichsW97:::Maren Hinrichs::Gerd Wechsung:::Time Bounded Frequency Computations.
+conf/coco/CloteT86:::Peter Clote::Gaisi Takeuti:::Exponential Time and Bounded Arithmetic.
+conf/coco/Istrate00:::Gabriel Istrate:::Computational Complexity and Phase Transitions.
+conf/coco/BuhrmanT99:::Harry Buhrman::Leen Torenvliet:::Complicated Complementations.
+conf/coco/Saluja93:::Sanjeev Saluja:::Relativized limitations of left set technique and closure classes of sparse sets (Extended Abstract).
+conf/coco/HeimanNW90:::Rafi Heiman::Ilan Newman::Avi Wigderson:::On Read-Once Threshold Formulae and Their Randomized Decision Tree Complexity.
+conf/coco/Santha91:::Miklos Santha:::On the Monte Carlo Boolean Decision Tree Complexity of Read-Once Formulae.
+conf/coco/FeigenbaumF91:::Joan Feigenbaum::Lance Fortnow:::On the Random-Self-Reducibility of Complete Sets.
+conf/coco/AllenderHOW91:::Eric Allender::Lane A. Hemachandra::Mitsunori Ogiwara::Osamu Watanabe:::Relating Equivalence and Reducibility to Sparse Sets.
+conf/coco/DowneyN97:::Rodney G. Downey::André Nies:::Undecidability Results for Low Complexity Degree Structures.
+conf/coco/Gavalda92:::Ricard Gavaldà:::Bounding the Complexity of Advice Functions.
+conf/coco/MundhenkS90:::Martin Mundhenk::Rainer Schuler:::Non-Uniform Complexity Classes and Random Languages.
+conf/coco/BatuDKR02:::Tugkan Batu::Sanjoy Dasgupta::Ravi Kumar::Ronitt Rubinfeld:::The Complexity of Approximating the Entropy.
+conf/coco/MaassS89:::Wolfgang Maass::Theodore A. Slaman:::The Complexity Types of Computable Sets.
+conf/coco/JennerT93:::Birgit Jenner::Jacobo Torán:::Computing Functions with Parallel Queries to NP.
+conf/dcsp/DholakiaVB93:::Ajay Dholakia::Mladen A. Vouk::Donald L. Bitzer:::A Lost Cell Recovery Technique Using Convolutional Coding at the ATM Adaptation Layer in B-ISDN/ATM.
+conf/dcsp/FanR93:::C. Fan::Reinhard Ruppelt:::Protocol Performance Measurements in a Heterogeneous Network Environment.
+conf/dcsp/RocheP95:::Christian Roche::Nina Taft Plotkin:::The Entropy of Cell Streams as a Traffic Descriptor in ATM Networks.
+conf/dcsp/PhamF95:::C. D. Pham::Serge Fdida:::The Statistically Correct Approach to Distributed Simulation of ATM Networks.
+conf/dcsp/AtmacaC95:::Tülin Atmaca::Tadeusz Czachórski:::The impact of the reactive functions on the LAN interconnection by a Frame-Relay Net.
+conf/dcsp/KouvatsosTD93:::Demetres D. Kouvatsos::Nasreddine Tabet-Aouel::Spyros G. Denazis:::Approximate Analysis of Discrete-Time Networks with or without Blocking.
+conf/dcsp/MitrouKP95:::Nikolas Mitrou::Kimon P. Kontovasilis::Emmanuel N. Protonotarios:::ATM traffic analysis and control for ABR service provisioning.
+conf/colt/Dasgupta03a:::Sanjoy Dasgupta:::How Fast Is <i>k</i>-Means?
+conf/colt/WeissmanM99:::Tsachy Weissman::Neri Merhav:::On Prediction of Individual Sequences Relative to a Set of Experts in the Presence of Noise.
+conf/colt/Ko90:::Ker-I Ko:::On the Complexity of Learning Minimum Time-Bounded Turing Machines.
+conf/colt/Blum03:::Avrim Blum:::Learning a Function of r Relevant Variables.
+conf/colt/Chen93:::Zhixiang Chen:::Learning Unions of Two Rectangles in the Plane with Equivalence Queries.
+conf/colt/Allenberg99:::Chamy Allenberg:::Individual Sequence Prediction - Upper Bounds and Application for Complexity.
+conf/colt/Brooks91:::Rodney A. Brooks:::The Role of Learning in Autonomous Robots.
+conf/colt/Russell98:::Stuart J. Russell:::Learning Agents for Uncertain Environments (Extended Abstract).
+conf/colt/Even-DarM03:::Eyal Even-Dar::Yishay Mansour:::Approximate Equivalence of Markov Decision Processes.
+conf/colt/MalerP91:::Oded Maler::Amir Pnueli:::On the Learnability of Infinitary Regular Sets.
+conf/colt/CohenH92:::William W. Cohen::Haym Hirsh:::Learnability of Description Logics.
+conf/colt/BiV03:::Jinbo Bi::Vladimir Vapnik:::Learning with Rigorous Support Vector Machines.
+conf/colt/Zilles01:::Sandra Zilles:::On the Synthesis of Strategies Identifying Recursive Functions.
+conf/colt/Holden96:::Sean B. Holden:::PAC-Like Upper Bounds for the Sample Complexity of Leave-one-Out Cross-Validation.
+conf/colt/AnthonyBCS92:::Martin Anthony::Graham Brightwell::Dave Cohen::John Shawe-Taylor:::On Exact Specification by Examples.
+conf/colt/Hutter03:::Marcus Hutter:::Sequence Prediction Based on Monotone Complexity.
+conf/colt/Yamanishi93:::Kenji Yamanishi:::On Polynomial-Time Probably almost Discriminative Learnability.
+conf/colt/DecaturGR97:::Scott E. Decatur::Oded Goldreich::Dana Ron:::Computational Sample Complexity.
+conf/colt/LinV89:::Jyh-Han Lin::Jeffrey Scott Vitter:::Complexity Issues in Learning by Neural Nets.
+conf/colt/Meir97:::Ron Meir:::Performance Bounds for Nonlinear Time Series Prediction.
+conf/colt/BenedekI92:::Gyora M. Benedek::Alon Itai:::Dominating Distributions and Learnability.
+conf/colt/CaseJSW01:::John Case::Sanjay Jain::Frank Stephan::Rolf Wiehagen:::Robust Learning - Rich and Poor.
+conf/colt/SakaiTM95:::Yoshifumi Sakai::Eiji Takimoto::Akira Maruoka:::Proper Learning Algorithm for Functions of <i>k</i> Terms Under Smooth Distributions.
+conf/colt/EhrenfeuchtHKV88:::Andrzej Ehrenfeucht::David Haussler::Michael J. Kearns::Leslie G. Valiant:::A General Lower Bound on the Number of Examples Needed for Learning.
+conf/colt/JainS93:::Sanjay Jain::Arun Sharma:::Probability is More Powerful Than Team for Language Identification from Positive Data.
+conf/colt/JainS96:::Sanjay Jain::Arun Sharma:::Elementary Formal Systems, Intrinsic Complexity, and Procrastination.
+conf/colt/JainS99:::Sanjay Jain::Arun Sharma:::On a Generalized Notion of Mistake Bounds.
+conf/colt/KhardonR95:::Roni Khardon::Dan Roth:::Learning to Reason with a Restricted View.
+conf/colt/KhardonS03:::Roni Khardon::Rocco A. Servedio:::Maximum Margin Algorithms with Boolean Kernels.
+conf/colt/KivinenW99:::Jyrki Kivinen::Manfred K. Warmuth:::Boosting as Entropy Projection.
+conf/colt/FischerS90:::Paul Fischer::Hans-Ulrich Simon:::On Learning Ring-Sum-Expansions.
+conf/colt/ChenH94:::Zhixiang Chen::Steven Homer:::On Learning Counting Functions with Queries.
+conf/colt/AnthonyH98:::Martin Anthony::Sean B. Holden:::Cross-Validation for Binary Classification by Real-Valued Functions: Theoretical Analysis.
+conf/colt/Freund98:::Yoav Freund:::Self Bounding Learning Algorithms.
+conf/colt/Muggleton94:::Stephen Muggleton:::Bayesian Inductive Logic Programming.
+conf/colt/BshoutyB94:::Daoud Bshouty::Nader H. Bshouty:::On Learning Arithmetic Read-Once Formulas with Exponentiation (Extended Abstract).
+conf/colt/Schapire99:::Robert E. Schapire:::Drifting Games.
+conf/colt/BartlettW91:::Peter L. Bartlett::Robert C. Williamson:::Investigating the Distribution Assumptions in the Pac Learning Model.

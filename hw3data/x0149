@@ -1,0 +1,200 @@
+conf/euromicro/IribarneTV02:::Luis Iribarne::José M. Troya::Antonio Vallecillo:::Selecting Software Components with Multiple Interfaces.
+conf/euromicro/AuerTB03:::M. Auer::T. Tschurtschenthaler::Stefan Biffl:::A Flyweight UML Modelling Tool for Software Development in Heterogeneous Environments.
+conf/euromicro/PostulaCJA98:::Adam Postula::Song Chen::Lech Józwiak::David Abramson:::Automated Synthesis of Interleaved Memory Systems for Custom Computing Machine.
+conf/euromicro/Hausheer03:::David Hausheer:::Introduction from Session Chair - Multimedia and Telecommunications Track Session: Content Delivery.
+conf/euromicro/Succi03:::Giancarlo Succi:::Managing eXtreme Projects.
+conf/euromicro/Klockner03:::Konrad Klöckner:::Introduction from the session chair.
+conf/euromicro/NawrockiWW01:::Jerzy R. Nawrocki::Bartosz Walter::Adam Wojciechowski:::Toward Maturity Model for eXtreme Programming.
+conf/euromicro/Schneider99:::Claus Schneider:::Executable Specification for Multimedia Supporting Refinement and Architecture Exploration.
+conf/euromicro/ParcerisaG98:::Joan-Manuel Parcerisa::Antonio González:::The Latency Hiding Effectiveness of Decoupled Access/Execute Processors.
+conf/euromicro/GanjooT00:::Afshin Ganjoo::Nian-Feng Tzeng:::Influence of High-Level Program Structures on Branch Prediction Accuracy.
+conf/euromicro/HosemannFNN02:::Michael Hosemann::Gerhard Fettweis::Vladimir Nikolajevic::Rene Nüssgen:::Applications for the Highly Parallel Mobile Multimedia Modem M3-DSP.
+conf/euromicro/Visser99:::B. S. Visser:::A Framework for Retargetable Code Generation Using Simulated Annealing.
+conf/euromicro/RauscherB99:::Reinhard Rauscher::Frank Bohnsack:::Results of an Elliptic-Curve-Approach for Use in Cryptosystems.
+conf/euromicro/KountourisW00:::Apostolos A. Kountouris::Christophe Wolinski:::Efficient Scheduling of Conditional Behaviors Using Hierarchical Conditional Dependency Graphs in the CODESIS System.
+conf/euromicro/KountourisW98:::Apostolos A. Kountouris::Christophe Wolinski:::Hierarchical Conditional Dependency Graphs for Conditional Resource Sharing.
+conf/euromicro/FreyS98:::Maximilian Frey::Bernd-Holger Schlingloff:::On-the-Fly Model Checking of Program Runs for Automated Debugging.
+conf/euromicro/CorchueloRTR99:::Rafael Corchuelo::David Ruiz::Miguel Toro::Antonio Ruiz Cortés:::Implementing Multiparty Interactions on a Network Computer.
+conf/euromicro/LizziG98:::Christophe Lizzi::Eric Gressier-Soudan:::A Real-Time IPC Service over ATM Networks for the Chorus Distributed System.
+conf/euromicro/LeubnerBM01:::Christian Leubner::Christian Brockmann::Heinrich Müller:::Computer-Vision-Based Human-Computer Interaction with a Back Projection Wall Using Arm Gestures.
+conf/euromicro/Korousic-SeljakPBK01:::Barbara Korousic-Seljak::Gregor Papa::Boris Benedicic::Tomaz Kmecl:::Improving the Technical Quality of a Universal Motor Using an Evolutionary Approach.
+conf/euromicro/AbramsonSLD98:::David Abramson::Kate A. Smith::Paul Logothetis::David Duke:::FPGA Based Implementation of a Hopfield Neural Network for Solving Constraint Satisfaction Problems.
+conf/euromicro/PolansekZT99:::Gregor Polansek::Andrej Zemva::Andrej Trost:::HW/SW Co-Simulation of Target C++ Applications and Synthesizable HDL with Performance Estimation.
+conf/euromicro/RuspiniKM98:::Diego C. Ruspini::Oussama Khatib::Giovanni De Micheli:::Hardware-Softw are Run-Time Systems and Robotics: A Case Study Vincent John Mooney III.
+conf/euromicro/SchoenfeldingerBNP02:::Werner Schoenfeldinger::Harald Bangerl::Heinz Nusser::Mandakini Pachauri:::FOCAL Point: A Framework for Deriving Business Models in e-Business.
+conf/euromicro/GervasO02:::Pablo Gervás::Juan José Escribano Otero:::Feasibility Analysis for Web Project Engineering Encoded as Rule-Based Expert System.
+conf/euromicro/SilvaS98:::Luís Moura Silva::João Gabriel Silva:::An Experimental Study about Diskless Checkpointing.
+conf/euromicro/WallinLEC02:::Christina Wallin::Stig Larsson::Fredrik Ekdahl::Ivica Crnkovic:::Combining Models for Business Decisions and Software Development.
+conf/euromicro/UlkuniemiS02:::Pauliina Ulkuniemi::Veikko Seppänen:::Definition of a COTS Software Component Acquisition Process Framework: The Case of a Telecommunications Company.
+conf/parbase/WolskiV90:::Antoni Wolski::Jari Veijalainen:::2PC Agent Method: Achieving Serializability in Presence of Failures in a Heterogeneous Multidatabase.
+conf/parbase/RaoS90:::Manohar Rao::Zary Segall:::Implementation and Evaluation of a Parallel PMS Simulator.
+conf/parbase/TavakoliM90:::Nassrin Tavakoli::Hassan Modaress-Razavi:::An Architecture for Parallel Search of Large, Full-Text Databases.
+conf/parbase/JongeS90:::Wiebren de Jonge::Ardie Schijf:::Concurrent Access to B-Trees.
+conf/parbase/YangR90:::Qing Yang::Ravi Raja:::Design and Analysis of Multiple-Bus Arbiters with Different Priority Schemes.
+conf/parbase/OsikwanA90:::Constantine N. K. Osikwan::Selim G. Akl:::A Perfect Speedup Parallel Algorithm for the Assignment Problem on Complete Weighted Bipartite Graphs.
+conf/parbase/ChoiNRY90:::Hyeong-Ah Choi::Bhagirath Narahari::Shmuel Rotenstreich::Abdou Youssef:::Scheduling on Parallel Processing Systems Using Parallel Primitives.
+conf/parbase/El-SharkawiK90c:::Mohamed E. El-Sharkawi::Yahiko Kambayashi:::The Architecture and Implementation of ENLI: Example-Based Natural Language-Assisted Interface.
+conf/ieeeams/IrvineLSA01:::Cynthia E. Irvine::Timothy E. Levin::E. Spyropoulou::Bruce Allen:::Security as a Dimension of Quality of Service in Active Service Environments.
+conf/ieeeams/FukudaTSBK03:::Munehiro Fukuda::Yuichiro Tanaka::Naoya Suzuki::Lubomir Bic::Shinya Kobayashi:::A Mobile-Agent-Based PC Grid .
+conf/asiacrypt/KangSHY01:::Ju-Sung Kang::Sang Uk Shin::Dowon Hong::Okyeon Yi:::Provable Security of KASUMI and 3GPP Encryption Mode f8.
+conf/asiacrypt/Safavi-Naini91:::Reihaneh Safavi-Naini:::Feistel Type Authentication Codes.
+conf/asiacrypt/Numao99:::Masayuki Numao:::Periodical Multi-secret Threshold Cryptosystems.
+conf/asiacrypt/AkkarBDM00:::Mehdi-Laurent Akkar::Régis Bevan::Paul Dischamp::Didier Moyart:::Power Analysis, What Is Now Possible....
+conf/asiacrypt/Vaudenay99:::Serge Vaudenay:::On the Lai-Massey Scheme.
+conf/asiacrypt/Tsujii96:::Shigeo Tsujii:::Electronic Money and Key Management from Global and Regional Points of View.
+conf/asiacrypt/DArcoS02:::Paolo D'Arco::Douglas R. Stinson:::On Unconditionally Secure Robust Distributed Key Distribution Centers.
+conf/asiacrypt/King00:::Brian King:::Improved Methods to Perform Threshold RSA.
+conf/asiacrypt/Koga02:::Hiroki Koga:::A General Formula of the (t, n)-Threshold Visual Secret Sharing Scheme.
+conf/asiacrypt/Condie92:::Leisa Condie:::Prime Generation with the Demytko-Miller-Trbuvich Algorithm.
+conf/asiacrypt/HarnY92a:::Lein Harn::Shoubao Yang:::Public-Key Cryptosystem Based on the Discrete Logarithm Problem.
+conf/asiacrypt/QiYZ98:::Wen Feng Qi::Jun-Hui Yang::Jing Jun Zhou:::ML-Sequences over Rings <i>Z/(2<sup>e</sup>)</i> <sup>*</sup>: I. Constructions of Nondegenerative ML-Sequences II. Injectiveness of Compression Mappings of New Classes.
+conf/asiacrypt/KurosawaOS94:::Kaoru Kurosawa::Roji Okada::Keiichi Sakano:::Security of the Center in Key Distribution Schemes.
+conf/asiacrypt/TombakS92:::L. Tombak::Reihaneh Safavi-Naini:::Authentication Codes with Perfect Protection.
+conf/asiacrypt/IzuKNY98:::Tetsuya Izu::Jun Kogure::Masayuki Noro::Kazuhiro Yokoyama:::Efficient Implementation of Schoof's Algorithm.
+conf/asiacrypt/MatsumotoILY92:::Tsutomu Matsumoto::Hideki Imai::Chi-Sung Laih::Sung-Ming Yen:::On Verifiable Implicit Asking Protocols for RSA Computation.
+conf/asiacrypt/LaihY92:::Chi-Sung Laih::Sung-Ming Yen:::Secure Addition Sequence and Its Applications on the Server-Aided Secret Computation Protocols.
+conf/asiacrypt/DawsonG90:::Ed Dawson::Bruce Goldburg:::Universal Logic Sequences.
+conf/asiacrypt/Gaudry02:::Pierrick Gaudry:::A Comparison and a Combination of SST and AGM Algorithms for Counting Points of Elliptic Curves in Characteristic 2.
+conf/asiacrypt/PreneelGV92:::Bart Preneel::René Govaerts::Joos Vandewalle:::On the Power of Memory in the Design of Collision Resistant Hash Functions.
+conf/asiacrypt/MeijersT91:::Joost Meijers::Johan van Tilburg:::Extended Majority Voting and Private-Key Algebraic-Code Encryptions.
+conf/asiacrypt/KlimovMS02:::Alexander Klimov::Anton Mityagin::Adi Shamir:::Analysis of Neural Cryptography.
+conf/asiacrypt/LiskovLMRS01:::Moses Liskov::Anna Lysyanskaya::Silvio Micali::Leonid Reyzin::Adam Smith:::Mutually Independent Commitments.
+conf/asiacrypt/Lucks02:::Stefan Lucks:::A Variant of the Cramer-Shoup Cryptosystem for Groups of Unknown Order.
+conf/asiacrypt/Stern98:::Julien P. Stern:::A New Efficient All-Or-Nothing Disclosure of Secrets Protocol.
+conf/asiacrypt/GaudryG01:::Pierrick Gaudry::Nicolas Gürel:::An Extension of Kedlaya's Point-Counting Algorithm to Superelliptic Curves.
+conf/asiacrypt/Patarin01:::Jacques Patarin:::Generic Attacks on Feistel Schemes.
+conf/asiacrypt/HorsterMP94:::Patrick Horster::Markus Michels::Holger Petersen:::Meta-Message Recovery and Meta-Blind Signature Schemes Based on the Discrete Logarithm Problem and Their Applications.
+conf/asiacrypt/ChanFMT96:::Agnes Hui Chan::Yair Frankel::Philip D. MacKenzie::Yiannis Tsiounis:::Mis-representation of Identities in E-cash Schemes and how to Prevent it.
+conf/asiacrypt/DHalluinBPR99:::Carl D'Halluin::Gert Bijnens::Bart Preneel::Vincent Rijmen:::Equivalent Keys of HPC.
+conf/asiacrypt/ChangHL02:::Yan-Cheng Chang::Chun-Yun Hsiao::Chi-Jen Lu:::On the Impossibilities of Basing One-Way Permutations on Central Cryptographic Primitives.
+conf/asiacrypt/SakuraiI92:::Kouichi Sakurai::Toshiya Itoh:::Subliminal Channels for Signature Transfer and Their Application to Signature Distribution Schemes.
+conf/asiacrypt/LeeCPP96:::Sangjin Lee::Seongtaek Chee::Sang-Joon Park::Sung-Mo Park:::Conditional Correlation Attack on Nonlinear Filter Generators.
+conf/asiacrypt/Johansson98:::Thomas Johansson:::Reduced Complexity Correlation Attacks on Two Clock-Controlled Generators.
+conf/ifip2-1/AltenkirchM02:::Thorsten Altenkirch::Conor McBride:::Generic Programming within Dependently Typed Programming.
+conf/ifip2-4/Assmann98:::Uwe Aßmann:::Meta-programming composers in second-generation component systems.
+conf/ifip2-4/MartinezG98:::Paloma Martinez::Ana García-Serrano:::A knowledge -based methodology applied to linguistic engineering.
+conf/ifip2-4/Meisel98:::M. Meisel:::Agendas: A concept to guide software development activities.
+conf/ifip2-5/Holsti91:::Niklas Holsti:::Transcript Editing, a Simple User Interface Tool.
+conf/ifip2-5/Tong91:::S. S. Tong:::Integration of Symbolic and Numerical Methods for Optimizing Complex Engineering Systems.
+conf/ifip2-5/LimongelliMT91:::Carla Limongelli::Alfonso Miola::Marco Temperini:::Design and Implementation of Symbolic Computation Systems.
+conf/ifip2-5/ShieldsRWC00:::Matthew S. Shields::Omer F. Rana::David W. Walker::David Colby:::A Collaborative Code Development Environment for Computational Electro-magnetics.
+conf/ifip2-5/HansonBG00:::Richard J. Hanson::Clay P. Breshears::Henry A. Gabb:::Using A Fortran Interface to POSIX Threads.
+conf/ifip2-5/BergerGHH91:::F. C. Berger::V. V. Goldman::M. C. Van Heerwaarden::J. A. van Hulzen:::Automatic Generation of Optimized Numerical Code for Jacobians and Hessians.
+conf/ifip2-5/SagawaFH91:::Nobutoshi Sagawa::Donal Finn::Neil Hurley:::An Integrated Problem Solving Environment for Numerical Simulation of Engineering Problems.
+conf/ifip2-5/SturlerHKB00:::Eric de Sturler::Jay Hoeflinger::Laxmikant V. Kalé::Milind A. Bhandarkar:::A New Approach to Software Integration Frameworks for Multi-physics Simulation Codes.
+conf/ifip2-5/Getov00:::Vladimir Getov:::A Mixed-Language Programming Methodology for High Performance Java Computing.
+conf/ifip2-5/CoughranG91:::William M. Coughran::Eric Grosse:::Display of Functions of Three Space Variables and Time Using Shaded Polygons and Sound.
+conf/ifip2-7/KuhmeDMS92:::Thomas Kühme::Hartmut Dieterich::Uwe Malinowski::Matthias Schneider-Hufschmidt:::Approaches to Adaptivity in User Interface Technology: Survey and Taxonomy.
+conf/ifip2-7/Penner92:::Robin R. Penner:::Developing the Process Control Interface.
+conf/ifip2-7/GourdolNSC92:::Arno P. J. Gourdol::Laurence Nigay::Daniel Salber::Joëlle Coutaz:::Two Case Studies of Software Architecture for Multimodal Interactive Systems: VoicePaint and a Voice-enabled Graphical Notebook.
+conf/ifip3-1/GibbonsCCF99:::Pamela Gibbons::Kathryn Crawford::Susan Crichton::Robert Fitzgerald:::Cognitive Development in ICT contexts.
+conf/ifip3-1/Fung97:::Alex C. W. Fung:::Development of information technology in Hong Kong education over the past decade.
+conf/ifip3-1/Sutherland97:::Rosamund Sutherland:::Teachers and technology: the case of mathematical learning.
+conf/ifip3-1/Collis93:::Betty A. Collis:::Information Technology as a Tool for Addressing Inequities at the International Level.
+conf/ifip3-1/LeronH97:::Uri Leron::Orit Hazzan:::Computers and applied constructivism.
+conf/ifip3-1/MorelN03:::Raymond Morel::Paul Nicholson:::Group A: The Teacher as a Professional: Fostering Professionalism.
+conf/ifip3-1/Marshall93:::Gail Marshall:::Informatics and Changes in Learning: The American Dilemma - Opposing Epistemological Perspectives and Unanswered Questions.
+conf/ifip3-1/Webb02:::Mary Webb:::Learning to Solve ICT/Informatics-Based Problems.
+conf/ifip3-1/Isaac00:::J. R. Isaac:::Identifying educational core competencies for the Information Age.
+conf/ifip3-1/Loveless99:::Avril M. Loveless:::Creativity, visual literacy and information and communications technology.
+conf/ifip3-1/HuberwieserF97:::P. Huberwieser::S. Friedrich:::Teaching informatics as a subject.
+conf/ifip3-1/Squires93:::David Squires:::The Use of Information Technology to Support Information Access in Research.
+conf/ifip3-1/Newman97:::W. Newman:::Principles, information technology and leadership - coping with professional development despite isolation.
+conf/ifip3-1/MultisiltasC03:::Jari Multisiltas::Bernard Cornu:::roup F- Knowledge Building Communities: Creating New Learning and Teaching Environments.
+conf/ifip3-1/Oberschelp97:::Walter Oberschelp:::How informatics and discrete thinking return to school.
+conf/ifip3-1/Romeo03:::Geoff Romeo:::Technology Matters But Good Teachers Matter More.
+conf/ifip3-1/ThurberP93:::Barton D. Thurber::Jack Pope:::Computers and Learning: The Implications of Interactive Technologies.
+conf/ifip3-1/Wedekind93:::Joachim Wedekind:::Learning About Dynamic Biological Systems - a Simulation and Modeling Approach.
+conf/ifip3-1/Machida97:::Shoichiro Machida:::Computer-supported mathematical learning in the information age: mathematical modelling learned through hypertexts.
+conf/ifip3-1/Mouchene93:::Dominique Mouchené:::Some Examples of the Use of Computing in French Schools.
+conf/ifip3-1/Pearson99:::John Pearson:::Lurking, anonymity and participation in computer conferencing.
+conf/ifip3-1/Weert97a:::Tom J. van Weert:::Informatics for secondary education - the UNESCO/IFIP curriculum as a resource for developed and developing countries.
+conf/ifip3-1/Arganbright97a:::D. Arganbright:::Using applications programs in a university to build human capacity for information technology.
+conf/ifip3-1/Schneider02:::Markus Schneider:::Design Pattern - A Topic of the New Mandatory Subject Informatics.
+conf/ifip3-1/Niess93:::Margaret L. Niess:::Technology Focuses the Mathematics Curriculum on Higher Level Thinking Skills.
+conf/ifip3-1/Kiangi97:::G. Kiangi:::Computer education and human capacity building for information technology in Namibia.
+conf/ifip3-1/ForcheriM99:::Paola Forcheri::Maria Teresa Molfino:::ICT as a tool for learning to learn.
+conf/ifip3-1/Berleur02:::Jacques Berleur:::Key Issues in IFIP-SIG9.2.2 Approaches to Ethics of Computing.
+conf/ifip3-1/Tarrago03:::Ferran Ruiz i Tarragó:::E-Learning, ICT, and Learning Portals for Schools.
+conf/ifip3-1/Harkins93:::Dennis Harkins:::Training Teachers for New Technology in Schools.
+conf/ifip3-1/Westbroek00:::Jaap Westbroek:::The Esloo design for the digital elementary and secondary education.
+conf/ifip3-2/Grycz99:::Czeslaw Jan Grycz:::Experiences with a Hybrid Distance Education Model in Central and Eastern Europe.
+conf/ifip3-2/EncarnacaoTH93:::José L. Encarnação::Bernhard Tritsch::Christoph Hornung:::DEDICATED - Learning on Networked Multimedia Platforms.
+conf/ifip3-2/Collis95:::Betty Collis:::Innovation in learning and innovations in technology: seventeen cases.
+conf/ifip3-2/MerkleM02:::Luiz Ernesto Merkle::Robert E. Mercer:::Variations in Computing Science's Disciplinary Diversity.
+conf/ifip3-2/Ring94:::Geoff Ring:::Electronic performance support systems in higher education.
+conf/ifip3-2/Denzer02:::Ralf Denzer:::A Computing Program for Scientists and Engineers - What is The Core of Computing.
+conf/ifip3-2/McManusA95:::M. M. McManus::R. M. Aiken:::Using an intellignet tutor to facilitate collaborative learning.
+conf/ifip3-2/FlurchickBT93:::Ken Flurchick::Ray Burton::Steved Thorpe:::Scientific Visualization Efforts in North Carolina Education.
+conf/ifip3-2/KawataIBM93:::Shigeo Kawata::K. Iijima::C. Boonmee::Y. Manabe:::Computer-Assisted Scientific-Computation/Simulation-Software-Development System. Including a Visualization System.
+conf/ifip3-2/RingW94:::Janette Ring::Anthony Watson:::The virtual campus: ECU's developmental path.
+conf/ifip3-2/BorkJG94:::Alfred Bork::David R. Britton Jr::S. Gunnarsdottir:::Combining learning and assessment.
+conf/ifip3-2/Ellis94:::Dan Ellis:::Barefoot multimedia, or, All is not what it seems, Moriarty.
+conf/ifip3-2/WeertW99:::Tom J. van Weert::Bauke van der Wal:::Building Electronic Educational Environments: Why, What and How?.
+conf/ifip3-2/Ammers97:::E. W. van Ammers:::Collaborative work on informatics education of noninformatics students: a pilot project proposal.
+conf/ifip3-2/Paquette95:::Gilbert Paquette:::Modelling the virtual campus.
+conf/ifip3-2/Evans94:::Peter Evans II:::Investigating the use of interactive hypermedia systems.
+conf/ifip3-2/CrockDC94:::M. Crock::J. Dekkers::E. Cuskelly:::The use of interactive multimedia in open and distance education: Emerging trends and developments.
+conf/ifip3-2/WeberDSMF93:::Jacques Weber::A. Deloff::O. Schwalm::Pierre-Yves Morgantini::Peter F. Flükiger:::The Challenge of Visualizing Microscopic Molecular Worlds in Chemical Education.
+conf/ifip3-2/MulderH97:::Fred Mulder::A. E. N. Hacquebard:::Specifying and comparing informatics curricula through UCSIR.
+conf/ifip3-3/Sandberg93:::Jacobijn Sandberg:::Educational paradigms: issues and trends.
+conf/ifip3-3/BalacheffS93:::Nicolas Balacheff::Rosamund Sutherland:::Epistemological domain of validity of microworlds: the case of LOGO and Cabri-Géomètre.
+conf/ifip3-4/HungK92:::Sheung-lun Hung::Lam-for Kwok:::Upgrading IT Professionals in Hong Kong.
+conf/ifip3-4/Haugen93:::Harald Haugen:::Just in time open learning - for professionals.
+conf/ifip3-4/ToriiM93:::Koji Torii::Ken-ichi Matsumoto:::Software Education should go from Synthesis to Analysis by a Measurenment Enviroment.
+conf/ifip3-4/RuohonenF93:::Mikko J. Ruohonen::Marjo Favorin:::Learning theories, design and production methodology.
+conf/ifip3-4/Kerner93:::Immo O. Kerner:::Informatics and its didactics in computer mediated education.
+conf/ifip3-4/PerezP92:::Víctor L. Pérez::José A. Pino:::An Educational Requirements Model for Information Technology.
+conf/ifip3-4/Tourunen92:::Eero Tourunen:::Educating Reflective System Designers by Using the Experimental Learning Model.
+conf/ifip3-4/ThompsonG93:::J. Barrie Thompson::Angela Goh:::CASE Tools in Software Engineering Education.
+conf/ifip3-4/MurrayKSGFT98:::M. A. Murray::Simon Kerridge::Andrew Slade::D. Grey::I. Fergusson::J. Barrie Thompson:::The Application Of the Internet And Intranets In Business.
+conf/ifip3-4/Tarenskeen93:::Debbie Tarenskeen:::Computer aided construction of questions for tests.
+conf/ifip3-4/Green93:::LaVon Green:::Putting Software Engineering Education in its Place.
+conf/ifip3-4/KatoIA98:::Hiroshi Kato::Mitsushige Iwamoto::Hideki Asahi:::Empirical Study On Effectiveness of HDTV in Distance Education.
+conf/ifip3-5/Cox02:::Margaret J. Cox:::How do we know that ICT has an impact on children's learning? A review of techniques and methods to measure changes in pupils' learning promoted by the use of ICT.
+conf/ifip3-5/Marshall94:::Gail Marshall:::Cautionary Verses: Prospects and Problems in Achieving the Aims of the Computer Revolution.
+conf/ifip3-5/Burke94:::Walter Burke:::The Search for A Coherent Approach to the Development of Information Technology in the School Curriculum.
+conf/ifip3-5/HellerM94:::Rachelle S. Heller::C. Dianne Martin:::The TEAMSS Project: Examining the Impact of a Multi-Level Staff Development Model.
+conf/ifip3-5/SiegfriedD94:::Robert J. Siegfried::Maureen Durkan-Reusche:::Curriculum, Technology and Staff Development: A College-School Partnership.
+conf/ifip3-5/Downes94:::Toni Downes:::Children and Electronic Media in the Home.
+conf/ifip3-6/Carlsen03:::Roger Carlsen:::Building productive online learning communities: investigating and interacting with internet educational genres.
+conf/ifip3-7/SelwoodO02:::Ian Selwood::Christopher O'Mahony:::Core Competences for ITEM. A Model.
+conf/ifip3-7/BajecKR00:::Marko Bajec::Marjan Krisper::Rok Rupnik:::Developing Software for School Administration and Management.
+conf/ifip3-7/SelwoodFO02:::Ian Selwood::Alex C. W. Fung::Christopher O'Mahony:::Management of Education in the Information Age.
+conf/ifip3-7/SelwoodSW00:::Ian Selwood::Debbie Smith::J. Wisehart:::Supporting UK Teachers Through The National Grid for Learning.
+conf/ifip3-7/Thorn02:::Christopher Thorn:::Data Use in the Classroom.
+conf/ifip5-2/Fogg91:::Dennis C. Fogg:::Heuristically Guided Enumeration: A Framework for Multi-Criteria Parametric Design.
+conf/ifip5-2/Xue98:::Deyi Xue:::Modeling of Product Life-cycle Knowledge and Data for an Intelligent Concurrent Design System.
+conf/ifip5-2/Alberts94:::L. K. Alberts:::A sharable ontology for the formal representation of engineering-design knowledge.
+conf/ifip5-2/GiguereRD01:::F. Giguère::Louis Rivest::A. Desrochers:::Improving Design Productivity and Product Data Consistency.
+conf/ifip5-2/LiewST91:::Chun W. Liew::Louis I. Steinberg::Chris H. Tong:::Use of Feedback to Control Redesign.
+conf/ifip5-2/Wilson92a:::Peter R. Wilson:::A note on curve equality.
+conf/ifip5-2/BorgYJ98:::Jonathan C. Borg::Xiu-Tian Yan::Neal P. Juster:::A KICAD Tool for Pro-Active Exploration Support To `Design Synthesis For Multi-X'.
+conf/ifip5-2/Gero94a:::John S. Gero:::Formal design methods for computer-aided design.
+conf/ifip5-2/Alberts94a:::L. K. Alberts:::Discussion: What is a formal representation and what is it good for?.
+conf/ifip5-2/HoffmannJ92:::Christoph M. Hoffmann::Robert Juan:::Erep: An editable, high-level representation for geometric design and analysis.
+conf/ifip5-3/Goossenaerts93:::Jan Goossenaerts:::Enterprise Formulae and Information Infrastructures for Manufacturing.
+conf/ifip5-3/OsorioGB00:::A. Luís Osório::P. Gibon::M. M. Barata:::Electronic commerce with XML/EDI in virtual enterprises.
+conf/ifip5-3/ZarliP99:::A. Zarli::P. Poyet:::A Framework for Distributed Information Management in the Virtual Enterprise: The Vega Project.
+conf/ifip5-3/Deng91:::Hongchou Deng:::The Development of ADNC Distributed Numerical Control System.
+conf/ifip5-3/Halevi92b:::Gideon Halevi:::Report on TC5 CATE TASK FORCE (Computer Aided Effective Task Force).
+conf/ifip5-3/HaleviW92:::Gideon Halevi::Roland D. Weill:::Report on CIRP Review about C. A. P. P. (Computer Aided Process Planing).
+conf/ifip5-3/ZhangWX91:::Li Juan Zhang::Naiqi Wu::Jin Song Xue:::An Approach to Hierarchical Planning and Scheduling for Flexible Manufacturing Cells.
+conf/ifip5-3/CunhaR00:::G. D. Cunha::J. L. D. Ribeiro:::A survey on the use of E-commerce by Brazilian companies.
+conf/ifip5-3/Foulds93:::L. R. Foulds:::Graph Theoretic-Based Decision Support for Facilities Layout.
+conf/ifip5-3/FloresM00:::M. Flores::A. Molina:::Virtual industry clusters: Foundation to create virtual enterprises.
+conf/ifip5-3/MolinaFC98:::A. Molina::M. Flóres::D. Caballero:::Virtual enterprises: A Mexican case study.
+conf/ifip5-3/Halevi92:::Gideon Halevi:::The Magic Matrix as Smart Scheduler, Concurrent and CAPM.
+conf/ifip5-3/MasuiTM93:::H. Masui::A. Tanaka::K. Miyoshi:::Engineering Office Systems for Concurrent Engineering.
+conf/ifip5-3/Jin91:::Yuequan Jin:::A Distributed Computer System of Quality Testing.
+conf/ifip5-3/Lee98:::Yuan-Shin Lee:::Adaptive Tool Path Planning for 5-Axis Sculptured Surface Machining by Machining Strip Evaluation.
+conf/ifip5-3/WangK91:::Qunjie Wang::Fansheng Kong:::ZESPP: A CAPP Expert System Based on Constructing Tool YIP/E.
+conf/ifip5-3/Ren91:::Shouju Ren:::An Introduction to China National Computer Integrated Manufacturing Systems (CIMS) Subject.
+conf/ifip5-3/LiDV98:::Hui Li::Zuomin Dong::Geoffrey W. Vickers:::Optimal Tool Path Generation for 2½ D Milling of Dies and Molds.
+conf/ifip5-3/MonizU00:::A. B. Moniz::P. Urze:::Implementation methodology of complex manufacturing environment in a brownfield site.
+conf/ifip5-3/Mase98:::T. Mase:::Vehicle CALS-Results of a Big Challenge to Virtual Development.
+conf/ifip5-3/ZhouZWA00:::Mingwei Zhou::Jeffrey Zheng::Angela Williams::Bob Alexander:::A Web-based Bidding Workbench for Global Manufacturing.
+conf/ifip5-3/Meri00:::Martti Meri:::Planning for Manufacturing - Managing Connective Designs and Asymmetric Designer Knowledge in Product Consortia.
+conf/ifip5-3/SaraswatiBMM00:::Docki Saraswati::Sumiharni Batubara::Reny Mulyadi::Amelia Mulyadi:::Managing the Flow of Information on the Factory Floor.
+conf/ifip5-3/Sladek98:::A. Sládek:::Fuzzy approximation of the functions minimum and maximum.
+conf/ifip5-3/AraiUI93:::Eiji Arai::Naoki Uchiyama::Kazuaki Iwata:::Intelligent Assembly System in Distributed Production Environment.

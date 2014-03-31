@@ -1,0 +1,200 @@
+conf/dsom/LuckSMK99:::Ingo Lück::Marcus Schönbach::Arnulf Mester::Heiko Krumm:::Derivation of Backup Service Management Applications from Service and System Models.
+conf/dsom/HanKJH02:::Se-Hee Han::Myung-Sup Kim::Hong-Taek Ju::James Won-Ki Hong:::The Architecture of NG-MON: A Passive Network Monitoring System for High-Speed IP Networks.
+conf/dsom/Schmidt00:::Holger Schmidt:::Service Contracts Based on Workflow Modeling.
+conf/dsom/HoMH99:::L. Lawrence Ho::Christopher J. Macey::Ronald Hiller:::A Distributed and Reliable Platform for Adaptive Anomaly Detection in IP Networks.
+conf/dsom/Al-Shaer99:::Ehab S. Al-Shaer:::Programmable Agents for Active Distributed Monitoring.
+conf/dsom/MaH99:::Sheng Ma::Joseph L. Hellerstein:::EventBrowser: A Flexible Tool for Scalable Analysis of Event Data.
+conf/dsom/WegdamPHN00:::Maarten Wegdam::Dirk-Jaap Plas::Aart van Halteren::Bart Nieuwenhuis:::Using Message Reflection in a Management Architecture for CORBA.
+conf/dsom/DevarakondaCWSGSRLTA03:::Murthy V. Devarakonda::David M. Chess::Ian Whalley::Alla Segal::Pawan Goyal::Aamer Sachedina::Keri Romanufa::Ed Lassettre::William Tetylaff::Bill Arnold:::Policy-Based Autonomic Storage Allocation.
+conf/dsom/DourishST00:::Paul Dourish::Daniel C. Swinehart::Marvin Theimer:::The Doctor Is In: Helping End Users Understand the Health of Distributed Systems.
+conf/dsom/LewisMPSV99:::David Lewis::Chris Malbon::George Pavlou::Costas Stathopoulos::Enric Jaen Villoldo:::Integrating Service and Network Management Components for Service Fulfilment.
+conf/dsom/Stokes02:::Ellen Stokes:::Cool to Critical: Managing Web Services Now.
+conf/dsom/OmariBC99:::Salima Omari::Raouf Boutaba::Omar Cherkaoui:::Directory Supported Management with SNMPv3.
+conf/dsom/Ricciulli99:::Livio Ricciulli:::Service Configuration and Management in Adaptable Networks.
+conf/dsom/TeohMWMZPWZB03:::Soon Tee Teoh::Kwan-Liu Ma::S. Felix Wu::Daniel Massey::Xiaoliang Zhao::Dan Pei::Lan Wang::Lixia Zhang::Randy Bush:::Visual-Based Anomaly Detection for BGP Origin AS Change (OASC) Events.
+conf/dsom/GuptaNAK03:::Manish Gupta::Anindya Neogi::Manoj K. Agarwal::Gautam Kar:::Discovering Dynamic Dependencies in Enterprise Environments for Problem Determination.
+conf/ekaw/NeubertS92:::Susanne Neubert::Rudi Studer:::The KEEP Model, a Knowledge Engineering Process Model.
+conf/ekaw/Perkuhn97:::Rainer Perkuhn:::Reuse of Problem-Solving Methods and Family Resemblances.
+conf/ekaw/HahnKS96:::Udo Hahn::Manfred Klenner::Klemens Schnattinger:::A Quality-Based Terminological Reasoning Model for Text Knowledge Acquisition.
+conf/ekaw/Killin92:::Jonathan Killin:::The Management and Maintenance of an Operational KADS System Development.
+conf/ekaw/NedellecC92:::Claire Nedellec::Karine Causse:::Knowledge Refinement Using Knowledge Acquisition and Machine Learning Methods.
+conf/ekaw/PortmanE92:::M.-M. Portman::Steve M. Easterbrook:::PMI: Knowledge Eliciation and De Bono's Thinking Tools.
+conf/ekaw/Slodzian00:::Aurelien Slodzian:::Kinesys, a Participative Approach to the Design of Knowledge Systems.
+conf/ekaw/BoswellCR97:::Robin Boswell::Susan Craw::Ray Rowe:::Knowledge Refinement for a Design System.
+conf/ekaw/FenselMDZ97:::Dieter Fensel::Enrico Motta::Stefan Decker::Zdenek Zdráhal:::Using Ontologies for Defining Tasks, Problem-Solving Methods and their Mappings.
+conf/ekaw/ErikssonM92:::Henrik Eriksson::Mark A. Musen:::Conceptual Models for Automatic Generation of Knowledge-Acquisition Tools.
+conf/ekaw/OHaraST00:::Kieron O'Hara::Nigel Shadbolt::Jeni Tennison:::Certifying KBSs: Using CommonKADS to Provide Supporting Evidence for Fitness for Purpose of KBSs.
+conf/ekaw/HoflingLRW99:::Björn Höfling::Thorsten Liebig::Dietmar Rösner::Lars Webel:::Towards an Ontology for Substances and Related Actions.
+conf/ekaw/Linster92:::Marc Linster:::Linking Modeling to Make Sense and Modeling to Implement Systems in an Operational Modeling Environment.
+conf/ekaw/Stumme99:::Gerd Stumme:::Acquiring Expert Knowledge for the Design of Conceptual Information Systems.
+conf/ekaw/TourtierB94:::Paul-André Tourtier::Stéphane Boyera:::Validating at Early Stages with a Causal Simulation Tool.
+conf/ekaw/AnjewierdenSH02:::Anjo Anjewierden::Irina Shostak::Robert de Hoog:::KMsim: A Meta-modelling Approach and Environment for Creating Process-Oriented Knowledge Management Simulations.
+conf/ekaw/AllemangH93:::Dean Allemang::Gertjan van Heijst:::Generic Tasks in KEW.
+conf/ekaw/ArlanzonBL96:::V. Arlanzón::Amaia Bernaras::Inaki Laresgoiti:::Configuring Service Recovery Planning with the CommonKADS Library.
+conf/facs/Yi88:::Wang Yi:::Specifying Processes in Terms of Their Environments.
+conf/facs/Gilbert88:::David Gilbert:::Specification and Implementation of Concurrent Systems using PARLOG.
+conf/facs/Billington88:::Jonathan Billington:::A High-Level Petri Net Specification of the Cambridge Fast Ring M-Access Service.
+conf/fair/Vauzeilles91:::Jacqueline Vauzeilles:::Negation as failure and intuitionistic three-valued logic.
+conf/fair/Markov91:::Zdravko Markov:::An approach to data-driven learning.
+conf/fapr/Pohl96:::Wolfgang Pohl:::Combining Partitions and Modal Logic for User Modeling.
+conf/fapr/GotodaAF96:::Hironobu Gotoda::Jianghong An::Yuzuru Fujiwara:::Analogical Reasoning of Organic Reactions Based on the Structurized Compound-Reaction Diagram.
+conf/fapr/Antoniou96:::Grigoris Antoniou:::A Comparative Survey of Default Logic Variants.
+conf/fapr/Wooldridge96:::Michael Wooldridge:::Practical Reasoning with Procedural Knowledge.
+conf/fapr/ReedLF96:::Chris Reed::Derek Long::Maria Fox:::An Architecture fro Argumentative Dialogue Planning.
+conf/fapr/GiunchigliaG96:::Enrico Giunchiglia::Fausto Giunchiglia:::Ideal and Real Belief about Belief.
+conf/fapr/GabbayR96:::Dov M. Gabbay::Odinaldo Rodrigues:::A Methodology for Iterated Theory Change.
+conf/fapr/Tindale96:::Christopher W. Tindale:::From Syllogisms to Audiences: The Prospect for Logic in a Rhetorical Model of Argumentation.
+conf/fase/GruerHK00:::Pablo Gruer::Vincent Hilaire::Abder Koukam:::Verification of Object-Z Specifications by Using Transition Systems: Application to the Radiomobile Network Design Problem.
+conf/fase/NonnengartRS02:::Andreas Nonnengart::Georg Rock::Werner Stephan:::Formal Requirements Engineering Using Observer Models.
+conf/fase/Weber99:::Herbert Weber:::Continuous Engineering of Information and Communication Infrastructures (Extended Abstract).
+conf/fase/HahnleJR02:::Reiner Hähnle::Kristofer Johannisson::Aarne Ranta:::An Authoring Tool for Informal and Formal Requirements Specifications.
+conf/fase/Tapken99:::Josef Tapken:::Implementing Hierarchical Graph-Structures.
+conf/fase/Lammel01:::Ralf Lämmel:::Grammar Testing.
+conf/fase/Muccini03:::Henry Muccini:::Detecting Implied Scenarios Analyzing Non-local Branching Choices.
+conf/fase/Selic01:::Bran Selic:::Physical Programming: Beyond Mere Logic.
+conf/fase/SchroderM03:::Lutz Schröder::Till Mossakowski:::Monad-Independent Hoare Logic in HASCASL.
+conf/fase/LuthW00:::Christoph Lüth::Burkhart Wolff:::More About TAS and IsaWin - Tools for Formal Program Development.
+conf/fase/NielsonAN98:::Hanne Riis Nielson::Torben Amtoft::Flemming Nielson:::Behaviour Analysis and Safety Conditions: A Case Study in CML.
+conf/fast/SobtiGZYKW02:::Sumeet Sobti::Nitin Garg::Chi Zhang::Xiang Yu::Arvind Krishnamurthy::Randolph Y. Wang:::PersonalRAID: Mobile Storage for Distributed and Disconnected Computers.
+conf/fast/WangH02:::Jun Wang::Yiming Hu:::WOLF - A Novel Reordering Write Buffer to Boost the Performance of Log-Structured File Systems.
+conf/fast/LuAW02:::Chenyang Lu::Guillermo A. Alvarez::John Wilkes:::Aqueduct: Online Data Migration with Performance Guarantees.
+conf/fast/SchindlerGLG02:::Jiri Schindler::John Linwood Griffin::Christopher R. Lumb::Gregory R. Ganger:::Track-Aligned Extents: Matching Access Patterns to Disk Drive Characteristics.
+conf/fast/Wilkes03:::John Wilkes:::Data Services - From Data to Containers.
+conf/fast/MemikKC02:::Gokhan Memik::Mahmut T. Kandemir::Alok N. Choudhary:::Exploiting Inter-File Access Patterns Using Multi-Collective I/O.
+conf/fast/SarkarUV03:::Prasenjit Sarkar::Sandeep Uttamchandani::Kaladhar Voruganti:::Storage Over IP: When Does Hardware Support Help?
+conf/fast/AndersonHKSUV02:::Eric Anderson::Michael Hobbs::Kimberly Keeton::Susan Spence::Mustafa Uysal::Alistair C. Veitch:::Hippodrome: Running Circles Around Storage Administration.
+conf/fccm/DeHonHW02:::André DeHon::Randy Huang::John Wawrzynek:::Hardware-Assisted Fast Routing.
+conf/fccm/WiangtongCL02:::Theerayod Wiangtong::Peter Y. K. Cheung::Wayne Luk:::Tabu Search with Intensification Strategy for Functional Partitioning in Hardware-Software Codesign.
+conf/fccm/GrassmannA02:::Cyprian Grassmann::Joachim K. Anlauf:::RACER - A Rapid Prototyping Accelerator for Pulsed Neural Networks.
+conf/fccm/JacksonHT03:::Preston A. Jackson::Brad L. Hutchings::Justin L. Tripp:::Simulation and Synthesis of CSP-based Interprocess Communication.
+conf/fccm/JonesB03:::Alex Jones::Prithviraj Banerjee:::An Automated and Power-Aware Framework for Utilization of IP Cores in Hardware Generated from C Descriptions Targeting FPGAs.
+conf/fccm/ReisS02:::N. A. Reis::José T. de Sousa:::On Implementing a Configware/Software SAT Solver.
+conf/fccm/ScaleraJSBAAM02:::Jonathan E. Scalera::Creed F. Jones III::Maneesh Soni::Mark B. Bucciero::Peter M. Athanas::A. Lynn Abbott::Amitabh Mishra:::Reconfigurable Object Detection in FLIR Image Sequences.
+conf/fccm/Brebner02:::Gordon J. Brebner:::Single-Chip Gigabit Mixed-Version IP Router on Virtex-II Pro.
+conf/fdbs/Hildebrandt98:::Eyk Hildebrandt:::Eine Klassifikation von Eigenschaften und Personen bezüglich der Sicherheit in föderierten Datenbanksystemen.
+conf/fdbs/Harde01:::Gunnar Harde:::XCube: Konzept für eine XML-basierte Beschreibung von Datenwürfeln zur Realisierung eines föderativen Data-Warehouse-Netzwerkes.
+conf/fdbs/ConradS99:::Rainer Conrad::Dieter Scheffner:::Konzeptionelle Modellierung von XML fuer die Integration.
+conf/epia/Schild93:::Klaus Schild:::Combining Terminological Logics with Tense Logic.
+conf/epia/DugatGL99:::Vincent Dugat::Pierre Gambarotto::Yannick Larvor:::Qualitative Theory of Shape and Structure.
+conf/epia/CardosoSO99:::Henrique Lopes Cardoso::Max Schaefer::Eugenio Oliveira:::A Multi-agent System for Electronic Commerce including Adaptive Strategic Behaviours.
+conf/epia/RaudysJ03:::Sarunas Raudys::Viktoras Justickis:::Yerkes-Dodson Law in Agents' Training.
+conf/epia/LarranagaGSUM97:::Pedro Larrañaga::Miren J. Gallego::Basilio Sierra::L. Urkola::Maria J. Michelena:::Bayesian Networks, Rule Induction and Logistic Regression in the Prediction of the Survival of Women Suffering from Breast Cancer.
+conf/epia/LeeL95:::Jong-Hyeok Lee::Geunbae Lee:::A Dependency Parser of Korean Based on Connectionist/ Symbolic Techniques.
+conf/epia/Zetzsche89:::F. Zetzsche:::Non-monotonic Reasoning with the ATMS.
+conf/epia/MenezesB93:::Francisco Menezes::Pedro Barahona:::Preliminary Formalization of an Incremental Hierarchical Constraint Solver.
+conf/epia/Pinto97:::Helena Sofia Andrade N. P. Pinto:::Integration of Inheritance in SNePS.
+conf/epia/SchnattingerHK95:::Klemens Schnattinger::Udo Hahn::Manfred Klenner:::Terminological Meta-Reasoning by Reification and Multiple Contexts.
+conf/epia/AntoniouL93:::Grigoris Antoniou::Elmar Langetepe:::A Process Model for Default Logic and Its Realization in Logic Programming.
+conf/epia/Sowa89:::John F. Sowa:::Knowledge Acquisition by Teachable Systems.
+conf/epia/KrajcarSPB95:::Slavko Krajcar::Davor Skrlec::Branko Pribicevic::Snjezana Blagajac:::GA Approach to Solving Multiple Vehicle Routing Problem.
+conf/epia/Prendinger97:::Helmut Prendinger:::Approximate Reasoning.
+conf/epia/Antoniou93:::Grigoris Antoniou:::Version Space Algorithms on Hierarchies with Exceptions.
+conf/epia/CorreiaMA99:::Luís Correia::Fernando Moura-Pires::Joaquim Nunes Aparício:::Expressing Population Based Optimization Heuristics Using PLATO.
+conf/epia/Rabinov89:::Arkady Rabinov:::First Order Theories of Quantification.
+conf/epia/CruzB01:::Jorge Cruz::Pedro Barahona:::Global Hull Consistency with Local Search for Continuous Constraint Solving.
+conf/epia/EastT99:::Deborah East::Miroslaw Truszczynski:::On the Accuracy and Running Time of GSAT.
+conf/epia/BentoMC95:::Carlos Bento::Penousal Machado::Ernesto Costa:::On the Role of Splitting and Merging Past Cases for Generation of a New Solution.
+conf/epia/FilgueirasT91:::Miguel Filgueiras::Ana Paula Tomás:::Solving Linear Constraints on Finite Domains Through Parsing.
+conf/epia/MendesH91:::José António Mendes::Pedro Rangel Henriques:::Heuristic Parsing and Search Space Pruning.
+conf/epia/Zarri89:::Gian Piero Zarri:::Conceptural Representation Techniques in the Framework of Large Knowledge Based Systems.
+conf/epia/QuintanoR03:::Luis Quintano::Irene Pimenta Rodrigues:::Managing Dialog in a Natural Language Querying System.
+conf/epia/AlipioCN03:::Pedro Alipio::Paulo Carvalho::José Neves:::Using CLIPS to Detect Network Intrusions.
+conf/epia/MedinaOV01:::Jesús Medina::Manuel Ojeda-Aciego::Peter Vojtás:::A Procedural Semantics for Multi-adjoint Logic Programming.
+conf/epia/NascimentoMM01:::Susana Nascimento::Boris Mirkin::Fernando Moura-Pires:::Proportional Membership in Fuzzy Clustering as a Model of Ideal Types.
+conf/epia/ValenciaS03:::Erika Valencia::Jean-Paul Sansonnet:::Model for Dialogue between Informational Agents.
+conf/epia/OliveiraS01:::Elias Oliveira::Barbara M. Smith:::A Combined Constraint-Based Search Method for Single-Track Railway Scheduling Problem.
+conf/epia/FisherW93:::Michael Fisher::Michael Wooldridge:::Specifying and Verifying Distributed Intelligence Systems.
+conf/epia/Swift99:::Terrance Swift:::A New Formulation of Tabled Resolution with Delay.
+conf/epia/ZhangM89:::Aidong Zhang::V. Wiktor Marek:::On the Classification and Existence of Structures in Default Logic.
+conf/epia/Gomes97:::Nuno Filipe da Fonseca Bastos Gomes:::A CLP Model to the Job Sequencing Problem.
+conf/fgcs/SumitaOCUA92:::K. Sumita::K. Ono::T. Chino::T. Ukita::S. Amano:::A Discourse Structure Analyzer for Japanese Text.
+conf/fgcs/Shapiro84:::Ehud Y. Shapiro:::Systolic Programming: A Paradigm of Parallel Processing.
+conf/fgcs/UchidaYSTHM88:::Shunichi Uchida::Tsutomu Yoshioka::Ryôichi Sugimura::Yuiti Tanaka::Kôiti Hasida::Kuniaki Mukai:::The Research and Development of Natural Language Processing Systems in The Intermediate Stage of the FGCS Project.
+conf/fgcs/TakedaNMCT88:::Yasutaka Takeda::Hiroshi Nakashima::Kanae Masuda::Takashi Chikayama::Kazuo Taki:::A Load Balancing Mechanism for Large Scale Multiprocessor Systems and its Implementation.
+conf/fgcs/Cointe88:::Pierre Cointe:::A Tutorial Introduction to Metaclass Architecture as provides by Class Oriented Languages.
+conf/fgcs/LinK88:::Yow-Jian Lin::Vipin Kumar:::Performance of And-Paralle Execution of Logic Programs on a Shared-Memory Multiprocessor.
+conf/fgcs/NagaiTYT88:::Yasuo Nagai::Satoshi Terasaki::Takanori Yokoyama::Hirokazu Taki:::Expert System Architecture for Design Tasks.
+conf/fgcs/Kawanobe84:::Kazukiyo Kawanobe:::Current Status and Future Plans of the Fifth Generation Computer Systems Project.
+conf/fgcs/WaltzS88:::David L. Waltz::Craig Stanfill:::Artificial Intelligence Related Research on the Connection Machine.
+conf/fgcs/Tanaka88a:::Yuzuru Tanaka:::Multiport Memory Architectures.
+conf/fgcs/TanakaY88:::Yuichi Tanaka::Tsutomu Yoshioka:::Overview of the Dictionary and Lexical Knowledge Base Research.
+conf/fgcs/Boose88:::John H. Boose:::Knowledge Acquisition Techniques and Tools: Current Research Strategies and Approaches.
+conf/fgcs/Abramson84:::Harvey Abramson:::Definite Clause Translation Grammars and the Logical Specification of Data Types as Unambiguous Context Free Grammars.
+conf/fgcs/Ueda88:::Kazunori Ueda:::Theory and Practice of Concurrent Systems - The Role of Kernel Language in the FGCS Project.
+conf/fgcs/DarlingtonGP92:::John Darlington::Yike Guo::Helen Pull:::A New Perspective on Integrating Functional and Logic Languages.
+conf/fgcs/DershowitzO88:::Nachum Dershowitz::Mitsuhiro Okada:::Conditional Equational Programming and the Theory of Conditional Term Rewriting.
+conf/fgcs/Castaing92:::Jacqueline Castaing:::A Hybrid Reasoning System for Explaining Mistakes in Chinese Writing.
+conf/fgcs/Poirriez92:::Vincent Poirriez:::MLOG: A Strongly Typed Confluent Functional Language with Logical Variables.
+conf/fgcs/KonishiMKYC92:::Koichi Konishi::Tsutomu Maruyama::Akihiko Konagaya::Kaoru Yoshida::Takashi Chikayama:::Implementing Streams on Parallel Machines with Distributed Memory.
+conf/fgcs/Rusinowitch88:::Michaël Rusinowitch:::Theorem-Proving with Resolution and Superposition: An Extension of the Knuth and Bendic Procedure to a Complete Set of Inference Rules.
+conf/fgcs/KesimS92:::F. Nihan Kesim::Marek J. Sergot:::On the Evolution of Objects in a Logic Programming Framework.
+conf/fgcs/BalbianiCH88:::Philippe Balbiani::Luis Fariñas del Cerro::Andreas Herzig:::Declarative Semantics for Modal Logic Programs.
+conf/fgcs/LinOY92:::Eileen Tien Lin::Edward Omiecinski::Sudhakar Yalamanchili:::Parallel Optimization and Execution of Large Join Queries.
+conf/fgcs/DincbasP84:::Mehmet Dincbas::Jean-Pierre Le Pape:::Metacontrol of Logic Programs in Metalog.
+conf/fgcs/Horiuchi92:::Kenji Horiuchi:::Less Abstract Semantics for Abstract Interpretation of FGHC Programs.
+conf/fgcs/Emden92:::Maarten H. van Emden:::Mental Ergonomics as Basis for New-Generation Computer Systems.
+conf/fgcs/MurakamiKO84:::Kunio Murakami::Takeo Kakuta::Rikio Onai:::Architectures and Hardware Systems: Parallel Inference Machine and Knowledge Base Machine.
+conf/fgcs/Brachman92:::Ronald J. Brachman:::Knowledge Representation Theory Meets Reality: Some Brief Lessons from the CLASSIC, Panel Position Paper.
+conf/fgcs/Yamasaki88:::Susumu Yamasaki:::Semantics of Logic Programs over Sequence Domains.
+conf/fgcs/OhwadaM88:::Hayato Ohwada::Fumio Mizoguchi:::An Examination for Applicability of FGHC: The Experience of Designing Qualitative Reasoning System.
+conf/fgcs/SuzukiKISMK92:::Junzo Suzuki::Chiho Konuma::Mikito Iwamasa::Naomichi Sueda::Shigeru Mochiji::Akimoto Kamiya:::A Diagnostic and Control Expert System Based on a Plant Model.
+conf/fgcs/KoikeT88:::Hanpei Koike::Hidehiko Tanaka:::Multi-Context Processing and Data Balancing Mechanism of the Parallel Inference Machine PIE64.
+conf/fgcs/Gallaire88:::Hervé Gallaire:::Multiple Reasoning Styles in Logic Programming.
+conf/fgcs/KoguchiKOI88:::Takuo Koguchi::Hidefumi Kondo::Masahiro Oba::Hidenori Itoh:::Knowledge Representation with Abstractive Layers for Information Retrieval.
+conf/esaw/BonifacioBFP02:::Matteo Bonifacio::Paolo Bouquet::Roberta Ferrario::Diego Ponte:::Rationality, Autonomy and Coordination: The Sunk Costs Perspective.
+conf/esaw/PerichKCTZFJPCN01:::Filip Perich::Lalana Kagal::Harry Chen::Sovrin Tolia::Youyong Zou::Timothy W. Finin::Anupam Joshi::Yun Peng::R. Scott Cost::Charles K. Nicholas:::ITTALKS: An Application of Agents in the Semantic Web.
+conf/esaw/BernonGPP02:::Carole Bernon::Marie Pierre Gleizes::Sylvain Peyruqueou::Gauthier Picard:::ADELFE: A Methodology for Adaptive Multi-agent Systems Engineering.
+conf/esaw/RicciOD02:::Alessandro Ricci::Andrea Omicini::Enrico Denti:::Activity Theory as a Framework for MAS Coordination.
+conf/esaw/DellAcquaP01:::Pierangelo Dell'Acqua::Luís Moniz Pereira:::Preferring and Updating in Abductive Multi-agent Systems.
+conf/esaw/MoroV00:::Gianluca Moro::Mirko Viroli:::On Observing and Constraining Active Systems.
+conf/esec/CroweNCOJ87:::Malcolm K. Crowe::Clark Nicol::Martin E. Corr::John W. Oram::David G. Jenkins:::A Software Development Environment for Ada.
+conf/esec/GarzottoGMM87:::Franca Garzotto::Carlo Ghezzi::Dino Mandrioli::Angelo Morzenti:::On the Specification of Real-Time Systems Using Logic Programming.
+conf/esec/HitzM95:::Martin Hitz::Behzad Montazeri:::Measuring Product Attributes of Object-Oriented Systems.
+conf/esec/Oswald87:::Heinz Oswald:::PantaPM: An Integrated Software Development Environment.
+conf/esec/HeimdahlW98:::Mats Per Erik Heimdahl::Michael W. Whalen:::Reduction and Slicing of Hierarchical State Machines.
+conf/esec/Beeck93:::Michael von der Beeck:::Integration of Structured Analysis and Timed Statecharts for Real-Time and Concurrency Specification.
+conf/esec/DesharnaisFKM98:::Jules Desharnais::Marc Frappier::Ridha Khédri::Ali Mili:::Integration of Sequential Scenarios.
+conf/esec/PiccoRM98:::Gian Pietro Picco::Gruia-Catalin Roman::Peter J. McCann:::Expressing Code Mobility in Mobile UNITY.
+conf/esec/LiuC93:::Chunnian Liu::Reidar Conradi:::Automatic Replanning of Task Networks for Process Model Evolution in EPOS.
+conf/esec/Obst87:::Wolfgang Obst:::Delta Technique and String-to-String Correction.
+conf/esec/CartmellA87:::John Cartmell::Albert Alderson:::The Eclipse Two-Tier Database Interface.
+conf/esec/LieDCKHH89:::Anund Lie::Tor Didriksen::Reidar Conradi::Even-André Karlsson::Svein O. Hallsteinsen::Per Holager:::Change Oriented Versioning.
+conf/esec/Coutaz91:::Joëlle Coutaz:::Architectural Design for User Interfaces.
+conf/esec/BreitenederM93:::Christian Breiteneder::Thomas A. Mück:::Process Programming with Active and Passive Components.
+conf/esec/Coen-PorisiniKM95:::Alberto Coen-Porisini::Richard A. Kemmerer::Dino Mandrioli:::A Formal Framework for ASTRAL Inter-level Proof Obligations.
+conf/esec/EnselmeBV87:::Daniel Enselme::Gérard Benay::F.-Y. Villemin:::Automatic Program Synthesis from Data Structures.
+conf/esec/GiannakopoulouMK99:::Dimitra Giannakopoulou::Jeff Magee::Jeff Kramer:::Checking Progress with Action Priority: Is it Fair?
+conf/esec/Zeller99:::Andreas Zeller:::Yesterday, My Program Worked. Today, It Does Not. Why?
+conf/esec/Shutt89:::R. N. Shutt:::A Rigorous Development Strategy Using the OBJ Specification Language and the MALPAS Program Analysis Tools.
+conf/esec/KamstiesL95:::Erik Kamsties::Christopher M. Lott:::An Empirical Evaluation of Three Defect-Detection Techniques.
+conf/esec/Fierz99:::Hugo Fierz:::The CIP Method: Component- and Model-Based Construction of Embedded Systems.
+conf/esec/TuyaSZC93:::Javier Tuya::Luciano Sánchez::R. Zurita::José A. Corrales:::A Pragmatic Task Design Approach Based on a Ward/Mellor Real-Time Structured Specification.
+conf/esec/ZellerS95:::Andreas Zeller::Gregor Snelting:::Handling Version Sets Through Feature Logic.
+conf/esec/NiskierMS89:::Celso Niskier::T. S. E. Maibaum::Daniel Schwabe:::A Pluralistic Knowledge-Based Approach to Software Specification.
+conf/esec/Reichardt93:::Johannes Reichardt:::Preventative Software Engineering.
+conf/esec/HekmatpourW87:::S. Hekmatpour::Mark Woodman:::Formal Specification of Graphical Notations and Graphical Software Tools.
+conf/esec/Adams93:::Rolf Adams:::An Experiment in Software Retrieval.
+conf/esec/CollinsEGGT91:::Tim Collins::Kevin Ewert::Colin Gerety::Jon Gustafson::Ian Thomas:::Tickle: Object-Oriented Description and Composition Services for Software Engineering Environments.
+conf/ersa/BicerPBS03:::S. Murat Bicer::Frank Pilhofer::Graham Bardouleau::Jeffrey Smith:::Next Generation Architecture for Heterogeneous Embedded Systems.
+conf/ersa/HannaH03:::Darrin M. Hanna::Richard E. Haskell:::Using Flowpaths for the High-Level Synthesis of Reconfigurable Systems.
+conf/ersa/CadenasMP03:::Oswaldo Cadenas::Graham M. Megson::Toomas P. Plaks:::FPGA Circuits for a Monte-Carlo Based Matrix Inversion Architecture.
+conf/ersa/WalderP03:::Herbert Walder::Marco Platzner:::Reconfigurable Hardware Operating Systems: From Design Concepts to Realizations.
+conf/esop/JourdanP90:::Martin Jourdan::Didier Parigot:::Techniques for Improving Grammar Flow Analysis.
+conf/esop/GraunkeKHF01:::Paul T. Graunke::Shriram Krishnamurthi::Steve Van Der Hoeven::Matthias Felleisen:::Programming the Web with High-Level Programming Languages.
+conf/esop/MacQueenT94:::David B. MacQueen::Mads Tofte:::A Semantics for Higher-Order Functors.
+conf/esop/GenaimK03:::Samir Genaim::Andy King:::Goal-Independent Suspension Analysis for Logic Programs with Dynamic Scheduling.
+conf/esop/Paige90:::Robert Paige:::Symbolic Finite Differencing - Part I.
+conf/esop/Levaire92:::Jean-Luc Levaire:::Using the Centaur System to for Data-Parallel SIMD Programming: A Case Study.
+conf/esop/JayS98:::C. Barry Jay::Paul Steckler:::The Functional Imperative: Shape!
+conf/esop/BahlkeS88:::Rolf Bahlke::Gregor Snelting:::The PSG System: From Formal Language Definitions to Interactive Programming Environments.
+conf/esop/King94:::Andy King:::A Synergistic Analysis for Sharing and Groundness with Traces Linearity.
+conf/esop/AlpuenteFV96:::María Alpuente::Moreno Falaschi::Germán Vidal:::Narrowing-Driven Partial Evaluation of Functional Logic Programs.
+conf/esop/Martel02:::Matthieu Martel:::Propagation of Roundoff Errors in Finite Precision Computations: A Semantics Approach.
+conf/esop/Jacobs01:::Bart Jacobs:::A Formalisation of Java's Exception Mechanism.
+conf/esop/Reps90:::Thomas W. Reps:::Algebraic Properties of Program Integration.
+conf/esop/Rose96:::Eva Rose:::Linear Time Hierarchies for a Functional Language Machine Model.
+conf/esop/Andersen92:::Henrik Reif Andersen:::Model Checking and Boolean Graphs.
+conf/esop/NielsonN88:::Flemming Nielson::Hanne Riis Nielson:::2-level lambda-lifting.
+conf/esop/CejtinJW00:::Henry Cejtin::Suresh Jagannathan::Stephen Weeks:::Flow-Directed Closure Conversion for Typed Languages.
+conf/esop/SmithWM00:::Frederick Smith::David Walker::J. Gregory Morrisett:::Alias Types.
+conf/esop/BuenoGHP96:::Francisco Bueno::Daniel Cabeza Gras::Manuel V. Hermenegildo::German Puebla:::Global Analysis of Standard Prolog Programs.

@@ -1,0 +1,200 @@
+conf/ccgrid/EymannRAAFN03:::Torsten Eymann::Michael Reinicke::Oscar Ardaiz::Pau Artigas::Felix Freitag::Leandro Navarro:::Decentralized Resource Allocation in Application Layer Networks.
+conf/ccgrid/OguraMN03:::Shoji Ogura::Satoshi Matsuoka::Hidemoto Nakada:::Evaluation of the inter-cluster data transfer on Grid environment.
+conf/ccgrid/LiM03:::Yaohang Li::Michael Mascagni:::Improving Performance via Computational Replication on a Large-Scale Computational Grid.
+conf/ccgrid/WebbW02:::Darren Webb::Andrew L. Wendelborn:::Java Coglets.
+conf/ccgrid/SegawaTKKS03:::Koji Segawa::Osamu Tatebe::Yuetsu Kodama::Tomohiro Kudoh::Toshiyuki Shimizu:::Design and implementation of PVFS-PM: a cluster file system on SCore.
+conf/ccgrid/AgrawalC03:::Abhishek Agrawal::Henri Casanova:::Clustering Hosts in P2P and Global Computing Platforms.
+conf/ccgrid/Stading03:::Tyron Stading:::Secure Communication in a Distributed System Using Identity Based Encryption.
+conf/ccgrid/Pounds-CornishH02:::Anthony Pounds-Cornish::Arran Holme:::The iDorm - A Practical Deployment of Grid Technology.
+conf/ccgrid/GovindarajuKCSGB03:::Madhusudhan Govindaraju::Sriram Krishnan::Kenneth Chiu::Aleksander Slominski::Dennis Gannon::Randall Bramle:::Merging the CCA Component Model with the OGSI Framework.
+conf/ccgrid/PrimetHB02:::Pascale Primet::Robert Harakaly::Franck Bonnassieux:::Experiments of Network Throughput Measurement and Forecasting Using the Network Weather.
+conf/ccgrid/SumimotoK03:::Shinji Sumimoto::Kouichi Kumon:::PM/Ehernet-kRMA: A High Performance Remote Memory Access Facility Using Multiple Gigabit Ethernet Cards.
+conf/ccgrid/XueFC02:::Gang Xue::Matt J. Fairman::Simon J. Cox:::Exploiting Web Technologies for Grid Architecture.
+conf/ccgrid/CerinFJ03:::Christophe Cérin::Hazem Fkaier::Mohamed Jemni:::A Synthesis of P rallel Out-of-core Sorting Programs on Heterogeneous Clusters.
+conf/ccgrid/LorchK02:::Markus Lorch::Dennis G. Kafura:::Symphony - A Java-Based Composition and Manipulation Framework for Computational Grids.
+conf/ccgrid/ShenC02:::Xiaohui Shen::Alok N. Choudhary:::MS-I/O: A Distributed Multi-Storage I/O System.
+conf/ccgrid/DehneER03:::Frank K. H. A. Dehne::Todd Eavis::Andrew Rau-Chaplin:::Parallel Multi-Dimensional ROLAP Indexing.
+conf/ccgrid/Atkins02:::Daniel E. Atkins:::A Report from the U.S. National Science Foundation Blue Ribbon Panel on Cyberinfrastructure.
+conf/ccgrid/AndrzejakGKT02:::Artur Andrzejak::Sven Graupner::Vadim E. Kotov::Holger Trinks:::Self-Organizing Control in Plantetary-Scale Computing.
+conf/ccgrid/ZerfiridisK03:::Konstantinos G. Zerfiridis::Helen D. Karatza:::Large Scale Dissemination Using a Peer-to-Peer Network.
+conf/ccgrid/MoreauMGGDAACRFGGGLLLLMOPPRRRRSSSWWW03:::Luc Moreau::Simon Miles::Carole A. Goble::R. Mark Greenwood::Vijay Dialani::Matthew Addis::Nedim Alpdemir::Rich Cawley::David De Roure::Justin Ferris::Robert J. Gaizauskas::Kevin Glover::Chris Greenhalgh::Peter Li::Xiaojian Liu::Phillip Lord::Michael Luck::Darren Marvin::Tom Oinn::Norman W. Paton::Stephen Pettifer::Milena V. Radenkovic::Angus Roberts::Alan J. Robinson::Tom Rodden::Martin Senger::Nick Sharman::Robert Stevens::Brian Warboys::Anil Wipat::Chris Wroe:::On the Use of Agents in BioInformatics Grid.
+conf/supercomputer/Wacker91:::Hans-Martin Wacker:::Sind die Vektorrechner die Saurier von morgen?.
+conf/supercomputer/Nelson93:::Steve Nelson:::Designing MPP Systems to Optimize Time-To-Solution Performance.
+conf/supercomputer/GropengiesserNS90:::F. Gropengießer::Helmut Neunzert::J. Struckmeier:::Numerische Methoden zur Berechnung von Strömungen um Raumfähren in größeren Höhen.
+conf/supercomputer/Langhammer92:::Falk Langhammer:::Performance Considerations of Applications on Second Generation Parallel Computers.
+conf/supercomputer/Hertweck93:::Friedrich Hertweck:::A Comparison of Some Current Parallel Computer Architectures.
+conf/supercomputer/Wallach93:::Steven Wallach:::SPP-1.
+conf/supercomputer/RuderEGHKNRZ90:::Hans Ruder::Thomas Ertl::F. Geyer::H. Herold::Ute Kraus::Hans-Peter Nollert::A. Rebetzky::C. Zahn:::Computersimulation in der Astrophysik.
+conf/supercomputer/Gentzsch92:::Wolfgang Gentzsch:::Grand Challenges und Supercomputer - Beispiele großer Herausforderungen für Gesellschaft, Technik und Wissenschaft.
+conf/ceemas/MajJKC03:::Artur Maj::Jaroslaw Jurowicz::Jaroslaw Kozlak::Krzysztof Cetnarowicz:::A Multi-agent System for Dynamic Network Reconfiguration.
+conf/ceemas/Skowron01:::Andrzej Skowron:::Approximate Reasoning by Agents.
+conf/ceemas/Dospisil03:::Jana Dospisil:::Code Complexity Metrics for Mobile Agents Implemented with Aspect/J<sup>TM</sup>.
+conf/ceemas/NovakRHV03:::Petr Novák::Milan Rollo::Jirí Hodík::Tomás Vlcek:::Communication Security in Multi-agent Systems.
+conf/ceemas/Zieliski01:::Krzysztof Zieliski:::Network Services in Context of Pervasive Mobile Internet.
+conf/ceemas/CaminoAG03:::F. Javier Soriano Camino::Fernando Alonso Amo::Genoveva López Gómez:::A Formal Specification Language for Agent Conversations.
+conf/ceemas/Kotenko03:::Igor V. Kotenko:::Teamwork of Hackers-Agents: Modeling and Simulation of Coordinated Distributed Attacks on Computer Networks.
+conf/ceemas/LeitaoR03:::Paulo Leitão::Francisco Restivo:::Towards Autonomy, Self-Organisation and Learning in Holonic Manufacturing.
+conf/ceemas/AshriRL03:::Ronald Ashri::Iyad Rahwan::Michael Luck:::Architectures for Negotiating Agents.
+conf/ceemas/VargaH03:::László Zsolt Varga::Ákos Hajnal:::Engineering Web Service Invocations from Agent Systems.
+conf/ceemas/PetersenM03:::Sobah Abbas Petersen::Mihhail Matskin:::Agent Interaction Protocols for the Selection of Partners for Virtual Enterprises.
+conf/ceemas/PechoucekSMB03:::Michal Pechoucek::Olga Stepánková::Vladimír Marík::Jaroslav Barta:::Abstract Architecture for Meta-reasoning in Multi-agent Systems.
+conf/ceemas/NogueiraO03:::Luís Nogueira::Eugenio Oliveira:::Brokering in Electronic Insurance Markets.
+conf/digitalCities/Numaoka98:::Chisato Numaoka:::SYMBIOT: Personalizing Agents in Social Contexts.
+conf/digitalCities/Isbister00:::Katherine Isbister:::A Warm Cyber-Welcome: Using an Agent-Led Group Tour to Introduce Visitors to Kyoto.
+conf/digitalCities/HamptonW00:::Keith N. Hampton::Barry Wellman:::Examining Community in the Digital Neighborhood: Early Results from Canada's Wired Suburb.
+conf/digitalCities/Mitchell00:::William J. Mitchell:::Designing the Digital City.
+conf/digitalCities/VenkateshS01:::Murali Venkatesh::Donghee Shin:::Community Network Development: A Dialectical View.
+conf/digitalCities/BesselaarTI01:::Peter Van den Besselaar::Makoto Tanabe::Toru Ishida:::Introduction: Digital Cities Research and Open Issues.
+conf/digitalCities/Gotzl01:::Ingrid Götzl:::TeleCities - Digital Cities Network.
+conf/charme/Pierre95:::Laurence Pierre:::Describing and verifying synchronous circuits with the Boyer-Moore theorem prover.
+conf/charme/WahbaB95:::Ayman Wahba::Dominique Borrione:::Design error diagnosis in sequential circuits.
+conf/charme/HungarGD95:::Hardi Hungar::Orna Grumberg::Werner Damm:::What if model checking must be truly symbolic.
+conf/charme/BergJ01:::Christoph Berg::Christian Jacobi II:::Formal Verification of the VAMP Floating Point Unit.
+conf/charme/WangM95:::Li-Guo Wang::Michael Mendler:::Formal design of a class of computers.
+conf/charme/HuibiaoBJ01:::Huibiao Zhu::Jonathan P. Bowen::Jifeng He:::From Operational Semantics to Denotational Semantics for Verilog.
+conf/charme/MollerA01:::M. Oliver Möller::Rajeev Alur:::Heuristics for Hierarchical Partitioning with Application to Model Checking.
+conf/charme/DayLC99:::Nancy A. Day::Jeffrey R. Lewis::Byron Cook:::Symbolic Simulation of Microprocessor Models using Type Classes in Haskell.
+conf/charme/ClaessenSS01:::Koen Claessen::Mary Sheeran::Satnam Singh:::The Design and Verification of a Sorter Core.
+conf/charme/ChazarainC93:::Jacques Chazarain::Hélène Collavizza:::Combining Symbolic Evaluation and Object-Oriented Approach for Verifying Processor-Like Architectures at the RT-Level.
+conf/charme/SternD95:::Ulrich Stern::David L. Dill:::Automatic verification of the SCI cache coherence protocol.
+conf/charme/Shtrichman01:::Ofer Strichman:::Pruning Techniques for the SAT-Based Bounded Model Checking Problem.
+conf/charme/CabodiC93:::Gianpiero Cabodi::Paolo Camurati:::Advancements in Symbolic Traversal Technique.
+conf/charme/Hughes97:::Roger B. Hughes:::CheckOff-M: model checking and its role in IP.
+conf/bsdcon/SatoS02:::Hiroki Sato::Keitaro Sekine:::Experiences on an Open Source Translation Effort in Japan.
+conf/cismod/RichRS93:::Christian Rich::Arnon Rosenthal::Marc H. Scholl:::Reducing Duplicate Work in Relational Join(s): A Unified Approach.
+conf/cismod/FleuryDBP95:::Laurent Fleury::Chabane Djeraba::Henri Briand::Jacques Philippe:::Some Aspect of Rule Discovery in Data Bases.
+conf/cismod/Loucopoulos93:::Pericles Loucopoulos:::Requirements for Improved Information Systems.
+conf/cismod/McBrienSW92:::Peter McBrien::Anne Helga Seltveit::Benkt Wangler:::An Entity-Relationship Model Extended to Describe Historical Informatopm.
+conf/cismod/HarrisMB95:::Wayne Harris::Richard McClatchey::Nigel Baker:::The use of an Object Repository in the Configuration of Control Systems at CERN.
+conf/ebernburg/Lischke90:::Heike Lischke:::A Model to Simulate the Population Dynamics of the Codling Moth (Cydia Pormonella): Reproduction.
+conf/ebernburg/Matthaus90:::E. Matthäus:::Altersklassen-Modellierung mit Hilfe des Simulationssystems SONCHES und Anwendung für Agroökosysteme.
+conf/ebernburg/Seitz90:::A. Seitz:::The Coexistence of Three Species of Daphnia in the Klostersee: III. The Simulation Model Coda.
+conf/ebernburg/FrankeW90:::H. Franke::H. E. Wichmann:::Mathematical Model of Parainfluenza Virus Type 1.
+conf/ebernburg/GabrielB90:::Wilfried Gabriel::Frank van den Bosch:::Consequences of Intraspecific Predation: A Stage Structured Population Model Approach.
+conf/dasfaa/ZhaoCPS93:::Cuie Zhao::Ging Yang Choo::Kia Chek Phua::Robin C. G. Seow:::Database User Interface Design Editor.
+conf/dasfaa/KimCLK91:::Pyung-Chul Kim::Hwan-Ik Choi::Yoon-Joon Lee::Myung-Joon Kim:::Design and Implementation of the Multiuser Index-based Data Access System.
+conf/dasfaa/HanL89:::Jiawei Han::Wenyu Lu:::Asynchronous Chain Recursions.
+conf/dasfaa/Luk01:::Wo-Shun Luk:::ADODA: A Desktop Online Data Analyzer.
+conf/dasfaa/RaP93:::Minyoung Ra::Y.-S. Park:::Data Fragmentation and Allocation for PC-Based Distributed Database Design.
+conf/dasfaa/XuS03:::Jinmei Xu::Sam Yuan Sung:::Caucus-based Transaction Clustering.
+conf/dasfaa/ChiuehK91:::Tzi-cker Chiueh::Randy H. Katz:::Papyrus: A Structured History Database for VLSI Design Flow Management.
+conf/dasfaa/LeeC01:::Chiang Lee::C. Chen:::A Data Delivery Strategy in Ubiquitous Computing Systems.
+conf/dasfaa/LinK01:::K. Lin::Ravikuma Kondadadi:::A Similarity-Based Soft Clustering Algorithm for Documents.
+conf/dasfaa/LiuL01:::Mengchi Liu::Tok Wang Ling:::A Rule-Based Query Language for HTML.
+conf/dasfaa/Masunaga89:::Yoshifumi Masunaga:::An Object-Oriented Approach to Multimedia Database Orgenization and Management.
+conf/dasfaa/WangOT03:::Hongyu Wang::Beng Chin Ooi::Anthony K. H. Tung:::Search: Mining Retrieval History for Content-Based Image Retrieval.
+conf/dasfaa/LehnerR97:::Wolfgang Lehner::Thomas Ruf:::A Redundancy-Based Optimization Approach for Aggregation in Multidimensional Scientific and Atatistical Databases.
+conf/dasfaa/IllarramendiS91:::Arantza Illarramendi::Licia Sbattella:::Syntactic Query Processing: Dealing with Structure and Time.
+conf/dasfaa/ChenM97:::Rongquen Chen::Weiyi Meng:::Efficient View Maintenance in a Multidatabase Environment.
+conf/dasfaa/WongL91:::Wai Yee Peter Wong::Dik Lun Lee:::A Heuristic Method for Document Ranking.
+conf/dasfaa/Takahashi93:::Junichi Takahashi:::Temporal Query Processing for Scene Retrieval in Motion Image Databases.
+conf/dasfaa/TreschS93:::Markus Tresch::Marc H. Scholl:::Schema Transformation Processors for Federated Objectbases.
+conf/dasfaa/RheeP89:::Jai Hyoung Rhee::Seog Park:::An Extension of Counting Method for Efficient Processing of the Cyclic Data.
+conf/dasfaa/LeeC01a:::Chang-Hung Lee::M. Chen:::Using Remote Joins for the Processing of Distributed Mobile Queries.
+conf/dasfaa/FreitagSS91:::Burkhard Freitag::Heribert Schütz::Günther Specht:::LOLA - A Logic Language for Deductive Databases and its Implementation.
+conf/dasfaa/OquendoBGMT91:::Flávio Oquendo::Gérard Boudier::Ferdinando Gallo::Régis Minot::Ian Thomas:::The PCTE+'s OMS, A Software Engineering Distributed Database System for supporting Large-Scale Software Development Environments.
+conf/dasfaa/Fujimoto91:::Yasushi Fujimoto:::Design of a Large-scale Customer Information Database: Reconstruction of Integrated Customer Information System at Kansai Electric Power Co., Inc.
+conf/dasfaa/TanOC97:::Kian-Lee Tan::Beng Chin Ooi::Tat-Seng Chua:::On Video-on-Demand sSrvers with Hierarchical Storage.
+conf/dasfaa/SohnM97:::Kyungcheol Sohn::Songchun Moon:::Achieving High Degree of Concurrency in Multidatabase Transaction Scheduling.
+conf/dasfaa/OhFKMB01:::Kun Seok Oh::Yaokai Feng::Kunihiko Kaneko::Akifumi Makinouchi::S. Bae:::SOM-Based R*-tree for Similarity Retrieval.
+conf/dasfaa/LumLF95:::Vincent Y. Lum::F. W. Lee::S. K. Fong:::A Query Interface Truly for Chinese Users.
+conf/dasfaa/HwangHT99:::San-Yih Hwang::Sun-Fa Ho::Jian Tang:::Mining Exception Instances to Facilitate Workflow Exception Handling.
+conf/dasfaa/ClaypoolR03:::Kajal T. Claypool::Elke A. Rundensteiner:::Gangam: A Transformation Modeling Framework.
+conf/dasfaa/SuzukiHYU01:::Yu Suzuki::Kenji Hatano::Masatoshi Yoshikawa::Shunsuke Uemura:::A Unified Retrieval Method of Multimedia Documents.
+conf/dasfaa/ZhangZ01:::Shichao Zhang::Chengqi Zhang:::Mining Small Databases by Collecting Knowledge.
+conf/dasfaa/MougenotLD95:::Isabelle Mougenot::Thérèse Libourel::Patrice Déhais:::Genetic Sequence Annotation within Biological Databases.
+conf/dasfaa/DingMB03:::Rui Ding::Xiaofeng Meng::Yun Bai:::Efficient Index Update for Moving Objects with Future Trajectories.
+conf/codata/JansenS94:::Arild Jansen::Pål Sørgaard:::Critical Factors for the Use of Public Databases.
+conf/codata/AbdatM94:::Lamine Abdat::Belhadri Messabih:::New Technologies (Multimedia - Hypertext - Hypermedia) Potential Use in Developing Countries.
+conf/cocoon/NickelsenT02:::Arfst Nickelsen::Till Tantau:::On Reachability in Graphs with Bounded Independence Number.
+conf/cocoon/NakanishiHK00:::Masaki Nakanishi::Kiyoharu Hamaguchi::Toshinobu Kashiwabara:::Ordered Quantum Branching Programs Are More Powerful than Ordered Probabilistic Branching Programs under a Bounded-Width Restriction.
+conf/cocoon/CaiB01:::Jin-yi Cai::Eric Bach:::On Testing for Zero Polynomials by a Set of Points with Bounded Precision.
+conf/cocoon/CaiC97:::Pu Cai::Jin-yi Cai:::On the 100% Rule of Sensivity Analzsis in Linear Programming.
+conf/cocoon/ChenHW01:::Danny Z. Chen::Xiaobo Hu::Xiaodong Wu:::Maximum Red/Blue Interval Matching with Applications.
+conf/cocoon/ChenLX02:::Danny Z. Chen::Shuang Luan::Jinhui Xu:::An Experimental Study and Comparison of Topological Peeling and Topological Walk.
+conf/cocoon/GaoY95:::Wen Gao::Baocai Yin:::Sequence Decomposition Method for Computing a Gröbner Basis and Its Application to Bivariate Spline.
+conf/cocoon/BernasconiDS99:::Anna Bernasconi::Carsten Damm::Igor Shparlinski:::On the Average Sensitivity of Testing Square-Free Numbers.
+conf/cocoon/WangJ97:::Lusheng Wang::Xiaohua Jia:::Fixed Topology Steiner Trees and Spanning Forests with Applications in Network Communications.
+conf/cocoon/WangY00:::Cao An Wang::Bo-Ting Yang:::Tetrahedralization of Two Nested Convex Polyhedra.
+conf/cocoon/YuY95:::Xiangdong Yu::Moti Yung:::Scheduling Task-Tree with Additive Scales on Parallel / Distributed Machines.
+conf/cocoon/LiTZ96:::Ming Li::John Tromp::Louxin Zhang:::Some Notes on the Nearest Neighbour Interchange Distance.
+conf/cocoon/EgeciogluP98:::Ömer Egecioglu::Marcus Peinado:::Algorithms for Almost-uniform Generation with an Unbiased Binary Source.
+conf/cocoon/LinE99:::Xuemin Lin::Peter Eades:::Area Minimization for Grid Visibility Representation of Hierarchically Planar Graphs.
+conf/cocoon/LuTL02:::Chin Lung Lu::Chuan Yi Tang::Richard Chia-Tung Lee:::The Full Steiner Tree Problem in Phylogeny.
+conf/cocoon/WangCY98:::Cao An Wang::Francis Y. L. Chin::Bo-Ting Yang:::Maximum Weight Triangulation and Its Application on Graph Drawing.
+conf/cocoon/GanleyGS95:::Joseph L. Ganley::Mordecai J. Golin::Jeffrey S. Salowe:::The Multi-Weighted Spanning Tree Problem (Extended Abstract).
+conf/cocoon/EadesL97:::Peter Eades::Xuemin Lin:::Spring Algorithms and Symmetry.
+conf/cocoon/MarzettaB99:::Ambros Marzetta::Adrian Brüngger:::A Dynamic-Programming Bound for the Quadratic Assignment Problem.
+conf/cocoon/Teng97:::Shang-Hua Teng:::Eigenvalues, Eigenvectors, and Graph Partitioning.
+conf/cocoon/ChenH00:::Zhi-Zhong Chen::Xin He:::Hierarchical Topological Inference on Planar Disc Maps.
+conf/cocoon/DahllofJW02:::Vilhelm Dahllöf::Peter Jonsson::Magnus Wahlström:::Counting Satisfying Assignments in 2-SAT and 3-SAT.
+conf/cocoon/WuCT98:::Bang Ye Wu::Kun-Mao Chao::Chuan Yi Tang:::Approximation and Exact Algorithms for Constructing Minimum Ultrametric Trees from Distance Matrices.
+conf/cocoon/GudmundssonL99:::Joachim Gudmundsson::Christos Levcopoulos:::A Fast Approximation Algorithm for TSP with Neighborhoods and Red-Blue Separation.
+conf/cocoon/Domingo97:::Carlos Domingo:::Corrigendum: Exact Learning of Subclasses of CDNF Formulars with Membership Queries.
+conf/cocoon/CalinescuF96:::Gruia Calinescu::Cristina G. Fernandes:::Finding Large Planar Subgraphs and Large Subgraphs of a Given Genus.
+conf/cocoon/GrigniMP96:::Michelangelo Grigni::Vincent Mirelli::Christos H. Papadimitriou:::On the Difficulty of Designing Good Classifiers.
+conf/cocoon/Zhou97:::Qing Zhou:::Subclasses of Coputable Real Valued Functions.
+conf/cocoon/MutzelW00:::Petra Mutzel::René Weiskircher:::Computing Optimal Embeddings for Planar Graphs.
+conf/cocoon/HemaspaandraR95:::Lane A. Hemaspaandra::Jörg Rothe:::Intersection Suffices for Boolean Hierarchy Equivalence.
+conf/cocoon/ChenDWK97:::Wei Chen::Xiao Wen Deng::Koichi Wada::Kimio Kawaguchi:::Constructing a Strongly Convex Superhull of Points.
+conf/cocoon/Tomescu02:::Ioan Tomescu:::On the Maximum Number of Irreducible Coverings of an n -Vertex Graph by n -3 Cliques.
+conf/cocoon/TaruiT99:::Jun Tarui::Seinosuke Toda:::Some Observations on the Computational Complexity of Graph Accessibility Problem.
+conf/cocoon/BattistaLLW00:::Giuseppe Di Battista::Giuseppe Liotta::Anna Lubiw::Sue Whitesides:::Embedding Problems for Paths with Direction Constrained Edges.
+conf/cocoon/LinHT00:::Yaw-Ling Lin::Fang-Rong Hsu::Yin-Te Tsai:::Efficient Algorithms for the Minimum Connected Domination on Trapezoid Graphs.
+conf/cocoon/DuckworthWZ00:::William Duckworth::Nicholas C. Wormald::Michele Zito:::Maximum Induced Matchings of Random Cubic Graphs.
+conf/cocoon/Nakano01:::Shin-Ichi Nakano:::Efficient Generation of Triconnected Plane Triangulations.
+conf/cocoon/HayaseST95:::Kazuyoshi Hayase::Kunihiko Sadakane::Seiichiro Tani:::Output-size Sensitiveness of OBDD Construction Through Maximal Independent Set Problem.
+conf/cocoon/Atteson97:::Kevin Atteson:::The Performance of Neighbor-Joining Algorithms of Phylogeny Recronstruction.
+conf/cocoon/IwamaM95:::Kazuo Iwama::Shuichi Miyazaki:::Approximation of coNP Sets by NP-complete Sets.
+conf/cocoon/Nandy00:::Subhas C. Nandy:::An Efficient k Nearest Neighbor Searching Algorithm for a Query Line.
+conf/cocoon/HsuTWL96:::Tsan-sheng Hsu::Kuo-Hui Tsai::Da-Wei Wang::D. T. Lee:::Steiner Problems on Directed Acyclic Graphs.
+conf/cocoon/Graham98:::Fan R. K. Chung::Ronald L. Graham:::Combinatorial Problems Arising in Massive Data Sets (Abstract).
+conf/cocoon/ZhaoyongC95:::You Zhaoyong::Wang Chuanglong:::An Asynchrolous Parallel Method for Linaer Systems.
+conf/cocoon/Fleischer98:::Rudolf Fleischer:::On The Bahncard Problem.
+conf/cocoon/ChangY01:::Ee-Chien Chang::Chee-Keng Yap:::Competitive Online Scheduling with Level of Service.
+conf/cocoon/LubachevskyG95:::Boris D. Lubachevsky::Ronald L. Graham:::Dense Packings of 3k(k+1)+1 Equal Disks in a Circle for k=1, 2, 3, 4 and 5.
+conf/coding/MasseyS86:::James L. Massey::Thomas Schaub:::Linear Complexity in Coding Theory.
+conf/coding/Dornstetter88:::Jean-Louis Dornstetter:::The future pan european mobile radiotelephone system: a short overview.
+conf/coding/Chakravarti86:::I. M. Chakravarti:::The Generalized Goppa Codes and Related Discrete Designs from Hermitian Surfaces in PG (3, s<sup>2</sup>).
+conf/coding/BeveraggiC86:::M. Beveraggi::Gérard D. Cohen:::On the Density of Best Coverings in Hamming Spaces.
+conf/coding/Sole86:::Patrick Solé:::The Lee Association Scheme.
+conf/coding/AkdagB86:::Herman Akdag::Bernadette Bouchon:::Optimality of Right Leaning Trees.
+conf/coding/ZhuG88:::Y. P. Zhu::Philippe Godlewski:::Results of generalized minimum distance decoding for block code of rate 1/2.
+conf/coding/Brigand88:::Dominique Le Brigand:::Polynomial factorization using Brill-Noether algorithm.
+conf/coding/Narcon88:::Charles Narçon:::Design and implementation of an asynchronous transmission process by code division multiple access.
+conf/coding/BergerY86:::Toby Berger::Raymond W. Yeung:::Optimum '1'-Ended Binary Prefix Codes.
+conf/coding/CohenGH88:::Gérard D. Cohen::Philippe Godlewski::Tai-Yang Hwang:::Generating codewords in real space: Application to decoding.
+conf/firmware/Richter80:::Lutz Richter:::Höhere Programmiersprachen für die Mikroprogrammierung.
+conf/firmware/Prechtl80:::Helmar Prechtl:::Firmware-Entwurfs- und Test-Systeme - Fallstudie.
+conf/coling/HaugenederG88:::Hans Haugeneder::Manfred Gehrke:::Improving search strategies: an experiment in best-first parsing.
+conf/coling/Fass88:::Dan Fass:::Metonymy and metaphor: what's the difference.
+conf/coling/WadaA86:::Hajime Wada::Nicholas Asher:::BUILDRS: An Implementation of DR Theory and LFG.
+conf/coling/Lepage86:::Yves Lepage:::A Language for Transcriptions.
+conf/coling/Kirschner88:::Zdenek Kirschner:::Tranditional means in machine translation.
+conf/coling/Nozohoor-Farshi86:::R. Nozohoor-Farshi:::On Formalizations of Marcus' Parser.
+conf/coling/DanlosN88:::Laurence Danlos::Fiammetta Namer:::Morphology and cross dependencies in the synthesis of personal pronouns in Romance languages.
+conf/coling/Koktova86:::Eva Koktova:::Sentence Adverbials in a System of Question Answering without a Prearranged Data Base.
+conf/coling/Carlson88:::Lauri Carlson:::RUG: Regular Unification Grammar.
+conf/coling/Martin88:::James H. Martin:::Representing regularities in the metaphoric lexicon.
+conf/coling/TanakaY86:::Yasuhito Tanaka::Sho Yoshida:::Acquisition of Knowledge Data by Analyzing Natural Language.
+conf/coling/Rolf88:::P. C. Rolf:::Machine translation: the languages network (versus the intermediate language).
+conf/coling/BemovaOP88:::Alevtina Bémová::Karel Oliva::Jarmila Panevová:::Some problems of machine translation between closely related languages.
+conf/coling/TsujiiMIN88:::Jun-ichi Tsujii::Yukiyoshi Muto::Yuuji Ikeda::Makoto Nagao:::How to get preferred readings in natural language analysis.
+conf/coling/WoudenH88:::Ton van der Wouden::Dirk Heylen:::Massive disambiguation of large text corpora with flexible categorial grammar.
+conf/coling/Rosner86:::Dietmar Rösner:::When Mariko Talks to Siegfried - Experiences from a Japanese/German Machine Translation Project.
+conf/coling/Engelberg88:::Klaus-Jürgen Engelberg:::Lexical Functional Grammar in speech recognition.
+conf/coling/Yusoff86:::Zaharin Yusoff:::Strategies and Heuristics in the Analysis of a Natural Language in Machine Translation.
+conf/coling/Karttunen86:::Lauri Karttunen:::D-PATR: A Development Environment for Unification-Based Grammars.
+conf/coling/Netter86:::Klaus Netter:::Getting Things Out Of Order. An LFG-Proposal for the Treatment of German Word Order.
+conf/coling/TokunagaITK88:::Takenobu Tokunaga::Makoto Iwayama::Hozumi Tanaka::Tadashi Kamiwaki:::LangLab: a natural language analysis system.
+conf/coling/Vijay-ShankerWJ86:::K. Vijay-Shanker::David J. Weir::Aravind K. Joshi:::Tree Adjoining and Head Wrapping.
+conf/coling/Gailly88:::Pierre-Joseph Gailly:::Expressing quantifier scope in French genaration.
+conf/coling/HortonH88:::Diane Horton::Graeme Hirst:::Presuppositions as beliefs.
+conf/coling/Kilbury86:::James Kilbury:::Category Cooccurrence Restrictions and the Elimination of Metarules.
+conf/coling/NakamuraTN86:::Jun-ichi Nakamura::Jun-ichi Tsujii::Makoto Nagao:::Solutions for Problems of MT Parser. Methods used in Mu-Machine Translation Project.
+conf/coling/Saebo88:::Kjell Johan Saebø:::A cooperative yes-no query system featuring discourse particles.
+conf/coling/SchaP88:::Remko Scha::Livia Polanyi:::An augmented context free grammar.
+conf/coling/KarlgrenK88:::Hans Karlgren::Jürgen Kunze:::Vocnets - a tool for handling finite vocabularies.
+conf/coling/Sharp86:::Randall Sharp:::A Parametric NL Translator.
+conf/coling/KudoN86:::Ikuo Kudo::Hirosato Nomura:::Lexical-Functional Transfer: A Transfer Framework in a Machine Translation System Based on LFG.
+conf/coling/TakedaFS86:::Koichi Takeda::Tetsunosuke Fujisaki::Emiko Suzuki:::CRITAC - A Japanese Text Proofreading System.

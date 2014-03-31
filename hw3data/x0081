@@ -1,0 +1,200 @@
+conf/nips/ChernajvskyM89:::Alex Chernajvsky::John E. Moody:::Note on Development of Modularity in Simple Cortical Models.
+conf/nips/DonnettS89:::Jim Donnett::Tim Smithers:::Neuronal Group Selection Theory: A Grounding in Robotics.
+conf/nips/HofmannB97:::Thomas Hofmann::Joachim M. Buhmann:::Active Data Clustering.
+conf/nips/LewickiS98:::Michael S. Lewicki::Terrence J. Sejnowski:::Coding Time-Varying Signals Using Sparse, Shift-Invariant Representations.
+conf/nips/BialekRZ90:::William Bialek::Daniel L. Ruderman::A. Zee:::Optimal Sampling of Natural Images.
+conf/nips/MerzP96:::Christopher J. Merz::Michael J. Pazzani:::Combining Neural Network Regression Estimates with Regularized Linear Weights.
+conf/nips/CoolenPS93:::Anthony C. C. Coolen::R. W. Penney::D. Sherrington:::Coupled Dynamics of Fast Neurons and Slow Interactions.
+conf/nips/BelongieMP00:::Serge Belongie::Jitendra Malik::Jan Puzicha:::Shape Context: A New Descriptor for Shape Matching and Object Recognition.
+conf/nips/MillerU96:::David J. Miller::Hasan S. Uyar:::A Mixture of Experts Classifier with Learning Based on Both Labelled and Unlabelled Data.
+conf/nips/GeigerRM97:::Davi Geiger::Archisman Rudra::Laurance T. Maloney:::Features as Sufficient Statistics.
+conf/nips/Rosenholtz98:::Ruth Rosenholtz:::General-Purpose Localization of Textured Image Regions.
+conf/nips/VinjeG97:::William E. Vinje::Jack L. Gallant:::Modeling Complex Cells in an Awake Macaque during Natural Image Viewing.
+conf/nips/NegishiH01:::Michiro Negishi::Stephen Jose Hanson:::Grammar Transfer in a Second Order Recurrent Neural Network.
+conf/nips/PawelzikBDG92:::Klaus Pawelzik::Hans-Ulrich Bauer::J. Deppisch::Theo Geisel:::How Oscillatory Neuronal Responses Reflect Bistability and Switching of the Hidden Assembly Dynamics.
+conf/nips/GrayPZNS96:::Michael S. Gray::Alexandre Pouget::Richard S. Zemel::Steven J. Nowlan::Terrence J. Sejnowski:::Selective Integration: A Model for Disparity Estimation.
+conf/nips/Flann93:::Nicholas S. Flann:::Recognition-Based Segmentation of On-Line Cursive Handwriting.
+conf/nips/TrespT94:::Volker Tresp::Michiaki Taniguchi:::Combining Estimators Using Non-Constant Weighting Functions.
+conf/nips/GreenspanGC91:::Hayit Greenspan::Rodney M. Goodman::Rama Chellappa:::Combined Neural Network and Rule-Based Framework for Probabilistic Pattern Recognition and Discovery.
+conf/nips/Bishop94:::Christopher M. Bishop:::Real-Time Control of a Tokamak Plasma Using Neural Networks.
+conf/nips/BeckerH91:::Suzanna Becker::Geoffrey E. Hinton:::Learning to Make Coherent Predictions in Domains with Discontinuities.
+conf/nips/SaundersAP93:::Gregory M. Saunders::Peter J. Angeline::Jordan B. Pollack:::Structural and Behavioral Evolution of Recurrent Networks.
+conf/nips/SchleyCHG90:::Charles Schley::Yves Chauvin::Van Henkle::Richard M. Golden:::Neural Networks Structured for Control Application to Aircraft Landing.
+conf/nips/SunLC87:::Gao-Zhen Sun::Yee-Chun Lee::Hsing-Hen Chen:::A Novel Net that Learns Sequential Decision Process.
+conf/nips/DarrellP93:::Trevor Darrell::Alex Pentland:::Classifying Hand Gestures with a View-Based Distributed Representation.
+conf/nips/SchneidmanST99:::Elad Schneidman::Idan Segev::Naftali Tishby:::Information Capacity and Robustness of Stochastic Neuron Models.
+conf/nips/Schneider96:::Jeff G. Schneider:::Exploiting Model Uncertainty Estimates for Safe Dynamic Control Learning.
+conf/nips/Andreou88:::Andreas G. Andreou:::Electronic Receptors for Tactile/Haptic Sensing.
+conf/nips/GirosiPC90:::Federico Girosi::Tomaso Poggio::Bruno Caprile:::Extensions of a Theory of Networks for Approximation and Learning.
+conf/nips/WilliamsR95:::Christopher K. I. Williams::Carl Edward Rasmussen:::Gaussian Processes for Regression.
+conf/nips/WilliamsS00:::Christopher K. I. Williams::Matthias Seeger:::Using the Nyström Method to Speed Up Kernel Machines.
+conf/nips/AlspectorAJZM90:::Joshua Alspector::Robert B. Allen::Anthony Jayakumar::Torsten Zeppelfeld::Ronny Meir:::Relaxation Networks for Large Supervised Learning Problems.
+conf/nips/Moody91:::John E. Moody:::The Effective Number of Parameters: An Analysis of Generalization and Regularization in Nonlinear Learning Systems.
+conf/nips/Siegel93:::Micah S. Siegel:::An Analog VLSI Model of Central Pattern Generation in the Leech.
+conf/nips/Mozer90:::Michael Mozer:::Discovering Discrete Distributed Representations.
+conf/nips/Mozer91:::Michael Mozer:::Induction of Multiscale Temporal Structure.
+conf/nips/BulsaraJM91:::A. R. Bulsara::E. W. Jacobs::Frank Moss:::Single Neuron Model: Response to Weak Modulation in the Presence of Noise.
+conf/nips/Karunanithi93:::Nachimuthu Karunanithi:::Identifying Fault-Prone Software Modules Using Feed-Forward Networks: A Case Study.
+conf/nips/Hayashi90:::Yoichi Hayashi:::A Neural Expert System with Automated Extraction of Fuzzy If-Then Rules.
+conf/nips/GishB91:::Sheri L. Gish::Mario Blaum:::Adaptive Development of Connectionist Decoders for Complex Error-Correcting Codes.
+conf/nips/KirchKFB92:::David B. Kirch::Douglas Kerns::Kurt W. Fleischer::Alan H. Barr:::Analog VLSI Implementation of Gradient Descent.
+conf/nips/MackieGSD87:::Stuart Mackie::Hans Peter Graf::Daniel B. Schwartz::John S. Denker:::Microelectronic Implementations of Connectionist Neural Networks.
+conf/nips/DomeniconiPG00:::Carlotta Domeniconi::Jing Peng::Dimitrios Gunopulos:::An Adaptive Metric Machine for Pattern Classification.
+conf/nips/ShimodairaNNS01:::Hiroshi Shimodaira::K.-I. Noma::Mitsuru Nakai::Shigeki Sagayama:::Dynamic Time-Alignment Kernel in Support Vector Machine.
+conf/nips/TowellL92:::Geoffrey G. Towell::Richard Lehrer:::A Knowledge-Based Model of Geometry Learning.
+conf/nips/TowellS91:::Geoffrey G. Towell::Jude W. Shavlik:::Interpretation of Artificial Neural Networks: Mapping Knowledge-Based Neural Networks into Rules.
+conf/nips/AndersonPK92:::Janeen Anderson::John C. Platt::David Kirk:::An Analog VLSI Chip for Radial Basis Functions.
+conf/nips/CoughlanY00:::James M. Coughlan::Alan L. Yuille:::The Manhattan World Assumption: Regularities in Scene Statistics which Enable Bayesian Inference.
+conf/nips/Hamey91:::Leonard G. C. Hamey:::Benchmarking Feed-Forward Neural Networks: Models and Measures.
+conf/nips/SchaalA93:::Stefan Schaal::Christopher G. Atkeson:::Assessing the Quality of Learned Local Models.
+conf/nips/Szepesvari97:::Csaba Szepesvári:::The Asymptotic Convergence-Rate of Q-learning.
+conf/nips/Gluck93:::Mark A. Gluck:::What Does the Hippocampus Compute?: A Precis of the 1993 NIPS Workshop.
+conf/nips/MullerKG93:::Urs A. Müller::Michael Kocheisen::Anton Gunzinger:::High Performance Neural Net Simulation on a Multiprocessor System with Intelligent Communication.
+conf/nips/BauerPG91:::Hans-Ulrich Bauer::Klaus Pawelzik::Theo Geisel:::A Topographic Product for the Optimization of Self-Organizing Feature Maps.
+conf/nips/ZeeviMA96:::Assaf J. Zeevi::Ron Meir::Robert J. Adler:::Time Series Prediction using Mixtures of Experts.
+conf/nips/SundararajanK99:::S. Sundararajan::S. Sathiya Keerthi:::Predictive App roaches for Choosing Hyperparameters in Gaussian Processes.
+conf/nips/LittmanKS01:::Michael L. Littman::Michael J. Kearns::Satinder P. Singh:::An Efficient, Exact Algorithm for Solving Tree-Structured Graphical Games.
+conf/nips/MyungPZB00:::In J. Myung::Mark A. Pitt::Shaobo Zhang::Vijay Balasubramanian:::The Use of MDL to Select among Computational Models of Cognition.
+conf/nips/SchraudolphS94:::Nicol N. Schraudolph::Terrence J. Sejnowski:::Plasticity-Mediated Competitive Learning.
+conf/nips/BartlettMM98:::Peter L. Bartlett::Vitaly Maiorov::Ron Meir:::Almost Linear VC Dimension Bounds for Piecewise Polynomial Networks.
+conf/nips/GrebertSKM91:::Igor Grebert::David G. Stork::Ron Keesing::Steve Mims:::Network Generalization for Production: Learning and Producing Styled Letterforms.
+conf/nips/LazzaroWMSG92:::John Lazzaro::John Wawrzynek::Misha Mahowald::Massimo Sivilotti::Dave Gillespie:::Silicon Auditory Processors as Computer Peripherals.
+conf/nips/Pomerleau88:::Dean Pomerleau:::ALVINN: An Autonomous Land Vehicle in a Neural Network.
+conf/nldb/VillainTD95:::M.-C. Villain::P. Trigano::J. Deloire:::Intelligent Textual Database and Automatic Acquisition of a Thesaurus.
+conf/nldb/MaedcheS00:::Alexander Maedche::Steffen Staab:::Ontology Learning from Text.
+conf/nldb/KouG02:::Huaizhong Kou::Georges Gardarin:::Similarity Model and Term Association for Document Categorization.
+conf/nldb/VolkC01:::Martin Volk::Simon Clematide:::Learn - Filter - Apply - Forget. Mixed Approaches to Named Entity Recognition.
+conf/nldb/Horacek00:::Helmut Horacek:::Presenting Mathematical Concepts as an Example for Inference-Rich Domains.
+conf/nldb/Horacek01:::Helmut Horacek:::An Approach to Building Domain Models Interactively.
+conf/nldb/PitonM00:::Odile Piton::Denis Maurel:::``Beijing Frowns and Washington Pays Close Attention'' Computer Processing of Relations between Geographical Proper Names in Foreign Affairs.
+conf/nldb/KawtrakulAOKP00:::Asanee Kawtrakul::Frédéric Andrès::Kinji Ono::Chaiwat Ketsuwan::Nattakan Pengphon:::Toward an Enhancement of Textual Database Retrieval Using NLP Techniques.
+conf/nldb/TodirascuRB02:::Amalia Todirascu::Laurent Romary::Dalila Bekhouche:::Vulcain - An Ontology-Based Information Extraction System.
+conf/nldb/CrearyV01:::Lewis G. Creary::Michael VanHilst:::"Where Are the Christmas Decorations?": A Memory Assistant for Storage Locations.
+conf/nldb/MezianeK03:::Farid Meziane::Mohd Khairudin Kasiran:::Extracting Unstructured Information from the WWW to Support Merchant Existence in eCommerce.
+conf/nldb/PitonGM03:::Odile Piton::Thierry Grass::Denis Maurel:::Linguistic Resource for NLP: Ask for "Die Drei Musketiere" and meet "Les Trois Mousquetaires".
+conf/npar/GoochW02:::Amy Ashurst Gooch::Peter Willemsen:::Evaluating space perception in NPR immersive environments.
+conf/npar/YilmazY00:::Emre Yilmaz::Lev Yilmaz:::Bad Night and World Run (animation abstract).
+conf/npar/KleinGFC02:::Allison W. Klein::Tyler Grant::Adam Finkelstein::Michael F. Cohen:::Video mosaics.
+conf/npar/HertzmannP00:::Aaron Hertzmann::Ken Perlin:::Painterly rendering for video and interaction.
+conf/npiv/MelissargosP99:::George Melissargos::Pearl Pu:::Conceptua;izing Bandwidth Allocation in Network Management.
+conf/npiv/KreuselerS99:::Matthias Kreuseler::Heidrun Schuman:::Information visualization using a new Focus+Context Technique in combination with dynamic clustering of information space.
+conf/ofai/Magnenat-ThalmannV97:::Nadia Magnenat-Thalmann::Pascal Volino:::Dressing Virtual Humans.
+conf/ofai/BadlerRW97:::Norman I. Badler::Barry D. Reich::Bonnie L. Webber:::Towards Personalities for Animated Agents with Reactive and Planning Behaviors.
+conf/ogai/Grechenig89:::Thomas Grechenig:::Und sie kommt doch! Über die Gewißheit zukünftiger künstlicher Intelligenz.
+conf/ogai/Egly91:::Uwe Egly:::A Generalized Factorization Rule Based on the Introduction of Skolem Terms.
+conf/ogai/Decker89:::Hendrik Decker:::The Range Form of Databases and Queries or: How to Avoid Floundering.
+conf/ogai/GroissS87:::Herbert Groiss::Werner Staringer:::Knowledge Engineering mit KNOPF.
+conf/ogai/FaidtFB89:::Klaus Faidt::Stephan Flohr::Rainer Bleisinger:::Repräsentation und Verarbeitung von zeitlichem Wissen.
+conf/ogai/KurthenLH90:::Martin Kurthen::Detlef B. Linke::P. Hamilton:::Connectionist Cognition.
+conf/ogai/Neumaier89:::Otto Neumaier:::Ethische Fragen der "Künstlichen Intelligenz".
+conf/ogai/Peschl89:::Markus F. Peschl:::Cognitive Modelling: Von der symbolischen AI zum "Connectionist Approach".
+conf/ogai/Varsek87:::Igor Varsek:::Taxonomical Reasoning in Logic Programming.
+conf/ogai/Frank91:::Andrew U. Frank:::Qualitative Spatial Reasoning with Cardinal Directions.
+conf/ogai/Steinacker85:::Ingeborg Steinacker:::Ein Expertensystem als Bindeglied zwischen CAD und CAM.
+conf/ogai/PfahringerH85:::Bernhard Pfahringer::Christian Holzbaur:::VIE-KET: Frames + Prolog.
+conf/ogai/BarachiniA85:::Franz Barachini::Klaus-Peter Adlassnig:::Überlegungen zur Konsistenztestproblematik von Wissensbasen am Beispiel des medizinischen Expertensystems CADIAG-1.
+conf/ogai/Schewe89:::Klaus-Dieter Schewe:::Variant Construction Using Constraint Propagation Techniques over Semantic Networks.
+conf/nspw/LinRM98:::Meng-Jang Lin::Aleta Ricciardi::Keith Marzullo:::A New Model for Availability in the Face of Self-Propagating Attacks.
+conf/pact/DikenelliOO97:::Oguz Dikenelli::Öznur Özkasap::Esen A. Ozkarahan:::Scheduling Parallel Programs Involving Parallel Database Interactions.
+conf/pact/Stoutchinin97:::Artour Stoutchinin:::An Integer Linear Programming Model of Software Pipelining for the MIPS R8000 Processor.
+conf/pact/KonshinG99:::Vladimir N. Konshin::Vladimir A. Garanzha:::Highly Accurate Numerical Methods for Incompressible 3D Fluid Flows on Parallel Architectures.
+conf/pact/EtiembleG95:::Daniel Etiemble::Cécile Germain:::Standard Microprocessors Versus Custom Processing Elements for Massively Parallel Architectures.
+conf/pact/TenO97:::Sergey V. Ten::Kohei Otsuyama:::Performance Analysis of Geometric Modeling Algorithm.
+conf/pact/GermainLPE97:::Cécile Germain::Jacques Laminie::M. Pallud::Daniel Etiemble:::An HPF Case Study of a Domain-Decomposition Based Irregular Application.
+conf/pact/Raynal01:::Michel Raynal:::Quiescent Uniform Reliable Broadcast as an Introduction to Failure Detector Oracles.
+conf/pact/Benkner95:::Siegfried Benkner:::Vienna Fortran 90 - An Advanced Data Parallel Language.
+conf/pact/YehVL99:::Chi-Hsiang Yeh::Emmanouel A. Varvarigos::Hua Lee:::Routing and Embeddings in Super Cayley Graphs.
+conf/pact/KonovalovSS99:::Alexandr Konovalov::Victor Samofalov::Sergei Scharf:::Virtual Shared Files: Towards User-Friendly Inter-Process Communications.
+conf/pact/KremlevMT95:::A. Kremlev::O. G. Monakhov::T. Thiel:::Parallel Seismic Data Processing Method for MEMSY Multiprocessor System.
+conf/pact/BolshakovKS99:::Kirill Bolshakov::Yuri Karpov::Alexei Sintotskij:::DEALed - A Tool Suite for Distributed Real-Time Systems Development.
+conf/pact/McCollumMC99:::Barry McCollum::Peter Milligan::Patrick H. Corr:::Knowledge Exploitation for Improved Data Distribution.
+conf/pact/Selikhov99:::A. V. Selikhov:::Emergence and Propagation of Round Autowave in Cellular Neural Network.
+conf/pact/OzerdimUDO95:::Atilla Özerdim::Murat Osman Ünalir::Oguz Dikenelli::Esen A. Ozkarahan:::PARMA: A Multiattribute File Structure for Parallel Database Machines.
+conf/padl/Cirstea01:::Horatiu Cirstea:::Specifying Authentication Protocols Using Rewriting and Strategies.
+conf/padl/BellaB01:::Giampaolo Bella::Stefano Bistarelli:::Soft Constraints for Security Protocol Analysis: Confidentiality.
+conf/padl/WanTH02:::Zhanyong Wan::Walid Taha::Paul Hudak:::Event-Driven FRP.
+conf/padl/Ramakrishnan01:::C. R. Ramakrishnan:::A Model Checker for Value-Passing Mu-Calculus Using Logic Programming.
+conf/padl/Moreno-NavarroM00:::Juan José Moreno-Navarro::Susana Muñoz-Hernández:::How to Incorporate Negation in a Prolog Compiler.
+conf/padl/LopesCS01:::Ricardo Lopes::Vítor Santos Costa::Fernando M. A. Silva:::A Novel Implementation of the Extended Andorra Model.
+conf/padl/Porto03:::António Porto:::An Integrated Information System Powered by Prolog.
+conf/padl/MukhopadhyayP01:::Supratik Mukhopadhyay::Andreas Podelski:::Constraint Database Models Characterizing Timed Bisimilarity.
+conf/padl/Thiemann00:::Peter Thiemann:::Modeling HTML in Haskell.
+conf/padl/ClareK03:::Amanda Clare::Ross D. King:::Data Mining the Yeast Genome in a Lazy Functional Language.
+conf/padl/Liang02:::Chuck Liang:::Compiler Construction in Higher Order Logic Programming.
+conf/padl/TyagiT01:::Satyam Tyagi::Paul Tarau:::A Most Specific Method Finding Algorithm for Reflection Based Dynamic Prolog-to-Java Interfaces.
+conf/padl/KiselyovK03:::Oleg Kiselyov::Shriram Krishnamurthi:::SXSLT: Manipulation Language for XML.
+conf/padl/GuliasAS03:::Víctor M. Gulias::Carlos Abalde::Juan J. Sénchez:::Lambda Goes to Hollywood.
+conf/pado/Lawall01:::Julia L. Lawall:::Implementing Circularity Using Partial Evaluation.
+conf/pads/MacKenzieT96:::Peter A. MacKenzie::Carl Tropper:::Parallel Simulation of Billiard Balls Using Shared Variables.
+conf/pads/Carothers02:::Christopher D. Carothers:::XSim: real-time analytic parallel simulations.
+conf/pads/KiddleSWU03:::Cameron Kiddle::Rob Simmonds::Carey L. Williamson::Brian Unger:::Hybrid Packet/Fluid Flow Network Simulation.
+conf/pads/TurnerCLLHH98:::Stephen J. Turner::Wentong Cai::Chu-Cheow Lim::Yoke-Hean Low::Wen-Jing Hsu::Shell-Ying Huang:::A Methodology for Automating the Parallelization of Manufacturing Simulations.
+conf/pads/DamaniWG97:::Om P. Damani::Yi-Min Wang::Vijay K. Garg:::Optimistic Distributed Simulation Based on Transitive Dependency Tracking.
+conf/pads/FabbriD97:::Alessandro Fabbri::Lorenzo Donatiello:::SQTW: A Mechanism for State-Dependent Parallel Simulation. Description and Experimental Study.
+conf/pads/JunRT02:::Yu Jun::Come Raczy::Gary S. H. Tan:::Evaluation of a sort-based matching algorithm for DDM.
+conf/pads/KrishnaswamyBRP97:::Dilip Krishnaswamy::Prithviraj Banerjee::Elizabeth M. Rudnick::Janak H. Patel:::Asynchronous Parallel Algorithms for Test Set Partitioned Fault Simulation.
+conf/pads/HurfordH96:::Joel F. Hurford::Thomas C. Hartrum:::Improving Conservative VHDL Simulation Performance by Reduction of Feedback.
+conf/pads/TayTA98:::Seng Chuan Tay::Yong Meng Teo::Rassul Ayani:::Performance Analysis of Time Warp Simulation with Cascading Rollbacks.
+conf/pads/SongMB00:::Ha Yoon Song::Richard A. Meyer::Rajive Bagrodia:::An empirical study of conservative scheduling.
+conf/pads/WielandCS01:::Frederick Wieland::David Carnes::Gregory Schultz:::Using quad trees for parallelizing conflict detection in a sequential simulation.
+conf/pads/Nicol03:::David M. Nicol:::Utility Analysis of Parallel Simulation.
+conf/omer/BraunS01:::Peter Braun::Oscar Slotosch:::Development of a Car Seat: A Case Study using DOORS, AUTOFOCUS and the Validator.
+conf/pakm/ODonnellOO00:::Dave O'Donnell::Philip O'Regan::Veronica O'Regan:::Recognition and Measurement of Intellectual Resources: The Accounting-Relating Challenges of Intellectual Capital.
+conf/pakm/SellensW98:::Corinne Sellens::Owen L. F. Wilson:::The CMG Knowledge Intranet.
+conf/pakm/ApostolouMAEMGKK02:::Dimitris Apostolou::Gregory Mentzas::Andreas Abecker::Wolf-Christian Eickhoff::Wolfgang Maas::Panos Georgolios::Kostas Kafentzis::Sophia Kyriakopoulou:::Challenges and Directions in Knowledge Asset Trading.
+conf/pakm/KarnezisEMAP02:::Kostas Karnezis::Kostas Ergazakis::Kostas S. Metaxiotis::Dimitris Askounis::John E. Psarras:::Knowledge Management Case-Toolkit for the Support of ERP Modelling and Optimal Adaptation Procedure.
+conf/pakm/LehnerMK98:::Franz Lehner::Ronald Maier::Oliver Klosa:::Organisational Memory Systems: Application of Advanced Database &amp; Network Technologies in Organisations.
+conf/pakm/AngeleSSS00:::Jürgen Angele::Hans-Peter Schnurr::Steffen Staab::Rudi Studer:::The Times They Are A-Changin' - The Corporate History Analyzer .
+conf/pakm/WoitschK02:::Robert Woitsch::Dimitris Karagiannis:::Process-Oriented Knowledge Management Systems Based on KM-Services: The PROMOTE<sup>®</sup> Approach.
+conf/pakm/SenaS02:::James A. Sena::Abraham B. Shani:::Integrating Knowledge Management, Learning Mechanisms, and Company Performance.
+conf/pakm/Yu-NA00:::Yu-N Cheah::Syed Sibte Raza Abidi:::A Scenarios Mediated Approach for Tacit Knowledge Acquisition and Crystallisation: Towards Higher Return-On-Knowledge and Experience.
+conf/papm/LopezHK01:::Gabriel G. Infante López::Holger Hermanns::Joost-Pieter Katoen:::Beyond Memoryless Distributions: Model Checking Semi-Markov Chains.
+conf/papm/Sands02:::David Sands:::Probability and Timing: Challenges for Secure Programming.
+conf/papm/Siegle01:::Markus Siegle:::Advances in Model Representations.
+conf/para/FordNB95:::Rupert W. Ford::Andy Nisbet::J. Mark Bull:::User-Level VSM Optimization and its Application.
+conf/para/KitowskiBM96:::Jacek Kitowski::K. Boryczko::Jacek Moscinski:::Comparison of Two Short-Range Molecular Dynamics Algorithms for Parallel Computing.
+conf/para/DerS00:::Uwe Der::Kathleen Steinhöfel:::A Parallel Implementation of a Job Shop Scheduling Heuristic.
+conf/para/FetV94:::Yakov I. Fet::Alexander Vazhenin:::Heterogeneous Processing: A Combined Approach.
+conf/para/HegartyKD95:::David F. Hegarty::M. Tahar Kechadi::K. A. Dawson:::Dynamic Domain Decomposition and Load Balancing for Parallel Simulations of Long-Chained Molecules.
+conf/para/SorensenHJ94:::Jens N. Sørensen::Martin O. L. Hansen::Erik Jensen:::Simulation of Fluid Dynamical Flow Problems.
+conf/para/Sosonkina00:::Masha Sosonkina:::Runtime Adaptation of an Iterative Linear System Solution to Distributed Environments.
+conf/para/Fritzson98:::Peter Fritzson:::Modelica - A Language for Equation-Based Physical Modeling and High Performance Simulation.
+conf/para/Vermin02:::Willem Vermin:::Practical Experiences in Parallelizing Existent Computer Programs.
+conf/para/Tengwall94:::Carl G. Tengwall:::SP2 Architecture and Performance.
+conf/para/Brown96:::John Brown:::Addressing Algebra as a Tool for Parallel Program Development.
+conf/para/SzetoJ02:::Kwok Yip Szeto::Rui Jiang:::A Quasi-Parallel Realization of the Investment Frontier in Computer Resource Allocation Using Simple Genetic Algorithm on a Single Computer.
+conf/para/OstromskySWZ96:::Tzvetan Ostromsky::Stefano Salvini::Jerzy Wasniewski::Zahari Zlatev:::Parallel Solution of Sparse Problems by Using a Sequence of Large Dense Blocks.
+conf/para/Takahashi00:::Daisuke Takahashi:::A Parallel 3-D FFT Algorithm on Clusters of Vector SMPs.
+conf/para/Hunding94:::A. Hunding:::Nonlinear Dynamics in Biochemical Control Systems.
+conf/para/ForestiZGH96:::Stefano Foresti::Larry Zeng::Grant T. Gullberg::Ronald H. Huesman:::Parallel Least Squares Estimates of 2-D SPECT Image Reconstructions on the SGI Power Challenge.
+conf/para/FontdecabaGL95:::Enric Fontdecaba::Antonio González::Jesús Labarta:::Load Balancing in a Network Flow Optimization Code.
+conf/para/Hagersten00:::Erik Hagersten:::High-Performance Computers: Yesterday, Today, and Tomorrow.
+conf/para/RomeroOZJ98:::Luis F. Romero::Eva M. Ortigosa::Emilio L. Zapata::Juan A. Jiménez:::Parallelization Strategies for the VMEC Program.
+conf/para/Billing96:::Gert D. Billing:::From First Principles to Industrial Applications.
+conf/para/MattheyH00:::Thierry Matthey::J. P. Hansen:::Evaluation of MPI's One-Sided Communication Mechanism for Short-Range Molecular Dynamics on the Origin2000.
+conf/para/LomdahlB95:::Peter S. Lomdahl::David M. Beazley:::Multi-Million Particle Molecular Dynamics on MPPs.
+conf/para/SanchezGF95:::José L. Sánchez::José M. García::Joaquin Fernández:::Improving the Performance of Parallel Triangularization of a Sparse Matrix Using a Reconfigurable Multicomputer.
+conf/para/BarkerY94:::Vincent A. Barker::Chen Yingqun:::Computing Eigenvalues of Sparse Matrices on the Connection Machine.
+conf/para/Barker96:::Vincent A. Barker:::Wavelets and Differential Equations.
+conf/para/EdlundBP98:::Åke Edlund::Ilan Bar-On::Uri Peskin:::Parallel Computation of Multidimensional Scattering Wavefunctions for Helmholtz/Schroedinger Equations.
+conf/para/BubakFBW00:::Marian Bubak::Wlodzimierz Funika::Bartosz Balis::Roland Wismüller:::Performance Measurement Support for MPI Applications with PATOP.
+conf/para/NumrichRK98:::Robert W. Numrich::John Reid::Kieun Kim:::Writing a Multigrid Solver Using Co-array Fortran.
+conf/para/DongarraB96:::Jack Dongarra::L. Susan Blackford:::ScaLAPACK Tutorial.
+conf/para/Thomsen94:::Per Grove Thomsen:::Real Time Simulation in a Cluster Computing Environment.
+conf/para/Thomsen96:::Per Grove Thomsen:::Dynamic Systems and Software.
+conf/para/BoryczkoKM94:::K. Boryczko::Jacek Kitowski::Jacek Moscinski:::Load-Balancing Procedure for Distributed Short-Range Molecular Dynamics.
+conf/para/FujinoH96:::Seiji Fujino::Ryutaro Himeno:::A Vectorization Technique for a Family of Finite Difference Formulae and Its Performance Evaluation.
+conf/para/NordlundGS95:::Åke Nordlund::Klaus Galsgaard::R. F. Stein:::Visualizing Astrophysical 3D MHD Turbulence.
+conf/para/GajeckiM94:::M. Gajecki::Jacek Moscinski:::A New Algorithm for the Traveling Salesman Problem on Networked Workstations.
+conf/para/Mirza02:::Jamshed H. Mirza:::HPC - What Might the Future Hold?
+conf/para/ChoiDPW94:::Jaeyoung Choi::Jack Dongarra::Roldan Pozo::David W. Walker:::Constructing Numerical Software Libraries for High-Performance Computing Environments.
+conf/para/Getov95:::Vladimir Getov:::Benchmarking the Cache Memory Effect.
+conf/para/Filippone95:::Salvatore Filippone:::The IBM Parallel Engineering and Scientific Subroutine Library.
+conf/para/Hamma00:::Beidi Hamma:::An Object Oriented Framework for Parallel Multiple Optimizations.
+conf/para/EspositoT96:::A. Esposito::L. Tarricone:::Parallel Heuristics for Bandwidth Reduction of Sparse Matrices with IBM SP2 and Cray T3D.
+conf/ondm/LarssonH00:::S. N. Larsson::S. Hubendick:::Reduction of Hop-Count in Packet-Switched Networks using Wavelength Reconfiguration.
+conf/ondm/JukanM98:::Admela Jukan::Arnold Monitzer:::Restoration Methods for Multi-Service Optical Networks.
+conf/ondm/ZoirosSVHHPA00:::K. Zoiros::T. Stathopoulos::K. Vlachos::A. Hatziefremidis::T. Houbavlis::T. Papakyriakopoulos::H. Avramompoulos:::Numerical Modeling of a High Repetition Rate Fiber Laser, Mode-Locked by External Optical Modulation of a Semiconductor Optical Amplifier.
+conf/ondm/BlaizotDNJ00:::C. Blaizot::E. Dotaro::L. Noirie::Amaury Jourdan:::Multi-Granularity Optical Networks.
+conf/ondm/Isopi98:::M. Isopi:::Self-Similarity in Wide-Area Network Traffic.
+conf/ondm/BiancoCGLN01:::Andrea Bianco::Nunzio P. Caponio::G. Galante::Emilio Leonardi::Fabio Neri:::Analysis and Dimensioning of Interconnected Single-layer "Switchless" All-optical Networks.

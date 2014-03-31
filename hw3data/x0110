@@ -1,0 +1,200 @@
+conf/icdcs/EzzatBP86:::Ahmed K. Ezzat::R. Daniel Bergeron::John L. Pokoski:::Task Allocation Heuristics for Distributed Computing Systems.
+conf/icdcs/AlvarezC97:::Guillermo A. Alvarez::Flaviu Cristian:::Centralized Failure Injection for Distributed, Fault-Tolerant Protocol Testing.
+conf/icdcs/BhargavaR86:::Bharat K. Bhargava::Zuwang Ruan:::Site Recovery in Replicated Distributed Database Systems.
+conf/icdcs/Manchala98:::Daniel Manchala:::Trust Metrics, Models and Protocols for Electronic Commerce Transactions.
+conf/icdcs/IslamDC96:::Nayeem Islam::Amitabh Dave::Roy H. Campbell:::Communication Compilation for Unreliable Networks.
+conf/icdcs/YangL00:::Chu-Sing Yang::Mon-Yen Luo:::A Content Placement and Management System for Distributed Web-Server Systems.
+conf/icdcs/AuerbachGKR94:::Joshua S. Auerbach::Ajei S. Gopal::Mark T. Kennedy::James R. Russell:::Concert/C: Supporting Distributed Programming with Language Extensions and a Portable Multiprotocol Runtime.
+conf/icdcs/Tantawi90:::Asser N. Tantawi:::Performance of a Hierarchically Interconnected Multiprocessor.
+conf/icdcs/KetchpelG96:::Steven P. Ketchpel::Hector Garcia-Molina:::Making Trust Explicit in Distributed Commerce Transactions.
+conf/icdcs/SteinkeN01:::Robert C. Steinke::Gary J. Nutt:::A Lattice Based Framework of Shared Memory Consistency Models.
+conf/icdcs/MarzulloS88:::Keith Marzullo::Frank B. Schmuck:::Supplying High Availability with a Standard Network File System.
+conf/icdcs/SmithJ85:::Kirk D. Smith::Leah H. Jamieson:::MIMD Algorithm Analysis: Low Level Algorithm Descriptions.
+conf/icdcs/CherkasskyLLMP88:::Vladimir Cherkassky::Hossein Lari-Najafi::Norman L. Lawrie::D. Masson::David W. Pritty:::An Architectural Development and Performance of a Real Time LAN.
+conf/icdcs/Neilsen97:::Mitchell L. Neilsen:::A Dynamic Probe Strategy for Quorum Systems.
+conf/icdcs/LaiJM00:::Ten-Hwang Lai::Jianping Jiang::Tao Ma:::A Relaxed Mutual Exclusion Problem with Application to Channel Allocation in Mobile Cellular Networks.
+conf/icdcs/KoLAC03:::Bong-Jun Ko::Kang-Won Lee::Khalil Amiri::Seraphin B. Calo:::Scalable Service Differentiation in a Shared Storage Cache.
+conf/icdcs/KarsentyB93:::Alain Karsenty::Michel Beaudouin-Lafon:::An Algorithm for Distributed Groupware Applications.
+conf/icdcs/BakreB95:::Ajay V. Bakre::B. R. Badrinath:::I-TCP: Indirect TCP for Mobile Hosts.
+conf/icdcs/RanganathanAS98:::M. Ranganathan::Anurag Acharya::Joel H. Saltz:::Adapting to Bandwidth Variations in Wide-Area Data Combination.
+conf/icdcs/Burton85:::F. Warren Burton:::Controlling Speculative Computation in a Parallel Functional Programming Language.
+conf/icdcs/AlvisiRV98:::Lorenzo Alvisi::Sriram Rao::Harrick M. Vin:::Low-Overhead Protocols for Fault-Tolerant File Sharing.
+conf/icdcs/AmirNSSKT01:::Yair Amir::Cristina Nita-Rotaru::John Schultz::Jonathan Robert Stanton::Yongdae Kim::Gene Tsudik:::Exploring Robustness in Group Key Agreement.
+conf/icdcs/Segev84:::Arie Segev:::Optimizing Fragmented 2-Way Joins.
+conf/icdcs/HuangWT94:::Shing-Tsaan Huang::Lih-Chyau Wuu::Ming-Shin Tsai:::Distributed Execution Model for Self-Stabilizing Systems.
+conf/icdcs/UlusoyB92:::Özgür Ulusoy::Geneva G. Belford:::Real-Time Lock-Based Concurrency Control in Distributed Database Systems.
+conf/icdcs/YounS88:::Hee Yong Youn::Adit D. Singh:::Near Optimal Embedding of Binary Tree Architecture in VLSI.
+conf/icdcs/GannonWALC94:::J. A. Gannon::K. J. Williams::Mark S. Andersland::J. E. Lummp Jr.::Thomas L. Casavant:::Using Perturbation Tracking to Compensate for Intrusion in Message-Passing Systems.
+conf/icdcs/YuCDT86:::Philip S. Yu::Douglas W. Cornell::Daniel M. Dias::Alexander Thomasian:::On Coupling Partitioned Database Systems.
+conf/icdcs/Abdul-FatahM98:::Istabrak Abdul-Fatah::Shikharesh Majumdar:::Performance Comparison of Architectures for Client-Server Interactions in CORBA.
+conf/icdcs/ZhaoH94:::Jian Zhao::Heinz Ulrich Hoppe:::Supporting Flexible Communication in Heterogeneous Multi-User Environments.
+conf/icdcs/Feuvre85:::Jean-Michel Feuvre:::Concurrency Control Mechanism for a Fault Tolerant Distributed Data Base System.
+conf/icdcs/CasavantK86:::Thomas L. Casavant::Jon G. Kuhl:::A Formal Model of Distributed Decision-Making and Its Application to Distributed Load Balancing.
+conf/icdcs/Sanders86:::Beverly A. Sanders:::An Incentive Compatible Flow Control Algorithm for Fair Rate Allocation in Computer/Communication Networks.
+conf/icdcs/FriederB88:::Ophir Frieder::Chaitanya K. Baru:::Query Scheduling and Site Selection Algorithms for a Cube-Connected Multicomputer System.
+conf/icdcs/FrancuM99:::Cristian Francu::Ivan Marsic:::An Advanced Communication Toolkit for Implementing the Broker Pattern.
+conf/icdcs/RamaswamyL02:::Lakshmish Ramaswamy::Ling Liu:::A New Document Placement Scheme for Cooperative Caching on the Internet.
+conf/icdcs/FrankWB84:::Ariel J. Frank::Larry D. Wittie::Arthur J. Bernstein:::Group Communication on Netcomputers.
+conf/icdcs/GurwitzDS86:::Robert F. Gurwitz::Michael A. Dean::Richard E. Schantz:::Programming Support in the Cronus Distributed Operating System.
+conf/icdcs/BurnsRL01:::Randal C. Burns::Robert M. Rees::Darrell D. E. Long:::An Analytical Study of Opportunistic Lease Renewal.
+conf/icdcs/GoldszmidtY95:::Germán S. Goldszmidt::Yechiam Yemini:::Distributed Management by Delegation.
+conf/icdcs/FridrichO84:::M. Fridrich::William J. Older:::HELIX: The Architecture of a Distributed File System.
+conf/icdcs/BrazierCGJLPT98:::Frances M. T. Brazier::Frank Cornelissen::Rune Gustavsson::Catholijn M. Jonker::Olle Lindeberg::Bianca Polak::Jan Treur:::Agents Negotiating for Load Balancing of Electricity Use.
+conf/icdcs/FengL00:::Wu-chi Feng::Ming Liu:::Critical Bandwidth Allocation Techniques for Stored Video Delivery across Best-Effort Networks.
+conf/icdcs/NandaDS92:::Ashwini K. Nanda::Doug DeGroot::Daniel L. Stenger:::Scheduling Directed Task Graphs on Multiprocessors Using Simulated Annealing.
+conf/icdcs/BerglundC84:::Eric J. Berglund::David R. Cheriton:::Amaze: A Distributed Multi-Player Game Program using the Distributed V Kernel.
+conf/icdcs/BulusuEH01:::Nirupama Bulusu::Deborah Estrin::John S. Heidemann:::Adaptive Beacon Placement.
+conf/icdcs/LiuMSU96:::Hong Liu::Raymond E. Miller::Hans van der Schoot::Hasan Ural:::Deadlock Detection by Pair Reachability Analysis: From Cyclic to Multi-Cyclic Protocols (and Beyond?).
+conf/icdcs/WilsonLT93:::Andrew W. Wilson Jr.::Richard P. LaRowe Jr.::Marc J. Teller:::Hardware Assist for Distributed Shared Memory.
+conf/icdcs/WatanabeMY00:::Takashi Watanabe::A. Mori::Yukihisa Yamamoto:::Mobile Cache Protocol: A Dynamic Object Relocation Protocol for Wide Area Networks.
+conf/icdcs/TantawyTS92:::Ahmed N. Tantawy::Asser N. Tantawi::Dimitrios N. Serpanos:::An Adaptive Scheduling Scheme for Dynamic Service Time Allocation on a Shared Resource.
+conf/icdcs/NavaratnamCN88:::S. Navaratnam::Samuel T. Chanson::Gerald W. Neufeld:::Reliable Group Communication in Distributed Systems.
+conf/icdcs/Kumar90a:::D. Kumar:::An Implementation of N-Party Synchronization Using Tokens.
+conf/icdcs/KumarS89:::Akhil Kumar::Arie Segev:::Optimization And Evaluating Algorithms for Replicated Data Concurrency Control.
+conf/icdcs/HaraHTN00:::Takahiro Hara::Kaname Harumoto::Masahiko Tsukamoto::Shojiro Nishio:::Dynamic Replica Allocation using Database Migration in Broadband Networks.
+conf/icdcs/AcharyaB93:::Arup Acharya::B. R. Badrinath:::Delivering Multicast Messages in Networks with Mobile Hosts.
+conf/icdcs/RamamrithamS84:::Krithi Ramamritham::John A. Stankovic:::Dynamic Task Scheduling in Distributed Real-Time Systems.
+conf/icdcs/ScheurichD88:::Christoph Scheurich::Michel Dubois:::Dynamic Page Migration in Multiprocessors with Distributed Global Memory.
+conf/icdcs/PalliosAM88:::V. Pallios::Theodore Antonakopoulos::Vassilios Makios:::Architecture and Implementation of the Access Mechanism for a Bus-Structured Multiservice LAN.
+conf/icdcs/GopalsamySPS02:::Thiagaraja Gopalsamy::Mukesh Singhal::Dhabaleswar K. Panda::P. Sadayappan:::A Reliable Multicast Algorithm for Mobile Ad Hoc Networks.
+conf/icdcs/HuangK96:::Shih-Chen Huang::Zvi M. Kedem:::Supporting a Flexible Parallel Programming Model on a Network of Workstations.
+conf/icdcs/MakpangouPKD99:::Mesaac Makpangou::Guillaume Pierre::Christian Khoury::Neilze Dorta:::Replicated Directory Service for Weakly Consistent Distributed Caches.
+conf/icdcs/NtLLFACCM01:::José A. Rodrigues Nt.::Vera M. Ulm de G. Lima::Gladys M. P. S. Lima::Marcelo Corsino Ferreira::José Carlos Alves de Almeida::Sylvia de Oliveira e Cruz::Renato Cerqueira::Bazílio Martins:::A Command and Control Support System Using CORBA.
+conf/icdcs/ChangPC02:::Tianying Chang::George V. Popescu::Christopher F. Codella:::Scalable and Efficient Update Dissemination for Distributed Interactive Applications.
+conf/icdcs/NarasimhanKMM99:::Priya Narasimhan::Kim Potter Kihlstrom::Louise E. Moser::P. M. Melliar-Smith:::Providing Support for Survivable CORBA Applications with the Immune System.
+conf/icdcs/AroraGV94:::Anish Arora::Mohamed G. Gouda::George Varghese:::Constraint Satisfaction as a Basis for Designing Nonmasking Fault-Tolerance.
+conf/icdcs/PaganiR02:::Elena Pagani::Gian Paolo Rossi:::Distributed Bandwidth Broker for QoS Multicast Traffic.
+conf/icdcs/BaehniEGA03:::Sébastien Baehni::Patrick Th. Eugster::Rachid Guerraoui::Philippe Altherr:::Pragmatic Type Interoperability.
+conf/icdcs/AkhtarSS88:::S. Akhtar::Arun K. Sood::K. Y. Srinivasan:::An Extended Token Bus Protocol for Embedded Networks.
+conf/icdcs/ColajanniYC98:::Michele Colajanni::Philip S. Yu::Valeria Cardellini:::Dynamic Load Balancing in Geographically Distributed Heterogeneous Web Servers.
+conf/icdcs/HallD95:::Douglas V. Hall::Michael A. Driscoll:::Hardware for Fast Global Operations on Workstation Cluster Multicomputers.
+conf/icdcs/EzhilchelvanMS95:::Paul D. Ezhilchelvan::Raimundo A. Macêdo::Santosh K. Shrivastava:::Newtop: A Fault-Tolerant Group Communication Protocol.
+conf/icdcs/VaradarajanNS00:::Srivatsan Varadarajan::Hung Q. Ngo::Jaideep Srivastava:::An Adaptive, Perception-Driven Error Spreading Scheme in Continuous Media Streaming.
+conf/icdcs/BatraRG92:::Raj Kumar Batra::Marek Rusinkiewicz::Dimitrios Georgakopoulos:::A Decentralized Deadlock-Free Concurrency Control Method for Multidatabase Transactions.
+conf/icdcs/Zuberek86:::Wlodzimierz M. Zuberek:::Modified D-Time Petri Nets, Timeouts, and Modelling of Communication Protocols.
+conf/icdcs/AdyaCLMS97:::Atul Adya::Miguel Castro::Barbara Liskov::Umesh Maheshwari::Liuba Shrira:::Fragment Reconstruction: Providing Global Cache Coherence in a Transactional Storage System.
+conf/icdcs/DriraASC93:::Khalil Drira::Pierre Azéma::B. Soulas::A. M. Chemali:::A Formal Assessment of Synchronous Testability for Communicating Systems.
+conf/icdcs/GlassN92:::Christopher J. Glass::Lionel M. Ni:::Adaptive Routing in Mesh-Connected Networks.
+conf/icdcs/SchmidWR02:::Ulrich Schmid::Bettina Weiss::John M. Rushby:::Formally Verified Byzantine Agreement in Presence of Link Faults.
+conf/icdcs/TanenbaumMR86:::Andrew S. Tanenbaum::Sape J. Mullender::Robbert van Renesse:::Using Sparse Capabilities in a Distributed Operating System.
+conf/iccvw/SunRT99:::Zhaohui Sun::Visvanathan Ramesh::A. Murat Tekalp:::Error Characterization of the Factorization Approach to Shape and Motion Recovery.
+conf/iceis/KostarasMMP00:::G. Kostaras::I. Makarouni::G. Mitrou::John E. Psarras:::Solving Large Scale Multi-Criteria Job Sequencing Problems in Real Industrial Environments.
+conf/iceis/CernuzziG01:::Luca Cernuzzi::Magali González:::A Framework for Evaluating WIS Design Methodologies.
+conf/iceis/MilosavljevicRND99:::Nada Milosavljevic::Dragoslav Rasinac::Ranko R. Nedeljkovic::Dejan Damnjanovic:::Transportation in Postal Enterprise of Serbia: Application Development and Intranet Implementation.
+conf/iceis/HarrenT02:::Arne Harren::Heiko Tapken:::A Process Model for Enterprise-Wide Design of Data Acquisition for Data Warehousing.
+conf/iceis/AllouiCOV99:::Ilham Alloui::Sorana Cîmpan::Flávio Oquendo::Hervé Verjus:::ALLIANCE: An Agent-Based Case Environment for Enterprose Process Modelling, Enactment and Quantitative Control.
+conf/iceis/YamaguchiWS03:::Shin'nosuke Yamaguchi::Katsumi Wasaki::Ysunari Shidama:::A High Reliability Design for Nfs Server Software By Using an Extended Petri Net.
+conf/iceis/AlvesHM99:::Marcos Aurélio Alves::Marcelo Ossamu Honda::Fábio Lúcio Meira:::DB-GRAPH - A Tool for Development of Database Systems Based on the Extended Entity Relationship Logical Model.
+conf/iceis/Heng03:::Michael S. H. Heng:::Beyond End Users Computing.
+conf/iceis/LeongL03:::Chee Hoong Leong::Sai Peck Lee:::REPCOM: A Customisable Report Generator Component System Using XML-Driven, Component-Based Development Approach.
+conf/iceis/SteinauDRI02:::Sibylle Steinau::Oscar Díaz::Juan J. Rodríguez::Felipe Ibáñez:::A Tool for Assessing the Consistency of Websites.
+conf/iceis/ViaeneBDVP02:::Stijn Viaene::Bart Baesens::Guido Dedene::Jan Vanthienen::Dirk Van den Poel:::Proof Running Two State-Of-The-Art Pattern Recognition Techniques in the Field of Direct Marketing.
+conf/iceis/MartinezP99:::Antonio Martínez::Mario Piattini:::A Proposal for control Database Software Application Development.
+conf/iceis/LeeK02:::Sai Peck Lee::Chin Heong Khor:::Persistence Framework for Multiple Legacy Databases.
+conf/iceis/LecknerKSL03:::Thomas Leckner::Michael Koch::Rosmary Stegmann::Martin S. Lacher:::Personalization Meets Mass Customization - Support for the Configuration and Design of Individualized Products.
+conf/iceis/MajS03:::Stanislaw P. Maj::David T. Shaw:::Scalable and Flexible Electronic Identification.
+conf/iceis/Petit02:::Nathalie Petit:::A Method for WIS Centered on Users Goals.
+conf/iceis/PerkinsD01:::John Perkins::Sharon Dingley:::Collaborative Systems Architecture to Reduce Transaction Costs in E-Business.
+conf/iceis/RamanA99:::S. Raman::T. S. Appan:::Candidate Drop Algorithm for Mining Association Rules.
+conf/iceis/KotowiczB99:::Jean-Philippe Kotowicz::Xavier Briffault:::Linguistic Engineering for Conception of Multi-Agents Systems-Application to the Formalisation of Enterprise Information Systems.
+conf/iceis/AlcalaCHZ02:::Rafael Alcalá::Oscar Cordón::Francisco Herrera::Igor Zwir:::Insurance Market Risk Modeling with Hierarchical Fuzzy Rule Based Systems.
+conf/iceis/Garcia-ConsuegraOCMC01:::Jesús D. García-Consuegra::Luis Orozco-Barbosa::Guillermo Cisneros::Angel Martínez::Antonio Castillo:::GEODA: A Geographica Object Digitising Application.
+conf/iceis/ShishkovD01:::Boris Shishkov::Jan L. G. Dietz:::Analysis of Suitability, Appropriateness and Adequacy of Use Cases Combined with Activity Diagram for Business Systems Modelling.
+conf/iceis/Morand00:::Bernard Morand:::Representation Process and Abductive Reasoning-An Experimental Approach of the Diagrammatic Case.
+conf/iceis/PerkinsJBC03:::John Perkins::Ann-Karin Jorgensen::Lisa Barton::Sharon Cox:::Building Supply Chain Relationships with Knowledge Management: Engineering Trust in Collaborative Systems.
+conf/iceis/Basterra02:::Carlos Basterra:::Oracle9i: The Platform for the eBusiness.
+conf/iceis/ReBB03:::Angelita Ré::Rogério Bastos::Lia Bastos:::The Use of Neurofuzzy Computable System to Identify Prominent Behavior Characteristics in Successful Entrepreneurs.
+conf/iceis/KallimaniIBK03:::V. P. Kallimani::Dino Isa::Peter Blanchfield::Jyoti V. Kallimani:::Integrated Knowledge Based Process in Manufacturing Environment.
+conf/iceis/NahouraiiWD03:::Ata Nahouraii::John A. Wise::Anthony Debons:::Information System Failure: Analysis and Commentary.
+conf/iceis/ChadesSC03:::Iadine Chades::Bruno Scherrer::François Charpillet:::Planning Cooperative Homogeneous Multiagent Systems Using Markov Decision Processes.
+conf/iceis/KoideNKGM03:::Seiji Koide::Hiroshi Nishio::Yukio Kitamura::Akio Gofuku::Riichiro Mizoguchi:::Operation-Support System for Large-Scale System Using Information Technology.
+conf/iceis/MontilvaB03:::Jonás A. Montilva::Judith Barrios:::A Component-Based Method for Developing Web Applications.
+conf/iceis/PhillipsH03:::Damien Phillips::Jiankun Hu:::Simulation Study of TCP Performance Over Mobile IPV4 and Mobile IPV6.
+conf/iceis/GusikhinKRACM02:::Oleg Yu. Gusikhin::Erica Klampfl::Giuseppe Rossi::Celestine Aguwa::Gene Coffman::Terry Marinak:::Virtual Reality Web-Based Environment for Workcell Planning in an Automotive Assembly.
+conf/iceis/PodvalnyKC01:::Symon Podvalny::Alexander Kalinin::Irina Chernikova:::Multivariate Distribution Generation.
+conf/iceis/Cheng99:::Albert Mo Kim Cheng:::Analysis and Verification of Real-Time Systems.
+conf/iceis/Wang03:::Wenjun Wang:::White Paper for Flowagent Platform.
+conf/iceis/Voas03:::Jeffrey M. Voas:::Adaptive Software Quality.
+conf/iceis/BendouM03:::Mohamed Bendou::Paul Munteanu:::Learning Bayesian Networks From Noisy Data.
+conf/iceis/PintoMZC01:::Joaquim Sousa Pinto::Joaquim Arnaldo Martins::Helder Troca Zagalo::Rui José Pereira Costa:::Portuguese Parliamentary Records Digital Library.
+conf/iceis/HergulaBH01:::Klaudia Hergula::Gunnar Beck::Theo Härder:::Supporting Query Processing across Application Systems.
+conf/iceis/ThomsonCA03:::Judi Thomson::Alan Chappell::Justin Almquist:::Enterprise Middleware for Scientific Data.
+conf/iceis/Thelwall00:::Mike Thelwall:::Implications of Search Engine Coverage on the Viability of Business Web Sites.
+conf/iceis/DelaitreLSV03:::Sabine Delaître::Simon Lambert::Simona Stringa::Gianni Viano:::Experience Management in the Work of Public Organizations: The Pellucid Project.
+conf/iceis/DingleyP00:::Sharon Dingley::John Perkins:::Engaging in Collaborative Systems: Lessons from the Field.
+conf/iceis/SalimifardW02:::Khodakaram Salimifard::Mike Wright:::Modelling and Performance Analysis of Workflow Management Systems Using Timed Hierarchical Coloured Petri Nets.
+conf/iceis/SalemSA03:::Abdel-Badeeh M. Salem::Mostafa M. Syiam::Ayad F. Ayad:::Improving Self-Organizing Feature Map (SOFM) Training Algorithm Using K-Means Initialization.
+conf/iceis/GarciaLS01:::Ana Cristina Bicharra Garcia::Anderson Lopes::Cristiana Bentes Seidel:::AGILE: Intelligent Agents to Assits Electronic Auction.
+conf/iceis/Deters01:::Ralph Deters:::Towards Scalable Multi-Agent Systems.
+conf/iceis/YangZ03:::Cungang Yang::Chang N. Zhang:::An XML Based Administration Method on Role-Based Access Control in the Enterprise Environment.
+conf/iceis/Wegmann03:::Alain Wegmann:::On the Systemic Enterprise Architecture Methodology (Seam).
+conf/iceis/ShinkawaM01:::Yoshiyuki Shinkawa::Masao J. Matsumoto:::An Information System View of Consistency and Integrity in Enterprise Operations.
+conf/iceis/BadrLF03:::Youakim Badr::Frédérique Laforest::André Flory:::DRUID: Coupling User Written Documents and Databases.
+conf/iceis/StojanovicDS01a:::Zoran Stojanovic::A. N. W. Dahanayake::Henk G. Sol:::An Integrated Component-Based Approach to Enterprise System Specification and Development.
+conf/iceis/TariTD02:::Zahir Tari::Abdelkamel Tari::Vincent Dupin:::Designing an Object and Query Cache Management System for CODAR Database Adapter.
+conf/iceis/CouletteTCT00:::Bernard Coulette::Tran Dan Thu::Xavier Crégut::Dong Thi Bich Thuy:::RHODES, A Process Component Centered Software Engineering Environment.
+conf/iceis/OkuharaU03:::Koji Okuhara::Nobuyuki Ueno:::Logistics By Applying Evolutionary Computation to Multicommodity Flow Problem.
+conf/iceis/TawbiC03:::Samar Tawbi::Bilal Chebaro:::Services Providers' Patterns for Client/Server Applications.
+conf/iceis/Payeras-CapellaFR02:::Magdalena Payeras-Capellà::Josep Lluís Ferrer-Gomila::Llorenç Huguet i Rotger:::ITHAKI: Fair N-Transferable Anonymous Cash.
+conf/iceis/TerzisNWDF99:::Sotirios Terzis::Paddy Nixon::Vincent P. Wade::Simon A. Dobson::John Fuller:::The Future of Enterprise Groupware Applications.
+conf/iceis/HuLHDN99:::Jianshu Hu::Xuhong Li::D. C. Hung::Simon Doong::Peter A. Ng:::Managing Knowledge for an Intelligent Document Processing System.
+conf/iceis/FerneleyBCR03:::Elaine Ferneley::Brendan Berney::James A. Cunningham::Yacine Rezgui:::Bridging the Gap Between Social and Technical Processes to Facilitate IT Enabled Knowledge Dissemination.
+conf/iceis/DawsonS00:::Linda Dawson::Arlene Sivas:::Requirements Specification for Electronic Services Delivery Applications Using "Lazy Dog" Templates.
+conf/iceis/DoderoDA03:::Juan Manuel Dodero::Paloma Díaz::Ignacio Aedo:::Evaluation of an Agent-Mediated Collaborative Production Protocol in an Instructional Design Scenario.
+conf/iceis/NicolleCY99:::Christophe Nicolle::Nadine Cullot::Kokou Yétongnon:::Using Transformation Paths to Translate and Migrate Data.
+conf/iceis/NenadicZ03:::Aleksandra Nenadic::Ning Zhang:::Non-Repudiation and Fairness in Electronic Data Exchange.
+conf/iceis/FerreiraTS01:::Carlos Ferreira::Leonor Teixeira::Rui Santiago:::Webmaster - An Internet Information Support System for Academic Services Using ASP Technology.
+conf/iceis/MorochoSP03:::Villie Morocho::Fèlix Saltor::Lluis Pérez-Vidal:::Ontologies: Solving Semantic Heterogeneity in a Federated Spatial Database System.
+conf/iceis/BarberGJS99:::K. Suzanne Barber::Thomas J. Graser::Stephen R. Jernigan::John Silva:::Increasing Opportunities for Reuse Through Tool and Methodology Support for Enterprise-Wide Requirements Reuse and Evolution.
+conf/iceis/SoonthornphisajK01:::Nuanwan Soonthornphisaj::Boonserm Kijsirikul:::The Effects of Differnet Feature Sets on the Web Page Categorization Problem Using the Iterative Cross-Training Algorithm.
+conf/iceis/Lingen01:::Frank van Lingen:::XML Interface for Object Oriented Databases.
+conf/iceis/Irun-BrizMDB03:::Luis Irún-Briz::Francesc D. Muñoz-Escoí::Hendrik Decker::José M. Bernabéu-Aubán:::COPLA: A Platform for Eager and Lazy Replication in Networed Databases.
+conf/iceis/GustasG03:::Remigijus Gustas::Prima Gustiené:::Towards the Enterprise Engineering Approach for Information System Modelling Across Organisational and Technical Boundaries.
+conf/iceis/Kulakov03:::Felix Kulakov:::Augmentation of Virtual Object to Real Environment.
+conf/iceis/Ritchie00:::Ian Ritchie:::Making the Most of Your Knowledge.
+conf/iceis/OliveiraFL01:::Toacy Cavalcante de Oliveira::Ivan Mathias Filho::Carlos José Pereira de Lucena:::Using XML and Frameworks to Develop Information Systems.
+conf/iceis/GochenouerT01a:::John E. Gochenouer::Michael L. Tyler:::Voyeurism, Exhibitionism, and Privacy on the Internet.
+conf/iceis/VarvalhoANKCBR00:::Lucimar F. de Varvalho::Fernando Mendes de Azevedo::Silvia M. Nassar::Christiane Koehler::Hugo J. T. de Carvalho::Charles T. Batezini::Fernanda Ramos:::Concurrent Validation in the Treatment of Uncertainty in a Expert System.
+conf/iceis/Habrant99:::Jérôme Habrant:::Structure Learning of Bayesian Networks from Databases by Genetic Algorithms-Application to Time Series Prediction in Finance.
+conf/iceis/CostaAD01:::Carlos J. Costa::Pedro Antunes::Ferreira Dias:::The Meeting Report Process: Bridging EMS with PDA.
+conf/iceis/CostaOS01:::Carlos M. A. Costa::José Luís Oliveira::Augusto Silva:::A Trusted Brokering Service for PKI Interoperability and Thin-Clients Integration.
+conf/iceis/AldersonSSS03:::Albert Alderson::Andy Salter::Hanifa Shah::Bernadette Sharp:::Defending Essential Processes.
+conf/iceis/MedcraftSB03:::Philip Medcraft::Ulrich Schiel::Cláudio de Souza Baptista:::DIA: Data Integration Using Agents.
+conf/iceis/PingliF99:::Pang Pingli::Micheal Fenton:::MEDINFORM: An Enterprise-Wide Medical Information and Telemedicine System.
+conf/iceis/JohnsonD01:::Michael Johnson::Christopher N. G. Dampney:::Enterprise Information Systems: Specifying the Links among Project Data Models Using Category Theory.
+conf/iceis/GuerreroOHF02:::Luis A. Guerrero::Sergio F. Ochoa::Oriel Herrera::David A. Fuller:::Mediated Communication in Groupware Systems.
+conf/iceis/LopesMCN99:::Fernando Lopes::Nuno J. Mamede::Helder Coelho::Augusto Q. Novais:::Negotiation Among Intentional Agents.
+conf/iceis/EtcheverryLD01:::Patrick Etcheverry::Philippe Lopistéguy::Pantxika Dagorret:::An Approach for Coordination Problem Solving.
+conf/iceis/BalavijendranCM03:::Logandran Balavijendran::Soon Nyean Cheong::Azhar Kassim Mustapha:::Enhancing News Reading Experience Through Personalization of News Content and Services Using Intelligent Agents.
+conf/iceis/SerucaL01:::Isabel Seruca::Pericles Loucopoulos:::The Pattcar Approach to Capturing Patterns for Business Improvement.
+conf/iceis/AraqueS03:::Francisco Araque::José Samos:::Data Warehouse Refreshment Maintaining Temporal Consistency.
+conf/iceis/EstevesP02:::José Esteves::Joan Antoni Pastor:::A Framework to Analyse Most Critical Work Packages in ERP Implementation Projects.
+conf/iceis/TuyaDHBNAO00:::Javier Tuya::Eugenia Díaz::Marta Hermida::José Antonio López Brugos::Ángel Neira::Alfredo Alguero::Faustino Obeso:::An Architecture for On-Line Intelligent Control of Blast Furnaces.
+conf/iceis/GortonT00:::Ian Gorton::Phong Tran:::Understanding Enterprise Middleware Technology.
+conf/iceis/ZairiA02:::Mohamed Zairi::Majed Al-Mashari:::An International Study of Benchmarking Spread and Maturity.
+conf/iceis/RogersCR02:::Mike Rogers::Thomas Chesney::Scott Raeburn:::E-Procurement in a Rural Area.
+conf/iceis/GyllenswardKL02:::Erik Gyllenswärd::Mladen Kap::Rikard Land:::Information Organizer: A Comprehensive View on Reuse.
+conf/iceis/Oriogun03:::Peter K. Oriogun:::Content Analysis of Online Interrater Reliability Using the Transcript Reliability Cleaning Percentage (Trcp): A Software Engineering Case Study.
+conf/iceis/Aaen03:::Ivan Aaen:::Software Process Improvement Defined.
+conf/iceis/Khrouf01:::Kais Khrouf:::Design of Textual Dataweb.
+conf/iceis/AnzbockD03:::Rainer Anzböck::Schahram Dustdar:::Interorganizational Workflow in the Medical Imaging Domain.
+conf/icfem/Chen02:::Xuejun Chen:::Specifying a Component Model for Building Dynamically Reconfigurable Distributed Systems.
+conf/icfem/FordBSS97:::Richard L. Ford::William R. Bevier::Richard T. Simon::Lawrence M. Smith:::The Specification-Based Testing of a Trusted Kernel: MK++.
+conf/icfem/MusserS02:::David R. Musser::Zhiqing Shao:::Concept Use or Concept Refinement: An Important Distinction in Building Generic Specifications.
+conf/icfem/Buchi98:::Martin Büchi:::The B Bank: A Complete Case Study.
+conf/icfem/DengWS98:::Y. Deng::J. Wang::R. Sinha:::Incremental Architectural Modeling and Verification of Real-Time Concurrent Systems.
+conf/icfem/SmithD97:::Graeme Smith::John Derrick:::Refinement and Verification of Concurrent Systems Specified in Object-Z and CSP.
+conf/icfem/LanoAK00:::Kevin Lano::Kelly Androutsopoulos::Pauline Kan:::Structuring Reactive Systems in B AMN.
+conf/icfem/FidgeHM98:::Colin J. Fidge::Ian J. Hayes::Brendan P. Mahony:::Defining Differentiation and Integration in Z.
+conf/icfem/BordbarDW02:::Behzad Bordbar::John Derrick::A. Gill Waters:::A UML Approach to the Design of Open Distributed Systems.
+conf/icfem/McDonaldS98:::Jason McDonald::Paul A. Strooper:::Translating Object-Z Specifications to Passive Test Oracles.
+conf/icfem/GanCP02:::Zaobin Gan::Chuanbo Chen::Xiandeng Pei:::A Requirements Description Model Based on Conditional Directed Graphs.
+conf/icfem/VenkataramanRA00:::Arun Venkataraman::Murali Rangarajan::Perry Alexander:::Composing Specifications in VSPEC.
+conf/icfpc/BrockA81:::J. Dean Brock::William B. Ackerman:::Scenarios: A Model of Non-Determinate Computation.
+conf/icfpc/Mosses81:::Peter D. Mosses:::A Semantic Algebra for Binding Constructs.
+conf/icfpc/Williams81:::John H. Williams:::Formal Representations for Recursively Defined Functional Programs.
+conf/icfpc/KlaerenP81:::Herbert Klaeren::Heiko Petzsch:::The Development of an Interpreter by Means of Abstract Algebraic Software Specifications.
+conf/ichim/KampelS01:::Martin Kampel::Robert Sablatnig:::Automated 3D Recording of Archaeological Pottery.
+conf/ichim/Jean93:::Suzanne Jean:::Free the Visitors: The Museum's Documentation Through Interactive Systems.
+conf/ichim/CooperO91:::Deborah Cooper::Jim Oker:::History Information Stations at the Oakland Museum.
+conf/ichim/Perkins93a:::John Perkins:::The CIMI Standards Framework and the Interchange of Multimedia Information.

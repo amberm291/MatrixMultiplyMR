@@ -1,0 +1,200 @@
+conf/dagm/DenzlerBN01:::Joachim Denzler::C. M. Brown::Heinrich Niemann:::Optimal Camera Parameter Selection for State Estimation with Applications in Object Recognition.
+conf/dagm/HendersonM81:::Thomas C. Henderson::Amar Mitiche:::Modeling 3-D Structure.
+conf/dagm/DenglerC89:::Joachim Dengler::Michael Cop:::Ein Mehrgitterverfahren zur Korrespondenzfindung bei der 3D-Rekonstruktion von Elektronenmikroskop-Kippserien.
+conf/dagm/Schubert91:::Michael Schubert:::Texturanalyse mit dem autoreggressiven Modell.
+conf/dagm/DresselhausH90:::Manfred Dresselhaus::Georg Hartmann:::Ein Multi-Prozessorsystem für Robotikaufgaben auf der Basis des Hierarchischen Strukturcodes HSC.
+conf/dagm/Bayer88:::Thomas Bayer:::Dokumentinterpretation und Analysestrategie in einem Frame-System.
+conf/dagm/NetzschJ93:::T. Netzsch::Bernd Jähne:::Ein schnelles Verfahren zur Lösung des Stereokorrespondenzproblems bei der 3D-Particle Tracking Velocimetry.
+conf/dagm/HelbigHK92:::J. Helbig::R. Hoffmann::A. Kallich:::Verbesserung der automatischen Erkennung gesprochener Ziffern mit Telefonqualität.
+conf/dagm/Fuchtjohann78:::H. Füchtjohann:::Vergleich von linearen Rekonstruktionsverfahren in der Computertomographie mit statistischen Methoden.
+conf/dagm/Mallot91:::Hanspeter A. Mallot:::Frühe Bildverarbeitung in neuronaler Architektur.
+conf/dagm/WeickertS99:::Joachim Weickert::Christoph Schnörr:::Räumlich-zeitliche Berechnung des optischen Flusses mit nichtlinearen flußabhängigen Glattheitstermen.
+conf/dagm/Shapiro84:::Linda G. Shapiro:::Relational Matching - Problems, Techniques, and Applications.
+conf/dagm/BauschK79:::U. Bausch::W. Kestner:::Auswertung lokaler Zusammenhänge zur Bestimmung von Objektgrenzen in Luftbildern.
+conf/dagm/Schnorr99:::Claudius Schnörr:::Dynamische Verkehrsklageklassifikation zur automatischen Generierung von Verkehrsmeldungen.
+conf/dagm/GlockE90:::W. Glock::Wolfgang Eckstein:::Entwicklung und Implementierung von Verfahren zur Segmentation von Bondierungsstellen.
+conf/dagm/RumpelS95:::Detlev Rumpel::Karsten Schlüns:::Szenenanalyse unter Berücksichtigung von Interreflexionen und Schatten.
+conf/dagm/Ziegler93:::Manfred Ziegler:::Speicherung und Übertragung von stereoskopischen Bildsequenzen.
+conf/dagm/MorgueG88:::Daniel Morgue::Guido Gerig:::Recognition of Nonrigid Objects Using the Generalized Hough Transform.
+conf/dagm/Weber84:::J. Weber:::Bestimmung der Greifpunkte für den Entladeroboter bei ungeordnet in der Kiste liegenden zylinderischen Werkstücken.
+conf/dagm/Malz89:::R. Malz:::Adaptive Light Encoding for 3-D-Sensing with Maximum Measurement Efficiency.
+conf/dagm/ShdaifatGL01:::Islam Shdaifat::Rolf-Rainer Grigat::Stefan Lütgert:::Recognition of the German Visemes Using Multiple Feature Matching.
+conf/dagm/KristenM92:::Helmut Kristen::Olaf Munkelt:::Markov-Feld-basierte Bildinterpretation mit automatisch generierten Datenbasen.
+conf/dagm/HandelsHHT91:::Heinz Handels::Arno Hiestermann::Rainer Herpers::Thomas Tolxdorff:::Automatische 3D-Segmentierung und Klassifikation von Gewebe in der medizinischen Diagnostik.
+conf/dagm/DunkerH96:::Jürgen Dunker::Georg Hartmann:::Ein prototypengestütztes System zur Erkennung von 3D Objekten auf der Basis ortstoleranter Konturrepräsentationen.
+conf/dagm/AuerE90:::Regine Auer::Hans-Heino Ehricke:::Regelbasierte Segmentierung von 3D-Datensätzen der Kernspintomographie.
+conf/dagm/KampfeNR01:::Tanja Kämpfe::Tim W. Nattkemper::Helge Ritter:::Combining Independent Component Analysis and Self-Organizing Maps for Cell Image Classification.
+conf/dagm/LuoB95:::An Luo::Hans Burkhardt:::Ein helligkeitsbasiertes Stereoverfahren zur Tiefenschätzung.
+conf/dagm/KrieteSHA85:::Andres Kriete::R. Schäffer::H. Harms::H. M. Aus:::On- line Bildverarbeitung am Transmissionselektronenmikroskop zur Differenzierung pathologisch veränderter Schilddrüsenzellkerne mittels einer Texturanalyse.
+conf/dagm/KoriesZZ86:::Ralf Kories::Georg Zimmermann::H. Zinner:::Experimente zur Bestimmung kinematischer Parameter aus dem optischen Fluß basierend auf einem robusten Verschiebungsschätzverfahren.
+conf/dagm/ZamperoniS95:::Piero Zamperoni::Valery V. Starovoitov:::How Dissimilar Are Two Grey-Scale Images?
+conf/dagm/KronenbergKS98:::Susanne Kronenberg::Franz Kummert::Gerhard Sagerer:::Inkrementelle Verarbeitung von diskontinuierlichen Konstruktionen in gesprochener Sprache.
+conf/dagm/MesterFA88:::Rudolf Mester::Uwe Franke::Til Aach:::Segmentation of Image Pairs and Sequences by Contour Relaxation.
+conf/dagm/YuANJBS95:::K. Yu::Bernard Achermann::C. Nyffenegger::Xiaoyi Jiang::Horst Bunke::Ernst Günter Schukat-Talamazzini:::Kombination von Frontal- und Profilanalyse menschlicher Gesichter.
+conf/dagm/CordLL98:::Thomas Cord::Paul Levi::Dejan E. Lazic:::Vision-Based Detection of Navigation Codes for Mobile Service Robots.
+conf/dagm/Roth01:::Volker Roth:::Probabilistic Discriminative Kernel Classifiers for Multi-class Problems.
+conf/dagm/Seegel81:::Klaus-J. Seegel:::Eine Methode zur automatischen Beseitigung des Bildrauschens.
+conf/dagm/MayerK89:::Harald F. Mayer::Walter G. Kropatsch:::Progressive Bildübertragung mit der 3 × 3/2 Pyramide.
+conf/dagm/SchiesslSMMLO00:::Ingo Schießl::Martin Stetter::John E. W. Mayhew::Niall McLoughlin::Jennifer S. Lund::Klaus Obermayer:::Blind Signal Separation from Optical Imaging Data.
+conf/dagm/GotzeDH98:::Nicolai Götze::Siegbert Drüe::Georg Hartmann:::Erkennung und Lagebestimmung realer Objekte durch tolerante Repräsentation und modellbasiertes Gruppieren.
+conf/dagm/MunkelW91:::Heiko Münkel::Kornelia Welz:::Verfolgung des Straßenverlaufes in einer Farbbildfolge.
+conf/dagm/FischerD91:::J. E. Fischer::R. H. Dörrer:::Autofokus zur schnellen Verarbeitung mikroskopischer Präparate.
+conf/dagm/CantzlerFD02:::H. Cantzler::Robert B. Fisher::Michel Devy:::Quality Enhancement of Reconstructed 3D Models Using Coplanarity and Constraints.
+conf/dagm/Poppl85:::Siegfried J. Pöppl:::PARTON - Ein nicht-parametrisches Klassifikationssystem.
+conf/dagm/EckhardtH90:::Ulrich Eckhardt::Eckart Hundt:::Randorientierte Methoden zur Verdünnung - Ein Zugang zur Fuzzy Topologie.
+conf/dagm/WosteP87:::M. Woste::Siegfried J. Pöppl:::Eine Sprache zur Implementation von Methoden der Bildverarbeitung.
+conf/dagm/MosigWK00:::Rüdiger Mosig::Jochen Wickel::Karl-Friedrich Kraiss:::Bayesian Belief Networks in der 3D-Objekterkennung.
+conf/dagm/Schuster91:::Dietwald Schuster:::Die Stützfunktion und konvexe Formmerkmale.
+conf/dagm/FaulhaberWN98:::D. Faulhaber::Peter Weierich::Heinrich Niemann:::Detektion von Personengruppen mit parameterfreien statistischen Klassifikatoren und Waveletmerkmalen.
+conf/dagm/LandzettelH79:::Klaus Landzettel::Gerd Hirzinger:::Konzept und Realisierung eines mti Kontrastauswertung arbeitenden TV-Trackers.
+conf/dagm/LohwegM00:::Volker Lohweg::Dietmar Müller:::Ein generalisiertes Verfahren zur Berechnung von translationsinvarianten Zirkulartransformationen für die Anwendung in der Signal- und Bildverarbeitung.
+conf/dagm/RodenackerAJGB91:::Karsten Rodenacker::Michaela Aubele::Uta Jütting::Peter Gais::Georg Burger:::Färbevarianzen und ihr Einfluß auf Texturmerkmale in der biomedizinischen Mikroskopbildanalyse.
+conf/dagm/Hiltebrand88:::Edi Hiltebrand:::Arbeitsstation zur interaktiven Bearbeitung und Darstellung medizinischer Volumen-Bilddaten.
+conf/dagm/JiangS97:::Xudong Jiang::Heinz-Dieter vom Stein:::Ein lokal und global trainiertes neuronales Netz für Aufgaben der Mustererkennung.
+conf/dagm/KrugerS00:::Volker Krüger::Gerald Sommer:::Gabor Wavelet Networks for Object Representation.
+conf/dagm/KarnaoukhovaKB93:::S. Karnaoukhova::D. Komitowski::J. Bille:::Quantitative Beschreibung der 3-dimensionalen Struktur des Zytoskeletts.
+conf/dagm/Bernroider79:::G. Bernroider:::Bildtransformation unter numerisch-wahrschienlichkeits-Geometrischen Kriterien am Beispiel von Nervenzellen.
+conf/dagm/Klement78:::V. Klement:::Analyse multispektraler mikroskopischer Zellbilder.
+conf/dagm/Klement79:::V. Klement:::Ein Ansatz zur direkten Szenensegmentierung in semantisch bedeutsame Komponenten.
+conf/dagm/LuhmannW86:::Thomas Luhmann::Wilfried Wester-Ebbinghaus:::Hochauflösende digitale Bildabtastung mit optisch-numerischer Sensororientierung.
+conf/dagm/KeuchelSCS01:::Jens Keuchel::Christian Schellewald::Daniel Cremers::Christoph Schnörr:::Convex Relaxations for Binary Image Partitioning and Perceptual Grouping.
+conf/dagm/KleinK86:::Fernand Klein::Olaf Kübler:::Vereinzelung sich berührender Objekte durch euklidische Skelette mit geometrisch-hierarchisch geordneten Elementen.
+conf/dagm/SpaglASG85:::Ch. Spagl::W. Abmayr::E. Schäffer::W. Gössner:::Synthese und Analyse von Gewebeschnitten.
+conf/dagm/LittmannR95a:::Enno Littmann::Helge Ritter:::Curvature Estimation with a DCA Neural Network.
+conf/dagm/Diehl87:::Norbert Diehl:::Schätzung dreidimensionaler Bewegungsparameter aus Bildfolgen.
+conf/dagm/Steger01:::Carsten Steger:::Similarity Measures for Occlusion, Clutter, and Illumination Invariant Object Recognition.
+conf/dagm/LanserZB95:::Stefan Lanser::Christoph Zierl::Roland Beutlhauser:::Multibildkalibrierung einer CCD-Kamera.
+conf/dagm/ChengDH00:::Jian Cheng::Siegbert Drüe::Georg Hartmann:::Graph Based Histogram Intersection for Efficient Location of Color Objects.
+conf/dagm/NothBKKN97:::Elmar Nöth::Anton Batliner::Andreas Kießling::Ralf Kompe::Heinrich Niemann:::Prosodische Information: Begriffsbestimmung und Nutzen für das Sprachverstehen.
+conf/dagm/Dengler91:::Joachim Dengler:::Estimation of Discontinuous Displacement Vector Fields with the Minimum Description Length Criterion.
+conf/dagm/Canterakis02:::Nikos Canterakis:::Analytic Reduction of the Kruppa Equations.
+conf/dagm/MesterH95:::Rudolf Mester::Michael Hötter:::Zuverlässigkeit und Effizienz von Verfahren zur Verschiebungsvektorschätzung.
+conf/dagm/KelleL78:::H. Kelle::Claus-E. Liedtke:::Schnelle Klassifikation unter Verwendung eines Festwertsperchers.
+conf/dagm/Faugeras89:::Olivier D. Faugeras:::From Optical Flow of Lines to 3D Motion and Structure.
+conf/dagm/GlogerR92:::J. M. Gloger::W. Ritter:::Ansätze zur Entfernung des strukturierten Hintergrunds in schwarz-weißen und farbigen Funktions-Diagrammen.
+conf/dagm/MassenGBR90:::Robert Massen::Joachim Gässler::Pia Böttcher::Wolfgang Reichelt:::Trainable Look-Up-Tables versus Neural Networks for Real-Time Colour Classification.
+conf/dagm/AbmayrBKR79:::W. Abmayr::H. Borst::J. Kugler::Karsten Rodenacker:::Schwellwertverfahren und nicht-lineare Binärbildverarbeitungsoperation zur Segmentierung von monochromatischen Zellbildern.
+conf/dagm/Risse88:::Thomas Risse:::Yet Another Line Parametrization for Hough Transform.
+conf/dagm/LuthRS91:::Tim Lüth::Andreas Rösch::Marcus Steinmann:::SYMPLEX - Ein System zur Interpretation von Handskizzen.
+conf/dagm/BurgGH89:::Bernhard Bürg::Helmut Guth::Andreas Hellmann:::Bildanalytische Qualitätskontrolle in der Mikrofertigung.
+conf/dagm/ApostolicoV77:::Alberto Apostolico::Sergio Vitulano:::An image transform emphasizing textual features.
+conf/dagm/Comaniciu02:::Dorin Comaniciu:::Bayesian Kernel Tracking.
+conf/dagm/GiefingM90:::Gerd-Jürgen Giefing::Hanspeter A. Mallot:::Ortsvariante Sensoradaptation durch Kohonen-Mapping.
+conf/dagm/Knorz81:::Gerhard Knorz:::Mustererkennung im Bereich der inhaltlichen Erschließung von Texten.
+conf/dagm/WeierichWBNG93:::Peter Weierich::Dirk Wetzel::Britta Bühnemann::Heinrich Niemann::Klaus Glückert:::AUDIGON - Ein medizinisches Expertensystem zur Diagnose der Kniegelenksarthrose aus kernspintomographischen Bildern.
+conf/dagm/Bolder85:::R. Bolder:::Ein Verfahren zur Bestimmung von Faserorientierungen in GFK-Bauteilen.
+conf/dagm/Rocha02:::Jairo Rocha:::Polygon Partition into Stable Regions.
+conf/dagm/LuxenF01:::Marc Luxen::Wolfgang Förstner:::Optimal Camera Orientation from Points and Straight Lines.
+conf/dagm/Kuckuck79:::W. Kuckuck:::Schreiberkennung durch Spektralanalyse.
+conf/dagm/SchroderSN87:::S. Schröder::Gerhard Sagerer::Heinrich Niemann:::Wissensakquisition mit semantischen Netzen.
+conf/dagm/BippusTM96:::Rolf-Dieter Bippus::Michael Thulke::Volker Märgner:::Erkennung handgeschriebener Scheckbeträge.
+conf/dagm/StohrH97:::Martin Stöhr::Georg Hartmann:::Orientierungs- und skalierungsinvariante Erkennung von Objekten in komplexen Szenen.
+conf/dagm/BarthIFD81:::K. Barth::K. M. Irion::U. Faust::D. Decker:::Strukturerkennung in gestörten Signalen mit Hilfe von Korrelationsverfahren.
+conf/dagm/SchrammB91:::U. Schramm::W. Braun:::Konfigurieren und Trainieren von mehrschichtigen Perzeptron-Netzen.
+conf/dagm/NordalK80:::Per-Erik Nordal::Svein Otto Kanstad:::Photoacoustic and Photothermal Spectroscopy for Surface and Powder Analysis.
+conf/dagm/Ruser89:::D. Ruser:::Fernerkennung in der Ortung.
+conf/dagm/Grebner85:::Klaus Grebner:::Modellgesteuerte Bildanalyse am Beispiel industrieller Szenen.
+conf/dagm/GorlitzL78:::D. Görlitz::F. Lanzl:::Erfahrungen mit einem Hybrid-System zur Ortsfrequenzfilterung inkohärent beleuchteter Objekte.
+conf/dagm/ShenEB91:::W. Shen::N. Ebi::Philipp W. Besslich:::Schraffurerkennung in graphischen Vorlagen.
+conf/dagm/BukerAHM93:::Ulrich Büker::Hubert Ausermeier::Georg Hartmann::Bärbel Mertsching:::Verkehrsszenenanalyse in hierarchisch codierten Bildern.
+conf/dagm/FuchsR87:::C. Fuchs::Bernd Radig:::Entwicklung eines Verfahrens zur digitalen Stereo-Erkennung von Baumkronen in Luftbildern.
+conf/dagm/BruhnJFKWBS02:::Andrés Bruhn::Tobias Jakob::Markus Fischer::Timo Kohlberger::Joachim Weickert::Ulrich Brüning::Christoph Schnörr:::Designing 3-D Nonlinear Diffusion Filters for High Performance Cluster Computing.
+conf/dagm/MassadBM02:::Amin Massad::Martin Babós::Bärbel Mertsching:::Application of the Tensor Voting Technique for Perceptual Grouping to Grey-Level Images.
+conf/dagm/WinklerM87:::U. Winkler::Robert Massen:::Berührungslose on-line Schrumpfmessung von Textilien durch korrelative Textur-Analyse.
+conf/dagm/Speck81:::Peter T. Speck:::Automatische Darstellung und Interpretation von Linien- und Kantenstrukturen in Digitalbildern.
+conf/dagm/NollWS95:::Detlev Noll::Martin Werner::Werner von Seelen:::Merkmalbasierte Objektverfolgung und Objektklassifikation.
+conf/dagm/BlanzDR84:::W. E. Blanz::R. H. Dörrer::E. R. Reinhardt:::Problemorientierte Beurteilung einzelner Verfahrensschritte in der Bildverarbeitung.
+conf/dagm/RusterAHH78:::A. Rüster::H. M. Aus::M. Haucke::H. Harms:::Digitale Auswertung der Farbinformation von lichtmikroskopischen Zellbildern.
+conf/dagm/HeuerKB98:::Jörg Heuer::André Kaup::Hans Burkhardt:::Schnelle Bestimmung von Kamerabewegungen in blockbasiert codierten Videosequenzen.
+conf/dagm/FelsbergS00:::Michael Felsberg::Gerald Sommer:::A New Extension of Linear Signal Processing for Estimating Local Properties and Detecting Features.
+conf/dagm/Rodenacker84:::Karsten Rodenacker:::Analyse von Formen unvollständig segmentierter Objekte basierend auf Erkenntnissen der Gestaltpsychologie.
+conf/dagm/Triendl81:::Ernst E. Triendl:::Lokalisierung von durch Zeichnungen beschriebenen Strukturen in Bildern.
+conf/dagm/Enkelmann87:::Wilfried Enkelmann:::Untersuchungen zur Hindernisdetektion durch Auswertung von Verschiebungsvektorfeldern.
+conf/dagm/Faber96a:::Petko Faber:::Bestimmung von Datums- und Signumsbereichen auf der Basis eines <i>CP</i>-Relaxations-Modells.
+conf/dagm/HaxhimusaGMLK02:::Yll Haxhimusa::Roland Glantz::Maamar Saib::Georg Langs::Walter G. Kropatsch:::Logarithmic Tapering Graph Pyramid.
+conf/dagm/DrewniokR95:::Christian Drewniok::Karl Rohr:::High-Precision Localization of Circular Landmarks in Aerial Images.
+conf/dagm/Gerlach79:::H. Gerlach:::Digitale Bildfolgenauswertung zum Wiederfinden von Objekten in natürlicher Umgebung.
+conf/dagm/SprengelS93:::Rainer Sprengel::Christoph Schnörr:::Nichtlineare Diffusion zur Integration visueller Daten-Anwendung auf Kernspintomogramme.
+conf/dagm/DevijverRHKKL84:::P. A. Devijver::Christian Ronse::P. Haaker::E. Klotz::R. Koppe::R. Linde:::Pseudomask Technique for Digital Subtraction Angiography (DSA).
+conf/dagm/MertschingH88:::Bärbel Mertsching::Georg Hartmann:::Modulare Modellierung von hierarchisch-strukturcodierten Objekten und Szenen durch ein semantisches Netzwerk.
+conf/dagm/GrabnerK85:::G. Gräbner::P. Kobes:::Sensor mit kapazitativer taktiler Matrix (STM) zur Mustererkennung in der Automatisierungstechnik.
+conf/dagm/FlachGO92:::Boris Flach::H. Guth::R. Osterland:::Lokale Neuronale Filter.
+conf/dagm/Daniilidis93:::Konstantinos Daniilidis:::Rekursive Schätzung der relativen 3D-Bewegung einer Ebene aus längeren monokularen Bildfolgen.
+conf/dagm/MoriB93:::D. Möri::Horst Bunke:::Automatische Erkennung und Ausführung von Korrekturanweisungen in Textdokumenten.
+conf/dagm/JondralM81:::Friedrich Jondral::Anton Mohr:::Ein Simulationsmodell zur Klassifikation binär modulierter Signale.
+conf/dagm/ScheppelmannSMK89:::D. Scheppelmann::F. Saurbier::Hans-Peter Meinzer::J. Klemstein:::Cognitive Texture Parameters - the Link to Artificial Intelligence.
+conf/dagm/Ranzinger84:::Hubert Ranzinger:::Organisation von Wissen zur Fortführung von Karten mittels kenntnisgestützter Bildanalyse.
+conf/dagm/SpiesG02:::Hagen Spies::Christoph S. Garbe:::Dense Parameter Fields from Total Least Squares.
+conf/dagm/HahnK00:::Marco Hahn::Norbert Krüger:::3D-Interpretation of Junctions from 2D-Correspondences in a Calibrated Stereo System.
+conf/dagm/KruppaBS02:::Hannes Kruppa::Martin A. Bauer::Bernt Schiele:::Skin Patch Detection in Real-World Images.
+conf/dagm/WiedemannM96:::Christian Wiedemann::Helmut Mayer:::Automatic Verification of Roads in Digital Images Using Profiles.
+conf/dagm/Westfechtel87:::August Westfechtel:::Eine Hardwarearchitektur zur Erzeugung des Hierarchischen Strukturcodes.
+conf/dagm/Hauck78:::R. Hauck:::Optische Zeichenerkennung mit inkohärenter Principal Component Filterung.
+conf/dagm/MullerEV85:::H. Müller::W. Ernestus::B. Verhagen-Schöwald:::Plastische Darstellung von Voxelszenen durch optische Simulation.
+conf/dagm/Schulz-Mirbach95:::Hanns Schulz-Mirbach:::Invariant Features for Gray Scale Images.
+conf/dagm/HaberackerBA90:::Peter Haberäcker::B Brenninger::H.-P. Althof:::Sichtgesteuerte Preßteilinspektion mit multivariaten Klassifikatoren.
+conf/dagm/KleinmanL92:::Ljudmila Kleinman::Jürgen Laugks:::Ein Beitrag zur automatischen Interpretation von Bodenradargrammen.
+conf/dagm/HartkensRS98:::Thomas Hartkens::Karl Rohr::H. Siegfried Stiehl:::Untersuchung der Detektionsleistung von 3D-Operatoren zur Ermittlung von Punktlandmarken in MR- und CT-Bildern.
+conf/dagm/NothK88:::Elmar Nöth::Ralf Kompe:::Der Einsatz prosodischer Information im Spracherkennungssystem EVAR.
+conf/dagm/HeipkeSSL91:::Christian Heipke::M. Stephani::G. Strunz::R. Lenz:::Accuracy Potential of a Digital CCD Camera for Photogrammetric Applications.
+conf/dagm/Scharf77:::R. Schärf:::Untersuchungen zur mehrkanaligen Bildverarbeitung und Objektseparierung.
+conf/dais/SenivongseN01:::Twittie Senivongse::Wuttichai Nanekrangsan:::An Extension to a CORBA Trader to Support XML Service Descriptions.
+conf/dais/LippertsT99:::Steffen Lipperts::Dirk Thißen:::CORBA wrappers for a-posteriori management: an approach to integrating management with existing heterogeneous systems (short paper).
+conf/dais/Rackl99:::Günther Rackl:::Multi-layer monitoring in distributed object-environments (short paper).
+conf/dais/Montresor99:::Alberto Montresor:::The Jgroup distributed object model.
+conf/dais/MalinenKT99:::Jari Malinen::Hannu Kari::Mikko Tiusanen:::Scenario-driven design considerations for MANET protocols (short paper).
+conf/dais/CzejdoEMW01:::Bogdan D. Czejdo::Johann Eder::Tadeusz Morzy::Robert Wrembel:::Designing and Implementing an Object Relational Data Warehousing System.
+conf/dais/MaknaviciusKZ99:::Linas Maknavicius::Gautier Koscielny::Simon Znaty:::Extending TINA to support service customization.
+conf/dais/SchillNPM01:::Alexander Schill::Olaf Neumann::Christoph Pohl::Thomas Müller:::Architectural Design and Performance Aspects of Developing Applications Based on Middleware.
+conf/date/HelvigRZ98:::Christopher S. Helvig::Gabriel Robins::Alexander Zelikovsky:::Improved Approximation Bounds for the Group Steiner Problem.
+conf/date/Castro-LopezFMR03:::R. Castro-López::Francisco V. Fernández::F. Medeiro::Ángel Rodríguez-Vázquez:::Behavioural Modelling and Simulation of SigmaDelta Modulators Using Hardware Description Languages.
+conf/date/AdriahantenainaCGMZ03:::Adrijean Adriahantenaina::Hervé Charlery::Alain Greiner::Laurent Mortiez::Cesar Albenes Zeferino:::SPIN: A Scalable, Packet Switched, On-Chip Micro-Network.
+conf/date/SzekelyR98:::Vladimir Székely::Márta Rencz:::Fast Field Solvers for Thermal and Electrostatic Analysis.
+conf/date/ChuY02:::Chris C. N. Chu::Evangeline F. Y. Young:::Non-Rectangular Shaping and Sizing of Soft Modules in Floorplan Design.
+conf/date/VercauterenVJL98:::Steven Vercauteren::Diederik Verkest::Gjalt G. de Jong::Bill Lin:::Efficient Verification using Generalized Partial Order Analysis.
+conf/date/HergenhanR00:::André Hergenhan::Wolfgang Rosenstiel:::Static Timing Analysis of Embedded Software on Advanced Processor Architectures.
+conf/date/Essi02:::Vernon P. Essi Jr.:::IP is All About Implementation and Customer Satisfaction.
+conf/date/WambacqVPREYLD01:::Piet Wambacq::Gerd Vandersteen::Joel R. Phillips::Jaijeet S. Roychowdhury::Wolfgang Eberle::Baolin Yang::David E. Long::Alper Demir:::CAD for RF circuits.
+conf/date/GoldbergKB98:::Evguenii I. Goldberg::Yuji Kukimoto::Robert K. Brayton:::Combinational Verification based on High-Level Functional Specifications.
+conf/date/PanatoBR03:::Alex Panato::Marcelo Barcelos::Ricardo Reis:::A Low Device Occupation IP to Implement Rijndael Algorithm.
+conf/date/MolinaMH02:::María C. Molina::José M. Mendías::Román Hermida:::Multiple-Precision Circuits Allocation Independent of Data-Objects Length.
+conf/date/KimSLLNN03:::Euiseok Kim::Hiroshi Saito::Jeong-Gun Lee::Dong-Ik Lee::Hiroshi Nakamura::Takashi Nanya:::Distributed Synchronous Control Units for Dataflow Graphs under Allocation of Telescopic Arithmetic Units.
+conf/date/LiP02:::Peng Li::Lawrence T. Pileggi:::A Linear-Centric Modeling Approach to Harmonic Balance Analysis.
+conf/date/LiW01:::Jin-Fu Li::Cheng-Wen Wu:::Memory fault diagnosis by syndrome compression.
+conf/date/Man02:::Hugo De Man:::On Nanoscale Integration and Gigascale Complexity in the Post.Com World.
+conf/date/FioriM01:::Franco Fiori::Francesco Musolino:::Analysis of EME produced by a microcontroller operation.
+conf/date/DaglioR03:::Pierluigi Daglio::Carlo Roma:::A Fully Qualified Top-Down and Bottom-Up Mixed-Signal Design Flow for Non Volatile Memories Technologies.
+conf/date/WuK02:::Kaijie Wu::Ramesh Karri:::Exploiting Idle Cycles for Algorithm Level Re-Computing.
+conf/date/XuM01:::Qinwei Xu::Pinaki Mazumder:::Efficient and passive modeling of transmission lines by using differential quadrature method.
+conf/date/XuM02:::Qinwei Xu::Pinaki Mazumder:::Formulation of Low-Order Dominant Poles for Y-Matrix of Interconnects.
+conf/date/YuK01:::Qingjian Yu::Ernest S. Kuh:::Explicit formulas and efficient algorithm for moment computation of coupled RC trees with lumped and distributed elements.
+conf/date/CoppolaCGM03:::Marcello Coppola::Stephane Curaba::Miltos D. Grammatikakis::Giuseppe Maruccia:::IPSIM: SystemC 3.0 Enhancements for Communication Refinement.
+conf/date/KandemirCZK03:::Mahmut T. Kandemir::Guangyu Chen::W. Zhang::Ibrahim Kolcu:::Data Space Oriented Scheduling in Embedded Systems.
+conf/date/Leupers00:::Rainer Leupers:::Code Selection for Media Processors with SIMD Instructions.
+conf/date/Leupers99:::Rainer Leupers:::Exploiting Conditional Instructions in Code Generation for Embedded VLIW Processors.
+conf/date/NagC99:::Sudip Nag::Kamal Chaudhary:::Post-Placement Residual-Overlap Removal with Minimal Movement.
+conf/date/Mrva98:::Michael Mrva:::Enhanced Reuse and Teamwork Capabilities for an Object-oriented Extension of VHDL.
+conf/date/ChooMR03:::Hunsoo Choo::Khurram Muhammad::Kaushik Roy:::MRPF: An Architectural Transformation for Synthesis of High-Performance and Low-Power Digital Filters.
+conf/date/PiguetRO01:::Christian Piguet::Marc Renaudin::Thierry J.-F. Omnès:::Low-power systems on chips (SOCs).
+conf/date/NiemannM98:::R. Niemann::Peter Marwedel:::Synthesis of Communicating Controllers for Concurrent Hardware/Software Systems.
+conf/date/SvajdaSM98:::M. Svajda::B. Straka::Hans A. R. Manhaeve:::IOCIMU - An Integrated Off-Chip IDDQ Measurement Unit.
+conf/date/DielissenMBHSHW01:::J. Dielissen::Jef L. van Meerbergen::Marco Bekooij::Françoise Harmsze::Sergej Sawitzki::Jos Huisken::Albert van der Werf:::Power-efficient layered turbo decoder processor.
+conf/date/Page98:::Ian Page:::Design Of Future Systems.
+conf/date/MoserN99:::Eduard Moser::Wolfgang Nebel:::Case Study: System Model of Crane and Embedded Control.
+conf/date/HellebrandWY99:::S. Hellebrand::Hans-Joachim Wunderlich::Vyacheslav N. Yarmolik:::Symmetric Transparent BIST for RAMs.
+conf/date/FeldmanKL99:::Peter Feldman::Sharad Kapur::David E. Long:::Efficient Techniques for Modeling Chip-Level Interconnect, Substrate and Package Parasitics.
+conf/date/MounirMF03:::Ayman Mounir::Ahmed Mostafa::Maged Fikry:::Automatic Behavioural Model Calibration for Efficient PLL System Verification.
+conf/date/PeymandoustSM02:::Armita Peymandoust::Tajana Simunic::Giovanni De Micheli:::Low Power Embedded Software Optimization Using Symbolic Algebra.
+conf/date/RuttenBEK98:::J. W. J. M. Rutten::M. R. C. M. Berkelaar::C. A. J. Van Eijk::M. A. J. Kolsteren:::An Efficient Divide and Conquer Algorithm for Exact Hazard Free Logic Minimization.
+conf/date/MartinSZBM01:::G. Martin::Ralf Seepold::Ting Zhang::Luca Benini::Giovanni De Micheli:::Component selection and matching for IP-based design.
+conf/date/Perez-MontesMDFR00:::F. M. Pérez-Montes::F. Medeiro::Rafael Domínguez-Castro::Francisco V. Fernández::Ángel Rodríguez-Vázquez:::XFridge: A SPICE-Based, Portable, User-Friendly Cell-Level Sizing Tool.
+conf/date/WolfK98:::Markus Wolf::Ulrich Kleine:::Automatic Topology Optimization for Analog Module Generators.
+conf/date/FavalliM99:::Michele Favalli::Cecilia Metra:::On the Design of Self-Checking Functional Units Based on Shannon Circuits.
+conf/date/BensoCNP01:::Alfredo Benso::Stefano Di Carlo::Giorgio Di Natale::Paolo Prinetto:::SEU effect analysis in an open-source router via a distributed fault injection environment.
+conf/date/KoegstGCW98:::Manfred Koegst::Dieter Garte::Peter Conradi::Michael G. Wahl:::A Systematic Analysis of Reuse Strategies for Design of Electronic Circuits.
+conf/date/RenovellPFZ98:::Michel Renovell::J. M. Portal::Joan Figueras::Yervant Zorian:::RAM-Based FPGA's: A Test Approach for the Configurable Logic.
+conf/date/RenovellPFZ99:::Michel Renovell::J. M. Portal::Joan Figueras::Yervant Zorian:::Testing the Configurable Interconnect/Logic Interface of SRAM-Based FPGA's.
+conf/date/LauwersG99:::Erik Lauwers::Georges G. E. Gielen:::A Power Estimation Model for High-Speed CMOS A/D Converters.
+conf/date/Novikov03:::Yakov Novikov:::Local Search for Boolean Relations on the Basis of Unit Propagation.
+conf/date/JangMH00:::Jae-Young Jang::In-Ho Moon::Gary D. Hachtel:::Iterative Abstraction-Based CTL Model Checking.
+conf/date/AkgulM03:::Bilge Saglam Akgul::Vincent John Mooney:::PARLAK: Parametrized Lock Cache Generator.

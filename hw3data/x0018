@@ -1,0 +1,200 @@
+conf/cpm/PeerSS00:::Itsik Pe'er::Ron Shamir::Roded Sharan:::Incomplete Directed Perfect Phylogeny.
+conf/cpm/Kruskal97:::Joseph B. Kruskal:::Modern Comparative Lexicostatistics.
+conf/cpm/RautioTT02:::Jussi Rautio::Jani Tanninen::Jorma Tarhio:::String Matching with Stopper Encoding and Code Splitting.
+conf/cpm/Akutsu93:::Tatsuya Akutsu:::A Linear Time Pattern Matching Algorithm Between a String and a Tree.
+conf/cpm/Fernandez-BacaSS00:::David Fernández-Baca::Timo Seppäläinen::Giora Slutzki:::Parametric Multiple Sequence Alignment and Phylogeny Construction.
+conf/cpm/CrochemoreV97:::Maxime Crochemore::Renaud Vérin:::Direct Construction of Compact Directed Acyclic Word Graphs.
+conf/cpm/BenhamKW95:::Craig Benham::Sampath Kannan::Tandy Warnow:::Of Chicken Teeth and Mouse Eyes, or Generalized Character Compatibility.
+conf/cpm/InenagaTSHA02:::Shunsuke Inenaga::Masayuki Takeda::Ayumi Shinohara::Hiromasa Hoshino::Setsuo Arikawa:::The Minimum DAWG for All Suffixes of a String and Its Applications.
+conf/cpm/GelfandMP96:::Mikhail S. Gelfand::Andrey A. Mironov::Pavel A. Pevzner:::Spliced Alignment: A New Approach to Gene Recognition.
+conf/cpm/CzumajG00:::Artur Czumaj::Leszek Gasieniec:::On the Complexity of Determining the Period of a String.
+conf/cpm/Kececioglu93:::John D. Kececioglu:::The Maximum Weight Trace Problem in Multiple Sequence Alignment.
+conf/cpm/FredrikssonNU02:::Kimmo Fredriksson::Gonzalo Navarro::Esko Ukkonen:::Optimal Exact and Fast Approximate Two Dimensional Pattern Matching Allowing Rotations.
+conf/cpm/SagotV96:::Marie-France Sagot::Alain Viari:::A Double Combinatorial Approach to Discovering Patterns in Biological Sequences.
+conf/cpm/KilpelainenM94:::Pekka Kilpeläinen::Heikki Mannila:::Query Primitives for Tree-Structured Data.
+conf/cpm/Ohlebusch97:::Enno Ohlebusch:::A Filter Method for the Weighted Local Similarity Search Problem.
+conf/cpm/BodlaenderDFW94:::Hans L. Bodlaender::Rodney G. Downey::Michael R. Fellows::Harold T. Wareham:::The Parameterized Complexity of Sequence Alignment and Consensus.
+conf/cpm/MuthM96:::Robert Muth::Udi Manber:::Approximate Multiple Strings Search.
+conf/cpm/HartI96:::William E. Hart::Sorin Istrail:::Invariant Patterns in Crystal Lattices: Implications for Protein Folding Algorithms (Extended Abstract).
+conf/cpm/Pereira00:::Fernando C. N. Pereira:::Machine Learning for Efficient Natural-Language Processing.
+conf/cpm/AkutsuBMO02:::Tatsuya Akutsu::Hideo Bannai::Satoru Miyano::Sascha Ott:::On the Complexity of Deriving Position Specific Score Matrices from Examples.
+conf/dfg/FleischerFMMNRSSTU92:::Rudolf Fleischer::Otfried Fries::Kurt Mehlhorn::Stefan Meiser::Stefan Näher::Hans Rohnert::Stefan Schirra::Klaus Simon::Athanasios K. Tsakalidis::Christian Uhrig:::Selected Topics from Computational Geometry, Data Structures and Motion Planning.
+conf/dfg/WeiheWHSRGE01:::Stephan Weihe::Michael Wehmöller::Stefan Haßfeld::Alexander Schramm::Jörg Raczkowsky::Nils-Claudius Gellrich::Harald Eufinger:::Der Einsatz von Resektionsschablonen, Navigation und Robotern zur Knochenresektion und einzeitigen Rekonstruktion mittels individueller CAD/CAM-Implantate im Bereich des Hirnschädels.
+conf/dfg/NoltemeierVZ92:::Hartmut Noltemeier::Knut Verbarg::Christian Zirkelbach:::Monotonous Bisector<sup>*</sup> Trees - A Tool for Efficient Partitioning of Complex Scenes of Geometric Objects.
+conf/dfg/SchlichtingAHOP87:::Richard D. Schlichting::Gregory R. Andrews::Norman C. Hutchinson::Ronald A. Olsson::Larry L. Peterson:::Observations on Building Distributed Languages and Systems.
+conf/dfg/GiessKHBKLHEM01:::Christoph Giess::Tobias Kunert::Mark Hastenteufel::Volker Braun::Michael Klemke::Kilian Lorenz::Marc Heiland::Harald Evers::Hans-Peter Meinzer:::Interaktive 3D-Volumenvisualisierung und Integration von Softwaremodulen.
+conf/dfg/Kleinoder93:::Jürgen Kleinöder:::Object- and Memory-Management Architecture - A Concept for Open, Object-Oriented Operating Systems.
+conf/dfg/MullerW92:::Heinrich Müller::Jörg Winckler:::Distributed Image Synthesis with Breadth-First Ray Tracing and the Ray-Z-Buffer.
+conf/dfn/Weiss02:::Ernst Weiss:::Sicherheit im Netz - Was kann der Gesetzgeber tun? Europäische Ansichten und Aussichten.
+conf/dfn/KarosseitW02:::Alexander Karosseit::Andreas Wendt:::Teachware on Demand im Kontext eines Peer-To-Peer-Netzwerks.
+conf/dfn/Wind01:::Martin Wind:::Elektronische Signaturen für Online-Dienste an Universitäten und Fachhochschulen.
+conf/dfn/MahnicUZ02:::Viljan Mahnic::Janko Uratnik::Natasa Zabkar:::Information Security of University Information Systems.
+conf/dfn/Manz-BotheHS01:::Achim Manz-Bothe::Mathias Hehn::Franz-Josef Stewing:::Plattformunabhängige Überwachung von verteilten IT-System auf Basis von Java.
+conf/dfn/SiemensP01:::Eduard Siemens::Helmut Pralle:::Kopplung von TK-Anlagen über ein IP-Netz.
+conf/dfn/Meulen01:::Helmut an de Meulen:::Mobiles Internet unter UMTS Technologie, Applikationen, Services und Geschäfsmodelle.
+conf/dft/CornoRRV99:::Fulvio Corno::Matteo Sonza Reorda::Maurizio Rebaudengo::Massimo Violante:::Optimal Vector Selection for Low Power BIST.
+conf/dft/StapperPR93:::Charles H. Stapper::J. A. Patrick::R. J. Rosner:::Yield Model for ASIC and Processor Chips.
+conf/dft/Lo98:::Jien-Chung Lo:::Highly Reliable Systems with Differential Built-In Current Sensors.
+conf/dft/RenovellF93:::Michel Renovell::Joan Figueras:::Current Testing Viability in Dynamic CMOS Circuits.
+conf/dft/ChengCWJ99:::Ching-Hwa Cheng::Shih-Chieh Chang::Jinn-Shyan Wang::Wen-Ben Jone:::Charge Sharing Fault Detection for CMOS Domino Logic Circuits.
+conf/dft/ZhangMP94:::Zaifu Zhang::Robert D. McLeod::Witold Pedrycz:::Augmenting Scan Path SRLs with an XOR Network to Enhance Delay Fault Testing.
+conf/dft/MathewD02:::Jimson Mathew::Elena Dubrova:::Self-Checking 1-out-of-n CMOS Current-Mode Checker.
+conf/dft/EmmertBKTSA01:::John M. Emmert::Stanley Baumgart::Pankaj Kataria::Andrew M. Taylor::Charles E. Stroud::Miron Abramovici:::On-Line Fault Tolerance for FPGA Interconnect with Roving STARs.
+conf/dft/GuoL98:::Yu-Yau Guo::Jien-Chung Lo:::Challenges of Built-In Current Sensor Designs.
+conf/dft/HsuS93:::Yuang-Ming Hsu::Earl E. Swartzlander Jr.:::VLSI Concurrent Error Correcting Adders and Multipliers.
+conf/dft/OhM01:::Nahmsuk Oh::Edward J. McCluskey:::Procedure Call Duplication: Minimization of Energy Consumption with Constrained Error Detection Latency.
+conf/dft/KagarisTM98:::Dimitrios Kagaris::Spyros Tragoudas::Amitava Majumdar:::On-Chip Test Embedding for Multi-Weighted Random LFSRs.
+conf/dft/MeyerLZ99:::Fred J. Meyer::Fabrizio Lombardi::Jun Zhao:::Good Processor Identification in Two-Dimensional Grids.
+conf/dft/MunshiML98:::Avinash Munshi::Fred J. Meyer::Fabrizio Lombardi:::A New Method for Testing EEPLA's.
+conf/dft/BoniP98:::Andrea Boni::Andrea Pierazzi:::Yield Enhancement by Multi-level Linear Modeling of Non-Idealities in an Interpolated Flash ADCs.
+conf/dft/ChenH98:::Zhan Chen::Fook-Luen Heng:::A Fast Minimum Layout Perturbation Algorithm for Electromigration Reliability Enhancement.
+conf/dft/AntoniLF00:::Lörinc Antoni::Régis Leveugle::Béla Fehér:::Using Run-Time Reconfiguration for Fault Injection in Hardware Prototypes.
+conf/dft/XiaL02:::Tian Xia::Jien-Chung Lo:::On-Chip Jitter Measurement for Phase Locked Loops.
+conf/dft/CardarilliSMO00:::G. C. Cardarilli::A. Salsano::P. Marinucci::M. Ottavi:::A Fault-Tolerant 176 Gbit Solid State Mass Memory Architecture.
+conf/dft/BensoRRC98:::Alfredo Benso::Maurizio Rebaudengo::Matteo Sonza Reorda::Pierluigi Civera:::An Integrated HW and SW Fault Injection Environment for Real-Time Systems.
+conf/dft/RebaudengoRV02:::Maurizio Rebaudengo::Matteo Sonza Reorda::Massimo Violante:::A New Functional Fault Model for FPGA Application-Oriented Testing.
+conf/dft/GoncalvesTT97:::F. M. Gonçalves::Isabel Teixeira::João Paulo Teixeira:::Realistic Fault Extraction for High-Quality Design and Test of VLSI Systems.
+conf/dft/KamiuraTIM01:::Naotake Kamiura::Masashi Tomita::Teijiro Isokawa::Nobuyuki Matsui:::On Variable-Shift-Based Fault Compensation of Fuzzy Controllers.
+conf/dft/DAngeloMPPS98:::Sergio D'Angelo::Cecilia Metra::S. Pastore::A. Pogutz::Giacomo R. Sechi:::Fault-Tolerant Voting Mechanism and Recovery Scheme for TMR FPGA-Based Systems.
+conf/dft/Kerek93:::A. Kerek:::Front-end Electronics in the Radiation Environment of LHC.
+conf/dft/CherubalC99:::Sasikumar Cherubal::Abhijit Chatterjee:::A Methodology for Efficient Simulation and Diagnosis of Mixed-Signal Systems Using Error Waveforms.
+conf/dft/ArmitageL99:::William D. Armitage::Jien-Chung Lo:::Erasure Error Correction with Hardware Detection.
+conf/dft/BombanaBCFSZ93:::Massimo Bombana::Giacomo Buonanno::Patrizia Cavalloro::Fabrizio Ferrandi::Donatella Sciuto::Giuseppe Zaza:::Reduction of Fault Detection Costs through Testable Design of Sequential Architectures with Signal Feedbacks.
+conf/dft/RebaudengoRTV99:::Maurizio Rebaudengo::Matteo Sonza Reorda::Marco Torchiano::Massimo Violante:::Soft-Error Detection through Software Fault-Tolerance Techniques.
+conf/dft/HuangMM01:::Wei-Je Huang::Subhasish Mitra::Edward J. McCluskey:::Fast Run-Time Fault Location in Dependable FPGA-Based Applications.
+conf/dft/BalakrishnanT02:::Kedarnath J. Balakrishnan::Nur A. Touba:::Matrix-Based Test Vector Decompression Using an Embedded Processor.
+conf/dft/ChengHHWWT00:::Chuang Cheng::Chih-Tsun Huang::Jing-Reng Huang::Cheng-Wen Wu::Chen-Jong Wey::Ming-Chang Tsai:::BRAINS: A BIST Compiler for Embedded Memories.
+conf/dft/ZhaoU02:::Dan Zhao::Shambhu J. Upadhyaya:::Adaptive Test Scheduling in SoC's by Dynamic Partitioning.
+conf/dft/EmmertC01:::John M. Emmert::Jason A. Cheatham:::On-Line Incremental Routing for Interconnect Fault Tolerance in FPGAs Minus the Router .
+conf/dft/BolchiniPSS99:::Cristiana Bolchini::Luigi Pomante::Donatella Sciuto::Fabio Salice:::A Synthesis Methodology Aimed at Improving the Quality of TSC Devices.
+conf/dft/SunXT01:::Xiaoling Sun::Jian Xu::Pieter M. Trouborst:::Testing Xilinx XC4000 Configurable Logic Blocks with Carry Logic Modules.
+conf/dft/GraciaBGG01:::J. Gracia::J. C. Baraza::D. Gil::P. J. Gil:::Comparison and Application of Different VHDL-Based Fault Injection Techniques.
+conf/dft/Tewksbury01:::S. K. Tewksbury:::Challenges Facing Practical DFT for MEMS.
+conf/dft/KumarPA93:::Nagendra Kumar::Philippe O. Pouliquen::Andreas G. Andreou:::Device Mismatch Limitations on the Performance of a Hamming Distance Classifier.
+conf/dft/OhnishiN00:::Shigeru Ohnishi::Michinori Nishihara:::A New Light-Based Logic IC Screening Method.
+conf/dft/Piestrak97:::Stanislaw J. Piestrak:::Design of encoders and self-testing checkers for some systematic unidirectional error detecting codes.
+conf/dft/CiveraMRRV01:::Pierluigi Civera::Luca Macchiarulo::Maurizio Rebaudengo::Matteo Sonza Reorda::Massimo Violante:::Exploiting FPGA-Based Techniques for Fault Injection Campaigns on VLSI Circuits .
+conf/dft/NicolauBSSTT93:::P. Nicolau::J. Barbosa::M. Saraiva::Marcelino B. Santos::Isabel Teixeira::João Paulo Teixeira:::Realistic Fault Analysis of CMOS Analog Building Blocks.
+conf/dft/TragoudasD99:::Spyros Tragoudas::N. Denny:::Testing for Path Delay Faults Using Test Points.
+conf/dft/SegalBR99:::Julie Segal::Sergei Bakarian::Ron Ross:::Impact of Simulation Parameters on Critical Area Analysis.
+conf/dft/ChoiPLKP02:::M. Choi::Naphill Park::Fabrizio Lombardi::Yong-Bin Kim::Vincenzo Piuri:::Balanced Redundancy Utilization in Embedded Memory Cores for Dependable Systems.
+conf/csb/LoraineH02:::Ann E. Loraine::Gregg A. Helt:::Visualization Techniques for Genomic Data.
+conf/csb/SenoTM02:::Shigeto Seno::Reiji Teramoto::Hideo Matsuda:::P-quasi Complete Linkage Analysis for Gene-Expression Data.
+conf/csb/ImotoKGATKM02:::Seiya Imoto::Sunyong Kim::Takao Goto::Sachiyo Aburatani::Kousuke Tashiro::Satoru Kuhara::Satoru Miyano:::Bayesian Network and Nonparametric Heteroscedastic Regression for Nonlinear Modeling of Genetic Network.
+conf/csb/YangW02:::Jiong Yang::Wei Wang:::Towards Automatic Clustering of Protein Sequences.
+conf/csb/RavichandranVGBW02:::Veerasamy Ravichandran::Jiri Vondrásek::Gary Gilliland::T. N. Bhat::Alexander Wlodawer:::HIV Protease Structural Database.
+conf/csb/WangPFY02:::Haixun Wang::Chang-Shing Perng::Wei Fan::Philip S. Yu:::An Index Structure for Pattern Similarity Searching in DNA Microarray Dat.
+conf/crw/OccelloDB98:::Michel Occello::Yves Demazeau::Christof Baeijs:::Designing Organized Agents for Cooperation with Real Time Constaints.
+conf/csl/HonsellMST92:::Furio Honsell::Ian A. Mason::Scott F. Smith::Carolyn L. Talcott:::A Theory of Classes for a Functional Language with Effects.
+conf/csl/Schulz94:::Klaus U. Schulz:::On Existential Theories of List Concatenation.
+conf/csl/BaazV98:::Matthias Baaz::Helmut Veith:::Quantifier Elimination in Fuzzy Logic.
+conf/csl/FlogelKB90:::Andreas Flögel::Marek Karpinski::Hans Kleine Büning:::Subclasses of Quantified Boolean Formulas.
+conf/csl/FaggianH02:::Claudia Faggian::Martin Hyland:::Designs, Disputes and Strategies.
+conf/csl/RoccaR01:::Simona Ronchi Della Rocca::Luca Roversi:::Intersection Logic.
+conf/csl/Schmerl91:::Ulf R. Schmerl:::A Cut-Elimination Procedure Designed for Evaluating Proofs as Programs.
+conf/csl/Tyszkiewicz91:::Jerzy Tyszkiewicz:::Infinitary Queries and Their Asymptotic Probabilities I: Properties Definable in Transitive Closue Logic.
+conf/csl/Hoang98:::H. K. Hoang:::Choice Construct and Lindström Logics.
+conf/csl/Bezem01:::Marc Bezem:::An Improved Extensionality Criterion for Higher-Order Logic Programs.
+conf/csl/MetcalfeOG03:::George Metcalfe::Nicola Olivetti::Dov M. Gabbay:::Goal-Directed Calculli for Gödel-Dummett Logics.
+conf/csl/Blass93:::Andreas Blass:::Is Game Semantics Necessary?
+conf/csl/Mundici90:::Daniele Mundici:::The Complexity of Adaptive Error-Correcting Codes.
+conf/csl/UrbanPG03:::Christian Urban::Andrew M. Pitts::Murdoch Gabbay:::Nominal Unificaiton.
+conf/csl/ChenF03:::Yijia Chen::Jörg Flum:::Machine Characterization of the Classes of the W-Hierarchy.
+conf/csl/KolaitisP03:::Phokion G. Kolaitis::Jonathan Panttaja:::On the Complexity of Existential Pebble Games.
+conf/csl/Karpinski88:::Marek Karpinski:::Boolean Complexity of Algebraic Interpolation Problems.
+conf/csl/Schuster00:::Peter Schuster:::Elementary Choiceless Constructive Analysis.
+conf/csl/ArnborgPS90:::Stefan Arnborg::Andrzej Proskurowski::Detlef Seese:::Monadic Second Order Logic, Tree Automata and Forbidden Minors.
+conf/csl/Rauszer90:::Cecylia Rauszer:::Expansions and Models of Autoepistemic Theories.
+conf/csl/Lukasiewicz98:::Thomas Lukasiewicz:::Many-Valued First-Order Logics with Probabilistic Semantics.
+conf/csl/Penczek89:::Wojciech Penczek:::A Concurrent Branching Time Temporal Logic.
+conf/csl/StolboushkinT94:::Alexei P. Stolboushkin::Michael A. Taitslin:::Is First Order Contained in an Initial Segment of PTIME?
+conf/csl/FernandezM99:::Maribel Fernández::Ian Mackie:::Closed Reductions in the lambda-Calculus.
+conf/csl/Tammet94:::Tanel Tammet:::Completeness of Resolution for Definite Answers with Case Analysis.
+conf/csl/Pezzoli97:::Elena Pezzoli:::On the Computational Complexity of Type 2 Functionals.
+conf/csl/HonsellS99:::Furio Honsell::Donald Sannella:::Pre-logical Relations.
+conf/csl/CastilloDG95:::Giuseppe Del Castillo::Igor Durdanovic::Uwe Glässer:::An Evolving Algebra Abstract Machine.
+conf/csl/Leitsch89:::Alexander Leitsch:::Deciding Horn Classes by Hyperresolution.
+conf/csl/ChatterjeeJH03:::Krishnendu Chatterjee::Marcin Jurdzinski::Thomas A. Henzinger:::Simple Stochastic Parity Games.
+conf/csl/BlasiusH87:::Karl-Hans Bläsius::Ulrich Hedtstück:::Resolution with Feature Unification.
+conf/csl/Vollmer90:::Heribert Vollmer:::The Gap-Language-Technique Revisited.
+conf/csl/Leiss91:::Hans Leiß:::Towards Kleene Algebra with Recursion.
+conf/csl/Makowsky98:::Johann A. Makowsky:::Invariant Definability and P/<i>poly</i>.
+conf/csl/Kozen93:::Dexter Kozen:::Logical Aspects of Set Constraints.
+conf/csl/LenzW87:::Katja Lenz::Ingo Wegener:::The Conjunctive Complexity of Quadratic Boolean Functions.
+conf/csl/BonetG97:::Maria Luisa Bonet::Nicola Galesi:::Linear Lower Bounds and Simulations in Frege Systems with Substitutions.
+conf/csl/DrosteK95:::Manfred Droste::Dietrich Kuske:::Languages and Logical Definability in Concurrency Monoids.
+conf/csl/RuetF97:::Paul Ruet::François Fages:::Concurrent Constraint Programming and Non-commutative Logic.
+conf/csl/StepankovaS87:::Olga Stepánková::Petr Stepánek:::Developing Logic Programs: Computing Through Normalizing.
+conf/csl/EsikL02:::Zoltán Ésik::Hans Leiß:::Greibach Normal Form in Algebraically Complete Semirings.
+conf/csl/BonfanteCMT98:::Guillaume Bonfante::Adam Cichon::Jean-Yves Marion::Hélène Touzet:::Complexity Classes and Rewrite Systems with Polynomial Interpretation.
+conf/csl/Momigliano00:::Alberto Momigliano:::Elimination of Negation in a Logical Framework.
+conf/csl/Schwichtenberg91:::Helmut Schwichtenberg:::Minimal from Classical Proofs.
+conf/csl/Merkle96:::Wolfgang Merkle:::Exact Pairs for Abstract Bounded Reducibilities.
+conf/csl/BlassG00a:::Andreas Blass::Yuri Gurevich:::Choiceless Polynominal Time Computation and the Zero-One Law.
+conf/csl/Grandjean92:::Etienne Grandjean:::Linear Time Algorithms and NP-Complete Problems.
+conf/csl/DavidG03:::René David::Bruno Guillaume:::Strong Normalization of the Typed gamma<sub>ws</sub>-Calculus.
+conf/csl/ArieliA96:::Ofer Arieli::Arnon Avron:::Four-Valued Diagnoses for Stratified Knowledge-Bases.
+conf/csl/BorgerR90:::Egon Börger::Dean Rosenzweig:::From Prolog Algebras Towards WAM - A Mathematical Study of Implementation.
+conf/csl/BorgerS90:::Egon Börger::Peter H. Schmitt:::A Formal Operational Semantics for Languages of Type Prolog III.
+conf/csl/Johannsen95:::Jan Johannsen:::On Sharply Bounded Length Induction.
+conf/i3e/AltZ02:::Rainer Alt::Stefan Zbornik:::Integration of Electronic Services in the Execution of Business Transactions.
+conf/i3e/Foster01:::Jonathan Foster:::Towards a Democratic Education for E-Government.
+conf/i3e/TavaresPC02:::Luís Valadares Tavares::Manuel João Pereira::J. S. Coelho:::A Multidimensional Dynamic Regulation Model for E-Marketplaces: DYNEX.
+conf/i3e/NovaisNBM02:::Paulo Novais::José Neves::Luís Brito::José Machado:::Argumentative Procedures in eCommerce Environments.
+conf/i3e/HedmanK02:::Jonas Hedman::Thomas Kalling:::Analysing eBusiness Models.
+conf/i3e/NybergH01:::Annakarin Nyberg::Ola Henfridsson:::Learning About the Online Customer.
+conf/i3e/HenriksenAP02:::Helle Zinner Henriksen::Kim Viborg Andersen::Torben P. Pedersen:::IS Innovation: Adoption of B2B eCommerce.
+conf/i3e/RiegelsbergerSM02:::Jens Riegelsberger::Martina Angela Sasse::John D. McCarthy:::Eye-Catcher of Blind Spot? The Effect of Photographs of Faces on eCommerce Sites.
+conf/i3e/KuramitsuS01:::Kimio Kuramitsu::Ken Sakamura:::Tamper-Resistance Network.
+conf/i3e/Pedersen01:::Per E. Pedersen:::An Adoption Framework for Mobile Commerce.
+conf/dis/TsukimotoKMKHM00:::Hiroshi Tsukimoto::Mitsuru Kakimoto::Chie Morita::Yoshiaki Kikuchi::Eiko Hatakeyama::Yoshifumi Miyazaki:::Knowledge Discovery from fMRI Brain Images by Logical Regression Analysis.
+conf/dis/HiraishiKOM01:::Hironori Hiraishi::Hisayoshi Kato::Naonori Ohtsuka::Fumio Mizoguchi:::Web Site Rating and Improvement Based on Hyperlink Structure.
+conf/dis/RuizBB01:::Inmaculada Fortes Ruiz::José L. Balcázar::Rafael Morales Bueno:::Bounding Negative Information in Frequent Sets Algorithms.
+conf/dis/Murata00:::Tsuyoshi Murata:::Discovery of Web Communities Based on the Co-Occurence of References.
+conf/dis/Kim00:::Hyeoncheol Kim:::Computationally Efficient Heuristics for If-Then Rule Extraction from Freed-Forward Neural Networks.
+conf/dis/TanakaI98:::Takehiko Tanaka::Takashi Imajo:::Search for New Methods for Assignment of Complex Molecular Spectra and a Program Package for Simulation of Molecular Spectra.
+conf/dis/TanakaS01:::Yuzuru Tanaka::Tsuyoshi Sugibuchi:::Component-Based Framework for Virtual Information Materialization.
+conf/dis/GrundelNWGRS01:::Hans Gründel::Tino Naphtali::Christian Wiech::Jan-Marian Gluba::Maiken Rohdenburg::Tobias Scheffer:::Clipping and Analyzing News Using Machine Learning Techniques.
+conf/dis/YoshidaK98:::Tetsuya Yoshida::Teruyuki Kondo:::Discovering Conceptual Differences among People from Cases.
+conf/dis/FrankHKH02:::Eibe Frank::Geoffrey Holmes::Richard Kirkby::Mark Hall:::Racing Committees for Large Datasets.
+conf/dis/HorvathW01:::Tamás Horváth::Stefan Wrobel:::Towards Discovery of Deep and Wide First-Order Structures: A Case Study in the Domain of Mutagenicity.
+conf/dis/SaniepourF98:::Shadan Saniepour::Behrouz H. Far:::Mining Adaptation Rules from Cases in CBR Systems.
+conf/dis/MatsuiISI98:::Tohgoroh Matsui::Nobuhiro Inuzuka::Hirohisa Seki::Hidenori Itoh:::Parallel Induction Algorithms for Large Samples.
+conf/dis/HiraoHSTA00:::Masahiro Hirao::Hiromasa Hoshino::Ayumi Shinohara::Masayuki Takeda::Setsuo Arikawa:::A Practical Algorithm to Find the Best Subsequence Patterns.
+conf/dis/MaruyamaUSM98:::Osamu Maruyama::Tomoyuki Uchida::Takayoshi Shoudai::Satoru Miyano:::Toward Genomic Hypothesis Creator: View Designer for Discovery.
+conf/dis/HirokawaT98:::Sachio Hirokawa::Tsuyoshi Taguchi:::KN on ZK - Knowledge Network on Network Note Pad ZK.
+conf/dis/KruseB02:::Rudolf Kruse::Christian Borgelt:::Data Mining with Graphical Models.
+conf/dis/YamadaIH02:::Yasuhiro Yamada::Daisuke Ikeda::Sachio Hirokawa:::Automatic Wrapper Generation for Multilingual Web Resources.
+conf/dis/BardzinsFS98:::Janis Bardzins::Rusins Freivalds::Carl H. Smith:::A Logic of Discovery.
+conf/dis/Darden01:::Lindley Darden:::Discovering Mechanisms: A Computational Philosophy of Science Perspective.
+conf/dis/KameyaUS98:::Yoshitaka Kameya::Nobuhisa Ueda::Taisuke Sato:::A Graphical Method for Parameter Learning of Symbolic-Statistical Models.
+conf/dis/OhsawaY98a:::Yukio Ohsawa::Masahiko Yachida:::Discover Risky Active Faults by Indexing an Earthquake Sequence.
+conf/dis/RodriguesRH98:::Maria de Fatima Rodrigues::Carlos Ramos::Pedro Rangel Henriques:::Extracting Knowledge Patterns from Ticket Data.
+conf/dis/KameyaS98:::Yoshitaka Kameya::Taisuke Sato:::Abstracting a Human's Decision Process by PRISM.
+conf/dis/Tseng98:::Shin-Mu Tseng:::Efficient Mining of Association Rules with Item Constraints.
+conf/dis/IchiseSL02:::Ryutaro Ichise::Daniel G. Shapiro::Pat Langley:::Learning Hierarchical Skills from Observation.
+conf/dis/KandaHO01:::Kouta Kanda::Makoto Haraguchi::Yoshiaki Okubo:::Constructing Approximate Informative Basis of Association Rules.
+conf/dlt/BassinoCN02:::Frédérique Bassino::Julien Clément::Cyril Nicaud:::The Average Lengths of the Factors of the Standard Factorization of Lyndon Words.
+conf/dlt/Plandowski03:::Wojciech Plandowski:::Test Sets for Large Families of Languages.
+conf/dlt/GvozdjakR95:::Peter Gvozdjak::Branislav Rovan:::Time-Bounded Parallel Rewriting.
+conf/dlt/Banik95:::Igor Baník:::Colonies as Systems of Turing Machines Without States.
+conf/dlt/Lischke01:::Gerhard Lischke:::The Root of a Language and Its Complexity.
+conf/dlt/KutribR95:::Martin Kutrib::Jörg Richstein:::Real-Time One-Way Pushdown Cellular Automata Languages.
+conf/dlt/Weber95:::Andreas Weber:::Transforming a Single-Valued Transducer Into a Mealy Machine.
+conf/dlt/HromkovicRS93:::Juraj Hromkovic::Branislav Rovan::Anna Slobodová:::Deterministic Versus Nondeterministic Space in Terms of Synchronized Alternating Machines.
+conf/dlt/EhrenfeuchtHPR93:::Andrzej Ehrenfeucht::Hendrik Jan Hoogeboom::Paulien ten Pas::Grzegorz Rozenberg:::An Introduction to Context-free Text Grammars.
+conf/dlt/Adorna02:::Henry N. Adorna:::On the Separation between k-Party and (k-1)-Party Nondeterministic Message Complexities.
+conf/dlt/Domaratzki02:::Michael Domaratzki:::Improved Bounds on the Number of Automata Accepting Finite Languages.
+conf/dlt/Giammarresi03:::Dora Giammarresi:::Computing Languages by (Bounded) Local Sets.
+conf/dlt/Giammarresi95:::Dora Giammarresi:::Finite State Recognizability for Two-Dimensional Languages: A Brief Survey.
+conf/dlt/Csuhaj-VarjuV01:::Erzsébet Csuhaj-Varjú::György Vaszil:::Parallel Communicating Grammar Systems with Incomplete Information Communication.
+conf/dlt/Satta95:::Giorgio Satta:::The Membership Problem for Unordered Vector Languages.
+conf/dlt/GomezP03:::Antonio Cano Gómez::Jean-Eric Pin:::On a Conjecture of Schnoebelen.
+conf/dlt/Hoogeboom01:::Hendrik Jan Hoogeboom:::Context-Free Valence Grammars - Revisited.
+conf/dlt/Kuske01:::Dietrich Kuske:::Recognizable Sets of N-Free Pomsets Are Monadically Axiomatizable.
+conf/dlt/DrosteK95:::Manfred Droste::Dietrich Kuske:::Trace Languages Definable with Modular Quantifiers.
+conf/dlt/Malcher03:::Andreas Malcher:::Minimizing Finite Automata Is Computationally Hard.
+conf/dlt/KelemenovaV93:::Alica Kelemenová::Peter Vajgel:::Productions in Stable OL-Systems.
+conf/dlt/NiemannW01a:::Gundula Niemann::Johannes Waldmann:::Some Regular Languages That Are Church-Rosser Congruential.
+conf/dlt/FreundMOP03:::Rudolf Freund::Carlos Martín-Vide::Adam Obtulowicz::Gheorghe Paun:::On Three Classes of Automata-Like P Systems.
+conf/dna/EhrenfeuchtHPR01:::Andrzej Ehrenfeucht::Tero Harju::Ion Petre::Grzegorz Rozenberg:::Patterns of Micronuclear Genes in ciliates.

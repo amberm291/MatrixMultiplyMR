@@ -1,0 +1,200 @@
+conf/ppsc/DongarraGW93:::Jack Dongarra::Robert A. van de Geijn::R. Clinton Whaley:::Two Dimensional Basic Linear Algebra Communication Subprograms.
+conf/ppsc/GuptaKS93:::Anshul Gupta::Vipin Kumar::Ahmed H. Sameh:::Performance and Scalability of Preconditioned Conjugate Gradient Methods on the CM-5.
+conf/ppsc/BischofL85:::Christian Bischof::Charles van Loan:::The WY representation for products of householder matrices.
+conf/ppsc/Yang99:::Chao Yang:::A Parallel Library for Large-Scale Sparse Eigenvalue Calculation on NEC SX-4.
+conf/ppsc/CastilloS97:::Paul Castillo::Yousef Saad:::Tensor Sum Approximation Preconditioners.
+conf/ppsc/HansonPVX93:::Floyd B. Hanson::C. J. Pratico::M. S. Vetter::H. H. Xu:::Multidimensional Visualization Applied to Renewable Resource Management.
+conf/ppsc/Stalzer95:::Mark A. Stalzer:::Parallelizing the Fast Multipole Method for the Helmholtz Equation.
+conf/ppsc/Takahashi01:::Daisuke Takahashi:::A Mixed-Radix Parallel Three-Dimensional FFT Algorithm on Clusters of Vector SMPs.
+conf/ppsc/VenkatakrishnanS89:::V. Venkatakrishnan::Joel H. Saltz:::Domain Decomposition Methods in Aerodynamics.
+conf/ppsc/Yang97b:::Daoqi Yang:::A Parallel Non-Overlapping Schwarz Domain Decomposition Algorithm for Elliptic Partial Differential Equations.
+conf/ppsc/KhaliqV93:::Abdul-Qayyum M. Khaliq::Dave A. Voss:::A Parallel Fourth Order Method for Second Order Hyperbolic Partial Differential Equations.
+conf/ppsc/BadenK91:::Scott B. Baden::Scott R. Kohn:::A Comparison of Load Balancing Strategies for Particle Methods Running on MIMD Multiprocessors.
+conf/ppsc/dAstDK93:::Isabelle d'Ast::Michel J. Daydé::Azzedine Kourta:::Parallelization of a Two-dimensional Compressible Unsteady Navier-Stokes Solver on a Range of MIMD Computers.
+conf/ppsc/FosterKKC97:::Ian T. Foster::David R. Kohr Jr.::Rakesh Krishnaiyer::Alok N. Choudhary:::HPF-MPI: A Programming System Supporting Task and Data Parallelism.
+conf/ppsc/GangulyBNC97:::Bishwaroop Ganguly::Greg Bryan::Michael L. Norman::Andrew A. Chien:::Exploring Structured Adaptive Mesh Refinement (SAMR) Methods with the Illinois Concert System.
+conf/ppsc/SloneAW99:::Dale M. Slone::Maurice B. Aufderheide::Alexis Schach von Wittenau:::Radiographic Simulations and Analysis for ASCI.
+conf/ppsc/FuentesT95:::Emilio Fuentes::Paul J. Turinsky:::Core-Wide Parallel Implementation of the IC and CCCP Methods.
+conf/ppsc/JespersenL93:::Dennis Jespersen::Creon Levit:::A Multiple-Grid Navier-Stokes Code for the Connection Machine CM-2.
+conf/ppsc/PaprzychiG91:::Marcin Paprzycki::Ian Gladwell:::Using Level 3 BLAS to Solve Almost Block Diagonal Systems.
+conf/ppsc/KonnoYSU87:::Chisato Konno::Michiru Yamabe::Miyuki Saji::Yukio Umetani:::The BF (Boundary-Fitted) Coordinate Transformation Technique of DEQSOL (Differential EQuation SOlver Language).
+conf/ppsc/PlimptonSWJ91:::Steve Plimpton::Isaac Shokair::John Wagner::Jeff Jortner:::Load-Balancing and Performance of a Gridless Particle Simulation on MIMD, SIMD, and Vector Supercomputers.
+conf/ppsc/KohnB95:::Scott R. Kohn::Scott B. Baden:::The Parallelization of an Adaptive Multigrid Eigenvalue Solver with LPARX.
+conf/ppsc/MonienD97:::Burkhard Monien::Ralf Diekmann:::A Local Graph Partitioning Heuristic Meeting Bisection Bounds.
+conf/ppsc/FreitagJP97:::Lori A. Freitag::Mark Jones::Paul E. Plassmann:::A Parallel Algorithm for Mesh Smoothing.
+conf/ppsc/Ariyawansa91:::K. A. Ariyawansa:::Performance of a Benchmark Implementation of the Van Slyke and Wets Algorithm for Stochastic Programs on the Alliant FX/8.
+conf/ppsc/CavenderZ95:::Mark E. Cavender::Xiaodong Zhang:::Asynchronous PVM Network Computing.
+conf/ppsc/SaltzNN85:::Joel H. Saltz::Vijay K. Naik::David M. Nicol:::Reduction of the effects of the communication delays in scientific algorithms on message passing MIMD architectures.
+conf/ppsc/VoorstPJ97:::Brian Van Voorst::Luiz Pires::Rakesh Jha:::A Real-Time Parallel Benchmark Suite.
+conf/ppsc/Mitchell99:::William F. Mitchell:::A Comparison of Three Fast Repartition Methods for Adaptive Grids.
+conf/ppsc/Zhang99:::Hong Zhang:::Parallel Symbolic and Numeric Algorithm for Polynomial Zeros.
+conf/ppsc/SkjellumB95:::Anthony Skjellum::Purushotham Bangalore:::Driving Issues in Scalable Libraries: Poly-Algorithms, Data Distribution Independence, Redistribution, Local Storage Schemes.
+conf/ppsc/DAzevedoR95:::Eduardo F. D'Azevedo::Charles H. Romine:::DOLIB: Distributed Object Library.
+conf/ppsc/SunCLH99:::Xian-He Sun::Kirk W. Cameron::Yong Luo::Dongmei He:::A Memory-Centric Characterization of ASCI Applications Via a Combined Approach of Statistical and Empirical Analysis.
+conf/ppsc/BarnardS95:::Stephen T. Barnard::Horst D. Simon:::A Parallel Implementation of Multilevel Recursive Spectral Besection for Application to Adaptive Unstructured Meshes.
+conf/ppsc/MascagniCPR93:::Michael Mascagni::Steven A. Cuccaro::Daniel V. Pryor::M. L. Robinson:::Recent Developments in Parallel Pseudorandom Number Generation.
+conf/ppsc/Smith93:::Kevin A. Smith:::Multi-Processor Based Accident Using PVM.
+conf/ppsc/PiaultWR95:::E. Piault::F. Willien::François-Xavier Roux:::Parallel Solvers for Reservoir Simulation on MIMD Computers.
+conf/ppsc/NumrichB91:::Robert W. Numrich::Paul R. Borman:::Parallel Distributed Supercomputing in a Heterogeneous Environment Using High-Speed Communication Links.
+conf/ppsc/JoubertC93:::Wayne Joubert::Graham F. Carey:::PCG: A Software Package for the Iterative Solution of Linear Systems on Scalar, Vector and Parallel Computers.
+conf/ppsc/BalsaraQ97:::Dinshaw S. Balsara::Daniel J. Quinlan:::Parallel Object-Oriented Adaptive Mesh Refinement.
+conf/ppsc/MatsumotoN99:::Makoto Matsumoto::Takuji Nishimura:::The Dynamic Creation of Distributed Random Number Generators.
+conf/ppsc/LapegnaD93:::Marco Lapegna::Alessandra D'Alessio:::A Scalabel Parallel Algorithm for the Adaptive Multidimensional Quadrature.
+conf/ppsc/SawleyTC95:::Mark L. Sawley::Jon K. Tegnér::Peter V. Corbett:::Parallel Multi-Block Methods for Computational Fluid Dynamics.
+conf/ppsc/BurrusS99:::C. Sidney Burrus::Ivan W. Selesnick:::Parallel Structured Prime Length FFTs.
+conf/ppsc/Eijkhout99:::Victor Eijkhout:::Multilevel Preconditioners Based on Domain Partitioning.
+conf/ppsc/Meurant87:::Gérard Meurant:::Incomplete Domain Decomposition Preconditioners for the Conjugate Gradient Method.
+conf/ppsc/GallivanMW89:::Kyle Gallivan::Bret A. Marsolf::Harry A. G. Wijshoff:::A Large-Grain Parallel Sparse System Solver.
+conf/ppsc/HeijstekSG95:::J. J. Heijstek::F. N. C. Slothouber::V. V. Goldman:::Automatic Code Generation for Parallel Finite Element Solvers.
+conf/ppsc/AgarwalGJZ95:::Ramesh C. Agarwal::Fred G. Gustavson::Mahesh V. Joshi::Mohammad Zubair:::A Scalable Parallel Block Algorithm for Band Cholesky Factorization.
+conf/ppsc/Stark91:::Scott Stark:::Stochastic Global Optimization Applied to Reaction Network Parameter Estimation.
+conf/ppsc/JohnsonG97:::Elizabeth Johnson::Dennis Gannon:::Programming with the HPC++ Parallel Standard Template Library.
+conf/ppsc/Chatterjee95:::Siddhartha Chatterjee:::Locality, Communication, and Code Generation for Array-Parallel Languages.
+conf/ppsc/ChronopoulosP91:::Anthony T. Chronopoulos::Michael Pernice:::Vector Preconditioned <i>s</i>-Step Methods on the IBM 3090/6005/6VF.
+conf/ppsc/YoussefiD97:::John A. Youssefi::George Driver:::File Access Methods on Parallel Processing.
+conf/ppsc/DariBL99:::Enzo A. Dari::Gustavo C. Buscaglia::Adrian Lew:::A Parallel General Purpose Finite Element System.
+conf/ppsc/NaikS95:::Vijay K. Naik::Mark S. Squillante:::Analysis of Cache Effects and Resource Scheduling in Distributed Parallel Processing Systems.
+conf/ppsc/AndersonD89:::Ed Anderson::Jack Dongarra:::Evaluating Block Algorithm Variants in LAPACK.
+conf/ppsc/PittsRW93:::George G. Pitts::Calvin J. Ribbens::Layne T. Watson:::Domain Decomposition and High Order Finite Differences for Elliptic PDEs.
+conf/ppsc/HenonRR01:::Pascal Hénon::Pierre Ramet::Jean Roman:::PASTIX: A Parallel Direct Solver for Sparse SPD Matrices based on Efficient Static Scheduling and Memory Managment.
+conf/ppsc/HeinreichsbergerSS91:::O. Heinreichsberger::Siegfried Selberherr::M. Stiftinger:::Three-Dimensional MOS Device Simulation on a Connection Machine.
+conf/ppsc/LeisersonL87:::Charles E. Leiserson::John G. Lewis:::Orderings for Parallel Sparse Symmetric Factorization.
+conf/ppsc/LewisLST95:::E. Christopher Lewis::Calvin Lin::Lawrence Snyder::George Turkiyyah:::A Portable Parallel N-Body Solver.
+conf/ppsc/KumarKG97:::Vipin Kumar::George Karypis::Ananth Grama:::Role of Message-Passing in Performance Oriented Parallel Programming.
+conf/ppsc/Ghosh01:::Somnath Ghosh:::Cache Miss Equations: Compiler Analysis Framework for Tuning Memory Behavior.
+conf/ppsc/HuangH01:::Chun-Hsi Huang::Xin He:::Parallel Range Searching in Large Databases Based on General Parallel Prefix Computation.
+conf/ppsc/OehmkeS01:::Robert H. Oehmke::Quentin F. Stout:::Parallel Adaptive Blocks on a Sphere.
+conf/ppsc/WangLKI95:::Jason C. H. Wang::Han Lung::Yasunori Katsumata::Takahiro Ishigai:::Using Domain Decomposition in the Multigrid NAS Parallel Benchmark on the Fujitsu VPP500.
+conf/ppsc/Nour-OmidO87:::Bahram Nour-Omid::Michael Ortiz:::A Family of Concurrent Algorithms for the Solution of Transient Finite Element Equations-Abstract.
+conf/ppsc/Nemecek93:::Stephen M. Nemecek:::Parallel Programming in 2 Dimensions (||pi<sup> <i>2D</i> </sup>).
+conf/ppsc/HeberBG99:::Gerd Heber::Rupak Biswas::Guang R. Gao:::Self-Avoiding Walks Over Adaptive Triangular Grids.
+conf/ppsc/MiddletonMR95:::David Middleton::Piyush Mehrotra::John Van Rosendale:::Expressing Direct Simulation Monte Carlo Methods in High Performance.
+conf/ppsc/Jessup89:::Elizabeth R. Jessup:::Efficient Implementation of Sturm Sequence Methods for the Parallel Computation of Eigenvalues.
+conf/ppsc/Haddad89:::Emile Haddad:::Variation of Parallel Processing Time with Continuously Partitioned Load Allocation.
+conf/ppsc/ParlettF95:::Beresford N. Parlett::K. Vince Fernando:::Singular Vectors via Differential qd.
+conf/ppsn/Back94:::Thomas Bäck:::Parallel Optimization of Evolutionary Algorithms.
+conf/ppsn/FonluptRP98:::Cyril Fonlupt::Denis Robilliard::Philippe Preux:::A Bit-Wise Epistasis Measure for Binary Search Spaces.
+conf/ppsn/WatsonHP98:::Richard A. Watson::Gregory Hornby::Jordan B. Pollack:::Modeling Building-Block Interdependency.
+conf/ppsn/Gorges-Schleuter90:::Martina Gorges-Schleuter:::Explicit Parallelism of Genetic Algorithms through Population Structures.
+conf/ppsn/Pal94:::Károly F. Pál:::Selection Schemes with Spatial Isolation for Genetic Optimization.
+conf/ppsn/Beyer98:::Hans-Georg Beyer:::Mutate Large, But Inherit Small! On the Analysis of Rescaled Mutations in 1-lambda-ES with Noisy Fitness Data.
+conf/ppsn/CampSX92:::W. O. Camp Jr.::Jan Van der Spiegel::Min Xiao:::A Silicon VLSI Optical Sensor Based on Mammalian Vision.
+conf/ppsn/LienigB94:::Jens Lienig::Holger Brandt:::An Evolutionary Algorithm for the Routing of Multi-Chip Modules.
+conf/ppsn/Hulin90:::Martin Hulin:::Circuit Partitioning with Genetic Algorithms Using a Coding Scheme to Preserve the Structure of a Circuit.
+conf/ppsn/MoriKN98:::Naoki Mori::Hajime Kita::Yoshikazu Nishikawa:::Adaptation to a Changing Environment by Means of the Feedback Thermodynamical Genetic Algorithm.
+conf/ppsn/SullivanP96:::J. C. W. Sullivan::Anthony G. Pipe:::An Evolution Strategy for On-line Optimisation of Dynamic Objective Functions.
+conf/ppsn/Jacob94:::Christian Jacob:::Genetic L-System Programming.
+conf/ppsn/CarseF94:::Brian Carse::Terence C. Fogarty:::A Fuzzy Classifier System Using the Pittsburgh Approach.
+conf/ppsn/HagemanWGMB00:::J. A. Hageman::Ron Wehrens::R. de Gelder::W. L. Meerts::Lutgarde M. C. Buydens:::Fitting Fluorescence Spectra with Genetic Algorithms.
+conf/ppsn/JelasityPE02:::Márk Jelasity::Mike Preuß::A. E. Eiben:::Operator Learning for a Problem Class in a Distributed Peer-to-Peer Environment.
+conf/ppsn/CottaM02:::Carlos Cotta::Pablo Moscato:::Inferring Phylogenetic Trees Using Evolutionary Algorithms.
+conf/ppsn/Dessalles92:::J. L. Dessalles:::Biomimetic Use of Genetic Algorithms.
+conf/ppsn/BullF96:::Lawrence Bull::Terence C. Fogarty:::Evolutionary Computing in Multi-Agent Environments: Specification and Symbiogenesis.
+conf/ppsn/BullS02:::Larry Bull::Matt Studley:::Consideration of Multiple Objectives in Neural Learning Classifier Systems.
+conf/ppsn/Tsutsui02:::Shigeyoshi Tsutsui:::Probabilistic Model-Building Genetic Algorithms in Permutation Representation Domain Using Edge Histogram.
+conf/ppsn/Tsutsui98:::Shigeyoshi Tsutsui:::Multi-parent Recombination in Genetic Algorithms with Search Space Boundary Extension by Mirroring.
+conf/ppsn/RomeroACCCMPR00:::Gustavo Romero::Maribel García Arenas::J. G. Castellano::Pedro A. Castillo Valdivieso::J. Caprio::Juan J. Merelo Guervós::Alberto Prieto::Víctor Manuel Rivas Santos:::Evolutionary Computation Visualization: Application to G-PROP.
+conf/ppsn/Richter02:::Hendrik Richter:::An Evolutionary Algorithm for Controlling Chaos: The Use of Multi-objective Fitness Functions.
+conf/ppsn/Forsyth96:::Richard S. Forsyth:::IOGA: An Instance-Oriented Genetic Algorithm.
+conf/ppsn/MathiasSEM98:::Keith E. Mathias::J. David Schaffer::Larry J. Eshelman::M. Mani:::The Effects of Control Parameters and Restarts on Search Stagnation in Evolutionary Programming.
+conf/ppsn/TusonR96:::Andrew Tuson::Peter Ross:::Cost Based Operator Rate Adaption: An Investigation.
+conf/ppsn/EckertG02:::Christoph Eckert::Jens Gottlieb:::Direct Representation and Variation Operators for the Fixed Charge Transportation Problem.
+conf/ppsn/LaumannsRS98:::Marco Laumanns::Günter Rudolph::Hans-Paul Schwefel:::A Spatial Predator-Prey Approach to Multi-objective Optimization: A Preliminary Study.
+conf/ppsn/BullWP02:::Larry Bull::David Wyatt::Ian C. Parmee:::Initial Modifications to XCS for Use in Interactive Evolutionary Design.
+conf/ppsn/SchoneveldRSK96:::Arjen Schoneveld::Jan F. de Ronde::Peter M. A. Sloot::J. A. Kaandorp:::A Parallel Cellular Genetic Algorithm Used in Finite Element Simulation.
+conf/ppsn/CorneOK02:::David Corne::Martin J. Oates::Douglas B. Kell:::On Fitness Distributions and Expected Fitness Gain of Mutation Rates in Parallel Evolutionary Algorithms.
+conf/ppsn/Paredis90:::Jan Paredis:::The Emergence of Data Structures from Local Interactions.
+conf/ppsn/Paredis96:::Jan Paredis:::Coevolutionary Life-Time Learning.
+conf/ppsn/ZlochinD02:::Mark Zlochin::Marco Dorigo:::Model-Based Search for Combinatorial Optimization: A Comparative Study.
+conf/ppsn/JanikowC92:::Cezary Z. Janikow::H. Cai:::A Genetic Algorithm Application in Nonparametric Functional Estimation.
+conf/ppsn/HemertB02:::Jano I. van Hemert::Thomas Bäck:::Measuring the Searched Space to Guide Efficiency: The Principle and Evidence on Constraint Satisfaction.
+conf/ppsn/AsohM94a:::Hideki Asoh::Heinz Mühlenbein:::Estimating the Heritability by Decomposing the Genetic Variance.
+conf/ppsn/MatsuiWT02:::Shouichi Matsui::Isamu Watanabe::Ken-ichi Tokoro:::A Parameter-Free Genetic Algorithm for a Fixed Channel Assignment Problem with Limited Bandwidth.
+conf/ppsn/CordonHL96:::Oscar Cordón::Francisco Herrera::Manuel Lozano:::A Three-Stage Method for Designing Genetic Fuzzy Systems by Learning from Examples.
+conf/ppsn/Whitley00:::L. Darrell Whitley:::Functions as Permutations: Regarding No Free Lunch, Walsh Analysis and Summary Statistics.
+conf/ppsn/DulkB00:::Paul den Dulk::Martijn Brinkers:::Evolution of Altruism in Viscous Populations: Effects of Altruism on the Evolution of Migrating Behavior.
+conf/ppsn/HesserM92:::Jürgen Hesser::Reinhard Männer:::Investigation of the M-Heuristic for Optimal Mutation Probabilities.
+conf/ppsn/RichardsS96:::Robert A. Richards::Sheri D. Sheppard:::A Learning Classifier System for Three-Dimensional Shape Optimization.
+conf/ppsn/GottliebV00:::Jens Gottlieb::Nico Voss:::Adaptive Fitness Functions for the Satisfiability Problem.
+conf/ppsn/MerzZ02:::Peter Merz::Andreas Zell:::Clustering Gene Expression Profiles with Memetic Algorithms.
+conf/ppsn/HusbandsMW90:::Phil Husbands::Frank Mill::Stephen Warrington:::Genetic Algorithms, Production Plan Optimisation, and Scheduling.
+conf/ppsn/Seredynski98:::Franciszek Seredynski:::Discovery with Genetic Algorithm Scheduling Strategies for Cellular Automata.
+conf/ppsn/OchoaMS00:::Alberto Ochoa::Heinz Mühlenbein::Marta Soto:::A Factorized Distribution Algorithm Using Single Connected Bayesian Networks.
+conf/ppsn/KeerativuttitumrongCV02:::Nattavut Keerativuttitumrong::Nachol Chaiyaratana::Vara Varavithya:::Multi-objective Co-operative Co-evolutionary Genetic Algorithm.
+conf/ppsn/Laussermair92:::Thomas Laußermair:::Hyperplane Annealing and Activator-Inhibitor-Systems.
+conf/ppsn/Garis90:::Hugo de Garis:::Genetic Programming: Artificial Nervous Systems, Artificial Embryos and Embryological Electronics.
+conf/ppsn/IorioL02:::Antony Iorio::Xiaodong Li:::Parameter Control within a Co-operative Co-evolutionary Genetic Algorithm.
+conf/ppsn/WaltonS00:::N. Walton::G. D. Smith:::The Origination of Diversity by Adaptive Clustering.
+conf/ppsn/BessaouPS00:::Mourad Bessaou::Alain Pétrowski::Patrick Siarry:::Island Model Cooperating with Speciation for Multimodal Optimization.
+conf/ppsn/Schlierkamp-VoosenM94:::Dirk Schlierkamp-Voosen::Heinz Mühlenbein:::Strategy Adaption by Competing Subpopulations.
+conf/ppsn/Ochoa00:::Gabriela Ochoa:::Consensus Sequence Plots and Error Thresholds: Tools for Visualising the Structure of Fitness Landscapes.
+conf/ppsn/ArenasCEJGPPS02:::Maribel García Arenas::Pierre Collet::A. E. Eiben::Márk Jelasity::Juan J. Merelo Guervós::Ben Paechter::Mike Preuß::Marc Schoenauer:::A Framework for Distributed Evolutionary Algorithms.
+conf/pris/PujolLAV01:::Albert Pujol::Antonio M. López::Jose Luis Alba::Juan J. Villanueva:::Ridges, Valleys and Hausdorff Based Similarity Measures for Face Description and Matching .
+conf/pris/KimO02:::Sang-Woon Kim::B. John Oommen:::On Utilizing LVQ3-Type Algorithms to Enhance Prototype Reduction Schemes.
+conf/pris/FlorezGGH02:::Francisco Flórez::Juan Manuel García::José García::Antonio Hernández:::Representation of 2D Objects with a Topology Preserving Network.
+conf/pris/SotocaSP03:::José Martínez Sotoca::José Salvador Sánchez::Filiberto Pla:::Estimating Feature Weights For Distance-Based Classification.
+conf/pris/GuisadoG02:::Miguel Angel Patricio Guisado::Darío Maravall Gómez-Allende:::Segmentation of Digital Angiograms with the Connected Elements Histogram.
+conf/psls/KaleRA95:::Laxmikant V. Kalé::Ben H. Richards::Terry D. Allen:::Efficient Parallel Graph Coloring with Prioritization.
+conf/pstv/BarM94:::Brigitte Bär::Andreas Mann:::A methodology for conformance testing of managed objects.
+conf/pstv/BarS92:::Udo Bär::Jürgen M. Schneider:::Automated Validation of TTCN Test Suites.
+conf/pstv/Kritzinger87:::Pieter S. Kritzinger:::Protocol Performance Using Image Protocols.
+conf/pstv/VissersSP93:::Chris A. Vissers::Marten van Sinderen::Luís Ferreira Pires:::What Makes Industries Believe in Formal Methods.
+conf/pstv/JurgensenV84:::Wolfgang Jürgensen::Son T. Vuong:::CSP and CSP Nets: A Dual Model for Protocol Specification and Verification.
+conf/pstv/JanssenZ93:::Wil Janssen::Job Zwiers:::Specifiying and Proving Communication Closedness in Protocols.
+conf/pstv/LiuM94:::Hong Liu::Raymond E. Miller:::Generalized fair reachability analysis for cyclic protocols: part 1.
+conf/pstv/Sere91:::Kaisa Sere:::Stepwise Refinement of Reactive Processor Farms.
+conf/pstv/RafiqCCGHP85:::Omar Rafiq::Richard Castanet::Chakib Chraibi::J. P. Goursaud::J. Haddad::X Perdu:::Towards an environment for testing OSI protocols.
+conf/pstv/Freudenmann87:::Johannes Freudenmann:::Development of Communication Software by Stepwise Refinement.
+conf/pstv/Muralidhar87:::K. H. Muralidhar:::Network Management and Directory Services Test System.
+conf/pstv/Garavel95:::Hubert Garavel:::On the introduction of gate typing in E-LOTOS.
+conf/pstv/Sajkowski84:::Michal Sajkowski:::Protocol Verification Techniques: Status Quo and Perspectives.
+conf/pstv/SchwabeC84:::Daniel Schwabe::Ana R. Cavalli:::Temporal Logic Specification of a Virtual Ring LAN Access Protocol.
+conf/pstv/Dalal82:::Yogen K. Dalal:::Service Specifications for Recursively-Defined Protocols.
+conf/pstv/Razouk82:::Rami R. Razouk:::Modeling X.25 Using the Graph Model of Behavior.
+conf/pstv/Calvert94:::Kenneth L. Calvert:::Specifying and verifying conditional progress.
+conf/pstv/BenkhellatT94:::Y. Benkhellat::Jean-Pierre Thomesse:::Validation of timing properties for interoperability in distributed real-time applications.
+conf/pstv/AggarwalK84:::S. Aggarwal::Robert P. Kurshan:::Automated Implementation from Formal Specification.
+conf/pstv/ChoquetFM85:::N. Choquet::Laurent Fribourg::A. Mauboussin:::Runnable protocol specifications using the logic interpreter SLOG.
+conf/pstv/GhribiL93:::Brahim Ghribi::Luigi Logrippo:::A Validation Environment for LOTOS.
+conf/pstv/FantechiGR90:::Alessandro Fantechi::Stefania Gnesi::Gioia Ristori:::Compositional logic semantics and LOTOS.
+conf/pstv/YelowitzGH82:::Lawrence Yelowitz::Susan L. Gerhart::G. Hilborn:::Modeling a Network Protocol in AFFIRM and Ada.
+conf/pstv/AnsartRC82:::Jean-Pierre Ansart::Omar Rafiq::V. Chari:::PDIL-Protocol Description and Implementation Language.
+conf/pstv/MillerP92:::Raymond E. Miller::Sanjoy Paul:::Generating Conformance Test Sequences for Combined Control and Data Flow of Communication Protocols.
+conf/pstv/OharaYK87:::Yasuhiro Ohara::Shizuo Yoshitake::Tsukasa Kawaoka:::Protocol Conversion Method for Heterogeneous Systems Interconnection in Multi-Profile Environment.
+conf/pstv/FaciLS89:::Mohammed Faci::Luigi Logrippo::Bernard Stepien:::Formal Specifications of Telephone Systems in LOTOS.
+conf/pstv/KrishnakumarKS87:::A. S. Krishnakumar::B. Krishnamurthy::Krishan K. Sabnani:::Translation of Formal Protocol Specifications to VLSI Designs.
+conf/pstv/SteenBD95:::Maarten Steen::Howard Bowman::John Derrick:::Composition of LOTOS specifications.
+conf/pstv/ShankarL82:::A. Udaya Shankar::Simon S. Lam:::On Time-Dependent Communication Protocols and Their Projections.
+conf/pstv/AndersonL84:::David P. Anderson::Lawrence H. Landweber:::Protocol Specification by Real-Time Attribute Grammars.
+conf/pstv/SarikayaB82:::Behçet Sarikaya::Gregor von Bochmann:::Some Experience with Test Sequence Generation for Protocols.
+conf/pstv/BolognesiS87:::Tommaso Bolognesi::Scott A. Smolka:::Fundamental Results for the Verification of Observational Equivalence: A Survey.
+conf/pstv/BolognesiLT90:::Tommaso Bolognesi::Ferdinando Lucidi::Sebastiano Trigila:::From timed Petri nets to timed LOTOS.
+conf/pstv/Pradin-ChezalvielD89:::Brigitte Pradin-Chezalviel::Michel Diaz:::Axioms of Communication Using Temporal Logic with Past.
+conf/pstv/DembinskiB87:::Piotr Dembinski::Stanislaw Budkowski:::Simulating Estelle Specifications with Time Parameters.
+conf/pstv/RazoukP84:::Rami R. Razouk::Charles V. Phelps:::Performance Analysis Using Timed Petri Nets.
+conf/raid/LeeCTBSZ02:::Wenke Lee::João B. D. Cabrera::Ashley Thomas::Niranjan Balwalli::Sunmeet Saluja::Yi Zhang:::Performance Adaptation in Real-Time Intrusion Detection Systems.
+conf/raid/DonohoFSPCS02:::David L. Donoho::Ana Georgina Flesia::Umesh Shankar::Vern Paxson::Jason Coit::Stuart Staniford:::Multiscale Stepping-Stone Detection: Detecting Pairs of Jittered Interactive Streams by Exploiting Maximum Tolerable Delay.
+conf/raid/DebarW01:::Hervé Debar::Andreas Wespi:::Aggregation and Correlation of Intrusion-Detection Alerts.
+conf/raid/LeeNYPDTS00:::Wenke Lee::Rahul A. Nimbalkar::Kam K. Yee::Sunil B. Patil::Pragneshkumar H. Desai::Thuan T. Tran::Salvatore J. Stolfo:::A Data Mining and CIDF Based Approach for Detecting Novel and Distributed Intrusions.
+conf/raid/QinL03:::Xinzhou Qin::Wenke Lee:::Statistical Causality Analysis of INFOSEC Alert Data.
+conf/raid/Rowe99:::Jeff Rowe:::Intrusion Detection and Isolation Protocol: Automated Response to Attacks.
+conf/raid/GhoshMS00:::Anup K. Ghosh::Christoph Michael::Michael Schatz:::A Real-Time Intrusion Detection System Based on Learning Program Behavior.
+conf/raid/LippmannCFGKWZ99:::Richard Lippmann::Robert K. Cunningham::David J. Fried::Isaac Graf::Kris R. Kendall::Seth E. Webster::Marc A. Zissman:::Results of the DARPA 1998 Offline Intrusion Detection Evaluation.
+conf/raid/KruegelMRV03:::Christopher Kruegel::Darren Mutz::William Robertson::Fredrik Valeur:::Topology-Based Detection of Anomalous BGP Messages.
+conf/raid/PouzolD01:::Jean-Philippe Pouzol::Mireille Ducassé:::From Declarative Signatures to Misuse IDS.
+conf/raid/MahoneyC03:::Matthew V. Mahoney::Philip K. Chan:::An Analysis of the 1999 DARPA/Lincoln Laboratory Evaluation Data for Network Anomaly Detection.
+conf/raid/Axelsson99:::Stefan Axelsson:::On a Difficulty of Intrusion Detection.
+conf/raid/Mansfield99:::Glenn Mansfield:::Towards trapping wily intruders in the large.
+conf/raid/MellM99:::Peter Mell::Mark McLarnon:::Mobile Agent Attack Resistant Distributed Hierarchical Intrusion Detection Systems.
+conf/raid/UppuluriS01:::Prem Uppuluri::R. Sekar:::Experiences with Specification-Based Intrusion Detection.
+conf/raid/BalepinMRL03:::Ivan Balepin::Sergei Maltsev::Jeff Rowe::Karl N. Levitt:::Using Specification-Based Intrusion Detection for Automated Response.
+conf/raid/Johnston01:::Steven R. Johnston:::The Impact of Privacy and Data Protection Legislation on the Sharing of Intrusion Detection Information.
+conf/raid/ChungGL99:::Christina Yip Chung::Michael Gertz::Karl N. Levitt:::Misuse Detection in Database Systems Through User Profiling.
+conf/raid/WespiD99:::Andreas Wespi::Hervé Debar:::Building an Intrusion-Detection System to Detect Suspicious Process Behavior.
+conf/raid/Mutaf99:::Pars Mutaf:::Defending against a Denial-of-Service Attack on TCP.
+conf/raid/SeleznyovP99:::Alexandr Seleznyov::Seppo Puuronen:::Anomaly Intrusion Detection Systems: Handling Temporal Relations Between Events.
+conf/cluster/BalajiSWP02:::Pavan Balaji::Piyush Shivam::Pete Wyckoff::Dhabaleswar K. Panda:::High Performance User Level Sockets over Gigabit Ethernet.
+conf/cluster/LeeW02:::Byoung-Dai Lee::Jon B. Weissman:::Community Services: A Toolkit for Rapid Deployment of Network Services.
+conf/cluster/MaccabeZOR02:::Arthur B. Maccabe::Wenbin Zhu::Jim Otto::Rolf Riese:::Experience in Offloading Protocol Processing to a Programmable NIC.
+conf/cluster/Ligon02:::Walter B. Ligon III:::Research Directions in Parallel I/O for Clusters.
+conf/cluster/Dongarra02:::Jack Dongarra:::Trends in High Performance Computing and Using Numerical Libraries on Cluster.

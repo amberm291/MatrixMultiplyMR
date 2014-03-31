@@ -1,0 +1,200 @@
+conf/pldi/KeutzerW88:::Kurt Keutzer::Wayne Wolf:::Anatomy of a Hardware Compiler
+conf/pldi/OssiaBGKLO02:::Yoav Ossia::Ori Ben-Yitzhak::Irit Goft::Elliot K. Kolodner::Victor Leikehman::Avi Owshanko:::A Parallel, Incremental and Concurrent GC for Servers.
+conf/pldi/PlebanL88:::Uwe F. Pleban::Peter Lee:::An Automatically Generated, Realistic Compiler for an Imperative Programming Language.
+conf/pldi/RuginaR00:::Radu Rugina::Martin C. Rinard:::Symbolic bounds analysis of pointers, array indices, and accessed memory regions.
+conf/pldi/LiskovS88:::Barbara Liskov::Liuba Shrira:::Promises: Linguistic Support for Efficient Asynchronous Procedure Calls in Distributed Systems.
+conf/pldi/AgrawalSD95:::Gagan Agrawal::Joel H. Saltz::Raja Das:::Interprocedural Partial Redundancy Elimination and its Application to Distributed Memory Compilation.
+conf/pldi/MarlowJMR01:::Simon Marlow::Simon L. Peyton Jones::Andrew Moran::John H. Reppy:::Asynchronous Exceptions in Haskell.
+conf/pldi/Fraser99:::Christopher W. Fraser:::Automatic Inference of Models for Statistical Code Compression.
+conf/pldi/Goodwin97:::David W. Goodwin:::Interprocedural Dataflow Analysis in an Executable Optimizer.
+conf/pldi/BaileyD96:::Mark W. Bailey::Jack W. Davidson:::Target-Sensitive Construction of Diagnostic Programs for Procedure Calling Sequence Generators.
+conf/pldi/GuptaSS89:::Rajiv Gupta::Mary Lou Soffa::Tim Steele:::Register Allocation via Clique Separators.
+conf/pldi/Wall88:::David W. Wall:::Register Windows versus Register Allocation
+conf/pldi/BarrettZ95:::David A. Barrett::Benjamin G. Zorn:::Garbage Collection Using a Dynamic Threatening Boundary.
+conf/pldi/TeitelbaumC90:::Tim Teitelbaum::Richard Chapman:::Higher-Order Attribute Grammars and Editing Environments.
+conf/pldi/EmmelmannSL89:::Helmut Emmelmann::Friedrich-Wilhelm Schröer::Rudolf Landwehr:::BEG - A Generator for Efficient Back Ends.
+conf/pldi/HeydonLY00:::Allan Heydon::Roy Levin::Yuan Yu:::Caching function calls using precise dependencies.
+conf/pldi/Kessler90:::Peter B. Kessler:::Fast Breakpoints: Design and Implementation.
+conf/pldi/Click95:::Cliff Click:::Global Code Motion / Global Value Mumbering.
+conf/pldi/RuttenbergGLS96:::John C. Ruttenberg::Guang R. Gao::Woody Lichtenstein::Artour Stoutchinin:::Software Pipelining Showdown: Optimal vs. Heuristic Methods in a Production Compiler.
+conf/pldi/AggarwalR01:::Aneesh Aggarwal::Keith H. Randall:::Related Field Analysis.
+conf/pldi/StephensonBA00:::Mark Stephenson::Jonathan Babb::Saman P. Amarasinghe:::Bidwidth analysis with application to silicon compilation.
+conf/pldi/HummelHN94:::Joseph Hummel::Laurie J. Hendren::Alexandru Nicolau:::A General Data Dependence Test for Dynamic, Pointer-Based Data Structures.
+conf/pldi/Reppy88:::John H. Reppy:::Synchronous Operations as First-Class Values.
+conf/pldi/ChowCKLLT97:::Fred C. Chow::Sun Chan::Robert Kennedy::Shin-Ming Liu::Raymond Lo::Peng Tu:::A New Algorithm for Partial Redundancy Elimination based on SSA Form.
+conf/pldi/BakerH02:::Jason Baker::Wilson C. Hsieh:::Maya: Multiple-Dispatch Syntax Extension in Java.
+conf/pldi/JagannathanW96:::Suresh Jagannathan::Andrew K. Wright:::Flow-directed Inlining.
+conf/pldi/Cormack89:::Gordon V. Cormack:::An LR Substring Parser for Noncorrecting Syntax Error Recovery.
+conf/pldi/Dolby97:::Julian Dolby:::Automatic Inline Allocation of Objects.
+conf/pldi/KawahitoKN02:::Motohiro Kawahito::Hideaki Komatsu::Toshio Nakatani:::Effective Sign Extension Elimination.
+conf/pldi/HanxledenK94:::Reinhard von Hanxleden::Ken Kennedy:::GIVE-N-TAKE - A Balanced Code Placement Framework.
+conf/pldi/AyersGS97:::Andrew Ayers::Robert Gottlieb::Richard Schooler:::Aggressive Inlining.
+conf/pldi/HeineL03:::David L. Heine::Monica S. Lam:::A practical flow-sensitive and context-sensitive C and C++ memory leak detector.
+conf/pldi/Deutsch94:::Alain Deutsch:::Interprocedural May-Alias Analysis for Pointers: Beyand <i>k</i>-limiting.
+conf/pldi/BernsteinR91:::David Bernstein::Michael Rodeh:::Global Instruction Scheduling for Superscalar Machines.
+conf/pldi/WeiseC93:::Daniel Weise::Roger F. Crew:::Programmable Syntax Macros.
+conf/pldi/OTooleG89:::James O'Toole::David K. Gifford:::Type Reconstruction with First-Class Polymorphic Values.
+conf/pldi/ErtlG03:::M. Anton Ertl::David Gregg:::Optimizing indirect branch prediction accuracy in virtual machine interpreters.
+conf/pldi/FisherR99:::Kathleen Fisher::John H. Reppy:::The Design of a Class Mechanism for Moby.
+conf/pldi/NeculaL98:::George C. Necula::Peter Lee:::The Design and Implementation of a Certifying Compiler.
+conf/pldi/Gargi02:::Karthik Gargi:::A Sparse Algorithm for Predicated Global Value Numbering.
+conf/pldi/CoutantMR88:::Deborah S. Coutant::Sue Meloy::Michelle Ruscetta:::DOC: A Practical Approach to Source-Level Debugging of Globally Optimized Code.
+conf/pldi/WarterMHR93:::Nancy J. Warter::Scott A. Mahlke::Wen-mei W. Hwu::B. Ramakrishna Rau:::Reverse If-Conversion.
+conf/pldi/HorwitzRB88:::Susan Horwitz::Thomas W. Reps::David Brinkley:::Interprocedural Slicing Using Dependence Graphs
+conf/pldi/NorrisP94:::Cindy Norris::Lori L. Pollock:::register Allocation over the Program Dependence Graph.
+conf/pldi/KolteH93:::Priyadarshan Kolte::Mary Jean Harrold:::Load/Store Range Analysis for Global Register Allocation.
+conf/pldi/AdveM98:::Vikram S. Adve::John M. Mellor-Crummey:::Using Integer Sets for Data-Parallel Program Analysis and Optimization.
+conf/plsa/Collberg94:::Christian S. Collberg:::Distributed High-Level Module Binding for Flexible Encapsulation and Fast Inter-Modular Optimization.
+conf/plsa/HoareP94:::C. A. R. Hoare::Innes Page:::Hardware and Software: The Closing Gap.
+conf/podc/MittalG00:::Neeraj Mittal::Vijay K. Garg:::Debugging distributed programs using controlled re-execution.
+conf/podc/KaraataA99:::Mehmet Hakan Karaata::Fawaz S. Al-Anzi:::A Dynamic Self-Stabilizing Algorithm for Finding Strongly Connected Components.
+conf/podc/CaoS99:::Guohong Cao::Mukesh Singhal:::Mutable Check-Points: A New Checkpointing Approach for Mobile Computing Systems.
+conf/podc/PapadimitriouY91:::Christos H. Papadimitriou::Mihalis Yannakakis:::On the Value of Information in Distributed Decision-Making (Extended Abstract).
+conf/podc/CanettiHH97:::Ran Canetti::Shai Halevi::Amir Herzberg:::Maintaining Authenticated Communication in the Presence of Break-ins.
+conf/podc/CulikP82:::Karel Culik II::Jan K. Pachl:::Folding and Unrolling Systolic Arrays (Preliminary Version).
+conf/podc/BackK83:::Ralph-Johan Back::Reino Kurki-Suonio:::Decentralization of Process Nets with Centralized Control.
+conf/podc/BackM82:::Ralph-Johan Back::Heikki Mannila:::A Refinement of Kahn's Semantic to Handle Non-Determinism and Communication (Extended Abstract).
+conf/podc/ShalevS03:::Ori Shalev::Nir Shavit:::Split-ordered lists: lock-free extensible hash tables.
+conf/podc/KowalskiS03:::Dariusz R. Kowalski::Alexander A. Shvartsman:::Performing work with asynchronous processors: message-delay-sensitive bounds.
+conf/podc/AlurT94:::Rajeev Alur::Gadi Taubenfeld:::Contention-free Complexity of Shared Memory Algorithms.
+conf/podc/AttiyaBD90:::Hagit Attiya::Amotz Bar-Noy::Danny Dolev:::Sharing Memory Robustly in Message-Passing Systems.
+conf/podc/AttiyaHR92:::Hagit Attiya::Amir Herzberg::Sergio Rajsbaum:::Optimal Clock Synchronization under Different Delay Assumptions (Preliminary Version).
+conf/podc/Moitra83:::Abha Moitra:::Synthesis of Communicating Processes.
+conf/podc/Jayanti98a:::Prasad Jayanti:::A Time Complexity Lower Bound for Randomized Implementations of Some Shared Objects.
+conf/podc/Michailidis99:::Dimitris Michailidis:::Fast Set Agreement in the Presence of Timing Uncertainty.
+conf/podc/Itai85:::Alon Itai:::Parallel Arithmetic with Concurrent Writes.
+conf/podc/JanssenZ92:::Wil Janssen::Job Zwiers:::From Sequential Layers to Distributed Processes: Deriving a Distributed Minimum Weight Spanning Tree Algorithm (Extended Anstract).
+conf/podc/LiHBWW01:::Li Li::Joseph Y. Halpern::Paramvir Bahl::Yi-Min Wang::Roger Wattenhofer:::Analysis of a cone-based distributed topology control algorithm for wireless multi-hop networks.
+conf/podc/Michel89:::Ruben Michel:::A Categorical Approach to Distributed Systems Expressibility and Knowledge.
+conf/podc/AlvisiM96:::Lorenzo Alvisi::Keith Marzullo:::Trade-Offs in Implementing Optimal Message Logging Protocols.
+conf/podc/Moir97:::Mark Moir:::Practical Implementations of Non-Blocking Synchronization Primitives.
+conf/podc/OstrovskyY91:::Rafail Ostrovsky::Moti Yung:::How to Withstand Mobile Virus Attacks (Extended Abstract).
+conf/podc/MosesK92:::Yoram Moses::Orit Kislev:::Knowledge-Oriented Programming (Extended Abstract).
+conf/podc/LewisG99:::Michael J. Lewis::Andrew S. Grimshaw:::Dynamically Configurable Distributed Objects.
+conf/podc/Bar-NoyNN88:::Amotz Bar-Noy::Joseph Naor::Moni Naor:::One Bit Algorithms.
+conf/podc/Rosu96:::Marcel-Catalin Rosu:::Early-Stopping Terminating Reliable Broadcast Protocol for General Omission Failures (Abstract).
+conf/podc/CanettiIKRRW01:::Ran Canetti::Yuval Ishai::Ravi Kumar::Michael K. Reiter::Ronitt Rubinfeld::Rebecca N. Wright:::Selective private function evaluation with applications to private statistics.
+conf/podc/MostefaouiRRR01:::Achour Mostéfaoui::Sergio Rajsbaum::Michel Raynal::Matthieu Roy:::A hierarchy of conditions for consensus solvability.
+conf/podc/PriscoMR99:::Roberto De Prisco::Dahlia Malkhi::Michael K. Reiter:::On <i>k</i>-Set Consensus Problems in Asynchronous Systems.
+conf/podc/ChorR87:::Benny Chor::Michael O. Rabin:::Achieving Independence in Logarithmic Number of Rounds.
+conf/podc/AgrawalCLS94:::Divyakant Agrawal::Manhoi Choy::Hong Va Leong::Ambuj K. Singh:::Mixed Consistency: A Model for Parallel Programming (Extended Abstract).
+conf/podc/Merritt84:::Michael Merritt:::Elections in the Presence of Faults.
+conf/podc/BholaBA98:::Sumeer Bhola::Guruduth Banavar::Mustaque Ahamad:::Responsiveness and Consistency Tradoffs in Interactive Groupware.
+conf/podc/Greenwald02:::Michael Greenwald:::How to wait when you are not going to block.
+conf/podc/Stoller99:::Scott D. Stoller:::Lower and Upper Bounds for Attacks on Authentication Protocols.
+conf/podc/MalkhiNR02:::Dahlia Malkhi::Moni Naor::David Ratajczak:::Viceroy: a scalable and dynamic emulation of the butterfly.
+conf/podc/MalkhiRW97:::Dahlia Malkhi::Michael K. Reiter::Avishai Wool:::The Load and Availability of Byzantine Quorum Systems.
+conf/podc/CoanW89:::Brian A. Coan::Jennifer L. Welch:::Modular Construction of Nearly Optimal Byzantine Agreement Protocols.
+conf/podc/KatzP87:::Shmuel Katz::Doron Peled:::Interleaving Set Temporal Logic (Preliminary Version).
+conf/podc/HermanD97:::Ted Herman::Valeriu Damian-Iordache:::Space-Optimal Wait-Free Queues.
+conf/podc/KaraataPBG94:::Mehmet Hakan Karaata::Sriram V. Pemmaraju::Steven C. Bruell::Sukumar Ghosh:::Self-Stabilizing Algorithms for Finding Centers and Medians of Trees.
+conf/podc/KuppaRKV03:::Srikant Kuppa::Mansi Ramakrishnan::Srinivasan Krishnamurthy::S. Venkatesan:::Brief announcement: cluster-based control mechanism for communication networks.
+conf/podc/BaekRL99:::Jusung Baek::R. S. Ramakrishna::Donk-Ik Lee:::A Design of a Protocol for Detecting an Agent Clone in Mobile Agent Systems and its Correctness Proof.
+conf/podc/RadestockE94:::Matthias Radestock::Susan Eisenbach:::Towards a Minimal Object-Oriented Language for Distributed and Concurrent Programming.
+conf/podc/Fekete87:::A. D. Fekete:::Asynchronous Approximate Agreement.
+conf/podc/BaierK97:::Christel Baier::Marta Z. Kwiatkowska:::Automatic Verification of Liveness Properties of Randomized Systems.
+conf/podc/MullenderV85:::Sape J. Mullender::Paul M. B. Vitányi:::Distributed Match-Making for Processes in Computer Networks (Preliminary Version).
+conf/podc/HerlihyRT98:::Maurice Herlihy::Sergio Rajsbaum::Mark R. Tuttle:::Unifying Synchronous and Asynchronous Message-Passing Models.
+conf/podc/GoldweberJ96:::Michael Goldweber::Donald B. Johnson:::Minimizing Access Costs in Replicated Distributed Syste (Abstract).
+conf/podc/Saias92:::Isaac Saias:::Proving Probabilistic Correctness Statements: the Case of Rabin's Algorithm for Mutual Exclusion.
+conf/podc/DworkHW92a:::Cynthia Dwork::Maurice Herlihy::Orli Waarts:::Bounded Round Numbers.
+conf/podc/BorowskyG97:::Elizabeth Borowsky::Eli Gafni:::A Simple Algorithmically Reasoned Characterization of Wait-Free Computations (Extended Abstract).
+conf/podc/AfekDAGMS90:::Yehuda Afek::Danny Dolev::Hagit Attiya::Eli Gafni::Michael Merritt::Nir Shavit:::Atomic Snapshots of Shared Memory.
+conf/podc/KanellakisS85:::Paris C. Kanellakis::Scott A. Smolka:::On the Analysis of Cooperation and Antagonism in Networks of Communicating Processes.
+conf/podc/KanellakisS89:::Paris C. Kanellakis::Alexander A. Shvartsman:::Efficient Parallel Algorithms Can Be Made Robust.
+conf/podc/KanellakisS91:::Paris C. Kanellakis::Alexander A. Shvartsman:::Efficient Parallel Algorithms on Restartable Fail-Stop Processors.
+conf/podc/Nitsche94:::Ulrich Nitsche:::A Verification Method Based on Homomorphic Model Abstractions (Abstract).
+conf/podc/FeketeLS97:::Alan Fekete::Nancy A. Lynch::Alexander A. Shvartsman:::Specifying and Using a Partitionable Group Communication Service.
+conf/podc/Lampson01:::Butler W. Lampson:::The ABCD's of Paxos.
+conf/podc/AwerbuchBP90:::Baruch Awerbuch::Alan E. Baratz::David Peleg:::Cost-Sensitive Analysis of Communication Protocols.
+conf/podc/AwerbuchGH90:::Baruch Awerbuch::Oded Goldreich::Amir Herzberg:::A Quantitative Approach to Dynamic Networks.
+conf/podc/LeachSHL82:::Paul J. Leach::Bernard L. Stumpf::James A. Hamilton::Paul H. Levine:::UIDS as Internal Names in a Distributed File System.
+conf/podc/CrescenzoIO98:::Giovanni Di Crescenzo::Yuval Ishai::Rafail Ostrovsky:::Universal Service-Providers for Database Private Information Retrieval (Extended Abstract).
+conf/podc/ChandraT91:::Tushar Deepak Chandra::Sam Toueg:::Unreliable Failure Detectors for Asynchronous Systems (Preliminary Version).
+conf/podc/BowmanD94:::Howard Bowman::John Derrick:::Consistency and Conformance in ODP (Abstract).
+conf/podc/BenalohY86:::Josh Cohen Benaloh::Moti Yung:::Distributing the Power of a Government to Enhance the Privacy of Voters (Extended Abstract).
+conf/podc/AttiyaD96:::Hagit Attiya::Eyal Dagan:::Universal Operations: Unary versus Binary (Extended Abstract).
+conf/podc/AuerCC96:::Peter Auer::Pasquale Caianiello::Nicolò Cesa-Bianchi:::Tight Bounds on the Cumulative Profit of Distributed Voters (Abstract).
+conf/podc/Krawczyk92:::Hugo Krawczyk:::Distributed Fingerprints and Secure Information Dispersal.
+conf/podc/Styer92:::Eugene Styer:::Improving Fast Mutual Exclusion.
+conf/podc/AttieE96:::Paul C. Attie::E. Allen Emerson:::Synthesis of Concurrent Systems for an Atomic Read / Atomic Write Model of Computation (Extended Abstract).
+conf/podc/FessantPR03:::Fabrice Le Fessant::Philippe Raipin Parvédy::Michel Raynal:::Brief announcement: early decision despite general process omission failures.
+conf/podc/KushilevitzOR98:::Eyal Kushilevitz::Rafail Ostrovsky::Adi Rosén:::Amortizing Randomness in Private Multiparty Computations.
+conf/podc/HalpernT89:::Joseph Y. Halpern::Mark R. Tuttle:::Knowledge, Probability, and Adversaries.
+conf/podc/MansourP91:::Yishay Mansour::Boaz Patt-Shamir:::Greedy Packet Scheduling on Shortest Paths (Preliminary Version).
+conf/podc/Jakobsson99:::Markus Jakobsson:::Flash Mixing.
+conf/podc/LynchSST96:::Nancy A. Lynch::Nir Shavit::Alexander A. Shvartsman::Dan Touitou:::Counting Networks are Practically Linearizable.
+conf/podc/BarakHHN00:::Boaz Barak::Shai Halevi::Amir Herzberg::Dalit Naor:::Clock synchronization with faults and recoveries (extended abstract).
+conf/podc/HuangG01:::Yongqiang Huang::Hector Garcia-Molina:::Replicated condition monitoring.
+conf/podc/AjtaiADW94:::Miklós Ajtai::James Aspnes::Cynthia Dwork::Orli Waarts:::Competitiveness in Distributed Algorithms.
+conf/podc/IsraeliR94:::Amos Israeli::Lihu Rappoport:::Disjoint-Access-Parallel Implementations of Strong Shared Memory Primitives.
+conf/podc/BreitwieserL82:::H. Breitwieser::M. Leszak:::A Distributed Transaction Processing Protocol Based on Majority Consensus.
+conf/podc/KermarrecRSD01:::Anne-Marie Kermarrec::Antony I. T. Rowstron::Marc Shapiro::Peter Druschel:::The IceCube approach to the reconciliation of divergent replicas.
+conf/podc/AbadiL94:::Martín Abadi::Leslie Lamport:::Open Systems in TLA.
+conf/podc/WattenhoferW97:::Roger Wattenhofer::Peter Widmayer:::An Inherent Bottleneck in Distributed Counting.
+conf/podc/AielloVY94:::William Aiello::Ramarathnam Venkatesan::Moti Yung:::Coins, Weights and Contention in Balancing Networks.
+conf/podc/AfekD97:::Yehuda Afek::Shlomi Dolev:::Local Stabilizer (Brief Announcement).
+conf/podc/AfekG91:::Yehuda Afek::Eli Gafni:::Bootstrap Network Resynchronization (Extended Abstract).
+conf/podc/DworkS84:::Cynthia Dwork::Dale Skeen:::Patterns of Communication in Consensus Protocols.
+conf/podc/Pnueli97:::Amir Pnueli:::Verification Engineering: A Future Profession (A. M. Turing Award Lecture).
+conf/podc/Tygar96:::J. D. Tygar:::Atomicity in Electronic Commerce.
+conf/podc/AndrewsL82:::Gregory R. Andrews::Gary Levin:::On-the-fly Deadlock Prevention.
+conf/podc/LynchMF88:::Nancy A. Lynch::Yishay Mansour::Alan Fekete:::Data Link Layer: Two Impossibility Results.
+conf/podc/KleinbergM92:::Jon M. Kleinberg::Sendhil Mullainathan:::Resource Bounds and Combinations of Consensus Objects.
+conf/podp/Sandkuhl96:::Kurt Sandkuhl:::First Steps to Cross Media Publishing and Multimodal Documents.
+conf/podp/MykaAG96:::Andreas Myka::H. Argeton::Ulrich Güntzer:::Towards Automatic Hypertextual Representation of Linear Texts.
+conf/pods/PapadimitriouK82:::Christos H. Papadimitriou::Paris C. Kanellakis:::On Concurrency Control by Multiple Versions.
+conf/pods/MaierV93:::David Maier::Bennet Vance:::A Call to Order.
+conf/pods/Vianu01:::Victor Vianu:::A Web Odyssey: From Codd to XML.
+conf/pods/BunemanKT02:::Peter Buneman::Sanjeev Khanna::Wang Chiew Tan:::On Propagation of Deletions and Annotations Through Views.
+conf/pods/Manber96:::Udi Manber:::Future Directions and Research Problems in the World Wide Web (Abstract).
+conf/pods/Raz93:::Yoav Raz:::Extended Commitment Ordering or Guaranteeing Global Serializability by Applying Commitment Order Selectivity to Global Transactions.
+conf/pods/Roy91:::Shaibal Roy:::Semantic Complexity of Classes of Relational Queries and Query Independent Data Partitioning.
+conf/pods/ZhangMTGS01:::Donghui Zhang::Alexander Markowetz::Vassilis J. Tsotras::Dimitrios Gunopulos::Bernhard Seeger:::Efficient Computation of Temporal Aggregates with Range Predicates.
+conf/pods/GrahamV84:::Marc H. Graham::Moshe Y. Vardi:::On the Complexity and Axiomatizability of Consistent Database States.
+conf/pods/GrahneR84:::Gösta Grahne::Kari-Jouko Räihä:::Dependency Characterizations for Acyclic Database Schemes.
+conf/pods/GrahneT03:::Gösta Grahne::Alex Thomo:::Query containment and rewriting using views for regular path queries under constraints.
+conf/pods/HuaLL94:::Kien A. Hua::Sheau-Dong Lang::Wen K. Lee:::A Decomposition-Based Simulated Annealing Technique for Data Clustering.
+conf/pods/OzsoyogluM85:::Gultekin Özsoyoglu::Victor Matos:::On Optimizing Summary-Table-by-Example Queries.
+conf/pods/Saraiya90:::Yatin P. Saraiya:::Polynomial-Time Program Transformations in Deductive Databases.
+conf/pods/AgrawalA90:::Divyakant Agrawal::Amr El Abbadi:::Locks with Constrained Sharing.
+conf/pods/Ross02:::Kenneth A. Ross:::Conjunctive Selection Conditions in Main Memory.
+conf/pods/GrumbachM93:::Stéphane Grumbach::Tova Milo:::Towards Tractable Algebras for Bags.
+conf/pods/SamoladasM98:::Vasilis Samoladas::Daniel P. Miranker:::A Lower Bound Theorem for Indexing Schemes and Its Application to Multidimensional Range Queries.
+conf/pods/ChanH88:::Edward P. F. Chan::Héctor J. Hernández:::Independence-reducible Database Schemes.
+conf/pods/ChenC02:::Chung-Min Chen::Christine T. Cheng:::From Discrepancy to Declustering: Near optimal multidimensional declustering strategies for range queries.
+conf/pods/Delgrande87:::James P. Delgrande:::Formal Limits on the Automatic Generation and Maintenance of Integrity Constraints.
+conf/pods/ArenasBC99:::Marcelo Arenas::Leopoldo E. Bertossi::Jan Chomicki:::Consistent Query Answers in Inconsistent Databases.
+conf/pods/Morishita92:::Shinichi Morishita:::Avoiding Cartesian Products in Programs for Multiple Joins.
+conf/pods/ArasuBBMW02:::Arvind Arasu::Brian Babcock::Shivnath Babu::Jon McAlister::Jennifer Widom:::Characterizing Memory Requirements for Queries over Continuous Data Streams.
+conf/pods/KuperUV84:::Gabriel M. Kuper::Jeffrey D. Ullman::Moshe Y. Vardi:::On the Equivalence of Logical Databases.
+conf/pods/LevyMSS93:::Alon Y. Levy::Inderpal Singh Mumick::Yehoshua Sagiv::Oded Shmueli:::Equivalence, Query-Reachability, and Satisfiability in Datalog Extensions.
+conf/pods/Spielmann00:::Marc Spielmann:::Verification of Relational Transducers for Electronic Commerce.
+conf/pods/Hadzilacos88:::Thanasis Hadzilacos:::Serialization Graph Algorithms for Multiversion Concurrency Control.
+conf/pods/Robinson86:::John T. Robinson:::Order Preserving Linear Hashing Using Dynamic Key Statistics.
+conf/pods/BrosdaV85:::Volkert Brosda::Gottfried Vossen:::Updating a Relational Database through a Universal Schema Interface.
+conf/pods/Kelter88:::Udo Kelter:::The Queue Protocol: A Deadlock-free Homogeneous Non-Two-Phase Locking Protocol.
+conf/pods/Yannakakis84:::Mihalis Yannakakis:::Querying Weak Instances.
+conf/pods/Aggarwal01:::Charu C. Aggarwal:::On the Effects of Dimensionality Reduction on High Dimensional Similarity Search.
+conf/pods/AbiteboulKW90:::Serge Abiteboul::Paris C. Kanellakis::Emmanuel Waller:::Method Schemas.
+conf/pods/Chaudhuri93:::Surajit Chaudhuri:::Finding Nonrecursive Envelopes for Datalog Predicates.
+conf/pods/Gonnet94:::Gaston H. Gonnet:::Tutorial: Text Dominated Databases, Theory Practice and Experience.
+conf/pods/EiterG92:::Thomas Eiter::Georg Gottlob:::On the Complexity of Propositional Knowledge Base Revision, Updates, and Counterfactuals.
+conf/pods/SeibL91:::Jürgen Seib::Georg Lausen:::Parallelizing Datalog Programs by Generalized Pivoting.
+conf/pods/Rotem92:::Doron Rotem:::Analysis of Disk Arm Movement for Large Sequential Reads.
+conf/pods/Larsen01:::Kim S. Larsen:::Relaxed Multi-Way Trees with Group Updates.
+conf/pods/MohanFS82:::C. Mohan::Donald S. Fussell::Abraham Silberschatz:::Compatibility and Commutativity in Non-two-phase Locking Protocols.
+conf/pods/AbiteboulB84:::Serge Abiteboul::Nicole Bidoit:::Non First Normal Form Relations to Represent Hierarchical Organized Data.
+conf/pods/DawsonVLS99:::Steven Dawson::Sabrina De Capitani di Vimercati::Patrick Lincoln::Pierangela Samarati:::Minimal Data Upgrading to Prevent Inference and Association.
+conf/pods/Abiteboul99:::Serge Abiteboul:::On Views and XML.
+conf/pods/Elkan90:::Charles Elkan:::Independence of Logic Database Queries and Updates.
+conf/pods/Batory84:::Don S. Batory:::Conceptual-To-Internal Mappings in Commercial Database Systems.
+conf/pods/Batory88:::Don S. Batory:::Concepts for a Database System Compiler.
+conf/pods/SegoufinV98:::Luc Segoufin::Victor Vianu:::Querying Spatial Databases via Topological Invariants.
+conf/pods/SaccaZ86:::Domenico Saccà::Carlo Zaniolo:::On the Implementation of a Simple Class of Logic Queries for Databases.
+conf/pods/YuanC89:::Li-Yan Yuan::Ding-An Chiang:::A Sound and Complete Query Evaluation Algorithm for Relational Databases with Disjunctive Information.
+conf/pods/YuanO87:::Li-Yan Yuan::Z. Meral Özsoyoglu:::Logical Design of Relational Database Systems.
+conf/pods/GoodmanS85:::Nathan Goodman::Dennis Shasha:::Semantically-based Concurrency Control for Search Structures.
+conf/pods/GarofalakisIOS98:::Minos N. Garofalakis::Yannis E. Ioannidis::Banu Özden::Abraham Silberschatz:::Throughput-Competitive Admission Control for Continuous Media Databases.
+conf/pods/CosmadakisK84:::Stavros S. Cosmadakis::Paris C. Kanellakis:::Functional and Inclusion Dependencies: A Graph Theoretic Approach.
+conf/pods/TaySG84:::Y. C. Tay::Rajan Suri::Nathan Goodman:::A Mean Value Performance Model for Locking in Databases: The Waiting Case.

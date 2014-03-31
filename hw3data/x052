@@ -1,0 +1,200 @@
+journals/jcss/KinberSVW95:::Efim B. Kinber::Carl H. Smith::Mahendran Velauthapillai::Rolf Wiehagen:::On Learning Multiple Concepts in Parallel.
+journals/jcss/DymondFNRR96:::Patrick W. Dymond::Faith E. Fich::Naomi Nishimura::Prabhakar Ragde::Walter L. Ruzzo:::Pointers versus Arithmetic in PRAMs.
+journals/jcss/Savage84:::John E. Savage:::The Performance of Multilective VLSI Algorithms.
+journals/jcss/Furer84:::Martin Fürer:::Data Structures for Distributed Counting.
+journals/jcss/FichIKKK96:::Faith E. Fich::Russell Impagliazzo::Bruce M. Kapron::Valerie King::Miroslaw Kutylowski:::Limits on the Power of Parallel Random Access Machines with Weak Forms of Write Conflict Resolution.
+journals/jcss/AielloH91:::William Aiello::Johan Håstad:::Statistical Zero-Knowledge Languages can be Recognized in Two Rounds.
+journals/jcss/AielloP81:::Luigia Carlucci Aiello::Gianfranco Prini:::An Efficient Interpreter for the Lambda-Calculus.
+journals/jcss/ImpagliazzoPZ01:::Russell Impagliazzo::Ramamohan Paturi::Francis Zane:::Which Problems Have Strongly Exponential Complexity?
+journals/jcss/BakkerMOZ88:::J. W. de Bakker::John-Jules Ch. Meyer::Ernst-Rüdiger Olderog::Jeffery I. Zucker:::Transition Systems, Metric Spaces and Ready Sets in the Semantics of Uniform Concurrency.
+journals/jcss/CarlyleP71:::Jack W. Carlyle::Azaria Paz:::Realizations by Stochastic Finite Automata.
+journals/jcss/HadzilacosH91:::Thanasis Hadzilacos::Vassos Hadzilacos:::Transaction Synchronisation in Object Bases.
+journals/jcss/PairAN79:::C. Pair::M. Amirchahy::D. Neel:::Correctness Proofs of Syntax-Directed Processing Descriptions by Attributes.
+journals/jcss/JagadishMM99:::H. V. Jagadish::Alberto O. Mendelzon::Inderpal Singh Mumick:::Managing Conflicts Between Rules.
+journals/jcss/MaassS92:::Wolfgang Maass::Theodore A. Slaman:::The Complexity Types of Computable Sets.
+journals/jcss/HajnalMPST93:::András Hajnal::Wolfgang Maass::Pavel Pudlák::Mario Szegedy::György Turán:::Threshold Circuits of Bounded Depth.
+journals/jcss/GabberG81:::Ofer Gabber::Zvi Galil:::Explicit Constructions of Linear-Sized Superconcentrators.
+journals/jcss/KiferW93:::Michael Kifer::James Wu:::A Logic Programming with Complex Objects.
+journals/jcss/Aberth71:::Oliver Aberth:::The Concect of Effective Method Applied to Computational Problems of Linear Algebra.
+journals/jcss/BermanKLPR02:::Piotr Berman::Marek Karpinski::Lawrence L. Larmore::Wojciech Plandowski::Wojciech Rytter:::On the Complexity of Pattern Matching for Highly Compressed Two-Dimensional Texts.
+journals/jcss/Atallah85:::Mikhail J. Atallah:::A Matching Problem in the Plane.
+journals/jcss/Sipser88:::Michael Sipser:::Expanders, Randomness, or Time versus Space.
+journals/jcss/MullerM72:::David E. Muller::Raymond E. Miller:::A Generalization of the Theory of Incompletely Specified Machines.
+journals/jcss/Watrous99:::John Watrous:::Space-Bounded Quantum Complexity.
+journals/jcss/CaussinusMTV98:::Hervé Caussinus::Pierre McKenzie::Denis Thérien::Heribert Vollmer:::Nondeterministic <i>NC</i> <sup>1</sup> Computation.
+journals/jflp/DespeyrouxL00:::Joëlle Despeyroux::Pierre Leleu:::Metatheoretic Results for a Modal lambda-Calculus
+journals/jflp/DemoenS01:::Bart Demoen::Konstantinos F. Sagonas:::Heap Memory Management in Prolog with Tabling: Principles and Practice.
+journals/jflp/DiazC01:::Daniel Diaz::Philippe Codognet:::Design and Implementation of the GNU Prolog System.
+journals/jflp/Nadathur99:::Gopalan Nadathur:::A Fine-Grained Notation for Lambda Terms and Its Use in Intensional Operations.
+journals/isci/CrookSP03:::Nigel Crook::Tjeerd Olde Scheper::Vasantha Pathirana:::Self-organised dynamic recognition states for chaotic neural networks.
+journals/isci/Back02:::Thomas Bäck:::Adaptive business intelligence based on evolution strategies: some application examples of self-adaptive software.
+journals/isci/Le96:::Kim Le:::Fuzzy Relation Compositions and Pattern Recognition.
+journals/isci/Chen00:::Ken Chen:::Heuristic Search and Computer Game Playing.
+journals/isci/KimLPP98:::Euntai Kim::Heejin Lee::Minkee Park::Mignon Park:::A Simple Identified Sugeno-Type Fuzzy Model via Double Clustering.
+journals/isci/Gutknecht96:::Jürg Gutknecht:::Oberon, Gadgets, and Some Archetypal Aspects of Persistent Objects.
+journals/isci/ChenLL00:::Wen-Shyen E. Chen::Chun-Wu Roger Leng::Yao-Nan Lien:::A Novel Mobile Agent Search Algorithm.
+journals/isci/ChengCFJ98:::H. D. Cheng::J. R. Chen::R. I. Freimanis::X. H. Jiang:::A Novel Fuzzy Logic Approach to Microcalcification Detection.
+journals/isci/ChengL97:::Heng-Da Cheng::Yui Man Lui:::Automatic Bandwidth Selection of Fuzzy Membership Functions.
+journals/isci/EckS94:::J. Thomas Eck::Frank Yeong-Chyang Shih:::An Automatic Text-Free Speaker Recognition System Based on an Enhanced Art 2 Neural Architecture.
+journals/isci/MalufLD96:::David A. Maluf::Jiming Liu::Michel Desmarais:::Consistent Dynamical System Observers for Nondeterministic Event Modeling.
+journals/isci/JifengH99:::Jifeng He::C. A. R. Hoare:::Linking Theories in Probabilistic Programming.
+journals/isci/Rescigno01:::Adele A. Rescigno:::Vertex-disjoint spanning trees of the star network with applications to fault-tolerance and security.
+journals/isci/PalBD98:::Sankar K. Pal::Jayanta Basak::Rajat K. De:::Fuzzy Feature Evaluation Index and Connectionist Realization.
+journals/isci/Caulfield02:::H. John Caulfield:::Synthetic simultaneity - natural and artificial.
+journals/isci/CanFSF95:::Fazli Can::Edward A. Fox::Cory D. Snavely::Robert K. France:::Incremental Clustering for Very Large Document Databases: Initial MARIAN Experience.
+journals/isci/Jin02:::Qun Jin:::Design of a virtual community based interactive learning environment.
+journals/isci/Kim03:::Kyeong Soo Kim:::On the evolution of PON-based FTTH solutions.
+journals/isci/LiS03:::Qing Li::Timothy K. Shih:::Introduction to multimedia and mobile agents.
+journals/isci/WangD94:::Chua-Chin Wang::Hon-Son Don:::A Polar Model for Evidential Reasoning.
+journals/isci/AlbrightHK96:::Richard E. Albright::Arshad Hussain::Ludwik Kurz:::Robust Two-Sample m-Interval Partition Detectors with Application to Image Processing.
+journals/isci/PerrinP99:::Patrick Perrin::Frederick E. Petry:::An Information-Theoretic Based Model for Large-scale Contextual text Processing.
+journals/isci/WuV99:::Lin Wu::Pramod K. Varshney:::Performance Analysis of CSMA and BTMA Protocols in Multihop Networks (I), Single Shannel Case.
+journals/isci/BehrmanNSCS00:::Elizabeth C. Behrman::L. R. Nash::James Edward Steck::V. G. Chandrashekar::Steven R. Skinner:::Simulations of quantum neural networks.
+journals/isci/ColettiS00:::Giulianella Coletti::Romano Scozzafava:::The role of coherence in eliciting and handling imprecise probabilities and its application to medical diagnosis.
+journals/isci/KimK97:::Jong-Hwan Kim::Kwang-Choon Kim:::Multicriteria Fuzzy Control Using Evolutionary Programming.
+journals/isci/NishiwakiM02:::Yasushi Nishiwaki::Hiroshi Matsuoka:::Combined effects of atomic radiation and other agents in Hiroshima and Nagasaki and possible application of fuzzy theory.
+journals/isci/Lee99a:::Wei-Po Lee:::Evolving Complex Robot Behaviors.
+journals/isci/LinM01:::C. M. Lin::Y. J. Mon:::A fuzzy-PDC-based control for robotic systems.
+journals/isci/LiuT98:::J. Gary Liu::H. Chris Tseng:::Information Storage in Hopfield Model with Reduced Complexity.
+journals/isci/CasillasCJH01:::J. Casillas::Oscar Cordán::M. J. Del Jesus::Francisco Herrera:::Genetic feature selection in a fuzzy rule-based classification system learning process for high-dimensional problems.
+journals/isci/HwangL00:::I-Shyan Hwang::San-Nan Lee:::Diagnosing crosstalk faults in a class of dilated blocking optical multistage interconnection networks.
+journals/isci/KrithivasanS01:::Kamala Krithivasan::K. Sharda:::Fuzzy omega-automata.
+journals/isci/ResconiW02:::Germano Resconi::Ariën J. van der Wal:::Morphogenic neural networks encode abstract rules by data.
+journals/isci/ChaudhuriI95:::Pranay Chaudhuri::Asad A. Ismaeel:::Algorithms for Finding and Updating Minimum-Depth Spanning Trees in Parallel.
+journals/isci/TanakaK00:::Kazuyo Tanaka::Hiroaki Kojima:::Between-word distance calculation in a symbolic domain and its applications to speech recognition.
+journals/isci/MatsuokaNRB02:::Hiroshi Matsuoka::Yasushi Nishiwaki::Alexander Ryjov::Alexander Belenki:::An evaluation method on the integrated safeguards based on fuzzy theory.
+journals/isci/HuynhN00:::Dung T. Huynh::Hai N. Nguyen:::A rearrangement algorithm for switching networks composed of digital symmetrical matrices.
+journals/isci/CaoWL03:::Huiping Cao::Shan Wang::Lingwei Li:::Location dependent query in a mobile environment.
+journals/isci/StirlingG99:::Wynn C. Stirling::Michael A. Goodrich:::Satisficing Games.
+journals/isci/WongCH01:::Andrew K. C. Wong::David K. Y. Chiu::W. Huang:::A discrete-valued clustering algorithm with applications to biomolecular data.
+journals/isci/HillebrandWG96:::R. Hillebrand::P. P. Wang::U. Gösele:::A Fuzzy Logic Approach to Edge Detection in HREM Images of III-V Crystals.
+journals/isci/Tsumoto00:::Shusaku Tsumoto:::Knowledge discovery in clinical databases and evaluation of discovered knowledge in outpatient clinic.
+journals/isci/CritchlowMS01:::Terence Critchlow::Ron Musick::Tom Slezak:::Experiences applying meta-data to bioinformatics.
+journals/isci/TorkkolaGKM01:::Kari Torkkola::Robert Mike Gardner::Tamma Kaysser-Kranich::Calvin Ma:::Self-organizing maps in mining gene expression data.
+journals/isci/Boger97:::Zvi Boger:::Experience in Industrial Plant Model Development Using Large-Scale Artificial Neural Networks.
+journals/isci/KunschF02:::Pierre L. Kunsch::Philippe Fortemps:::A fuzzy decision support system for the economic calculus in radioactive waste management.
+journals/isci/Ruan02:::Da Ruan:::Intelligent Information Systems and Applications.
+journals/isci/Goodman99:::I. R. Goodman:::Homomorphic-Like Random Set Representations for Fuzzy Logic Models Using Exponentiation with Applications to Data Fusion.
+journals/isci/TanL96:::Kian-Lee Tan::Hongjun Lu:::Scheduling Multiple Queries in Symmetric Multiprocessors.
+journals/isci/LeungTCC00:::Hing Leung::T. H. Tse::F. T. Chan::T. Y. Chen:::Test case selection with and without replacement.
+journals/isci/MazoGRULE00:::Manuel Mazo::J. C. García::F. J. Rodríguez::J. Ureña::J. L. Lázaro::Felipe Espinosa:::Integral system for assisted mobility.
+journals/isci/ScotneyM03:::Bryan W. Scotney::Sally I. McClean:::Database aggregation of imprecise and uncertain evidence.
+journals/isci/Ozeki94:::Kazuhiko Ozeki:::Dependency Structure Analysis as Combinatorial Optimization.
+journals/isci/JiaMPJ98:::Xiaohua Jia::Kia Makki::Niki Pissinou::Weijia Jia:::Group Channel Routing for Conferencing Systems in Wide Area Networks.
+journals/isci/Chang02:::Flora Chia-I Chang:::Intelligent assessment of distance learning.
+journals/isci/HilandsT94:::Thomas W. Hilands::Stelios C. A. Thomopoulos:::High-Order Filters for Estimation in Non-Gaussian Noise.
+journals/isci/Wang03:::Ying-Hong Wang:::Image indexing and similarity retrieval based on spatial relationship model.
+journals/isci/WongMUK03:::K. K. Y. Wong::Michel E. Marhic::K. Uesaka::Leonid Kazovsky:::Wavelength exchange: A novel function for optical networks.
+journals/isci/ThomopoulosO94:::Stelios C. A. Thomopoulos::Nickens N. Okello:::Distributed and Centralized Detection with Misaligned Sensors.
+journals/isci/Dogrusoz02:::Ugur Dogrusöz:::Two-dimensional packing algorithms for layout of disconnected graphs.
+journals/isci/Rosenfeld97:::Azriel Rosenfeld:::Visibility of "Tame" Terrain.
+journals/isci/WuV99a:::Lin Wu::Pramod K. Varshney:::Performance Analysis of CSMA and BTMA Protocols in Multihop Networks (II), Multiple Channel Case.
+journals/isci/Yang99:::Tao Yang II:::Computational Verb Systems: Modeling with Verbs and Applications.
+journals/isci/BhutaniR03a:::Kiran R. Bhutani::Azriel Rosenfeld:::Strong arcs in fuzzy graphs.
+journals/isci/MochizukiKSA98:::Hisatoshi Mochizuki::Masafumi Koyama::Masami Shishibori::Jun-Ichi Aoe:::A Substring search Algorithm in Extendible Hashing.
+journals/isci/RabasedaRS96:::Sabine Rabaséda::Ricco Rakotomalala::Marc Sebban:::A Comparison of Some Contextual Discretization Methods.
+journals/isci/BonisGV97:::Annalisa De Bonis::Luisa Gargano::Ugo Vaccaro:::Group Testing with Unreliable Tests.
+journals/isci/KomiyaET03:::Takao Komiya::Tomoya Enokido::Makoto Takizawa:::Mobile agent model for transaction processing on distributed objects.
+journals/isci/Madineni94:::Kedar Babu Madineni:::Two Corner Classification Algorithms for Training the KAK Feedforward Neural Network.
+journals/isci/LiangZWLL01:::Yanchun Liang::Chunguang Zhou::Zaishen Wang::Heow Pueh Lee::Siak Piang Lim:::An equivalent genetic algorithm based on extended strings and its convergence analysis.
+journals/isci/GarciaLA01:::David Garcia::María Asunción Lubiano::María Carmen Alonso:::Estimating the expected value of fuzzy random variables in the stratified random sampling from finite populations.
+journals/isci/Mizoguchi99:::Yoshihiro Mizoguchi:::Properties of Graphs Preserved by Relational Graph Rewritings.
+journals/isci/DongSGT99:::Xue-Dong Dong::Cheong Boon Soh::Erry Gunawan::Li-Zhong Tang:::On Groups of Complex Integers Used as QAM Signals.
+journals/isci/Yang99a:::Tao Yang II:::Computational Verb Systems: Averbs and Adverbials as Modifiers of Verbs.
+journals/isci/DeyuY00:::Li Deyu::Ma Yichen:::Invariant characters of information systems under some homomorphisms.
+journals/isci/LaiLSH99:::Wei Kuang Lai::Mei Chian Liou::Duan Ruei Shiu::Wen Jiunn Hsiao:::On a Multicast Resequencer for ATM Networks.
+journals/isci/KrishnamoorthiB98:::R. Krishnamoorthi::P. Bhattacharya:::Color Edge Extraction using Orthogonal Polynomials Based Zero Crossings scheme.
+journals/isci/ShihWJKB03:::Wei-Chuan Shih::Chee Wei Wong::Yong Bae Jeon::Sang-Gook Kim::George Barbastathis:::MEMS tunable gratings with analog actuation.
+journals/isci/ReifS01:::John H. Reif::James A. Storer:::Optimal encoding of non-stationary sources.
+journals/isci/AjroudJ97:::Henda Bélaïd Ajroud::Ali Jaoua:::Automatic Architectural Abstraction.
+journals/isci/LiangCML94:::J. Liang::Chin-Chen Chang::R. G. McFadyden::Richard C. T. Lee:::Optimal Multiple Key Hashing Files for Orthogonal Range Queries.
+journals/isci/MordesonS95:::John N. Mordeson::M. K. Sen:::Basic Fuzzy Subgroups.
+journals/isci/ChakrabortyJ03:::Uday Kumar Chakraborty::Cezary Z. Janikow:::An analysis of Gray versus binary encoding in genetic search.
+journals/isci/SadayappanER98:::P. Sadayappan::Fikret Erçal::J. Ramanujam:::Partitioning Graphs on Message-Passing Machines by Pairwise Mincut.
+journals/isci/NakamuraTA96:::Masami Nakamura::Kazuhiko Tsud::Jun-Ichi Aoe:::A New Approach to Phoneme Recognition by Phoneme Filter Neural Networks.
+journals/isci/GisolfiPS98:::Antonio Gisolfi::Witold Pedrycz::Salvatore Sessa:::Guest Editorial.
+journals/isci/ChakravarthyWN94:::Sharma Chakravarthy::Whan-Kyu Whang::Shamkant B. Navathe:::A Logic-Based Approach to Query Processing in Federated Databases.
+journals/isci/Cazenave03:::Tristan Cazenave:::Metarules to improve tactical Go knowledge.
+journals/isci/Vakali00:::Athena Vakali:::Data block prefetching and caching in a hierarchical storage model.
+journals/isci/ZelkowitzT94:::Marvin V. Zelkowitz::Jianhui Tian:::Measuring Prime Program Complexity.
+journals/isci/Wierman96:::Mark J. Wierman:::Assessing Fuzzy Sets and the Potential of Possibility Theory.
+journals/isci/HuangNG02:::Wei Huang::Dan Nettleton::Xun Gu:::Expression pattern of yeast sporulation: a case study for regulatory changes after yeast genome duplication.
+journals/isci/ShawO98:::Robert J. Shaw::Ronald A. Olsson:::Addressing the Shortcomings of Traditional Formal Reasoning Methods for Concurrent Programs: New Tools and Techniques for Source Code Correctness.
+journals/isci/Shih98a:::Timothy K. Shih:::On Computing Temporal/Spatial Relations.
+journals/isci/BouguettayaV98:::Athman Bouguettaya::Q. Le Viet:::Data Clustering Analysis in a Multidimensional Space.
+journals/isci/KahramanRT02:::Cengiz Kahraman::Da Ruan::Ethem Tolga:::Capital budgeting techniques using discounted fuzzy versus probabilistic cash flows.
+journals/isci/KasabovK00:::Nikola K. Kasabov::Robert Kozma:::Methods and systems for intelligent human-computer interaction.
+journals/isci/DonkersUH03:::H. H. L. M. Donkers::Jos W. H. M. Uiterwijk::H. Jaap van den Herik:::Admissibility in opponent-model search.
+journals/isci/KorukondaF03:::Appa Rao Korukonda::Seth Finn:::An investigation of framing and scaling as confounding variables in information outcomes: The case of technophobia.
+journals/isci/CongxinS98:::Wu Congxin::Soug Shiji:::Existence Theorem to the Cauchy Problem of Fuzzy Differential Equations under Compactness-Type Conditions.
+journals/isci/GoodmanN94:::I. R. Goodman::Hung T. Nguyen:::A Theory of Conditional Information For Probabilistic Inference in Intelligent Systems: II. Product Space Approach.
+journals/isci/ChangHWH97:::Jou-Ming Chang::Chiun-Chieh Hsu::Yue-Li Wang::Ting-Yem Ho:::Finding the Set of All Hinge Vertices for Strongly Chordal Graphs in Linear Time.
+journals/isci/SuzukiA94:::Hisashi Suzuki::Suguru Arimoto:::Embedment of a Fuzzy Logic System into a Boolean Lattice for Satisfying a Complementary Law.
+journals/isci/HelalF96:::Abdelsalam Helal::Judson Fortner:::Achieving Scalability in Highly Contentious Database Systems.
+journals/isci/Ulusoy95:::Özgür Ulusoy:::Research Issues in Real-Time Database Systems.
+journals/isci/Nguyen00:::Hung T. Nguyen:::Some mathematical structures for computational information.
+journals/isci/SheuTH01:::Jyh-Jian Sheu::Jimmy J. M. Tan::Lih-Hsing Hsu:::Routing properties of supercubes.
+journals/isci/SonDC97:::Sang Hyuk Son::Rasikan David::Craig Chaney:::Design and Analysis of an Adaptive Policy for Secure Real-Time Locking Protocol.
+journals/isci/GhoseAGS99:::Aditya Ghose::Grigoris Antoniou::Randy Goebel::Abdul Sattar:::Connections Between Default Reasoning and Partial Constraint Satisfaction.
+journals/isci/BonikowskiBW98:::Zbigniew Bonikowski::Edward Bryniarski::Urszula Wybraniec-Skardowska:::Extensions and Intentions in the Ruogh Set Theory.
+journals/isci/MuraiKS98:::Tetsuya Murai::Hideo Kanemitsu::Masaru Shimbo:::Fuzzy Sets and Binary-Proximity-Based Rough Sets.
+journals/isci/RocheMMM99:::B. Roche::T. Martin McGinnity::Liam P. Maguire::L. J. McDaid:::Modeling architectures for VLSI Implementations of Fuzzy Logic Systems.
+journals/isci/MontesCG03:::Susana Montes::Inés Couso::Pedro Gil:::Fuzzy delta-varepsilon-partitions.
+journals/isci/HsuCTL03:::Ya-Chen Hsu::Guanrong Chen::Shaocheng Tong::Han-Xiong Li:::Integrated fuzzy modeling and adaptive control for nonlinear systems.
+journals/isci/ChungSW96:::Chi-Ming Chung::Timothy K. Shih::Ying-Hong Wang:::A Quantitative Analysis for Different Testing Criteria through Programm Decomposition.
+journals/isci/ChungSW97:::Chi-Ming Chung::Timothy K. Shih::Chun-Chia Wang:::Object-Oriented Software Testing and Metric in Z Specification.
+journals/isci/Suraj98:::Zbigniew Suraj:::Reconstruction of Cooperative Information Systems under Cost Constraints: A Rough Set Approach.
+journals/isci/FuketaA98:::Masao Fuketa::Jun-Ichi Aoe:::A fast Algorithm of Retrieving Common Sentences.
+journals/isci/Niskanen01a:::Vesa A. Niskanen:::Prospects for soft statistical computing: describing data and inferring from data with words in the Human Sciences.
+journals/isci/BaetsCK98:::Bernard De Baets::Gert De Cooman::Etienne E. Kerre:::The Construction of Possibility Measures from Samples of T-Semi-Partitions.
+journals/isci/Morsi95:::Nehad N. Morsi:::On Two Types of STable Subconstructs of FTS.
+journals/isci/DelgadoZG01:::Myriam Regattieri Delgado::Fernando J. Von Zuben::Fernando A. C. Gomide:::Hierarchical genetic fuzzy systems.
+journals/isci/DonderlerO02:::Mehmet Emin Dönderler::Özgür Ulusoy::Ugur Güdükbay:::A rule-based video database system architecture.
+journals/isci/DelgodaMM99:::Miguel Delgoda::Carlos Javier Mantas::Claudio Moraga:::A Fuzzy Rule Based Backpropagation Method for Training Binary Multilayer Perceptrons.
+journals/isci/Frezza-BuetA02:::Hervé Frezza-Buet::Frédéric Alexandre:::From a biological to a computational model for the autonomous behavior of an animat.
+journals/isci/HuangC00:::Yin-Fu Huang::Jau-Min Chen:::The study of indexing techniques on object oriented databases.
+journals/isci/Tseng01:::Chris Tseng:::Control with Word: the modular approach.
+journals/isci/Agostino01:::Sergio De Agostino:::Parallelism and dictionary based data compression.
+journals/isci/Halel95:::Abdelsalam Helal:::Modeling Database System Availability under Network Partitioning.
+journals/isci/HussainK95:::Arshad Hussain::Ludwik Kurz:::Robust m-Interval Detection Procedures for Strong Mixing Noise.
+journals/isci/Knockaert03:::Luc Knockaert:::On scale and concentration invariance in entropies.
+journals/isci/Muller01:::Martin Müller III:::Global and local game tree search.
+journals/jifs/CicaleseL98:::Ferdinando Cicalese::Vincenzo Loia:::A fuzzy evolutionary approach to the classification problem.
+journals/jifs/GenkinKM02:::Alexander Genkin::Casimir A. Kulikowski::Ilya B. Muchnik:::Set covering submodular maximization: An optimal algorithm for data mining in bioinformatics and medical informatics.
+journals/jifs/RezaD98:::Ali M. Reza::Mahmood Doroodchi:::Segmentation of step-like signals using fuzzy clustering.
+journals/jifs/ReadBBV02:::Timothy Read::Elena Bárcena::Beatriz Barros::M. Felisa Verdejo:::Adaptive modelling of student diagnosis and material selection for on-line language learning.
+journals/jifs/YeungST99:::Daniel S. Yeung::Simon C. K. Shiu::Eric C. C. Tsang:::Modelling flexible manufacturing systems using weighted Fuzzy Coloured Petri Nets.
+journals/jifs/Kodogiannis01:::V. S. Kodogiannis:::An efficient fuzzy based technique for signal classification.
+journals/jifs/OhsakiTO98:::Miho Ohsaki::Hideyuki Takagi::Kimiko Ohya:::An input method using discrete fitness values for interactive GA.
+journals/jifs/ArciszewskiSS03:::Tomasz Arciszewski::Timothy Sauer::David A. Schum:::Conceptual designing: Chaos-based approach.
+journals/jifs/SabbadinDPG98:::Régis Sabbadin::Didier Dubois::Henri Prade::Pierre Grenier:::A fuzzy constraint satisfaction problem in the wine industry.
+journals/jifs/AhnKK98:::Sang Chul Ahn::Yong Ho Kim::Wook Hyun Kwon:::A fuzzy generalized predictive control using affine fuzzy predictors for nonlinear systems.
+journals/jifs/InoueKI98:::Hiroyuki Inoue::Katsuari Kamei::Kazuo Inoue:::Automatic generation of fuzzy rules using hyper-elliptic-cone membership functions by genetic algorithms.
+journals/jiis/ChuC92:::Wesley W. Chu::Qiming Chen:::Neighborhood and Associative Query Answering.
+journals/jiis/Cros94:::Valerie Cros:::Fuzzy Information Retrieval.
+journals/jiis/MillerPSKS98:::John A. Miller::Devanand Palaniswami::Amit P. Sheth::Krys Kochut::Harvinder Singh:::WebWork: METEOR<sub>2</sub>'s Web-Based Workflow Management System.
+journals/jiis/LiD96:::Shih-Hao Li::Peter B. Danzig:::Precision and Recall of Ranking Information-Filtering Systems.
+journals/jiis/Liu98:::Mengchi Liu:::An Overview of the Rule-Based Object Language.
+journals/jiis/KodratoffB92:::Yves Kodratoff::Gilles Bisson:::The Epistemology of Conceptual Clustering: KBG, an Implementation.
+journals/jiis/Jamil02:::Hasan M. Jamil:::Bottom-Up Association Rule Mining in Relational Databases.
+journals/jiis/JarkeGJS95:::Matthias Jarke::Rainer Gallersdörfer::Manfred A. Jeusfeld::Martin Staudt:::ConceptBase - A Deductive Object Base for Meta Data Management.
+journals/jiis/RasZ00:::Zbigniew W. Ras::Jan M. Zytkow:::Mining for Attribute Definitions in a Distributed Two-Layered DB System.
+journals/jiis/ChakravarthyW96:::Sharma Chakravarthy::Jennifer Widom:::Foreword: Special Issue on Active Database Systems.
+journals/jiis/BoscP92:::Patrick Bosc::Olivier Pivert:::Some Approaches for Relational Databases Flexible Querying.
+journals/jiis/ChanS97:::Philip K. Chan::Salvatore J. Stolfo:::On the Accuracy of Meta-Learning for Scalable Data Mining.
+journals/jiis/YagerL93:::Ronald R. Yager::Henrik Legind Larsen:::Retrieving Information by Fuzzification of Queries.
+journals/jiis/KuokkaH96:::Daniel Kuokka::Larry Harada:::Integrating Information via Matchmaking.
+journals/jiis/NwosuCB94:::Kingsley C. Nwosu::C. Y. Roger Chen::P. Bruce Berra:::Multimedia Object Modeling and Storage Allocation Strategies.
+journals/jiis/WainerS99:::Jacques Wainer::Sandra Sandri:::Fuzzy Temporal/Categorical Information in Diagnosis.
+journals/jiis/MansfieldF93:::William H. Mansfield::Robert M. Fleischman:::A High-Performance, Ad-Hoc, Fuzzy Query Processing System.
+journals/jiis/AkmanP96:::Varol Akman::Müjdat Pakkan:::Nonstandard Set Theories and Information Management.
+journals/jiis/CzyzewskiKK03:::Andrzej Czyzewski::Andrzej Kaczmarek::Bozena Kostek:::Intelligent Processing of Stuttered Speech.
+journals/jiis/TaboadaMMO96:::Maria Taboada::Roque Marín::José Mira::Ramón P. Otero:::Integrating Medical Expert Systems, Patient Data-Bases and User Interfaces.
+journals/jiis/Gaines97:::Brian R. Gaines:::Knowledge Management in Societies of Intelligent Adaptive Agents.
+journals/jiis/LambrixS00:::Patrick Lambrix::Nahid Shahmehri:::Querying Documents using Content, Structure and Properties.
+journals/jiis/YoonRCK01:::Jong P. Yoon::Vijay Raghavan::Venu Chakilam::Larry Kerschberg:::BitCube: A Three-Dimensional Bitmap Indexing for XML Documents.
+journals/jiis/Daudpota98:::Nadeem H. Daudpota:::Five Steps to Construct a Model of Data Allocation for Distributed Database Systems.
+journals/jiis/WieczorkowskaZ03:::Alicja Wieczorkowska::Jan M. Zytkow:::Analysis of Feature Dependencies in Sound Description.
+journals/jiis/Wiederhold92:::Gio Wiederhold:::The Roles of Artificial Intelligence in Information Systems.
+journals/jiis/Wiederhold96:::Gio Wiederhold:::Intelligent Integration of Information - Foreword.
+journals/jiis/WuwongseAAN03:::Vilas Wuwongse::Kiyoshi Akama::Chutiporn Anutariya::Ekawit Nantajeewarawat:::A Data Model for XML Databases.

@@ -1,0 +1,200 @@
+conf/europar/SongKEPC03:::Wenbin Song::Andy Keane::M. Hakki Eres::Graeme E. Pound::Simon Cox:::Two Dimensional Airfoil Optimisation Using CFD in a Grid Computing Environment.
+conf/europar/DikenelliUO96:::Oguz Dikenelli::Murat Osman Ünalir::Esen A. Ozkarahan:::BLOCKER: A Variable &amp; Multiattribute Declustering for Parallel Database Machines.
+conf/europar/RowstronW96:::Antony I. T. Rowstron::Alan Wood:::An Efficient Distributed Tuple Space Implementation for Networks of Workstations.
+conf/europar/SottileM99:::Matthew J. Sottile::Allen D. Malony:::INTERLACE: An Interoperation and Linking Architecture for Computational Engines.
+conf/europar/MedeirosC97:::Pedro D. Medeiros::José C. Cunha:::Interconnecting Multiple Heterogeneous Parallel Application Components.
+conf/europar/LiP03:::Xiaolin Li::Manish Parashar:::Dynamic Load Partitioning Strategies for Managing Data of Space and Time Heterogeneity in Parallel SAMR Applications.
+conf/europar/SinghviG95:::Nitin K. Singhvi::Kanad Ghose:::A Formal Study of the Mcube Interconnection Network.
+conf/europar/LiZ96:::T.-Y. Li::Xiulin Zou:::Implementing the Parallel Quasi-Laguerre's Algorithm for Symmetric Tridiagonal Eigenproblems.
+conf/europar/UnrauSK95:::Ronald C. Unrau::Michael Stumm::Orran Krieger:::On the Scalability of Demand-Driven Parallel Systems.
+conf/europar/Uhl02:::Andreas Uhl:::Architectures and Algorithms for Multimedia Applications.
+conf/europar/Molnar95:::Katalin Molnár:::Parallel Prolog with Uncertainty Handling.
+conf/europar/GomezFRLD02:::María E. Gómez::Jose Flich::Antonio Robles::Pedro López::José Duato:::Evaluation of Routing Algorithms for InfiniBand Networks (Research Note).
+conf/europar/Heinrich-LitanFSMR98:::Laura Heinrich-Litan::Ursula Fissgus::St. Sutter::Paul Molitor::Thomas Rauber:::Modeling the Communication Behavior of Distributed Memory Machines by Genetic Programming.
+conf/europar/HosoyaKY96:::Haruo Hosoya::Naoki Kobayashi::Akinori Yonezawa:::Partial Evaluation Scheme for Concurrent Languages and Its Correctness.
+conf/europar/KefalasV96:::Petros Kefalas::Ioannis P. Vlahavas:::Multiple OR-Parallel Resolution: Meta-Level Control of Parallel Logic Programs.
+conf/europar/Valero-GarciaGCR98:::Miguel Valero-García::Antonio González::Luis Díaz de Cerio::Dolors Royo:::Divide-and-Conquer Algorithms on Two-Dimensional Meshes.
+conf/europar/BuschDHM00:::Costas Busch::Neophytos Demetriou::Maurice Herlihy::Marios Mavronicolas:::A Combinatorial Characterization of Properties Preserved by Antitokens.
+conf/europar/Lowe95:::Welf Löwe:::Optimization of PRAM-Programs with Input-Dependent Memory Access.
+conf/europar/Puntigam96:::Franz Puntigam:::Synchronization Expressed in Types of Communication Channels.
+conf/europar/KonakaITMIH96:::Hiroki Konaka::Yoshiaki Itoh::Takashi Tomokiyo::Munenori Maeda::Yutaka Ishikawa::Atsushi Hori:::Adaptive Data Parallel Computation in the Parallel Object-Oriented Language <i>OCore</i>.
+conf/europar/Feitelson02:::Dror G. Feitelson:::The Forgotten Factor: Facts on Performance Evaluation and Its Dependence on Workloads.
+conf/europar/DaneluttoPP97:::Marco Danelutto::Fabrizio Pasqualetti::Susanna Pelagatti:::Skeletons for Data Parallelism in p3l.
+conf/europar/AlbersB96:::Patrick Albers::Jacques Bellone:::A Planning System for Aircraft Production with Parallel Constraint Logic Programming.
+conf/europar/BrandesG98:::Thomas Brandes::Cécile Germain:::A Tracing Protocol for Optimizing Data Parallel Irregular Computations.
+conf/europar/El-KhatibHB03:::Khalil El-Khatib::N. Hadibi::Gregor von Bochmann:::Support for Personal and Service Mobility in Ubiquitous Computing Environments.
+conf/europar/SaddikD03:::Abdulmotaleb El Saddik::Andre Dufour:::Peer-to-Peer Communication through the Design and Implementation of Xiangqi.
+conf/europar/GiannakosKM96:::Aristotelis Giannakos::Jean-Claude König::Alix Munier:::On the Cyclic Scheduling Problem with Small Communication Delays (Extended Abstract).
+conf/europar/IkenagaO96:::Takeshi Ikenaga::Takeshi Ogura:::CAM²: A Highly-Parallel 2D Cellular Automata Architecture for Real-Time and Palm-Top Pixel-Level Image Processing.
+conf/europar/ErcanOF99:::Muhammet Fikret Ercan::Ceyda Oguz::Yu-Fai Fung:::Job Scheduling in a Multi-layer Vision System.
+conf/europar/RavaraV97:::António Ravara::Vasco Thudichum Vasconcelos:::Behavioural Types for a Calculus of Concurrent Objects.
+conf/europar/BakerBHB01:::Mark Baker::John Brooke::Kenneth A. Hawick::Rajkumar Buyya:::Topic 16: Cluster Computing.
+conf/europar/Smai95:::Abdel-Halim Smai:::Congestion Control in Wormhole Networks: First Results.
+conf/europar/CosterELP96:::Luc De Coster::Marc Engels::Rudy Lauwereins::J. A. Peperstraete:::Global Approach for Compiled Bit-True Simulation of DSP Systems.
+conf/europar/AntonisGS98:::Konstantinos Antonis::John D. Garofalakis::Paul G. Spirakis:::A Competitive Symmetrical Transfer Policy for Load Sharing.
+conf/europar/BriatGPP97:::Jacques Briat::Ilan Ginzburg::Marcelo Pasin::Brigitte Plateau:::Athapascan Runtime: Efficiency for Irregular Problems.
+conf/europar/AltilarP02:::D. Turgay Altilar::Yakup Paker:::Optimal Scheduling Algorithms for Communication Constrained Parallel Processing.
+conf/europar/HillDL98:::Jonathan M. D. Hill::Stephen R. Donaldson::Tim Lanfear:::Process Migration and Fault Tolerance of BSPlib Programs Running on Networks of Workstations.
+conf/europar/MullerSVV00:::Silvia M. Müller::Per Stenström::Mateo Valero::Stamatis Vassiliadis:::Parallel Computer Architecture.
+conf/europar/Shafarenko96:::Alexander V. Shafarenko:::A Nonannotative Approach to Distributed Data-Parallel Computing.
+conf/europar/RobertCGK03:::Yves Robert::Henri Casanova::Arjan J. C. van Gemund::Dieter Kranzlmüller:::Topic Introduction.
+conf/europar/AnguitaCSP97:::Davide Anguita::Marco Chirico::Anna Marina Scapolla::Giancarlo Parodi:::RAIN: Redundant Array of Inexpensive workstations for Neurocomputing.
+conf/europar/Wise00:::David S. Wise:::Ahnentafel Indexing into Morton-Ordered Arrays, or Matrix Locality for Free.
+conf/europar/SchlesingerL03:::Lutz Schlesinger::Wolfgang Lehner:::SCINTRA: A Model for Quantifying Inconsistencies in Grid-Organized Sensor Database Systems.
+conf/europar/FriedmanSIBHKKV99:::Roy Friedman::Assaf Schuster::Ayal Itzkovitz::Eli Biham::Erez Hadad::Vladislav Kalinovsky::Sergey Kleyman::Roman Vitenberg:::Symphony: Managing Virtual Servers in the Global Village.
+conf/europar/ObermanF96:::Stuart F. Oberman::Michael J. Flynn:::A Variable Latency Pipelined Floating-Point Adder.
+conf/europar/BhatiaMA01:::Karan Bhatia::Keith Marzullo::Lorenzo Alvisi:::Scalable Causal Message Logging for Wide-Area Environments.
+conf/europar/BeckmannK98:::Olav Beckmann::Paul H. J. Kelly:::Data Distribution at Run-Time: Re-using Execution Plans.
+conf/europar/ChalmersC02:::Alan Chalmers::Kirsten Cater:::Realistic Rendering in Real-Time.
+conf/europar/MelideoMBM00:::Giovanna Melideo::Marco Mechelli::Roberto Baldoni::Alberto Marchetti-Spaccamela:::Timestamping Algorithms: A Characterization and a Few Properties.
+conf/europar/AvreskyG99:::Dimiter R. Avresky::S. Geoghegan:::Software Implemented Fault Tolerance in Hypercube.
+conf/europar/TallaJ99:::Deependra Talla::Lizy Kurian John:::Performance Evaluation and Benchmarking of Native Signal Processing.
+conf/europar/DeconinckFLV97:::Geert Deconinck::Vincenzo De Florio::Rudy Lauwereins::Theodora A. Varvarigou:::EFTOS: A Software Framework for More Dependable Embedded HPC Applications.
+conf/europar/KnijnenburgKG01:::Peter M. W. Knijnenburg::Toru Kisuki::Kyle Gallivan:::Cache Models for Iterative Compilation.
+conf/europar/BlayoDMT99:::Eric Blayo::Laurent Debreu::Gregory Mounie::Denis Trystram:::Dynamic Load Balancing for Ocean Circulation Model with Adaptive Meshing.
+conf/europar/BougeMFS99:::Luc Bougé::William F. McColl::Mamoun Filali::Henk J. Sips:::Parallel Programming: Models, Methods, and Languages - Introduction.
+conf/europar/GranatKP03:::Robert Granat::Bo Kågström::Peter Poromaa:::Parallel ScaLAPACK-Style Algorithms for Solving Continuous-Time Sylvester Matrix Equations.
+conf/europar/AldinucciCCCDPRTVZ03:::Marco Aldinucci::Sonia Campa::Pierpaolo Ciullo::Massimo Coppola::M Danelutto::Paolo Pesciullesi::Roberto Ravazzolo::M. Torquati::Marco Vanneschi::C. Zoccolo:::ASSIST Demo: A High Level, High Performance Portable, Structured Parallel Programming Environment at Work.
+conf/europar/JayCSS97:::C. Barry Jay::Murray Cole::M. Sekanina::Paul Steckler:::A Monadic Calculus for Parallel Costing of a Functional Language of Arrays.
+conf/europar/TumuluriC96:::Chaitanya Tumuluri::Alok N. Choudhary:::Scalable Software Latency Hiding Schemes: Evaluation of the Poststore and Prefetch Options.
+conf/europar/PriolR98:::Thierry Priol::Christophe René:::Cobra: A CORBA-compliant Programming Environment for High-Performance Computing.
+conf/europar/FerreiraLMR98:::Afonso Ferreira::Isabelle Guérin Lassous::K. Marcus::Andrew Rau-Chaplin:::Parallel Computation on Interval Graphs Using PC CLusters: Algorithms and Experiments.
+conf/europar/Reeve99:::Jeff S. Reeve:::A Performance Estimator for Parallel Programs.
+conf/europar/SimonKL99:::Horst D. Simon::William T. C. Kramer::Robert F. Lucas:::Building the Teraflops/Petabytes Production Supercomputing Center.
+conf/europar/VerleyB96:::Gilles Verley::Jean Pierre Asselin de Beauville:::Multilayer Perception Learning Control.
+conf/europar/CrookesMBMRS98:::Danny Crookes::Philip J. Morrow::T. J. Brown::G. McAleese::D. K. Roantree::I. T. A. Spence:::Achieving Portability and Efficiency Through Automatic Optimisation: An Investigation in Parallel Image Processing.
+conf/europar/KimYM96:::Myung-Kyun Kim::Hyunsoo Yoon::Seung Ryoul Maeng:::A Necessary and Sufficient Condition for Proper Routing in Omega-Omega Network.
+conf/europar/AppianiCGC96:::E. Appiani::M. Corvi::Giovanni Garibotto::C. Coelho:::High-Performance SAR Image Formation and Post-Processing.
+conf/europar/BonifaceAV99:::Yann Boniface::Frédéric Alexandre::Stéphane Vialle:::A Library to Implement Neural Networks on MIMD Machines.
+conf/europar/Kiper97:::Ayse Kiper:::A Fully Parallel Symmetric Matrix Transformation.
+conf/europar/UhtKMAK02:::Augustus K. Uht::Alireza Khalafi::David Morano::Marcos de Alba::David R. Kaeli:::Realizing High IPC Using Time-Tagged Resource-Flow Computing.
+conf/europar/FotisKS99:::S. Fotis::John A. Keane::R. I. Scott:::Parallel Data Mining in the HYPERBANK Project.
+conf/europar/PodehlRR96:::Axel Podehl::Thomas Rauber::Gudula Rünger:::Scalability and Granularity Issues of the Hierarchical Radiosity Method.
+conf/europar/BennerQQ99:::Peter Benner::Enrique S. Quintana-Ortí::Gregorio Quintana-Ortí:::Solving Stable Stein Equations on Distributed Memory Computers.
+conf/europar/VassiliadisCVC01:::Stamatis Vassiliadis::Francky Catthoor::Mateo Valero::Sorin Cotofana:::Topic 15+20: Multimedia and Embedded Systems.
+conf/europar/JohnstonFD03:::David Johnston::Martin Fleury::Andy C. Downton:::Prototyping Application Models in Concurrent ML.
+conf/europar/Leppanen96:::Ville Leppänen:::Goodness of Time-Processor Optimal PRAM Simulations.
+conf/europar/AloisioCLE03:::Giovanni Aloisio::Massimo Cafaro::Daniele Lezzi::Robert van Engelen:::Secure Web Services with Globus GSI and gSOAP.
+conf/europar/Knopp96:::Jürgen Knopp:::High Level Parallel Programming Based on Automatic Coordination.
+conf/europar/Gannon01:::Dennis Gannon:::Software Component Technology for High Performance Parallel and Grid Computing.
+conf/europar/LeeSM97:::Jong-bok Lee::Wonyong Sung::Soo-Mook Moon:::An Enhanced Two-Level Adaptive Multiple Branch Prediction for Superscalar Processors.
+conf/europar/PuenteGIB99:::Valentin Puente::José A. Gregorio::Cruz Izu::Ramón Beivide:::Impact of the Head-of-Line Blocking on Parallel Computer Networks: Hardware to Applications.
+conf/europar/SharmaARW99:::Girindra D. Sharma::Nael B. Abu-Ghazaleh::Umesh Kumar V. Rajasekaran::Philip A. Wilsey:::Optimizing Message Delivery in Asynchronous Distributed Applications.
+conf/europar/KotlyarPS97:::Vladimir Kotlyar::Keshav Pingali::Paul Stodghill:::A Relational Approach to the Compilation of Sparse Matrix Programs.
+conf/europar/HernandezH98:::Emilio Hernández::Anthony J. G. Hey:::White-Box Benchmarking.
+conf/europar/Schmollinger03:::Martin Schmollinger:::Improving Communication Sensitive Parallel Radix Sort for Unbalanced Data.
+conf/europar/GerasoulisJ97:::Apostolos Gerasoulis::Jia Jiao:::Rescheduling Support for Mapping Dynamic Scientific Computation onto Distributed Memory Multiprocessors.
+conf/europar/Nepomniaschaya96:::A. S. Nepomniaschaya:::Representation of the Gabow Algorithm for Finding Smallest Trees with a Degree Constraint on Associative Parallel Processors.
+conf/europar/TruongF03:::Hong-Linh Truong::Thomas Fahringer:::On Utilizing Experiment Data Repository for Performance Analysis of Parallel Applications.
+conf/europar/RodriguezUIC96:::Noemi de La Rocque Rodriguez::Cristina D. Ururahy::Roberto Ierusalimschy::Renato Cerqueira:::The Use of Interpreted Languages for Implementing Parallel Algorithms on Distributed Systems.
+conf/europar/SampaioSPW01:::Sandra de F. Mendes Sampaio::Jim Smith::Norman W. Paton::Paul Watson:::An Experimental Performance Evaluation of Join Algorithms for Parallel Object Databases.
+conf/europar/LoweEZ96:::Welf Löwe::Jörn Eisenbiegler::Wolf Zimmermann:::Optimization of Parallel Programs on Machines with Expensive Communication.
+conf/europar/ErmedahlG97:::Andreas Ermedahl::Jan Gustafsson:::Deriving Annotations for Tight Calculation of Execution Time.
+conf/europar/LoweZE97:::Welf Löwe::Wolf Zimmermann::Jörn Eisenbiegler:::On Linear Schedules of Task Graphs for Generalized LogP-Machines.
+conf/europar/AlefragisGHSTW98:::Panayiotis Alefragis::Christos Goumopoulos::Efthymios Housos::Peter Sanders::Tuomo Takkula::Dag Wedelin:::Parallel Crew Scheduling in PAROS.
+conf/europar/KascheFHE99:::B. Kasche::Dietmar Fey::T. Höhn::Werner Erhard:::3D Optoelectronic Fix Point Unit and Its Advantages Processing 3D Data.
+conf/europar/SimonHSI03:::Vilmos Simon::Árpád Huszák::Sándor Szabó::Sándor Imre:::QoS Provision in IP Based Mobile Networks.
+conf/europar/Berrendorf98:::Rudolf Berrendorf:::Optimizing Load Balance and Communication on Parallel Computers with Distributed Shared Memory.
+conf/europar/Plachetka02:::Tomas Plachetka:::Perfect Load Balancing for Demand-Driven Parallel Ray Tracing.
+conf/europar/Pen-MariG96:::Ricardo Peña-Marí::Luis A. Galán:::Proving Progress Properties of non Terminating Programs under Fairness Assumptions.
+conf/europar/DoalloFZ99:::Ramon Doallo::Basilio B. Fraguela::Emilio L. Zapata:::Set Associative Cache Behavior Optimization.
+conf/europar/Meyer01:::Ulrich Meyer:::Heaps Are Better than Buckets: Parallel Shortest Paths on Unbalanced Graphs.
+conf/europar/LaunayP98:::Pascale Launay::Jean-Louis Pazat:::Generation of Distributed Parallel Java Programs.
+conf/europar/SchmidtSS97:::Bertil Schmidt::Manfred Schimmler::Heiko Schröder:::Morphological Hough Transform on the Instruction Systolic Array.
+conf/europar/SchmidtSS98:::Bertil Schmidt::Manfred Schimmler::Heiko Schröder:::Long Operand Arithmetic on Instruction Systolic Computer Architectures and Its Application in RSA Cryptography.
+conf/europar/Dantas98:::M. A. R. Dantas:::Evaluation of Process Migration for Parallel Heterogeneous Workstation Clusters.
+conf/europar/PerrottSNK03:::Ronald H. Perrott::Henk J. Sips::Jarek Nabrzyski::Michael Kropfberger:::Demonstrations of Parallel and Distributed Computing.
+conf/europar/Minas95:::Mark Minas:::Detecting Quantified Global Predicates in Parallel Programs.
+conf/europar/Gaudiot02:::Jean-Luc Gaudiot:::Parallel Computer Architecture and Instruction-Level Parallelism.
+conf/europar/JefferyDZGP97:::Clinton L. Jeffery::Sandra G. Dykes::Xiaodong Zhang::Guillermo H. Gonzalez::Jason L. Peacock:::Nova Visualization for Optimization of Data-Parallel Programs.
+conf/europar/Abdallah98:::Ali E. Abdallah:::A Graphical Tool for the Visualization and Animation of Communicating Sequential Processes.
+conf/europar/NikolopoulosPP98:::Dimitrios S. Nikolopoulos::Eleftherios D. Polychronopoulos::Theodore S. Papatheodorou:::Enhancing the Performance of Auroscheduling in Distributed Shared Memory Multiprocessors.
+conf/europar/NowakTGG97:::David Nowak::Jean-Pierre Talpin::Thierry Gautier::Paul Le Guernic:::An ML-Like Module System for the Synchronous Language SIGNAL.
+conf/europar/HousniLT03:::Ahmed Housni::Michel Lacroix::Michel Trehel:::Distributed Scheduling of Mobile Priority Requests.
+conf/europar/RauberRS96:::Thomas Rauber::Gudula Rünger::Carsten Scholtes:::Shared-Memory Implementation of an Irregular Particle Simulation Method.
+conf/europar/AuDGGTY96:::Peter Au::John Darlington::Moustafa Ghanem::Yike Guo::Hing Wing To::Jin Yang:::Co-ordinating Heterogeneous Parallel Computation.
+conf/europar/BourgeoisS00:::Julien Bourgeois::François Spies:::Performance Prediction of an NAS Benchmark Program with ChronosMix Environment.
+conf/europar/PhamEF97:::C. D. Pham::J. Essmeyer::Serge Fdida:::Simulation of a Routing Algorithm Using Distributed Simulation Techniques.
+conf/europar/SantosN98:::Rafael R. dos Santos::Philippe Olivier Alexandre Navaux:::Analysing a Multistreamed Superscalar Speculative Fetch Mechanism.
+conf/europar/StewartCGS01:::Alan Stewart::Maurice Clint::Joaquim Gabarró::Maria J. Serna:::Towards Formally Refining BSP Barrier s into Explicit Two-Sided Communications.
+conf/europar/IavernaroM99:::Felice Iavernaro::Francesca Mazzia:::On the Extension of the Code GAM for Parallel Computing.
+conf/europar/HeymannSLL01:::Elisa Heymann::Miquel A. Senar::Emilio Luque::Miron Livny:::Self-Adjusting Scheduling of Master-Worker Applications on Distributed Clusters.
+conf/europar/DesprezDT96:::Frederic Desprez::Stéphane Domas::Bernard Tourancheau:::Optimization of the ScaLAPACK LU Factorization Routine Using Communication/Computation Overlap.
+conf/europar/DesprezRR96:::Frederic Desprez::Pierre Ramet::Jean Roman:::Optimal Grain Size Computation for Pipelined Algorithms.
+conf/europar/FurPA95:::Marc Le Fur::Jean-Louis Pazat::Françoise André:::An Array Partitioning Analysis for Parallel Loop Distribution.
+conf/europar/DimitrelosH99:::Dimitris Dimitrelos::Constantine Halatsis:::Improving the Performance of Distributed Shared Memory Environments on Grid Multiprocessors.
+conf/europar/BarthouFR02:::Denis Barthou::Paul Feautrier::Xavier Redon:::On the Equivalence of Two Systems of Affine Recurrence Equations (Research Note).
+conf/europar/HanMS02:::Jun Han::Graham McMahon::Stephen Sugden:::A Branch and Bound Algorithm for Capacitated Minimum Spanning Tree Problem (Research Note).
+conf/europar/CasanovaKPD99:::Henri Casanova::MyungHo Kim::James S. Plank::Jack Dongarra:::Adaptive Scheduling for Task Farming with Grid Middleware.
+conf/europar/GallardM03:::Pascal Gallard::Christine Morin:::Dynamic Streams for Efficient Communications between Migrating Processors in a Cluster.
+conf/europar/dArgence96:::Patrick Le Gouëslier d'Argence:::An Asymptotically Optimal Affine Schedule on Bounded Convex Polyhedric Domains.
+conf/europar/AlvesPER03:::Albano Agostinho Gomes Alves::António Pina::José Luís Padrão Exposto::José Rufino:::RoCL: A Resource Oriented Communication Library.
+conf/europar/KorchRR02:::Matthias Korch::Thomas Rauber::Gudula Rünger:::Pipelining for Locality Improvement in RK Methods.
+conf/europar/MartinezFMNGBG97:::Antonio Martínez::Fracisco Fraile::Jordi Mallorquí::Leonardo Nogueira::Jordi Gabaldá::Antoni Broquetas::Antonio González:::PARSAR: Parallelisation of a Chirp Scaling Algorithm SAR Processor.
+conf/europar/SimonW96:::Jens Simon::Jens-Michael Wierum:::Accurate Performance Prediction for Assively Parallel Systems and Its Applications.
+conf/europar/Lenders99:::David J. Miron::Patrick M. Lenders:::Estimating Computer Performance for Parallel Sparse <i>QR</i> Factorisation.
+conf/europar/LanglaisLRS02:::Michel Langlais::Guillaume Latu::Jean Roman::Patrick Silan:::Stochastic Simulation of a Marine Host-Parasite System Using a Hybrid MPI/OpenMP Programming.
+conf/europar/ShaferG99:::Stephen Shafer::Kanad Ghose:::Post-Scheduling Optimization of Parallel Programs.
+conf/europar/Gesmann96:::Michael Gesmann:::Mapping a Parallel Complex-Object DBMS to Operating System Processes.
+conf/europar/SipsCC98:::Henk J. Sips::Antonio Corradi::Murray Cole:::Languages.
+conf/europdp/ProdanFGMFM03:::Radu Prodan::Thomas Fahringer::Michael Geissler::Georg Madsen::Franz Franchetti::Hans Moritsch:::On Using ZENTURIO for Performance and Parameter Studies on Cluster and Grid Architectures.
+conf/europdp/DaneseLLSS03:::Giovanni Danese::I. De Lotto::Francesco Leporati::M. Scaricabarozzi::A. Spelgatti:::An Accelerator for Double Precision Floating Point Operations.
+conf/europdp/SanchezLARVB03:::Eduardo Sánchez::M. Lama::R. Amorim::A. Riera::J. Vila::Senén Barro:::A multi-tiered agent-based architecture for a cooperative learning environment .
+conf/europdp/GarciaCCPF03:::Félix García::Alejandro Calderón::Jesús Carretero::Jose M. Pérez::Javier Fernández:::A Parallel and Fault Tolerant File System Based on NFS Servers.
+conf/europdp/GazzottiMZ03:::Matteo Gazzotti::Marco Mamei::Franco Zambonelli:::A Programmable Event-based Middleware for Pervasive Mobile Agent Organizations.
+conf/eurosam/Voros79:::A. Voros:::Symbol calculus by symbolic computation and semi-classical expansions.
+conf/eurosam/Smit79:::J. Smit:::New recursive minor expansion algorithms.
+conf/eurosam/MatulaK79:::David W. Matula::Peter Kornerup:::An approximate rational arithmetic system with intrinsic recovery of simple fractions during expression evaluation.
+conf/eurosam/NavarroO84:::M. Navarro::Fernando Orejas:::On the Equivalence of Hierarchical and Non-Hierarchical Rewriting on Conditional Term Rewriting Systems.
+conf/eurosam/KhalilU79:::Hatem M. Khalil::Dana L. Ulery:::A semi-numeric difference algorithm.
+conf/eurosam/RichS79:::Albert D. Rich::David R. Stoutemeyer:::Capabilities of the MUMATH-78 computer algebra system for the INTEL-8080 microprocessor (invited).
+conf/eurosam/Landau84:::Susan Landau:::Polynomial Time Algorithms for Galois Groups.
+conf/eurosam/DoraT84:::Jean Della Dora::Evelyne Tournier:::Homogeneous Linear Difference Equation (Frobenius - Boole Method).
+conf/eurosam/Geddes79:::Keith O. Geddes:::Convergence behavior of the Newton iteration for first order differential equations.
+conf/eurosim/Le95:::Tu Van Le:::A Fuzzy Temporal Logic-Based Framework for Fuzzy Discrete-Event Simulation.
+conf/eurosim/SongRYB94:::Z. W. Song::Dirk Roose::C. S. Yu::Jean Berlamont:::A Comparison of Parallel Solvers for the 2-D Shallow Water Equations on Distributed Memory Parallel Computers.
+conf/eurosim/Cate94:::H. H. ten Cate:::Rigorous Abstraction and Specification in Parallel Software Development.
+conf/eurosim/MessinaBD95:::N. Messina::Fernand Boéri::J. Demartini:::A Functional Approach for Modelling and Simulation.
+conf/eurosim/Shapiro94:::Eugene Shapiro:::MPP systems, Opportunities, Visions and Reality.
+conf/eurosim/JanssenL94:::Jack Janssen::Hai-Xiang Lin:::Experiences of Parallelizing the PSE Model for Electron Beam Radiotherapy.
+conf/eurosim/QuatemberV95:::Bernhard Quatember::F. Veit:::Simulation Model of the Coronary Artery Flow Dynamics and Its Applicability in the Area of Coronary Surgery.
+conf/eurosim/GoneidMW95:::A. Goneid::Mostafa G.-H. Mostafa::Cheuk-Yin Wong:::Simulation of Multiparticle Production in High-Energy Nuclear Interactions.
+conf/eurosim/MartinsCA95:::António P. Martins::Adriano S. Carvalho::Armando S. Araújo:::Modelling and Simulation of a Voltage Source Three Phase Active Power Filter.
+conf/eurosim/LeussenB96:::Wim van Leussen::Jean Berlamont:::Large-scale analysis and numerical simulation for the North-west European Shelf (NOWESP).
+conf/eurosim/NiSL95:::Weidou Ni::Xin Sun::Zheng Li:::A New Numerical-Analytical Hybrid Simulation Method for Thermal Power System.
+conf/eurosim/Hartmann95:::Peter Hartmann:::Simulating Biological Systems with Graph Based Cellular Automata.
+conf/eurosim/Ribeiro-FilhoTT94:::Jose L. Ribeiro-Filho::Kifah Tout::Ulrich Tiedemann:::GAME: A Tool Kit for Exploiting Massively Parallel Genetic Algorithms.
+conf/eurosim/Schwehm94:::Markus Schwehm:::Massively Parallel Genetic Algorithms.
+conf/eurosim/Brothaler95:::J. Bröthaler:::An Integrated Model for Public Budget Simulation.
+conf/eurosim/Gertosio96:::C. Gertosio:::Implementation and performance evaluations of an ISO RPC in an industrial context.
+conf/eurosim/MicheliniACMR95:::R. C. Michelini::G. M. Acaccia::M. Callegari::R. M. Molfino::R. P. Razzoli:::Knowledge-Based Simulation of Intelligent Control in Process Engineering.
+conf/eurosim/TuuriNLLJ95:::Sami Tuuri::Anne Niemenmaa::Ismo Laukkanen::Jari Lappalainen::Kaj Juslin:::A Multi-Purpose Tool for Dynamic Simulation of Paper and Board Mills.
+conf/eurosim/YeK96a:::Xinfeng Ye::John A. Keane:::Delivering multicast message to mobile hosts.
+conf/eurosim/LonsdaleCVD94:::Guy Lonsdale::Jan Clinckemaillie::Stefanos Vlachoutsis::J. Dubois:::CRASH-Simulation Migration to HPC Systems.
+conf/eurosim/KhoumsiARM94:::K. Khoumsi::C. Aktouf::Chantal Robach::Guy Mazaré:::Design and Test of a Massively Parallel Architecture.
+conf/eurosim/KeaneY96:::John A. Keane::Xinfeng Ye:::A fault tolerant model for a parallel database system.
+conf/eurosim/FinsterwalderSG95:::Reinhard Finsterwalder::M. Schlemmer::G. Grübel:::Virtual Robot Mechatronics: Interactive Dynamics Simulation Experimenting.
+conf/eurosim/WrightW95:::David T. Wright::David J. Williams:::Develpment &amp; Benchmarking of Pultrusion Process Models: Including Artificial Neutral Network, Rule Based and Mathematical.
+conf/eurosim/VollebregtR94:::Edwin A. H. Vollebregt::Mark R. Roest:::Massively Parallel Simulation of Fluid Flows: First Results.
+conf/eurosim/LorenzS95:::Peter Lorenz::Thomas Schulze:::Map Based Model Generation.
+conf/eurosim/EckerK95:::Horst Ecker::J. D. Knight:::Simulation of Rotordynamic Systems with ACSL.
+conf/eurosim/KunovskyMZ96:::Jirí Kunovsky::Karel Mikulásek::F. Zboril:::Extremely exact and fast solutions of PDE in a transputer network.
+conf/eurosim/LinGM96:::Hai-Xiang Lin::Arjan J. C. van Gemund::Johan Meijdam:::Scalability analysis and parallel execution of unstructured problems.
+conf/eurosim/PlottB95:::N. Plött::W. Bär:::Systematical Modeling of a Sorting Process with Petri Nets.
+conf/eurosim/NaldiC96:::Maurizio Naldi::F. Calonico:::Fast simulation techniques for ATM networks.
+conf/eurosim/GoughTDI95:::Norman E. Gough::I. H. Ting::Georgi M. Dimirovski::Oleg L. Iliev:::Simulation of Characteristic Delays in Multivariable Control Systems Using WCBSL.
+conf/eurosim/Menon96:::Suresh Menon:::Parallel simulations of unsteady turbulent flames.
+conf/eurosim/SrivastavaLJB95:::Anurag Srivastava::Deepak K. Lakhanpal::Vishal Jain::P. C. P. Bhatt:::Specification Driven Distributed Simulation Using PrT-Nets.
+conf/eurosim/ZhangO95:::S. L. Zhang::John O'Reilly:::Simulation of Fiber Supported Millimeter-Wave Communication Systems.
+conf/eurosim/Hammerschmidt95:::Wolfgang Hammerschmidt:::Computer-Simulation Based Optimisation of Logistics Applied to Europe's most Complex and Largest Transportation System in Healthcare (AKH-Vienna).
+conf/eurosim/NikolovskiFP95:::S. Nikolovski::D. Fischer::D. Pecvarac:::Transmission Lines Modelling in the Computer Program for Digital Simulation of Electromagnetic Transients.
+conf/eurosim/SalzmannB95:::M. Salzmann::Felix Breitenecker:::Genetic Algorithms in Discrete Event Simulation.
+conf/eurosim/VachouxB95:::Alain Vachoux::J. M. Bergé:::VHDL-A: Analog and Mixed-Mode Extensions to VHDL.
+conf/eurovav/MenziesC97:::Tim Menzies::Robert F. Cohen:::A Graph Theoretic Optimisation of Temporal Abductive Validation.
+conf/eurovav/CoenenER99:::Frans Coenen::Barry Eaglestone::Mick Ridley:::Verification, Validation and Integrity in Knowledge and Database Systems: Future Directions.
+conf/eurovav/Bendou95:::Amar Bendou:::CT-DATAGEN: A Constraint Based Test Data Generator.
+conf/eurovav/AyelS95:::Marc Ayel::Ruth Stalker:::Mutants in the KBS Testing Process.
+conf/eurovav/PhelpsAF93:::R. Phelps::W. Aerts::J.-M. Forêt:::Improving Validation and Verification of KBSs through Naturally Comprehensible Flow Representations.
+conf/eurovav/BoualiL95:::Fatma Bouali::Stéphane Loiseau:::Rule Base Diagnosis for Debugging: the KB-DIAGO2 System.
+conf/eurovav/AntoniouS93:::Grigoris Antoniou::Volker Sperschneider:::On the Verification of Modular Logical Knowledge Bases.
+conf/eurovav/Mengshoel91:::Ole J. Mengshoel:::KVAT: A Tool for Incremental Knowledge Validation in a Knowledge Engineering Workbench.

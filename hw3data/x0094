@@ -1,0 +1,200 @@
+conf/wcre/FusaroTV98:::Pierfrancesco Fusaro::Maria Tortorella::Giuseppe Visaggio:::REP - chaRacterising and Exploiting Process component: Results of Experimentation.
+conf/wcre/BoldyreffK01:::Cornelia Boldyreff::Richard Kewish:::Reverse Engineering to Achieve Maintainable WWW Sites.
+conf/wcre/MamasK00:::E. Mamas::Kostas Kontogiannis:::Towards Portable Source Code Representations using XML.
+conf/wcre/Mine01:::Antoine Miné:::The Octagon Abstract Domain.
+conf/wcre/JarzabekK95:::Stan Jarzabek::Tan Poh Keam:::Design of a Generic Reverse Engineering Assistant Tool.
+conf/wcre/Perelgut00:::Stephen G. Perelgut:::The Case for a Single Data Exchange Format.
+conf/wcre/RobertsPK96:::Susan N. Roberts::Richard L. Piazza::D. G. Katz:::A Portable Assembler Reverse Engineering Environment (PARE).
+conf/wcre/ChaseCHY98:::Melissa P. Chase::Steven M. Christey::David R. Harris::Alexander S. Yeh:::Managing Recovered Function and Structure of Legacy Software Components.
+conf/wcre/MartinGM02:::Ludger Martin::Anke Giesl::Johannes Martin:::Dynamic Component Program Visualization.
+conf/wcre/DaoudiOHDHFW02:::Mohammed Daoudi::Lahcen Ouarbya::John Howroyd::Sebastian Danicic::Mark Harman::Chris Fox::Martin P. Ward:::ConSUS: A Scalable Approach to Conditioned Slicing.
+conf/wcre/TzerposH00:::Vassilios Tzerpos::Richard C. Holt:::ACDC: An Algorithm for Comprehension-Driven Clustering.
+conf/wcre/NewcombM93:::Philip Newcomb::Lawrence Markosian:::Automating the Modularization of Large COBOL Programs: Application of an Enabling Technology for Reengineering.
+conf/wcre/LanoH93:::Kevin Lano::Howard P. Haughton:::Integrating Formal and Structured Methods in Reverse Engineering.
+conf/wcre/Balmas97:::Francoise Balmas:::Toward a Framework for Conceptual and Formal Outlines of Programs.
+conf/wcre/Balmas99:::Francoise Balmas:::QBO: A Query Tool Specially Developed to Explore Programs.
+conf/wcre/SneedN95:::Harry M. Sneed::Erika Nyáry:::Extracting Object-Oriented Specification from Procedurally Oriented Programs.
+conf/wcre/BaxterM97:::Ira D. Baxter::Michael Mehlich:::Reverse Engineering is Reverse Forward Engineering.
+conf/wcre/ErdemJ99:::Ali Erdem::W. Lewis Johnson:::Task Orientation and Tailoring of Interactive Software Explanations.
+conf/wcre/Sneed99:::Harry M. Sneed:::Risks Involved in Reengineering Projects.
+conf/wcre/CutilloFV93:::F. Cutillo::Piernicola Fiore::Giuseppe Visaggio:::Identification and Extraction of "Domain Independent" Components in Large Programs.
+conf/wcre/BullTMG02:::R. Ian Bull::Andrew Trevors::Andrew J. Malton::Michael W. Godfrey:::Semantic Grep: Regular Expressions + Relational Abstraction.
+conf/wcre/DeBaud96:::Jean-Marc DeBaud:::Lessons from a Domain-Based Reengineering Effort.
+conf/wcre/DeBaud97:::Jean-Marc DeBaud:::DARE: Domain-Augmented ReEngineering.
+conf/wcre/MitchellM01:::Brian S. Mitchell::Spiros Mancoridis:::CRAFT: A Framework for Evaluating Software Clustering Results in the Absence of Benchmark Decompositions.
+conf/wcre/Kontogiannis97:::Kostas Kontogiannis:::Evaluation Experiments on the Detection of Programming Patterns Using Software Metrics.
+conf/wcre/HainautEHHR95:::Jean-Luc Hainaut::Vincent Englebert::Jean Henrard::Jean-Marc Hick::Didier Roland:::Requirements for Information System Reverse Engineering Support.
+conf/wcre/PentaNAM02:::Massimiliano Di Penta::M. Neteler::Giuliano Antoniol::Ettore Merlo:::Knowledge-Based Library Re-Factoring for an Open Source Project.
+conf/wcre/SchwarzDA02:::Benjamin Schwarz::Saumya K. Debray::Gregory R. Andrews:::Disassembly of Executable Code Revisited.
+conf/wcre/NingEK93:::Jim Q. Ning::Andre Engberts::Wojtek Kozaczynski:::Recovering Reusable Components from Legacy Systems.
+conf/wcre/PenteadoGM96:::Rosangela Penteado::Fernao S. R. Germano::Paulo Cesar Masiero:::An Overall Process Based on Fusion to Reverse Engineer Legacy Code.
+conf/wcre/BlahaB00:::Michael R. Blaha::Ian Benson:::Teaching Database Reverse Engineering.
+conf/wcre/BlahaP95:::Michael R. Blaha::William J. Premerlani:::Observed Idiosyncracies of Relational Database Designs.
+conf/webi/JensenS01:::Richard Jensen::Qiang Shen:::A Rough Set-Aided System for Sorting WWW Bookmarks.
+conf/webi/MineAM01:::Tsunenori Mine::Makoto Amamiya::Teruko Mitamura:::Conference Information Management System: Towards a Personal Assistant System.
+conf/webi/LoiaL01:::Vincenzo Loia::Paolo Luongo:::An Evolutionary Approach to Automatic Web Page Categorization and Updating.
+conf/webi/MatsumuraOI01:::Naohiro Matsumura::Yukio Ohsawa::Mitsuru Ishizuka:::Discovering Seeds of New Interest Spread from Premature Pages Cited by Multiple Communities.
+conf/webi/ChungKCR01:::Yoojin Chung::Hyuk-Chul Kwon::Sang-Hwa Chung::Kwang Ryel Ryu:::Declustering Web Content Indices for Parallel Information Retrieval.
+conf/webi/TakedaN01:::Koichi Takeda::Hiroshi Nomiyama:::Personalized Web Knowledge Management.
+conf/webi/SumiM01:::Yasuyuki Sumi::Kenji Mase:::Collecting, Visualizing, and Exchanging Personal Interests and Experiences in Communities.
+conf/webi/SakairiN01:::Takashi Sakairi::Hiroshi Nomiyama:::Query by History Tree Manipulation.
+conf/vrml/ReddyIL00:::Martin Reddy::Lee Iverson::Yvan G. Leclerc:::Under the hood of GeoVRML 1.0.
+conf/vrml/BrollE95:::Wolfgang Broll::David England:::Bringing Worlds Together: Adding Multi-User Support to VRML.
+conf/vrml/KimF02:::Taewoo Kim::Paul A. Fishwick:::A 3D XML-based customized framework for dynamic models.
+conf/vrml/CarraroCEE98:::Gianpaolo U. Carraro::Mauricio Cortes::John T. Edmark::J. Robert Ensor:::The Peloton Bicycling Simulator.
+conf/vrml/SalmelaK00:::Marko Salmela::Harri Kyllönen:::Smart virtual prototypes: distributed 3D product simulations for Web based environments.
+conf/vrml/GivatyVCB98:::Galia Givaty::Hendrik A. H. C. van Veen::Chris Christou::Heinrich H. Bülthoff:::Tele-Experiments - Experiments on Spatial Cognition Using VRML-Based Multimedia.
+conf/vrml/Broll97:::Wolfgang Broll:::Populating the Internet: Supporting Multiple Users and Shared Applications with VRML.
+conf/vrml/ChenN01:::Bing-Yu Chen::Tomoyuki Nishita:::jGL and its applications as a Web3D platform.
+conf/vrml/ChenN02:::Bing-Yu Chen::Tomoyuki Nishita:::Multiresolution streaming mesh with shape preserving and QoS-like controlling.
+conf/vrml/Brutzman02:::Donald P. Brutzman:::Teaching 3D modeling and simulation: virtual kelp forest case study.
+conf/vrml/EdwardsH97:::John D. M. Edwards::Chris Hand:::MaPS: Movement and Planning Support for Navigation in an Immersive VRML Browser.
+conf/vrml/DjurcilovP98:::Suzana Djurcilov::Alex Pang:::Visualization Products On-Demand Through the Web.
+conf/vrml/HuangEV02:::Zhisheng Huang::Anton Eliëns::Cees T. Visser:::3D agent-based virtual communities.
+conf/vrml/HudsonLCGM97:::Thomas C. Hudson::Ming C. Lin::Jonathan D. Cohen::Stefan Gottschalk::Dinesh Manocha:::V-COLLIDE: Accelerated Collision Detection for VRML.
+conf/vrml/FigueroaGH02:::Pablo Figueroa::Mark Green::H. James Hoover:::InTml: a description language for VR applications.
+conf/vrml/CampbellCHHS02:::Bruce Campbell::Paul Collins::Hunter Hadaway::Nick Hedley::Mark Stoermer:::Web3D in ocean science learning environments: virtual big beef creek.
+conf/vrml/AbadjevRLMP99:::Vadim Abadjev::Miguel del Rosario::Alexei Lebedev::Alexander Migdal::Victor Paskhaver:::MetaStream.
+conf/vrml/AbernathyS98:::Michael Abernathy::Sam Shaw:::Integratig Geographic Information in VRML Models.
+conf/vrml/Swing00:::Edward Swing:::Adding immersion to collaborative tools.
+conf/vrml/ChenneyIF98:::Stephen Chenney::Jeffrey Ichnowski::David A. Forsyth:::Efficient Dynamics Modeling for VRML and Java.
+conf/vrst/JoslinMM00:::Chris Joslin::Tom Molet::Nadia Magnenat-Thalmann:::Advanced real-time collaboration over the internet.
+conf/vrst/WescheD00:::Gerold Wesche::Marc Droske:::Conceptual free-form styling on the responsive workbench.
+conf/vrst/ChenHS00:::Kwong-Wai Chen::Pheng-Ann Heng::Hanqiu Sun:::Direct haptic rendering of isosurface by intermediate representation.
+conf/vrst/LiC98:::Tsai-Yen Li::Jin-Shin Chen:::Incremental 3D collision detection with hierarchical data structures.
+conf/vrst/AhnKKKK01:::Sang Chul Ahn::Ig-Jae Kim::Hyoung-Gon Kim::Yong-Moo Kwon::Heedong Ko:::Audience interaction for virtual reality theater and its implementation.
+conf/vrst/LoscosTC01:::Céline Loscos::Franco Tecchia::Yiorgos Chrysanthou:::Real-time shadows for animated crowds in virtual cities.
+conf/vrst/VaghiGB99:::Ivan Vaghi::Chris Greenhalgh::Steve Benford:::Coping with inconsistency due to network delays in collaborative virtual environments.
+conf/vrst/BowmanJH99:::Doug A. Bowman::Donald B. Johnson::Larry F. Hodges:::Testbed evaluation of virtual environment interaction techniques.
+conf/vrst/LeeYH00:::Dongman Lee::Jeonghwa Yang::Soon J. Hyun:::Scalable predictive concurrency control for large distributed virtual environments with densely populated objects.
+conf/vrst/TakedaYMMBK99:::Haruo Takeda::Masami Yamasaki::Toshio Moriya::Tsuyoshi Minakawa::Fumiko Beniyama::Takafumi Koike:::A video-based virtual reality system.
+conf/vrst/ReitmayrS01:::Gerhard Reitmayr::Dieter Schmalstieg:::An open software architecture for virtual reality interaction.
+conf/vrst/WangLNL01:::Weihua Wang::Qingping Lin::Jim Mee Ng::Chor Ping Low:::SmartCU3D: a collaborative virtual environment system with behavior based interaction management.
+conf/widm/WangCTMW02:::Jidong Wang::Zheng Chen::Li Tao::Wei-Ying Ma::Liu Wenyin:::Ranking user's relevance to a topic through link analysis on web logs.
+conf/widm/Chidlovskii01:::Boris Chidlovskii:::Automatic repairing of web wrappers.
+conf/widm/KhanR01:::Latifur Khan::Yan Rao:::A performance evaluation of storing XML data in relational database management systems.
+conf/widm/LeongMSY98:::Hong Va Leong::Dennis McLeod::Antonio Si::Stanley M. T. Yau:::Multi-resolution Transmission and Browsing in Mobile Web.
+conf/widm/SpertusS98:::Ellen Spertus::Lynn Andrea Stein:::A Hyperlink-Based Recommender System Written in Sqeal.
+conf/widm/Ginsburg02:::Mark Ginsburg:::The catacomb project: building a user-centered portal the conversational way.
+conf/widm/SunLN02:::Aixin Sun::Ee-Peng Lim::Wee Keong Ng:::Web classification using support vector machine.
+conf/wift/Cheng98:::Betty H. C. Cheng:::A Discussion About Integrated Techniques.
+conf/wift/PeriyasamyA98:::Kasilingam Periyasamy::Vangalur S. Alaga:::Adding Real-Time Filters to Object-Oriented Specification of Time Critical Systems.
+conf/wift/KochGHS98:::Beat Koch::Jens Grabowski::Dieter Hogrefe::Michael Schmitt II:::Autolink: A Tool for Automatic Test Generation from SDL Specifications.
+conf/wiiw/BarbosaP01:::Alvaro C. P. Barbosa::Fabio Porto:::Configurable Data Integration Middleware System.
+conf/wiiw/Bouzeghoub01:::Mokrane Bouzeghoub:::Using Semantics to Improve Schema and Data Integration.
+conf/wiiw/Flehmig01:::Marcus Flehmig:::Data-Driven, XML-Based Web Management in Highly Personalized Environments.
+conf/wiiw/Simon01:::Eric Simon:::Le Select, a Middleware System that Eases the Publication of Scientific Data Sets and Programs.
+conf/wiiw/SampaioJB01:::Marcus Costa Sampaio::Eduardo M. F. Jorge::Cláudio de Souza Baptista:::Metadata for an Extensible Data Warehouse Server.
+conf/wirn/MatteraPM02:::Davide Mattera::Francesco Palmieri::Michele Di Monte:::A Comparison of Signal Compression Methods by Sparse Solution of Linear Systems.
+conf/wise/BunI02:::Khoo Khyou Bun::Mitsuru Ishizuka:::Topic Extraction from News Archive Using TF*PDF Algorithm.
+conf/wise/CazalensDJL00:::Sylvie Cazalens::Emmanuel Desmontils::Christine Jacquin::Philippe Lamarre:::A Web Site Indexing Process for an Internet Information Retrieval Agent System.
+conf/wise/Dyreson01:::Curtis E. Dyreson:::Observing Transaction-Time Semantics with TTXPath.
+conf/wise/GrewalJBW00:::R. Singh Grewal::Mike Jackson::Peter Burden::Jon Wallis:::A Visual Representation of Search-Engine Queries and Their Results.
+conf/wise/MoL02:::Yuanying Mo::Tok Wang Ling:::Storing and Maintaining Semistructured Data Efficiently in an Object-Relational Database.
+conf/wise/LiuL02:::Mengchi Liu::Tok Wang Ling:::Towards Declarative XML Querying.
+conf/wise/HonkalaV01:::Mikko Honkala::Petri Vuorimaa:::XForms in X-Smiles.
+conf/wise/WangCZ01:::Hua Wang::Jinli Cao::Yanchuan Zhang:::A Consumer Scalable Anonymity Payment Scheme with Role-Based Access Control.
+conf/wise/WangCZ02:::Hua Wang::Jinli Cao::Yanchun Zhang:::Formal Authorization Allocation Approaches for Role-Based Access Control Based on Relational Algebra Operations.
+conf/wise/WoonNL02:::Yew Kwong Woon::Wee Keong Ng::Ee-Peng Lim:::Online and Incremental Mining of Separately-Grouped Web Access Logs.
+conf/wise/Bossy01:::Robert Bossy:::An Edition Control Policy Model for Scientific Collaborative Databases.
+conf/wise/ChenS00:::David Chen::Chengzheng Sun:::Optional and Responsive Locking in Distributed Collaborative Object Graphics Editing Systems.
+conf/wise/ZhengrongC01:::Shao Zhengrong::Gang Chen:::The Design and Realization of E-Journals' Categorizing and Navigating System.
+conf/wise/WuLLD01:::Xiaoying Wu::Tok Wang Ling::Mong-Li Lee::Gillian Dobbie:::Designing Semistructured Databases Using ORA-SS Model.
+conf/wise/MandriaBP02:::Sanjay K. Mandria::Sourav S. Bhowmick::Kalpdrum Passi:::Ranking of Web Data in a Web Warehouse.
+conf/wise/JungKPJKLK00:::M. Jung::D. Kim::K. Park::M. Jin::W. Kim::S. Lee::J. Kang:::A Static Java Classifier Analyzer.
+conf/wise/YatesZ00:::Joseph D. Yates::Xiaofang Zhou:::Searching the Web Using a Map.
+conf/wise/KrishnaswamySHG02:::Shonali Krishnaswamy::E. P. See::J. N. Ho::W. Gunawan:::An XML Specification Language to Support a Virtual Marketplace of Data Mining E-Services.
+conf/wise/GioldasisC02:::Nektarios Gioldasis::Stavros Christodoulakis:::UTML: Unified Transaction Modeling Language.
+conf/wise/Ruecker00:::Stan Ruecker:::Conceptual Levels of SGML Tags: A Proposed Taxonomy based on the Tagging in the Orlando Project.
+conf/wise/TaniarJRB00:::David Taniar::Y. Jiang::J. Wenny Rahayu::L. Bishay:::Structured Web Pages Management for Efficient Data Retrieval.
+conf/wman/BechlerHMPW02:::Marc Bechler::Achim Hauck::Daniel Müller::Frank Pählke::Lars C. Wolf:::Ein Sicherheitskonzept für clusterbasierte Ad-hoc-Netzwerke.
+conf/wman/HellbruckF02:::Horst Hellbrück::Stefan Fischer:::Ansätze zur Analyse und Simulation von Ad-Hoc Netzwerken.
+conf/wman/GunesR02:::Mesut Günes::Jörg Reibel:::Ein dynamisches Adressierungsverfahren für Mobile Ad-Hoc Netze.
+conf/wman/BettstetterW02:::Christian Bettstetter::Christian Wagner:::The Spatial Node Distribution of the Random Waypoint Mobility Model.
+conf/wmrd/PuLKC90:::Calton Pu::Avraham Leff::Frederick Korz::Shu-Wie F. Chen:::Valed Redandancy.
+conf/wmrd/Herlihy90:::Maurice Herlihy:::Position Statement: Type Specific Replication for Multiprocessors.
+conf/wmrd/Verissimo90:::Paulo Verissimo:::Real-Time Data Management with Clock-Less Reliable Broadcast Protocols.
+conf/wmrd/Golding92:::Richard A. Golding:::Weak Consistency Group Communication for Wwide-Area Systems.
+conf/wmrd/SchlossS90:::Gerhard A. Schloss::Michael Stonebraker:::Highly Redundant Management of Distributed Data.
+conf/wmrd/HisgenBJMSS90:::Andy Hisgen::Andrew Birrell::Charles Jerian::Timothy Mann::Michael D. Schroeder::Garret Swart:::Granularity and Semantic Level of Replication in the Echo Distributed File System.
+conf/wmte/KusunokiSH02:::Fusako Kusunoki::Masanori Sugimoto::Hiromichi Hashizume:::Toward an Interactive Museum Guide System with Sensing and Wireless Network Technologies.
+conf/wosp/Hoeben00:::Fried Hoeben:::Using UML models for performance calculation.
+conf/wosp/VazquezMJ02:::Nunzio Nicoló Savino Vázquez::Juan Luis Anciano Martin::Carlos Juiz:::Unified system builder through interacting blocks (USBIB) for soft real-time systems.
+conf/wosp/Bondi00:::Andre B. Bondi:::Characteristics of scalability and their impact on performance.
+conf/wosp/SchmietendorfDD02:::Andreas Schmietendorf::Evgeni Dimitrov::Reiner R. Dumke:::Process models for the software development and performance engineering tasks.
+conf/wosp/SchmietendorfSR00:::Andreas Schmietendorf::André Scholz::Claus Rautenstrauch:::Evaluating the performance engineering process.
+conf/wosp/MikheevLGPSMKFLY02:::Vitaly V. Mikheev::Nikita V. Lipsky::D. Gurchenkov::P. Pavlov::Vladimir V. Sukharev::A. Markov::Sergey V. Kuksenko::Stanislav A. Fedoseev::D. Leskov::A. Yeryomin:::Overview of excelsior JET, a high performance alternative to java virtual machines.
+conf/wosp/FahringerSS00:::Thomas Fahringer::Bernhard Scholz::Xian-He Sun:::Execution-driven performance analysis for distributed and parallel systems.
+conf/wosp/BernardiDM02:::Simona Bernardi::Susanna Donatelli::José Merseguer:::From UML sequence diagrams and statecharts to analysable petrinet models.
+conf/wosp/BernardoCD00:::Marco Bernardo::Paolo Ciancarini::Lorenzo Donatiello:::ÆMPA: a process algebraic description language for the performance analysis of software architectures.
+conf/wosp/FranksW98:::Greg Franks::C. Murray Woodside:::Performance of multi-level client-server systems with parallel service operations.
+conf/wosp/VokolosW98:::Filippos I. Vokolos::Elaine J. Weyuker:::Performance testing of software systems.
+conf/wosp/MerseguerCM00:::José Merseguer::Javier Campos::Eduardo Mena:::A pattern-based approach to model software performance.
+conf/wosp/Hesselgrave02a:::Mary Hesselgrave:::Panel: architecture lessons and antipatterns.
+conf/wosp/WilliamsS02:::Lloyd G. Williams::Connie U. Smith:::PASA<sup>SM</sup>: a method for the performance assessment of software architectures.
+conf/wosp/VerkamoGNP00:::A. Inkeri Verkamo::Juha Gustafsson::Lilli Nenonen::Jukka Paakki:::Design patterns in performance prediction.
+conf/wwca/Bayer97:::Rudolf Bayer:::The Universal B-Tree for Multidimensional Indexing: general Concepts.
+conf/wwca/NishiokaHT97:::Toshihiro Nishioka::Yoichi Hamazaki::Michiharu Tsukamoto:::Local Class Name Space Facility for Worldwide Object-Oriented Distributed Systems Environment.
+conf/wwca/ManningKLSZ97:::Eric G. Manning::Shahadat Khan::Rodger Lea::Gholamali C. Shoja::Michael M. J. Zastre:::Metaspaces and Mobile Computing: Promises and Challenges.
+conf/wwca/FuentesT97:::Lidia Fuentes::José M. Troya:::A Component-Oriented Architecture to Design Multimedia Services on a Distributed Platform.
+conf/wwca/Nakashima97:::Hideyuki Nakashima:::Organic Programming for Cooperative Computation.
+conf/wwca/Shinjo97:::Yasushi Shinjo:::The World Wide Shell Based on the Object-Stacking Model.
+conf/xsym/HandyS03:::Ben Handy::Dan Suciu:::XViz: A Tool for Visualizing XPath Expressions.
+conf/xsym/GrabsS03:::Torsten Grabs::Hans-Jörg Schek:::PowerDB-XML: A Platform for Data-Centric and Document-Centric XML Processing.
+conf/sichtsysteme/Berger91:::Martin Berger:::Application Visualization System (AVS).
+conf/sichtsysteme/SteinkampH91:::D. Steinkamp::H. Holthusen:::Standardisierung von datenbasen für Sensorysteme in Ausbildungssimulatoren der Bundeswehr und as US-Projekt 2851.
+conf/cobuild/HuntVP98:::Robert Hunt::Andrea Vanecko::Steven E. Poltrock:::Future@Work: An Experimental Exhibit Investigating Integrated Workplace Design.
+conf/cobuild/ChiuKWR99:::Patrick Chiu::Ashutosh Kapuskar::Lynn Wilcox::Sarah Reitmeier:::Meeting Capture in a Media Enriched Conference Room.
+conf/cobuild/LoftnessHLMMSA99:::Vivian Loftness::Volker Hartkopf::Stephen R. Lee::Ardeshir Mahdavi::Paul Mathew::Jayakrishna Shankavaram::Azizan Aziz:::The Collaborative Building: Mediating between Climate and Interior Quality.
+conf/cobuild/MoltkeA98:::Ivar Moltke::Hans H. K. Andersen:::Cooperative Buildings - The Case of office VISION.
+conf/cobuild/LainerW98:::Rüdiger Lainer::Ina Wagner:::Connecting Qualities of Social Use with Spatial Qualities.
+conf/diagrams/ChengP02:::Peter C.-H. Cheng::Nigel G. Pitt:::Teaching Science Teachers Electricity Using AVOW Diagrams.
+conf/diagrams/Miller02:::Nathaniel Miller:::CDEG: Computerized Diagrammatic Euclidean Geometry.
+conf/diagrams/JonesS00:::Sara Jones::Michael Scaife:::Animated Diagrams: An Investigation into the Cognitive Effects of Using Animation to Illustrate Dynamic Processes.
+conf/diagrams/YanerG02:::Patrick W. Yaner::Ashok K. Goel:::Retrieving 2-D Line Drawings by Example.
+conf/diagrams/Landay02:::James A. Landay:::Informal Tools for Designing Anywhere, Anytime, Anydevice User Interfaces.
+conf/diagrams/Pfeiffer02:::Joseph J. Pfeiffer Jr.:::Using Brightness and Saturation to Visualize Belief and Uncertainty.
+conf/diagrams/ClinkN00:::Stuart Clink::Julian Newman:::Recording the Future: Some Diagrammatic Aspects of Time Management.
+conf/diagrams/Norman00:::Jesse Norman:::Differentiating Diagrams: A New Approach.
+conf/diagrams/HealeyMK00:::Patrick G. T. Healey::Rosemarie McCabe::Yasuhiro Katagiri:::A Comparison of Graphics and Speech in a Task-Oriented Interactio.
+conf/spatialCognition/WernerS00:::Steffen Werner::Thomas Schmidt:::Investigating Spatial Reference Systems through Distortions in Visual Memory.
+conf/spatialCognition/TverskyL98:::Barbara Tversky::Paul U. Lee:::How Space Structures Language.
+conf/spatialCognition/Krieg-BrucknerRCM98:::Bernd Krieg-Brückner::Thomas Röfer::Hans-Otto Carmesin::Rolf Müller:::A Taxonomy of Spatial Knowledge for Navigation and its Application to the Bremen Autonomous Wheelchair.
+conf/spatialCognition/WagenerMWSM00:::Monika Wagener::Silvia Mecklenbräuker::Werner Wippich::Jörg E. Saathoff::André Melzer:::Preparing a Cup of Tea and Writing a Letter: Do Script-Based Actions Influence the Representation of a Real Environment?
+conf/spatialCognition/BerendtBFK98:::Bettina Berendt::Thomas Barkowsky::Christian Freksa::Stephanie Kelter:::Spatial Representation with Aspect Maps.
+conf/spatialCognition/LeplowHZM00:::Bernd Leplow::Doris Höll::Lingju Zeng::Maximilian Mehdorn:::Investigation of Age and Sex Effects in Spatial Cognitions as Assessed in a Locomotor Maze and in a 2-D Computer Maze.
+conf/spatialCognition/IsliCBM00:::Amar Isli::Lledó Museros Cabedo::Thomas Barkowsky::Reinhard Moratz:::A Topological Calculus for Cartographic Entities.
+conf/spatialCognition/SchweizerHJK98:::Karin Schweizer::Theo Herrmann::Gabriele Janzen::Steffi Katz:::The Route Direction Effect and its Constraints.
+conf/spatialCognition/BarkowskyLR00:::Thomas Barkowsky::Longin Jan Latecki::Kai-Florian Richter:::Schematizing Maps: Simplification of Geographic Shape by Discrete Curve Evolution.
+conf/spatialCognition/RothkegelWS98:::Rainer Rothkegel::Karl Friedrich Wender::Sabine Schumacher:::Judging Spatial Relations from Memory.
+conf/software/MarshallBS02:::Adele Marshall::David A. Bell::Roy Sterritt:::Handling Uncertainty in a Medical Study of Dietary Intake During Pregnancy.
+conf/software/Sterritt02:::Roy Sterritt:::Facing Fault Management as It Is, Aiming for What You Would Like It to Be.
+conf/software/MartinA02:::Trevor P. Martin::Benham Azvine:::Adaptive User Modelling in an Intelligent Telephone Assistant.
+conf/compass/Broy94:::Manfred Broy:::Equations for Describing Dynamic Nets of Communicating Systems.
+conf/compass/FiadeiroCSM91:::José Luiz Fiadeiro::José Félix Costa::Amílcar Sernadas::T. S. E. Maibaum:::Process Semantics of Temporal Logic Specifications.
+conf/compass/Wagner91:::Eric G. Wagner:::Generic Classes in an Object-Based Language.
+conf/compass/Choppy92:::Christine Choppy:::About the Correctness and Adequacy of PLUSS Specifications.
+conf/compass/Pawlowski95:::Wieslaw Pawlowski:::Context Institutions.
+conf/compass/Wolter94:::Uwe Wolter:::Institutional Frames.
+conf/compass/BidoitH94:::Michel Bidoit::Rolf Hennicker:::Behavioural Theories.
+conf/compass/Horning95:::James J. Horning:::The Larch Shared Language: Some Open Problems.
+conf/compass/EhrichS94:::Hans-Dieter Ehrich::Amílcar Sernadas:::Local Specification of Distributed Families of Sequential Objects.
+conf/compass/EhrigGW95:::Hartmut Ehrig::Martin Große-Rhode::Uwe Wolter:::On the Role of Category Theory in the Area of Algebraic Specification.
+conf/compass/ClericiJO92:::Silvia Clerici::Rosa M. Jiménez::Fernando Orejas:::Semantic Constructions in the Specification Language GLIDER.
+conf/compass/Malcolm95:::Grant Malcolm:::Behavioural Equivalence, Bisimulation, and Minimal Realisation.
+conf/compass/Diaconescu95:::Razvan Diaconescu:::A Category-Based Equational Logic Semantics to Constraint Programming.
+conf/compass/BidoitCV95:::Michel Bidoit::Christine Choppy::Frédéric Voisin:::Interchange Format for Inter-operability of Tools and Translation: The SALSA and ASSPEGIQU<sup>+</sup>/LP Experience.
+conf/compcon/ShaioHJ96:::Sami Shaio::Arthur van Hoff::Herb Jellinek:::Java and HotJava: A Comprehensive Overview.
+conf/compcon/MehtaAACCCEFGGILMMMMMNPSY95:::S. Mehta::S. Ahmed::S. Al-Ashari::Dennis Chen::Dev Chen::S. Cokmez::R. Eltejaein::P. Fu::Jeffery Gee::T. Granvold::Amaresh Iyer::A. K. Lin::Guillermo Maturana::D. McConn::H. Mohammed::Jamshid Mostoufi::A. Moudgal::Srinivas Nori::G. Peterson::M. Splain::T. Yu:::Verification of the UltraSPARC Microprocessor.
+conf/compcon/Kazovsky95:::Leonid Kazovsky:::Wavelength Division Multiplexing in Local Area Networks (Abstract).
+conf/compcon/LennonT95:::W. J. Lennon::R. L. Thombley:::Two Wavelength Division Multiplexing WAN Trials.
+conf/compcon/Low95:::David A. Low:::An Object Oriented Model for Distributed Backup and Archive.
+conf/compcon/CardozaGS96:::Wayne M. Cardoza::Frederick S. Glover::William E. Snaman Jr.:::Overview of Digital UNIX Cluster System Architecture.
+conf/compcon/LeeH96:::Ruby B. Lee::Jerome C. Huck:::64-bit and Multimedia Extensions in the PA-RISC 2.0 Architecture.
+conf/compcon/Mormann96:::Allan Mormann:::Burst and Latency Requirements Drive EDO and BEDO DRAM Standards.
+conf/compcon/HayesLAM96:::Raymond Hayes::Guillermo Loyola::Curtis Abbott::Henry Massalin:::MicroUnity Software Development Environment.
+conf/compcon/Chisholm95:::Paul S. R. Chisholm:::Agent Based Messaging and Information Services.
+conf/compcon/ChiuH96:::Ran-Fun Chiu::Robert C. Hutchinson:::Multimedia Transmission Link Protocol - A Proposal for Digital Information Transmission in HFC Cable Systems.
+conf/compcon/GustavsonL95:::David B. Gustavson::Qiang Li:::Local-Area MultiProcessor: Surpassing Clusters.
+conf/compcon/Gustavson94:::David B. Gustavson:::The Many Dimensions of Scalability.
+conf/compcon/RobinsonHHR96:::Tim Robinson::Craig Hansen::Bill Herndon::Geert Rosseel:::Multi-Gigabyte/sec DRAM with the MicroUnity MediaChannel Interface.

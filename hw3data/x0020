@@ -1,0 +1,200 @@
+conf/fct/BeauquireNN91:::Danièle Beauquire::Maurice Nivat::Damian Niwinski:::About the Effect of the Number of Successful Paths in an Infinite Tree on the Recognizability by a Finite Automaton with Büchi Conditions.
+conf/fct/Kaneps91:::Janis Kaneps:::Regularity of One-Letter Languages Acceptable by 2-Way Finite Probabilistic Automata.
+conf/fct/ChlebusV91:::Bogdan S. Chlebus::Imrich Vrto:::Unifying Binary-Search Trees and Permutations.
+conf/fct/BruschiP91:::Danilo Bruschi::Giovanni Pighizzini:::The Complexity of Computing Maximal Word Functions.
+conf/fct/GronewoldF95:::Anja Gronewold::Hans Fleischhack:::Computing Petri Net Languages by Reductions.
+conf/fct/Gecseg77:::Ferenc Gécseg:::Universal Algebras and Tree Automata.
+conf/fct/Mukhin87:::V. I. Mukhin:::Adaptive Strategies for Partially Observable Controlled Ranom Series.
+conf/fct/Rodding83:::Dieter Rödding:::Modular Decompostion of Automata (Survey).
+conf/fct/ScheweT99:::Klaus-Dieter Schewe::Bernhard Thalheim:::A Generalization of Dijkstra's Calculus to Typed Program Specifications.
+conf/eps/YangCHK97:::Jinn-Moon Yang::Ying-Ping Chen::Jorng-Tzong Horng::Cheng-Yan Kao:::Applying Family Competition to Evolution Strategies for Constrained Optimization.
+conf/eps/Harrald96:::Paul G. Harrald:::Evolutionary Algorithms and Economic Models: A View.
+conf/eps/Hart96:::William E. Hart:::A Theoretical Comparison of Evolutionary Algorithms and Simulated Annealing.
+conf/eps/Koza95:::John R. Koza:::Evolving the Architecture of a Multi-part Program in Genetic Programming Using Architecture-Altering Operations.
+conf/eps/DaidaGSR96:::Jason M. Daida::Catherine S. Grasso::Stephen A. Stanhope::Steven J. Ross:::Symbionticism and Complex Adaptive Systems I: Implications of Having Symbiosis Occur in Nature.
+conf/eps/SebagRS96:::Michèle Sebag::Caroline Ravise::Marc Schoenauer:::Controlling Evolution by Means of Machine Learning.
+conf/eps/WatabeSO96:::Hirokazu Watabe::Takashi Sawada::Norio Okino:::Evolution of 3D Shape Model.
+conf/eps/Nelson96:::Kevin M. Nelson:::Solution Methods for Ordinary Differential Equations Using Evolutionary Algorithms.
+conf/eps/ChenC96:::Jong-Chen Chen::Michael Conrad:::Multilevel Evolutionary Learning in an Artificial Neuromolecular Brain and Its Application to the Recognition of Chinese Characters.
+conf/eps/ImadaA97:::Akira Imada::Keijiro Araki:::Searching Real-Valued Synaptic Weights of Hopfield's Associative Memory Using Evolutionary Programming.
+conf/eps/YaoLL97:::Xin Yao::Guangming Lin::Yong Liu:::An Analysis of Evolutionary Algorithms Based on Neighborhood and Step Sizes.
+conf/eps/ZannoniR96:::Elena Zannoni::Robert G. Reynolds:::Extracting Design Knowledge from Genetic Programs Using Cultural Algorithms.
+conf/eps/ChellapillaFR97:::Kumar Chellapilla::David B. Fogel::Sathyanarayan S. Rao:::Gaining Insight into Evolutionary Programming Through Landscape Visualization: An Investigation into IIR Filtering.
+conf/eps/Thacore98:::Sharad Thacore:::An Evolutionary Self-Learning Methodology: Some Preliminary Results from a Case Study.
+conf/eps/FogelAF95:::Lawrence J. Fogel::Peter J. Angeline::David B. Fogel:::An Evolutionary Programming Approach to Self-Adaptation on Finite State Machines.
+conf/eps/FogelCF98:::Gary B. Fogel::Kumar Chellapilla::David B. Fogel:::Reconstruction of DNA Sequence Information from a Simulated DNA Chip Using Evolutionary Programming.
+conf/eps/SatoO95:::Yuji Sato::Tatsuo Ochiai:::2-D Genetic Algorithms for Determining Neural Network Structure and Weights.
+conf/eps/AshlockL98:::Dan Ashlock::James I. Lathrop:::A Fully Characterized Test Suite for Genetic Programming.
+conf/eps/ChellapillaF97:::Kumar Chellapilla::David B. Fogel:::Exploring Self-Adaptive Methods to Improve the Efficiency of Generating Approximate Solutions to Travelling Salesman Problems Using Evolutionary Programming.
+conf/eps/MyungK98:::Hyun Myung::Jong-Hwan Kim:::Hybrid Interior-Langrangian Penalty Based Evolutionary Optimization.
+conf/eps/Fogel97:::Gary B. Fogel:::The Application of Evolutionary Computation to Selected Problems in Molecular Biology.
+conf/eps/Rudolph98:::Günter Rudolph:::Evolutionary Search for Minimal Elements in Partially Ordered Finite Sets.
+conf/eps/SaravananF96:::N. Saravanan::David B. Fogel:::An Empirical Comparison of Methods for Correlated Mutations under Self-Adaptation.
+conf/eps/DavisD96:::Mark W. Davis::Ted Dunning:::Query Translation Using Evolutionary Programming for Multilingual Information Retrieval II.
+conf/eps/Dearholt98:::Donald W. Dearholt:::The Cumulative Consensus of Cognitive Agents in Scenarios: A Framework for Evolutionary Processes in Semantic Memory.
+conf/eps/BankesL96:::Steve Bankes::Robert J. Lempert:::Adaptive Strategies for Abating Climate Change: An Example of Policy Analysis for Complex Adaptive Systems.
+conf/esa/Waterman93:::Michael S. Waterman:::Sequence Comparison and Statistical Significance in Molecular Biology (Abstract).
+conf/esa/ShachnaiTW02:::Hadas Shachnai::Tami Tamir::Gerhard J. Woeginger:::Minimizing Makespan and Preemption Costs on a System of Uniform Machines.
+conf/esa/LepereTW01:::Renaud Lepère::Denis Trystram::Gerhard J. Woeginger:::Approximation Algorithms for Scheduling Malleable Tasks under Precedence Constraints.
+conf/esa/PobleteMP95:::Patricio V. Poblete::J. Ian Munro::Thomas Papadakis:::The Binomial Transform and its Application to the Analysis of Skip Lists.
+conf/esa/ChaudhuriZ95:::Shiva Chaudhuri::Christos D. Zaroliagis:::Optimal Parallel Shortest Paths in Small Treewidth Digraphs.
+conf/esa/ChongR98:::Ka Wong Chong::Edgar A. Ramos:::Improved Deterministic Parallel Padded Sorting.
+conf/esa/LeeCKSC00:::Jae-Ha Lee::Otfried Cheong::Woo-Cheol Kwon::Sung Yong Shin::Kyung-Yong Chwa:::Approximation of Curvature-Constrained Shortest Paths through a Sequence of Points.
+conf/esa/HaxellRWW02:::Penny E. Haxell::April Rasala::Gordon T. Wilfong::Peter Winkler:::Wide-Sense Nonblocking WDM Cross-Connects.
+conf/esa/ShinKKC98:::Chan-Su Shin::Jung-Hyun Kim::Sung Kwon Kim::Kyung-Yong Chwa:::Two-Center Problems for a Convex Polygon (Extended Abstract).
+conf/esa/AzarE97:::Yossi Azar::Leah Epstein:::On-Line Machine Covering.
+conf/esa/AzarR99:::Yossi Azar::Oded Regev:::Off-Line Temporary Tasks Assignment.
+conf/esa/KrivelevichS98:::Michael Krivelevich::Benny Sudakov:::Approximate Coloring of Uniform Hypergraphs (Extended Abstract).
+conf/esa/Irving98:::Robert W. Irving:::Matching Medical Students to Pairs of Hospitals: A New Variation on a Well-Known Theme.
+conf/esa/GovindarajanLMZ00:::Satish Govindarajan::Tamás Lukovszki::Anil Maheshwari::Norbert Zeh:::I/O-Efficient Well-Separated Pair Decomposition and Its Applications.
+conf/esa/BerberichEHHMS02:::Eric Berberich::Arno Eigenwillig::Michael Hemmer::Susan Hert::Kurt Mehlhorn::Elmar Schömer:::A Computational Basis for Conic Arcs and Boolean Operations on Conic Polygons.
+conf/esa/AwerbuchAFLR96:::Baruch Awerbuch::Yossi Azar::Amos Fiat::Stefano Leonardi::Adi Rosén:::On-line Competive Algorithms for Call Admission in Optical Networks.
+conf/esa/MehlhornS01:::Kurt Mehlhorn::Guido Schäfer:::A Heuristic for Dijkstra's Algorithm with Many Targets and Its Use in Weighted Matching Algorithms.
+conf/esa/Skodinis00:::Konstantin Skodinis:::Computing Optimal Linear Layouts of Trees in Linear Time.
+conf/esa/Thorup02:::Mikkel Thorup:::On Distance Oracles and Routing in Graphs.
+conf/esa/SernaX95:::Maria J. Serna::Fatos Xhafa:::On Parallel versus Sequential Approximation.
+conf/esa/BuchsbaumG02:::Adam L. Buchsbaum::Michael T. Goodrich:::Three-Dimensional Layers of Maxima.
+conf/esa/Rajasekaran93:::Sanguthevar Rajasekaran:::Mesh Connected Computers with Fixed and Reconfigurable Buses: Packet Routing, Sorting, and Selection.
+conf/esa/KaklamanisP96:::Christos Kaklamanis::Giuseppe Persiano:::Efficient Wavelength Routing on Directed Fiber Trees.
+conf/esa/BarrettBJKM02:::Christopher L. Barrett::Keith Bisset::Riko Jacob::Goran Konjevod::Madhav V. Marathe:::Classical and Contemporary Shortest Path Problems in Road Networks: Implementation and Experimental Analysis of the TRANSIMS Router.
+conf/esa/ChewDEK95:::L. Paul Chew::Dorit Dor::Alon Efrat::Klara Kedem:::Geometric Pattern Matching in d-Dimensional Space.
+conf/esa/Ambuhl00:::Christoph Ambühl:::Offline List Update is NP-Hard.
+conf/esa/KalyanasundaramP95:::Bala Kalyanasundaram::Kirk Pruhs:::The Online Transportation Problem.
+conf/esa/AlonGY95:::Noga Alon::Zvi Galil::Moti Yung:::Efficient Dynamic-Resharing "Verifiable Secret Sharing" Against Mobile Adversary.
+conf/esa/IvkovicL93:::Zoran Ivkovic::Errol L. Lloyd:::Fully Dynamic Algorithms for Bin Packing: Being (mostly) Myopic Helps.
+conf/esa/Gonnet94:::Gaston H. Gonnet:::Wanna Buy an Algorithm? Cheap! or: Algorithms for Text Searching Which Could Have Commercial Value (Abstract).
+conf/esa/AltFRW96:::Helmut Alt::Ulrich Fuchs::Günter Rote::Gerald Weber:::Matching Convex Shapes with Respect to the Symmetric Difference.
+conf/esa/BiedlK94:::Therese C. Biedl::Goos Kant:::A Better Heuristic for Orthogonal Graph Drawings.
+conf/esa/FrigioniMN98:::Daniele Frigioni::Alberto Marchetti-Spaccamela::Umberto Nanni:::Fully Dynamic Shortest Paths and Negative Cycles Detection on Digraphs with Arbitrary Arc Weights.
+conf/esa/FellowsHW93:::Michael R. Fellows::Michael T. Hallett::Harold T. Wareham:::DNA Physical Mapping: Three Ways Difficult.
+conf/esa/ZhouS00:::Yunhong Zhou::Subhash Suri:::Collision Detection Using Bounding Boxes: Convexity Helps.
+conf/esa/DoerrS02:::Benjamin Doerr::Henning Schnieder:::Non-independent Randomized Rounding and an Application to Digital Halftoning.
+conf/esa/WeiheW97:::Karsten Weihe::Thomas Willhalm:::Reconstructing the Topology of a CAD Model: A Discrete Approach.
+conf/esa/AgarwalPV02:::Pankaj K. Agarwal::Cecilia Magdalena Procopiuc::Kasturi R. Varadarajan:::Approximation Algorithms for k-Line Center.
+conf/esa/WelzlW93:::Emo Welzl::Barbara Wolfers:::Surface Reconstruction Between Simple Polygons via Angle Criteria.
+conf/esa/KloksKM95:::Ton Kloks::Dieter Kratsch::Haiko Müller:::Approximating the Bandwidth for Asteroidal Triple-Free Graphs.
+conf/esa/AgarwalHRSSW02:::Pankaj K. Agarwal::Torben Hagerup::Rahul Ray::Micha Sharir::Michiel H. M. Smid::Emo Welzl:::Translating a Planar Object to Maximize Point Containment.
+conf/esa/KolliopoulosS02:::Stavros G. Kolliopoulos::George Steiner:::Partially-Ordered Knapsack and Applications to Scheduling.
+conf/esa/FossmeierK97:::Ulrich Fößmeier::Michael Kaufmann:::Solving Rectilinear Steiner Tree Problems Exactly in Theory and Practice.
+conf/esa/Schrijver93:::Alexander Schrijver:::Complexity of Disjoint Paths Problems in Planar Graphs.
+conf/esa/AnderssonN94:::Arne Andersson::Stefan Nilsson:::Faster Searching in Tries and Quadtrees - An Analysis of Level Compression.
+conf/esa/CzygrinowHK01:::Andrzej Czygrinow::M. Handckowiak::Michal Karonski:::Distributed O(Delta log(n))-Edge-Coloring Algorithm.
+conf/esa/TsukijiX96:::Tatsuie Tsukiji::Fatos Xhafa:::On the Depth of Randomly Generated Circuits.
+conf/esa/KonstantinouSZ02:::Elisavet Konstantinou::Yannis C. Stamatiou::Christos D. Zaroliagis:::A Software Library for Elliptic Curve Cryptography.
+conf/esc/Moller83:::Dietmar P. F. Möller:::Modelling and Simulation of the Longterm Behaviour of Arterial Pressure Regulation with the Aid of a Block - Diagrammed Interactive Simulation System.
+conf/esc/MatkoKOZS83:::Drago Matko::Rihard Karba::P. Omersel::Borut Zupancic::M. Sega:::A Practical Approach to the Simulation of Small Industrial Problems.
+conf/esc/Perl83:::Jürgen Perl:::Controlling Processes Using Net Models and Dynamic Simulation.
+conf/esc/BakerS83:::N. J. C. Baker::P. J. Smart:::The Sysmod Simulation Language.
+conf/esc/Diekmann83:::Klaus Diekmann:::Model Design and Simulation of a Certain Class of Nonlinear Processes.
+conf/esc/Southworth83:::M. R. Southworth:::IMPACS: Integrated Multi-Processor Aircraft Simulation System.
+conf/esc/GorezP83:::R. Gorez::D. Paillet:::Simulation of the Thermal State of an Underground Gasification Well.
+conf/esc/HoffmannZ83:::O. Hoffmann::J. T. Zierski:::Analysis of the Intracranial Pulse Pressure Relationship by Simulation: Application of a Mathematical Model and Comparison with Clinical Data.
+conf/ese/BackstromK90:::Christer Bäckström::Inger Klein:::Planning in Polynomial Time.
+conf/ese/Fogarty90:::Terence C. Fogarty:::Adaptive Rule-based Optimisation of Combustion in Multiple Burner Installations.
+conf/ese/Weigert90:::Thomas J. Weigert:::Resolution-based Reasoning for Fuzzy Logic.
+conf/ese/Barachini90:::Franz Barachini:::Match-Time Predictability in Real-Time Production Systems.
+conf/ese/GuckenbiehlS90:::Thomas Guckenbiehl::Gisela Schäfer-Richter:::SIDIA: Extending Prediction Based Diagnosis to Dynamic Models.
+conf/esf/RollandG02:::Pierre-Yves Rolland::Jean-Gabriel Ganascia:::Pattern Detection and Discovery: The Case of Music Data Mining.
+conf/esf/BoltonHA02:::Richard J. Bolton::David J. Hand::Niall M. Adams:::Determining Hit Rate in Pattern Search.
+conf/esm/WeldenK00:::Danny Van Welden::Eugene J. H. Kerckhoffs:::Regression tree-based dependency modeling for dynamic systems.
+conf/esm/HendersonM98:::Ian A. Henderson::Joseph McGhee:::A Matlab Investigation of Digital Signals for System Pattern Recognition.
+conf/esm/LemusAG00:::Lenin Lemus::David de Andrés::Pedro Gil:::An alternative to unify performance and reliability analysis of industrial applications.
+conf/esm/StudzinskiB00:::Jan Studzinski::Lucyna Bogdan:::Computer aided modelling, optimisaton and control of the large municipal water net.
+conf/esm/DApiceM02:::Ciro D'Apice::Rosanna Manzo:::Impatient Service in Exponential Tandem Queues.
+conf/esm/Campos98:::André M. C. Campos:::Developing Visual-Interactive Simulations with Java and VRML.
+conf/esm/AnglaniNS02:::Alfredo Anglani::Francesco Nucci::Alessandro Spagnolo:::Filament Winding Simulation for Robotic Cell Design.
+conf/esm/DolguiZ00:::Alexandre Dolgui::Oleg Zaikin:::Queueing network models for a capacity allocation problem.
+conf/esm/CuratelliMM98:::Francesco Curatelli::O. Mayora-Ibarra::L. Motta:::String Correction for Text Streams using Associative Memories.
+conf/esm/FrancoHS98:::Jose Luis Escalona Franco::Hussien A. Hussien::Ahmed A Shabana:::An Absolute Nodal Coordinate Formulation for the Dynamic Analysis of Flexible Multibody Systems.
+conf/esm/OudinotSRLL02:::Jean Oudinot::Serge Scotti::Jean Ravatin::Audrey Le-clercq::Jacky Lebrun:::Full Transceiver Circuit Simulation using VHDL-AMS.
+conf/esm/Addasi00:::Emad S. Addasi:::Universal mathematical model of motor drives.
+conf/esm/MikulasekK98:::Karel Mikulásek::Jirí Kunovsky:::Taylorian Initial Problems.
+conf/esm/Brade02:::Dirk Brade:::Formal Behaviour Verification of HLA Federations using Temporal Logic.
+conf/esm/Benedek02:::Gábor Benedek:::Option Pricing using Numerical Methods.
+conf/esm/Klehmet00:::Ulrich Klehmet:::Logic based extensions of stochastic process algebras for high-level performance modeling and evaluation.
+conf/esm/BruzzoneGR00:::Agostino G. Bruzzone::Pietro Giribone::Roberto Revetria:::Using simulation to re-engineer the supply chain in automotive production.
+conf/esm/GumbelWZM98:::Markus Gumbel::O. Werner::G. Zajicek::Hans-Peter Meinzer:::Simulation and 3-D Visualization of the Intestinal Crypt.
+conf/esm/RolvagH98:::Terje Rolvag::Martin Humphries:::Simulation and Verification of the GOMOS Steering Front Assembly.
+conf/esm/JanssenHPV00:::M. J. M. Janssen::L. N. Hopkins::B. Peterson::P. A. Vanrolleghem:::Reduction of an activated sludge process model to facilitate controller tuning.
+conf/esm/AmborskiK02:::Jan Amborski::Rafal Kajka:::Application of Finite Elemnets Method for Analysis and Design of Hyperelastic Material.
+conf/esm/PereiraMRCVVMBPD02:::Alfredo Pereira::Fernando Moura-Pires::Rita A. Ribeiro::Luís Correia::Nuno Viana::F. Javier Varas::Gianaldo Mantovani::Pier L. Bargellini::Rosario Perez-Bonilla::Alessandro Donati:::Fuzzy Expert System for Gyroscope Fault Detection.
+conf/esm/Fogelholm00:::John Fogelholm:::Anticipated resource consumption modelling i the production process as the basis for simulation activities in paper Mills.
+conf/esm/ItmiKP98:::Mhamed Itmi::Ismaïl Kassau::Jean-Pierre Pécuchet:::Heuristic Algorithms to Solve Impatient Traveling Salesman Problem Variation.
+conf/esm/MalletBD98:::Frédéric Mallet::Fernand Boéri::Jean-François Duboc:::Hardware Modelling and Simulation Using an Object-Oriented Method.
+conf/esm/EndecottF98:::Philip Endecott::Stephen B. Furber:::Modelling and Simulation of Asynchronous Systems Using the LARD Hardware Description Language.
+conf/esm/AstroemEM98:::Karl Johan Astroem::Hilding Elmqvist::Sven Erik Mattson:::Evolution of Continuous-Time Modeling and Simulation.
+conf/esm/Gonzalez-RojoSPM00:::S. González-Rojo::J. G. Slama::A. Lopes Pereira::Félix Mora-Camino:::Fuzzy parameters estimation for car-following modelling.
+conf/esm/PawlettaDP98:::Thorsten Pawletta::W. Drewelow::S. Pawletta:::Discrete Event Simulation in Interactive Scientific and Technical Computing Environments.
+conf/esm/JenvaldM98:::Johan Jenvald::Magnus Morin:::Tactical Evaluation of New Military Systems Using Distributed Modelling and Simulation.
+conf/esm/Strippgen98:::Simone Strippgen:::INSIGHT, A Virtual Liboratory for Design, Test and Evaluation of Autonomous Agents.
+conf/esm/GrossschmidtH02:::Gunnar Grossschmidt::Mait Harf:::Multi-Pole Modelling and Simulation of a Four Way Valve Controlled Fluid Power System in NUT Programming Environment.
+conf/esm/FrancoM98:::R. Franco::Jaime Valls Miró:::The Project Test Bed (PTB) and Its Application to ESA Missions.
+conf/esm/FerraroGP02:::Pascal Ferraro::Christophe Godin::Przemyslaw Prusinkiewicz:::L-systems and MTGs: Integrating Simulation and Formal Analysis of Architectural Plant Models.
+conf/esm/SzturcVK00:::Roman Szturc::Ivo Vondrák::Marcel Kruzel:::Issuing of error suspicions in evolving process.
+conf/esm/Fridsma98:::Douglas B. Fridsma:::Representing the Non-Routine Work of Medical Protocols for Organizational Simulation.
+conf/esm/LandeghemB00:::Rik Van Landeghem::A. Beuselinck:::Analysis of passenger boarding in airplanes using simulation.
+conf/esm/KouvatsosA98:::Demetres D. Kouvatsos::Irfan-Ullah Awan:::Approximate Analysis of Arbitrary Open Networks with HOL Priorities and PBS Scheme.
+conf/esm/GourgandTT00:::Michel Gourgand::Alain Tanguy::Nikolay Tchernev:::A generic hybrid flow-shop simulation model using SIMULA.
+conf/esm/HuttungenIP02:::Pentti Huttungen::Jouni Ikonen::Jari Porras:::MPIT - a Programming Paradigm for Networks of SMP Workstations.
+conf/esm/HaunschildFWT02:::Marc Daniel Haunschild::Bernd Freisleben::Wolfgang Wiechert::Ralf Takors:::Distributed Simulation of Metabolic Networks with Model Variants.
+conf/esm/SihnPM00:::Wilfried Sihn::Jörg Pirron::Ute Mussbach-Winter:::IT-Supported supply chain management - new perspectives.
+conf/esm/Sioutine00:::Alexei V. Sioutine:::Investigation of impacts of resources and resource allocation policies on rework iteration in instructional systems development projects.
+conf/esm/Waterworth00:::Geoff Waterworth:::Modelling and simulation of water quality control.
+conf/esm/HasslingerF02:::Gerhard Haßlinger::Daniela Fausten:::Stationary Workload Analysis for Single Service Systems with Slowly Decreasing Service Time Distributions.
+conf/esm/Mohammadi98:::S. Mohammadi:::Results of Simulation of an X-500-Based Global Directory Service (GDS) Using OPtimized Network Engineering Tools (OPNET).
+conf/esm/HabibS00:::Mohamed El Habib::Zaidi Sahnoun:::An approach for integrating explanation in qualitative simulation.
+conf/esm/VangheluweV00:::Hans Vangheluwe::Ghislain C. Vansteenkiste:::The cellular automata formalism and its relationship to DEVS.
+conf/esm/Schenk00:::Eugene A. M. Schenk:::Supply chain dynamics with production priority settings.
+conf/gcb/Hatzigeorgiou00:::Artemis G. Hatzigeorgiou:::Translation Initiation Site Prediction in Eucariotic MRNAs with High Accuracy.
+conf/gcb/KapsHFBM96:::Andreas Kaps::Klaus Heumann::Dmitrij Frishman::M. Bähr::Hans-Werner Mewes:::Visualization and Analysis of the Complete Yeast Genome.
+conf/gcb/SchwabHTWSGLWZSKMWBAK96:::C. H. Schwab::Sandra Handschuh::Andreas Teckentrup::Markus Wagener::Jens Sadowski::Johann Gasteiger::Paul Levi::T. Will::Andreas Zell::H. Siemens::Gerhard Klebe::Thomas Mietzner::Frank Weber::Gerhard Barnickel::Scheila Anzali::Michael Krug:::A Systemsatic Approach to Finding New Lead Structures Having Biological Activity.
+conf/gcb/GrigorievLK96:::Andrei Grigoriev::Hans Lehrach::Johan Kumlien:::Integrating Heterogeneous Datasets in Genomic Mapping: Radiation Hybrids, YACs, Genes and STS Markers over the Entire Human Chromosome X.
+conf/gcb/JonassenECT00:::Inge Jonassen::Ingvar Eidhammer::Darrell Conklin::William R. Taylor:::Structure Motif Discovery and Mining the PDB.
+conf/gcb/Collado-VidesHK96:::Julio Collado-Vides::Araceli M. Huerta::Kathleen Klose:::Three Models of Gene Regulation in E. coli.
+conf/gcb/DassowM96:::Jürgen Dassow::Victor Mitrana:::Evolutionary Grammars: A Grammatical Model for Genome Evolution.
+conf/fpl/ArankiMT02:::Nazeeh Aranki::Alexander Moopenn::Raoul Tawel:::Parallel FPGA Implementation of the Split and Merge Discrete Wavelet Transform.
+conf/fpl/KrupnovaS00:::Helena Krupnova::Gabriele Saucier:::FPGA-Based Emulation: Industrial and Custom Prototyping Solutions.
+conf/fpl/WoolfriesLMMR98:::Neil Woolfries::Patrick Lysaght::Stephen Marshall::Gordon McGregor::David Robinson:::Fast Adaptive Image Processing in FPGAs Using Stack Filters.
+conf/fpl/RuizTG96:::José Luis Ruiz::Yago Torroja::José Luis García:::Design of a VME Parametrized Library for FPGAs.
+conf/fpl/PanneerselvamGT95:::G. Panneerselvam::Peter J. W. Graumann::Laurence E. Turner:::Implementation of Fast Fourier Transforms and Discrete Cosine Transforms in FPGAs.
+conf/fpl/HaHVVELM02:::Yajun Ha::Radovan Hipik::Serge Vernalde::Diederik Verkest::Marc Engels::Rudy Lauwereins::Hugo De Man:::Adding Hardware Support to the HotSpot Virtual Machine for Domain Specific Applications.
+conf/fpl/HartensteinHNH99:::Reiner W. Hartenstein::Michael Herz::Ulrich Nageldinger::Thomas Hoffmann:::An Internet Based Development Framework for Reconfigurable Computing.
+conf/fpl/MerinoLJ98:::Pedro Merino::Juan Carlos López::Margarida F. Jacome:::A Hardwar Operating System for Dynamic Reconfiguration of FPGAs.
+conf/fpl/ZahmHHWG95:::U. Zahm::Thomas Hollstein::Hans-Jürgen Herpel::Norbert Wehn::Manfred Glesner:::Advanced Method for Industry Related Education with an FPGA Design Self-Learning Kit.
+conf/fpl/ShetlerHYH98:::Joy Shetler::Brian Hemme::Chia Yang::Christopher Hinsz:::Prototyping New ILP Architectures Using FPGAs.
+conf/fpl/Kean01:::Tom Kean:::Secure Configuration of Field Programmable Gate Arrays.
+conf/fpl/CallahanW98:::Timothy J. Callahan::John Wawrzynek:::Instruction-Level Parallelism for Reconfigurable Computing.
+conf/fpl/AugustoAN03:::J. Soares Augusto::Carlos Beltrán Almeida::H. C. Campos Neto:::A Modular Reconfigurable Architecture for Efficient Fault Simulation in Digital Circuits.
+conf/fpl/Bolsens02:::Ivo Bolsens:::Challenges and Opportunities for FPGA Platforms.
+conf/fpl/HaynesECM02:::Simon D. Haynes::Henry G. Epsom::Richard J. Cooper::Paul L. McAlpine:::UltraSONIC: A Reconfigurable Architecture for Video Image Processing.
+conf/fpl/Hutchings97:::Brad L. Hutchings:::Exploiting reconfigurability through domain-specific systems.
+conf/fpl/Carter01:::Bill Carter:::The Evolution of Programmable Logic: Past, Present, and Future Predictions [Abstract].
+conf/fpl/BogelNW94:::Gerd vom Bögel::Petra Nauber::Jörg Winkler:::A Design Environment with Emulation of Prototypes for Hardware/Software Systems Using XILINX FPGA.
+conf/fpl/HarkinCPMM03:::Jim Harkin::Michael Callaghan::Chris Peters::T. Martin McGinnity::Liam P. Maguire:::On-chip and Off-chip Real-Time Debugging for Remotely-Accessed Embedded Programmable Systems.
+conf/fpl/ChoNM02:::Young H. Cho::Shiva Navab::William H. Mangione-Smith:::Specialized Hardware for Deep Network Packet Filtering.
+conf/fpl/MarnaneJO95:::William P. Marnane::C. N. Jordan::F. J. O'Reilly:::Compiling Regular Arrays onto FPGAs.
+conf/fpl/BraunFGL96:::Michael Braun::Jörg Friedrich::Thomas Grün::Josef Lembert:::Parallel CRC Computation in FPGAs.
+conf/fpl/CasselmanTS95:::Steve Casselman::Michael Thornburg::John Schewel:::Creation of Hardware Objects in a Reconfigurable Computer.
+conf/fpl/RenovellPFZ98:::Michel Renovell::J. M. Portal::Joan Figueras::Yervant Zorian:::SRAM-Based FPGAs: A Fault Model for the Configurable Logig Modules.
+conf/fpl/BlodgetJKMS03:::Brandon Blodget::Philip James-Roxby::Eric Keller::Scott McMillan::Prasanna Sundararajan:::A Self-reconfiguring Platform.
+conf/fpl/SalcicM96:::Zoran A. Salcic::R. Bruce Maunder:::CCSimP - An Instruction-level Custom-Configurable Processor for FPLDs.
+conf/fpl/LukSGC97:::Wayne Luk::Nabeel Shirazi::S. R. Guo::Peter Y. K. Cheung:::Pipeline morphing and virtual pipelines.
+conf/fpl/SimkaFD03:::Martin Simka::Viktor Fischer::Milos Drutarovský:::Hardware-Software Codesign in Embedded Asymmetric Cryptographiy Application - A Case Study.
+conf/fpl/BeckerLPG01:::Jürgen Becker::Nicolas Liebau::Thilo Pionteck::Manfred Glesner:::Efficient Mapping of Pre-synthesized IP-Cores onto Dynamically Reconfigurable Array Architectures.
+conf/fpl/KeanD97:::Tom Kean::Ann Duncan:::A 800 Mpixel/sec reconfigurable image correlator on XC6216.
+conf/fpl/Jones99:::Gareth Jones:::PulseDSP - A Signal Processing Oriented Programmable Architecture.
+conf/fpl/ChengWH00:::Winnie W. Cheng::Steven J. E. Wilton::Babak Hamidzadeh:::FPGA Implementation of a Prototype WDM On-Line Scheduler.
+conf/fpl/MiremadiE03:::Seyed Ghassem Miremadi::Ali Reza Ejlali:::Switch Level Fault Emulation.
+conf/fpl/AthanasA94:::Peter M. Athanas::A. Lynn Abbott:::Image Processing on a Custom Computing Platform.
+conf/fpl/GovindarajanV00:::Sriram Govindarajan::Ranga Vemuri:::Tightly Integrated Design Space Exploration with Spatial and Temporal Partitioning in SPARCS.
+conf/fpl/EisenringPT99:::Michael Eisenring::Marco Platzner::Lothar Thiele:::Communication Synthesis for Reconfigurable Embedded Systems.
+conf/fpl/PanainteBV03:::Elena Moscu Panainte::Koen Bertels::Stamatis Vassiliadis:::Compiling for the Molen Programming Paradigm.
+conf/fpl/WadhwaD00:::Sameer Wadhwa::Andreas Dandalis:::Efficient Self-Reconfigurable Implementations Using On-chip Memory.
+conf/fpl/TingWC01:::Lok-Kee Ting::Roger Woods::Colin Cowan:::Virtex Implementation of Pipelined Adaptive LMS Predictor in Electronic Support Measures Receiver.
+conf/fpl/KrishnamoorthyST00:::Srini Krishnamoorthy::Sriram Swaminathan::Russell Tessier:::Area-Optimized Technology Mapping for Hybrid FPGAs.
+conf/fpl/KoorapatyPS03:::Aneesh Koorapaty::Lawrence T. Pileggi::Herman Schmit:::Heterogeneous Logic Block Architectures for Via-Patterned Programmable Fabrics.
+conf/fpl/LagadecP98:::Loïc Lagadec::Bernard Pottier:::A 6200 Model and Editor Based on Object Technology.
+conf/fpl/GironesHSS00:::Rafael Gadea Gironés::Vicente Herrero::Angel Sebastia::Antonio Mocholí Salcedo:::The Role of the Embedded Memories in the Implementation of Artificial Neural Networks.
+conf/fpl/ResanoMVVC03:::Javier Resano::Daniel Mozos::Diederik Verkest::Serge Vernalde::Francky Catthoor:::Run-Time Minimization of Reconfiguration Overhead in Dynamically Reconfigurable Systems.
+conf/fpl/LiasVDM00:::G. Lías::María Dolores Valdés::Miguel A. Domínguez::María José Moure:::Implementing a Fieldbus Interface Using an FPGA.
+conf/fpl/AstHKRS94:::Andreas Ast::Jürgen Becker::Reiner W. Hartenstein::Rainer Kress::Helmut Reinig::Karin Schmidt:::Data-Procedural Languages for FPL-based Machines.

@@ -1,0 +1,200 @@
+conf/sas/HagiyaT98:::Masami Hagiya::Akihiko Tozawa:::On a New Method for Dataflow Analysis of Java Virtual Machine Subroutines.
+conf/sas/Colby95:::Christopher Colby:::Determining Storage Properties of Sequential and Concurrent Programs with Assignment and Structured Data
+conf/sas/ChatterjeeMMZHP03:::Krishnendu Chatterjee::Di Ma::Rupak Majumdar::Tian Zhao::Thomas A. Henzinger::Jens Palsberg:::Stack Size Analysis for Interrupt-Driven Programs.
+conf/sas/AlbertAFJV98:::Elvira Albert::María Alpuente::Moreno Falaschi::P. Julián::Germán Vidal:::Improving Control in Functional Logic Program Specialization.
+conf/sas/Billaud91:::Michel Billaud:::Axiomatizations of Backtracking.
+conf/sas/HatcliffCDSZ99:::John Hatcliff::James C. Corbett::Matthew B. Dwyer::Stefan Sokolowski::Hongjun Zheng:::A Formal Study of Slicing for Multi-threaded Programs with JVM Concurrency Primitives.
+conf/sas/Handjieva96:::Maria Handjieva:::STAN: A Static Analyzer for CLP(R) Based on Abstract Interpretation.
+conf/sas/Queinnec92:::Christian Queinnec:::Value Transforming Style.
+conf/sas/Saidi00:::Hassen Saïdi:::Model Checking Guided Abstraction and Analysis.
+conf/sas/McMillan03:::Kenneth L. McMillan:::Craig Interpolation and Reachability Analysis.
+conf/sas/Duggan98:::Dominic Duggan:::Finite Subtype Inference with Explicit Polymorphism.
+conf/sas/HermenegildoPBL03:::Manuel V. Hermenegildo::German Puebla::Francisco Bueno::Pedro López-García:::Program Development Using Abstract Interpretation (And The Ciao System Preprocessor).
+conf/sas/GiacobazziRS98:::Roberto Giacobazzi::Francesco Ranzato::Francesca Scozzari:::Building Complete Abstract Interpretations in a Linear Logic-based Setting.
+conf/sas/SidorovaS01:::Natalia Sidorova::Martin Steffen:::Embedding Chaos.
+conf/sas/KremenekE03:::Ted Kremenek::Dawson R. Engler:::Z-Ranking: Using Statistical Analysis to Counter the Impact of Static Analysis Approximations.
+conf/sas/JagannathanWW97:::Suresh Jagannathan::Stephen Weeks::Andrew K. Wright:::Type-Directed Flow Analysis for Typed Intermediate Languages.
+conf/sas/BruynoogheCGV02:::Maurice Bruynooghe::Michael Codish::Samir Genaim::Wim Vanhoof:::Reuse of Results in Termination Analysis of Typed Logic Programs.
+conf/sas/TangJ92:::Yan Mei Tang::Pierre Jouvelot:::Control-Flow Effects for Escape Analysis.
+conf/sas/BagnaraRZH02:::Roberto Bagnara::Elisa Ricci::Enea Zaffanella::Patricia M. Hill:::Possibly Not Closed Convex Polyhedra and the Parma Polyhedra Library.
+conf/sas/TrifonovS96:::Valery Trifonov::Scott F. Smith:::Subtyping Constrained Types.
+conf/sas/UnnikrishnanCKKK03:::Priya Unnikrishnan::Guangyu Chen::Mahmut T. Kandemir::Mustafa Karaköy::Ibrahim Kolcu:::Loop Transformations for Reducing Data Space Requirements of Resource-Constrained Applications.
+conf/sas/GenglerR92:::Marc Gengler::M. Rytz:::A Polyvariant Binding Time Analysis Handling Partially Known Values.
+conf/sas/Schneider01:::Fred B. Schneider:::Language-Based Security: What's Needed and Why.
+conf/sas/MycroftR92:::Alan Mycroft::Mads Rosendahl:::Minimal Function Graphs are not Instrumented.
+conf/sas/Tofte95:::Mads Tofte:::Region Inference for Higher-Order Functional Languages
+conf/sas/LiblitAY03:::Ben Liblit::Alexander Aiken::Katherine A. Yelick:::Type Systems for Distributed Data Sharing.
+conf/sas/BagnaraGL92:::Roberto Bagnara::Roberto Giacobazzi::Giorgio Levi:::Static Analysis of CLP Programs over Numeric Domains.
+conf/sas/LecoutreDL91:::Christophe Lecoutre::Philippe Devienne::Patrick Lebègue:::Une analyse du comportement récursif de programmes Prolog par une interprétation abstraite.
+conf/sas/AdamsBDLRSW02:::Stephen Adams::Thomas Ball::Manuvir Das::Sorin Lerner::Sriram K. Rajamani::Mark Seigle::Westley Weimer:::Speeding Up Dataflow Analysis Using Flow-Insensitive Pointer Analysis.
+conf/sas/MullerGS96:::Martin Müller II::Thomas Glaß::Karl Stroetmann:::Automated Modular Termination Proofs for Real Prolog Programs.
+conf/sas/Monniaux99:::David Monniaux:::Abstracting Cryptographic Protocols with Tree Automata.
+conf/sas/Mackie97:::Ian Mackie:::Static Analysis of Interaction Nets for Distributed Implementations.
+conf/rml/Antoniou02:::Grigoris Antoniou:::A Nonmonotonic Rule System using Ontologies.
+conf/rml/TaboadaAMDM02:::Maria Taboada::Michael F. Argüello::D. Martínez::Julio Des::José Mira:::A use case for DAML+OIL: a knowledge base in a clinical domain.
+conf/scc/Sintzoff79:::Michel Sintzoff:::Principles for Distributing Programs.
+conf/scc/AbrialS79:::Jean-Raymond Abrial::Stephen A. Schuman:::Non-Deterministic System Specification.
+conf/scc/Francez79:::Nissim Francez:::On Achieving Distributed Termination.
+conf/scc/HewittAL79:::Carl Hewitt::Giuseppe Attardi::Henry Lieberman:::Specifying and Proving Properties of Guardians for Distributed Systems.
+conf/scc/Pnueli79:::Amir Pnueli:::The Temporal Semantics of Concurrent Programs.
+conf/sci/Schulz99:::Martin Schulz:::True Shared Memory Programming on SCI-Based Clusters.
+conf/sci/BuggeO99:::Hakon O. Bugge::Knut Omang:::Affordable Scalability Using Multi-Cubes.
+conf/sci/LindenstruthG99:::Volker Lindenstruth::David B. Gustavson:::SCI Physical Layer API.
+conf/sci/HuseOBRHR99:::Lars Paul Huse::Knut Omang::Hakon O. Bugge::H. Ry::A. T. Haugsdal::E. Rustad:::ScaMPI-Design and Implementation.
+conf/sci/Dormanns99:::Marcus Dormanns:::Shared Memory Parallelization of the GROMOS96 Molecular Dynamics Code.
+conf/scm/RohrbachS88:::Roger Rohrbach::Christopher Setwald:::Galileo: A Software Maintenance Environment.
+conf/scm/Dart89:::Susan A. Dart:::Tool Configuration Assistant.
+conf/scm/HuntVT96:::James J. Hunt::Kiem-Phong Vo::Walter F. Tichy:::An Empirical Study of Delta Algorithms.
+conf/scm/WingerdS98:::Laura Wingerd::Christopher Seiwald:::High-Level Best Practices in Software Configuration Management.
+conf/scm/OReillyMB03:::Ciaran O'Reilly::Philip J. Morrow::David W. Bustard:::Improving Conflict Detection in Optimistic Concurrency Control Models.
+conf/scm/Eilfeld96:::Peter Eilfeld:::Configuration Management as "Glueware" for Development of Client/Server- Applications in Heterogeneous and Distributed Environments.
+conf/scm/Chu-CarrollW01:::Mark Chu-Carroll::James Wright:::Supporting Distributed Collaboration through Multidimensional Software Configuration Management.
+conf/scm/ChristensenE95:::Anders Christensen::Tor Egge:::Store - a System for Handling Third-Party Applications in a Heterogeneous Computer Environment.
+conf/scm/Kramer91:::Scott A. Kramer:::History Management System.
+conf/scm/Feldman88:::Stuart I. Feldman:::Evolution of MAKE.
+conf/scm/Chase88:::Robert P. Chase Jr.:::Plenary Discussion: System Modelling.
+conf/scm/ChoiS89:::S. C. Choi::Walt Scacchi:::Assuring the Correctness of Configured Software Descriptions.
+conf/scm/FruhaufY99:::Karol Frühauf::Andreas Yeller:::Software Configuration Management: State of the Art, State of the Practice.
+conf/scm/Newbery89:::Frances J. Newbery:::Edge Concentration: A Method for Clustering Directed Graphs.
+conf/scm/ThomsonS89:::R. Thomson::Ian Sommerville:::Configuration Management Using SySL.
+conf/scm/GullaG96:::Bjørn Gulla::Joe Gorman:::Experiences with the Use of a Configuration Language.
+conf/scm/LangeS91:::Ronald Lange::Robert W. Schwanke:::Software Architecture Analysis: A Case Study.
+conf/scm/Zeller96:::Andreas Zeller:::Smooth Operatons with Square Operators - The Version Set Model in ICE.
+conf/scm/Heimbigner03:::Dennis Heimbigner:::Applications of Configuration Information to Security.
+conf/scm/Sheedy91:::Chris Sheedy:::Sorceress: A Database Approach to Software Configuration Management.
+conf/scm/Pakstas89:::A. Pakstas:::Aladdin/Lamp: Configuration Management Tools for Distributed Computer Control Systems.
+conf/scm/BelangerKR96:::Dave Belanger::David G. Korn::Herman C. Rao:::Infrastructure for Wide-Area Software Development.
+conf/scm/SchwankeK88:::Robert W. Schwanke::Gail E. Kaiser:::Living With Inconsistency in Large Systems.
+conf/scm/MacKay95:::Stephen A. MacKay:::The State of the Art in Concurrent, Distributed Configuration Management.
+conf/scm/Crnkovic96:::Ivica Crnkovic:::Experience of Using a Simple SCM Tool in a Complex Development Environment.
+conf/scm/Crnkovic99:::Ivica Crnkovic:::Why Do Some Mature Organizations Not Use Mature CM Tools?
+conf/scn/KurnioSW02:::Hartono Kurnio::Reihaneh Safavi-Naini::Huaxiong Wang:::A Group Key Distribution Scheme with Decentralised User Join.
+conf/sde/GiacaloneRD84:::Alessandro Giacalone::Martin C. Rinard::Thomas W. Doeppner Jr.:::IDEOSY: An Ideographic and Interactive Program Description System.
+conf/sde/TaylorBCOSWWY88:::Richard N. Taylor::Frank C. Belz::Lori A. Clarke::Leon J. Osterweil::Richard W. Selby::Jack C. Wileden::Alexander L. Wolf::Michal Young:::Foundations for the Arcadia Environment Architecture.
+conf/sde/Lewerentz88:::Claus Lewerentz:::Extended Programming in the Large in a Software Development Environment.
+conf/sde/ClarkeRZ88:::Lori A. Clarke::Debra J. Richardson::Steven J. Zeil:::TEAM: A Support Environment for Testing, Evaluation, and Analysis.
+conf/sde/Strelich88:::Tom Strelich:::The Software Life Cycle Support Environment (SLCSE): A Computer Framework for Developing Software Systems.
+conf/sde/Koenig88:::Shaye Koenig:::An Integrated Industrial-Strength Software Engineering Framework.
+conf/sde/Snodgrass84:::Richard T. Snodgrass:::Monitoring in a Software Development Environment: A Relational Approach.
+conf/sde/BoudierGMT88:::Gérard Boudier::Ferdinando Gallo::Régis Minot::Ian Thomas:::An Overview of PCTE and PCTE+.
+conf/sdl/KavadiasPKL03:::Christoforos Kavadias::Bernard Perrin::Vangelis Kollias::Michael Loupis:::Enhanced SDL Subset for the Design and Implementation of Java-Enabled Embedded Signalling Systems.
+conf/sdl/CamusS01:::Jean-Louis Camus::Thierry Le Sergent:::Combining SDL with Synchronous Data Flow Modelling for Distributed Control Systems.
+conf/sdl/IseltA97:::Andreas Iselt::Achim Autenrieth:::An SDL-based platform for the simulation of communication networks using dynamic block instantiations.
+conf/sdl/MunzenbergerSDH01:::Ralf Münzenberger::Frank Slomka::Matthias Dörfel::Richard Hofmann:::A General Approach for the Specification of Real-Time Systems with SDL.
+conf/sdl/AlvarezDLPT99:::José M. Álvarez::Manuel Diaz::Luis Llopis::Ernesto Pimentel::José M. Troya:::Integrating schedulability analysis and SDL in an object-oriented methodology for embedded real-time systems.
+conf/sdl/Helouet01:::Loïc Hélouët:::Some Pathological Message Sequence Charts, and How to Detect Them.
+conf/sdl/KovacsPVWC03:::Gábor Kovács::Zoltán Pap::Dung Le Viet::Antal Wu-Hen-Chang::Gyula Csopaki:::Applying Mutation Analysis to SDL Specifications.
+conf/sdl/En-NouaaryDK99:::Abdeslam En-Nouaary::Rachida Dssouli::Ferhat Khendek:::From timed scenarios to SDL: specification, implementation and testing of real-time systems.
+conf/sdl/MeryG97:::Dominique Méry::J. Paul Gibson:::Telephone feature verification: Translating SDL to TLA+.
+conf/sdl/DongLG99:::Yuping Dong::Yinghua Lu::Qiang Gao:::Specification, validation and implementation of ATM UNI signaling protocols in SDL.
+conf/sdl/MansurovCR97:::Nikolai Mansurov::Andrew V. Chernov::Alexei S. Ragozin:::Industrial strength code generation from SDL.
+conf/sdl/MonkewichSP01:::Ostap Monkewich::Igor Sales::Robert L. Probert:::OSPF Efficient LSA Refreshment Function in SDL.
+conf/sdm/KothariMJM03:::Ravi Kothari::Parul A. Mittal::Vivek Jain::Mukesh K. Mohania:::On using Page Cooccurrences for Computing Clickstream Similarity.
+conf/sdm/JiangCMCBHRPMTWG03:::Ming Jiang::Tat-Sang Choy::Sameep Mehta::Matt Coatney::Steve Barr::Kaden Hazzard::David Richie::Srinivasan Parthasarathy::Raghu Machiraju::David Thompson::John Wilkins::Boyd Gatlin:::Feature Mining Paradigms for Scientific Data.
+conf/sdm/JinA02:::Ruoming Jin::Gagan Agrawal:::Shared Memory Paraellization of Data Mining Algorithms: Techniques, Programming Interface, and Performance.
+conf/sdm/KankarASMS02:::Pankaj Kankar::Sudeshna Adak::A. Sarkar::K. Murali::G. Sharma:::MedMeSH Summarizer: Text Mining for Gene Clusters.
+conf/sdm/Megalooikonomou02:::Vasileios Megalooikonomou:::Evaluating the Performance of Association Mining Methods in 3-D Medical Image Databases.
+conf/sdm/GomezDN03:::Jonathan Gomez::Dipankar Dasgupta::Olfa Nasraoui:::A New Gravitational Clustering Algorithm.
+conf/sec/KiountouzisK96:::E. A. Kiountouzis::Spyros Kokolakis:::An analyst's view of IS security.
+conf/sec/Golvers96:::Luc Golvers:::Delivery and installation of software: disputes and the burden of proof.
+conf/sec/ZhangZW00:::Fangguo Zhang::Futai Zhang::Yumin Wang:::Fair Electronic Cash Systems with Multiple Banks.
+conf/sec/FakH93:::Viiveke Fåk::Amund Hunstad:::Teaching security basics: The Importance of When and How.
+conf/sec/Gallagher93:::Patrick R. Gallagher Jr.:::The Evolution of IT Security Convergence.
+conf/sec/JonssonJ97:::Erland Jonsson::Lech J. Janczewski:::A taxonomy and overview of information security experiments.
+conf/sec/Baskerville97:::Richard Baskerville:::New organizational forms for information security management.
+conf/sec/Vinayakray-Jani03:::Preetida Vinayakray-Jani:::Roadmap for Securing Handheld Devices.
+conf/sec/Blobel97:::Bernd Blobel:::Security requirements and solutions in distributed electronic health records.
+conf/sec/Yngstrom93:::Louise Yngström:::Evaluation of an Academic Programme in IT Security 1985-1990.
+conf/sec/Yngstrom96:::Louise Yngström:::IT security and privacy education.
+conf/sec/StraubCJ92:::Detmar W. Straub::Patricia J. Carlson::Elizabeth H. Jones:::Detering Highly Motivated Computer Abusers: A Field Experiment in Computer Security.
+conf/sec/DobruckiV03:::Marcin Dobrucki::Teemupekka Virtanen:::Priorities in the Development of Network Intrusion Detection Systems.
+conf/sec/Hosmer96:::Hilary H. Hosmer:::New security paradigms: orthodoxy and heresy.
+conf/sec/YongxingX00:::Sun Yongxing::Wang Xinmei:::A Simple and Efficient Approach to Verfying Cryptographic Protocols.
+conf/sec/CheeL92:::Yeow Meng Chee::Andrew Lim:::A Complex Approach to the Security of Statistical Databases Subject to Off-line Sum Queries.
+conf/sec/IkonomopoulosLGKV02:::S. Ikonomopoulos::Costas Lambrinoudakis::Dimitris Gritzalis::Spyros Kokolakis::K. Vassiliou:::Functional Requirements for a Secure Electronic Voting System.
+conf/sec/Highland93:::Harold Joseph Highland:::A View of Information Security Tomorrow.
+conf/sec/Fortrie92:::F. Bertil Fortrie:::IT Crime - An Intelligence Report.
+conf/sec/Stanley97:::Alan K. Stanley:::Information security - challenges for the next millennium.
+conf/sec/LaurentPR97:::Maryline Laurent::Olivier Paul::Pierre Rolin:::Securing communications over ATM networks.
+conf/sec/HolbeinTMB97:::Ralph Holbein::Stephanie Teufel::Othmar Morger::Kurt Bauknecht:::A comprehensive need-to-know access control system and its application for medical information systems.
+conf/sec/ApostolopoulosD96:::Theodore K. Apostolopoulos::V. C. Daskalou:::SNMP-based network security management using a temporal database approach.
+conf/sec/EckertM97:::C. Eckert::D. Marek:::Developing secure applications: a systematic approach.
+conf/sec/El-SoudaniEM02:::M. S. El-Soudani::H. S. El-Refaey::H. M. Mourad:::Zero Knowledge Broadcasting Identification Scheme.
+conf/sec/DuboisW96:::Eric Dubois::Suchun Wu:::A framework for dealing with and specifying security requirements in information systems.
+conf/sec/AbramsO92:::Marshall D. Abrams::Ingrid M. Olson:::Rule-based Trusted Access Control.
+conf/sec/LeiwoAN00:::Jussipekka Leiwo::Tuomas Aura::Pekka Nikander:::Towards Network Denial of Service Resistant Protocols.
+conf/sec/KarydaKK03:::Maria Karyda::Spyros Kokolakis::Evangelos Kiountouzis:::Content, Context, Process Analysis of IS Security Policy Formation.
+conf/sec/LouwrensS00:::C. P. Louwrens::Sebastiaan H. von Solms:::"DNA-proofing" for Computer Systems - A New Approach to Computer Security?
+conf/sec/Labuschagne00:::Les Labuschagne:::A Framework for Electronic Commerce Security.
+conf/sec/LiebenbergE00:::Alida Liebenberg::Jan H. P. Eloff:::MASS: Model for an Auditing Security System.
+conf/sec/WilsherK96:::Richard G. Wilsher::Helmut Kurth:::Security assurance in information systems.
+conf/sec/Ekebrink93:::Ivan Ekebrink:::Electronic Data Interface (EDI) Security and Audit: A Practical Approach.
+conf/sec/CorradiMSBLM00:::Antonio Corradi::Rebecca Montanari::Cesare Stefanelli::Diana Berbecaru::Antonio Lioy::Fabio Maino:::A Flexible Management Framework for Certificate Status Validation.
+conf/sec/PaavilainenSB03:::Juhani Paavilainen::Suzana Stojakovic-Celustka::Dagmar Brechlerova:::Electronic Signature as a part of Information Society Infrastructure.
+conf/sec/BrooksWH02:::W. J. Brooks::Matthew J. Warren::William Hutchinson:::A Security Evaluation Criteria for Baseline Security Standards.
+conf/sec/MeierBH02:::M. Meier::N. Bischof::T. Holz:::SHEDEL-A Simple Hierarchical Event Description Language for Specifying Attack Signatures.
+conf/sec/TryfonasK03:::Theodore Tryfonas::E. A. Kiountouzis:::Perceptions of Security Contributing to the Implementation of Secure IS.
+conf/sec/HovingOR92:::Per Hoving::Mats Ohlin::Jan Rylander:::Findings of the Swedish CITI Project on Information Technology Security Evaluation and Certification.
+conf/sec/EloffE03:::Mariki M. Eloff::Jan H. P. Eloff:::Information Security Management System: Processes and Products.
+conf/sec/LeitoldMPPPW00:::Herbert Leitold::Wolfgang Mayerwieser::Udo Payer::Karl C. Posch::Reinhard Posch::Johannes Wolkerstorfer:::Robustness-Agile Encryptor for ATM Networks.
+conf/sec/Lambrinoudakis00:::Costas Lambrinoudakis:::Using Smart Cards in an Educational Environment: Services and Security Features.
+conf/see/Earl89:::Anthony N. Earl:::Report on the Process Session at Chinon.
+conf/see/ClementIK89:::Dominique Clément::Janet Incerpi::Gilles Kahn:::CENTAUR: Towards a "Software Tool Box" for Programming Environments.
+conf/see/Stanley89:::Margaret Stanley:::Typing in an Object Management System (OMS).
+conf/see/Earl89a:::Anthony Earl:::Principles of a Reference Model for Computer Aided Software Engineering Environments.
+conf/sdt/Paulson84:::Lawrence C. Paulson:::Deriving Structural Induction in LCF.
+conf/sdt/BertoniMMO84:::Alberto Bertoni::Giancarlo Mauri::Pierangelo Miglioli::Mario Ornaghi:::Abstract Data Types and Their Extensions within a Constructive Logic.
+conf/sfp/Lammel99:::Ralf Lämmel:::Reuse by Program Transformation.
+conf/sfp/Faxen00:::Karl-Filip Faxén:::The costs and benefits of cloning in a lazy functional language.
+conf/rta/Kandri-RodyKN85:::Abdelilah Kandri-Rody::Deepak Kapur::Paliath Narendran:::An Ideal-Theoretic Approach to Work Problems and Unification Problems over Finitely Presented Commutative Algebras.
+conf/rta/HofbauerH99:::Dieter Hofbauer::Maria Huber:::Test Sets for the Universal and Existential Closure of Regular Tree Languages.
+conf/rta/Rao96:::M. R. K. Krishna Rao:::Modularity of Termination in Term Graph Rewriting.
+conf/rta/Padawitz87:::Peter Padawitz:::Strategy-Controlled Reduction and Narrowing.
+conf/rta/BlooR96:::Roel Bloo::Kristoffer Høgsbro Rose:::Combinatory Reduction Systems with Explicit Substitution that Preserve Strong Nomalisation.
+conf/rta/Senizergues95:::Géraud Sénizergues:::A Polynomial Algorithm Testing Partial Confluence of Basic Semi-Thue Systems.
+conf/rta/Puel89:::Laurence Puel:::Embedding with Patterns and Associated Recursive Path Ordering.
+conf/rta/KorovinV01:::Konstantin Korovin::Andrei Voronkov:::Verifying Orientability of Rewrite Rules Using the Knuth-Bendix Order.
+conf/rta/Baader02:::Franz Baader:::Engineering of Logics for the Content-Based Representation of Information.
+conf/rta/BrandMV03:::Mark van den Brand::Pierre-Etienne Moreau::Jurgen J. Vinju:::Environments for Term Rewriting Engines for Free!
+conf/rta/Pottier91:::Loic Pottier:::Minimal Solutions of Linear Diophantine Systems: Bounds and Algorithms.
+conf/rta/Boulton95:::Richard J. Boulton:::A Restricted Form on Higher-Order Rewriting Applied to an HDL Semantics.
+conf/rta/Billaud91:::Michel Billaud:::ANIGRAF: An Interactive System for the Animation of Graph Rewriting Systems with Priorities.
+conf/rta/BonelliKR00:::Eduardo Bonelli::Delia Kesner::Alejandro Ríos:::A de Bruijn Notation for Higher-Order Rewriting.
+conf/rta/Bellegarde95:::Françoise Bellegarde:::ASTRE: Towards a Fully Automated Program Transformation System.
+conf/rta/LevyA93:::Jordi Levy::Jaume Agustí-Cullell:::Bi-rewriting, a Term Rewriting Technique for Monotonic Order Relations.
+conf/rta/LevyV02:::Jordi Levy::Mateu Villaret:::Currying Second-Order Unification Problems.
+conf/rta/AbdulrabP89:::Habib Abdulrab::Jean-Pierre Pécuchet:::Solving Systems of Linear Diophantine Equations and Word Equations.
+conf/rta/ClavelDELMMQ99:::Manuel Clavel::Fransisco Durán::Steven Eker::Patrick Lincoln::Narciso Martí-Oliet::José Meseguer::Jose F. Quesada:::The Maude System.
+conf/rta/Lippe93:::Ernst Lippe:::Generating Tables for Bottom-Up Matching.
+conf/rta/Lippi02:::Sylvain Lippi:::in<sup>2</sup> : A Graphical Interpreter for Interaction Nets.
+conf/rta/Mitchell02:::John C. Mitchell:::Multiset Rewriting and Security Protocol Analysis.
+conf/rta/Struth01:::Georg Struth:::Deriving Focused Calculi for Transitive Relations.
+conf/rta/Schmidt-Schauss96:::Manfred Schmidt-Schauß:::An Algorithm for Distributive Unification.
+conf/rta/Rubio99:::Albert Rubio:::A Fully Syntactic AC-RPO.
+conf/rta/SekiTFK02:::Hiroyuki Seki::Toshinori Takai::Youhei Fujinaka::Yuichi Kaji:::Layered Transducing Term Rewriting System and Its Recognizability Preserving Property.
+conf/rta/Strandh87:::Robert Strandh:::Optimizing Equational Programs.
+conf/rta/Dershowitz85:::Nachum Dershowitz:::Termination.
+conf/rta/Durand02:::Irène Durand:::Autowrite: A Tool for Checking Properties of Term Rewriting Systems.
+conf/rta/Madlener96:::Klaus Madlener:::Applications of Rewrite Techniques in Monoids and Rings (Abstract).
+conf/rta/LoweB93:::Michael Löwe::Martin Beyer:::AGG - An Implementation of Algebraic Graph Rewriting.
+conf/rta/Blanqui00:::Frédéric Blanqui:::Termination and Confluence of Higher-Order Rewrite Systems.
+conf/rta/Blanqui03:::Frédéric Blanqui:::Rewriting Modulo in Deduction Modulo.
+conf/rta/KennawayKSV95:::Richard Kennaway::Jan Willem Klop::M. Ronan Sleep::Fer-Jan de Vries:::Infinitary Lambda Calculi and Böhm Models.
+conf/rta/BravenboerV02:::Martin Bravenboer::Eelco Visser:::Rewriting Strategies for Instruction Selection.
+conf/rta/Geser03:::Alfons Geser:::Termination of String Rewriting Rules That Have One Pair of Overlaps.
+conf/rta/Fraus91:::Ulrich Fraus:::A Narrowing-Based Theorem Prover.
+conf/rta/StickelZ95:::Mark E. Stickel::Hantao Zhang:::Studying Quasigroup Identities by Rewriting Techniques: Problems and First Results.
+conf/rta/Gobel87:::Richard Göbel:::Ground Confluence.
+conf/rta/Ringeissen01:::Christophe Ringeissen:::Matching with Free Function Symbols - A Simple Extension of Matching?
+conf/rta/MullerN98:::Martin Müller::Joachim Niehren:::Ordering Constraints over Feature Trees Expressed in Second-Order Monadic Logic.
+conf/rsp/HendersonW99:::Peter Henderson::Robert J. Walters:::System Design Validation Using Formal Models.
+conf/rsp/Courtoy98:::Michel Courtoy:::Rapid System Prototyping for Real-Time Design Validation.
+conf/rsp/VasilliouGAMAN99:::A. Vasilliou::K. Gounaris::K. Adaos::D. Mitsainas::George Alexiou::Dimitris Nikolos:::Development of a Reusable E1 Transceiver Suitable for Rapid Prototyping.
+conf/rsp/MoronRS98:::Célio Estevan Morón::José R. P. Ribeiro::Nilton C. da Silva:::Towards a Rapid Prototyping by Linking Design, Implementation, and Debugging in Real-Time Parallel Systems.
+conf/rsp/ArechavalaG00:::Yolanda González Arechavala::Fernando de Cuadra García:::MODUS: Integrated Behavior-Oriented Model for Rapid Prototyping.
+conf/rsp/DalcolmoLA98:::J. Dalcolmo::Rudy Lauwereins::Marleen Adé:::Code Generation of Data Dominated DSP Applications for FPGA Targets.
+conf/rsp/KrupnovaVSB98:::Helena Krupnova::D. D. A. Vu::Gabriele Saucier::M. Boubal:::Real Time Prototyping Method and a Case Study.
+conf/rsp/BredenfeldW99:::Ansgar Bredenfeld::Jörg Wilberg:::Model Based Multi-Level Prototyping.
+conf/rsp/ForsterFWBM03:::S. Förster::M. Fischer::A. Windisch::B. Balser::D. Monjau:::A New Specification Methodology for Embedded Systems Based on the - Calculus Process Algebra.
+conf/rsp/CanellasM00:::N. Cañellas::J. M. Moreno:::Speeding up Hardware Prototyping by Incremental Simulation/Emulation.
+conf/rsp/BazarganKS99:::Kia Bazargan::Ryan Kastner::Majid Sarrafzadeh:::3-D Floorplanning: Simulated Annealing and Greedy Placement Methods for Reconfigurable Computing Systems.

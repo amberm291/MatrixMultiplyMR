@@ -1,0 +1,200 @@
+conf/aaai/Wagstaff00:::Kiri Wagstaff:::Refining Inductive Bias in Unsupervised Learning via Constraints.
+conf/aaai/Stroulia94:::Eleni Stroulia:::Reflective Reasoning and Learning.
+conf/aaai/Tran02:::Thomas Tran:::A Reputation-Oriented Reinforcement Learning Approach for Agents in Electronic Marketplaces.
+conf/aaai/Ishida88:::Toru Ishida:::Optimizing Rules in Production System Programs.
+conf/aaai/Kaelbling88:::Leslie Pack Kaelbling:::Goals as Parallel Program Specifications.
+conf/aaai/ClancyK97:::Daniel J. Clancy::Benjamin Kuipers:::Model Decomposition and Simulation: A Component Based Qualitative Simulation Algorithm.
+conf/aaai/BradyGL80:::Michael Brady::W. Eric L. Grimson::D. J. Langridge:::Shape Encoding and Subjective Contours.
+conf/aaai/SegalE94:::Richard Segal::Oren Etzioni:::Learning Decision Lists Using Homogeneous Rules.
+conf/aaai/SelmanBDHMN96:::Bart Selman::Rodney A. Brooks::Thomas Dean::Eric Horvitz::Tom M. Mitchell::Nils J. Nilsson:::Challenge Problems for Artificial Intelligence (Panel Statements).
+conf/aaai/NayakGR88:::P. Pandurang Nayak::Anoop Gupta::Paul S. Rosenbloom:::Comparison of the Rete and Treat Production Matchers for Soar.
+conf/aaai/Gopalakrishnan96:::Vanathi Gopalakrishnan:::Inducing Design Biases that Characterize Successful Experimentation in Weak-Theory Domains: TIPS.
+conf/aaai/Mouaddib99:::Abdel-Illah Mouaddib:::Anytime Coordination for Progressive Planning Agents.
+conf/aaai/ChenD87:::Hsinchun Chen::Vasant Dhar:::Reducing Indeterminism in Consultation: A Cognitive Model of User/Librarian Interactions.
+conf/aaai/PookB94:::Polly K. Pook::Dana H. Ballard:::Teleassistance: Contextual Guidance for Autonomous Manipulation.
+conf/aaai/BrovermanC87:::Carol A. Broverman::W. Bruce Croft:::Reasoning about Exceptions during Plan Execution Monitoring.
+conf/aaai/Brown84:::Cynthia A. Brown:::A Self-Modifying Theorem Prover.
+conf/aaai/Franklin98:::David Franklin:::Cooperating with people: the Intelligent Classroom.
+conf/aaai/RoscaB96:::Justinian P. Rosca::Dana H. Ballard:::Evolution-Based Discovery of Hierarchical Behaviors.
+conf/aaai/KleerW86a:::Johan de Kleer::Brian C. Williams:::Back to Backtracking: Controlling the ATMS.
+conf/aaai/RecordsC94:::Roger M. Records::Jai J. Choi:::Spurious Symptom Reduction in Fault Monitoring Using a Neural Network and Knowledge Base Hybrid System.
+conf/aaai/MahantiGNPK92:::Ambuj Mahanti::Subrata Ghosh::Dana S. Nau::Asim K. Pal::Laveen N. Kanal:::Performance of IDA on Trees and Graphs.
+conf/aaai/GentMPW96:::Ian P. Gent::Ewan MacIntyre::Patrick Prosser::Toby Walsh:::The Constrainedness of Search.
+conf/aaai/Nielsen88:::Paul Nielsen:::A Qualitative Approach to Mechanical Constraint.
+conf/aaai/GeorgeffL87:::Michael P. Georgeff::Amy L. Lansky:::Reactive Reasoning and Planning.
+conf/aaai/GopalakrishnanHBS94:::Vanathi Gopalakrishnan::Daniel N. Hennessy::Bruce G. Buchanan::Devika Subramanian:::The Crystallographer's Assistant.
+conf/aaai/CampbellB83:::Murray Campbell::Hans J. Berliner:::A Chess Program That Chunks.
+conf/aaai/ChaudhriSTW00:::Vinay K. Chaudhri::Mark E. Stickel::Jérôme Thoméré::Richard J. Waldinger:::Using Prior Knowledge: Problems and Solutions.
+conf/aaai/Burke99:::Robin D. Burke:::The Wasabi Personal Shopper: A Case-Based Recommender System.
+conf/aaai/HuffmanL93:::Scott B. Huffman::John E. Laird:::Instructo-Soar: Learning from Interactive Natural Language Instructions (Video Abstract).
+conf/aaai/McIlraith97:::Sheila A. McIlraith:::Representing Actions and State Constraints in Model-Based Diagnosis.
+conf/aaai/NishidaMKD91:::Toyoaki Nishida::Kenji Mizutani::Atsushi Kubota::Shuji Doshita:::Automated Phase Portrait Analysis by Integrating Qualitative and Quantitative Analysis.
+conf/aaai/WermterW94:::Stefan Wermter::Volker Weber:::Learning Fault-Tolerant Speech Parsing with SCREEN.
+conf/aaai/Freuder80:::Eugene C. Freuder:::Information Needed to Label a Scene.
+conf/aaai/Nikovski00:::Daniel Nikovski:::Grounding State Representations in Sensory Experience for Reasoning and Planning by Mobile Robots.
+conf/aaai/Corchado97:::Juan M. Corchado:::Adaptive Hybrid System Architecture for Forecasting.
+conf/aaai/OurstonM90:::Dirk Ourston::Raymond J. Mooney:::Changing the Rules: A Comprehensive Approach to Theory Refinement.
+conf/aaai/SchwalbD93:::Eddie Schwalb::Rina Dechter:::Coping With Disjunctions in Temporal Constraint Satisfaction Problems.
+conf/aaai/KlahrF80:::Philip Klahr::William S. Faught:::Knowledge-Based Simulation.
+conf/aaai/SchorDLT86:::Marshall I. Schor::Timothy Daly::Ho Soo Lee::Beth Tibbitts:::Advances in Rete Pattern Matching.
+conf/aaai/RickelP94:::Jeff Rickel::Bruce W. Porter:::Automated Modeling for Answering Prediction Questions: Selecting the Time Scale and System Boundary.
+conf/aaai/Puget98:::Jean-Francois Puget:::A Fast Algorithm for the Bound Consistency of alldiff Constraints.
+conf/aaai/JonesM94:::Eric K. Jones::Linton M. Miller:::L* Parsing: A General Framework for Syntactic Analysis of Natural Language.
+conf/aaai/MitchellSL92:::David G. Mitchell::Bart Selman::Hector J. Levesque:::Hard and Easy Distributions of SAT Problems.
+conf/aaai/LesperanceL90:::Yves Lespérance::Hector J. Levesque:::Indexical Knowledge in Robot Plans.
+conf/aaai/ForouraghiSP94:::B. Forouraghi::L. W. Schmerr::G. M. Prabhu:::Induction of Multivariate Regression Trees for Design Optimization.
+conf/aaai/SmirnovKVS96:::Yury V. Smirnov::Sven Koenig::Manuela M. Veloso::Reid G. Simmons:::Efficient Goal-Directed Exploration.
+conf/aaai/Mittal97:::Vibhu O. Mittal:::Visual Prompts and Graphical Design: A Framework for Exploring the Design Space of 2-D Charts and Graphs.
+conf/aaai/Baader90:::Franz Baader:::Terminological Cycles in KL-ONE-based Knowledge Representation Languages.
+conf/aaai/Tallis98:::Marcelo Tallis:::A Script-Based Approach to Modifying Knowledge-Based Systems.
+conf/aaai/LarsonS00:::Kate Larson::Tuomas Sandholm:::Deliberation in Equilibrium: Bargaining in Computationally Complex Problems.
+conf/aaai/SmartK98:::William D. Smart::Leslie Pack Kaelbling:::A Framework for Reinforcement Learning on Real Robots.
+conf/aaai/SrihariH82:::Sargur N. Srihari::Jonathan J. Hull:::Knowledge Integration in Text Recognition.
+conf/aaai/CharniakHJP93:::Eugene Charniak::Curtis Hendrickson::Neil Jacobson::Mike Perkowitz:::Equations for Part-of-Speech Tagging.
+conf/aaai/GuidaGGS86:::Giovanni Guida::Marco Guida::Sergio Gusmeroli::Marco Somalvico:::Design and Experimentation of an Expert System for Programming In-the-Large.
+conf/aaai/ZytkowZH90:::Jan M. Zytkow::Jieming Zhu::Abul Hussam:::Automated Discovery in a Chemistry Laboratory.
+conf/aaai/WellmanD91:::Michael P. Wellman::Jon Doyle:::Preferential Semantics for Goals.
+conf/aaai/Joshi87:::Aravind K. Joshi:::Word-Order Variation in Natural Language Generation.
+conf/aaai/SelmanKC94:::Bart Selman::Henry A. Kautz::Bram Cohen:::Noise Strategies for Improving Local Search.
+conf/aaai/Doorenbos94:::Robert B. Doorenbos:::Combining Left and Right Unlinking for Matching a Large Number of Learned Rules.
+conf/aaai/PriceT97:::Chris Price::Neil Taylor:::Multiple Fault Diagnosis from FMEA.
+conf/aaai/MacIntyreST94:::John MacIntyre::Peter Smith::John Tait:::Determination of Machine Condition Using Neural Networks.
+conf/aaai/Iwasaki88:::Yumi Iwasaki:::Causal Ordering in a Mixed Structure.
+conf/aaai/WellmanGSW02:::Michael P. Wellman::Amy R. Greenwald::Peter Stone::Peter R. Wurman:::The 2001 Trading Agent Competition.
+conf/aaai/ElomaaK02:::Tapio Elomaa::Matti Kääriäinen:::Progressive Rademacher Sampling.
+conf/aaai/RishBM02:::Irina Rish::Mark Brodie::Sheng Ma:::Accuracy vs. Efficiency Trade-offs in Probabilistic Diagnosis.
+conf/aaai/Pearce88:::D. A. Pearce:::The Induction of Fault Diagnosis Systems from Qualitative Models.
+conf/aaai/Liberatore02:::Paolo Liberatore:::The Size of MDP Factored Policies.
+conf/aaai/FulkersonLK97:::Michael S. Fulkerson::Michael L. Littman::Greg A. Keim:::Speeding Safely: Multi-Criteria Optimization in Probabilistic Planning.
+conf/aaai/Regin96:::Jean-Charles Régin:::Generalized Arc Consistency for Global Cardinality Constraint.
+conf/aaai/RosensteinC98:::Michael T. Rosenstein::Paul R. Cohen:::Concepts From Time Series.
+conf/aaai/TsurushimaUSDNAT98:::Akira Tsurushima::Kenji Urushima::Daigo Sakata::Hiroyuki Date::Masatomo Nakata::Yoshinobu Adachi::Kazuhisa Takahashi:::An Expert System for Alarm System Planning.
+conf/aaai/BaralGP96:::Chitta Baral::Alfredo Gabaldon::Alessandro Provetti:::Formalizing Narratives Using Nested Circumscription.
+conf/aaai/McArthurSC82:::David McArthur::Randall Steeb::Stephanie J. Cammarata:::A Framework for Distributed Problem Solving.
+conf/aaai/YenLT94:::John Yen::Xiaoqing Liu::Swee Hor Teh:::The Acquisition, Analysis and Evaluation of Imprecise Requirements for Knowledge-Based Systems.
+conf/aaai/YenND88:::John Yen::Robert Neches::Michael DeBellis:::Specification by Reformulation: A Paradigm for Building Integrated User Support Environments.
+conf/aaai/NicolescuM00:::Monica N. Nicolescu::Maja J. Mataric:::Deriving and Using Abstract Representation in Behavior-Based Systems.
+conf/aaai/CuiCR92:::Zhan Cui::Anthony G. Cohn::David A. Randell:::Qualitative Simulation Based on a Logical Formalism of Space and Time.
+conf/aaai/LevesqueCN90:::Hector J. Levesque::Philip R. Cohen::José H. T. Nunes:::On Acting Together.
+conf/aaai/TateDD94:::Austin Tate::Brian Drabble::Jeff Dalton:::The Use of Condition Types to Restrict Search in an AI Planner.
+conf/aaai/CorderoP02:::Otto X. Cordero::C. Enrique Peláez:::Fuzzy Numbers for the Improvement of Causal Knowledge Representation in Fuzzy Cognitive Maps.
+conf/aaai/Grefenstette88:::John J. Grefenstette:::Credit Assignment in Genetic Learning Systems.
+conf/aaai/IwasakiL94:::Yumi Iwasaki::Alon Y. Levy:::Automated Model Selection for Simulation.
+conf/aaai/BonassoD96:::R. Peter Bonasso::Thomas Dean:::Robots With AI: A Retrospective on the AAAI Robot Competitions and Exhibitions.
+conf/aaai/Khardon96:::Roni Khardon:::Learning to Take Actions.
+conf/aaai/SmithC93:::Stephen F. Smith::Cheng-Chung Cheng:::Slack-Based Heuristics for Constraint Satisfaction Scheduling.
+conf/aaai/ColaciS00:::Raffaella Colaci::Marco Schaerf:::ICARUS: Intelligent Content-Based Retrieval of 3D Scene.
+conf/aaai/JoskowiczA88:::Leo Joskowicz::Sanjaya Addanki:::From Kinematics to Shape: An Approach to Innovative Design.
+conf/aaai/Ashish98:::Naveen Ashish:::Optimizing Information Agents by Selectively Materializing Data.
+conf/aaai/Kleer91:::Johan de Kleer:::Focusing on Probable Diagnoses.
+conf/aaai/Kushmerick99:::Nicholas Kushmerick:::Regression testing for wrapper maintenance.
+conf/aaai/GereviniS98:::Alfonso Gerevini::Lenhart K. Schubert:::Inferring State Constraints for Domain-Independent Planning.
+conf/aaai/KambhatlaBLNZWM00:::Nanda Kambhatla::Malgorzata Budzikowska::Sylvie Levesque::Nicolas Nicolov::Wlodek Zadrozny::Charles Wiecha::Julie MacNaught:::DMML: An XML Language for Interacting with Multi-Modal Dialog Systems.
+conf/aaai/WrayL98a:::Robert E. Wray III::John E. Laird:::Ensuring Reasoning Consistency in Hierarchical Architectures.
+conf/aaai/WrayLJ96:::Robert E. Wray III::John E. Laird::Randolph M. Jones:::Compilation of Non-Contemporaneous Constraints.
+conf/aaai/LauLL00:::Hoong Chuin Lau::Andrew Lim::Qi Zhang Liu:::Solving a Supply Chain Optimization Problem Collaboratively.
+conf/aaai/StormontCEJQABH97:::Dan Stormont::Jane Canulette::Timothy Eyring::Jose Juste::Salamon Quintana::Chaouki T. Abdallah::Raymond H. Byrne::Gregory L. Heileman:::Lobokhod: The University of New Mexico's Robotic Mars Rover.
+conf/aaai/HaimowitzK93:::Ira J. Haimowitz::Isaac S. Kohane:::An Epistemology for Clinically Significant Trends.
+conf/aaai/KambhampatiCTL91:::Subbarao Kambhampati::Mark R. Cutkosky::Marty Tenenbaum::Soo Hong Lee:::Combining Specialized Reasoners and General Purpose Planners: A Case Study.
+conf/aaai/BernsteinPZF02:::Daniel S. Bernstein::Theodore J. Perkins::Shlomo Zilberstein::Lev Finkelstein:::Scheduling Contract Algorithms on Multiple Processors.
+conf/aaai/PrattMK91:::Lorien Y. Pratt::Jack Mostow::Candace A. Kamm:::Direct Transfer of Learned Information Among Neural Networks.
+conf/aaai/Padgham88:::Lin Padgham:::A Model and Representation for Type Information and Its Use in Reasoning with Defaults.
+conf/aaai/Horowitz94:::Damon Horowitz:::Generating Rhythms with Genetic Algorithms.
+conf/aaai/FalkenhainerFG86:::Brian Falkenhainer::Kenneth D. Forbus::Dedre Gentner:::The Structure-Mapping Engine.
+conf/aaai/KuvayevGPC97:::Leo Kuvayev::C. Lee Giles::James Philbin::Henry Cejtin:::Intelligent Methods for File System Optimization.
+conf/aaai/Leake91:::David B. Leake:::An Indexing Vocabulary for Case-Based Explanation.
+conf/aaai/Lieberman94:::Henry Lieberman:::A User Interface for Knowledge Acquisition From Video.
+conf/aaai/GomezS99:::Fernando Gomez::Carlos Segami:::A System for the Semantic Interpretation of Unrestricted Domains using WordNet.
+conf/aaai/SchefferJ98:::Tobias Scheffer::Thorsten Joachims:::Estimating the Expected Error of Empirical Minimizers for Model Selection.
+conf/aaai/Califano88:::Andrea Califano:::Feature Recognition Using Correlated Information Contained in Multiple Neighborboods.
+conf/aaai/Darwiche02:::Adnan Darwiche:::A Compiler for Deterministic, Decomposable Negation Normal Form.
+conf/aaai/BurgerM91:::John D. Burger::Ralph J. Marshall:::The Application of Natural Language Models to Intelligent Multimedia.
+conf/aaai/McVeyADS97:::Charles B. McVey::Ella M. Atkins::Edmund H. Durfee::Kang G. Shin:::Development of Iterative Scheduler to Planner Feedback.
+conf/aaai/LevyR96:::Alon Y. Levy::Marie-Christine Rousset:::The Limits on Combining Recursive Horn Rules with Description Logics.
+conf/aaai/RanzeSWGHHSA02:::K. Christoph Ranze::Thorsten Scholz::Thomas Wagner::Andreas Günter::Otthein Herzog::Oliver Hollmann::Christoph Schlieder::Volker Arlt:::A Structure Based Configuration Tool: Drive Solution Designer - DSD.
+conf/aaai/Shechory94:::Onn Shechory:::Coalition Formation Methods in Multi-Agent Environments.
+conf/aaai/RoyDD96:::Nicholas Roy::Gregory Dudek::Michael Daum:::Mobile Robot Navigation and Control: A Case Study.
+conf/aaai/Anshelevich00:::Vadim V. Anshelevich:::The Game of Hex: An Automatic Theorem Proving Approach to Game Programming.
+conf/aaai/MichalskiMHL86:::Ryszard S. Michalski::Igor Mozetic::Jiarong Hong::Nada Lavrac:::The Multi-Purpose Incremental Learning System AQ15 and Its Testing Application to Three Medical Domains.
+conf/aaai/WermterPA99:::Stefan Wermter::Christo Panchev::Garen Arevian:::Hybrid Neural Plausibility Networks for News Agents.
+conf/aaai/BaresL97:::William H. Bares::James C. Lester:::Realtime Generation of Customized 3D Animated Explanations for Knowledge-Based Learning Environments.
+conf/aaai/Epstein88:::Samuel S. Epstein:::Principle-Based Interpretation of Natural Language Quantifiers.
+conf/aaai/Spertus97:::Ellen Spertus:::Smokey: Automatic Recognition of Hostile Messages.
+conf/aaai/Barbuceanu97:::Mihai Barbuceanu:::Coordinating Agents by Role Based Social Constraints and Conversation Plans.
+conf/aaai/McAllester90:::David A. McAllester:::Truth Maintenance.
+conf/aaai/CohenOBA02:::Paul R. Cohen::Tim Oates::Carole R. Beal::Niall M. Adams:::Contentful Mental States for Robot Baby.
+conf/aaai/Peterson90:::Gerald E. Peterson:::Solving Term Inequalities.
+conf/aaai/MichelNSK96:::J. D. Michel::N. Nandhakumar::Tushar Saxena::Deepak Kapur:::Using Elimination Methods to Compute Thermophysical Algebraic Invariants from Infrared Imagery.
+conf/aaai/Wooldridge99:::Michael Wooldridge:::Verifying that Agents Implement a Communication Language.
+conf/aaai/LimCKO00:::Andrew Lim::Ang Juay Chin::Ho Wee Kit::Wee-Chong Oon:::A Campus-Wide University Examination Timetabling Application.
+conf/aaai/WilsonL92:::Randall H. Wilson::Jean-Claude Latombe:::On the Qualitative Structure of a Mechanical Assembly.
+conf/aaai/Mitchell00:::Matthew Winston Mitchell:::Combining Classification and Temporal Learning.
+conf/aaai/Rychtyckyj99:::Nestor Rychtyckyj:::DLMS: Ten Years of AI for Vehicle Assembly Process Planning.
+conf/aaai/HuberDW94:::Marcus J. Huber::Edmund H. Durfee::Michael P. Wellman:::The Automated Mapping of Plans for Plan Recognition.
+conf/aaai/RebohR86:::René Reboh::Tore Risch:::SYNTEL<sup>TM</sup>: Knowledge Programming Using Functional Representations.
+conf/aaai/ShellRB94:::Peter Shell::Juan Antonio Hernandez Rubio::Gonzalo Quiroga Barro:::Improving Search through Diversity.
+conf/aaai/GaurJH97:::Daya Ram Gaur::W. Ken Jackson::William S. Havens:::Detecting Unsatisfiable CSPs by Coloring the Micro-Structure.
+conf/aaai/Sikka94:::Vishal Sikka:::Integrating Specialized Procedures in Proof Systems.
+conf/aaai/SabinF96:::Mihaela Sabin::Eugene C. Freuder:::Automated Formulation of Constraint Satisfaction Problems.
+conf/aaai/VivacquaG97:::Adriana Santarosa Vivacqua::Ana Cristina Bicharra Garcia:::MultiADD: A Multiagent Active Design Document Model to Support Group Design.
+conf/aaai/ManiC99:::Subramani Mani::Gregory F. Cooper:::Causal Discovery from Population-Based Infant Birth and Death Records.
+conf/aaai/Steinberg80:::Louis I. Steinberg:::Question Ordering in a Mixed Intiative Program Specification Dialogue.
+conf/aaai/FrankBB00:::Ian Frank::David A. Basin::Alan Bundy:::Combining Knowledge and Search to Solve Single-Suit Bridge.
+conf/aaai/HayashiK91:::Akira Hayashi::Benjamin Kuipers:::Path Planning for Highly Redundant Manipulators Using a Continuous Model.
+conf/aaai/TangM02:::Tiffany Ya Tang::Gordon I. McCalla:::Student Modeling for a Web-Based Learning Environment: A Data Mining Approach.
+conf/aaai/FerrarisG00:::Paolo Ferraris::Enrico Giunchiglia:::Planning as Satisfiability in Nondeterministic Domains.
+conf/aaai/Smith86:::Grahame B. Smith:::A Stereo Integral Equation.
+conf/aaai/DurfeeL86:::Edmund H. Durfee::Victor R. Lesser:::Incremental Planning to Control a Blackboard-based Problem Solver.
+conf/aaai/Portinale96:::Luigi Portinale:::Improving Model-Based Diagnosis through Algebraic Analysis: The Petri Net Challenge.
+conf/aaai/BowenK88:::James Bowen::Jianchu Kang:::Conflict Resolution in Fuzzy Forward-Chaining Production Systems.
+conf/aaai/Barstow80:::David R. Barstow:::Exploiting a Domain Model in an Expert Spectral Analysis Program.
+conf/aaai/DakinP91:::Gordon A. Dakin::Robin J. Popplestone:::Augmenting a Nominal Assembly Motion Plan with a Compliant Behavior.
+conf/aaai/Rymon94:::Ron Rymon:::On Kernel Rule's and Prime Implicants.
+conf/aaai/Selfridge82:::Mallory Selfridge:::Why Do Children Misunderstand Reversible Passives? The CHILD Program Learns to Understand Passive Sentences.
+conf/aaai/NevilleW93:::Dorothy Neville::Daniel S. Weld:::Innovative Design as Systematic Search.
+conf/aaai/AbellaK93:::Alicia Abella::John R. Kender:::Qualitatively Describing Objects Using Spatial Prepositions.
+conf/aaai/WeldAS98:::Daniel S. Weld::Corin R. Anderson::David E. Smith:::Extending Graphplan to Handle Uncertainty &amp; Sensing Actions.
+conf/aaai/SchmolzeS97:::James G. Schmolze::Wayne Snyder:::Detecting Redundant Production Rules.
+conf/aaai/DechterD87:::Avi Dechter::Rina Dechter:::Removing Redundancies in Constraint Networks.
+conf/aaai/NigamMTM98:::Kamal Nigam::Andrew McCallum::Sebastian Thrun::Tom M. Mitchell:::Learning to Classify Text from Labeled and Unlabeled Documents.
+conf/aaai/KlahrMN82:::Philip Klahr::David McArthur::Sanjai Narain:::SWIRL: An Object-Oriented Air Battle Simulator.
+conf/aaai/BaffesM96:::Paul T. Baffes::Raymond J. Mooney:::A Novel Application of Theory Refinement to Student Modeling.
+conf/aaai/IhrigK96:::Laurie H. Ihrig::Subbarao Kambhampati:::Design and Implementation of a Replay Framework Based on a Partial Order Planner.
+conf/aaai/Etherington97:::David W. Etherington:::What Does Knowledge Representation Have to Say to Artificial Intelligence?
+conf/aaai/GerkeyM00:::Brian P. Gerkey::Maja J. Mataric:::MURDOCH: Publish/Subscribe Task Allocation for Heterogeneous Agents.
+conf/aaai/BhattacharyaB96:::Subir Bhattacharya::Amitava Bagchi:::Searching Game Trees Under Memory Constraints.
+conf/aaai/GroeneboerD88:::Chris Groeneboer::James P. Delgrande:::Tableau-Based Theorem Proving In Normal Conditional Logics.
+conf/aaai/BarachiniMG92:::Franz Barachini::Hans Mistelberger::Anoop Gupta:::Run-Time Prediction for Production Systems.
+conf/aaai/WilliamsC94:::Brian C. Williams::Jonathan Cagan:::Activity Analysis: The Qualitative Analysis of Stationary Points for Optimal Reasoning.
+conf/aaai/WilliamsM98:::Brian C. Williams::William Millar:::Decompositional, Model-based Learning and its Analogy to Diagnosis.
+conf/aaai/ZhangF96:::Yan Zhang::Norman Y. Foo:::Updating Knowledge Bases with Disjunctive Information.
+conf/aaai/MavrovouniotisS87:::Michael L. Mavrovouniotis::George Stephanopoulos:::Reasoning with Orders of Magnitude and Approximate Relations.
+conf/aaai/KoehnK00:::Philipp Koehn::Kevin Knight:::Estimating Word Translation Probabilities from Unrelated Monolingual Corpora Using the EM Algorithm.
+conf/aaai/MelvilleMN02:::Prem Melville::Raymond J. Mooney::Ramadass Nagarajan:::Content-Boosted Collaborative Filtering for Improved Recommendations.
+conf/aaai/KamberS96:::Micheline Kamber::Rajjan Shinghal:::Proposed Interestingness Measure for Characteristic Rules.
+conf/aaai/ChittimooriGH99:::Ravindra N. Chittimoori::Jesus A. Gonzalez::Lawrence B. Holder:::Structural Knowledge Discovery in Chemical and Spatio-Temporal Databases.
+conf/aaai/Moore82:::Robert C. Moore:::The Role of Logic in Knowledge Representation and Commonsense Reasoning.
+conf/aaai/Kanazawa91:::Keiji Kanazawa:::A Logic and Time Nets for Probabilistic Inference.
+conf/aaai/NovakB90:::Gordon S. Novak::William C. Bulko:::Understanding Natural Language with Diagrams.
+conf/aaai/Gratch96:::Jonathan Gratch:::Sequential Inductive Learning.
+conf/aaai/McCune90:::William McCune:::Skolem Functions and Equality in Automated Deduction.
+conf/aaai/SteierB94:::Amy M. Steier::Richard K. Belew:::Talking About AI: Socially Defined Linguistic Subcontexts in AI.
+conf/aaai/NorvickW93:::David G. Norvick::Karen Ward:::Mutual Beliefs of Multiple Conversants: A Computational Model of Collaboration in Air Traffic Control.
+conf/aaai/Frost99:::Richard A. Frost:::A Natural-Language Speech Interface Constructed Entirely as a Set of Executable Specifications.
+conf/aaai/WagstaffC00:::Kiri Wagstaff::Claire Cardie:::Clustering with Instance-Level Constraints.
+conf/aaai/Blumenthal90:::Brad Blumenthal:::Empirical Comparisons of Some Design Replay Algorithms.
+conf/aaai/SchlimmerG86:::Jeffrey C. Schlimmer::Richard Granger Jr.:::Beyond Incremental Processing: Tracking Concept Drift.
+conf/aaai/Eshghi90:::Kave Eshghi:::Computing Stable Models by Using the ATMS.
+conf/aaai/Soloway90:::Elliot Soloway:::The Techies vs. the Non-techies: Today's Two Cultures.
+conf/aaai/Dechter90:::Rina Dechter:::On the Expressiveness of Networks with Hidden Variables.
+conf/aaai/PatilSS82:::Ramesh S. Patil::Peter Szolovits::William B. Schwartz:::Information Acquisition in Diagnosis.
+conf/aaai/BarbulescuWW00:::Laura Barbulescu::Jean-Paul Watson::L. Darrell Whitley:::Dynamic Representations and Escaping Local Optima: Improving Genetic Algorithms and Local Search.
+conf/aaai/StranieriZ98:::Andrew Stranieri::John Zeleznikow:::Split Up: The Use of an Argument Based Knowledge Representation to Meet Expectations of Different Users for Discretionary Decision Making.
+conf/aaai/BaggaCB97:::Amit Bagga::Joyce Yue Chai::Alan W. Biermann:::The Role of WordNet in The Creation of a Trainable Message Understanding System.
+conf/aaai/KapetanakisK02:::Spiros Kapetanakis::Daniel Kudenko:::Reinforcement Learning of Coordination in Cooperative Multi-Agent Systems.
+conf/aaai/IshidaS96:::Toru Ishida::Masashi Shimbo:::Improving the Learning Efficiencies of Realtime Search.
+conf/aaai/HaanS86:::Johannes de Haan::Lenhart K. Schubert:::Inference in a Topically Organized Semantic Net.
+conf/aaai/HaasH80:::Norman Haas::Gary G. Hendrix:::An Approach to Acquiring and Applying Knowledge.
+conf/aaai/Henderson98:::John C. Henderson:::Exploiting Diversity for Natural Language Processing.
+conf/aaai/JonssonB96a:::Peter Jonsson::Christer Bäckström:::A Linear-Programming Approach to Temporal Reasoning.
+conf/aaai/KollerMP97:::Daphne Koller::David A. McAllester::Avi Pfeffer:::Effective Bayesian Inference for Stochastic Programs.

@@ -1,0 +1,200 @@
+conf/pods/Greiner92:::Russell Greiner:::Learning Efficient Query Processing Strategies.
+conf/pods/JohnsonS89:::Theodore Johnson::Dennis Shasha:::Utilization of B-trees with Inserts, Deletes and Modifies.
+conf/pods/KumarRRSTU00:::Ravi Kumar::Prabhakar Raghavan::Sridhar Rajagopalan::D. Sivakumar::Andrew Tomkins::Eli Upfal:::The Web as a Graph.
+conf/pods/BenediktL97:::Michael Benedikt::Leonid Libkin:::Languages for Relational Databases over Interpreted Structures.
+conf/pods/BenediktL98:::Michael Benedikt::Leonid Libkin:::Safe Constraint Queries.
+conf/pods/GelderT87:::Allen Van Gelder::Rodney W. Topor:::Safety and Correct Translation of Relational Calculus Formulas.
+conf/pods/Graham83:::Marc H. Graham:::Path Expressions in Databases.
+conf/pods/Jakobsson92:::Håkan Jakobsson:::On Tree-Based Techniques for Query Evaluation.
+conf/pods/Borgida89:::Alexander Borgida:::Type Systems for Querying Class Hierarchies with Non-strict Inheritance.
+conf/pods/GunopulosKMT97:::Dimitrios Gunopulos::Roni Khardon::Heikki Mannila::Hannu Toivonen:::Data mining, Hypergraph Transversals, and Machine Learning.
+conf/pods/Klavans98:::Judith Klavans:::Data Bases in Digital Libraries: Where Computer Science and Information Management Meet.
+conf/pods/Harel94:::David Harel:::Will I be Pretty, Will I be Rich? Some Thoughts on Theory vs. Practice in Systems Engineering (Summary).
+conf/pods/ImielinskiL82:::Tomasz Imielinski::Witold Lipski Jr.:::The Relational Model of Data and Cylindrial Algebras.
+conf/pods/KanzaS03:::Yaron Kanza::Yehoshua Sagiv:::Computing full disjunctions.
+conf/pods/Chomicki90:::Jan Chomicki:::Polynomial Time Query Processing in Temporal Deductive Databases.
+conf/pods/Vardi95:::Moshe Y. Vardi:::On the Complexity of Bounded-Variable Queries.
+conf/pods/SippuS88:::Seppo Sippu::Eljas Soisalon-Soininen:::A Generalized Transitive Closure for Relational Queries.
+conf/pnpm/JuanoleA91:::Guy Juanole::Youcef Atamna:::Dealing with Arbitrary Time Distributions with the Stochastic Timed Petri Net Model - Application to Queueing Systems.
+conf/pnpm/RuizFC91:::Valentín Valero Ruiz::David de Frutos-Escrig::Fernando Cuartero:::Simulation of Timed Petri Nets by Ordinary Petri Nets and Applications to Decidability of the Timed Reachability Problem and other Related Problems.
+conf/pnpm/Vautherin87:::Jacques Vautherin:::Calculation of Semi-Flows for Pr/T-Systems.
+conf/pnpm/Chiola85:::Giovanni Chiola:::A Software Package for the Analysis of Generalized Stochastic Petri Net Models.
+conf/pnpm/Szymanski87:::Ted H. Szymanski:::Tree Network Performance Analysis Using Monte Carlo Simulation of Performance Petri Nets.
+conf/pnpm/CouvillionFJOQRST91:::Joseph A. Couvillion::Roberto Freire::Ron Johnson::W. Douglas Obal II::Muhammad A. Qureshi::Manish Rai::William H. Saunders::Janet E. Tvedt:::Performability Modeling with <i>UltraSAN</i>.
+conf/pnpm/Rajsbaum91:::Sergio Rajsbaum:::Stochastic Marked Graphs.
+conf/pnpm/AmmarD91:::Hany H. Ammar::Su Deng:::Time Warp Simulation of Stochastic Petri Nets.
+conf/pnpm/Natkin85:::Stéphane Natkin:::Timed and Stochastic Petri Nets: From the Validation to the Performance of Synchronization Schemes.
+conf/qcqc/BowdenDH98:::Charles M. Bowden::Jonathan P. Dowling::Steven P. Hotaling:::Quantum Computing Using Electron-Nuclear Double Resonances.
+conf/qcqc/LaflammeKZCM98:::R. Laflamme::Emanuel Knill::Wojciech H. Zurek::P. Catasti::S. V. S. Mariappan:::NMR GHZ.
+conf/qcqc/Averin98:::D. V. Averin:::Adiabatic Controlled-NOT Gate for Quantum Computation.
+conf/qcqc/HughesBKLLMNPS98:::R. J. Hughes::W. T. Buttler::P. G. Kwiat::S. K. Lamoreaux::G. G. Luther::G. L. Morgan::J. E. Nordholt::C. G. Peterson::C. M. Simmons:::Practical Free-Space Quantum Cryptography.
+conf/pomc/Friedman02:::Roy Friedman:::Caching web services in mobile ad-hoc networks: opportunities and challenges.
+conf/ppam/Kwiatkowski01:::Jan Kwiatkowski:::Evaluation of Parallel Programs by Measurement of Its Granularity.
+conf/ppam/Stpiczynsk01:::Przemyslaw Stpiczynski:::A New Message Passing Algorithm for Solving Linear Recurrence Systems.
+conf/ppam/SevastjanovRV01:::Pavel V. Sevastjanov::Pawel Róg::Andrey V. Venberg:::A Constructive Numerical Method for the Comparison of Intervals.
+conf/ppam/Gustavson01:::Fred G. Gustavson:::New Generalized Data Structures for Matrices Lead to a Variety of High Performance Algorithms.
+conf/ppam/BlazewiczW01:::Jacek Blazewicz::Rafal Walkowiak:::A New Parallel Approach for Multi-dimensional Packing Problem.
+conf/ppam/PaprzyckiDK01:::Marcin Paprzycki::Deborah Dent::Anna Kucaba-Pietal:::Solvers for Nonlinear Algebraic Equations; Where Are We Today?
+conf/ppam/Levin01:::Mikhail P. Levin:::Quasi-Characteristics Scheme with Parallel Facilities for Computations of Two-Phase Flows in Heterogeneous Porous Media.
+conf/ppam/RevolDMP01:::Nathalie Revol::Yves Denneulin::Jean-François Méhaut::Benoît Planquelle:::A Methodology of Parallelization for Continuous Verified Global Optimization.
+conf/ppam/AlonsoCDHR01:::Pedro Alonso::Raquel Cortina::Irene Diaz::Vicente Hernández::José Ranilla:::A Columnwise Block Striping in Neville Elimination.
+conf/ppam/SmyrlisK01:::Yiorgos Sokratis Smyrlis::Andreas Karageorghis:::Rotation of the Sources and Normalization of the Fundamental Solutions in the MFS.
+conf/ppam/TopaP01:::Pawel Topa::Mariusz Paszkowski:::Anastomosing Transportation Networks.
+conf/ppam/HluchyFTADN01:::Ladislav Hluchý::David Froehlich::Viet D. Tran::Ján Astalos::M. Dobrucký::Giang T. Nguyen:::Parallel Numerical Solution for Flood Modeling Systems.
+conf/ppam/NortonC01:::Charles D. Norton::Thomas A. Cwik:::Parallel Unstructured AMR and Gigabit Networking for Beowulf-Class Clusters.
+conf/ppam/MusialD01:::G. Musial::L. Debski:::Monte Carlo Method with Parallel Computation of Phase Transitions in the Three-Dimensional Ashkin-Teller Model.
+conf/ppam/JankowskiW01:::Jan Jankowski::Monika Warmowska:::Solution of Incompressible Navier-Stokes Equations Using Projection Methods.
+conf/ppcp/HaroudF94:::Djamila Haroud::Boi Faltings:::Global Consistency for Continuous Constraints.
+conf/ppcp/KurlanderPH94:::David Kurlander::Jean-Francois Puget::Jeff Heisserman:::Panel Session: Commercial Applications of Constraint Programming.
+conf/ppcp/SrivastavaRR94:::Divesh Srivastava::Raghu Ramakrishnan::Peter Z. Revesz:::Constraint Objects.
+conf/ppcp/Smith93:::Douglas R. Smith:::Synthesis of Constraint Algorithms.
+conf/ppcp/KirchnerKV93:::Claude Kirchner::Hélène Kirchner::Marian Vittek:::Implementing Computational Systems with Constraints.
+conf/ppcp/FruhwirthH93:::Thom W. Frühwirth::Philipp Hanschke:::Terminological Reasoning with Constraint Handling Rules.
+conf/ppcp/Rajasekar94:::Arcot Rajasekar:::Applications in Constraint Logic Programming with Strings.
+conf/popl/JonesSLT98:::Simon L. Peyton Jones::Mark Shields::John Launchbury::Andrew P. Tolmach:::Bridging the Gulf: A Common Intermediate Language for ML and Haskell.
+conf/popl/Ma92:::QingMing Ma:::Parametricity as Subtyping.
+conf/popl/AptS97:::Krzysztof R. Apt::Andrea Schaerf:::Search and Imperative Programming.
+conf/popl/GuibasW78:::Leonidas J. Guibas::Douglas K. Wyatt:::Compilation and Delayed Evaluation in APL.
+conf/popl/Proebsting95:::Todd A. Proebsting:::Optimizing an ANSI C Interpreter with Superoperators.
+conf/popl/FlanaganQ02:::Cormac Flanagan::Shaz Qadeer:::Predicate abstraction for software verification.
+conf/popl/AspertiCM00:::Andrea Asperti::Paolo Coppola::Simone Martini:::(Optimal) Duplication is not Elementary Recursive.
+conf/popl/FlattKF98:::Matthew Flatt::Shriram Krishnamurthi::Matthias Felleisen:::Classes and Mixins.
+conf/popl/SubrahmanyamY84:::P. A. Subrahmanyam::Jia-Huai You:::Pattern Driven Lazy Reduction: A Unifying Evaluation Mechanism for Functional and Logic Programs.
+conf/popl/Soisalon-Soininen77:::Eljas Soisalon-Soininen:::Elimination of Single Productions from LR Parsers in Conjunction with the Use of Default Reductions.
+conf/popl/BerryRS93:::G. Berry::S. Ramesh::R. K. Shyamasundar:::Communicating Reactive Processes.
+conf/popl/SuANPT02:::Zhendong Su::Alexander Aiken::Joachim Niehren::Tim Priesnitz::Ralf Treinen:::The first-order theory of subtyping constraints.
+conf/popl/Critcher79:::Adrienne Critcher:::The Functional Power of Parameter Passage Mechanisms.
+conf/popl/SaraswatJG95:::Vijay A. Saraswat::Radha Jagadeesan::Vineet Gupta:::Default Timed Concurrent Constraint Programming.
+conf/popl/HallHT75:::Patrick A. V. Hall::Peter Hitchcock::Stephen Todd:::An Algebra of Relations for Machine Computation.
+conf/popl/Leivant83a:::Daniel Leivant:::Structural Semantics for Polymorphic Data Types.
+conf/popl/MannaP83:::Zohar Manna::Amir Pnueli:::How to Cook a Temporal Proof System for Your Pet Language.
+conf/popl/XiP99:::Hongwei Xi::Frank Pfenning:::Dependent Types in Practical Programming.
+conf/popl/Loveman76:::David B. Loveman:::Program Improvement by Source to Source Transformation.
+conf/popl/HughesPS96:::John Hughes::Lars Pareto::Amr Sabry:::Proving the Correctness of Reactive Systems Using Sized Types.
+conf/popl/JanssonJ97:::Patrik Jansson::Johan Jeuring:::Polyp - A Polytypic Programming Language.
+conf/popl/Oppen78:::Derek C. Oppen:::Reasoning about Recursively Defined Data Structures.
+conf/popl/GrahamR73:::Susan L. Graham::Steven P. Rhodes:::Practical Syntactic Error Recovery.
+conf/popl/Hickey89:::Timothy J. Hickey:::CLP* and Constraint Abstraction.
+conf/popl/LowR76:::James Low::Paul Rovner:::Techniques for the Automatic Selection of Data Structures.
+conf/popl/WansbroughJ99:::Keith Wansbrough::Simon L. Peyton Jones:::Once Upon a Polymorphic Type.
+conf/popl/Condry81:::Michael W. Condry:::Paging as a ``Language Processing'' Task.
+conf/popl/Debray88:::Saumya K. Debray:::Efficient Dataflow Analysis of Logic Programs.
+conf/popl/LiskovS82:::Barbara Liskov::Robert Scheifler:::Guardians and Actions: Linguistic Support for Robust, Distributed Programs.
+conf/popl/Cooper82:::Eric C. Cooper:::On the Expressive Power of Query Languages for Relational Databases.
+conf/popl/Cooper85:::Keith D. Cooper:::Analyzing Aliases of Reference Formal Parameters.
+conf/popl/HeintzeR98:::Nevin Heintze::Jon G. Riecke:::The SLam Calculus: Programming with Secrecy and Integrity.
+conf/popl/MontenyohlW88:::Margaret Montenyohl::Mitchell Wand:::Correct Flow Analysis in Continuation Semantics.
+conf/popl/JaliliG82:::Fahimeh Jalili::Jean H. Gallier:::Building Friendly Parsers.
+conf/popl/HerlihyW87:::Maurice Herlihy::Jeannette M. Wing:::Axioms for Concurrent Objects.
+conf/popl/Ruth76:::Gregory R. Ruth:::Automatic Design of Data Processing Systems.
+conf/popl/BourdoncleM97:::François Bourdoncle::Stephan Merz:::Type-Checking Higher-Order Polymorphic Multi-Methods.
+conf/popl/PetrankR02:::Erez Petrank::Dror Rawitz:::The hardness of cache conscious data placement.
+conf/popl/FriedmanH85:::Daniel P. Friedman::Christopher T. Haynes:::Constraining Control.
+conf/popl/LuccoS91:::Steven Lucco::Oliver Sharp:::Parallel Programming With Coordination Structures.
+conf/popl/VolpanoS00:::Dennis M. Volpano::Geoffrey Smith:::Verifying Secrets and Relative Secrecy.
+conf/popl/ShieldsM01:::Mark Shields::Erik Meijer:::Type-indexed rows.
+conf/popl/Pratt79:::Vaughan R. Pratt:::Process Logic.
+conf/popl/CartwrightF92:::Robert Cartwright::Matthias Felleisen:::Observable Sequentiality and Full Abstraction.
+conf/popl/OhoriK93:::Atsushi Ohori::Kazuhiko Kato:::Semantics for Communication Primitives in an Polymorphic Language.
+conf/popl/JonesS86:::Larry G. Jones::Janos Simon:::Hierarchical VLSI Design Systems Based on Attribute Grammars.
+conf/popl/Schwartz75:::Jacob T. Schwartz:::Automatic Data Structure Choice in a Language of Very High Level.
+conf/popl/DebrayMW98:::Saumya K. Debray::Robert Muth::Matthew Weippert:::Alias Analysis of Executable Code.
+conf/popl/HenzingerJMS02:::Thomas A. Henzinger::Ranjit Jhala::Rupak Majumdar::Grégoire Sutre:::Lazy abstraction.
+conf/popl/GaifmanS89:::Haim Gaifman::Ehud Y. Shapiro:::Fully Abstract Compositional Semantics for Logic Programs.
+conf/popl/RuggieriM88:::Cristina Ruggieri::Thomas P. Murtagh:::Lifetime Analysis of Dynamically Allocated Objects.
+conf/popl/FarrowMY92:::Rodney Farrow::Thomas J. Marlowe::Daniel M. Yellin:::Composable Attribute Grammars: Support for Modularity in Translator Design and Implementation.
+conf/popl/Kurki-Suonio86:::Reino Kurki-Suonio:::Towards Programming with Knowledge Expressions.
+conf/popl/BuddDLS80:::Timothy A. Budd::Richard A. DeMillo::Richard J. Lipton::Frederick G. Sayward:::Theoretical and Emperical Studies on Using Program Mutation to Test the Functional Correctness of Programs.
+conf/popl/BaconCR03:::David F. Bacon::Perry Cheng::V. T. Rajan:::A real-time garbage collector with low overhead and consistent utilization.
+conf/popl/CytronFRWZ89:::Ron Cytron::Jeanne Ferrante::Barry K. Rosen::Mark N. Wegman::F. Kenneth Zadeck:::An Efficient Method of Computing Static Single Assignment Form.
+conf/popl/GanapathiF82:::Mahadevan Ganapathi::Charles N. Fischer:::Description-Driven Code Generation using Attribute Grammars.
+conf/popl/WeiseCES94:::Daniel Weise::Roger F. Crew::Michael Ernst::Bjarne Steensgaard:::Value Dependence Graphs: Representation without Taxation.
+conf/popl/RamalingamR93:::G. Ramalingam::Thomas W. Reps:::A Categorized Bibliography on Incremental Computation.
+conf/popl/RamalingamR94:::G. Ramalingam::Thomas W. Reps:::An Incremental Algorithm for Maintaining the Dominator Tree of a Reducible Flowgraph.
+conf/popl/NguyenGO85:::Van Nguyen::David Gries::Susan S. Owicki:::A Model and Temporal Proof System for Networks of Processes.
+conf/popl/CardelliG99:::Luca Cardelli::Andrew D. Gordon:::Types for Mobile Ambients.
+conf/popl/BallMS98:::Thomas Ball::Peter Mataga::Shmuel Sagiv:::Edge Profiling versus Path Profiling: The Showdown.
+conf/popl/Kennedy97:::Andrew Kennedy:::Relational Parametricity and Units of Measure.
+conf/popl/Bandes84:::Robert G. Bandes:::Constraining-Unification and the Programming Language Unicorn.
+conf/popl/LeeJB01:::Chin Soon Lee::Neil D. Jones::Amir M. Ben-Amram:::The size-change principle for program termination.
+conf/popl/Steensgaard96:::Bjarne Steensgaard:::Points-to Analysis in Almost Linear Time.
+conf/popl/KanellakisM89:::Paris C. Kanellakis::John C. Mitchell:::Polymorphic Unification and ML Typing.
+conf/popl/OderskyW97:::Martin Odersky::Philip Wadler:::Pizza into Java: Translating Theory into Practice.
+conf/popl/HechtU73:::Matthew S. Hecht::Jeffrey D. Ullman:::Analysis of a Simple Algorithm for Global Flow Problems.
+conf/popl/Leroy92:::Xavier Leroy:::Unboxed Objects and Polymorphic Typing.
+conf/popl/SchonbergSS79:::Edmond Schonberg::Jacob T. Schwartz::Micha Sharir:::Automatic Data Structure Selection in SETL.
+conf/popl/Rosen78:::Barry K. Rosen:::Monoids for Rapid Data Flow Analysis.
+conf/popl/Clarke79:::Edmund M. Clarke:::Synthesis of Resource Invariants for Concurrent Programs.
+conf/popl/MacQueenPS84:::David B. MacQueen::Gordon D. Plotkin::Ravi Sethi:::An Ideal Model for Recursive Polymorphic Types.
+conf/popl/Haraldsson78:::Anders Haraldsson:::A Partial Evaluator, Its Use for Compiling Iterative Statements in Lisp.
+conf/popl/AmadioC91:::Roberto M. Amadio::Luca Cardelli:::Subtyping Recursive Types.
+conf/popl/Mairson90:::Harry G. Mairson:::Deciding ML Typability is Complete for Deterministic Exponential Time.
+conf/popl/Mitchell84:::John C. Mitchell:::Coercion and Type Inference.
+conf/popl/BouajjaniEH95:::Ahmed Bouajjani::Rachid Echahed::Peter Habermehl:::Verifying Infinite State Processes with Sequential and Parallel Composition.
+conf/popl/BouajjaniET03:::Ahmed Bouajjani::Javier Esparza::Tayssir Touili:::A generic approach to the static analysis of concurrent programs with procedures.
+conf/popl/Hehner77:::Eric C. R. Hehner:::Structuring.
+conf/popl/WeeksF93:::Stephen Weeks::Matthias Felleisen:::On the Orthogonality of Assignments and Procedures in Algol.
+conf/popl/Pelegri-LlopartG88:::Eduardo Pelegrí-Llopart::Susan L. Graham:::Optimal Code Generation for Expression Trees: An Application of BURS Theory.
+conf/popl/MishraR85:::Prateek Mishra::Uday S. Reddy:::Declaration-Free Type Checking.
+conf/popl/CortesiCH94:::Agostino Cortesi::Baudouin Le Charlier::Pascal Van Hentenryck:::Combinations of Abstract Domains for Logic Programming.
+conf/popl/Doeppner77:::Thomas W. Doeppner Jr.:::Parallel Program Correctness Through Refinement.
+conf/popl/JohnsonD88:::Gregory F. Johnson::Dominic Duggan:::Stores and Partial Continuations as First-Class Objects in a Language and its Environment.
+conf/popl/SavageS79:::Sowmitri Swami::John E. Savage:::Space-Time Tradeoffs for Linear Recursion.
+conf/popl/PlevyakZC95:::John Plevyak::Xingbin Zhang::Andrew A. Chien:::Obtaining Sequential Efficiency for Concurrent Object-Oriented Languages.
+conf/popl/HatcherC86:::Philip J. Hatcher::Thomas W. Christopher:::High-Quality Code Generation Via Bottom-Up Tree Pattern Matching.
+conf/popl/MeyerS88:::Albert R. Meyer::Kurt Sieber:::Towards Fully Abstract Semantics for Local Variables.
+conf/popl/ChakiRR02:::Sagar Chaki::Sriram K. Rajamani::Jakob Rehof:::Types as models: model checking message-passing programs.
+conf/popl/BosschereDGK94:::Koenraad De Bosschere::Saumya K. Debray::David Gudeman::Sampath Kannan:::Call Forwarding: A Simple Interprocedural Optimization Technique for Dynamically Typed Languages.
+conf/popl/Kosinski76:::Paul R. Kosinski:::Mathematical Semantics and Data Flow Programming.
+conf/popl/HudakS86:::Paul Hudak::Lauren Smith:::Para-Functional Programming: A Paradigm for Programming Multiprocessor Systems.
+conf/popl/NingG93:::Qi Ning::Guang R. Gao:::A Novel Framework of Register Allocation for Software Pipelining.
+conf/popl/AbadiP91:::Martín Abadi::Gordon D. Plotkin:::A Logical View of Composition and Refinement.
+conf/popl/Hanus97:::Michael Hanus:::A Unified Computation Model for Functional and Logic Programming.
+conf/popl/PaigeY97:::Robert Paige::Zhe Yang:::High Level Reading and Data Structure Compilation.
+conf/popl/Myers81:::Eugene W. Myers:::A Precise Interprocedural Data Flow Algorithm.
+conf/popl/Halbwachs97:::David Lesens::Nicolas Halbwachs::Pascal Raymond:::Automatic Verification of Parameterized Linear Networks of Processes.
+conf/popl/Ait-KaciN86:::Hassan Aït-Kaci::Roger Nasr:::Logic and Inheritance.
+conf/popl/Murtagh84:::Thomas P. Murtagh:::A Less Dynamic Memory Allocation Scheme for Algol-like Languages.
+conf/ppdp/NassenCS01:::Henrik Nässén::Mats Carlsson::Konstantinos F. Sagonas:::Instruction Merging and Specialization in the SICStus Prolog Virtual Machine.
+conf/ppdp/HentenryckMPR99:::Pascal Van Hentenryck::Laurent Michel::Laurent Perron::Jean-Charles Régin:::Constraint Programming in OPL.
+conf/ppdp/PenaR01:::Ricardo Pena::Fernando Rubio:::Parallel Functional Programming at Two Levels of Abstraction.
+conf/ppdp/KollerM00:::Jörg Köller::Markus Mohnen:::Efficient abstract interpretation using component-wise homomorphisms.
+conf/ppdp/RychlikowskiT01:::Pawel Rychlikowski::Tomasz Truderung:::Polymorphic Directional Types for Logic Programming.
+conf/ppdp/AntoyHMS01:::Sergio Antoy::Michael Hanus::Bart Massey::Frank Steiner:::An Implementation of Narrowing Strategies.
+conf/ppdp/PediciniQ00:::Marco Pedicini::Francesco Quaglia:::A parallel implementation for optimal lambda-calculus reduction.
+conf/ppdp/PelovB00:::Nikolay Pelov::Maurice Bruynooghe:::Extending constraint logic programming with open functions.
+conf/ppdp/Gordon01:::Andrew D. Gordon:::Types for Cyphers: Thwarting Mischief and Malice with Type Theory.
+conf/ppdp/Lucas01:::Salvador Lucas:::Termination of On-Demand Rewriting and Termination of OBJ Programs.
+conf/ppdp/ChangJ01:::Byeong-Mo Chang::Jang-Wu Jo:::Granularity of Constraint-Based Analysis for Java.
+conf/ppsc/AlaghbandRJ93:::Gita Alaghband::Bernardo Rodriguez::Harry F. Jordan:::Mathematical Models for Parallel Loops.
+conf/ppsc/EwingCOPV93:::Richard E. Ewing::Michael A. Celia::Patrick O'Leary::Joseph Pasciak::Apostol T. Vassilev:::Parallelization of Multiphase Models for Contaminant Transport in Porous Media.
+conf/ppsc/KattiZ97:::Rajendra S. Katti::Huaan Zhang:::An Iterative Algorithm Using Probabilistic Automata for Predicting the Performance of Parallel Computers.
+conf/ppsc/MillerHJ99:::Michelle Miller::Charles D. Hansen::Christopher R. Johnson:::The SCIRun Problem Solving Environment: Implementation Within a Distributed Environment.
+conf/ppsc/Chin87:::Raymond C. Y. Chin:::Asymptotics and Domain Decomposition in Parallel Computing.
+conf/ppsc/GroppK89:::William Gropp::David E. Keyes:::Parallel Domain Decomposition with Local Mesh Refinement.
+conf/ppsc/MarinescuR87:::Dan C. Marinescu::John R. Rice:::Synchronization of Nonhomogeneous Parallel Computations.
+conf/ppsc/Shalaby97:::Nadia Shalaby:::Efficient Parallel FFTs for Different Computational Models.
+conf/ppsc/Baden87:::Scott B. Baden:::Programming Abstractions for Run-Time Partitioning of Scientific Continuum Calculations Running on Multiprocessors.
+conf/ppsc/Duff89:::Iain S. Duff:::Parallel Computation at CERFACS.
+conf/ppsc/BachelotCPR97:::Alain Bachelot::Pierre Charrier::Agnès Pujols::Danièle Rouart:::Parallel Algorithm for Solving Time Convolution Equations and Application to CEM.
+conf/ppsc/Johnson99:::Paul Johnson:::Using the Marr Wavelet for the Modeling of Basin Morphometry and Stream Flooding.
+conf/ppsc/GilbertT99:::John R. Gilbert::Sivan Toledo:::High-Performance Out-of-Core Sparse LU Factorization.
+conf/ppsc/HammondLDS95:::Steven W. Hammond::Richard D. Loft::John M. Dennis::Richard K. Sato:::A Data Parallel Implementation of the NCAR Community Climate Model (CCM2).
+conf/ppsc/DAzevedoER93:::Eduardo F. D'Azevedo::Victor Eijkhout::Charles H. Romine:::A Matrix Framework for Conjugate Gradient Methods and Some Variants of CG with Less Synchronization Overhead.
+conf/ppsc/HoJ89:::Ching-Tien Ho::S. Lennart Johnsson:::Optimizing Tridiagonal Solvers for Alternating Direction Methods on Boolean Cube Multiprocessors.
+conf/ppsc/HuNL95:::Jie Hu::Tadao Nakamura::Lei Li:::The Convergence of Asynchronous Monotone Newton Iterations on Distributed Computer.
+conf/ppsc/MankeP95:::Joseph W. Manke::James C. Patterson:::Message Passing Performance of Intel Paragon, IBM SP1 and Cray T3D Using Pvm.
+conf/ppsc/Arbib87:::Michael A. Arbib:::Neural Computing and Parallel Computation-Invited Talk.
+conf/ppsc/WuS93:::Kesheng Wu::Yousef Saad:::Performance of the CM-5 and Message Passing Primitives.
+conf/ppsc/TrefftzMLZ95:::Christian Trefftz::Philip K. McKinley::T.-Y. Li::Z. Zeng:::A Parallel Algorithm for the Singular Value Problem in Bidiagonal Matrices.
+conf/ppsc/AroFS97:::Colin J. Aro::Al Franz::Dale M. Slone:::A Highly Stable Explicit Technique for Stiff Reaction-Transport PDEs.
+conf/ppsc/RajicS91:::Hrabri Rajic::Sanjiv Shah:::Maximum Performance Code Restructuring for Hierarchical Memory RISC Computers.
+conf/ppsc/LiHW95:::Ai Li::Gudjon Hermannsson::Larry D. Wittie:::An Analytical Model for Performance Evaluation of Eagersharing Distributed Memory Systems.
+conf/ppsc/LukW95:::Wai-Shing Luk::Omar Wing:::The Use of Inexact ODE Solver in Waveform Relaxation Methods on a Massively Parallel Computer.
+conf/ppsc/HovlandMS99:::Paul D. Hovland::Lois C. McInnes::Barry F. Smith:::Solving Nonlinear PDEs Using PETSc and Automatic Differentiation.
+conf/ppsc/MouF95:::Z. George Mou::Sevan G. Ficici:::A Scalable Divide-and-Conquer Parallel Algorithm for Finite State Automata and Its Applications.
+conf/ppsc/BristeauEGP93a:::Marie-Odile Bristeau::Jocelyne Erhel::Roland Glowinski::Jacques Périaux:::A Time Dependent Approach to the Solution of the Helmholtz Equation at High Wave Numbers.
+conf/ppsc/MorenoPR95:::Oscar Moreno::Pei Pei::John G. Ramirez:::A Parallel Algorithm for the Enumeration of Costas Sequences.
+conf/ppsc/HaskellZSCS97:::K. H. Haskell::Z. H. Zhou::H. Spears Jr.::W. Chiu::L. R. Scott:::Improved 3D Reconstruction of Virus Structures through Parallel Processing.
+conf/ppsc/DrakeFMW95:::John B. Drake::Ian T. Foster::John Michalakes::Patrick H. Worley:::Parallel Algorithms for Semi-Lagrangian Transport in Global Atmospheric Circulation Models.
+conf/ppsc/PothenS89:::Alex Pothen::Horst D. Simon:::Spectral Algorithms for Ordering Sparse Matrices in Parallel.

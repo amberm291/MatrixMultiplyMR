@@ -1,0 +1,200 @@
+conf/vldb/Trauboth78:::Heinz Trauboth:::Data Base Design in Software Systems for Process Monitoring and Control.
+conf/vldb/ChatziantoniouR96:::Damianos Chatziantoniou::Kenneth A. Ross:::Querying Multiple Features of Groups in Relational Databases.
+conf/vldb/SeegerK88:::Bernhard Seeger::Hans-Peter Kriegel:::Techniques for Design and Implementation of Efficient Spatial Access Methods.
+conf/vldb/SeegerK90:::Bernhard Seeger::Hans-Peter Kriegel:::The Buddy-Tree: An Efficient and Robust Access Method for Spatial Data Base Systems.
+conf/vldb/JohnsonA00:::Sihem Amer-Yahia::Theodore Johnson:::Optimizing Queries on Compressed Bitmaps.
+conf/vldb/GarofalakisG01:::Minos N. Garofalakis::Phillip B. Gibbon:::Approximate Query Processing: Taming the TeraBytes.
+conf/vldb/GalanisWJD03:::Leonidas Galanis::Yuan Wang::Shawn R. Jeffery::David J. DeWitt:::Locating Data Sources in Large Distributed Systems.
+conf/vldb/HardingLM03:::Philip J. Harding::Quanzhong Li::Bongki Moon:::XISS/R: XML Indexing and Storage System using RDBMS.
+conf/vldb/Pevzner03:::Ilya Pevzner:::Extending relational database functionality with data inconsistency resolution support.
+conf/vldb/Karsner75:::G. R. Karsner:::Database Experience in the Netherlands PTT (ITCIS).
+conf/vldb/BouzeghoubGM85:::Mokrane Bouzeghoub::Georges Gardarin::Elisabeth Métais:::Database Design Tools: An Expert System Approach.
+conf/vldb/OlstonW00:::Chris Olston::Jennifer Widom:::Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data.
+conf/vldb/KumarS87:::Akhil Kumar::Michael Stonebraker:::Performance Evaluation of an Operating System Transaction Manager.
+conf/vldb/Norvag99:::Kjetil Nørvåg:::The Persistent Cache: Improving OID Indexing in Temporal Object-Oriented Database Systems.
+conf/vldb/BenediktCFRZZ02:::Michael Benedikt::Chee Yong Chan::Wenfei Fan::Rajeev Rastogi::Shihui Zheng::Aoying Zhou:::DTD-Directed Publishing with Attribute Translation Grammars.
+conf/vldb/Lynch88:::Clifford A. Lynch:::Selectivity Estimation and Query Optimization in Large Databases with Highly Skewed Distribution of Column Values.
+conf/vldb/Mohan90:::C. Mohan:::ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes.
+conf/vldb/SarawagiBKM02:::Sunita Sarawagi::Anuradha Bhamidipaty::Alok Kirpal::Chandra Mouli:::ALIAS: An Active Learning led Interactive Deduplication System.
+conf/vldb/IoannidisR88:::Yannis E. Ioannidis::Raghu Ramakrishnan:::Efficient Transitive Closure Algorithms.
+conf/vldb/KnorrN99:::Edwin M. Knorr::Raymond T. Ng:::Finding Intensional Knowledge of Distance-Based Outliers.
+conf/vldb/GuntherW87:::Oliver Günther::Eugene Wong:::A Dual Space Representation for Geometric Data.
+conf/vldb/LohmanDHKS84:::Guy M. Lohman::Dean Daniels::Laura M. Haas::Ruth Kistler::Patricia G. Selinger:::Optimization of Nested Queries in a Distributed Relational Database.
+conf/vldb/ParkerSV92:::Douglas Stott Parker Jr.::Eric Simon::Patrick Valduriez:::SVP: A Model Capturing Sets, Lists, Streams, and Parallelism.
+conf/vldb/GrayHW90:::Jim Gray::Bob Horst::Mark Walker:::Parity Striping of Disk Arrays: Low-Cost Reliable Storage with Acceptable Throughput.
+conf/vldb/DattaDTVRF01:::Anindya Datta::Kaushik Dutta::Helen M. Thomas::Debra E. VanderMeer::Krithi Ramamritham::Dan Fishman:::A Comparative Study of Alternative Middle Tier Caching Solutions to Support Dynamic Web Content Acceleration.
+conf/vldb/Navathe77:::Shamkant B. Navathe:::Schema Analysis for Database Restructuring.
+conf/vldb/Navathe82:::Shamkant B. Navathe:::Databases for Computer Aided Design and Manufacturing.
+conf/vldb/Zlatuska85:::Jirí Zlatuska:::Hit Data Model Data Bases from the Functional Point of View.
+conf/vldb/FarleyS75:::Gilles Farley::Stewart A. Schuster:::Query Execution and Index Selection for Relational Data Bases.
+conf/vldb/OlkenR86:::Frank Olken::Doron Rotem:::Simple Random Sampling from Relational Databases.
+conf/vldb/DonovanFGG75:::John J. Donovan::Rafael Fessel::Stuart G. Greenberg::Loius M. Gutentag:::An Experimental VM/370 Based Information System.
+conf/vldb/ManegoldBK00:::Stefan Manegold::Peter A. Boncz::Martin L. Kersten:::What Happens During a Join? Dissecting CPU and Memory Optimization Effects.
+conf/vldb/VriesDBA99:::Arjen P. de Vries::Mark G. L. M. van Doorn::Henk M. Blanken::Peter M. G. Apers:::The Mirror MMDBMS Architecture.
+conf/vldb/AilamakiDHS01:::Anastassia Ailamaki::David J. DeWitt::Mark D. Hill::Marios Skounakis:::Weaving Relations for Cache Performance.
+conf/vldb/HouselM77:::Barron C. Housel::Alan G. Merten:::A Note on the Survey: ``Future of Database Technology''.
+conf/vldb/VieiraM03:::Marco Vieira::Henrique Madeira:::A Dependability Benchmark for OLTP Application Environments.
+conf/vldb/RamanRH99:::Vijayshankar Raman::Bhaskaran Raman::Joseph M. Hellerstein:::Online Dynamic Reordering for Interactive Data Processing.
+conf/vldb/CotterB00:::Gladys A. Cotter::Barbara T. Bauldock:::Biodiversity Informatics Infrastructure: An Information Commons for the Biodiversity Community.
+conf/vldb/LeslieJBY95:::Harry Leslie::Rohit Jain::Dave Birdsall::Hedieh Yaghmai:::Efficient Search of Multi-Dimensional B-Trees.
+conf/vldb/Sandewall79:::Erik Sandewall:::A Description Language and Pilot-System Executive for Information-Transport Systems.
+conf/vldb/ReuterCGSW95:::Andreas Reuter::Stefano Ceri::Jim Gray::Betty Salzberg::Gerhard Weikum:::Databases and Workflow Management: What is it All About? (Panel).
+conf/vldb/ChaHKK01:::Sang K. Cha::Sangyong Hwang::Kihong Kim::Keunjoo Kwon:::Cache-Conscious Concurrency Control of Main-Memory Indexes on Shared-Memory Multiprocessor Systems.
+conf/vldb/JagadishLS99:::H. V. Jagadish::Laks V. S. Lakshmanan::Divesh Srivastava:::What can Hierarchies do for Data Warehouses?
+conf/vldb/JagadishMN99:::H. V. Jagadish::J. Madar::Raymond T. Ng:::Semantic Compression and Pattern Extraction with Fascicles.
+conf/vldb/DuttaDMRT00:::Kaushik Dutta::Anindya Datta::Debra E. VanderMeer::Krithi Ramamritham::Helen M. Thomas:::Demonstration: Enabling Scalable Online Personalization on the Web.
+conf/vldb/HachemQGW93:::Nabil I. Hachem::Ke Qiu::Michael A. Gennert::Matthew O. Ward:::Managing Derived Data in the Gaea Scientific DBMS.
+conf/vldb/LeeWMS02:::Young-Koo Lee::Kyu-Young Whang::Yang-Sae Moon::Il-Yeol Song:::A One-Pass Aggregation Algorithm with the Optimal Buffer Size in Multidimensional OLAP.
+conf/vldb/Buneman79:::Peter Buneman:::The Problem of Multiple Paths in a Database Schema.
+conf/vldb/LenzeriniN87:::Maurizio Lenzerini::Paolo Nobili:::On The Satisfiability of Dependency Constraints in Entity-Relationship Schemata.
+conf/vldb/GabbayM91:::Dov M. Gabbay::Peter McBrien:::Temporal Logic &amp; Historical Databases.
+conf/vldb/GardarinL77:::Georges Gardarin::P. Lebeux:::Scheduling Algorithms for Avoiding Inconsistency in Large Databases.
+conf/vldb/Cuppens96:::Frédéric Cuppens:::Querying a Multilevel Database: A Logical Analysis.
+conf/vldb/MackertL86:::Lothar F. Mackert::Guy M. Lohman:::R* Optimizer Validation and Performance Evaluation for Distributed Queries.
+conf/vldb/BohannonLRSSS97:::Rajeev Rastogi::S. Seshadri::Philip Bohannon::Dennis W. Leinbaugh::Abraham Silberschatz::S. Sudarshan:::Logical and Physical Versioning in Main Memory Databases.
+conf/vldb/SheikholeslamiCZ98:::Gholamhosein Sheikholeslami::Surojit Chatterjee::Aidong Zhang:::WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases.
+conf/vldb/LempelM02:::Ronny Lempel::Shlomo Moran:::Optimizing Result Prefetching in Web Search Engines with Segmented Indices.
+conf/vldb/Bultzingsloewen87:::Günter von Bültzingsloewen:::Translating and Optimizing SQL Queries Having Aggregates.
+conf/vldb/Herot79:::Christopher F. Herot:::Spatial Management of Data (Abstract).
+conf/vldb/GoldmanSVG98:::Roy Goldman::Narayanan Shivakumar::Suresh Venkatasubramanian::Hector Garcia-Molina:::Proximity Search in Databases.
+conf/wads/AndrzejakF99:::Artur Andrzejak::Komei Fukuda:::Optimization over k-set Polytopes and Efficient k-set Enumeration.
+conf/wads/LuccioRS89:::Fabrizio Luccio::Mireille Régnier::René Schott:::Discs and Other Related Data Structures.
+conf/wads/BespamyatnikhS99:::Sergei Bespamyatnikh::Michael Segal:::Rectilinear Static and Dynamic Discrete 2-center Problems.
+conf/wads/Yao91:::Frances Yao:::Neighborhood Graphs and Geometric Embedding.
+conf/wads/BrandesC01:::Ulrik Brandes::Sabine Cornelsen:::Visual Ranking of Link Structures.
+conf/wads/AbrahamsonAHK91:::Karl R. Abrahamson::Andrew Adler::Lisa Higham::David G. Kirkpatrick:::Probabilistic Leader Election on Rings of Known Size.
+conf/wads/BrodalF99:::Gerth Stølting Brodal::Rolf Fagerberg:::Dynamic Representation of Sparse Graphs.
+conf/wads/Mulmuley97:::Ketan Mulmuley:::Parallel vs. Parametric Complexity (Abstract).
+conf/wads/ArkinBDDMSS01:::Esther M. Arkin::Michael A. Bender::Erik D. Demaine::Martin L. Demaine::Joseph S. B. Mitchell::Saurabh Sethia::Steven Skiena:::When Can You Fold a Map?
+conf/wads/YapA89:::Chee-Keng Yap::Helmut Alt:::Motion Planning in the CL-Environment (Extended Abstract).
+conf/wads/JiangL93:::Tao Jiang::Ming Li:::Approximating Shortest Superstrings with Constraints (Extended Abstract).
+conf/wads/Zhao89:::Rongyao Zhao:::Linear Time Algorithms for Computing Reachability Regions from Polygonal Figures.
+conf/wads/KeilG89:::J. Mark Keil::Carl A. Gutwin:::The Delauney Triangulation Closely Approximates the Complete Euclidean Graph.
+conf/wads/ArmenS95:::Chris Armen::Clifford Stein:::Improved Length Bounds for the Shortest Superstring Problem (Extended Abstract).
+conf/wads/Baeza-Yates89:::Ricardo A. Baeza-Yates:::String Searching Algorithms Revisited.
+conf/wads/Chazelle97:::Bernard Chazelle:::Discrepancy Theory and Computational Geometry.
+conf/wads/ChakrabortyB99:::Samarjit Chakraborty::Somenath Biswas:::Approximation Algorithms for 3-D Commom Substructure Identification in Drug and Protein Molecules.
+conf/wads/GuptaW97:::Himanshu Gupta::Rephael Wenger:::Constructing Pairwise Disjoint Paths with Few Links.
+conf/wads/CzyzowiczRU89:::Jurek Czyzowicz::Ivan Rival::Jorge Urrutia:::Galleries, Light Matchings and Visibility Graphs.
+conf/wads/CuntoLF89:::Walter Cunto::Gustavo Lau::Philippe Flajolet:::Analysis of KDT-Trees: KD-Trees Improved by Local Reogranisations.
+conf/wads/PhillipsSW95:::Cynthia A. Phillips::Clifford Stein::Joel Wein:::Scheduling Jobs that Arrive Over Time (Extended Abstract).
+conf/wads/IbarraP89:::Oscar H. Ibarra::Michael A. Palis:::An Efficient All-Parses Systolic Algorithm for General Context-Free Parsing.
+conf/wads/Szpankowski89:::Wojciech Szpankowski:::Digital Data Structures and Order Statistics.
+conf/wads/AgarwalBHOSV01:::Pankaj K. Agarwal::Mark de Berg::Sariel Har-Peled::Mark H. Overmars::Micha Sharir::Jan Vahrenhold:::Reporting Intersecting Pairs of Polytopes in Two and Three Dimensions.
+conf/wads/BoyarLN99:::Joan Boyar::Kim S. Larsen::Morten N. Nielsen:::The Accommodating Function - A Generalization of the Competitive Ratio.
+conf/wads/CharikarMRS97:::Moses Charikar::Rajeev Motwani::Prabhakar Raghavan::Craig Silverstein:::Constrained TSP and Low-Power Computing.
+conf/wads/ChangPL93:::Maw-Shang Chang::Sheng-Lung Peng::Jenn-Liang Liaw:::Deferred-Query - An Efficient Approach for Problems on interval and Circular-Arc Graphs (Extended Abstract).
+conf/wads/Koltun01:::Vladlen Koltun:::Complexity Bounds for Vertical Decompositions of Linear Arrangements in Four Dimensions.
+conf/wads/TelleP93:::Jan Arne Telle::Andrzej Proskurowski:::Practical Algorithms on Partial k-Trees with an Application to Domination-like Problems.
+conf/wads/BoseMMM01:::Prosenjit Bose::Anil Maheshwari::Pat Morin::Jason Morrison:::The Grid Placement Problem.
+conf/wadt/AnconaCZ99:::Davide Ancona::Maura Cerioli::Elena Zucca:::Extending Casl by Late Binding.
+conf/wadt/Borzyszkowski98:::Tomasz Borzyszkowski:::Moving Specification Structures Between Logical Systems.
+conf/wadt/OrejasP99:::Fernando Orejas::Elvira Pino:::A General Algebraic Framework for Studying Modular Systems.
+conf/wadt/MartiniW97:::Alfio Martini::Uwe Wolter:::A systematic study of mappings between institutions.
+conf/wadt/Gramlich97:::Bernhard Gramlich:::Modular aspects of rewrite-based specifications.
+conf/wadt/CorradiniG98:::Andrea Corradini::Fabio Gadducci:::Functorial Semantics for Multi-algebras.
+conf/wadt/CorradiniGH98:::Andrea Corradini::Martin Große-Rhode::Reiko Heckel:::An Algebra of Graph Derivations Using Finite (co-) Limit Double Theories.
+conf/wadt/CherkiC97:::Sophie Cherki::Christine Choppy:::A method for FORTRAN programs reverse engineering using algebraic specifications.
+conf/wadt/Sannella01:::Donald Sannella:::The Common Framework Initiative for Algebraic Specification and Development of Software: Recent Progress.
+conf/wadt/GadducciH97:::Fabio Gadducci::Reiko Heckel:::An inductive view of graph transformation.
+conf/wadt/CerioliZ97:::Maura Cerioli::Elena Zucca:::Implementation of derived programs (almost) for free.
+conf/wadt/LourencoS99:::Hugo Lourenço::Amílcar Sernadas:::An Institution of Hybrid Systems.
+conf/waga/Rosendahl90:::Mads Rosendahl:::Abstract Interpretation Using Attribute Grammar.
+conf/waga/Meijer90:::Hans Meijer:::The Project on Extended Affix Grammars at Nijmegen.
+conf/waim/WangK01:::Yitong Wang::Masaru Kitsuregawa:::Link Based Clustering of Web Search Results.
+conf/waim/WangLZ02:::Xiaoyu Wang::Zhiguo Lu::Aoying Zhou:::Topic Exploration and Distillation for Web Search by a Similarity-Based Analysis.
+conf/waim/YuanLZWS02:::Qingqing Yuan::Yubo Lou::Haofeng Zhou::Wei Wang::Baile Shi:::Extract Frequent Pattern from Simple Graph Data.
+conf/waim/Bettini01:::Claudio Bettini:::Semantic Compression of Temporal Data.
+conf/waim/HuangTHN01:::Lieming Huang::Ulrich Thiel::Matthias Hemmje::Erich J. Neuhold:::Adaptive Web Meta-search Enhanced by Constraint-Based Query Constructing and Mapping.
+conf/waim/ZhouFHYH00:::Shuigeng Zhou::Ye Fan::Jiangtao Hu::Fang Yu::Yunfa Hu:::Hierachically Classifying Chinese Web Documents without Dictionary Support and Segmentation Procedure.
+conf/waim/YoshidaSN01:::Tetsuya Yoshida::Daiki Shinkai::Shogo Nishida:::Utilizing the Correlation between Query Keywords for Information Retrieval.
+conf/waim/ZhengZYZT02:::Shihui Zheng::Aoying Zhou::Jeffrey Xu Yu::Long Zhang::Han Tao:::Structural Map: A New Index for Efficient XML Path Expression Processing.
+conf/waim/AsanoITK02:::Yasuhito Asano::Hiroshi Imai::Masashi Toyoda::Masaru Kitsuregawa:::Web-Linkage Viewer: Finding Graph Structures in the Web.
+conf/waim/ZhuSI00:::Hongjun Zhu::Jianwen Su::Oscar H. Ibarra:::Extending Rectangle Join Algorithms for Rectilinear Polygons.
+conf/waim/GuillaumeLV02:::Jean-Loup Guillaume::Matthieu Latapy::Laurent Viennot:::Efficient and Simple Encodings for the Web Graph.
+conf/waim/WenLWZ01:::Catherine W. Wen::Huan Liu::Wilson X. Wen::Jeffery Zheng:::A Distributed Hierarchical Clustering System for Web Mining.
+conf/waim/KumarZ02:::Akhil Kumar::J. Leon Zhao:::EROICA: A Rule-Based Approach to Organizational Policy Management in Workflow Systems.
+conf/waim/ChenZDFZ02:::Kang Chen::Weimin Zheng::Xiaotie Deng::Haodi Feng::Shanfeng Zhu:::Text Distinguishers Used in an Interactive Meta Search Engine.
+conf/waim/BarbaraW00:::Daniel Barbará::Xintao Wu:::Using Loglinear Models to Compress Datacube.
+conf/waim/KushimaAKY00:::Kazuhiko Kushima::Hiroki Akama::Seiichi Kon'ya::Masashi Yamamuro:::ExSight: Highly Accurate Object Based Image Retrieval System Enhanced by Redundant Object Extraction.
+conf/vlsi/Pedroni03:::Volnei A. Pedroni:::High-Resolution WTA-MAX Circuit for Large Networks.
+conf/vlsi/SchneiderKK91:::Klaus Schneider::Ramayya Kumar::Thomas Kropf:::Structurein Hardware Proofs: Fist Steps Towards Automation in a Higher-Order Environment.
+conf/vlsi/SchneiderWZ93:::M. Schneider::Utz Wever::Qinghua Zheng:::Parallel harmonic balance.
+conf/vlsi/BrunvandS91:::Erik Brunvand::M. Starkey:::An Integrated Environment for the Design and Simulation of Self-Timed Systems.
+conf/vlsi/Rahman03:::Arifur Rahman:::Models for Full-Chip Power Dissipation in Field Programmable Gate Arrays and the Impact of Subthreshold Leakage Current.
+conf/vlsi/Liao91:::Guoning Liao:::A Reconfigurable Fault Tolerant Module Approach to the Reliability Enhancement for Mesh Connected Processor Arrays.
+conf/vlsi/Kung84:::H. T. Kung:::Putting Inner Loops Automatically in Silicon.
+conf/vlsi/Mann03:::Amardeep Singh Mann:::Quantum Search Algorithm for Automated Test Pattern Generation in VLSI Testing.
+conf/vlsi/SparsoPP91:::Jens Sparsø::Steen Pedersen::Erik Paaske:::Design of a Fully Parallel Viterbi Decoder.
+conf/vlsi/SchonfeldP93:::J. Schönfeld::Peter Pirsch:::Single board image processing unit for vehicle guidance.
+conf/vlsi/MayrhoferPL91:::Stefan Mayrhofer::Massoud Pedram::Ulrich Lauther:::A Flow-Oriented Approach to the Placement of Boolean Networks.
+conf/vlsi/TosunKM03:::Suleyman Tosun::Hakduran Koc::Nazanin Mansouri:::Derving Intermediary RTLs for Verification of Pipelined Synthesized Designs.
+conf/vlsi/LeeLT03:::Jam Wem Lee::Yiming Li::Howard Tang:::Silicide Optimization for Electrostatic Discharge Protection Devices in Sub-100 nm CMOS Circuit Design.
+conf/vlsi/GuyotK91:::Alain Guyot::Y. Kusumaputri:::OCAPI: A Prototype for High Precision Arithmetic.
+conf/vlsi/JerrayaPC91:::Ahmed Amine Jerraya::Pierre G. Paulin::Simon Curry:::Meta VHDL for Higher Level Controller Modeling and Synthesis.
+conf/vlsi/LaudenbachGW91:::A. Laudenbach::Manfred Glesner::Norbert Wehn:::A VLSI System Design for the Control of High Performance Combustion Engines.
+conf/vlsi/HabigerJ93:::Claus M. Habiger::Ian P. Jalowiecki:::The implementation of a MCM associative string processor.
+conf/vlsi/HoshinoSOTK84:::Tsutomu Hoshino::Tomonori Shirakawa::Yoshio Oyanagi::Kiyo Takenouchi::Toshio Kawai:::Super Freedom Simulator PAX.
+conf/vlsi/Madsen91:::Jan Madsen:::Single-Level Wiring for CMOS Functional Cells.
+conf/wcce/IdingLN01:::Marie Iding::Robert E. Landsman::Thanhtruc Nguyen:::Critical Evaluation of Scientific Websites by High School Students.
+conf/wcce/IdingSC01:::Marie Iding::Thomas Speitel::Martha E. Crosby:::Machine Interviewing for Assessing Student Learning.
+conf/wcce/ChambersB01:::Dianne Chambers::Martin Boyle:::Using IT to Support Authentic Tasks in Teacher Education.
+conf/wcce/CasselK01:::Lillian N. Cassel::Deepak Kumar:::Distributed Expertise in Teaching.
+conf/wcce/FulfordE01:::Catherine P. Fulford::Ariana Eichelberger:::A System of Reciprocity.
+conf/wcce/BruillardM01:::Eric Bruillard::Lesley McCarthy:::Use of Computer Based Concept Mapping Tools.
+conf/wcce/LockhorstAPV01:::Ditte Lockhorst::Wilfried Admiraal::Albert Pilot::Wim Veen:::Design Elemens for A CSCL Environment in a Teacher Training Programme.
+conf/wcce/Dowling01:::Carolyn Dowling:::Researching Agent Technologies in the Electronic Classroom.
+conf/wdag/Yu03:::Haifeng Yu:::Overcoming the Majority Barrier in Large-Scale Systems.
+conf/wdag/BaoIK95:::Feng Bao::Yoshihide Igarashi::Keiko Katano:::Broadcasting in Hypercubes with Randomly Distributed Byzantine Faults.
+conf/wdag/HighamK00:::Lisa Higham::Jalal Kawash:::Bounds for Mutual Exclusion with only Processor Consistency.
+conf/wdag/Tel87:::Gerard Tel:::Directed Network Protocols.
+conf/wdag/Schoone87:::Anneke A. Schoone:::Verification of Connection-Management Protocols.
+conf/wdag/AlagarsamyV99:::K. Alagarsamy::K. Vidyasankar:::Fair and Efficient Mutual Exclusion Algorithms (Extended Abstract).
+conf/wdag/LuiZ97:::King-Shan Lui::Shmuel Zaks:::Scheduling in Synchronous Networks and the Greedy Algorithm (Extended Abstract).
+conf/wdag/ShabtayS94:::Lior Shabtay::Adrian Segall:::Low Complexity Network Synchronization.
+conf/wdag/MoranR96:::Shlomo Moran::Lihu Rappoport:::On the Robustness of h^r_m.
+conf/wdag/AgrawalA90:::Divyakant Agrawal::Amr El Abbadi:::Localized-Access Protocols for Replicated Databases.
+conf/wdag/HerlihyT01:::Maurice Herlihy::Srikanta Tirthapura:::Self Stabilizing Distributed Queuing.
+conf/wdag/ChanC87:::Mee Yee Chan::Francis Y. L. Chin:::Optimal Resilient Ring Election Algorithms.
+conf/wdag/SwaminathanG94:::Bala Swaminathan::Kenneth J. Goldman:::An Incremental Distributed Algorithm for Computing Biconnected Components (Extended Abstract).
+conf/wdag/EleftheriouM99:::Maria Eleftheriou::Marios Mavronicolas:::Linearizability in the Presence of Drifting Clocks and Under Different Delay Assumptions.
+conf/wdag/MalkhiPS01:::Dahlia Malkhi::Elan Pavlov::Yaron Sella:::Optimal Unconditional Information Diffusion.
+conf/wdag/KhazanFL98:::Roger Khazan::Alan Fekete::Nancy A. Lynch:::Multicast Group Communication as a Base for a Load-Balancing Replicated Data Service.
+conf/wdag/LulingM89:::Reinhard Lüling::Burkhard Monien:::Two Strategies for Solving the Vertex Cover Problem on a Transputer Network.
+conf/wdag/BanavarCSS99:::Guruduth Banavar::Tushar Deepak Chandra::Robert E. Strom::Daniel C. Sturman:::A Case for Message Oriented Middleware.
+conf/wdag/SyrotiukCP93:::Violet R. Syrotiuk::Charles J. Colbourn::Jan K. Pachl:::Wang Tilings and Distributed Orientation on Anonymous Torus Networks (Extended Abstract).
+conf/wdag/AroraG95:::Anish Arora::Mohamed G. Gouda:::Load Balancing: An Exercise in Constrainted Convergence.
+conf/wdag/JoungL97:::Yuh-Jzer Joung::Jen-Yi Liao:::Strong Interaction Fairness in a Fully Distributed System with Unbounded Speed Variability.
+conf/wdag/MarzulloN91:::Keith Marzullo::Gil Neiger:::Detection of Global State Predicates.
+conf/wdag/MarzulloS91:::Keith Marzullo::Laura S. Sabel:::Using Consistent Subcuts for Detecting Stable Properties.
+conf/wdag/KirousisKKS00:::Lefteris M. Kirousis::Evangelos Kranakis::Danny Krizanc::Yannis C. Stamatiou:::Locating Information with Uncertainty in Fully Interconnected Networks.
+conf/wdag/FraigniaudG03:::Pierre Fraigniaud::Cyril Gavoille:::Lower Bounds for Oblivious Single-Packet End-to-End Communication.
+conf/wdag/HerlihyLM02:::Maurice Herlihy::Victor Luchangco::Mark Moir:::The Repeat Offender Problem: A Mechanism for Supporting Dynamic-Sized, Lock-Free Data Structures.
+conf/wdag/Hoepman01:::Jaap-Henk Hoepman:::Randomised Mutual Search for k&gt;2 Agents.
+conf/wdag/PogosyantsSL97:::Anna Pogosyants::Roberto Segala::Nancy A. Lynch:::Verification of the Randomized Consensus Algorithms of Aspnes and Herlihy: A Case Study.
+conf/wdag/FlamminiGNT95:::Michele Flammini::Giorgio Gambosi::Umberto Nanni::Richard B. Tan:::Multi-Dimensional Interval Routing Schemes.
+conf/wdag/Jezequel89:::Jean-Marc Jézéquel:::Building a Global Time on Parallel Machines.
+conf/wdag/AguileraCT97:::Marcos Kawazoe Aguilera::Wei Chen::Sam Toueg:::Heartbeat: A Timeout-Free Failure Detector for Quiescent Reliable Communication.
+conf/wdag/AguileraEG03:::Marcos Kawazoe Aguilera::Burkhard Englert::Eli Gafni:::Uniform Solvability with a Finite Number of MWMR Registers.
+conf/wdag/InoueC94:::Michiko Inoue::Wei Chen:::Linear-Time Snapshot Using Multi-writer Multi-reader Registers.
+conf/wdag/ShaoPW03:::Cheng Shao::Evelyn Pierce::Jennifer L. Welch:::Multi-writer Consistency Conditions for Shared Memory Objects.
+conf/wdag/BermondMPP98:::Jean-Claude Bermond::Nausica Marlin::David Peleg::Stephane Perennes:::Directed Virtual Path Layouts in ATM Networks.
+conf/wdag/AwerbuchPVD94:::Baruch Awerbuch::Boaz Patt-Shamir::George Varghese::Shlomi Dolev:::Self-Stabilization by Local Checking and Global Reset (Extended Abstract).
+conf/wdag/BazziN92:::Rida A. Bazzi::Gil Neiger:::Simulating Crash Failures with Many Faulty Processors (Extended Abstract).
+conf/wdag/Torres-RojasA96:::Francisco J. Torres-Rojas::Mustaque Ahamad:::Plausible Clocks: Constant Size Logical Clocks for Distributed Systems.
+conf/wdag/Stupp02:::Gideon Stupp:::Stateless Termination Detection.
+conf/wdag/HildrumK03:::Kirsten Hildrum::John Kubiatowicz:::Asymptotically Efficient Approaches to Fault-Tolerance in Peer-to-Peer Networks.
+conf/wdag/BudhirajaMST92:::Navin Budhiraja::Keith Marzullo::Fred B. Schneider::Sam Toueg:::Optimal Primary-Backup Protocols.
+conf/wdag/FatourouH01:::Panagiota Fatourou::Maurice Herlihy:::Adding Networks.
+conf/wdag/HarrisFP02:::Timothy L. Harris::Keir Fraser::Ian A. Pratt:::A Practical Multi-word Compare-and-Swap Operation.
+conf/wdag/AroraDG91:::Anish Arora::Shlomi Dolev::Mohamed G. Gouda:::Maintaining Digital Clocks In Step.
+conf/wdag/Ioannidou02:::Kleoni Ioannidou:::Transformations of Self-Stabilizing Algorithms.
+conf/wdag/AmirDKM92:::Yair Amir::Danny Dolev::Shlomo Kramer::Dalia Malki:::Membership Algorithms for Multicast Communication Groups.
+conf/wdag/InoueMMF97:::Michiko Inoue::Sen Moriya::Toshimitsu Masuzawa::Hideo Fujiwara:::Optimal Wait-Free Clock Synchronisation Protocol on a Shared-Memory Multi-processor System.
+conf/wdag/InoueUMF01:::Michiko Inoue::Shinya Umetani::Toshimitsu Masuzawa::Hideo Fujiwara:::Adaptive Long-Lived O(k<sup>2</sup>)-Renaming with O(k<sup>2</sup>) Steps.
+conf/wdag/SyrotiukP87:::Violet R. Syrotiuk::Jan K. Pachl:::A Distributed Ring Orientation Algorithm (Preliminary Version).
+conf/wdag/ItkisLS95:::Gene Itkis::Chengdian Lin::Janos Simon:::Deterministic, Constant Space, Self-Stabilizing Leader Election on Uniform Rings.
+conf/wdag/Gouda95:::Mohamed G. Gouda:::The Triumph and Tribulation of System Stabilization.
+conf/wclp/CoxM91:::Jim Cox::Ken McAloon:::Decision Procedures for Constraint Based Extensions of Datalog.
+conf/wclp/Hong91:::Hoon Hong:::RISC-CLP(Real): Logic Programming with Non-linear Constraints over the Reals.
+conf/wclp/Massat91:::Jean-Luc Massat:::Using Local Consistency Techniques to Solve Boolean Constraints.

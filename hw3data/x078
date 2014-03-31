@@ -1,0 +1,200 @@
+journals/computing/FerketR96a:::P. J. J. Ferket::Arnold Reusken:::A Finite Difference Discretization Method for Elliptic Problems Composite Grids.
+journals/computing/KrauseR96:::Roland Krause::Ernst Rank:::A Fast Algorithm for Point-Location in a Finite Element Mesh.
+journals/computing/Pflaum01:::Christoph Pflaum:::Semi-Unstructured Grids.
+journals/computing/Pflaum02:::Christoph Pflaum:::Problem Dependent Generalized Prewavelets.
+journals/computing/dAmoreNRW95:::Fabrizio d'Amore::V. H. Nguyen::Thomas Roos::Peter Widmayer:::On Optimal Cuts of Hyperrectangles.
+journals/computing/Argyros99:::I. K. Argyros:::Relations Between Forcing Sequences and Inexact Newton Iterates in Banach Space.
+journals/computing/KverhL02:::B. Kverh::Ales Leonardis:::A New Refinement Method for Registration of Range Images Based on Segmented Data.
+journals/computing/Oliveira99:::S. Oliveira:::On the Convergence Rate of a Preconditioned Subspace Eigensolver.
+journals/computing/Trier95:::U. Trier:::Additive Weights under the Balanced Probability Model.
+journals/computing/HiptmairSW96:::R. Hiptmair::Thomas Schiekofer::B. Wohlmuth:::Multilevel Preconditioned Augmented Lagrangian Techniques for 2ndMixed Problems.
+journals/computing/Famoye97:::F. Famoye:::Sampling from the Generalized Logarithmic Series Distribution.
+journals/computing/Johannsen00:::Klaus Johannsen:::A Robust Smoother for Convection-Diffusion Problems with Closed Characteristics.
+journals/computing/HemkerSS01:::P. W. Hemker::Grigorii I. Shishkin::Lidia P. Shishkina:::High-Order Time-Accurate Parallel Schemes for Parabolic Singularly Perturbed Problems with Convection.
+journals/computing/HackbuschK00:::Wolfgang Hackbusch::B. N. Khoromskij:::A Sparse H-Matrix Arithmetic. Part II: Application to Multi-Dimensional Problems.
+journals/computing/SteeleRNK95:::C. Steele::Colin R. Reeves::M. Nicholas::Paul John King:::Radial Basis Function Artificial Neural Networks for the Inference Process in Fuzzy Logic Based Control.
+journals/constraints/MouhoubCH98:::Malek Mouhoub::François Charpillet::Jean Paul Haton:::Experimental Analysis of Numeric and Symbolic Constraint Satisfaction Techniques for Temporal Reasoning.
+journals/constraints/ComonDJK99:::Hubert Comon::Mehmet Dincbas::Jean-Pierre Jouannaud::Claude Kirchner:::A Methodological View of Constraint Solving.
+journals/constraints/LauT01:::T. L. Lau::Edward P. K. Tsang:::Guided Genetic Algorithm and its Application to Radio Link Frequency Assignment Problems.
+journals/constraints/Rodosek01:::Robert Rodosek:::A Constraint-Based Approach for Deriving 3-D Structures of Cyclic Polypeptides.
+journals/constraints/FribourgO97:::Laurent Fribourg::Hans Olsén:::A Decompositional Approach for Computing Least Fixed-Points of Datalog Programs with Z-Counters.
+journals/constraints/PapeCFS98:::Claude Le Pape::James M. Crawford::Barry Fox::Thomas Schiex:::Introduction to a Benchmark Column in CONSTRAINTS.
+journals/constraints/GentMPSW01:::Ian P. Gent::Ewan MacIntyre::Patrick Prosser::Barbara M. Smith::Toby Walsh:::Random Constraint Satisfaction: Flaws and Structure.
+journals/constraints/Minton96:::Steven Minton:::Automatically Configuring Constraint Satisfaction Programs: A Case Study.
+journals/constraints/BrodskyJM97:::Alexander Brodsky::Joxan Jaffar::Michael J. Maher:::Toward Practical Query Evaluation for Constraint Databases.
+journals/constraints/Backofen01:::Rolf Backofen:::The Protein Structure Prediction Problem: A Constraint Optimization Approach using a New Lower Bound.
+journals/constraints/MichelH00:::Laurent Michel::Pascal Van Hentenryck:::Localizer.
+journals/constraints/HowarthT98:::Richard J. Howarth::Edward P. K. Tsang:::Spatio-temporal Conflict Detection and Resolution.
+journals/constraints/Tamassia98:::Roberto Tamassia:::Constraints in Graph Drawing Algorithms.
+journals/constraints/BrodskySCE97:::Alexander Brodsky::Victor E. Segal::Jia Chen::Pavel A. Exarkhopoulo:::The CCUBE Constraint Object-Oriented Database System.
+journals/constraints/HosobeM03:::Hiroshi Hosobe::Satoshi Matsuoka:::A Foundation of Solution Methods for Constraint Hierarchies.
+journals/constraints/SaraswatH97:::Vijay A. Saraswat::Pascal Van Hentenryck:::Introduction to the Special Issue.
+journals/constraints/Gaspin01:::Christine Gaspin:::RNA Secondary Structure Determination and Representation Based on Constraints Satisfaction.
+journals/constraints/EatonFT02:::Peggy S. Eaton::Thom W. Frühwirth::Milind Tambe:::Special Issue on Constraint Agents.
+journals/constraints/Revesz97:::Peter Z. Revesz:::Refining Restriction Enzyme Genome Maps.
+journals/sigplan/Syropoulos96a:::Apostolos Syropoulos:::A Note On Type Checking Linear Functional Languages.
+journals/sigplan/deBry96:::Roger K. DeBry:::Report of TC-2 Working Groups.
+journals/sigplan/Jonsson90:::Dan Jonsson:::The flow of control notations pancode and boxcharts.
+journals/sigplan/Grune93:::Dick Grune:::Two-Level Grammars are More Expressive Than Type 0 Grammars Or are They?
+journals/sigplan/Yu01:::Sheng Yu:::Class-is-type is inadequate for object reuse.
+journals/sigplan/Magel82a:::Kenneth I. Magel:::A Report on a PASCAL Questionaire.
+journals/sigplan/BroekB96:::P. M. van den Broek::K. G. van den Berg:::Musical Equational Programs: A Functional Approach.
+journals/sigplan/Butt95:::Farooq Butt:::Implementing FORTRAN77 Support in the GNU gdb Debugger.
+journals/sigplan/Sankaran94:::Nandakumar Sankaran:::A bibliography on garbage collection and related topics.
+journals/sigplan/Baker92:::Henry G. Baker:::Inlining Semantics for Subroutines which are Recursive.
+journals/sigplan/Morrison82:::Ronald Morrison:::The string as a simple data type.
+journals/sigplan/DrechslerS87:::Karl-Heinz Drechsler::Manfred P. Stadel:::The Pascal-XT Code Generator.
+journals/sigplan/DrechslerS93:::Karl-Heinz Drechsler::Manfred P. Stadel:::A Variation on Knoop, Rüthing, and Steffen's Lazy Code Motion.
+journals/sigplan/Conway94a:::Damian Conway:::Parsing with C++ Deferred Expressions.
+journals/sigplan/Bantchev94:::Boyko B. Bantchev:::Terminable Statements and Destructive Computation.
+journals/sigplan/DelagiS89:::Bruce Delagi::Nakul P. Saraiya:::Elint in Lamina: application of a concurrent object language.
+journals/sigplan/RangarajanB98:::K. Rangarajan::A. Balasubramaniam:::Whene are Two Classes Equivalent?
+journals/sigplan/Curcio98:::Igor D. D. Curcio:::ASAP - A Simple Assertion Pre-processor.
+journals/sigplan/Wang94a:::Thomas Wang:::Eliminate Memory Fragmentation through Holes in the Heap.
+journals/sigplan/Berry83:::Daniel M. Berry:::A New Methodology for Generating Test Cases for a Programming Language Compiler.
+journals/sigplan/Roy89:::Peter Van Roy:::A useful extension to Prolog's definite clause grammar notation.
+journals/sigplan/Roy99:::Peter Van Roy:::Announcing the Mozart Programming System.
+journals/sigplan/WuW94:::Pei-Chi Wu::Feng-Jian Wang:::Is Circularity for Attribute Grammars Exponential-Time Complete?
+journals/sigplan/Benson98:::Brent W. Benson Jr.:::Eat Your Own Dog Food.
+journals/sigplan/Hansen98:::Per Brinch Hansen:::An Evaluation of High Performance Fortran.
+journals/sigplan/Lang88:::Joseph E. Lang:::Grammars for FFP.
+journals/sigplan/Klug96:::Michael A. Klug:::Towards a Classification of Visibility Rules.
+journals/sigplan/Lesk82:::Michael Lesk:::English for Decision Tables Considered Harmful.
+journals/sigplan/Levy82:::Eric B. Levy:::The Case against Pascal as Teaching Tool.
+journals/sigplan/KiesslingK93:::Heiko Kießling::Uwe Krüger:::Blocks and Procedures.
+journals/sigplan/Methfessel87:::Rand Methfessel:::Implementing an Access and Object Oriented Paradigm in a Language That Supports Neither.
+journals/sigplan/GutierrezDCGL00:::David Basanta Gutiérrez::María Cándida Luengo Díez::Raúl Izquierdo Castanedo::Jose Emilio Labra Gayo::Juan Manuel Cueva Lovelle:::Improving the quality of compiler construction with object-oriented techniques.
+journals/sigplan/Jackel83:::Manfred Jackel:::Context Senitive Formatting.
+journals/sigplan/Ranger88:::Phillippe Ranger:::Some comments on the forthcoming "extended Pascal" standard.
+journals/sigplan/HerickoJZRDK98:::Marjan Hericko::Matjaz B. Juric::Ales Zivkovic::Ivan Rozman::Tomaz Domajnko::Marjan Krisper:::Java and Distributed Object Models: An Analysis.
+journals/sigplan//ClaessenH02:::Koen Claessen::John Hughes:::Testing monadic code with QuickCheck.
+journals/sigplan/Bondy87:::Jon Bondy:::Uninitialized Modula-2 Abstract Object Instances, Yet Again.
+journals/sigplan/Frenger98:::Paul Frenger:::The Growing Machine, a Pre-Forth Language Implementation.
+journals/sigplan/Tang91:::L. S. Tang:::C++'s destructors can be destructive.
+journals/sigplan/Boute90:::Raymond T. Boute:::A Heretical View on Type Embedding.
+journals/sigplan/Andersen89:::Birger Andersen:::Hypercube experiments with Joyce.
+journals/sigplan/VerschaerenCV97:::Dennis Verschaeren::Annie A. M. Cuyt::Brigitte Verdonk:::On the Need for Predictable Floating-Point Arithmetic in the Programming Languages Fortran 90 and C/C++.
+journals/sigplan/DaviesT87:::Gordon Davies::A. Tan:::A Note on Metrics of Pascal Program.
+journals/sigplan/Piwowarski82:::Paul Piwowarski:::A Nesting Level Complexity Measure.
+journals/sigplan/Briot89:::Jean-Pierre Briot:::From objects to actors: study of a limited symbiosis in smalltalk-80.
+journals/sigplan/Christopher02a:::Thomas W. Christopher:::Communicating reactive objects: message-driven parallelism.
+journals/sigplan/Davison93:::Andrew Davison:::15th July 1972: A Significant Moment for Logic Programming.
+journals/sigplan/KelseyCR98:::Richard Kelsey::William D. Clinger::Jonathan Rees:::Revised<sup>5</sup> Report on the Algorithmic Language Scheme.
+journals/sigplan/Wong91:::K. C. Wong:::Detection of version features in distributed systems.
+journals/sigplan/Prael82:::C. E. Prael:::PASCAL for operating software? A critical examination.
+journals/sigplan/ReslerO90:::R. Daniel Resler::Keith O'Sullivan:::VisiCLANG - a visible compiler for CLANG.
+journals/sigplan/KarlssonP82:::Kent Karlsson::Kent Petersson:::Notes from: The Aspenäs Symposium on Functional Languages and Computer Architecture.
+journals/sigplan/Yuen91:::Chung-Kwong Yuen:::Which model of programming for LISP: sequential, functional or mixed?
+journals/sigplan/PanizziP99:::Emanuele Panizzi::Bernardo Pastorelli:::On the Return Types of Virtual Functions.
+journals/sigplan/Rickert88:::Neil W. Rickert:::The role of the language standards committee.
+journals/sigplan/Davis00:::Matthew S. Davis:::An Object Oriented Approach to Constructing Recursive Descent Parsers.
+journals/sigplan/Bykat82:::A. Bykat:::An extension to PASCAL input-output procedures.
+journals/sigplan/Spector88:::David Spector:::Efficient full LR(I) parser generation.
+journals/sigplan/JusticePB94:::Timothy P. Justice::Rajeev K. Pandey::Timothy A. Budd:::A Multiparadigm Approach to Compiler Construction.
+journals/sigplan/Heymann93:::Jürgen Heymann:::A 100% Portable Inline-Debugger.
+journals/sigplan/Creak88:::G. Alan Creak:::Garbage: Two New Structures.
+journals/sigplan/LoeligerM94:::Jon Loeliger::Robert Metzger:::Developing An Interprocedural Optimizing Compiler.
+journals/sigplan/HernandezMBMPN93:::Juan Hernández Núñez::Pedro de Miguel::Manuel Barrena García::Juan Miguel Martínez::Antonio Polo Márquez::Manuel M. Nieto Rodríguez:::ALBA: A Parallel Language Based on Actors.
+journals/sigplan/BarachT82:::David R. Barach::David H. Taenzer:::A Technique for Finding Storage Allocation Errors in C-language Programs.
+journals/sigplan/YuhuaHL93:::Zheng Yuhua::Tu Honglei::Xie Li:::And/Or Parallel Execution of Logic Programs: Exploiting Dependent And-Parallelism.
+journals/sigplan/YehK88b:::Dashing Yeh::Uwe Kastens:::Improvements of an incremental evaluation algorithm for ordered attribute grammars.
+journals/sigplan/Briggs96b:::Preston Briggs:::Automatic Parallelization.
+journals/sigplan/Culik82:::Karel Culík:::An Advanced Programming Language Definition and Domain Correctness of Programs.
+journals/sigplan/Kaiser89a:::Gail E. Kaiser:::Transactions for concurrent object-oriented programming systems.
+journals/sigplan/Hamilton96:::Jennifer Hamilton:::A Model for Implementing an Object-Oriented Design without Language Extensions.
+journals/sigplan/Havener98:::Charles D. Havener:::EQL - The Query Language You Never Heard Of.
+journals/sigplan/Krumme87:::David W. Krumme:::Comments on an Example for Procedure Parameters.
+journals/sigplan/Baker92b:::Henry G. Baker:::CONS should not CONS its arguments, or, a lazy alloc is a smart alloc.
+journals/sigplan/Baker93a:::Henry G. Baker:::Complex Gaussian Integers for 'Gaussian Graphics'.
+journals/sigplan/Baker97c:::Henry G. Baker:::The COMFY 6502 Compiler.
+journals/sigplan/Baker98c:::Henry G. Baker:::You Could Learn a Lot from a Quadratic: Newton Squares the Circle.
+journals/sigplan/RizkH87:::A. Rizk::F. Halsall:::Design and Implementation of a C-based Language for Distributed Real-time Systems.
+journals/sigplan/Sagri89:::Mohommedyusuf M. Sagri:::Rated and operating complexity of program - an extension to McCabe's theory of complexity measure.
+journals/sigplan/DotzelG96:::Günter Dotzel::Hartmut Goebel:::Porting the Oberon System to AlphaAXP.
+journals/sigplan/Bergmann00c:::Seth Bergmann:::Calendar.
+journals/sigplan/ColladoMM87:::M. Collado::R. Morales::J. J. Moreno:::A Modula-2 Implementation of CSP.
+journals/sigplan/Eckert99:::Brad Eckert:::Firmware Factory &amp; Forth.
+journals/sigplan/Ejiogu93:::Lem O. Ejiogu:::Five Principles for the Formal Validation of Models of Software Metrics.
+journals/sigplan/Stotts82:::P. David Stotts:::A Comparative Survey of Concurrent Programming Languages.
+journals/sigplan/Christiansen90:::Henning Christiansen:::A survey of adaptable grammars.
+journals/sigplan/Umrigar94:::Zerksis D. Umrigar:::Fully static dimensional analysis with C++.
+journals/sigplan/Shani83:::Uri Shani:::Should Program Editors not Abandon Text Oriented Commands?
+journals/sigplan/Kelleghan97:::James P. Kelleghan:::Monitoring Remote Sensing Devices in C++.
+journals/sigplan/Barnett90:::Michael P. Barnett:::Primitive string transformations as reductions to normal form.
+journals/sigplan/Frenger00c:::Paul Frenger:::Learning Forth with Modular Forth.
+journals/sigplan/KuhlS02:::Bernd Kühl::Axel-Tobias Schreiner:::Objects for Lexical Analysis.
+journals/sigplan/Burshteyn90a:::Boris Burshteyn:::Generation and recognition of formal languages by modifiable grammars.
+journals/sigplan/Louden90:::Kenneth C. Louden:::P-code and compiler portability: experience with a Modula-2 optimizing compiler.
+journals/sigplan/Magel82:::Kenneth I. Magel:::A theory of small program complexity.
+journals/sigplan/Mandl90:::Robert Mandl:::On "Power Loop" Constructs in Programming Languages.
+journals/sigplan/Yuen92a:::Chung-Kwong Yuen:::An abstract machine design for lexically scoped parallel Lisp with speculative processing.
+journals/sigplan/Cicekli97:::Ilyas Cicekli:::An Intelligent Backtracking Schema in A Logic Programming Environment.
+journals/sigplan/PantiCMV96:::Maurizio Panti::A. Cucchiarelli::M. Mattiucci::Salvatore Valenti:::Process to Process Communication in Prolog.
+journals/sigplan/Fischer89:::Ronald Fischer:::A case against using procedure calls for input/output.
+journals/sigplan/Fischer92:::Ronald Fischer:::Two flaws of the current C++ language definition.
+journals/sigplan/Linden82:::P. van der Linden:::Ambiguity and orthogonality in Ada.
+journals/sigplan/SoundararajanC88:::Neelam Soundararajan::Roger L. Costello:::Responsive sequential processes.
+journals/sigplan/Talia90:::Domenico Talia:::Survey and Comparison of PARLOG and Concurrent Prolog.
+journals/sigplan/Wegner89:::Peter Wegner:::Granularity of modules in object-based concurrent systems.
+journals/sigplan/Abdullah96:::Mohd Hanafiah Abdullah:::hcc - A Portable ANSI C Compiler (with a Code Generator for the PowerPCs).
+journals/sigplan/Ryder00:::Barbara G. Ryder:::PLDI '99: Programming Language Design and Implementation (Report).
+journals/sigplan/FantechiGLT91:::Alessandro Fantechi::Stefania Gnesi::F. Leggio::P. Talini:::Executing the formal definition of Ada.
+journals/sigplan/BarnettR90:::Michael P. Barnett::Xu Rui:::Infix to prefix conversion as a PST reduction.
+journals/sigplan/NedjahM02:::Nadia Nedjah::Luiza de Macedo Mourelle:::Efficient Concise Deterministic Pattern-Matching Automata for Ambiguous Patterns.
+journals/sigplan/Anjaneyulu94:::K. S. R. Anjaneyulu:::Bug Analysis of Pascal Programs.
+journals/sigplan/HesseKLH93:::Jan Hesse::Rainer König::Filippo Logi::Jens Herder:::A Prototype of an Interface Bilder for the Common Lisp Interface Manager - CLIB.
+journals/sigplan/Donaho89:::Jane Donaho:::A comparison of extended pascal and Ada.
+journals/sigplan/TinAE95:::Erkan Tin::Varol Akman::Murat Ersan:::Towards Situation-Oriented Programming Languages.
+journals/sigplan/Weisert92:::Conrad Weisert:::Macros for defining C++ classes.
+journals/sigplan/Sammet88:::Jean E. Sammet:::Notes on what language maturity means, and how to measure it.
+journals/sigplan/ZuseB92:::Horst Zuse::Peter Bollmann-Sdorra:::Reply to: Application of Measurement Theory to Software Metrics - Comments on the Bollmann-Zuse Approach.
+journals/sigplan/Sakharov98:::Alexander Sakharov:::Letter: Processing Recursive Data Types in Java.
+journals/sigplan/AlblasALS94:::Henk Alblas::Rieks op den Akker::Paul Oude Luttighuis::Klaas Sikkel:::A Bibliography on Parallel Parsing.
+journals/sigplan/Franz91:::Michael Franz:::The rewards of generating true 32-bit code.
+journals/sigplan/HarlandG82:::David M. Harland::Hamish I. E. Gunn:::Another look at enumerated types.
+journals/sigplan/Kaiser90:::Klaus Kaiser:::Generating the minimal model in Prolog.
+journals/sigplan/CargilleM92:::Jonathan M. Cargille::Barton P. Miller:::Binary wrapping: a technique for instrumenting object code.
+journals/sigplan/Coolsaet92:::K. Coolsaet:::A quick introduction to the programming language MIKE.
+journals/sigplan/LesterC89:::M. Lester::R. Christensen:::Felix, an object-oriented operating system.
+journals/sigplan/BerginW02:::Joseph Bergin::Russel L. Winder:::Understanding object-oriented programming.
+journals/sigplan/GrogonoG94:::Peter Grogono::Mark Gargul:::A Graph Model for Object Oriented Programming.
+journals/sigplan/Myers92:::Brad A. Myers:::Report on the CHI'91 Workshop on Languages for Developing User Interfaces.
+journals/sigplan/Noble02:::Julian V. Noble:::Jump Tables and State Machines.
+journals/sigplan/FurtadoV88:::Antonio L. Furtado::Paulo A. S. Velosa:::Iteration for applicative languages.
+journals/sigplan/LieberherrH89:::Karl J. Lieberherr::Ian M. Holland:::Formulations and benefits of the law of demeter.
+journals/sigplan/YoderBJ01:::Joseph W. Yoder::Federico Balaguer::Ralph E. Johnson:::Architecture and Design of Adaptive Object Models.
+journals/sigplan/McNallyD91:::David J. McNally::Antony J. T. Davie:::Two Models For Integrating Persistence and Lazy Functional Languages.
+journals/firstmonday/Hunter02:::Christopher D. Hunter:::Political Privacy and Online Politics: How E-Campaigning Threatens Voter Privacy.
+journals/firstmonday/Campbell01:::Debbie Campbell:::Picture That: Australia in the Forefront.
+journals/firstmonday/Yee99:::Danny Yee:::Development, Ethical Trading and Free Software.
+journals/firstmonday/Quarterman02:::John S. Quarterman:::Monoculture Considered Harmful.
+journals/firstmonday/Quarterman97:::John S. Quarterman:::Haiti and Internet Governance.
+journals/firstmonday/Perry02:::Rodney Perry:::Rochester Images: From Institutional to Production Models of Collaboration.
+journals/firstmonday/Werry99:::Chris Werry:::Imagined Electronic Community: Representations of Virtual Community in Contemporary Business Discourse.
+journals/firstmonday/Randle01:::Quint Randle:::A Historical Overview of the Effects of New Mass Media Introductions on Magazine Publishing During the 20th Century.
+journals/firstmonday/Seadle02:::Michael S. Seadle:::Feeding America: Lessons from a Project Demonstration.
+journals/firstmonday/Zariski97a:::Archie Zariski:::"Knowledge Networks" or Discourse Communities?: Response to Hibbitts' Commentary on Electronic Journals.
+journals/firstmonday/Taubman02:::Geoffry L. Taubman:::Keeping Out the Internet? Non-Democratic Legitimacy and Access to the Web.
+journals/firstmonday/HaubenH98c:::Michael Hauben::Ronda Hauben:::The Social Forces Behind the Development of Usenet (chapter 3).
+journals/firstmonday/Brunk02:::Benjamin D. Brunk:::Understanding the Privacy Space.
+journals/firstmonday/KelseyS99:::John Kelsey::Bruce Schneier:::The Street Performer Protocol and Digital Copyrights.
+journals/firstmonday/Bucher02:::Hans-Juergen Bucher:::Crisis Communication and the Internet: Risk and Trust in a Global Media.
+journals/firstmonday/Thimbleby98:::Harold W. Thimbleby:::Personal boundaries/global stage.
+journals/firstmonday/SchweikS03:::Charles M. Schweik::Andrei Semenov:::The Institutional Design of Open Source Programming: Implications for Addressing Complex Public Policy and Management Problems.
+journals/firstmonday/OwenOD00:::Wilfred Owen::Jr.::Osei Darkwa:::Role of Multipurpose Community Telecentres in Accelerating National Development in Ghana.
+journals/firstmonday/FleckM99:::Robert A. Fleck Jr.::Tena McQueen:::Internet Access, Usage and Policies in Colleges and Universities.
+journals/firstmonday/Bennett96:::Frederick Bennett:::Prologue.
+journals/firstmonday/ChakrabartiS02:::Samidh Chakrabarti::Aaron Strauss:::Carnival Booth: An Algorithm for Defeating the Computer-Assisted Passenger Screening System.
+journals/firstmonday/Kuwabara00:::Ko Kuwabara:::Linux: A Bazaar at the Edge of Chaos.
+journals/firstmonday/Robinson02:::Glendal P. Robinson:::A Mythic Perspective of Commodification on the World Wide Web.
+journals/firstmonday/Sewell97:::David R. Sewell:::The Internet Oracle: Virtual Authors and Network Community.
+journals/firstmonday/Margolis98:::Michael Margolis:::Brave New Universities.
+journals/firstmonday/Hillesund01:::Terje Hillesund:::Will E-books Change the World?
+journals/firstmonday/Loosen02:::Wiebke Loosen:::The Second-Level Digital Divide of the Web and Its Impact on Journalism.
+journals/firstmonday/LingT02:::Rich Ling::Kristin Thrane:::"I don't watch TV to like learn anything": The Leisure Use of TV and the Internet.
+journals/firstmonday/Williams98:::Leonard Williams:::Teaching Cyberian Politics.
+journals/firstmonday/Friedman97:::Steven Morgan Friedman:::Albert Einstein Online.
+journals/firstmonday/Friedman99:::Ted Friedman:::The Semiotics of SimCity.
+journals/firstmonday/Radford97:::Allyn Radford:::The Future of Multimedia in Education.
+journals/firstmonday/Smith03:::Abby Smith:::Issues in sustainability: Creating value for online users.
+journals/firstmonday/DowdenSD00:::Robin Dowden::Scott Sayre::Steve Dietz:::ArtsConnectEd: Collaboration in the Integration and Access to Museum Resources.

@@ -1,0 +1,200 @@
+conf/cip/Broy91:::Manfred Broy:::Deductive Program Development: Evaluation in Reverse Polish Notation as an Example.
+conf/cip/PartschV91:::Helmuth Partsch::Norbert Völker:::Another Case Study on Reusability of Transformational Developments Pattern Matching According to Knuth, Morris, and Pratt.
+conf/cip/Krieg-Bruckner91:::Bernd Krieg-Brückner:::Transformational Meta Program Development.
+conf/btw/Schiele89:::Gerhard Schiele:::Eine Testumgebung zur Untersuchung paralleler Verarbeitungsstrategien in komplexen Transaktionen.
+conf/btw/MarburgerN83:::Heinz Marburger::Bernhard Nebel:::Natürlichsprachlicher Datenbankzugang mit HAM-ANS: Syntaktische Korrepsondenz, natürlichsprachliche Qualifizierung und semantisches Modell des Diskursbereichs.
+conf/btw/Schmidt93:::Ursula Schmidt:::Transaktionskonzepte in der Fertigung.
+conf/btw/Klingenberg03:::Dan Klingenberg:::Verbesserung der Handhabbarkeit von komplexen Softwaredokumentationen durch Visualisierung von Dokumentbeziehungen.
+conf/btw/Lawo01:::Michael Lawo:::DiViO eine Kommunikations-Plattform für die signaturgesetzkonforme Abwicklung von Maklerverträgen.
+conf/btw/Letz01:::Carolin Letz:::Temporale Aspekte im Data Warehousing.
+conf/btw/MayM03:::Wolfgang May::Dimitrio Malheiro:::A Logical, Transparent Model for Querying Linked XML Documents.
+conf/btw/Weise03:::Thomas Weise:::Erweiterung eines Dokumentenservers um multimediale und zusammengesetzte Dokumente.
+conf/btw/AssmannH87:::K. Aßmann::Karl Heinz Höhne:::Ein Drei-Ebenen-Ansatz für die Beschreibung und Manipulation von medizinischen Bilddatenbank-Objekten.
+conf/btw/MehlhausS91:::Ulrich Mehlhaus::S. Schneider:::Die Schemabeschreibungssprache Express des Step-Standards and technische Datenbanksysteme - Eine Analyse.
+conf/btw/Schwinn03:::Ulrike Schwinn:::XML in der Oracle Datenbank "relational and beyond".
+conf/btw/Wietek01:::Frank Wietek:::Intelligente Analyse multidimensionaler Daten in einer visuellen Programmierumgebung und deren Anwendung in der Krebsepidemiologie.
+conf/btw/Wolf89:::Andreas Wolf:::Extern definierte Datentypen und Prozeduren in DASDBS.
+conf/btw/Friebe99:::Jörg Friebe:::Eine GeoServer-Architektur zur Nutzung von GIS-Funktionalität über Internet-Technologie.
+conf/btw/Schoning91:::Harald Schöning:::Praktische Behandlung von Nullwerten - Realisierung im Molekül-Atom-Datenmodell.
+conf/btw/KeidlKKK01:::Markus Keidl::Alexander Kreutz::Alfons Kemper::Donald Kossmann:::Verteilte Metadatenverwaltung für die Anfragebearbeitung auf Internet-Datenquellen.
+conf/btw/Schweppe85:::Heinz Schweppe:::Hardwareunterstützung für Datenbanken in Büro, Technik und Wissenschaft.
+conf/btw/KeimK95:::Daniel A. Keim::Hans-Peter Kriegel:::Visualisierungstechniken zur Exploration und Analyse sehr großer Datenbanken.
+conf/btw/KemperW87:::Alfons Kemper::Mechtild Wallrath:::Konzepte zur Integration Abstrakter Datentypen in R2D2.
+conf/btw/RantzauS99:::Ralf Rantzau::Holger Schwarz:::A Multi-Tier Architecture for High-Performance Data Mining.
+conf/btw/Cammert03:::Michael Cammert:::Frühe Ergebnisse bei Verbundoperationen.
+conf/btw/GrundigN85:::Lothar Gründig::Matthias Neureither:::Beispiel einer Verwaltung archäologischer Funde mit einem herkömmlichen datenbanksystem.
+conf/btw/Kelter87:::Udo Kelter:::Sperrprotokolle für komplexe Objekte mit Versionen in CAD-Datenbanken.
+conf/btw/Zeller89:::Hansjörg Zeller:::Parallelisierung von Anfragen auf komplexen Objekten durch Hash Joins.
+conf/btw/Zieschang85:::Rainer Zieschang:::Das Bürodatensystem als Basis für die Integration von Text, Daten und Graphik in einem Bürokommunikationssystem.
+conf/btw/GolendzinerWSBB89:::Lia Goldstein Golendziner::Flávio Rech Wagner::Carla Maria Dal Sasso Freitas::Vania Boklis::Karin Becker:::Representing Digital Systems as Complex Objects.
+conf/btw/Kundigner01:::Thorben Kundigner:::Ein Framework zur Verknüpfung von Geodaten mit beliebigen Sachdaten am Beispiel von InterGIS.
+conf/btw/BuchmannB03:::Erik Buchmann::Klemens Böhm:::Effizientes Routing in verteilten skalierbaren Datenstrukturen.
+conf/btw/KesslerD91:::Ullrich Keßler::Peter Dadam:::Auswertung komplexer Anfragen an hierarchisch strukturierte Objekte mittels Pfadindexen.
+conf/btw/Leymann95:::Frank Leymann:::Supporting Business Transactions Via Partial Backward Recovery In Workflow Management Systems.
+conf/btw/Meier85:::Andreas Meier:::Applying Relational Database Techniques to Solid Modeling.
+conf/btw/Mitschang87:::Bernhard Mitschang:::MAD - ein Datenmodell für den Kern eines Non-Standard-Datenbanksystems.
+conf/btw/SchmidtB89a:::Stephanie Schmidt::Kurt Bauknecht:::Ein wissensbasierter Ansatz zur Dokumentenverwaltung in einem Büro-Informationssystem.
+conf/btw/EsterKSX95:::Martin Ester::Hans-Peter Kriegel::Thomas Seidl::Xiaowei Xu:::Formbasierte Suche nach komplementären 3D-Oberflächen in einer Protein-Datenbank.
+conf/btw/Mistrik87:::I. Mistrik:::Relationale Datenbasis als Kern für ein integriertes interaktives Informationssystem.
+conf/btw/HeymannTRF03:::Stephan Heymann::Katja Tham::Peter Rieger::Johann Christoph Freytag:::Rechnergestützte Suche nach Korrelationen in komplexen Datensätzen der Biowissenschaften.
+conf/btw/Haustein01:::Michael Peter Haustein:::Unterstützung ähnlichkeitsbasierter Suche in der ORDB-gestützten SFB-501-Erfahrugsdatenbank.
+conf/btw/Hahne03:::Michael Hahne:::Logische Datenmodellierung zur Abbildung mehrdimensionaler Datenstrukturen im SAP Business Information Warehouse.
+conf/btw/ChristensenKSW01:::David Christensen::Achim Kraiss::Anja Syri::Gerhard Weikum:::Automatische Übersetzung von Geschäftsprozessmodellen in ausführbare Workflows.
+conf/btw/Muller03:::Thomas Müller:::Architektur und Prototyp eines Replication Proxy Server für die Nutzerdefinierte Replikation von Datenbankinhalten.
+conf/dac/LeglWE96:::Christian Legl::Bernd Wurth::Klaus Eckl:::A Boolean Approach to Performance-Directed Technology Mapping for LUT-Based FPGA Designs.
+conf/dac/GanapathyNJFWN96:::Gopi Ganapathy::Ram Narayan::Glenn Jorden::Denzil Fernandez::Ming Wang::Jim Nishimura:::Hardware Emulation for Functional Verification of K5.
+conf/dac/Forbes87:::R. Forbes:::Heuristic Acceleration of Force-Directed Placement.
+conf/dac/DasguptaK96a:::Aurobindo Dasgupta::Ramesh Karri:::Hot-Carrier Reliability Enhancement via Input Reordering and Transistor Sizing.
+conf/dac/Hodges88:::David A. Hodges:::Opportunities in Computer Integrated Manufacturing.
+conf/dac/HillP90:::Dwight D. Hill::Bryan Preas:::Benchmarks for Cell Synthesis.
+conf/dac/Brei87:::M. L. Brei:::Needed: A Meta-Language for Evaluating the Expressiveness of EDIF, IGES, VHDL and Other Representation Mechanisms.
+conf/dac/ChoB89:::K. Cho::Randal E. Bryant:::Test Pattern Generation for Sequential MOS Circuits by Symbolic Fault Simulation.
+conf/dac/Gonzalez-SustaetaB86:::J. Gonzalez-Sustaeta::Alejandro P. Buchmann:::An automated database design tool using the ELKA conceptual model.
+conf/dac/BlaauwPD00:::David Blaauw::Rajendran Panda::Abhijit Das:::Removing user specified false paths from timing graphs.
+conf/dac/ChenMB02:::Jinghuan Chen::Jaekyun Moon::Kia Bazargan:::A reconfigurable FPGA-based readback signal generator for hard-drive read channel simulator.
+conf/dac/ZhangHC02:::Yumin Zhang::Xiaobo Hu::Danny Z. Chen:::Task scheduling and voltage selection for energy minimization.
+conf/dac/Cherry88:::James J. Cherry:::Pearl: A CMOS Timing Analyzer.
+conf/dac/PardoH98:::Abelardo Pardo::Gary D. Hachtel:::Incremental CTL Model Checking Using BDD Subsetting.
+conf/dac/ChessL93:::Brian Chess::Tracy Larrabee:::Bridge Fault simulation strategies for CMOS integrated Circuits.
+conf/dac/El-MalehMRM95:::Aiman El-Maleh::Thomas E. Marchok::Janusz Rajski::Wojciech Maly:::On Test Set Preservation of Retimed Circuits.
+conf/dac/Coelho88:::David R. Coelho:::VHDL: A Call for Standards.
+conf/dac/Schubert03:::Thomas Schubert:::High level formal verification of next-generation microprocessors.
+conf/dac/YangLYD93:::Andrew T. Yang::Yu Liu::Jack T. Yao::R. R. Daniels:::An Efficient Non-Quasi-Static Diode Model for Circuit Simulation.
+conf/dac/PisterPSHRGF99:::Kristofer S. J. Pister::Albert P. Pisano::Nicholas Swart::Mike Horton::John Rychcik::John R. Gilbert::Gerry K. Fedder:::MEMS CAD Beyond Multi-Million Transistors (Panel).
+conf/dac/GalivancheR87:::R. Galivanche::Sudhakar M. Reddy:::A Parallel PLA Minimization Program.
+conf/dac/AbramoviciYR02:::Miron Abramovici::Xiaoming Yu::Elizabeth M. Rudnick:::Low-cost sequential ATPG with clock-control DFT.
+conf/dac/VenkataramanW86:::Venkat V. Venkataraman::Craig D. Wilcox:::GEMS: an automatic layout tool for MIMOLA schematics.
+conf/dac/MathurS01:::Anmol Mathur::Sanjeev Saluja:::Improved Merging of Datapath Operators using Information Content and Required Precision Analysis.
+conf/dac/AtasuPI03:::Kubilay Atasu::Laura Pozzi::Paolo Ienne:::Automatic application-specific instruction-set extensions under microarchitectural constraints.
+conf/dac/IshiuraDY90:::Nagisa Ishiura::Yutaka Deguchi::Shuzo Yajima:::Coded Time-Symbolic Simulation Using Shared Binary Decision Diagram.
+conf/dac/ParkC99:::Sanghun Park::Kiyoung Choi:::Performance-Driven Scheduling with Bit-Level Chaining.
+conf/dac/ParkK01:::In-Cheol Park::Hyeong-Ju Kang:::Digital Filter Synthesis Based on Minimal Signed Digit Representation.
+conf/dac/HoVW89:::Jan-Ming Ho::G. Vijayan::C. K. Wong:::A New Approach to the Rectilinear Steiner Tree Problem.
+conf/dac/Lee87:::W. Lee:::"?": A Context-Sensitive Help System Based on Hypertext.
+conf/dac/LiK98:::Tong Li::Sung-Mo Kang:::Layout Extraction and Verification Methodology CMOS I/O Circuits.
+conf/dac/LiW97:::Yanbing Li::Wayne Wolf:::A Task-Level Hierarchical Memory Model for System Synthesis of Multiprocessors.
+conf/dac/Lin98:::Bill Lin:::Software Synthesis of Process-Based Concurrent Programs.
+conf/dac/MaS86:::Hi-Keung Tony Ma::Alberto L. Sangiovanni-Vincentelli:::Mixed-level fault coverage estimation.
+conf/dac/Man97:::Hugo De Man:::Education for the Deep Submicron Age: Business as Usual?
+conf/dac/LoV90:::Chi-Yuan Lo::Ravi Varadarajan:::An O(<i>n</i> <sup>1.5</sup>log<i>n</i>) 1-d Compaction Algorithm.
+conf/dac/DesaiCJ96:::Madhav P. Desai::Radenko Cvijetic::James Jensen:::Sizing of Clock Distribution Networks for High Performance CPU Chips.
+conf/dac/Ohr98:::Stephan Ohr:::How Much Analog Does a Designer Need to Know for Successful Mixed-Signal Design? (Panel).
+conf/dac/GunupudiN99:::Pavan K. Gunupudi::Michel S. Nakhla:::Model-Reduction of Nonlinear Circuits Using Krylov-Space Techniques.
+conf/dac/SugimotoAKK86:::Akira Sugimoto::Shigeru Abe::Masahiro Kuroda::Yukio Kato:::An object-oriented visual simulator for microprogram development.
+conf/dac/AluruNW96:::N. R. Aluru::V. B. Nadkarni::James White:::A Parallel Precorrected FFT Based Capacitance Extraction Program for Signal Integrity Analysis.
+conf/dac/AdolphRS86:::W. Stephen Adolph::Hassan K. Reghbati::Amar Sanmugasunderam:::A frame based system for representing knowledge about VLSI design: a proposal.
+conf/dac/GoeringCSDSKL00:::Richard Goering::Clifford E. Cummings::Steven E. Schulz::Simon Davidman::John Sanguinetti::Joachim Kunkel::Oz Levia:::The future of system design languages (panel session).
+conf/dac/XiD95:::Joe G. Xi::Wayne Wei-Ming Dai:::Buffer Insertion and Sizing Under Process Variations for Low Power Clock Distribution.
+conf/dac/YeR97:::Yibin Ye::Kaushik Roy:::A Graph-Based Synthesis Algorithm for AND/XOR Networks.
+conf/dac/KriplaniNH92:::Harish Kriplani::Farid N. Najm::Ibrahim N. Hajj:::Maximum Current Estimation in CMOS Circuits.
+conf/dac/ArnsteinT94:::Lawrence F. Arnstein::Donald E. Thomas:::The Attributed-Behavior Abstraction and Synthesis Tools.
+conf/dac/BenkoskiS91:::Jacques Benkoski::Andrzej J. Strojwas:::The Role of Timing Verification in Layout Synthesis.
+conf/dac/BunzaSJSMF94:::Geoffrey Bunza::Steve Schulz::Tommy Jansson::Alex Silbey::Steve Ma::Edward H. Frank:::PESDA and Design Abstraction: How High is Up? (Panel).
+conf/dac/NaborsW92:::Keith Nabors::J. White:::Multipole-Accelerated 3-D Capacitance Extraction Algorithms for Structures with Conformal Dielectrics.
+conf/dac/MaHDCCG01:::Yuchun Ma::Xianlong Hong::Sheqin Dong::Yici Cai::Chung-Kuan Cheng::Jun Gu:::Floorplanning with Abutment Constraints and L-Shaped/T-Shaped Blocks based on Corner Block List.
+conf/dac/KimC97:::Daehong Kim::Kiyoung Choi:::Power-conscious High Level Synthesis Using Loop Folding.
+conf/dac/LauK93:::Rachel Y. W. Lau::Hilary J. Kahn:::Information Modelling of EDIF.
+conf/dac/LeeS00:::Seongsoo Lee::Takayasu Sakurai:::Run-time voltage hopping for low-power real-time systems.
+conf/dac/LiRS88:::Wing Ning Li::Sudhakar M. Reddy::Sartaj Sahni:::On Path Selection in Combinational Logic Circuits.
+conf/dac/BiereCCFZ99:::Armin Biere::Alessandro Cimatti::Edmund M. Clarke::Masahiro Fujita::Yunshan Zhu:::Symbolic Model Checking Using SAT Procedures instead of BDDs.
+conf/dac/IqbalPDP93:::Zia Iqbal::Miodrag Potkonjak::Sujit Dey::Alice C. Parker:::Critical Path Minimization Using Retiming and Algebraic Speed-Up.
+conf/dac/MakW95:::Wai-Kei Mak::D. F. Wong:::On Optimal Board-Level Routing for FPGA-Based Logic Emulation.
+conf/dac/ArmstrongCSK90:::James Armstrong::Chang Cho::Sandeep Shah::Chakravarthy Kosaraju:::The VHDL Validation Suite.
+conf/dac/HongKP97:::Inki Hong::Darko Kirovski::Miodrag Potkonjak:::Potential-Driven Statistical Ordering of Transformations.
+conf/dac/FangCFC91:::Sung-Chuan Fang::Kuo-En Chang::Wu-Shiung Feng::Sao-Jie Chen:::Constrained via Minimization with Practical Considerations for Multi-Layer VLSI/PCB Routing Problems.
+conf/dac/BeerelM91:::Peter A. Beerel::Teresa H. Y. Meng:::Testability of Asynchronous Timed Control Circuits with Delay Assumptions.
+conf/dac/Fisher99:::Joseph A. Fisher:::Customized Instruction-Sets for Embedded Processors.
+conf/dac/LueM89:::W.-J. Lue::Lawrence P. McNamee:::Extracting Schematic-like Information from CMOS Circuit Net-lists.
+conf/dac/HurCRPCTH03:::Sung-Woo Hur::Tung Cao::Karthik Rajagopal::Yegna Parasuram::Amit Chowdhary::Vladimir Tiourin::Bill Halpin:::Force directed mongrel with physical net constraints.
+conf/dac/NagR93:::Sudip Nag::Kaushik Roy:::Iterative Wirability and Performance Improvement for FPGAs.
+conf/dac/NagR94:::Sudip Nag::Rob A. Rutenbar:::Performance-Driven Simultaneous Place and Route for Row-Based FPGAs.
+conf/dac/MonteiroDAM96:::José Monteiro::Srinivas Devadas::Pranav Ashar::Ashutosh Mauskar:::Scheduling Techniques to Enable Power Management.
+conf/dac/NgTR86:::Antony P.-C Ng::Clark D. Thompson::Prabhakar Raghavan:::A language for describing rectilinear Steiner tree configurations.
+conf/dac/VisweswariahCC88:::Chandramouli Visweswariah::Rakesh Chadha::Chin-Fu Chen:::Model Development and Verification for High Level Analog Blocks.
+conf/dac/KarkowskiO95:::Ireneusz Karkowski::Ralph H. J. M. Otten:::Retiming Synchronous Circuitry with Imprecise Delays.
+conf/dac/WeyDC90:::Chin-Long Wey::Jyhyeung Ding::Tsin-Yuan Chang:::Design of Repairable and Fully Diagnosable Folded PLAs for Yield Enhancement.
+conf/dac/FangRPC03:::Claire Fang Fang::Rob A. Rutenbar::Markus Püschel::Tsuhan Chen:::Toward efficient static analysis of finite-precision effects in DSP applications via affine arithmetic modeling.
+conf/dac/LyseckyV03:::Roman L. Lysecky::Frank Vahid:::On-chip logic minimization.
+conf/dac/AlpertHSV01:::Charles J. Alpert::Jiang Hu::Sachin S. Sapatnekar::Paul Villarrubia:::A Practical Methodology for Early Buffer and Wire Resource Allocation.
+conf/dac/KrsticC97:::Angela Krstic::Kwang-Ting Cheng:::Vector Generation for Maximum Instantaneous Current Through Supply Lines for CMOS Circuits.
+conf/dac/WongMP02:::Jennifer L. Wong::Seapahn Megerian::Miodrag Potkonjak:::Forward-looking objective functions: concept &amp; applications in high level synthesis.
+conf/dac/AgrawalTD89:::Prathima Agrawal::R. Tutundjian::William J. Dally:::Algorithms for Accuracy Enhancement in a Hardware Logic Simulator.
+conf/dac/UsamiIIKTHATK98:::Kimiyoshi Usami::Mutsunori Igarashi::Takashi Ishikawa::Masahiro Kanazawa::Masafumi Takahashi::Mototsugu Hamada::Hideho Arakida::Toshihiro Terazawa::Tadahiro Kuroda:::Design Methodology of Ultra Low-Power MPEG4 Codec Core Exploiting Voltage Scaling Techniques.
+conf/dac/KawamuraUS86:::Kaoru Kawamura::Masanobu Umeda::Hiroshi Shiraishi:::Hierarchical dynamic router.
+conf/dac/Ross88:::Ian M. Ross:::Future Developments in Information Technology (abstract).
+conf/dac/MeinelST97:::Christoph Meinel::Fabio Somenzi::Thorsten Theobald:::Linear Sifting of Decision Diagrams.
+conf/dac/SuBK02:::Q. Su::Venkataramanan Balakrishnan::Cheng-Kok Koh:::A factorization-based framework for passivity-preserving model reduction of RLC systems.
+conf/dac/SunL94:::Yachyang Sun::C. L. Liu:::Routing in a New 2-Dimensional FPGA/FPIC Routing Architecture.
+conf/dac/ChiproutN93:::Eli Chiprout::Michel S. Nakhla:::Addressing High-Speed Interconnect Issues in Asymptotic Waveform Evaluation.
+conf/dac/DubaRAR88:::Patrick A. Duba::Rabindra K. Roy::Jacob A. Abraham::William A. Rogers:::Fault Simulation in a Distributed Environment.
+conf/dac/Minato93:::Shin-ichi Minato:::Zero-Suppressed BDDs for Set Manipulation in Combinatorial Problems.
+conf/dac/AloulSS02:::Fadi A. Aloul::Brian D. Sierawski::Karem A. Sakallah:::Satometer: how much have we searched?
+conf/dac/PapachristouHN93:::Christos A. Papachristou::Haidar Harmanani::Mehrdad Nourani:::An Approach for Redesigning in Data Path Synthesis.
+conf/dac/PaulBNPT03:::JoAnn M. Paul::Alex Bobrek::Jeffrey E. Nelson::Joshua J. Pieper::Donald E. Thomas:::Schedulers as model-based design elements in programmable heterogeneous multiprocessors.
+conf/dac/WillemsBKGM97:::Markus Willems::Volker Bürsgens::Holger Keding::Thorsten Grötker::Heinrich Meyr:::System Level Fixed-Point Design Based on an Interpolative Approach.
+conf/dac/WongFCS86:::Kenneth F. Wong::Mark A. Franklin::Roger D. Chamberlain::B. L. Shing:::Statistics on logic simulation.
+conf/dac/ChenC01:::Tsung-Hao Chen::Charlie Chung-Ping Chen:::Efficient Large-Scale Power Grid Analysis Based on Preconditioned Krylov-Subspace Iterative Methods.
+conf/dac/ChenC89:::C. C. Chen::S.-L. Chow:::The Layout Synthesizer: An Automatic Netlist-to-Layout System.
+conf/dac/ChenP88:::Gwo-Dong Chen::Tai-Ming Parng:::A Database Management System for a VLSI Design System.
+conf/dac/ChiuP91:::Scott Chiu::Christos A. Papachristou:::A Design for Testability Scheme with Applications to Data Path Synthesis.
+conf/dac/ChoiK02:::Yoonseo Choi::Taewhan Kim:::Address assignment combined with scheduling in DSP code generation.
+conf/dac/ChouB95:::Pai H. Chou::Gaetano Borriello:::Interval Scheduling: Fine-Grained Code Scheduling for Embedded Systems.
+conf/dac/ChouK88:::Hong-Tai Chou::Won Kim:::Versions and Change Notification in an Object-Oriented Database System.
+conf/dac/WolfL88:::Pieter van der Wolf::T. G. R. van Leuken:::Object Type Oriented Data Modeling for VLSI Data Management.
+conf/dac/DasdanIG99:::Ali Dasdan::Sandy Irani::Rajesh K. Gupta:::Efficient Algorithms for Optimum Cycle Mean and Optimum Cost to Time Ratio Problems.
+conf/dac/SmithQK00:::Jennifer Smith::Tom Quan::Andrew B. Kahng:::EDA meets.COM (panel session): how E-services will change the EDA business model.
+conf/dac/Preas87:::Bryan Preas:::Benchmarks for Cell-Based Layout Systems.
+conf/dac/YihM89:::J.-S. Yih::Pinaki Mazumder:::A Neural Network Design for Circuit Partitioning.
+conf/dac/EnbodyLT91:::Richard J. Enbody::Gary Lynn::Kwee Heong Tan:::Routing the 3-D Chip.
+conf/dac/DagaB90:::Ajay J. Daga::William P. Birmingham:::Failure Recovery in the MICON System.
+conf/dac/DagaB94:::Ajay J. Daga::William P. Birmingham:::The Minimization and Decomposition of Interface State Machines.
+conf/dac/GhoneimaI03:::Maged Ghoneima::Yehea I. Ismail:::Optimum positioning of interleaved repeaters In bidirectional buses.
+conf/dac/WuSHS92:::Bo Wu::Naveed A. Sherwani::Nancy D. Holmes::Majid Sarrafzadeh:::Over-the-Cell Routers for New Cell Model.
+conf/dac/XiaoM01:::Tong Xiao::Malgorzata Marek-Sadowska:::Functional Correlation Analysis in Crosstalk Induced Critical Paths Identification.
+conf/dac/BarrettDL98:::Clark W. Barrett::David L. Dill::Jeremy R. Levitt:::A Decision Procedure for Bit-Vector Arithmetic.
+conf/dac/HagermanD96:::John W. Hagerman::Stephen W. Director:::Improved Tool and Data Selection in Task Management.
+conf/dac/PreasK86:::Bryan Preas::Patrick G. Karger:::Automatic placement a review of current techniques (tutorial session).
+conf/dac/KaoCA97:::James Kao::Anantha Chandrakasan::Dimitri Antoniadis:::Transistor Sizing Issues and Tool For Multi-Threshold CMOS Technology.
+conf/dac/MartelDAWA02:::R. Martel::V. Derycke::J. Appenzeller::S. Wind::Ph. Avouris:::Carbon nanotube field-effect transistors and logic circuits.
+conf/dac/BartleyGB02:::Mike Bartley::Darren Galpin::Tim Blackmore:::A comparison of three verification techniques: directed testing, pseudo-random testing and property checking.
+conf/dac/LachMP00:::John Lach::William H. Mangione-Smith::Miodrag Potkonjak:::Efficient error detection, localization, and correction for FPGA-based debugging.
+conf/dac/TakashimaIKTSS88:::Makoto Takashima::Atsuhiko Ikeuchi::Shoichi Kojima::Toshikazu Tanaka::Tamaki Saitou::Jun-ichi Sakata:::A Circuit Comparison System with Rule-Based Functional Isomorphism Checking.
+conf/dac/KayCM02:::Douglas Kay::Sung Chung::Samiha Mourad:::Embedded test control schemes for compression in SOCs.
+conf/dac/GhazalNR00:::Naji Ghazal::A. Richard Newton::Jan M. Rabaey:::Predicting performance potential of modern DSPs.
+conf/dac/ChoHMPS93:::Hyunwoo Cho::Gary D. Hachtel::Enrico Macii::Bernard Plessier::Fabio Somenzi:::Algorithms for Approximate FSM Traversal.
+conf/dac/CongX98:::Jason Cong::Songjie Xu:::Delay-Optimal Technology Mapping for FPGAs with Heterogeneous LUTs.
+conf/dac/HuangCLH90:::Chu-Yi Huang::Yen-Shen Chen::Youn-Long Lin::Yu-Chin Hsu:::Data Path Allocation Based on Bipartite Weighted Matching.
+conf/dac/ShepardK00:::Kenneth L. Shepard::Dae-Jin Kim:::Static noise analysis for digital integrated circuits in partially-depleted silicon-on-insulator technology.
+conf/dac/AlpertHK97:::Charles J. Alpert::Jen-Hsin Huang::Andrew B. Kahng:::Multilevel Circuit Partitioning.
+conf/dac/AagaardJS99:::Mark Aagaard::Robert B. Jones::Carl-Johan H. Serger:::Parametric Representations of Boolean Constraints.
+conf/dac/BoulisS00:::Athanassios Boulis::Mani B. Srivastava:::System design of <i>active basestations</i> based on dynamically reconfigurable hardware.
+conf/dac/RosenthalH87:::Arnon Rosenthal::Sandra Heiler:::Querying Part Hierarchies: A Knowledge-Based Approach.
+conf/dac/LeeGHHBBG89:::Edward A. Lee::E. Goei::H. Heine::W. Ho::S. Bhattacharyya::Jeffery C. Bier::E. Guntvedt:::GABRIEL: A Design Environment for Programmable DSPs.
+conf/dac/DrakeBGKPGSB00:::Alan J. Drake::Todd D. Basso::Spencer M. Gold::Keith L. Kraver::Phiroze N. Parakh::Claude R. Gauthier::P. Sean Stetson::Richard B. Brown:::CGaAs PowerPC FXU.
+conf/dac/KannanBB02:::PariVallal Kannan::Shankar Balachandran::Dinesh Bhatia:::On metrics for comparing routability estimation methods for FPGAs.
+conf/dac/RutenbarHHC00:::Rob A. Rutenbar::Cheming Hu::Mark Horowitz::Stephen Y. Chow:::Life at the end of CMOS scaling (and beyond) (panel session) (abstract only).
+conf/dac/PomeranzKR02:::Irith Pomeranz::Sandip Kundu::Sudhakar M. Reddy:::On output response compression in the presence of unknown output values.
+conf/dac/PomeranzRU93:::Irith Pomeranz::Sudhakar M. Reddy::Prasanti Uppaluri:::NEST: A Non-Enumerative Test Generation Method for Path Delay Faults in Combinational Circuits.
+conf/dac/ChakrabartiDCB02:::Arindam Chakrabarti::Pallab Dasgupta::P. P. Chakrabarti::Ansuman Banerjee:::Formal verification of module interfaces against real time specifications.
+conf/dac/LachishMUZ02:::Oded Lachish::Eitan Marcus::Shmuel Ur::Avi Ziv:::Hole analysis for functional coverage data.
+conf/dac/NaclerieMN87:::Nicholas J. Naclerie::Sumio Masuda::Kazuo Nakajima:::Via Minimization for Gridless Layouts.
+conf/dac/ChenOIB98:::Rita Yu Chen::Robert Michael Owens::Mary Jane Irwin::Raminder Singh Bajwa:::Validation of an Architectural Level Power Analysis Technique.
+conf/dac/JohnsonSR99:::Mark C. Johnson::Dinesh Somasekhar::Kaushik Roy:::Leakage Control with Efficient Use of Transistor Stacks in Single Threshold CMOS.
+conf/dac/TauschW99:::Johannes Tausch::Jacob White:::A Multiscale Method for Fast Capacitance Extraction.
+conf/dac/Steele87:::R. L. Steele:::An Expert System Application in Semicustom VLSI Design.
+conf/dac/SmailagicSAKMS95:::Asim Smailagic::Daniel P. Siewiorek::Drew Anderson::Chris Kasaback::Thomas L. Martin::John Stivoric:::Benchmarking An Interdisciplinary Concurrent Design Methodology for Electronic/Mechanical Systems.
+conf/dac/MehendaleVS96:::Mahesh Mehendale::G. Venkatesh::Sunil D. Sherlekar:::Optimized Code Generation of Multiplication-free Linear Transforms.
+conf/dac/YenDG89:::S. H. Yen::D. H. Du::S. Ghanta:::Efficient Algorithms for Extracting the K most Critical Paths in Timing Analysis.
+conf/dac/ZhaoPSECB00:::Min Zhao::Rajendran Panda::Sachin S. Sapatnekar::Tim Edwards::Rajat Chaudhry::David Blaauw:::Hierarchical analysis of power distribution networks.
+conf/dac/JiangJC99:::Hui-Ru Jiang::Jing-Yang Jou::Yao-Wen Chang:::Noise-Constrained Performance Optimization by Simultaneous Gate and Wire Sizing Based on Lagrangian Relaxation.
+conf/dac/JiangJH98:::Jie-Hong Roland Jiang::Jing-Yang Jou::Juinn-Dar Huang:::Compatible Class Encoding in Hyper-Function Decomposition for FPGA Synthesis.
+conf/dac/KlingB87:::Ralph-Michael Kling::Prithviraj Banerjee:::ESP: A New Standard Cell Placement Package Using Simulated Evolution.
+conf/dac/TomitaYSH94:::Masahiro Tomita::Tamotsu Yamamoto::Fuminori Sumikawa::Kotaro Hirano:::Rectification of Multiple Logic Design Errors in Multiple Output Circuits.
+conf/dac/KimNK00:::Ki-Wook Kim::Unni Narayanan::Sung-Mo Kang:::Domino logic synthesis minimizing crosstalk.
+conf/dac/DharchoudhuryPBVTB98:::Abhijit Dharchoudhury::Rajendran Panda::David Blaauw::Ravi Vaidyanathan::Bogdan Tutuianu::David Bearden:::Design and Analysis of Power Distribution Networks in PowerPC Microprocessors.
+conf/dac/AbbaspourZ02:::Maghsoud Abbaspour::Jianwen Zhu:::Retargetable binary utilities.
+conf/dac/OgawaISTKYC86:::Yasushi Ogawa::Tatsuki Ishii::Yoichi Shiraishi::Hidekazu Terai::Tokinori Kozawa::Kyoji Yuyama::Kyoji Chiba:::Efficient placement algorithms optimizing delay for high-speed ECL masterslice LSIs.
+conf/dac/BhattacharyaDB94a:::Subhrajit Bhattacharya::Sujit Dey::Franc Brglez:::Performance Analysis and Optimization of Schedules for Conditional and Loop-Intensive Specifications.
+conf/dac/HammerRRHT86:::Katherine Hammer::Dan Radin::Tom Rhyne::John Hardin::Tina Timmerman:::Automating the generation of interactive interfaces.
+conf/dac/GuptaP94:::Rohini Gupta::Lawrence T. Pillage:::OTTER: Optimal Termination of Transmission Lines Excluding Radiation.
+conf/dac/BeekmanOI87:::J. A. Beekman::Robert Michael Owens::Mary Jane Irwin:::Mesh Arrays and LOGICIAN: A Tool for Their Efficient Generation.

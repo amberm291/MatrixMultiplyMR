@@ -1,0 +1,200 @@
+journals/tog/ShirleyWZ96:::Peter Shirley::Changyaw Wang::Kurt Zimmerman:::Monte Carlo Techniques for Direct Lighting Calculations.
+journals/tog/HeidrichSS98:::Wolfgang Heidrich::Philipp Slusallek::Hans-Peter Seidel:::Sampling Procedural Shaders Using Affine Arithmetic.
+journals/tog/Wyk82:::Christopher J. Van Wyk:::A High-Level Language for Specifying Pictures.
+journals/tog/MacIntyreC92:::Blair MacIntyre::William B. Cowan:::A Practical Approach to Calculating Luminance Contrast on a CRT.
+journals/tog/KimP02:::Junhwan Kim::Fabio Pellacini:::Jigsaw image mosaics.
+journals/tog/GandoinD02:::Pierre-Marie Gandoin::Olivier Devillers:::Progressive lossless compression of arbitrary simplicial complexes.
+journals/tog/FreemanTP03:::William T. Freeman::Joshua B. Tenenbaum::Egon C. Pasztor:::Learning style translation for the lines of a drawing.
+journals/tog/NgRH03:::Ren Ng::Ravi Ramamoorthi::Pat Hanrahan:::All-frequency shadows using non-linear wavelet lighting approximation.
+journals/tog/GaudetHCC88:::Severin Gaudet::Richard Hobson::Pradeep Chilka::Thomas W. Calvert:::Multiprocessor experiments for high-speed ray tracing.
+journals/tog/RaghothamaS98:::Srinivas Raghothama::Vadim Shapiro:::Boundary Representation Deformation in Parametric Solid Modeling.
+journals/tog/Anderson82:::D. P. Anderson:::Hidden Line Elimination in Projected Grid Surfaces.
+journals/tog/DeeringN02:::Michael Deering::David Naegle:::The SAGE graphics architecture.
+journals/tog/HillRV97:::Bernhard Hill::Th. Roger::F. W. Vorhagen:::Comparative Analysis of the Quantization of Color Spaces on the Basis of the CIELAB Color-Difference Formula.
+journals/tog/BajajIW93:::Chandrajit L. Bajaj::Insung Ihm::Joe D. Warren:::Higher-Order Interpolation and Least-Squares Approximation Using Implicit Algebraic Surfaces.
+journals/tog/Cheng92:::Fuhua Cheng:::Estimating Subdivision Depths for Rational Curves and Surfaces.
+journals/tog/Seidel93:::Hans-Peter Seidel:::Polar Forms for Geometrically Continuous Spline Curves of Arbitrary Degree.
+journals/tog/JamesP02:::Doug L. James::Dinesh K. Pai:::DyRT: dynamic response textures for real time deformation simulation with graphics hardware.
+journals/tog/KalninsDMF03:::Robert D. Kalnins::Phillip L. Davidson::Lee Markosian::Adam Finkelstein:::Coherent stylized silhouettes.
+journals/tog/StoneCB88:::Maureen C. Stone::William B. Cowan::John C. Beatty:::Color gamut mapping and the printing of digital color images.
+journals/tog/Sanchez-Reyes00:::Javier Sánchez-Reyes:::Applications of the polynomial s-power basis in geometry processing.
+journals/tog/HohmeyerB89:::Michael E. Hohmeyer::Brian A. Barsky:::Rational continuity: parametric, geometric, and Frenet frame continuity of rational curves.
+journals/tog/KurlanderF93:::David Kurlander::Steven Feiner:::Inferring Constraints from Multiple Snapshots.
+journals/tog/SloanLSS03:::Peter-Pike J. Sloan::Xinguo Liu::Heung-Yeung Shum::John Snyder:::Bi-scale radiance transfer.
+journals/tog/WeiskopfKR99:::Daniel Weiskopf::Ute Kraus::Hans Ruder:::Searchlight and Doppler effects in the visualization of special relativity: a corrected derivation of the transformation of radiance.
+journals/tog/WeghorstHG84:::Hank Weghorst::Gary Hooper::Donald P. Greenberg:::Improved Computational Methods for Ray Tracing.
+journals/tog/ReinhardSSF02:::Erik Reinhard::Michael Stark::Peter Shirley::James A. Ferwerda:::Photographic tone reproduction for digital images.
+journals/tog/Meyer91:::Alan Meyer:::A Linear Time Oslo Algorithm.
+journals/tog/Paglieroni98:::David W. Paglieroni:::The Directional Parameter Plane Transform of a Height Field.
+journals/tog/SuriHH99:::Subhash Suri::Philip M. Hubbard::John F. Hughes:::Analyzing bounding boxes for object intersection.
+journals/tog/LamorletteF02:::Arnauld Lamorlette::Nick Foster:::Structural modeling of flames for a production environment.
+journals/tog/Foley87:::Thomas A. Foley:::Weighted Bicubic Spline Interpolation to Rapidly Varying Data.
+journals/tog/KamadaK91:::Tomihisa Kamada::Satoru Kawai:::A General Framework for Visualizing Abstract Objects and Relations.
+journals/tog/MohrG03:::Alex Mohr::Michael Gleicher:::Building efficient, accurate character skins from examples.
+journals/tog/NiederauerHAH03:::Christopher Niederauer::Mike Houston::Maneesh Agrawala::Greg Humphreys:::Non-invasive interactive visualization of dynamic architectural environments.
+journals/tog/FunkhouserMKCHDJ03:::Thomas A. Funkhouser::Patrick Min::Michael M. Kazhdan::Joyce Chen::Alex Halderman::David P. Dobkin::David Pokrass Jacobs:::A search engine for 3D models.
+journals/tog/ChenXGS02a:::Yanyun Chen::Ying-Qing Xu::Baining Guo::Heung-Yeung Shum:::Modeling and rendering of realistic feathers.
+journals/tog/TsumuraOSSSNAHM03:::Norimichi Tsumura::Nobutoshi Ojima::Kayoko Sato::Mitsuhiro Shiraishi::Hideto Shimizu::Hirohide Nabeshima::Syuuichi Akazaki::Kimihiko Hori::Yoichi Miyake:::Image-based skin color and texture analysis/synthesis by extracting hemoglobin and melanin information in the skin.
+journals/tog/Klassen87:::R. Victor Klassen:::Modeling the Effect of the Atmosphere on Light.
+journals/tog/SederbergZBN03:::Thomas W. Sederberg::Jianmin Zheng::Almaz Bakenov::Ahmad H. Nasri:::T-splines and T-NURCCs.
+journals/tog/ChuangGCSS03:::Yung-Yu Chuang::Dan B. Goldman::Brian Curless::David Salesin::Richard Szeliski:::Shadow matting and compositing.
+journals/tog/FergusonG90:::David R. Ferguson::Thomas A. Grandine:::On the construction of surfaces interpolating curves: I. A method for handling nonconstant parameter curves.
+journals/tog/MeyerRCGT86:::Gary W. Meyer::Holly E. Rushmeier::Michael F. Cohen::Donald P. Greenberg::Kenneth E. Torrance:::An Experimental Evaluation of Computer Graphics Imagery.
+journals/tog/Green86:::Mark Green:::A Survey of Three Dialogue Models.
+journals/ton/X01:::Ikjun Yeom::A. L. Narasimha Reddy:::Modeling TCP behavior in a differentiated services network.
+journals/ton/Williamson96:::Carey L. Williamson:::Dynamic bandwidth allocation using loss-load curves.
+journals/ton/Koppelman96:::David M. Koppelman:::Congested Banyan network analysis using congested-queue states and neighboring-queue effects.
+journals/ton/RamamurthyIM98:::Byrav Ramamurthy::Jason Iness::Biswanath Mukherjee:::Optimizing amplifier placements in a multiwavelength optical LAN/MAN: the unequally powered wavelengths case.
+journals/ton/SidhuMV93:::Deepinder P. Sidhu::Howard E. Motteler::Raghu Vallurupalli:::On testing hierarchies for protocols.
+journals/ton/ChenGY00:::Shiwen Chen::Oktay Günlük::Bülent Yener:::The multicast packing problem.
+journals/ton/Mitzenmacher02:::Michael Mitzenmacher:::Compressed bloom filters.
+journals/ton/ZhuZZM03:::Hongyue Zhu::Hui Zang::Keyao Zhu::Biswanath Mukherjee:::A novel generic graph model for traffic grooming in heterogeneous WDM mesh networks.
+journals/ton/ZhongKO93:::Wen De Zhong::Jaidev Kaniyil::Yoshikuni Onozato:::A copy network with shared buffers for large-scale multicast ATM switching.
+journals/ton/HacL98:::Anna Hac::Bo Liu:::Database and location management schemes for mobile communications.
+journals/ton/LaA02:::Richard J. La::Venkat Anantharam:::Utility-based rate control in the Internet for elastic traffic.
+journals/ton/Kim98:::Peter Kim:::Deterministic service guarantees in IEEE 802.12 networks--part I: the single-hub case.
+journals/ton/Modiano99:::Eytan Modiano:::Random algorithms for scheduling multicast traffic in WDM broadcast-and-select networks.
+journals/ton/MoW00:::Jeonghoon Mo::Jean C. Walrand:::Fair end-to-end window-based congestion control.
+journals/ton/SuA01:::Weilian Su::Ian F. Akyildiz:::The jitter time-stamp approach for clock recovery of real-time variable bit-rate traffic.
+journals/ton/KimK00:::Jeong Geun Kim::Marwan Krunz:::Bandwidth allocation in wireless networks with guaranteed packet-loss performance.
+journals/ton/KimS01:::Han S. Kim::Ness B. Shroff:::Loss probability calculations and asymptotic analysis for finite buffer multiplexers.
+journals/ton/TabatabaeeGT01:::Vahid Tabatabaee::Leonidas Georgiadis::Leandros Tassiulas:::QoS provisioning and tracking fluid policies in input queueing switches.
+journals/ton/LiH93a:::San-qi Li::Chia-lin Hwang:::Queue response to input correlation functions: continuous spectral analysis.
+journals/ton/LiKL00:::Jie Li::Hisao Kameda::Keqin Li:::Optimal dynamic moblility management for PCS networks.
+journals/ton/Paxson99:::Vern Paxson:::End-to-end internet packet dynamics.
+journals/ton/LegoutNB01:::Arnaud Legout::Jörg Nonnenmacher::Ernst Biersack:::Bandwidth-allocation policies for unicast and multicast flows.
+journals/ton/BarceloGC00:::José M. Barceló::Jorge García-Vidal::Olga Casals:::Worst-case traffic in a tree network of ATM multiplexers.
+journals/ton/ThomopoulosMM01:::Efstratios Thomopoulos::Louise E. Moser::P. M. Melliar-Smith:::Latency analysis of the totem single-ring protocol.
+journals/ton/Uysal-BiyikogluPG02:::Elif Uysal-Biyikoglu::Balaji Prabhakar::Abbas El Gamal:::Energy-eficient packet transmission over a wireless link.
+journals/ton/RumsewiczS95:::Michael P. Rumsewicz::Donald E. Smith:::A comparison of SS7 congestion control options during mass call-in situations.
+journals/ton/SubramaniamAS96:::Suresh Subramaniam::Murat Azizoglu::Arun K. Somani:::All-optical networks with sparse wavelength conversion.
+journals/ton/CheshireB99:::Stuart Cheshire::Mary Baker:::Consistent overhead Byte stuffing.
+journals/ton/KarasanA98:::Ezhan Karasan::Ender Ayanoglu:::Effects of wavelength routing and selection algorithms on wavelength conversion gain in WDM optical networks.
+journals/ton/ShiF95:::Jianxu Shi::John P. Fonseka:::Hierarchical self-healing rings.
+journals/ton/ChoudhuryLW95:::Gagan L. Choudhury::Kin K. Leung::Ward Whitt:::An inversion algorithm to compute blocking probabilities in loss networks with state-dependent rates.
+journals/ton/KrupczakCA97:::Bobby Krupczak::Kenneth L. Calvert::Mostafa H. Ammar:::Increasing the portability and re-usability of protocol code.
+journals/ton/ChoiS99:::Sunghyun Choi::Kang G. Shin:::An uplink CDMA system architecture with diverse QoS guarantees for heterogeneous traffic.
+journals/ton/ChlamtacPR99:::Imrich Chlamtac::Chiara Petrioli::Jason Redi:::Energy-conserving access protocols for identification networks.
+journals/ton/JiangR96:::Hua Jiang::Stephen S. Rappaport:::Prioritized channel borrowing without locking: a channel sharing strategy for cellular communications.
+journals/ton/QiaoM99:::Chunming Qiao::Yousong Mei:::Off-line permutation embedding and scheduling in multiplexed optical networks with regular topologies.
+journals/ton/KalampoukasV98:::Lampros Kalampoukas::Anujan Varma:::Analysis of source policy and its effects on TCP in rate-controlled ATM networks.
+journals/ton/ArlittW97:::Martin F. Arlitt::Carey L. Williamson:::Internet Web servers: workload characterization and performance implications.
+journals/ton/KrishnaswamyS01:::Rajesh M. Krishnaswamy::Kumar N. Sivarajan:::Design of logical topologies: a linear formulation for wavelength-routed optical networks with no wavelength changers.
+journals/ton/Hoschka98:::Philipp Hoschka:::Compact and efficient presentation conversion code.
+journals/ton/ReevesS00:::Douglas S. Reeves::Hussein F. Salama:::A distributed algorithm for delay-constrained unicast routing.
+journals/ton/AuerbachGKK03:::Joshua S. Auerbach::Madan Gopal::Marc Kaplan::Shay Kutten:::Multicast group membership management.
+journals/ton/KompellaPP93:::Vachaspathi P. Kompella::Joseph Pasquale::George C. Polyzos:::Multicast routing for multimedia communication.
+journals/ton/Zafirovic-VukoticN99:::Mirjana Zafirovic-Vukotic::Ignas G. Niemegeers:::Waiting time estimates in symmetric ATM-oriented rings with the destination release of used slots.
+journals/ton/SimmonsG94:::Jane M. Simmons::Robert G. Gallager:::Design of error detection scheme for class C service in ATM.
+journals/ton/LangSV01:::Jonathan P. Lang::Vishal Sharma::Emmanouel A. Varvarigos:::An analysis of oblivious and adaptive routing in optical networks with wavelength translation.
+journals/ton/MedardBFHL02:::Muriel Médard::Richard A. Barry::Steven G. Finn::Wenbo He::Steven Lumetta:::Generalized loop-back recovery in optical mesh networks.
+journals/ton/LorenzO98:::Dean H. Lorenz::Ariel Orda:::QoS routing in networks with uncertain parameters.
+journals/ton/ParekhG93:::Abhay K. Parekh::Robert G. Gallager:::A generalized processor sharing approach to flow control in integrated services networks: the single-node case.
+journals/ton/TassiulasG96:::Leandros Tassiulas::Leonidas Georgiadis:::Any work-conserving policy stabilizes the ring with spatial re-use.
+journals/ton/KorkmazK03:::Turgay Korkmaz::Marwan Krunz:::Bandwidth-delay constrained path selection under inaccurate state information.
+journals/ton/LiSC99a:::Junyi Li::Ness B. Shroff::K. P. Chong:::A reduced-power channel reuse scheme for wireless packet cellular networks.
+journals/ton/ClarkF98:::David D. Clark::Wenjia Fang:::Explicit allocation of best-effort packet delivery service.
+journals/ton/TchaCC97:::Dong-wan Tcha::Yong-joo Chung::Taek-jin Choi:::A new lower bound for the frequency assignment problem.
+journals/ton/RamjeeVSTWP02:::Ramachandran Ramjee::Kannan Varadhan::Luca Salgarelli::Sandra R. Thuel::Shie Yuan Wang::Thomas F. La Porta:::HAWAII: a domain-based approach for supporting mobility in wide-area wireless networks.
+journals/ton/ErramilliNW96:::Ashok Erramilli::Onuttom Narayan::Walter Willinger:::Experimental queueing analysis with long-range dependent packet traffic.
+journals/ton/KesslerK93:::Ilan Kessler::Arvind Krishna:::On the cost of fairness in ring networks.
+journals/ton/ZhuRP00:::Yuhong Zhu::George N. Rouskas::Harry G. Perros:::A path decomposition approach for computing blocking probabilities in wavelength-routing networks.
+journals/ton/Iliadis00:::Ilias Iliadis:::Optimal PNNI complex node representations for restrictive costs and minimal path computation time.
+journals/ton/MarsanBGLN03:::Marco Ajmone Marsan::Andrea Bianco::Paolo Giaccone::Emilio Leonardi::Fabio Neri:::Multicast traffic in input-queued switches: optimal scheduling and maximum throughput.
+journals/ton/WallachEK97:::Deborah A. Wallach::Dawson R. Engler::M. Frans Kaashoek:::ASHs application-specific handlers for high-performance messaging.
+journals/ton/Marbach03:::Peter Marbach:::Priority service and max-min fairness.
+journals/ton/Rumsewicz93:::Michael P. Rumsewicz:::Analysis of the effects of SS7 message discard schemes on call completion rates during overload.
+journals/ton/XiaoSC03:::Mingbo Xiao::Ness B. Shroff::Edwin K. P. Chong:::A utility-based power-control scheme in wireless cellular systems.
+journals/ton/GanzW94:::Aura Ganz::Xudong Wang:::Efficient algorithm for virtual topology design in multihop lightwave networks.
+journals/ton/MeddebGR02:::Aref Meddeb::André Girard::Catherine Rosenberg:::The impact of point-to-multipoint traffic concentration on multirate networks design.
+journals/ton/SunZT01:::Hairong Sun::Xinyu Zang::Kishor S. Trivedi:::Performance of broadcast and unknown server (BUS) in ATM LAN emulation.
+journals/ton/GrossglauserT02:::Matthias Grossglauser::David N. C. Tse:::Mobility increases the capacity of ad hoc wireless networks.
+journals/ton/ZhangA95:::Zhensheng Zhang::Anthony S. Acampora:::A heuristic wavelength assignment algorithm for multihop WDM networks with wavelength routing and wavelength re-use.
+journals/ton/LiotopoulosC96:::Fotios K. Liotopoulos::Suresh Chalasani:::Semi-rearrangeably nonblocking operation of Clos networks in the multirate environment.
+journals/ton/WregeKZL96:::Dallas E. Wrege::Edward W. Knightly::Hui Zhang::Jörg Liebeherr:::Deterministic delay bounds for VBR video in packet-switching networks: fundamental limits and practical trade-offs.
+journals/ton/BraunD96:::Torsten Braun::Christophe Diot:::Performance evaluation and cache analysis of an ILP protocol implementation.
+journals/ton/BegoleSSS01:::James Begole::Randall B. Smith::Craig A. Struble::Clifford A. Shaffer:::Resource sharing for replicated synchronous groupware.
+journals/ton/AharoniC98:::Ehud Aharoni::Reuven Cohen:::Restricted dynamic Steiner trees for scalable multicast in datagram networks.
+journals/ton/BergerK00:::Arthur W. Berger::Yaakov Kogan:::Dimensioning bandwidth for elastic traffic in high-speed data networks.
+journals/ton/ShadTKL01:::Faisal Shad::Terence D. Todd::Vytas Kezys::John Litva:::Dynamic slot allocation (DSA) in indoor SDMA/TDMA using smart antenna basestation.
+journals/ton/ChongLK01:::Song Chong::Sangho Lee::Sungho Kang:::A simple, scalable, and stable explicit rate allocation algorithm for MAX-MIN flow control with minimum rate guarantee.
+journals/ton/MahantiEVS03:::Anirban Mahanti::Derek L. Eager::Mary K. Vernon::David Sundaram-Stukel:::Scalable on-demand media streaming with packet loss recovery.
+journals/ton/PapadopoulosP93:::Christos Papadopoulos::Guru M. Parulkar:::Experimental evaluation of SUNOS IPC and TCP/IP protocol implementation.
+journals/ton/RubensteinKT02a:::Dan Rubenstein::James F. Kurose::Donald F. Towsley:::Detecting shared congestion of flows via end-to-end measurement.
+journals/ton/BeardF01:::Cory C. Beard::Victor Frost:::Prioritized resource allocation for stressed networks.
+journals/ton/CohenOS95:::Reuven Cohen::Yoram Ofek::Adrian Segall:::A new label-based source routing for multi-ring networks.
+journals/ton/BianchiT93:::Giuseppe Bianchi::Jonathan S. Turner:::Improved queueing analysis of shared buffer switching networks.
+journals/ton/NelakuditiZTD02:::Srihari Nelakuditi::Zhi-Li Zhang::Rose P. Tsang::David Hung-Chang Du:::Adaptive proportional routing: a localized QoS routing approach.
+journals/ton/Sestini97:::Fabrizio Sestini:::Recursive copy generation for multicast ATM switching.
+journals/ton/NonnenmacherB99:::Jörg Nonnenmacher::Ernst Biersack:::Scalable feedback for large groups.
+journals/tse/Falkowski92:::Bernd-Jürgen Falkowski:::Comments on an Optimal Set of Indices For a Relational Database.
+journals/tse/KaviBB87:::Krishna M. Kavi::Bill P. Buckles::U. Narayan Bhat:::Isomorphisms Between Petri Nets and Dataflow Graphs.
+journals/tse/CangussuDM02:::João W. Cangussu::Raymond A. DeCarlo::Aditya P. Mathur:::A Formal Model of the Software Test Process.
+journals/tse/LevesonHHR94:::Nancy G. Leveson::Mats Per Erik Heimdahl::Holly Hildreth::Jon Damon Reese:::Requirements Specification for Process-Control Systems.
+journals/tse/Gudes80:::Ehud Gudes:::The Design of a Cryptopgraphy Based Secure File System.
+journals/tse/Damm88:::Werner Damm:::A Microprogramming Logic.
+journals/tse/LucenaP79:::Carlos José Pereira de Lucena::Tarcisio H. C. Pequeno:::Program Derivation Using Data Types: A Case Study.
+journals/tse/Schlichting85:::Richard D. Schlichting:::A Technique for Estimating Performance of Fault-Tolerant Programs.
+journals/tse/ChenTT89:::Shyh-Kwei Chen::W. T. Tsai::Bhavani M. Thuraisingham:::Recovery Point Selection on a Reverse Binary Tree Task Model.
+journals/tse/ChengW02:::Betty H. C. Cheng::Enoch Y. Wang:::Formalizing and Integrating the Dynamic Model for Object-Oriented Modeling.
+journals/tse/ErnstBN02:::Michael D. Ernst::Greg J. Badros::David Notkin:::An Empirical Analysis of C Preprocessor Use.
+journals/tse/Basu80a:::Sanat K. Basu:::On Development of Iterative Programs from Function Specifications.
+journals/tse/RangarajanJT93:::Sampath Rangarajan::Pankaj Jalote::Satish K. Tripathi:::Capacity of Voting Systems.
+journals/tse/Parnas93:::David Lorge Parnas:::Predicate Logic for Software Engineering.
+journals/tse/HaliciD89:::Ugur Halici::Asuman Dogac:::Concurrency Control in Distributed Databases Through Time Intervals and Short-Term Locks.
+journals/tse/HaliciD91:::Ugur Halici::Asuman Dogac:::An Optimistic Locking Technique For Concurrency Control in Distributed Databases.
+journals/tse/Gait85:::Jason Gait:::An Aspect of Aesthetics in Human-Computer Communications: Pretty Windows.
+journals/tse/Blikle81:::Andrzej Blikle:::On the Development of Correct Specified Programs.
+journals/tse/Bersoff85:::Edward H. Bersoff:::Comments on "Elements of Software Configuration Management".
+journals/tse/Hawryszkiewycz83:::Igor Hawryszkiewycz:::A Semantic Design Method.
+journals/tse/Wiener-EhrlichHR84:::Willa Kay Wiener-Ehrlich::James R. Hamrick::Vincent F. Rupolo:::Modeling Software Behavior in Terms of a Formal Life Cycle Curve: Implications for Software Maintenance.
+journals/tse/Goel80:::Amrit L. Goel:::A Summary of the Discussion on ``An Analysis of Competing Software Reliability Models''.
+journals/tse/Gray88:::David Gray:::The Formal Specification of a Small Bookshop Information System.
+journals/tse/HudsonK88:::Scott E. Hudson::Roger King:::The Cactis Project: Database Support for Software Environment.
+journals/tse/AtkinsBGM02:::David L. Atkins::Thomas Ball::Todd L. Graves::Audris Mockus:::Using Version Control Data to Evaluate the Impact of Software Tools: A Case Study of the Version Editor.
+journals/tse/Hac89:::Anna Hac:::A Distributed Algorithm for Performance Improvement Through File Replication, File Migration, and Process Migration.
+journals/tse/PorterJ97:::Adam A. Porter::Philip M. Johnson:::Assessing Software Review Meetings: Results of a Comparative Analysis of Two Experimental Studies.
+journals/tse/BelkhoucheU86:::Boumediene Belkhouche::Joseph E. Urban:::Direct Implementation of Abstract Data Types from Abstract Specifications.
+journals/tse/WangM97:::Changqing Wang::David R. Musser:::Dynamic Verification of C++ Generic Algorithms.
+journals/tse/Oldehoeft83:::R. R. Oldehoeft:::Program Graphs and Execution Behavior.
+journals/tse/IpSR83:::Maggie Y. L. Ip::Lawrence V. Saxton::Vijay V. Raghavan:::On the Selection of an Optimal Set of Indexes.
+journals/tse/Hamlet77:::Richard G. Hamlet:::Testing Programs with the Aid of a Compiler.
+journals/tse/WuS97:::Min-You Wu::Wei Shu:::On Parallelization of Static Scheduling Algorithms.
+journals/tse/WellerY84:::Daniel L. Weller::Bryant W. York:::A Relational Representation of an Abstract Type System.
+journals/tse/XuP90:::Jia Xu::David Lorge Parnas:::Scheduling Processes with Release Times, Deadlines, Precedence, and Exclusion Relations.
+journals/tse/CooperH88:::R. C. B. Cooper::K. G. Hamilton:::Preserving Abstraction in Concurrent Programming.
+journals/tse/YuG90:::Che-Fn Yu::Virgil D. Gligor:::A Specification and Verification Method for Preventing Denial of Service.
+journals/tse/AndrewsSHP87:::Gregory R. Andrews::Richard D. Schlichting::Roger Hayes::Titus D. M. Purdin:::The Design of the Saguaro Distributed Operating System.
+journals/tse/CallahanP91:::John R. Callahan::James M. Purtilo:::A Packaging System For Heterogeneous Execution Environments.
+journals/tse/Lamb90:::David Alex Lamb:::Specification of Iterators.
+journals/tse/Lee87a:::Tony T. Lee:::An Information-Theoretic Analysis of Relational Databases - Part II: Information Structures of Database Schemas.
+journals/tse/LeeI95:::Inhwan Lee::Ravishankar K. Iyer:::Software Dependability in the Tandem GUARDIAN System.
+journals/tse/LeeL88:::Tony T. Lee::Ming-Yee Lai:::A Relational Algebraic Approach to Protocol Verification.
+journals/tse/Voigt75:::Susan Voigt:::Program Design by a Multidisciplinary Team.
+journals/tse/Levy86:::Leon S. Levy:::A Metaprogramming Method and Its Economic Justification.
+journals/tse/WoodwardHH79:::Martin R. Woodward::Michael A. Hennell::David Hedley:::A Measure of Control Flow Complexity in Program Text.
+journals/tse/Kitchenham98:::Barbara Kitchenham:::A Procedure for Analyzing Unbalanced Datasets.
+journals/tse/GabowMO76:::Harold N. Gabow::Shachindra N. Maheswari::Leon J. Osterweil:::On Two Problems in the Generation of Program Test Paths.
+journals/tse/MacEwen82:::Glenn H. MacEwen:::Correction to "Information Flow Certification Using an Intermediate Code Programm Representation".
+journals/tse/Orman88:::Levent V. Orman:::Functional Development of Database Applications.
+journals/tse/SaavedraS95:::Rafael H. Saavedra::Alan Jay Smith:::Performance Characterization of Optimizing Compilers.
+journals/tse/KanounL94:::Karama Kanoun::Jean-Claude Laprie:::Software Reliability Trend Analyses from Theoretical to Practical Considerations.
+journals/tse/MyersMMFFKMKD97:::Brad A. Myers::Richard G. McDaniel::Robert C. Miller::Alan S. Ferrency::Andrew Faulring::Bruce D. Kyle::Andrew Mickish::Alex Klimovitski::Patrick Doane:::The Amulet Environment: New Models for Effective User Interface Software Development.
+journals/tse/Musa75:::John D. Musa:::A Theory of Software Reliability and Its Application.
+journals/tse/MoriconiQR95:::Mark Moriconi::Xiaolei Qian::R. A. Riemenschneider:::Correct Architecture Refinement.
+journals/tse/BeetemB91:::John F. Beetem::Anne F. Beetem:::Incremental Scanning and Parsing With Galaxy.
+journals/tse/DunlopB84:::Douglas D. Dunlop::Victor R. Basili:::A Heuristic for Deriving Loop Functions.
+journals/tse/OzsoyogluW89:::Gultekin Özsoyoglu::Huaqing Wang:::A Relational Calculus with Set Operators, Its Safety and Equivalent Graphical Languages.
+journals/tse/SeamanMBK03:::Carolyn B. Seaman::Manoel G. Mendonça::Victor R. Basili::Yong-Mi Kim:::User Interface Evaluation and Empirically-Based Evolution of a Prototype Experience Management Tool.
+journals/tse/Cooper84:::Jack Cooper:::Software Development Management Planning.
+journals/tse/TsaiFCB90:::Jeffrey J. P. Tsai::Kwang-Ya Fang::Horng-Yuan Chen::Yao-Dong Bi:::A Noninterference Monitoring and Replay Mechanism for Real-Time Software Testing and Debugging.
+journals/tse/MurataSS89:::Tadao Murata::Boris Shenker::Sol M. Shatz:::Detection of Ada Static Deadlocks Using Petri Net Invariants.
+journals/tse/ShiehGCT90:::Yuan-Bao Shieh::Dipak Ghosal::Prasad R. Chintamaneni::Satish K. Tripathi:::Modeling of Hierarchical Distributed Systems with Fault-Tolerance.
+journals/tse/AgrawalE87:::Rakesh Agrawal::Ahmed K. Ezzat:::Location Independent Remote Execution in NEST.
+journals/tse/BriandMW02:::Lionel C. Briand::Walcélio L. Melo::Jürgen Wüst:::Assessing the Applicability of Fault-Proneness Models Across Object-Oriented Software Projects.
+journals/tse/KellerW85:::Arthur M. Keller::Marianne Winslett:::On the Use of an Extended Relational Model to Handle Changing Incomplete Information.
+journals/tse/Girling87:::C. Gray Girling:::Covert Channels in LAN`s.
+journals/tse/Griswold03:::William G. Griswold:::Guest Editor's Introduction: 2002 Conference on the Foundations of Software Engineering.
+journals/tse/BuhrKHW89:::Raymond J. A. Buhr::Gerald M. Karam::Carol J. Hayes::C. Murray Woodside:::Software CAD: A Revolutionary Approach.
+journals/tse/MerksDC92:::Eduardus A. T. Merks::J. Michael Dyck::Robert D. Cameron:::Language Design For Program Manipulation.
+journals/tse/Boehm84:::Barry W. Boehm:::Software Engineering Economics.

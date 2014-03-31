@@ -1,0 +1,200 @@
+conf/networking/BjorkmanM00:::Mats Björkman::Bob Melander:::Impact of the Ethernet Capture Effect on Bandwidth Measurements.
+conf/networking/NicoliniG93:::Davide Nicolini::Luigi Gugliotti:::Cognitive Couplers: Toward a New Generation of Organizational Support Systems.
+conf/networking/RameshRP00:::Sridhar Ramesh::George N. Rouskas::Harry G. Perros:::Computing Blocking Probabilities in Multi-class Wavelength Routing Networks.
+conf/networking/JohanssonKK00:::Niklas Johansson::Maria Kihl::Ulf Körner:::TCP/IP over the Bluetooth Wireless Ad-hoc Network.
+conf/networking/SenouciBP02:::Sidi-Mohammed Senouci::André-Luc Beylot::Guy Pujolle:::Call Admission Control for Multimedia Cellular Networks Using Neuro-dynamic Programming.
+conf/networking/SzetoBI02:::W. Szeto::Raouf Boutaba::Youssef Iraqi:::Dynamic Online Routing Algorithm for MPLS Traffic Engineering.
+conf/networking/SpeerSFZ02:::Anke Speer::Marcus Schöller::Thomas Fuhrmann::Martina Zitterbart:::Aspects of AMnet Signaling.
+conf/networking/RaatikainenWH02:::Pertti Raatikainen::Mika Wikström::Timo Hämäläinen:::Performance Simulations of a QoS Aware Caching Method.
+conf/networking/NybergVA00:::Eeva Nyberg::Jorma T. Virtamo::Samuli Aalto:::An Exact Algorithm for Calculating Blocking Probabilities in Multicast Networks.
+conf/networking/DouilletBB00:::Pierre L. Douillet::André-Luc Beylot::Monique Becker:::Computing Stochastical Bounds for the Tail Distribution of an M/GI/1 Queue.
+conf/networking/Konorski02:::Jerzy Konorski:::Multiple Access in Ad-Hoc Wireless LANs with Noncooperative Stations.
+conf/networking/ShimLL02:::Junho Shim::Taehee Lee::Sang-goo Lee:::A Server Placement Algorithm Conscious of Communication Delays and Relocation Costs.
+conf/networking/Sanderson93:::Duncan Sanderson:::From Electronic Networks to Mediated Collaborative Research: The Optimism and Obstacles.
+conf/networking/RaatikainenR00:::Pertti Raatikainen::Sami Raatikainen:::An Interworking Call Control Solution for a Multidiscipline Switch.
+conf/scalespace/Florack01:::Luc Florack:::Scale-Space Theories for Scalar and Vector Images.
+conf/scalespace/StreekstraSB99:::G. J. Streekstra::Arnold W. M. Smeulders::Rein van den Boomgaard:::Tracing of Curvilinear Structures in 3D Images with Single Scale Diameter Measurement.
+conf/scalespace/BatchelorSH99:::Philipp G. Batchelor::Andy D. Castellano-Smith::Derek L. G. Hill:::Proper Scales of Shapes.
+conf/scalespace/FrangakisH99:::Achilleas S. Frangakis::Reiner Hegerl:::Nonlinear Anisotropic Diffusion in Three-Dimensional Electron Microscopy.
+conf/scalespace/Malgouyres01:::François Malgouyres:::Total Variation Based Oversampling of Noisy Images.
+conf/scalespace/BertalmioSR99a:::Marcelo Bertalmío::Guillermo Sapiro::Gregory Randall:::Region Tracking on Surfaces Deforming via Level-Sets Methods.
+conf/scalespace/ImiyaE99:::Atsushi Imiya::Ulrich Eckhardt:::Discrete Mean Curvature Flow.
+conf/scalespace/BeekmanSN97:::Freek J. Beekman::Ed T. P. Slijpen::Wiro J. Niessen:::Supervised Diffusion Parameter Selection for Filtering SPECT Brain Images.
+conf/scalespace/OomesSD97:::Stijn Oomes::Peter Snoeren::Tjeerd Dijkstra:::3D Shape Representation: Transforming Polygons into Voxels.
+conf/scalespace/LeeAL01:::Tim K. Lee::M. Stella Atkins::Ze-Nian Li:::Indentation and Protrusion Detection and Its Applications.
+conf/scalespace/KantersFPR03:::Frans Kanters::Luc Florack::Bram Platel::Bart M. ter Haar Romeny:::Image Reconstruction from Multiscale Critical Points.
+conf/scalespace/SamsonBAZ99:::Christophe Samson::Laure Blanc-Féraud::Gilles Aubert::Josiane Zerubia:::A Level Set Model for Image Classification.
+conf/scalespace/StaalKRV99:::Joes Staal::Stiliyan Kalitzin::Bart M. ter Haar Romeny::Max A. Viergever:::Detection of Critical Structures in Scale Space.
+conf/scalespace/LaptevL01a:::Ivan Laptev::Tony Lindeberg:::A Multi-scale Feature Likelihood Map for Direct Evaluation of Object Hypotheses.
+conf/modellierung/KostersPW98:::Georg Kösters::Bernd-Uwe Pagel::Mario Winter:::Kombinierte Validierung von Use Cases und Klassenmodellen.
+conf/modellierung/SchulzeE02:::Martin Schulze::Jürgen Ebert:::Prozessmodell-basierte Präsentation von Produktionsfehler-Beschreibungen.
+conf/modellierung/SteimannTSN02:::Friedrich Steimann::Uwe Thaden::Wolf Siberski::Wolfgang Nejdl:::Animiertes UML als Medium für die Didaktik der objektorientierten Programmierung.
+conf/modellierung/FriesS98:::Dietrich de Fries::Bruno Schienmann:::Informationssystemarchitekturen - Einsatz und Nutzen in der Modellierungspraxis.
+conf/modellierung/ConradDSS02:::Mirko Conrad::Heiko Dörr::Ingo Stürmer::Andy Schürr:::Graph Transformations for Model-based Testing.
+conf/modellierung/SteinS01:::Benno Stein::André Schulz:::Modeling Design Knowledge on Structure.
+conf/modellierung/KrabbelW98:::Anita Krabbel::Ingrid Wetzel:::Aufgabenbezogene Modellierung von Domänensoftware.
+conf/modellierung/SauerE99:::Stefan Sauer::Gregor Engels:::UML-basierte Modellierung von Multimediaanwendungen.
+conf/eurocrypt/ZhaoDLZ03:::Yunlei Zhao::Xiaotie Deng::Chan H. Lee::Hong Zhu:::Resettable Zero-Knowledge in the Weak Public-Key Model.
+conf/eurocrypt/Crescenzo95:::Giovanni Di Crescenzo:::Recycling Random Bits in Composed Perfect Zero-Knowledge.
+conf/eurocrypt/FujisakiO98:::Eiichiro Fujisaki::Tatsuaki Okamoto:::A Practical and Provably Secure Scheme for Publicly Verifiable Secret Sharing and Its Applications.
+conf/eurocrypt/ChenDP94:::Lidong Chen::Ivan Damgård::Torben P. Pedersen:::Parallel Divertibility of Proofs of Knowledge (Extended Abstract).
+conf/eurocrypt/Nyberg94:::Kaisa Nyberg:::Linear Approximation of Block Ciphers.
+conf/eurocrypt/DamgardK01:::Ivan Damgård::Maciej Koprowski:::Practical Threshold RSA Signatures without a Trusted Dealer.
+conf/eurocrypt/DamgardK93:::Ivan Damgård::Lars R. Knudsen:::The Breaking of the AR Hash Function.
+conf/eurocrypt/MichelsS98:::Markus Michels::Markus Stadler:::Generic Constructions for Secure and Efficient Confirmer Signature Schemes.
+conf/eurocrypt/Herlestam85:::Tore Herlestam:::On Functions of Linear Shift Register Sequences.
+conf/eurocrypt/SyversonM94:::Paul F. Syverson::Catherine Meadows:::Formal Requirements for Key Distribution Protocols.
+conf/eurocrypt/Koyama92:::Kenji Koyama:::Secure Conference Key Distribution Schemes for Conspiracy Attack.
+conf/eurocrypt/DesmedtHQ86:::Yvo Desmedt::Frank Hoornaert::Jean-Jacques Quisquater:::Several Exhaustive Key Search Machines and DES.
+conf/eurocrypt/Fak86:::Viiveke Fåk:::Activities of IFIP Working Group 11: 4 on Crypto Management.
+conf/eurocrypt/Schnorr88:::Claus-Peter Schnorr:::On the Construction of Random Number Generators and Random Function Generators.
+conf/eurocrypt/Schnorr92:::Claus-Peter Schnorr:::FFT-Hash II, Efficient Cryptographic Hashing.
+conf/eurocrypt/FranklinR95:::Matthew K. Franklin::Michael K. Reiter:::Verifiable Secret Sharing.
+conf/eurocrypt/Beutelspacher86:::Albrecht Beutelspacher:::Geometric Structures as Threshold Schemes.
+conf/eurocrypt/Beutelspacher89:::Albrecht Beutelspacher:::How to Say ``No''.
+conf/eurocrypt/LaiM92:::Xuejia Lai::James L. Massey:::Hash Function Based on Block Ciphers.
+conf/eurocrypt/BrassardCY89:::Gilles Brassard::Claude Crépeau::Moti Yung:::Everything in NP can be Argued in <i>Perfect</i> Zero-Knowledge in a <i>Bounded</i> Number of Rounds (Extended Abstract).
+conf/eurocrypt/LeeB88:::Pil Joong Lee::Ernest F. Brickell:::An Observation on the Security of McEliece's Public-Key Cryptosystem.
+conf/eurocrypt/Lidl84:::Rudolf Lidl:::On Cryptosystems Based on Polynomials and Finite Fields.
+conf/eurocrypt/StadlerPC95:::Markus Stadler::Jean-Marc Piveteau::Jan Camenisch:::Fair Blind Signatures.
+conf/eurocrypt/Coppersmith96a:::Don Coppersmith:::Finding a Small Root of a Bivariate Integer Equation; Factoring with High Bits Known.
+conf/eurocrypt/CoppersmithS97:::Don Coppersmith::Adi Shamir:::Lattice Attacks on NTRU.
+conf/eurocrypt/Berson92:::Thomas A. Berson:::Differential Cryptanalysis Mod 2^32 with Applications to MD5.
+conf/eurocrypt/FitziGMR02:::Matthias Fitzi::Nicolas Gisin::Ueli M. Maurer::Oliver von Rotz:::Unconditional Byzantine Agreement and Multi-party Computation Secure against Dishonest Minorities from Scratch.
+conf/eurocrypt/Carlet97:::Claude Carlet:::More Correlation-Immune and Resilient Functions over Galois Fields and Galois Rings.
+conf/eurocrypt/Matsui93:::Mitsuru Matsui:::Linear Cryptoanalysis Method for DES Cipher.
+conf/eurocrypt/Stadler96:::Markus Stadler:::Publicly Verifiable Secret Sharing.
+conf/eurocrypt/SchnorrA84:::Claus-Peter Schnorr::Werner Alexi:::RSA-Bits are 0.5 + epsilon Secure.
+conf/eurocrypt/WirlH82:::Klaus Wirl::Peter Hess:::A voice Scrambling System for Testing and Demonstration.
+conf/eurocrypt/Sale00:::Anthony E. Sale:::Colossus and the German Lorenz Cipher - Code Breaking in WW II.
+conf/eurocrypt/Sedlak87:::Holger Sedlak:::The RSA Cryptography Processor.
+conf/eurocrypt/BonehDF01:::Dan Boneh::Glenn Durfee::Matthew K. Franklin:::Lower Bounds for Multicast Message Authentication.
+conf/eurocrypt/DaviesP82:::Donald W. Davies::Graeme I. P. Parkin:::The average Cycle size of the Key-Stream in Output Feedback Encipherment.
+conf/eurocrypt/AgnewMV88a:::Gordon B. Agnew::Ronald C. Mullin::Scott A. Vanstone:::Fast Exponentiation in <i>GF(2<sup>n</sup>)</i>.
+conf/eurocrypt/MicaliR01:::Silvio Micali::Leonid Reyzin:::Min-round Resettable Zero-Knowledge in the Public-Key Model.
+conf/eurocrypt/ShikataHZI02:::Junji Shikata::Goichiro Hanaoka::Yuliang Zheng::Hideki Imai:::Security Notions for Unconditionally Secure Signature Schemes.
+conf/eurocrypt/JaulmesJ00:::Éliane Jaulmes::Antoine Joux:::A NICE Cryptanalysis.
+conf/eurocrypt/Price86:::Wyn L. Price:::The NPL Intelligent Token and its Application.
+conf/eurocrypt/CramerDM00:::Ronald Cramer::Ivan Damgård::Ueli M. Maurer:::General Secure Multi-party Computation from any Linear Secret-Sharing Scheme.
+conf/eurocrypt/CramerGS97:::Ronald Cramer::Rosario Gennaro::Berry Schoenmakers:::A Secure and Optimally Efficient Multi-Authority Election Scheme.
+conf/eurocrypt/BleumerPW90:::Gerrit Bleumer::Birgit Pfitzmann::Michael Waidner:::A Remark on a Signature Scheme Where Forgery Can Be Proved.
+conf/eurocrypt/CanettiG99:::Ran Canetti::Shafi Goldwasser:::An Efficient <i>Threshold</i> Public Key Cryptosystem Secure Against Adaptive Chosen Ciphertext Attack.
+conf/eurocrypt/CanettiK02:::Ran Canetti::Hugo Krawczyk:::Universally Composable Notions of Key Exchange and Secure Channels.
+conf/eurocrypt/BeutelspacherR90:::Albrecht Beutelspacher::Ute Rosenbaum:::Essentially l-Fold Secure Authentication Systems.
+conf/eurocrypt/Smeets84:::Ben Smeets:::On the Use of the Binary Multiplying Channel in a Private Communication System.
+conf/eurocrypt/GoldburgDS91:::Bruce Goldburg::Ed Dawson::S. Sridharan:::The Automated Cryptoanalysis of Analog Speech Scramblers.
+conf/eurocrypt/Matsumoto91:::Tsutomu Matsumoto:::Human Identification Through Insecure Channel.
+conf/eurocrypt/Pieprzyk84:::Josef Pieprzyk:::Algebraical Structures of Cryptographic Transformations.
+conf/eurocrypt/Pieprzyk91:::Josef Pieprzyk:::Probabilistic Analysis of Elementary Randimizers.
+conf/eurocrypt/OConnor95:::Luke O'Connor:::Convergence in Differential Distributions.
+conf/eurocrypt/Brickell86:::Ernest F. Brickell:::Cryptanalysis of the Yagisawa Public Key Cryptosystem.
+conf/eurocrypt/Simmons93a:::Gustavus J. Simmons:::The Consequences of Trust in Shared Secret Schemes.
+conf/eurocrypt/CrepeauLS01:::Claude Crépeau::Frédéric Légaré::Louis Salvail:::How to Convert the Flavor of a Quantum Bit Commitment.
+conf/eurocrypt/NevelsteenP99:::Wim Nevelsteen::Bart Preneel:::Software Performance of Universal Hash Functions.
+conf/eurocrypt/BeguinC95:::Philippe Béguin::Antonella Cresti:::General Short Computational Secret Sharing Schemes.
+conf/eurocrypt/YoungY97:::Adam Young::Moti Yung:::Kleptography: Using Cryptography Against Cryptography.
+conf/eurocrypt/HorwitzL02:::Jeremy Horwitz::Ben Lynn:::Toward Hierarchical Identity-Based Encryption.
+conf/eurocrypt/Lercier97:::Reynald Lercier:::Finding Good Random Elliptic Curves for Cryptosystems Defined over F<sub>2</sub> <sup>n</sup>.
+conf/eurocrypt/GalbraithHS02:::Steven D. Galbraith::Florian Hess::Nigel P. Smart:::Extending the GHS Weil Descent Attack.
+conf/eurocrypt/Crepeau97:::Claude Crépeau:::Efficient Cryptographic Protocols Based on Noisy Channels.
+conf/eurocrypt/Mjolsnes89:::Stig Fr. Mjølsnes:::A Simple Technique for Diffusing Cryptoperiods.
+conf/eurocrypt/Demytko93:::N. Demytko:::A New Elliptic Curve Based Analogue of RSA.
+conf/eurocrypt/SeberryZZ93:::Jennifer Seberry::Xian-Mo Zhang::Yuliang Zheng:::On Constructions and Nonlinearity of Correlation Immune Functions (Extended Abstract).
+conf/eurocrypt/Rooij94:::Peter de Rooij:::Efficient Exponentiation using Procomputation and Vector Addition Chains.
+conf/eurocrypt/JakubowskiV98:::Mariusz H. Jakubowski::Ramarathnam Venkatesan:::The Chain &amp; Sum Primitive and Its Applications to MACs and Stream Ciphers.
+conf/eurocrypt/IngemarssonS90:::Ingemar Ingemarsson::Gustavus J. Simmons:::A Protocol to Set Up Shared Secret Schemes Without the Assistance of a Mutualy Trusted Party.
+conf/eurocrypt/BihamK98:::Eli Biham::Lars R. Knudsen:::Cryptanalysis of the ANSI X9.52 CBCM Mode.
+conf/eurocrypt/Boudot00:::Fabrice Boudot:::Efficient Proofs that a Committed Number Lies in an Interval.
+conf/eurocrypt/Smart99:::Nigel P. Smart:::On the Performance of Hyperelliptic Cryptosystems.
+conf/eurocrypt/CamenischPS94:::Jan Camenisch::Jean-Marc Piveteau::Markus Stadler:::Blind Signatures Based on the Discrete Logarithm Problem.
+conf/eurocrypt/GordonR82:::J. A. Gordon::H. Retkin:::Are Big S-Boxes Best?
+conf/eurocrypt/Niederreiter88:::Harald Niederreiter:::The Probabilistic Theory of Linear Complexity.
+conf/eurocrypt/Niederreiter89:::Harald Niederreiter:::Keysystem Sequences with a Good Linear Complexity Profile for Every STrating Point.
+conf/eurocrypt/Chabaud94:::Florent Chabaud:::On the Security of Some Cryptosystems Based on Error-correcting Codes.
+conf/eurocrypt/DammHW94:::Frank Damm::F.-P. Heider::G. Wambach:::MIMD-Factorisation on Hypercubes.
+conf/eurocrypt/BiryukowK98:::Alex Biryukov::Eyal Kushilevitz:::Improved Cryptanalysis of RC5.
+conf/eurocrypt/GuillouQ88:::Louis C. Guillou::Jean-Jacques Quisquater:::A Practical Zero-Knowledge Protocol Fitted to Security Microprocessor Minimizing Both Trasmission and Memory.
+conf/eurocrypt/Krawczyk95:::Hugo Krawczyk:::New Hash Functions For Message Authentication.
+conf/eurocrypt/BuckleyB86:::D. D. Buckley::Maurice Beale:::Public Key Encryption of Stream Ciphers.
+conf/eurocrypt/Gorgui-NaguibD88:::Raouf N. Gorgui-Naguib::Satnam Singh Dlay:::Properties of the Euler Totient Function Modulo 24 and Some of its Cryptographic Implications.
+conf/eurocrypt/MasseyMW87:::James L. Massey::Ueli M. Maurer::Muzhong Wang:::Non-Expanding, Key-Minimal, Robustly-Perfect, Linear and Bilinear Ciphers.
+conf/eurocrypt/Patarin93:::Jacques Patarin:::How to Find and Avoid Collisions for the Knapsack Hash Function.
+conf/eurocrypt/EkdahlMJ03:::Patrik Ekdahl::Willi Meier::Thomas Johansson:::Predicting the Shrinking Generator with Fixed Connections.
+conf/eurocrypt/PieprzykS91:::Josef Pieprzyk::Reihaneh Safavi-Naini:::Randomized Authentication Systems.
+conf/eurocrypt/MeyerM96:::Bernd Meyer::Volker Müller:::A Public Key Cryptosystem Based on Elliptic Curves over Z/nZ Equivalent to Factoring.
+conf/eurocrypt/AbdallaABN02:::Michel Abdalla::Jee Hea An::Mihir Bellare::Chanathip Namprempre:::From Identification to Signatures via the Fiat-Shamir Transform: Minimizing Assumptions for Security and Forward-Security.
+conf/eurocrypt/KnudsenL94:::Lars R. Knudsen::Xuejia Lai:::New Attacks on all Double Block Length Hash Functions of Hash Rate 1, including the Parallel-DM.
+conf/eurocrypt/MeijerA85:::Henk Meijer::Selim G. Akl:::Two New Secret Key Cryptosystems.
+conf/eurocrypt/KiayiasY03:::Aggelos Kiayias::Moti Yung:::Extracting Group Signatures from Traitor Tracing Schemes.
+conf/eurocrypt/Damgard93:::Ivan Damgård:::Practical and Provably Secure Release of a Secret and Exchange of Signatures.
+conf/eurocrypt/DesmedtY91:::Yvo Desmedt::Moti Yung:::Weakness of Undeniable Signature Schemes (Extended Abstract).
+conf/eurocrypt/KurosawaD98:::Kaoru Kurosawa::Yvo Desmedt:::Optimum Traitor Tracing and Asymmetric Schemes.
+conf/eurocrypt/KurosawaS97:::Kaoru Kurosawa::Takashi Satoh:::Design of SAC/PC(l) of Order k Boolean Functions and Three Other Cryptographic Criteria.
+conf/eurocrypt/Timmann82:::Klaus-P. Timmann:::The Rating of Understanding in Secure Voice Communication Systems.
+conf/eurocrypt/JohanssonJ99:::Thomas Johansson::Fredrik Jönsson:::Improved Fast Correlation Attacks on Stream Ciphers via Convolutional Codes.
+conf/eurocrypt/Cachin97:::Christian Cachin:::Smooth Entropy and Rényi Entropy.
+conf/eurocrypt/MullerN85:::Winfried B. Müller::Rupert Nöbauer:::Cryptanalysis of the Dickson Scheme.
+conf/pacific/Nycum75:::Susan H. Nycum:::Legal Aspects of Computer Security.
+conf/pacific/RogersMGM75:::Craig M. Rogers::Miles S. Rogers::Robert J. Meeker::Sherman Greenstein::Richard L. Miner:::TERS - Text Encoding and Retrieval System.
+conf/pacific/Trapnell75:::Frederick M. Trapnell Jr.:::Some Lessons on the Design of Real Time Control Programs.
+conf/pacific/Newton80:::Martha R. Newton:::Automating the Testing of an Interactive Distributed System.
+conf/pacific/DelcambreABFHLLSV80:::Lois M. L. Delcambre::E. Adams::A. Birjandi::M. Farooq::A. Hayatgheyb::C. Lillie::E. Lisboa::M. K. Sadagopan::Don Vines:::Guideline for the Design of Medley: A Distributed Multiple Database System.
+conf/pacific/WilsonL80:::Tom B. Wilson::James A. Larson:::Distribution of Data Administration Authority.
+conf/pacific/Pecherer75:::Robert M. Pecherer:::Efficient Evaluation of Expressions in a Relational Algebra.
+conf/pacific/DonnelleyF80:::James E. Donnelley::John G. Fletcher:::Resource Access Control in a Network Operating System.
+conf/pacific/Felix80:::Robert G. Felix:::Organization and Policy Issues in the Implementation of Distributed Systems.
+conf/pacific/CzarnikST75:::B. Czarnik::Stewart A. Schuster::Dennis Tsichritzis:::ZETA: A Relational Data Base Management System.
+conf/pacific/Tukey75:::Mary Anne Fisherkeller::Jerome H. Friedman::John W. Tukey:::PRIM-9: An Interactive Multi-dimensional Data Display and Analysis System.
+conf/constructivity/FellowsL91:::Michael R. Fellows::Michael A. Langston:::Constructivity Issues in Graph Algorithms.
+conf/constructivity/Greenleaf91:::Newcomb Greenleaf:::Bringing Mathematics Education into the Algorithmic Age.
+conf/adhoc-now/ColbournSL03:::Charles J. Colbourn::Violet R. Syrotiuk::Alan C. H. Ling:::Steiner Systems for Topology-Transparent Access Control in MANETs.
+conf/euromicro/KrishnanH02:::Padmanabhan Krishnan::Danita Hartley:::Using Model Checking to Test a Firewall : A Case Study.
+conf/euromicro/WautersCLDD03:::Tim Wauters::Jan Coppens::Thijs Lambrecht::Bart Dhoedt::Piet Demeester:::Distributed Replica Placement Algorithms for Peer-to-Peer Content Distribution Networks.
+conf/euromicro/PanayiotouSPE99:::Christoforos Panayiotou::George Samaras::Evaggelia Pitoura::Paraskevas Evripidou:::Parallel Computing using Java Mobile Agents.
+conf/euromicro/HuntHW00:::Andy Hunt::David M. Howard::Jim Worsdall:::Real-Time Interfaces for Speech and Singing.
+conf/euromicro/MalekD98:::Mazen Malek::Sarolta Dibuz:::Pragmatic Method for Interoperability Test Suite Derivation.
+conf/euromicro/SchmidJ02:::Klaus Schmid::Isabel John:::Developing, Validating and Evolving an Approach to Product Line Benefit and Risk Assessment.
+conf/euromicro/Belli01:::Fevzi Belli:::Software Reliability Engineering -- Risks, Challenges and Chances for Product and Process Improvement.
+conf/euromicro/PerriCC00:::Stefania Perri::Pasquale Corsonello::Giuseppe Cocorullo:::Designing High-Speed Asynchronous Pipelines.
+conf/euromicro/LiC99:::Li-San Li::Huang-Zhen Chun:::Lookahead Cache with Instruction Processing Unit for Filling Memory Gap.
+conf/euromicro/Man00:::Hugo De Man:::Rethinking Engineering Research and Education for Post-PC Systems-on-a-Chip.
+conf/euromicro/Ihme01:::Tuomas Ihme:::An Architecture Line Structure for Command and Control Software.
+conf/euromicro/Larsson-Edefors98:::Per Larsson-Edefors:::A Miniature Serial-Data SIMD Architecture.
+conf/euromicro/LamL98:::Kam-yiu Lam::Tony S. H. Lee:::Approaches for Scheduling of Triggered Transactions in Real-Time Active Database Systems.
+conf/euromicro/Schoitsch00:::Erwin Schoitsch:::'Alternative' Transportation Systems: Telematics Solutions? A Historical Overview and Present/Future Solutions for Dependable and Competitive Environments.
+conf/euromicro/CuratelliMC99:::Francesco Curatelli::Leonardo Mangeruca::Marco Chirico:::A Message-Passing Communication Scheme for System Specification.
+conf/euromicro/Crnkovic03a:::Ivica Crnkovic:::Introduction from the session chair Component-based development process.
+conf/euromicro/MullerCHP99:::F. Muller::J. P. Calvez::D. Heller::O. Pasquier:::An Interactive Modeling and Generation Tool for the Design of Hw/Sw Systems.
+conf/euromicro/Magnani99:::G. Magnani:::The Role of the Improvement Manager. Critical Factors Affecting the Development of an Improvement Strategy: Leadership, Organization, Key-Process or Business Results?
+conf/euromicro/KhareSHGDN99:::Asheesh Khare::Nicolae Savoiu::Ashok Halambi::Peter Grun::Nikil D. Dutt::Alexandru Nicolau:::V-SAT: A Visual Specification and Analysis Tool for System-On-Chip Exploration.
+conf/euromicro/Howard99:::David M. Howard:::Workshop Chair Introduction: Music Technology and Audio Processing.
+conf/euromicro/JakschPST03:::Stefan Jaksch::Stefan Pfennigschmidt::Kurt Sandkuhl::Christoph Thiel:::Information Logistic Applications for Information-on-Demand Scenarios: Concepts and Experiences from WIND Project.
+conf/euromicro/PopovicKT00:::M. Popovic::V. Kovacevic::M. Temerinac:::Software Testing Concept Used for MAS/C-Compiler.
+conf/euromicro/JiaTG02:::Yu Jia::Min Tan::Yuqing Gu:::The Evolutionary Approach to Semantics-Driven CBD Automation.
+conf/euromicro/Ciuca98:::Ion Ciuca:::On Function Approximators Implementable as Layered Neural Networks.
+conf/euromicro/Zink03:::Michael Zink:::Introduction from Session Chair.
+conf/euromicro/KarrasMHP98:::Dimitris A. Karras::I. J. Marmatsouri::E. J. Hatzakis::N. Paritsis:::On Feature Selection Methods in the Application of Neural Networks to Social Sciences.
+conf/euromicro/BarriosL99:::S. Barrios::J. López:::Heterogeneous Systems Design: A UML-Based Approach.
+conf/euromicro/Kania99:::Dariusz Kania:::Two-Level Logic Synthesis on PAL-Based CPLD and FPGA Using Decomposition.
+conf/euromicro/DommelG00:::Hans-Peter Dommel::J. J. Garcia-Luna-Aceves:::A Coordination Architecture for Internet Groupwork.
+conf/euromicro/MaamarR98:::A. Maamar::G. Russell:::A 32-Bit Risc Processor with Concurrent Error Detection.
+conf/euromicro/MautheS03:::Andreas Mauthe::Ralf Steinmetz:::Multimedia and Telecommunications Track.
+conf/euromicro/Jarzabek01:::Stanislaw Jarzabek:::Flexible Components with Frame Technology: A Case Study.
+conf/euromicro/YangP98:::Tianruo Yang::Zebo Peng:::An Improved Register-Transfer Level Functional Partitioning Approach for Testability.
+conf/euromicro/KunkelmannB02:::Thomas Kunkelmann::Roberto Brunelli:::Advanced Indexing and Retrieval in Present-Day Content Management Systems.
+conf/euromicro/KreinerSW99:::Christian Kreiner::Christian Steger::Reinhold Weiss:::A Hardware/Software Cosimulation Environment for DSP Applications.
+conf/euromicro/SharpWHR99:::Helen Sharp::Mark Woodman::Fiona Hovenden::Hugh Robinson:::The Role of 'Culture' in Successful Software Process Improvement.
+conf/euromicro/DengerC03:::Christian Denger::Marcus Ciolkowski:::High Quality Statecharts through Tailored, Perspective-Based Inspections.
+conf/euromicro/KovalevG00:::I. V. Kovalev::Karl-Erwin Großpietsch:::Deriving the Optimal Structure of N-Version Software under Resource Requirements and Cost/Timing Constraints.
+conf/euromicro/BeckerHG98:::Edelhard Becker::Roland Hoyss::Thomas Grunert:::A System for Cooperative Work in the Medical Domain.
+conf/euromicro/LeeHK99:::Jang-Soo Lee::Won-Kee Hong::Shin-Dug Kim:::A Selective Compressed Memory System by On-Line Data Decompressing.
+conf/euromicro/RostamiTN02:::M. Rostami::J. Tavares::A. Navarro:::Multi-Decoder Digital Television Platform.
+conf/euromicro/JozwiakEP98:::Lech Józwiak::Niek Ederveen::Adam Postula:::Solving Synthesis Problems with Genetic Algorithms.
+conf/euromicro/DrechslerJS99:::Rolf Drechsler::Dragan Jankovic::Radomir S. Stankovic:::Generic Implementation of DD Packages in MVL.
+conf/euromicro/Suenbuel03:::Asuman Suenbuel:::Correct by Construction Components Or: Would Nasreddin Use Components?
+conf/euromicro/SahuquilloP99:::Julio Sahuquillo::Ana Pont:::The Filter Cache: A Run-Time Cache Management Approach1.
+conf/euromicro/GuestFP00:::R. M. Guest::Michael C. Fairhurst::J. M. Potter:::Automated Extraction of Image Segments from Clinically Diagnostic Hand-Drawn Geometric Shapes.
+conf/euromicro/Feldt98:::Robert Feldt:::Generating Multiple Diverse Software Versions with Genetic Programming.
+conf/euromicro/SongP98:::Ning Song::Marek A. Perkowski:::A New Approach to And/Or/Exor Factorization for Regular Array.
+conf/euromicro/VespasianoIP98:::Gaetano Vespasiano::Maria Stella Iacobucci::Pasquale Palma:::Broadband Services in the Access Network: A Technical-Economic Comparison of Wired and Wireless Systems.
+conf/euromicro/DiazTM00:::Gladys Diaz::Jean-Pierre Thomesse::Zoubir Mammeri:::An Object-Oriented Modelling of Co-operative Multimedia Systems.

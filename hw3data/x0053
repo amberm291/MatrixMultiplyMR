@@ -1,0 +1,200 @@
+conf/focs/YaoDS95:::Frances Yao::Alan J. Demers::Scott Shenker:::A Scheduling Model for Reduced CPU Energy.
+conf/focs/Mehlhorn73:::Kurt Mehlhorn:::On the Size of Sets of Computable Functions
+conf/focs/KempeDG03:::David Kempe::Alin Dobra::Johannes Gehrke:::Gossip-Based Computation of Aggregate Information.
+conf/focs/BhattC88:::Sandeep N. Bhatt::Jin-yi Cai:::Take a Walk, Grow a Tree (Preliminary Version)
+conf/focs/AsanoA83:::Tetsuo Asano::Takao Asano:::Minimum Partition of Polygonal Regions into Trapezoids
+conf/focs/ReganSC95:::Kenneth W. Regan::D. Sivakumar::Jin-yi Cai:::Pseudorandom Generators, Measure Theory, and Natural Proofs.
+conf/focs/AzarBK92:::Yossi Azar::Andrei Z. Broder::Anna R. Karlin:::On-line Load Balancing (Extended Abstract)
+conf/focs/Statman77:::Richard Statman:::The Typed lambda-Calculus Is not Elementary Recursive
+conf/focs/SegerlindBI02:::Nathan Segerlind::Samuel R. Buss::Russell Impagliazzo:::A Switching Lemma for Small Restrictions and Lower Bounds for k - DNF Resolution.
+conf/focs/Regev02:::Oded Regev:::Quantum Computation and Lattice Problems.
+conf/focs/EhrigPS73:::Hartmut Ehrig::Michael Pfender::Hans Jürgen Schneider:::Graph-Grammars: An Algebraic Approach
+conf/focs/Chazelle83:::Bernard Chazelle:::Filtering Search: A New Approach to Query-Answering
+conf/focs/Chazelle93:::Bernard Chazelle:::Geometric Discrepancy Revisited
+conf/focs/FarrowKZ76:::Rodney Farrow::Ken Kennedy::Linda Zucconi:::Graph Grammars and Global Program Data Flow Analysis
+conf/focs/FeigeK98:::Uriel Feige::Joe Kilian:::Heuristics for Finding Large Independent Sets, with Applications to Coloring Semi-Random Graphs.
+conf/focs/Vadhan02:::Salil P. Vadhan:::Randomness Extractors and their Many Guises.
+conf/focs/JiangKL98:::Tao Jiang::Paul E. Kearney::Ming Li:::Orchestrating Quartets: Approximation and Data Correction.
+conf/focs/GoldmanIP99:::Deborah Goldman::Sorin Istrail::Christos H. Papadimitriou:::Algorithmic Aspects of Protein Structure Similarity.
+conf/focs/KaplanLSS03:::Haim Kaplan::Moshe Lewenstein::Nira Shafrir::Maxim Sviridenko:::Approximation Algorithms for Asymmetric TSP by Decomposing Directed Regular Multigraphs.
+conf/focs/DymondC80:::Patrick W. Dymond::Stephen A. Cook:::Hardware Complexity and Parallel Computation (Preliminary Version)
+conf/focs/Gaines64:::R. Stockton Gaines:::Implication techniques for Boolean functions
+conf/focs/ConfortiCKV97:::Michele Conforti::Gérard Cornuéjols::Ajai Kapoor::Kristina Vuskovic:::Finding an Even Hole in a Graph.
+conf/focs/BohmanF01:::Tom Bohman::Alan M. Frieze:::Arc-Disjoint Paths in Expander Digraphs.
+conf/focs/Indyk98a:::Piotr Indyk:::Faster Algorithms for String Matching Problems: Matching the Convolution Bound.
+conf/focs/BakerB72:::Brenda S. Baker::Ronald V. Book:::Reversal-Bounded Multi-Pushdown Machines: Extended Abstract
+conf/focs/BakerP83:::Brenda S. Baker::Ron Y. Pinter:::An Algorithm for the Optimal Placement and Routing of a Circuit within a Ring of Pads (Extended Abstract)
+conf/focs/BakerS76:::Theodore P. Baker::Alan L. Selman:::A Second Step toward the Polynomial Hierarchy
+conf/focs/Bakker75:::J. W. de Bakker:::Flow of Control in the Proof Theory of Structured Programming
+conf/focs/GalilMY95:::Zvi Galil::Alain J. Mayer::Moti Yung:::Resolving Message Complexity of Byzantine Agreement and beyond.
+conf/focs/CornuejolsLV03:::Gérard Cornuéjols::Xinming Liu::Kristina Vuskovic:::A Polynomial Algorithm for Recognizing Perfect Graphs.
+conf/focs/AllenM76:::Brian Allen::J. Ian Munro:::Self-Organizing Binary Search Trees
+conf/focs/Safra88:::Shmuel Safra:::On the Complexity of omega-Automata
+conf/focs/Sahai99:::Amit Sahai:::Non-Malleable Non-Interactive Zero Knowledge and Adaptive Chosen-Ciphertext Security.
+conf/focs/Horowitz72:::Ellis Horowitz:::The Efficient Calculation of Powers of Polynomials
+conf/focs/DworkNRS99:::Cynthia Dwork::Moni Naor::Omer Reingold::Larry J. Stockmeyer:::Magic Functions.
+conf/focs/FeldmannST91:::Anja Feldmann::Jiri Sgall::Shang-Hua Teng:::Dynamic Scheduling on Parallel Machines
+conf/focs/MegiddoHGJP81:::Nimrod Megiddo::S. Louis Hakimi::M. R. Garey::David S. Johnson::Christos H. Papadimitriou:::The Complexity of Searching a Graph (Preliminary Version)
+conf/focs/AryaMM00:::Sunil Arya::Theocharis Malamatos::David M. Mount:::Nearly Optimal Expected-Case Planar Point Location.
+conf/focs/GreenbergW84:::Albert G. Greenberg::Alan Weiss:::A Lower Bound for Probabilistic Algorithms for Finite State Machines
+conf/focs/FloydK86:::Sally Floyd::Richard M. Karp:::FFD Bin Packing for Item Sizes with Distributions on [0,1/2]
+conf/focs/Sullivan84:::Gregory Sullivan:::A Polynomial Time Algorithm for Fault Diagnosability
+conf/focs/CoffmanJ71:::Edward G. Coffman Jr.::Neil D. Jones:::Priority Paging Algorithms and the Extension Problem
+conf/focs/HartmanisS64:::Juris Hartmanis::Richard Edwin Stearns:::Computational complexity of recursive sequences
+conf/focs/KeselmanA94:::Dmitry Keselman::Amihood Amir:::Maximum Agreement Subtree in a Set of Evolutionary Trees-Metrics and Efficient Algorithms
+conf/focs/KaklamanisKLMRRTT90:::Christos Kaklamanis::Anna R. Karlin::Frank Thomson Leighton::Victor Milenkovic::Prabhakar Raghavan::S. Rao::Clark D. Thomborson::A. Tsantilas:::Asymptotically Tight Bounds for Computing with Faulty Arrays of Processors (Extended Abstract)
+conf/focs/YannakakisPK79:::Mihalis Yannakakis::Christos H. Papadimitriou::H. T. Kung:::Locking Policies: Safety and Freedom from Deadlock
+conf/focs/Bjorner70:::Dines Bjørner:::The Synthesis of Finite State Syntax Directed Top-Down and Bottom-Up Transducers
+conf/focs/AwerbuchPV91:::Baruch Awerbuch::Boaz Patt-Shamir::George Varghese:::Self-Stabilization By Local Checking and Correction (Extended Abstract)
+conf/focs/Machtey73:::Michael Machtey:::A Notion of Helping and Pseudo-Complementation in Lattices of Honest Subrecursive Classes
+conf/focs/BarnesE93:::Greg Barnes::Jeff Edmonds:::Time-Space Bounds for Directed s-t Connectivity on JAG Models (Extended Abstract)
+conf/focs/Bulatov02:::Andrei A. Bulatov:::A Dichotomy Theorem for Constraints on a Three-Element Set.
+conf/focs/ImpagliazzoW98:::Russell Impagliazzo::Avi Wigderson:::Randomness vs. Time: De-Randomization under a Uniform Assumption.
+conf/focs/ChuangD73:::Henry Y. H. Chuang::Santanu Das:::Multiple-Input Change Asynchronous Machines Using Controlled Excitation and Flip-Flops
+conf/focs/Simon78:::Imre Simon:::Limited Subsets of a Free Monoid
+conf/focs/Grolmusz92:::Vince Grolmusz:::Separating the Communication Complexities of MOD m and MOD p Circuits
+conf/focs/Klaschka67:::Theresa F. Klaschka:::Two Contributions to Redundancy Theory
+conf/focs/CardozeS98:::David E. Cardoze::Leonard J. Schulman:::Pattern Matching for Spatial Point Sets.
+conf/focs/HirschbergL85:::Daniel S. Hirschberg::Lawrence L. Larmore:::The Least Weight Subsequence Problem (Extended Abstract)
+conf/focs/GathenS95:::Joachim von zur Gathen::Igor Shparlinski:::Finding Points on Curves over Finite Fields (Extended Abstract).
+conf/focs/Friedman74:::Emily P. Friedman:::Relationships between Monadic Recursion Schemes and Deterministic Context-Free Languages
+conf/focs/Friedman92:::Joel Friedman:::On the Bit Extraction Problem
+conf/focs/FredericksonJ86:::Greg N. Frederickson::Ravi Janardan:::Separator-Based Strategies for Efficient Message Routing (Preliminary Version)
+conf/focs/VaziraniV85:::Umesh V. Vazirani::Vijay V. Vazirani:::Random Polynomial Time Is Equal to Slightly-random Polynomial Time
+conf/focs/Linial83:::Nathan Linial:::Legal Coloring of Graphs
+conf/focs/Eichelberger63:::Edward B. Eichelberger:::Sequential circuit synthesis using input delays
+conf/focs/PatersonS95:::Mike Paterson::Aravind Srinivasan:::Contention Resolution with Bounded Delay.
+conf/focs/Sudborough73:::Ivan Hal Sudborough:::On Tape-Bounded Complexity Classes and Multi-Head Finite Automata
+conf/focs/SahaiV97:::Amit Sahai::Salil P. Vadhan:::A Complete Promise Problem for Statistical Zero-Knowledge.
+conf/focs/AgarwalAS01:::Pankaj K. Agarwal::Boris Aronov::Micha Sharir:::On the Complexity of Many Faces in Arrangements of Circles.
+conf/focs/KarlinPR92:::Anna R. Karlin::Steven J. Phillips::Prabhakar Raghavan:::Markov Paging (Extended Abstract)
+conf/focs/Constable80:::Robert L. Constable:::Programs and Types
+conf/focs/EppsteinGIN92:::David Eppstein::Zvi Galil::Giuseppe F. Italiano::Amnon Nissenzweig:::Sparsification-A Technique for Speeding up Dynamic Graph Algorithms (Extended Abstract)
+conf/focs/CryanDGJM02:::Mary Cryan::Martin E. Dyer::Leslie Ann Goldberg::Mark Jerrum::Russell A. Martin:::Rapidly Mixing Markov Chains for Sampling Contingency Tables with a Constant Number of Rows.
+conf/focs/Vempala97:::Santosh Vempala:::A Random Sampling Based Algorithm for Learning the Intersection of Half-spaces.
+conf/focs/Schkolnick68:::Mario Schkolnick:::Two-Type Bracketed Grammars
+conf/focs/AgarwalEGH98:::Pankaj K. Agarwal::David Eppstein::Leonidas J. Guibas::Monika Rauch Henzinger:::Parametric and Kinetic Minimum Spanning Trees.
+conf/focs/Gabow00:::Harold N. Gabow:::Using Expander Graphs to Find Vertex Connectivity.
+conf/focs/Swartwout64:::Robert E. Swartwout:::New techniques for designing speed independent control logic
+conf/focs/Istrail90:::Sorin Istrail:::Constructing Generalized Universal Traversing Sequences of Polynomial Size for Graphs with Small Diameter (Extended Abstract)
+conf/focs/Courcelle85:::Bruno Courcelle:::Equivalences and Transformations of Recursive Definitions
+conf/focs/FarachFM98:::Martin Farach::Paolo Ferragina::S. Muthukrishnan:::Overcoming the Memory Bottleneck in Suffix Tree Construction.
+conf/focs/FormannHHKLSWW90:::Michael Formann::Torben Hagerup::James Haralambides::Michael Kaufmann::Frank Thomson Leighton::Antonios Symvonis::Emo Welzl::Gerhard J. Woeginger:::Drawing Graphs in the Plane with High Resolution
+conf/focs/GoldreichGLR98:::Oded Goldreich::Shafi Goldwasser::Eric Lehman::Dana Ron:::Testing Monotonicity.
+conf/focs/Eppstein91:::David Eppstein:::Dynamic Three-Dimensional Linear Programming
+conf/focs/AroraBSS93:::Sanjeev Arora::László Babai::Jacques Stern::Z. Sweedyk:::The Hardness of Approximate Optimia in Lattices, Codes, and Systems of Linear Equations
+conf/focs/Nayak99:::Ashwin Nayak:::Optimal Lower Bounds for Quantum Automata and Random Access Codes.
+conf/focs/KushilevitzMO94:::Eyal Kushilevitz::Silvio Micali::Rafail Ostrovsky:::Reducibility and Completeness in Multi-Party Private Computations
+conf/focs/HoffmanL74:::Christoph M. Hoffman::Lawrence H. Landweber:::Axiomatic Equivalence of Programs with Structured Variables
+conf/focs/JonesLS76:::Anita K. Jones::Richard J. Lipton::Lawrence Snyder:::A Linear Time Algorithm for Deciding Security
+conf/focs/Allender89:::Eric Allender:::A Note on the Power of Threshold Circuits
+conf/focs/CondonL89:::Anne Condon::Richard J. Lipton:::On the Complexity of Space Bounded Interactive Proofs (Extended Abstract)
+conf/focs/SrinivasanZ94:::Aravind Srinivasan::David Zuckerman:::Computing with Very Weak Random Sources
+conf/focs/Amoroso67:::S. M. Amoroso:::A Parallel-Acting Iterative Automaton
+conf/focs/FischerKRSS02:::Eldar Fischer::Guy Kindler::Dana Ron::Shmuel Safra::Alex Samorodnitsky:::Testing Juntas.
+conf/focs/CherniavskyC72:::John C. Cherniavsky::Robert L. Constable:::Representing Program Schemes in Logic
+conf/focs/ElgotR61:::Calvin C. Elgot::Joseph D. Rutledge:::Operations of finite automata
+conf/focs/BarakGGL01:::Boaz Barak::Oded Goldreich::Shafi Goldwasser::Yehuda Lindell:::Resettably-Sound Zero-Knowledge and its Applications.
+conf/focs/MarcotteS89:::Odile Marcotte::Subhash Suri:::Fast Matching Algorithms for Points on a Polygon (Extended Abstract)
+conf/focs/FeigeLS02:::Uriel Feige::Michael Langberg::Gideon Schechtman:::Graphs with Tiny Vector Chromatic Numbers and Huge Chromatic Numbers.
+conf/focs/FeigeLS90:::Uriel Feige::Dror Lapidot::Adi Shamir:::Multiple Non-Interactive Zero Knowledge Proofs Based on a Single Random String (Extended Abstract)
+conf/focs/PoageM64:::J. F. Poage::Edward J. McCluskey:::Derivation of optimum test sequences for sequential machines
+conf/focs/Grigoriev98:::Dima Grigoriev:::Tseitin's Tautologies and Lower Bounds for Nullstellensatz Proofs.
+conf/focs/FrancezLP80:::Nissim Francez::Daniel J. Lehmann::Amir Pnueli:::A Linear History Semantics for Distributed Languages (Extended Abstract)
+conf/focs/ChangIV86:::Jik H. Chang::Oscar H. Ibarra::Anastasios Vergis:::On the Power of One-Way Communication
+conf/focs/Har-Peled01a:::Sariel Har-Peled:::A Replacement for Voronoi Diagrams of Near Linear Size.
+conf/focs/Har-PeledV01:::Sariel Har-Peled::Kasturi R. Varadarajan:::Approximate Shape Fitting via Linearization.
+conf/focs/Koiran97:::Pascal Koiran:::Randomized and Deterministic Algorithms for the Dimension of Algebraic Varieties.
+conf/focs/BuchsbaumST92:::Adam L. Buchsbaum::Rajamani Sundar::Robert Endre Tarjan:::Data Structural Bootstrapping, Linear Path Compression, and Catenable Heap Ordered Double Ended Queues
+conf/focs/OsmanW71:::Mohamed Y. Osman::C. Dennis Weiss:::Universal Base Functions and Modules for Realizing Arbitrary Switching Functions
+conf/focs/Munro84:::J. Ian Munro:::An Implicit Data Structure for the Dictionary Problem that Runs in Polylog Time
+conf/focs/Kannan94:::Ravi Kannan:::Markov Chains and Polynomial Time Algorithms
+conf/focs/AggarwalCGOY85:::Alok Aggarwal::Bernard Chazelle::Leonidas J. Guibas::Colm Ó'Dúnlaing::Chee-Keng Yap:::Parallel Computational Geometry (Extended Abstract)
+conf/focs/GoldwasserK03:::Shafi Goldwasser::Yael Tauman Kalai:::On the (In)security of the Fiat-Shamir Paradigm.
+conf/focs/Milenkovic89:::Victor Milenkovic:::Double Precision Geometry: A General Technique for Calculating Line and Segment Intersections Using Rounded Arithmetic
+conf/focs/FeldmanK02:::Jon Feldman::David R. Karger:::Decoding Turbo-Like Codes via Linear Programming.
+conf/focs/GoelI99:::Ashish Goel::Piotr Indyk:::Stochastic Load Balancing and Related Problems.
+conf/focs/SinhaT94:::Rakesh K. Sinha::Jayram S. Thathachar:::Efficient Oblivious Branching Programs for Threshold Functions
+conf/focs/Jerrum82:::Mark Jerrum:::A Compact Representation for Permutation Groups
+conf/focs/LeightonMS92:::Frank Thomson Leighton::Bruce M. Maggs::Ramesh K. Sitaraman:::On the Fault Tolerance of Some Popular Bounded-Degree Networks
+conf/focs/Farach97:::Martin Farach:::Optimal Suffix Tree Construction with Large Alphabets.
+conf/focs/Blaser98:::Markus Bläser:::Bivariate Polynomial Multiplication.
+conf/focs/AllenderBKMR02:::Eric Allender::Harry Buhrman::Michal Koucký::Dieter van Melkebeek::Detlef Ronneburger:::Power from Random Strings.
+conf/focs/AchlioptasS00:::Dimitris Achlioptas::Gregory B. Sorkin:::Optimal myopic algorithms for random 3-SAT.
+conf/focs/ChangY84:::J. S. Chang::Chee-Keng Yap:::A Polynomial Solution for Potato-peeling and other Polygon Inclusion and Enclosure Problems
+conf/focs/KleinbergRT99:::Jon M. Kleinberg::Yuval Rabani::Éva Tardos:::Fairness in Routing and Load Balancing.
+conf/focs/Watrous95:::John Watrous:::On One-Dimensional Quantum Cellular Automata.
+conf/focs/Muller63:::David E. Muller:::Infinite sequences and finite machines
+conf/focs/AhoU70:::Alfred V. Aho::Jeffrey D. Ullman:::Equivalence of Programs with Structured Variables
+conf/fodo/Hanatani85:::Yoshito Hanatani:::Join-Decomposition of MVD-Constraints Using the Characterization by "Bases" - An Introductive Study.
+conf/fodo/OukselA89:::Aris M. Ouksel::Jalal Abdul-Ghaffar:::Concurrency In Multidimensional Linear Hashing.
+conf/fodo/GinsburgT85a:::Seymour Ginsburg::Chang-jie Tang:::Projection of Object Histories.
+conf/fodo/RamamohanaraoSS89:::Kotagiri Ramamohanarao::John Shepherd::Ron Sacks-Davis:::Partial -match retrieval for Dynamic Files using Linear Hashing with Partial Expansions.
+conf/fodo/OoiS89:::Beng Chin Ooi::Ron Sacks-Davis:::Query Optimization in an Extended DBMS.
+conf/fodo/Colmerauer89:::Alain Colmerauer:::Une introduction à Prolog III.
+conf/fodo/TanL85:::K. P. Tan::Hon-Wai Leong:::Hybrid Sorting Techniques in Grid Structures.
+conf/fodo/CzejdoE85:::Bogdan D. Czejdo::David W. Embley:::An Algebra for an Entity-Relationship Model and its Application to Graphical Query Processing.
+conf/fodo/KriegelMO85:::Hans-Peter Kriegel::Rita Mannss::Mark H. Overmars:::The Inverted File Tree Machine: Efficient Multi-Key Retrieval for VLSI.
+conf/fodo/Yamane85:::Yasuo Yamane:::A Hash Join Technique for Relational Database Systems.
+conf/fodo/NievergeltH85:::Jürg Nievergelt::Klaus Hinrichs:::Storage and Access Structures for Geometric Data Bases.
+conf/fodo/Trusczynski81:::Miroslaw Truszczynski:::On Admissible Families of Sets.
+conf/fodo/Tazawa85:::Shinsei Tazawa:::Mixed-Type Multiple-Valued Filing Scheme of Order One and Two.
+conf/fodo/Suciu98:::Dan Suciu:::Semistructured Data and XML.
+conf/fodo/FungKL98:::Chi-Wai Fung::Kamalakar Karlapalem::Qing Li:::Structural Join Index Hierarchy: A Mechanism for Efficient Complex Object Retrieval.
+conf/fodo/Ghosh81:::Sakti P. Ghosh:::Future of the Consecutive Retrieval Property.
+conf/fodo/Ghosh85:::Sakti P. Ghosh:::Statistics Metadata: Linear Regession Analysis.
+conf/fodo/ChangGL98:::Edward Y. Chang::Hector Garcia-Molina::Chen Li:::2D BubbleUp: Managing Parallel Disks for Media Servers.
+conf/fodo/GrazziniPP85:::Elisabetta Grazzini::Renzo Pinzani::Fabio Pippolini:::A Physical Structure for Efficient Processing of Relational Queries.
+conf/fodo/ZezulaZ85:::Pavel Zezula::Jan Zizka:::FOPES: File Organization Performance Estimation System.
+conf/foga/Ros92:::Johannes P. Ros:::Learning Boolean Functions with Genetic Algorithms: A PAC Analysis.
+conf/foga/HarikG96:::Georges R. Harik::David E. Goldberg:::Learning Linkage.
+conf/foga/Antonisse90:::H. James Antonisse:::A Grammar-Based Genetic Algorithm.
+conf/foga/ForrestM92:::Stephanie Forrest::Melanie Mitchell:::Relative Building-Block Fitness and the Building Block Hypothesis.
+conf/foga/JongSG94:::Kenneth A. De Jong::William M. Spears::Diana F. Gordon:::Using Markov Chains to Analyze GAFOs.
+conf/foga/Westerdale90:::Thomas H. Westerdale:::Quasimorphisms or Queasymorphisms? Modeling Finite Automaton Environments.
+conf/foga/OchoaH98:::Gabriela Ochoa::Inman Harvey:::Recombination and Error Thresholds in Finite Populations.
+conf/foga/Booker92:::Lashon B. Booker:::Recombination Distributions for Genetic Algorithms.
+conf/foga/KarguptaG96:::Hillol Kargupta::David E. Goldberg:::SEARCH, Blackbox Optimization, And Sample Complexity.
+conf/foga/CrawfordHWS96:::Kelly D. Crawford::Cory J. Hoelting::Roger L. Wainwright::Dale A. Schoenefeld:::A Study of Fixed-Length Subset Recombination.
+conf/foga/Altenberg94:::Lee Altenberg:::The Schema Theorem and Price's Theorem.
+conf/foga/OReillyO94:::Una-May O'Reilly::Franz Oppacher:::The Troubling Aspects of a Building Block Hypothesis for Genetic Programming.
+conf/foga/BattleV90:::David L. Battle::Michael D. Vose:::Isomorphisms of Genetic Algorithms.
+conf/foga/RattrayS96:::Magnus Rattray::Jonathan Shapiro:::Noisy Fitness Evaluation in Genetic Algorithms and the Dynamics of Learning.
+conf/gcse/MoorPW99:::Oege de Moor::Simon L. Peyton Jones::Eric Van Wyk:::Aspect-Oriented Compilers.
+conf/gcse/BayerMW99:::Joachim Bayer::Dirk Muthig::Tanya Widen:::Customizable Domain Analysis.
+conf/gcse/SmaragdakisB99:::Yannis Smaragdakis::Don S. Batory:::Scoping Constructs for Software Generators.
+conf/gcse/KlaerenPRS00:::Herbert Klaeren::Elke Pulvermueller::Awais Rashid::Andreas Speck:::Aspect Composition Applying the Design by Contract Principle.
+conf/gcse/AttardiC01:::Giuseppe Attardi::Antonio Cisternino:::Reflection Support by Means of Template Metaprogramming.
+conf/fois/SmithW01:::Barry Smith::Christopher A. Welty:::FOIS introduction: Ontology - towards a new synthesis.
+conf/fois/HowseMTS01:::John Howse::Fernando Molina::John Taylor::Sun-Joo Shin:::Type-syntax and token-syntax in diagrammatic systems.
+conf/fois/Zuniga01:::Gloria L. Zúñiga:::Ontology: its transformation from philosophy to information systems.
+conf/fois/FuxmanGKM01:::Ariel Fuxman::Paolo Giorgini::Manuel Kolp::John Mylopoulos:::Information systems as social structures.
+conf/fpca/Hicks93:::J. Hicks:::Experiences with Compiler-Directed Storage Reclamation.
+conf/fpca/HartelL93:::Pieter H. Hartel::Koen Langendoen:::Benchmarking Implementations of Lazy Functional Languages.
+conf/fpca/George89:::Lal George:::An Abstract Machine for Parallel Graph Reduction.
+conf/fpca/Fradet91:::Pascal Fradet:::Syntactic Detection of Single-Threading Using Continuations.
+conf/fpca/Takayama89:::Yukihide Takayama:::Extended Projection - New Method to Extract Efficient Programs from Constructive Proofs.
+conf/fpca/JonesM89:::Simon B. Jones::Daniel Le Métayer:::Computer-Time Garbage Collection by Sharing Analysis.
+conf/fpca/Jones95:::Mark P. Jones:::Simplifying and Improving Qualified Types.
+conf/fpca/SmetsersNGP91:::Sjaak Smetsers::Eric Nöcker::John H. G. van Groningen::Marinus J. Plasmeijer:::Generating Efficient Code for Lazy Functional Languages.
+conf/fpca/SchauserG95:::Klaus E. Schauser::Seth Copen Goldstein:::How Much Non-Strictness do Lenient Programs Require?
+conf/fpca/Okasaki95:::Chris Okasaki:::Purely Functional Random-Access Lists.
+conf/fpca/BjernerH89:::Bror Bjerner::S. Holmström:::A Composition Approach to Time Analysis of First Order Lazy Functional Programs.
+conf/fpca/CousineauCM85:::Guy Cousineau::Pierre-Louis Curien::Michel Mauny:::The Categorical Abstract Machine.
+conf/fpca/BarthNA91:::Paul S. Barth::Rishiyur S. Nikhil::Arvind:::M-Structures: Extending a Parallel, Non-strict, Functional Language with State.
+conf/fpca/Marchiori95:::Massimo Marchiori:::The Functional Side of Logic Programming.
+conf/fpca/WeissSS89:::Shlomit Weiss::Ilan Y. Spillinger::Gabriel M. Silberman:::Architectural Improvements for Data-Driven VLSI Processing Arrays.
+conf/fpca/GunterRR95:::Carl A. Gunter::Didier Rémy::Jon G. Riecke:::A Generalization of Exceptions and Control in ML-like Languages.
+conf/fpca/Dwelly89:::Andrew Dwelly:::Functions and Dynamic User Interfaces.
+conf/fpca/Aasa93:::Annika Aasa:::Precedences for Conctypes.
+conf/fpga/PoechmuellerHGL92:::Peter Poechmueller::Hans-Jürgen Herpel::Manfred Glesner::Fang Longsen:::High Level Synthesis in an FPL-Based Computer Aided Prototyping Environment.
+conf/fpga/KrupnovaS99:::Helena Krupnova::Gabriele Saucier:::Partitioning Large Designs by Filling PFGA Devices with Hierarchy Blocks.
+conf/fpga/SchmitC02:::Herman Schmit::Vikas Chandra:::FPGA switch block layout and evaluation.
+conf/fpga/LiH02:::Zhiyuan Li::Scott Hauck:::Configuration prefetching techniques for partial reconfigurable coprocessor with relocation and defragmentation.
+conf/fpga/Mak03:::Wai-Kei Mak:::I/O placement for FPGAs with multiple I/O standards.
+conf/fpga/ZilicV96:::Zeljko Zilic::Zvonko G. Vranesic:::Using BDDs to Design ULMs for FPGAs.
+conf/fpga/CoricLMT02:::Srdjan Coric::Miriam Leeser::Eric Miller::Marc Trepanier:::Parallel-beam backprojection: an FPGA implementation optimized for medical imaging.
+conf/fpga/MollVB95:::Laurent Moll::Jean Vuillemin::Philippe Boucard:::High-Energy Physics on DECPeRLe-1 Programmable Active Memory.
+conf/fpga/Soulard99:::Philippe Soulard:::Prototyping Board and Development Environment for Rapid Prototyping of Real Time and Regular Digital Signal Processing Application.
+conf/fpga/GhiasiNBS03:::Soheil Ghiasi::Karlene Nguyen::Elaheh Bozorgzadeh::Majid Sarrafzadeh:::On computation and resource management in an FPGA-based computation environment.
+conf/fpga/TrimbergerDC97:::Steven Trimberger::Khue Duong::Bob Conn:::Architecture Issues and Solutions for a High-Capacity FPGA.

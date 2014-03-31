@@ -1,0 +1,200 @@
+conf/ecai/CerroH90:::Luis Fariñas del Cerro::Andreas Herzig:::Deterministic Modal Logics for Automated Deduction.
+conf/ecai/WilluhnA96:::W. Willuhn::F. Ade:::Knowledged-based Support for 3D Object Reconstruction.
+conf/ecai/JoubelR90:::C. Joubel::Olivier Raiman:::How Time Changes Assumptions.
+conf/ecai/GaspariM94:::Mauro Gaspari::Enrico Motta:::Symbol-Level Requirements for Agent-Level Programming.
+conf/ecai/ZhangF90:::Zhengyou Zhang::Olivier D. Faugeras:::Tracking and Motion Estimation in a Sequence of Stereo Frames.
+conf/ecai/ZhangF98:::Yan Zhang::Norman Y. Foo:::Updating Logic Programs.
+conf/ecai/MagniniS90:::Bernardo Magnini::Carlo Strapparava:::Computational Representation of Mental Spaces: A Functional Approach.
+conf/ecai/Nebel00:::Bernhard Nebel:::Knowledge Representation and Reasoning: The Theoretical Side of AI.
+conf/ecai/Diederich88:::Joachim Diederich:::Connectionist Recruitment Learning.
+conf/ecai/SakkoutRW98:::Hani El Sakkout::T. Richards::Mark Wallace:::Minimal Perturbance in Dynamic Scheduling.
+conf/ecai/SierraSAG02:::Carles Sierra::Jordi Sabater::Jaume Agustí::Pere Garcia:::Evolutionary Computation in MAS design.
+conf/ecai/AhuactzinTBM92:::Juan Manuel Ahuactzin::El-Ghazali Talbi::Pierre Bessière::B. Mazer:::Using Genetic Algorithms for Robot Motion Planning.
+conf/ecai/Someren86:::Maarten van Someren:::Knowledge Based Learning: Reducing the Description Space for Rule Learning.
+conf/ecai/CollardE96:::Philippe Collard::Cathy Escazut:::Fitness Distance Correlation in a Dual Genetic Algorithm.
+conf/ecai/Treur88:::Jan Treur:::Completeness and Definability in Diagnostic Expert Systems.
+conf/ecai/Moinard92:::Yves Moinard:::Circumscriptions as Preferential Entailment.
+conf/ecai/MassoneM86:::Lina Massone::Pietro Morasso:::Analogical and Propositional Knowledge in Intelligent Path Planning.
+conf/ecai/LentingB94:::Jacques H. J. Lenting::Peter J. Braspenning:::An All-Pay Auction Approach to Reallocation.
+conf/ecai/Hajek82:::Petr Hájek:::Applying Artificial Intelligence to Data Analysis.
+conf/ecai/LarrosaM98:::Javier Larrosa::Pedro Meseguer:::Partial Lazy Forward Checking for MAX-CSP.
+conf/ecai/HosakaOK90:::Junko Hosaka::Kentaro Ogura::Kiyoshi Kogure:::Word Sequence Constraints for Japanese Speech Recognition.
+conf/ecai/AdeRB92:::Hilde Adé::Luc De Raedt::Maurice Bruynooghe:::Inverse Resolution in an Integrated Inductive-Deductive Learning System.
+conf/ecai/Pereira98:::F. Pereira:::Modelling Divergent Production: A multi-domain approach.
+conf/ecai/MartinW88:::Christian Märtin::Klemens Waldhör:::BASAR: A Blackboard Based Software Architecture.
+conf/ecai/SchaubB96:::Torsten Schaub::Stefan Brüning:::Prolog Technology for Default Reasoning (An Abridged Report).
+conf/ecai/Gregoire90:::Éric Grégoire:::Skeptical Inheritance Can Be More Expressive.
+conf/ecai/AngeloMP00:::Antonio D' Angelo::Federico Montesello::Enrico Pagello:::Can Representation be Liberated from Symbolism: Modeling Robot Actions with Roboticles.
+conf/ecai/Macedo98:::Luís Macedo:::A Model for Creative Problem Solving Based on Divergent Production of Solutions.
+conf/ecai/DohertyS88:::B. S. Doherty::J. J. Stuart:::Induction and Dialogue in Specification Formalisation: An Object-Based Approach.
+conf/ecai/BriotC86:::Jean-Pierre Briot::Pierre Cointe:::The OBJVLISP Model: Definition of a Uniform, Reflexive and Extensible Object Oriented Language.
+conf/ecai/PalmaM02:::J. Palma::R. Marín:::Modelling Contextual Meta-Knowledge in Temporal Model Based Diagnosis.
+conf/ecai/HoffmannG92:::Achim G. Hoffmann:::Phenomenology, Representations and Complexity.
+conf/ecai/BarachiniT88:::Franz Barachini::Norbert Theuretzbacher:::PAMELA: An Expert System Technology for Real-Time Control Applications.
+conf/ecai/Tzeng92:::Chun-Hung Tzeng:::Plausible Reasoning in Bayesian Networks.
+conf/ecai/Adey88:::Steve Adey:::High Level Control of Simulated Ships and Aircraft.
+conf/ecai/KatoNNH96:::Tsuneaki Kato::Yukiko I. Nakano::H. Nakajima::Takaaki Hasegawa:::Interactive Multi modal Explanations and their Temporal Coordination.
+conf/ecai/MissierXT94:::Antoine Missier::Spyros Xanthakis::Louise Travé-Massuyès:::Qualitative Algorithmics Using Order of Growth Reasoning.
+conf/ecai/Huntbach86:::Matthew M. Huntbach:::Program Synthesis by Inductive Inference.
+conf/ecai/Veale98:::Tony Veale:::'Just-in-Time' Analogical Reasoning: A Progressive-Deepening Model of Structure-Mapping.
+conf/ecal/Ruiz-MirazoMMPM99:::K. Ruiz-Mirazo::Alvaro Moreno::Federico Morán::Juli Peretó::Juan J. Merelo Guervós:::Designing a Simulation Model of a Self-Maintaining Cellular System.
+conf/ecal/GlotzmannLH03:::Thomas Glotzmann::Holger Lange::Michael Hauhs:::Population Dynamics under Spatially and Temporally Heterogeneous Resource Limitations in Multi-agent Networks.
+conf/ecal/YamamotoK95:::Tomoyuki Yamamoto::Kunihiko Kaneko:::Tile Automaton for Evolution of Metabolism.
+conf/ecal/MusseKT99:::Soraia Raupp Musse::Marcelo Kallmann::Daniel Thalmann:::Level of Autonomy for Virtual Human Agents.
+conf/ecal/KniemeyerBK03:::Ole Kniemeyer::Gerhard H. Buck-Sorlin::Winfried Kurth:::Representation of Genotype and Phenotype in a Coherent Framework Based on Extended L-Systems.
+conf/ecal/LoboGRLG95:::S. Lobo::A. J. García-Tejedor::R. Rodríguez-Galán::Luis López::Ángel García-Crespo:::A Simplification of the Theory of Neural Groups Selection for Adaptive Control.
+conf/ecal/BoerV99:::Bart de Boer::Paul Vogt:::Emergence of Speech Sounds in Changing Population.
+conf/ecal/Seth99:::Anil K. Seth:::Evolving Behavioural Choice: An Investigation into Herrnstein's Matching Law.
+conf/ecal/TokuraIKE01:::Seiji Tokura::Akio Ishiguro::Hiroki Kawai::Peter Eggenberger:::The Effect of Neuromodulations on the Adaptability of Evolved Neurocontrollers.
+conf/ecal/Bongard99:::Josh C. Bongard:::Coevolutionary Dynamics of a Multi-population Genetic Programming System.
+conf/ecal/HashimotoI95:::Takashi Hashimoto::Takashi Ikegami:::Evolution of Symbolic Grammar Systems.
+conf/ecal/WessnitzerM03:::Jan Wessnitzer::Chris Melhuish:::Collective Decision-Making and Behaviour Transitions in Distributed Ad Hoc Wireless Networks of Mobile Robots: Target-Hunting.
+conf/ecal/ForstRW95:::Christian V. Forst::Christian Reidys::Jacqueline Weber:::Evolutionary Dynamics and Optimization: Neutral Networks as Model-Landscapes for RNA Secondary-Structure Folding-Landscapes.
+conf/ecal/DahlG01:::T. S. Dahl::Christophe G. Giraud-Carrier:::Evolution, Adaption, and Behavioural Holism in Artificial Intelligence.
+conf/ecal/MascaroKN01:::Steven Mascaro::Kevin B. Korb::Ann E. Nicholson:::Suicide as an Evolutionarily Stable Strategy.
+conf/ecal/Yagil95:::Gad Yagil:::Complexity Analysis of a Self-organizing vs. a Template-Directed System.
+conf/ecal/KellyHSM99:::Ian Kelly::Owen Holland::Martin Scull::David McFarland:::Artificial Autonomy in the Natural World: Building a Robot Predator.
+conf/ecal/WilkeRM99:::Claus O. Wilke::Christopher Ronnewinkel::Thomas Martinetz:::Molecular Evolution in Time-Dependent Environments.
+conf/ecal/ONeillR99:::Michael O'Neill::Conor Ryan:::Genetic Code Degeneracy: Implications for Grammatical.
+conf/ecal/Belpaeme99:::Tony Belpaeme:::Evolving Visual Feature Detectors.
+conf/ecal/WoodcockH95:::Glenn Woodcock::Paul G. Higgs:::Population Evolution in a Single Peak Fitness Landscape - How High are the Clouds?
+conf/ecal/Mange99:::Daniel Mange:::Towards Robust Bio-inspired Circuits.
+conf/ecal/Sharpe99:::Oliver Sharpe:::Evolution at the Origins of Life: Modelling Simple Persistent Replicating Objects.
+conf/ecal/VaarioS95:::Jari Vaario::Katsunori Shimohara:::On Formation of Structures.
+conf/ecal/Teimoorzadeh95:::Kourosh Teimoorzadeh:::Seeing in the Dark with Artificial Bats.
+conf/ecal/Svatos01:::Václav Svatos:::Behavioural Formation Management in Robotic Soccer.
+conf/ecal/OlteanG03:::Mihai Oltean::Crina Grosan:::Evolving Evolutionary Algorithms Using Multi Expression Programming.
+conf/ecal/SerraVS03:::Roberto Serra::Marco Villani::Alessandro Semeria:::Robustness to Damage of Biological and Synthetic Networks.
+conf/ecal/GutowitzL95:::Howard Gutowitz::Chris Langton:::Mean Field Theory of the Edge of Chaos.
+conf/ecal/AvrahamCR03:::Hezi Avraham::Gal Chechik::Eytan Ruppin:::Are There Representations in Embodied Evolved Agents? Taking Measures.
+conf/ecal/ToddK01:::Peter M. Todd::Simon Kirby:::I Like What I Know: How Recognition-Based Decisions Can Structure the Environment.
+conf/ecal/KumadaU01:::Yoichiro Kumada::Kazuhiro Ueda:::Emergence of Cooperative Tactics by Soccer Agents with Ability of Prediction and Learning.
+conf/ecal/Suzuki01:::Hideaki Suzuki:::String Rewriting Grammar Optimized Using an Evolvability Measure.
+conf/ecal/Rotaru-Varga99:::Ádám Rotaru-Varga:::Modularity in Evolved Artificial Neural Networks.
+conf/ecal/AdamatzkyHRW99:::Andrew Adamatzky::Owen Holland::Nikolay G. Rambidi::A. Winfield:::Wet Artificial Brains: Towards the Chemical Control of Robot Motion by Reaction-Diffusion and Excitable Media.
+conf/ecal/LachmannS95:::Michael Lachmann::Guy Sella:::The Computationally Complete Ant Colony: Global Coordination in a System with No Hierarchy.
+conf/ecal/KvasnickaPK01:::Vladimir Kvasnicka::Jiri Pospíchal::T. Kaláb:::A Study of Replicators and Hypercycles by Typogenetics.
+conf/ecal/Sipper95:::Moshe Sipper:::Quasi-Uniform Computation-Universal Cellular Automata.
+conf/eccb/AritaTA02:::Masanori Arita::Koji Tsuda::Kiyoshi Asai:::Modeling splicing sites with pairwise correlations.
+conf/eccb/HvidstenKKF03:::Torgeir R. Hvidsten::Andriy Kryshtafovych::Jan Komorowski::Krzysztof Fidelis:::A novel approach to fold recognition using sequence-derived properties from sets of structurally similar local fragments of proteins.
+conf/eccb/Miklos03:::István Miklós:::MCMC genome rearrangement.
+conf/eccb/PriceRP03:::Alkes Price::Sriram Ramabhadran::Pavel A. Pevzner:::Finding subtle motifs by branching from sample strings.
+conf/eccb/JungC02:::Ho-Youl Jung::Hwan-Gue Cho:::An automatic block and spot indexing with k-nearest neighbors graph for microarray image analysis.
+conf/eccb/ClareK03:::Amanda Clare::Ross D. King:::Predicting gene function in Saccharomyces cerevisiae.
+conf/eccb/MucksteinHS02:::U. Mückstein::Ivo L. Hofacker::Peter F. Stadler:::Stochastic pairwise alignments.
+conf/eccb/SammethMS03:::Michael Sammeth::Burkhard Morgenstern::Jens Stoye:::Divide-and-conquer multiple alignment with segment-based constraints.
+conf/eccb/CawleyP03:::Simon Cawley::Lior Pachter:::HMM sampling and applications to gene finding and alternative splicing.
+conf/eccb/BazzanESS02:::Ana L. C. Bazzan::Paulo Martins Engel::Luciana F. Schroeder::Sérgio C. da Silva:::Automated annotation of keywords for proteins related to mycoplasmataceae using machine learning techniques.
+conf/ecbs/GurpB00:::Jilles van Gurp::Jan Bosch:::SAABNet: Managing Qualitative Knowledge in Software Architecture Assessment.
+conf/ecbs/KowalczykFSBER02:::Ryszard Kowalczyk::Bogdan Franczyk::Andreas Speck::Peter Braun II::Jan Eismann::Wilhelm Rossak:::InterMarket - Towards Intelligent Mobile Agent e-Marketplaces.
+conf/ecbs/Guo01:::Jiang Guo:::Software Components Adaptive Integration.
+conf/ecbs/Guo03:::Jiang Guo:::An Approach for Modeling and Designing Software Architecture.
+conf/ecbs/MelhartW00:::Bonnie E. Melhart::Stephanie White:::Issues in Defining, Analyzing, Refining, and Specifying System Dependability Requirements.
+conf/ecbs/Hammer97:::Dieter K. Hammer:::The many aspects of an IT-architecture.
+conf/ecbs/PikoulasBMT02:::J. Pikoulas::William J. Buchanan::Mike Mannion::K. Triantafyllopoulos:::An Intelligent Agent Security Intrusion System.
+conf/ecbs/MorelA03:::Brandon Morel::Perry Alexander:::A Slicing Approach for Parallel Component Adaptation.
+conf/ecbs/Schaffer97:::Christoph Schaffer:::CASA: Computer Aided Systems Architecting.
+conf/ecbs/KeepenceM97:::Barry Keepence::Mike Mannion:::Complex systems.
+conf/ecbs/ShehataE03:::Mohamed Shehata::Armin Eberlein:::Requirements Interaction Detection Using Semi-Formal Methods.
+conf/ecbs/KlotchkovP96:::Ilya V. Klotchkov::S. Pedersen:::A Codesign Case Study: Implementing Arithmetic Functions in FPGA's.
+conf/ecbs/Voevudko99:::Anatoly E. Voevudko:::Steps Toward Next Generation Computer Based Systems.
+conf/ecbs/BraunEER01:::Peter Braun II::Jan Eismann::Christian Erfurth::Wilhelm Rossak:::TRACY - A Prototype of an Architected Middleware to support Mobile Agents.
+conf/ecbs/BrielmannR96:::Maria Brielmann::Franz-Josef Rammig:::Evaluating Hardware Design Principles for the Development of Computer Based Systems.
+conf/ecbs/CunningEORS99:::S. J. Cunning::T. C. Ewing::J. T. Olson::Jerzy W. Rozenblit::Stephan Schulz II:::Towards an Integrated, Model-Based Codesign Environment.
+conf/ecbs/SprinkleALSK03:::Jonathan Sprinkle::Aditya Agrawal::Tihamer Levendovszky::Feng Shi::Gabor Karsai:::Domain Model Translation Using Graph Transformations.
+conf/ecbs/LedecziMKN99:::Ákos Lédeczi::Miklos Maroti::Gabor Karsai::Greg Nordstrom:::Metaprogrammable Toolkit for Model-Integrated Computing.
+conf/ecbs/PikoulasMB00:::J. Pikoulas::Mike Mannion::William J. Buchanan:::Software Agents and Computer Network Security.
+conf/ecbs/MisraKSLML97:::Amit Misra::Gabor Karsai::Janos Sztipanovits::Ákos Lédeczi::Michael Moore::Earl Long:::A model-integrated information system for increasing throughput in discrete manufacturing.
+conf/ecbs/Altenbernd97:::Peter Altenbernd:::CHaRy: the C-LAB hard real-time system to support mechatronical design.
+conf/ecbs/SchatzBHW03:::Bernhard Schätz::Peter Braun::Franz Huber::Alexander K. Wisspeintne:::Consistency in Model-Based Development.
+conf/ecbs/KasztennyR97:::Bogdan Kasztenny::Eugeniusz Rosolowski:::A digital protective relay as a real-time microprocessor system.
+conf/ecbs/RajkhowaA99:::Amitvikram Rajkhowa::Perry Alexander:::VSPEC Constraints Modeling and Evaluation.
+conf/ecbs/ONeillL01:::Tim O'Neill::John Leaney:::Risk Management for an Open CBS Project.
+conf/ecbs/KongA03:::Cindy Kong::Perry Alexander:::The Rosetta Meta-Model Framework.
+conf/ecbs/ParetsT96:::José Parets-Llorca::Juan Carlos Torres:::Software Maintenance versus Software Evolution: An Approach to Software Systems Evolution.
+conf/ecbs/RoweL97:::David Rowe::John Leaney:::Evaluating evolvability of computer based systems architectures-an ontological approach.
+conf/ecbs/LaviMP97:::Jonah Z. Lavi::Bonnie E. Melhart::Ian Pyle:::Engineering of computer-based systems-a proposed curriculum for a degree program at Master level.
+conf/ecbs/KobayashiM01:::Atsushi Kobayashi::Mamoru Maekawa:::Need-Based Requirements Change Management.
+conf/ecbs/NewtonM01:::Michael Newton::Bonnie E. Melhart:::Implementation of Object-Oriented Protocol Agents in Communication Devices.
+conf/ecbs/BoschM99:::Jan Bosch::Peter Molin:::Software Architecture Design: Evaluation and Transformation.
+conf/ecbs/RangarajanJRA02:::Murali Rangarajan::Kshama Jambhekar::Amitvikram Rajkhowa::Perry Alexander:::VSPEC and Its Integrated Tool Suite.
+conf/ecbs/LongM97:::Earl Long::Amit Misra:::A model-based engineering process for increasing productivity in discrete manufacturing.
+conf/ecbs/FlorioD02a:::Vincenzo De Florio::Geert Deconinck:::REL: A Fault Tolerance Linguistic Structure for Distributed Applications.
+conf/ecbs/Mauerkirchner97:::Manfred Mauerkirchner:::Event Based Modeling and Control of Software Development Processes.
+conf/ecbs/DongRS03:::Yifei Dong::C. R. Ramakrishnan::Scott A. Smolka:::Model Checking and Evidence Exploration.
+conf/ecbs/Sveda96:::Miroslav Svéda:::Embedded system design: a case study.
+conf/ecbs/KuloorE03:::Chethana Kuloor::Armin Eberlein:::Aspect-Oriented Requirements Engineering for Software Product Lines.
+conf/ecbs/OlarnsakulB00:::Mathee Olarnsakul::Dentcho N. Batanov:::Component Coordination Model for Customization and Composition of Component-Based System Design.
+conf/ecbs/Dalcher00a:::Darren Dalcher:::Smooth Seas - Rough Sailing: The Case of the Lame Ship.
+conf/ecbs/CarnesMS96:::J. R. Carnes::Amit Misra::Janos Sztipanovits:::Model-integrated toolset for fault detection, isolation and recovery (FDIR).
+conf/ecbs/PhilippowR01:::Ilka Philippow::Matthias Riebisch:::Systematic Definition of Reusable Architectures.
+conf/ecbs/DvorakC00:::Vaclav Dvorak::Rudolf Cejka:::A Choice of SM/DM Parallel ANN Implementation for Embedded Applications.
+conf/eccv/Pentland92:::Alex Pentland:::Surface Interpolation Using Wavelets.
+conf/eccv/BorriBN94:::A. Borri::Giacomo Bucci::Paolo Nesi:::A Robust Tracking of 3D Motion.
+conf/eccv/HagerT96:::Gregory D. Hager::Kentaro Toyama:::X Vision: Combining Image Warping and Geometric Constraints for Fast Visual Tracking.
+conf/eccv/IraniA00:::Michal Irani::P. Anandan:::Factorization with Uncertainty.
+conf/eccv/OhtaK98:::Naoya Ohta::Ken-ichi Kanatani:::Optimal Estimation of Three-Dimensional Rotation and Reliability Evaluation.
+conf/eccv/Senegas02:::Julien Sénégas:::A Markov Chain Monte Carlo Approach to Stereovision.
+conf/eccv/Marie-JulieE98:::Jean Michel Marie-Julie::Hassane Essafi:::Using Ifs and Moments to Build a Quasi Invariant Image Index.
+conf/eccv/SmelyanskyMKMC02:::Vadim N. Smelyansky::Robin D. Morris::F. O. Kuehnel::David A. Maluf::Peter Cheeseman:::Dramatic Improvements to Feature Based Stereo.
+conf/eccv/PeronaF98:::Pietro Perona::William T. Freeman:::A Factorization Approach to Grouping.
+conf/eccv/KnightR00:::Joss Knight::Ian D. Reid:::Binocular Self-Alignment and Calibration from Planar Scenes.
+conf/eccv/Gavrila00:::Dariu Gavrila:::Pedestrian Detection from a Moving Vehicle.
+conf/eccv/Hartley94:::Richard I. Hartley:::Self-Calibration from Multiple Views with a Rotating Camera.
+conf/eccv/XuV94:::Chengping Xu::Sergio A. Velastin:::A Comparison Between the Standard Hough Transform and the Mahalanobis Distance Hough Transform.
+conf/eccv/RajaMG98:::Yogesh Raja::Stephen J. McKenna::Shaogang Gong:::Colour Model Selection and Adaption in Dynamic Scenes.
+conf/eccv/LiuW98:::Chengjun Liu::Harry Wechsler:::Face Recognition Using Evolutionary Pursuit.
+conf/eccv/Walker90:::Nicholas Walker:::Using Neural Networks to Learn Shape Decomposition by Successive Prototypication.
+conf/eccv/PoelmanK94:::Conrad J. Poelman::Takeo Kanade:::A Paraperspective Factorization Method for Shape and Motion Recovery.
+conf/eccv/SullivanBR00:::Josephine Sullivan::Andrew Blake::Jens Rittscher:::Statistical Foreground Modelling for Object Localisation.
+conf/eccv/HartleyK02:::Richard I. Hartley::Robert Kaucic:::Sensitivity of Calibration to Principal Point Position.
+conf/eccv/DaniilidisN90:::Konstantinos Daniilidis::Hans-Hellmut Nagel:::Analytical Results on Error Sensitivity of Motion Estimation from Two Views.
+conf/eccv/DaniilidisT96:::Konstantinos Daniilidis::Inigo Thomas:::Decoupling the 3D Motion Space by Fixation.
+conf/eccv/CootesT96:::Timothy F. Cootes::Christopher J. Taylor:::Locating Objects of Varying Shape Using Statistical Feature Detectors.
+conf/eccv/ForsythMFGLBCB96:::David A. Forsyth::Jitendra Malik::Margaret M. Fleck::Hayit Greenspan::Thomas K. Leung::Serge Belongie::Chad Carson::Christoph Bregler:::Finding Pictures of Objects in Large Collections of Images.
+conf/eccv/WangSN02:::Bing Wang::Kah Kay Sung::Teck Khim Ng:::The Localized Consistency Principle for Image Matching under Non-uniform Illumination Variation and Affine Distortion.
+conf/eccv/IsardB98:::Michael Isard::Andrew Blake:::A Smoothing Filter for CONDENSATION.
+conf/eccv/FusielloCRM02:::Andrea Fusiello::Umberto Castellani::Lucca Ronchetti::Vittorio Murino:::Model Acquisition by Registration of Multiple Acoustic Range Views.
+conf/eccv/Harris90:::Chris Harris:::Structure-from-Motion under Orthographic Projection.
+conf/eccv/KirchbergJF02:::Klaus J. Kirchberg::Oliver Jesorsky::Robert Frischholz:::Genetic Model Optimization for Hausdorff Distance-Based Face Localization.
+conf/eccv/KazhdanCDFF02:::Michael M. Kazhdan::Bernard Chazelle::David P. Dobkin::Adam Finkelstein::Thomas A. Funkhouser:::A Reflective Symmetry Descriptor.
+conf/eccv/FitzgibbonF94:::Andrew W. Fitzgibbon::Robert B. Fisher:::Lack-of-fit Detection using the Run-distribution Test.
+conf/eccv/ElgammalHD00:::Ahmed M. Elgammal::David Harwood::Larry S. Davis:::Non-parametric Model for Background Subtraction.
+conf/eccv/Quan94:::Long Quan:::Invariants of 6 Points from 3 Uncalibrated Images.
+conf/eccv/BarnardMF00:::Kobus Barnard::Lindsay Martin::Brian V. Funt:::Colour by Correlation in a Three-Dimensional Colour Space.
+conf/eccv/GeyerD00:::Christopher Geyer::Konstantinos Daniilidis:::A Unifying Theory for Central Panoramic Systems and Practical Applications.
+conf/eccv/GrimsonH90:::W. Eric L. Grimson::Daniel P. Huttenlocher:::On the Verification of Hypthesized Matches in Model-Based Recognition.
+conf/eccv/WolfZ02:::Lior Wolf::Assaf Zomet:::Sequence-to-Sequence Self Calibration.
+conf/eccv/Leavers90:::Violet F. Leavers:::The Dynamic Generalized Hough transform.
+conf/eccv/Garding92:::Jonas Gårding:::Shape from Texture for Smooth Curved Surfaces.
+conf/eccv/Ayoung-CheeDF96:::Nigel Ayoung-Chee::Gregory Dudek::Frank P. Ferrie:::A Hybrid Approach to 3D Representation.
+conf/eccv/NowakFP92:::Andrzej Nowak::Andrzej Florek::Tomasz Piascik:::Edge tracing in a priori known direction.
+conf/eccv/TunleyY94:::H. Tunley::D. Young:::First Order Optic Flow from Log-Polar Sampled Images.
+conf/eccv/IraniRP92:::Michal Irani::Benny Rousso::Shmuel Peleg:::Detecting and Tracking Multiple Moving Objects Using Temporal Integration.
+conf/eccv/TaubinZG96:::Gabriel Taubin::Tong Zhang::Gene H. Golub:::Optimal Surface Smoothing as Filter Design.
+conf/eccv/DerouH94:::Dominique Derou::Laurent Hérault:::Pulsed neural networks and perceptive grouping.
+conf/eccv/CrowleyBM92:::James L. Crowley::Philippe Bobet::Mouafak Mesrabi:::Gaze Control for a Binocular Camera Head.
+conf/eccv/WildesB00:::Richard P. Wildes::James R. Bergen:::Qualitative Spatiotemporal Analysis Using an Oriented Energy Representation.
+conf/eccv/ReidZ96:::Ian D. Reid::Andrew Zisserman:::Goal-directed Video Metrology.
+conf/eccv/Steger96:::Carsten Steger:::Extracting Curvilinear Structures: A Differential Geometric Approach.
+conf/eccv/LuongV94:::Quang-Tuan Luong::Thierry Vieville:::Canonic Representations for the Geometries of Multiple Projective Views.
+conf/eccv/KliotR98:::Michael Kliot::Ehud Rivlin:::Invariant-Based Shape Retrieval in Pictorial Databases.
+conf/eccv/PetrouMC98:::Maria Petrou::Majid Mirmehdi::M. Coors:::Perceptual Smoothing and Segmentation of Colour Textures.
+conf/eccv/HoraudVS90:::Radu Horaud::Francoise Veillon::Thomas Skordas:::Finding Geometric and Relational Structures in an Image.
+conf/eccv/KoenderinkD02:::Jan J. Koenderink::Andrea J. van Doorn:::Image Processing Done Right.
+conf/eccv/TorreB02:::Fernando de la Torre::Michael J. Black:::Robust Parameterized Component Analysis.
+conf/eccv/Younes00:::Laurent Younes:::Calibrating Parameters of Cost Functionals.
+conf/eccv/BurlWP98:::Michael C. Burl::Markus Weber::Pietro Perona:::A Probabilistic Approach to Object Recognition Using Local Photometry and Global Geometry.
+conf/eccv/ShashuaA96:::Amnon Shashua::Shai Avidan:::The Rank 4 Constraint in Multiple (&gt;=3) View Geometry.
+conf/eccv/BrunnstromLE92:::Kjell Brunnström::Tony Lindeberg::Jan-Olof Eklundh:::Active Detection and Classsification of Junctions by Foveation with a Head-Eye System Guided by the Scale-Space Primal Sketch.
+conf/eccv/GoolMU96:::Luc J. Van Gool::Theo Moons::Dorin Ungureanu:::Affine/ Photometric Invariants for Planar Intensity Patterns.
+conf/eccv/BarlaOV02:::Annalisa Barla::Francesca Odone::Alessandro Verri:::Hausdorff Kernel for 3D Object Acquisition and Detection.
+conf/eccv/FreixenetMRMC02:::Jordi Freixenet::Xavier Muñoz::D. Raba::Joan Martí::Xavier Cufí:::Yet Another Survey on Image Segmentation: Region and Boundary Information Integration.
+conf/eccv/LangerZ94:::Michael S. Langer::Steven W. Zucker:::Spatially Varying Illumination: A Computational Model of Converging and Diverging Sources.
+conf/eccv/KolmogorovZ02a:::Vladimir Kolmogorov::Ramin Zabih:::Multi-camera Scene Reconstruction via Graph Cuts.
+conf/eccv/ZhouC02:::Shaohua Zhou::Rama Chellappa:::Probabilistic Human Recognition from Video.
+conf/eccv/Hel-OrW94:::Yaacov Hel-Or::Michael Werman:::Model Based Pose Estimation of Articulated and Constrained Objects.
+conf/eccv/VarmaZ02:::Manik Varma::Andrew Zisserman:::Classifying Images of Materials: Achieving Viewpoint and Illumination Independence.
+conf/eccv/GardingPFM96:::Jonas Gårding::John Porrill::John P. Frisby::John E. W. Mayhew:::Uncalibrated Relief Reconstruction and Model Alignment from Binocular Disparities.
+conf/eccv/Malik96:::Jitendra Malik:::On Binocularly Viewed Occlusion Junctions.
+conf/eccv/MatsunagaK00:::Chikara Matsunaga::Ken-ichi Kanatani:::Calibration of a Moving Camera Using a Planar Pattern: Optimal Computation, Relibility Evaluation, and Stabilization by Model Selection.

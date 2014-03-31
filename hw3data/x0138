@@ -1,0 +1,200 @@
+conf/icpads/HwangCD97:::Wu-Yuin Hwang::Wen-Tsuen Chen::Yao-Wen Deng:::A High-Performance ATM Switch with Completely and Fairly Shared Buffers.
+conf/icpads/InoueFKJSYN01:::Haruki Inoue::Yutaka Funyu::Kiyotaka Kishino::Tsuyoshi Jinguji::Masami Shiozawa::Satoru Yoshikawa::Takashi Nakao:::Development of Artificial Life Based Optimization System.
+conf/icpads/ChungPC97:::Yoojin Chung::Kunsoo Park::Yookun Cho:::Parallel Maximum Matching Algorithms in Interval Graphs.
+conf/icpads/ZhangD94:::Fubo Zhang::Erik H. D'Hollander:::Extracting the Parallelism in Program with Unstructured Control Statements.
+conf/icpads/WeddeLE94:::Horst Wedde::Jon A. Lind::A. Eiss:::Achieving Dependability in Mission-Critical Operating Systems Through Adaptability and Large-Scale Functional Integration.
+conf/icpads/ChangSC00:::Chih-Yung Chang::Jang-Ping Sheu::Hsi-Chiuen Chen:::Reducing Cache Conflicts by Multi-Level Cache Partitioning and Array Elements Mapping.
+conf/icpads/TsaiL94:::W.-J. Tsai::Suh-Yin Lee:::Storage Design and Retrieval of Continuous Multimedia Data Using Multi-Disks.
+conf/icpads/LeeCPK00:::Chang-Kyu Lee::Jong Hyuk Choi::Kyu Ho Park::Bong Wan Kim:::Fast &amp; Cost Effective Cache Invalidation in DSM.
+conf/icpads/LeeHCW00:::Chungnan Lee::MinHong Horng::Chuanwen Chiang::JiingKae Wu:::A Competence-Based Scheduling Method for Web Computing.
+conf/icpads/PanaiteP97:::Petrisor Panaite::Andrzej Pelc:::Universally Fault-Tolerant Broadcasting in Trees.
+conf/icpads/HardjonoC98:::Thomas Hardjono::Brad Cain:::Secure and Scalable Inter-Domain Group Key Management for N-to-N Multicast.
+conf/ieaaie/Bala90:::Jerzy Bala:::Combining Structural and Statistical Features in a Machine Learning Technique for Texture Classification.
+conf/ieaaie/GrylG95:::Agnès Gryl::Marie-Rose Gonçalves:::Spatial Representations and Route Descriptions.
+conf/ieaaie/CadeiLS90:::Mauro Cadei::Marco Lazzari::Paolo Salvaneschi:::Safety Management of Civil Structures Using Knowledge Based Systems.
+conf/ieaaie/BaelR99:::Patrick van Bael::Marcel Rijckaert:::Scheduling of a Production Unit via Critical Block Neighbourhood Structures.
+conf/ieaaie/Diaz98:::Roberto Moreno-Díaz:::Neurocybernetics, Codes and Computation.
+conf/ieaaie/Gunay00:::Cengiz Günay:::Agent Architecture: Using Java Exeptions in a Nonstandard Way and an Object Oriented Approach to Evolution of Intelligence.
+conf/ieaaie/CuiZ00:::Yi Cui::Nan Zhou:::Blob Analysis Using Watershed Transformation.
+conf/ieaaie/AraujoPV01:::Rodrigo Hermes de Araújo::Osmar Possamai::Luiz Dalla Valentina:::Knowledge Decomposition for Conceptual Product Design: An Approach to Develop Specific Domain Expert Systems for Supporting Concurrent Engineering Projects.
+conf/ieaaie/YangOFZ03:::Chunsheng Yang::Robert Orchard::Benoit Farley::Marvin Zaluski:::Automated Case Base Creation and Management.
+conf/ieaaie/SkrjancM98:::Igor Skrjanc::Drago Matko:::Fuzzy Adaptive Control of the Highly Nonlinear Heat-Exchanger Plant.
+conf/ieaaie/YangPKL01:::Chunsheng Yang::Sieu Phan::Pikuei Kuo::Fuhua Oscar Lin:::Applying Collision Avoidance Expert System to Navigation Training Systems as an Intelligent Tutor.
+conf/ieaaie/RoyerMM90:::J. C. Royer::A. Merle::C. de Sainte Marie:::An Application of Machine Learning to the Problem of Parameter Setting in Non-Destructive Testing.
+conf/ieaaie/HerreroM98:::Juan Carlos Herrero::José Mira:::In Search of a Common Structure Underlying a Representative Set of Generic Tasks and Methods: The Hierarchical Classification and Therapy Planning Cases Study.
+conf/ieaaie/GeHD01:::Zhi-Hua Ge::Zhong-He Han::Chang-Fu Ding:::Non-linear Prediction of Vibration Series for Turbogenerator Unit.
+conf/ieaaie/MostafaSDF99:::Khaled Mostafa::Samir I. Shaheen::Ahmed M. Darwish::Ibrahim Farag:::A Novel Approach for Detecting and Correcting Segmentation and Recognition Errors in Arabic OCR Systems.
+conf/ieaaie/TreadgoldG98:::Nick K. Treadgold::Tamás D. Gedeon:::Constructing Higher Order Neurons of Increasing Complexity in Cascade Networks.
+conf/ieaaie/MurayamaKI89:::Takahiko Murayama::Kazuhiko Kushima::Shoichiro Ishigaki:::An inference mechanism suited for real-time control.
+conf/ieaaie/ShapiroM90:::Jonathan Shapiro::P. H. Mowforth:::Data Fusion in 3D Through Surface Tracking.
+conf/ieaaie/BelliJ94:::Fevzi Belli::Oliver Jack:::An Environment for Self-Testing of Logic Programs.
+conf/ieaaie/HuS90:::Gongzhu Hu::Neelima Shrikhande:::Fusion of Gray Scale and Light Striping in 2-D Feature Extraction.
+conf/ieaaie/KeA88:::Min Ke::Moonis Ali:::MLS, a Machine Learning System for Engine Fault Diagnosis.
+conf/ieaaie/Kim03:::Dohoon Kim:::An Application of Genetic Algorithm to Hierarchical Configuration of ATM Internetworking Domain with a Special Constraint for Scalable Broadcasting.
+conf/ieaaie/LiD03:::Hailin Li::Cihan H. Dagli:::Hybrid Least-Squares Methods for Reinforcement Learning.
+conf/ieaaie/Liu03:::Qing Liu:::Granules and Reasoning Based on Granular Computing.
+conf/ieaaie/HamdiK99:::Mohamed Salah Hamdi::Karl Kaiser:::Synthesizing Intelligent Behaviour: A Learning Paradigm.
+conf/ieaaie/LuS95:::Wei Lu::Masao Sakauchi:::A New Algorithm for Handling Continuous-Valued Attributes in Decision Tree Generation and its Application to Drawing Recognition.
+conf/ieaaie/Hung88:::S. H. Y. Hung:::A Practical Approach of 3-D Object Recognition in Range Data.
+conf/ieaaie/BastaniC88:::Farokh B. Bastani::Ing-Ray Chen:::The Role of Artificial Intelligence in Fault-Tolerant Process-Control Systems.
+conf/ieaaie/ZhouJYC02:::Zhi-Hua Zhou::Yuan Jiang::Xu-Ri Yin::Shi-Fu Chen:::The Application of Visualization and Neural Network Techniques in a Power Transformer Condition Monitoring System.
+conf/ieaaie/KoCL03:::Su-Jeong Ko::Jun Hyeog Choi::Jung-Hyun Lee:::Bayesian Web Document Classification through Optimizing Association Word.
+conf/ieaaie/LeusDOC01:::Matty Leus::Dwight Deugo::Franz Oppacher::Robert Cattral:::GAs and Financial Analysis.
+conf/ieaaie/LohH02:::Gabriel H. Loh::Dana S. Henry:::Applying Machine Learning for Ensemble Branch Predictors.
+conf/ieaaie/KitoHM90:::Shigeharu Kito::Tadashi Hattori::Yuichi Murakami:::A Knowledge Representation for Use of Catalyst Activity Patterns.
+conf/ieaaie/KettelerL92:::Guardian Ketteler::Mihaly Lenart:::The Design of Building Parts by Using Knowledge Based Systems.
+conf/ieaaie/KoenigC89:::Anne Koenig::Elisabeth Crochon:::Temporal reasoning in TRAM.
+conf/ieaaie/ShivathayaFW95:::S. S. Shivathaya::X. D. Fang::J. G. Williams:::Fuzzy Logic Applications in Iron and Steel Making.
+conf/ieaaie/NakpalohpoFB89:::I. K. Nakpalohpo::T. N. Faddis::B. G. Barr:::Development and integration of the KUCIM vertical machining workstation for the automated manufacture of prismatic parts.
+conf/ieaaie/StergiouPGA00:::Christos Stergiou::Jeremy Pitt::Frank Guerin::Alexander Artikis:::Implementing Multi-party Agent Conversations.
+conf/ieaaie/GonzalezA94:::Avelino J. Gonzalez::Robert H. Ahlers:::A Novel Paradigm for Representing Tactical Knowledge in Intelligent simulated Opponents.
+conf/ieaaie/StobartS90:::R. K. Stobart::Nigel Shadbolt:::Process Control Supervision Using Qualitative Models.
+conf/ieaaie/Freisleben92:::Bernd Freisleben:::Stock Market Prediction with Backpropagation Networks.
+conf/ieaaie/ChanderSR99:::P. Gokul Chander::Rajjan Shinghal::Thiruvengadam Radhakrishnan:::Incremental and Integrated Evaluation of Rule-Based Systems.
+conf/ieaaie/SellamiJ99:::Hedia Mhiri Sellami::Ali Jaoua:::Non-supervised Rectangular Classification of Binary Data.
+conf/ieaaie/JeyasuryaV90:::B. Jeyasurya::S. S. Venkata:::A Knowledge-Based Approach for Power System Dynamic Security Assessment.
+conf/ieaaie/WeeK90:::William G. Wee::Srinivas Krovvidy:::A Knowledge Based Planning Approach for Waste Water Treatment System.
+conf/ieaaie/MillsSWFOJB89:::J. Mills::Y. Sekine::E. Wysocki::W. Furth::K. Otwell::S. Jameson::A. Burzio:::Planning as feedback to designers.
+conf/ieaaie/SmithSL90:::William A. Smith Jr.::John C. Sutton::Jong-Shin Liau:::A Multiple Perspective Printed Circuit Board Design Guide: Expert System Prototype.
+conf/ieaaie/YaoK95:::Xin Yao::Nitin Kanani:::Call Routing by Simulated Annealing.
+conf/ieaaie/MacGregorVTi89:::D. MacGregor::W. Valenta::B. E. Tonn::R. T. Goeltz:::Embedded training in AI technology through an expert system interface: an alarm processor application.
+conf/ieaaie/Prasad88:::B. G. Prasad:::An Expert Database for Material and Production Planning.
+conf/ieaaie/SalamiC95:::Mehrdad Salami::Greg Cain:::Adaptive Hardware Optimization Based on Genetic Algorithms.
+conf/ieaaie/Apostolos88:::Margo K. Apostolos:::A Comparison of the Artistic Aspects of Various Industrial Robots.
+conf/ieaaie/CopelandH98:::Howard Copeland::Tim Hendtlass:::An Evolutionary Algorithm with a Genetic Encoding Scheme.
+conf/ieaaie/MalhotraS92:::Prem Malhotra::Rudolph E. Seviora:::Object Oriented Framework for Generating Machine Understanding of a Digital System Design.
+conf/ieaaie/HendersonPMH98:::C. E. Henderson::Walter D. Potter::R. W. McClendon::Gerrit Hoogenboom:::Using a Genetic Algorithm to Select Parameters for a Neural Network That Predicts Aflatoxin Contamination in Peanuts.
+conf/ieaaie/SendeljD99:::Ramo Sendelj::Vladan Devedzic:::Representational Hierarchy of Fuzzy Logic Concepts in the OBOA Model.
+conf/ieaaie/SeligJ90:::William J. Selig::James D. Johannes:::Reasoning Visualization in Expert Systems - The Applicability of Algorithm Animation Techniques.
+conf/ieaaie/FrosiniP00:::Lucia Frosini::Giovanni Petrecca:::Black-Box Identification of the Electromagnetic Torque of Induction Motors: Polynomial and Neural Models.
+conf/ieaaie/TurmoR01:::J. Turmo::Horacio Rodríguez:::Selecting a Relevant Set of Examples to Learn IE-Rules.
+conf/ieaaie/Arbernethy88:::K. Arbernethy:::An Approach to Articulating Expert System Rule Bases.
+conf/ieaaie/El-SheikhS99:::Eman El-Sheikh::Jon Sticklen:::Leveraging a Task-Specific Approach for Intelligent Tutoring System Generation: Comparing the Generic Tasks and KADS Frameworks.
+conf/ieaaie/BertDLGI88:::M. N. Bert::M. L. Demarie::Antonio Di Leva::P. Giolito::P. Ivaldi:::Rule Management for Heterogeneous Knowledge-Based Systems.
+conf/ieaaie/GarciaMF00:::Ana Cristina Bicharra Garcia::Paula Marisa Maciel::Inhaúma Neves Ferraz:::ADDGEO: An Intelligent Agent to Assist Geologist Finding Petroleum in Offshore Lands.
+conf/ieaaie/MateisSW00:::Cristinel Mateis::Markus Stumptner::Franz Wotawa:::Locating Bugs in Java Programs - First Results of the Java Diagnosis Experiment Project.
+conf/ieaaie/BonaniCC88:::Luca Bonani::Paolo Calvo::Giovanni Contri:::GTEX - A Group Technology Expert System.
+conf/ieaaie/BhatiaS94:::Sanjiv K. Bhatia::Chaman L. Sabharwal:::A Fast Perfect Hash Function for Image Databases.
+conf/ieaaie/FelfernigFJRZ03:::Alexander Felfernig::Gerhard Friedrich::Dietmar Jannach::Christian Russ::Markus Zanker:::Developing Constraint-Based Applications with Spreadsheets.
+conf/ieaaie/ZalikGV92:::Borut Zalik::Nikola Guid::Aleksander Vesel:::Representing Geometric Objects Using Constraint Description Graphs.
+conf/ieaaie/BhattGM88:::R. Bhatt::D. Gaw::A. Maystel:::Autonomous Robot Controller with a Dual Strategy of Decision Making.
+conf/ieaaie/ChenARH90:::Yong C. Chen::H. Abramowitz::J. Ricketts::J. Hevezi:::Expert System for Blast Furnace Operation.
+conf/ieaaie/SteinC98:::Benno Stein::Daniel Curatolo:::Selection of Numerical Methods in Specific Simulation Applications.
+conf/ieaaie/GonzalezJA98:::Carlos Alonso González::Belarmino Pulido Junquera::Gerardo Acosta:::On Line Industrial Diagnosis: An Attempt to Apply Artificial Intelligence Techniques to Process Control.
+conf/ieaaie/OhyaDD90:::Jun Ohya::Daniel DeMenthon::Larry S. Davis:::Recognizing Objects in Range Images and Finding Their Position in Space.
+conf/ieaaie/FeradayHSBL00:::Simon Feraday::Chris Harris::Kihong Shin::Mike Brennan::Malcolm Lindsay:::The Use of AI Methods for Evaluating Condition Dependent Dynamic Models of Vehicle Brake Squeal.
+conf/ieaaie/XuIJK98:::Z. X. Xu::K. Ito::K. Jinno::T. Kojiri:::Development of a Decision Support for Integrated Water Management in River Basins.
+conf/ieaaie/Omelayenko01:::Borys Omelayenko:::Ontology Integration Tasks in Business-to-Business E-Commerce.
+conf/ieaaie/JungLPK03:::Sung-Won Jung::Won-Hee Lee::Sang-Kyu Park::Hyuk-Chul Kwon:::Extraction of Meaningful Tables from the Internet Using Decision Trees.
+conf/ieaaie/JungSPK02:::Sung-Won Jung::Kyung-Hee Sung::Tae-Won Park::Hyuk-Chul Kwon:::Effective Retrieval of Information in Tables on the Internet.
+conf/ieaaie/Zeiler92:::Ir. W. Zeiler:::Towards a Real CAD-system using AI technology.
+conf/ieaaie/Sewisy00:::Adel A. Sewisy:::Detection of Circular Object with a High Speed Algorithm.
+conf/ieaaie/MillikenFKW88:::Keith R. Milliken::Allan J. Finkel::David A. Klein::Norman B. Waite:::Adding Rule-Based Techniques to Procedural Languages.
+conf/ieaaie/Gamble90:::Rose F. Gamble:::Transforming Rule-Based Programs: From the Sequential to the Parallel.
+conf/ieaaie/Vanwelkenhuysen92:::Johan Vanwelkenhuysen:::Scaling-up Model-Based Troubleshooting by Exploiting Design Functionalities.
+conf/ieaaie/BlascoMSS98:::Xavier Blasco Ferragud::Miguel Andres Martínez Iranzo::Juan S. Senent Español::Javier Sanchis:::Generalized Predictive Control Using Genetic Algorithms (GAGPC). An Application to Control of a Non-linear Process with Model Uncertainty.
+conf/ieaaie/Lalitrojwong00:::Pattarachai Lalitrojwong:::CIM - The Hybrid Symbolic/Connectionist Rule-Based Inference System.
+conf/ieaaie/Sawar95:::Mohammad Jamil Sawar:::A Learning Apprentice Architecture for Industrial Control and Decision Support.
+conf/ieaaie/LeeCH00:::Hahn-Ming Lee::Chih-Ming Chen::Cheng-Wei Hwang:::A Neural Network Document Classifier with Linguistic Feature Selection.
+conf/ieaaie/SantosVR02:::Jorge Santos::Zita A. Vale::Carlos Ramos:::On the Verification of an Expert System: Practical Issues.
+conf/ieaaie/VakilZ88:::D. Vakil::M. R. Zargham:::An Expert System for Channel Routing.
+conf/ieaaie/FailliD01:::F. Failli::Gino Dini:::Optimization of Disassembly Sequences for Recycling of End-of-Life Products by Using a Colony of Ant-Like Agents.
+conf/ieaaie/CartmellFF90:::M. Cartmell::P. Fothergill::J. Forster:::Design Methodologies in Mechanical Engineering Supported by Artificial Intelligence Techniques.
+conf/ieaaie/SanchezPF98:::José Salvador Sánchez::Filiberto Pla::Francese J. Ferri:::From the Nearest Neighbour Rule to Decision Trees.
+conf/ieaaie/SanchezPP98:::Mónica Sánchez::Francesc Prats::Núria Piera:::Negligibility Relations between Real Numbers and Qualitative Labels.
+conf/ieaaie/SchmalenbachH95:::Jobst H. Schmalenbach::Simon D. Hill:::An On-Line Design System for Fuzzy Controllers.
+conf/ieaaie/HeerenS02:::Frank Heeren::Wilfried Sihn:::Message Analysis for the Recommendation of Contact Persons within Defined Subject Fields.
+conf/ieaaie/HarmelenM99:::Frank van Harmelen::Jos van der Meer:::WebMaster: Knowledge-Based Verification of Web-Pages.
+conf/ieaaie/Karasik00:::Y. B. Karasik:::Inventiveness as Belief Revision and a Heuristic Rule of Inventive Design.
+conf/ieaaie/Phillips88:::D. Phillips:::Using a Top-Down and Bottom-Up Strategy to Analyze High Resolution Aerial Photographs of Urban Areas.
+conf/ieaaie/Larner90:::Daniel L. Larner:::A Distributed, Operating System Based, Blackboard Architecture for Real-Time Control.
+conf/ieaaie/Cannard95:::M. J. Cannard:::Telstra's AVCORD: A Novel Approach to Large Scale Knowledge Acquisition and Rule Processing.
+conf/ieaaie/HanomoloK95:::Daniela Andreia Hanomolo::Michel Kinnaert:::Application of a Radial Basis Neural Network in the Fault Detection and Diagnosis of the Temperature Sensors of a Heat Exchanger.
+conf/ieaaie/ChakkourT01:::Fairouz Chakkour::Yannick Toussaint:::Sentence Analysis by Case-Based Reasoning.
+conf/ieaaie/IglesiasGV98:::Carlos Argel Iglesias::José Centeno-González::Juan R. Velasco:::A Fuzzy-neural Multiagent System for Optimisation of a Roll-mill Application.
+conf/ieaaie/LinkI99:::Manuel Link::Masuhiro Ishitobi:::Supervised Parameter Optimization of a Modular Machine Learning System.
+conf/ieaaie/KurstedtLMB88:::Harold Kurstedt::Kwang Lee::Pedro Mendes::Steven Berube:::The Responsive System: A New Challenge for AI.
+conf/ieaaie/PearceG89:::David Pearce::E. Grant:::A qualitative modelling environment for design &amp; diagnosis of automation.
+conf/ieaaie/PhilpotH98:::David Philpot::Tim Hendtlass:::Ensembles of Neural Networks for Analogue Problems.
+conf/ieaaie/MeszarosBBDS01:::Tamás Mészáros::Zsolt Barczikay::Ferenc Bodon::Tadeusz P. Dobrowiecki::György Strausz:::Building an Information and Knowledge Fusion System.
+conf/ieaaie/Mason95:::Keith P. Mason:::A Knowledge-Based Strategy for the Re-association of Fragmented Sensor Reports.
+conf/ieaaie/GoodloeG88:::Mike Goodloe::Sara J. Graves:::Improving Performance of an Electrical Power Expert System with Genetic Algorithms.
+conf/ieaaie/PagurekBD95:::Bernie Pagurek::J. Bryant::N. Dawes:::Evolution of a Multi-Paradigm Blackboard Based Network Diagnostic Platform.
+conf/ieaaie/OommenVZ90:::B. John Oommen::R. S. Valiveti::J. R. Zgierski:::A Fast Learning Automaton Solution to the Keyboard Optimization Problem.
+conf/ieaaie/TamBR88:::Kwa-Sur Tam::Michael Besso::Renuka Racha:::Computer-generated Design of Electric Circuits.
+conf/ieaaie/NewlandsW95:::D. A. Newlands::Geoffrey I. Webb:::Polygonal Inductive Generalisation System.
+conf/ieaaie/PetryS00:::Frederick E. Petry::Maria J. Somodevilla:::Modeling Issues for Rubber-Sheeting Process in an Object Oriented, Distributed and Parallel Environment.
+conf/ieaaie/Nguyen01:::Ngoc Thanh Nguyen:::Representation Choice Methods as the Tool for Solving Uncertainty in Distributed Temporal Database Systems with Indeterminate Valid Time.
+conf/ieaaie/PierrotH03:::Hans Pierrot::Tim Hendtlass:::Using a Modified Counter-Propagation Algorithm to Classify Conjoint Data.
+conf/ieaaie/GingrichM90:::Barry L. Gingrich::Gary J. Minden:::MANDOLIN - A Communications Management Expert System Using a Reduced Form of the Dempster-Shafer Uncertainty Theory.
+conf/ieaaie/El-BeltagyK99:::Mohammed El-Beltagy::Andy J. Keane:::Using Self Organizing Maps and Genetic Algorithms for Model Selection in Multilevel Optimization.
+conf/ieaaie/MageeHGMW90a:::Michael Magee::William Hoff::Lance Gatrell::Martin Marietta::William J. Wolfe:::Adaptive Camera Calibration in an Industrial Robotic Environment.
+conf/ieaaie/StojanovskiR89:::J. Stojanovski::S. Rana:::Determining resistance welding parameters using artificial neural networks.
+conf/ieaaie/SalemB99:::Rym Salem::Khaled Bsaïes:::Unfold/Fold Inductive Proof: An Extension of a Folding Technique.
+conf/ieaaie/BeckerS90:::Ralf Becker::H. J. Steffens:::A Knowledge-Based and Decision Support System for the Planning of Material Handling Systems.
+conf/ieaaie/LuacesACRB98:::Oscar Luaces::Jaime Alonso::Enrique A. de la Cal::José Ranilla::Antonio Bahamonde:::Machine Learning Usefulness Relies on Accuracy and Self-Maintenance.
+conf/ieaaie/KaegiW03:::Simon Kaegi::Tony White:::Using Local Information to Guide Ant Based Search.
+conf/ieaaie/DassCP03:::Mayukh Dass::James Cannady::Walter D. Potter:::A Blackboard-Based Learning Intrusion Detection System: A New Approach.
+conf/ieaaie/Melendez-FrigolaCRC98:::Joaquim Melendez-Frigola::Joan Colomer-Llinas::Josep Lluís de la Rosa::Orlando Contreras:::Expert Diagnostic Using Qualitative Data and Rule-Based Inferential Reasoning.
+conf/ieaaie/SilversteinS90:::Elenita E. Silverstein::Peggy Sun:::A Constraint Management Tool for Concurrent Engineering.
+conf/ieaaie/BhawmikC88:::Sudipta Bhawmik::P. Pal Chaudhuri:::DFTEXPERT: An Expert System for Design of Testable VLSI Circuits.
+conf/ieaaie/Ruiz-AndinoR98:::Alvaro Ruiz-Andino::José J. Ruz:::Integration of Constraint Programming and Evolution Programs: Application to Channel Routing.
+conf/ieaaie/ChangCW88:::C.-Y. Chang::C.-G. Chung::J.-T. Wang:::The Design of a Traffic Control Expert System for Long Distance Network Contingencies.
+conf/ieaaie/NatarajanG02:::Vikram Natarajan::Angela Goh:::Intelligent Auto-downloading of Images.
+conf/ieaaie/RochaVN00:::Miguel Rocha::Carla Vilela::José Neves:::A Study of Order Based Genetic and Evolutionary Algorithms in Combinatorial Optimization Problems.
+conf/ieaaie/SelvestrelG95:::Mario C. Selvestrel::Simon Goss:::Optimal Flight Paths for Aircraft: A Little Knowledge Goes a Long Way.
+conf/ieaaie/TsaiH01:::Chung-Huei Tsai::Deh-Shiu Hsu:::Synthetic Damage Assessment for RC Structure Based on Fuzzy Logic.
+conf/ieaaie/Mitrovic01:::Dejan Mitrovic:::Machine Learning for Car Navigation.
+conf/ieaaie/Silber90:::Jane Silber:::PAL: An Intelligent Help System.
+conf/ieaaie/FangTF03:::Weidong Fang::Ming Xi Tang::John H. Frazer:::Supporting Collaborative Product Design in an Agent Based Environment.
+conf/ieaaie/LenartP94:::Mihaly Lenart::Ana Pasztor:::How Much Knowledge is Needed? (Co-)Evolutionary Design.
+conf/ieaaie/LeePYC94:::Jaewon Lee::Chulwoo Park::Duckyoung Yoon::Hakjong Cho:::Case-Based Block Division Planning in Shipbuilding.
+conf/ieaaie/DumerHT89:::John Dumer::Tim Hanratty::M. S. Taylor:::Nonpare, a nonparametric data analysis consultant.
+conf/ieaaie/TorquatiPM90:::Franco Torquati::Massimo Paltrinieri::Alberto Momigliano:::A Constraint Satisfaction Approach to Operative Management of Aircraft Routing.
+conf/ieaaie/CassaroARF90:::M. A. Cassaro::N. N. Athavale::R. K. Ragade::T. E. Fenske:::A Prototype for KYBAS: The Kentucky Bridge Analysis System.
+conf/ieaaie/TemmeM90:::Karl-Heinz Temme::Ingolf Markhof:::Applications of AI Techniques for Chip-Architecture Planning.
+conf/ieaaie/BergerBS00:::Martin Berger::Gernot Bachler::Stefan Scherer:::Vision Guided Bin Picking and Mounting in a Flexible Assembly Cell.
+conf/ieaaie/KocsisS98:::Levente Kocsis::Nicolae B. Szirbik:::An Unsupervised Training Connectionist Network with Lateral Inhibition.
+conf/ieaaie/ThawonmasHT02:::Ruck Thawonmas::Junichiro Hirayama::Fumiaki Takeda:::Learning from Human Decision-Making Behaviors - An Application to RoboCup Software Agents.
+conf/ieaaie/Rodriguez-MoscosoF89:::J. J. Rodriguez-Moscoso::Douglas Fisher:::Intelligent real-time traffic control: a connectionist model.
+conf/ieaaie/KarimS88:::Asad Karim::Stephen A. Szygenda:::SMARTGEN: The Implementation of an Expert System for the Generation of Digital Logic Diagnostic Tests.
+conf/ieaaie/PurnaY94:::Yusuf Wilajati Purna::Takahira Yamaguchi:::Some Notions on Testing Generated Fault Hypotheses.
+conf/ieaaie/HadarGHD98:::Nahla Hadar::Faïez Gargouri::Abdelmajid Ben Hamadou::Charles François Ducateau:::Information Systems Integration: Some Principles and Ideas.
+conf/ieaaie/SobczakM90:::Ronald L. Sobczak::M. M. Matthews:::An Expert System for Chemical Structure Elucidation Implemented on a Blackboard.
+conf/ieaaie/AimeurB99:::Esma Aïmeur::Kamel Boudina:::Financial Analysis by Case Based Reasoning.
+conf/ieaaie/KounalisU99:::Emmanuel Kounalis::Pascal Urso:::Mechanizing Proofs of Integrity Constraints in the Situation Calculus.
+conf/ieaaie/KatoOSI99:::Shohei Kato::Satoru Oono::Hirohisa Seki::Hidenori Itoh:::Cost-Based Abduction Using Binary Decision Diagrams.
+conf/ieaaie/AidaO98:::Takumi Aida::Setsuo Ohsuga:::Intelligent Systems Must Be Able to Make Programs Automatically for Assuring the Practicality.
+conf/ieaaie/CadasB95:::Colin Cadas::Ken Burns:::Use of CommonKADS in the Development of Knowledge Based Systems for the UK Naval Nuclear Industry.
+conf/ieaaie/Hendtlass01:::Tim Hendtlass:::A Combined Swarm Differential Evolution Algorithm for Optimization Problems.
+conf/ieaaie/Hendtlass03:::Tim Hendtlass:::Preserving Diversity in Particle Swarm Optimisation.
+conf/pervasive/BayonRGB02:::Victor Bayon::Tom Rodden::Chris Greenhalgh::Steve Benford:::Going Back to School: Putting a Pervasive Environment into the Real World.
+conf/pervasive/Vogt02:::Harald Vogt:::Efficient Object Identification with Passive RFID Tags.
+conf/pervasive/FerschaV02:::Alois Ferscha::Simon Vogl:::Pervasive Web Access via Public Communication Walls.
+conf/pervasive/LaMarcaBKLSSFB02:::Anthony LaMarca::Waylon Brunette::David Koizumi::Matthew Lease::Stefan B. Sigurdsson::Kevin Sikorski::Dieter Fox::Gaetano Borriello:::Making Sensor Networks Practical with Robots.
+conf/ifip11/Tolan02:::Kathleen Tolan:::Initiatives in the Fight Against Cyber Terrorism.
+conf/ifip12/HoNN02:::Tu Bao Ho::Trong Dung Nguyen::DucDung Nguyen:::A User-Centered Visual Approach to Data Mining: The System D2MS.
+conf/ifip12/HouNM02:::Chih-Sheng Johnson Hou::Natalya Fridman Noy::Mark A. Musen:::A Template-Based Approach Toward Acquisition of Logical Sentences.
+conf/ifip12/ZhangNMYU02:::Zhihua Zhang::Isao Nagasawa::M. Mochizuki::H. Yamaguchi::Masanobu Umeda:::An Application of Assembly Structure in Welding Estimate of Welding Object in Manufacturing Design.
+conf/ifip12/ShiWHGSZ02:::Zhongzhi Shi::Bin Wu::Qing He::Xiujun Gong::Liu Shaohui::Yi Zheng:::IDSIS: Intelligent Document Semantic Indexing System.
+conf/ifip13/LindgaardD02:::Gitte Lindgaard::Cahty Dudek:::User Satisfaction, Aesthetics and Usability: Beyond Reductionism.
+conf/ifip13/SilvaBGN02:::Lociano Silva::Olga Regina Pereira Bellon::Paulo F. U. Gotardo::Percy Nohama:::MouseLupe: An Accessibility Tool for People with Low Vision.
+conf/ifip13/GreunenW02:::Darelle Van Greunen::Janet Wesson:::Formal Usability Testing of Interactive Educational Software: A Case Study.
+conf/ima-ms/FaroukiJ92:::Rida T. Farouki::John K. Johnstone:::Computing Point/Curve and Curve/Curve Bisectors.
+conf/ima-ms/FaroukiP94:::Rida T. Farouki::Helmut Pottmann:::Polynomial and Rational Pythagorean-Hodograph Curves Reconciled.
+conf/ima-ms/KimE00:::Myung-Soo Kim::Gershon Elber:::Problem Reduction to Parameter Space.
+conf/ima-ms/Malraison92:::P. Malraison:::The Shell Game: Surface Modeling with a Non-Manifold Solid Modeler.
+conf/ima-ms/PetersU00:::Jörg Peters::Georg Umlauf:::Gaussian and Mean Curvature of Subdivision Surfaces.
+conf/ima-ms/HermannR88:::Thomas Hermann::Gábor Renner:::Subdivision of n-sided Regions into Four-sided Patches.
+conf/ima-ms/Pratt00:::Michael J. Pratt:::Modelling of Material Property Variation for Layered Manufacturing.
+conf/ima-ms/Pratt92:::Michael J. Pratt:::Bézier Surface Blending in Solid Modelling.
+conf/ima-ms/Sabin94:::Malcolm Sabin:::Transfinite Surface Interpolation.
+conf/ima-ms/MacCarthyH88:::B. L. MacCarthy::D. C. Handscomb:::The Approximation of Hydrographic Survey Data using Tensor-Product B-Spline Surfaces.
+conf/ima-ms/ApplegarthCB88:::I. Applegarth::D. Catley::I. Bradley:::Clipping of B-Spline Surface Patches at Surface Curves.
+conf/ima-ms/Barnhill94:::Robert E. Barnhill:::John Gregory's Research: From Computational Error Bounds through Gregory's Square to Convex Combinations.
+conf/ima-ms/BispoF94:::Edvaldo M. Bispo::Robert B. Fisher:::Free-Form Surface Matching for Surface Inspection.
+conf/ima-ms/AndersonM94:::I. J. Anderson::J. C. Mason:::Surface Fitting by Exploiting Data Distribution.
+conf/ima-ms/LycheS92:::Tom Lyche::K. Strøm:::Knot insertion for Natural Splines.
+conf/ima-ms/Hagen92:::Hans Hagen:::Variational Principles in Curve and Surface Design.
+conf/ima-ms/UgailRBW00:::Hassan Ugail::Michael Robinson::Malcolm I. G. Bloor::Michael J. Wilson:::Interactive Design of Complex Mechanical Parts using a Parametric Representation.
+conf/hybrid/BehrmannFHLPRV01:::Gerd Behrmann::Ansgar Fehnker::Thomas Hune::Kim Guldstrand Larsen::Paul Pettersson::Judi Romijn::Frits W. Vaandrager:::Minimum-Cost Reachability for Priced Timed Automata.

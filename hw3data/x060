@@ -1,0 +1,200 @@
+journals/tpds/NakanoO97:::Koji Nakano::Stephan Olariu:::An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable Mesh, with Applications.
+journals/tpds/TanS98:::Min Tan::Howard Jay Siegel:::A Stochastic Model for Heterogeneous Computing and Its Application in Data Relocation Scheme Development.
+journals/tpds/RyuH00:::Kyung Dong Ryu::Jeffrey K. Hollingsworth:::Exploiting Fine-Grained Idle Periods in Networks of Workstations.
+journals/tpds/BokkaGOSW97:::Venkatavasu Bokka::Himabindu Gurla::Stephan Olariu::James L. Schwing::Larry Wilson:::Time-Optimal Domain-Specific Querying on Enhanced Meshes.
+journals/tpds/RomanPW93:::Gruia-Catalin Roman::Jerome Y. Plun::C. Donald Wilcox:::Dynamic Synchrony Among Atomic Actions.
+journals/tpds/JenqS93:::Jing-Fu Fu Jenq::Sartaj Sahni:::Image Shrinking and Expanding on a Pyramid.
+journals/tpds/EisenhauerBS02:::Greg Eisenhauer::Fabian E. Bustamante::Karsten Schwan:::Native Data Representation: An Efficient Wire Format for High-Performance Distributed Computing.
+journals/tpds/ChiuC98:::Ge-Ming Chiu::Kai-Shung Chen:::Efficient Fault-Tolerant Multicast Scheme for Hypercube Multicomputers.
+journals/tpds/ChoiS02:::Sunghyun Choi::Kang G. Shin:::Adaptive Bandwidth Reservation and Admission Control in QoS-Sensitive Cellular Networks.
+journals/tpds/WuHC03:::Fan Wu::Ching-Chi Hsu::Li-Ping Chou:::Processor Allocation in the Mesh Multiprocessors Using the Leapfrog Method.
+journals/tpds/KramerGS94:::Robert Kramer::Rajiv Gupta::Mary Lou Soffa:::The Combining DAG: A Technique for Parallel Data Flow Analysis.
+journals/tpds/JangPP97:::Ju-wook Jang::Heonchul Park::Viktor K. Prasanna:::An Optimal Multiplication Algorithm on Reconfigurable Mesh.
+journals/tpds/BucciBS94:::Giacomo Bucci::Alberto Del Bimbo::Simone Santini:::Performance Analysis of Two Different Algorithms for Ethernet-FDDI Interconnection.
+journals/tpds/DasHB01:::Sajal K. Das::Daniel J. Harvey::Rupak Biswas:::Parallel Processing of Adaptive Meshes with Load Balancing.
+journals/tpds/Xiang01:::Dong Xiang:::Fault-Tolerant Routing in Hypercube Multicomputers Using Local Safety Information.
+journals/tpds/TanSAL97:::Min Tan::Howard Jay Siegel::John K. Antonio::Yan Alexander Li:::Minimizing the Application Execution Time Through Scheduling of Subtasks and Communication Traffic in a Heterogeneous Computing System.
+journals/tpds/LacyCW98:::W. Stephen Lacy::José Cruz-Rivera::D. Scott Wills:::The Offset Cube: A Three-Dimensional Multicomputer Network Topology Using Through-Wafer Optics.
+journals/tpds/GravanoPBS94:::Luis Gravano::Gustavo D. Pifarré::Pablo E. Berman::Jorge L. C. Sanz:::Adaptive Deadlock- and Livelock-Free Routing with All Minimal Paths in Torus Networks.
+journals/tpds/RyutovNKZ03:::Tatyana Ryutov::B. Clifford Neuman::Dongho Kim::Li Zhou:::Integrated Access Control and Intrusion Detection for Web Servers.
+journals/tpds/YangG94:::Tao Yang::Apostolos Gerasoulis:::DSC: Scheduling Parallel Tasks on an Unbounded Number of Processors.
+journals/tpds/YangW00:::Yuanyuan Yang::Jianchao Wang:::Optimal All-to-All Personalized Exchange in Self-Routable Multistage Networks.
+journals/tpds/FeehrerR96:::John R. Feehrer::Lars H. Ramfelt:::Packet Synchronization for Synchronous Optical Deflection-Routed Interconnection Networks.
+journals/tpds/KandemirCBRS00:::Mahmut T. Kandemir::Alok N. Choudhary::Prithviraj Banerjee::J. Ramanujam::Nagaraj Shenoy:::Minimizing Data and Synchronization Costs in One-Way Communication.
+journals/tpds/TongKT92:::Zhijun Tong::Richard Y. Kain::W. T. Tsai:::Rollback Recovery in Distributed Systems Using Loosely Synchronized Clocks.
+journals/tpds/NaylorJ94:::David Naylor::Simon Jones:::A Performance Model for Multilayer Neural Networks in Linear Arrays.
+journals/tpds/GafsiB00:::Jamel Gafsi::Ernst Biersack:::Modeling and Performance Comparison of Reliability Strategies for Distributed Video Servers.
+journals/tpds/PrasadDC94:::Sushil K. Prasad::Sajal K. Das::Calvin Ching-Yuen Chen:::Efficient EREW PRAM Algorithms for Parentheses-Matching.
+journals/tpds/KleinrockK93:::Leonard Kleinrock::Willard Korfhage:::Collecting Unused Processing Capacity: An Analysis of Transient Distributed Systems.
+journals/tpds/Agrawal99:::Gagan Agrawal:::A General Interprocedural Framework for Placement of Split-Phase Large Latency Operations.
+journals/tpds/HiltunenSHCD99:::Matti A. Hiltunen::Richard D. Schlichting::Xiaonan Han::Melvin M. Cardozo::Rajsekhar Das:::Real-Time Dependable Channels: Customizing QoS Attributes for Distributed Systems.
+journals/tpds/Omiecinski90:::Edward Omiecinski:::A Parallel Algorithm for Relational Database Normalization.
+journals/tpds/GoumasAK03:::Georgios I. Goumas::Maria Athanasaki::Nectarios Koziris:::An Efficient Code Generation Technique for Tiled Iteration Spaces.
+journals/tpds/FiducciaH97:::Charles M. Fiduccia::Paul J. Hedrick:::Edge Congestion of Shortest Path Systems for All-to-All Communication.
+journals/tpds/StaufferH95:::Lynn M. Stauffer::Daniel S. Hirschberg:::Systolic Self-Organizing Lists Under Transpose.
+journals/tpds/LeffY94:::Avraham Leff::Philip S. Yu:::A Performance Study of Robust Distributed Load Sharing Strategies.
+journals/tpds/BakkenS95:::David E. Bakken::Richard D. Schlichting:::Supporting Fault-Tolerant Parallel Programming in Linda.
+journals/tpds/XiangUAS99:::Limin Xiang::Kazuo Ushijima::Selim G. Akl::Ivan Stojmenovic:::An Efficient Implementation for the BROADCAST Instruction of BSR+.
+journals/tpds/KerenB03:::Arie Keren::Amnon Barak:::Opportunity Cost Algorithms for Reduction of I/O and Interprocess Communication Overhead in a Computing Cluster.
+journals/tpds/Abu-AmaraG94:::Hosame Abu-Amara::Vidya Gummadi:::New Model and Algorithms for Leader Election in Synchronous Fiber-Optic Networks.
+journals/tpds/PuenteGBI03:::Valentin Puente::José A. Gregorio::Ramón Beivide::Cruz Izu:::On the Design of a High-Performance Adaptive Router for CC-NUMA Multiprocessors.
+journals/tpds/BeaumontBRR01:::Olivier Beaumont::Vincent Boudet::Fabrice Rastello::Yves Robert:::Matrix Multiplication on Heterogeneous Platforms.
+journals/tpds/LakshmananAV03:::Subramanian Lakshmanan::Mustaque Ahamad::H. Venkateswaran:::Responsive Security for Stored Data.
+journals/tpds/HavlakK91:::Paul Havlak::Ken Kennedy:::An Implementation of Interprocedural Bounded Regular Section Analysis.
+journals/tpds/GhoseD95:::Kanad Ghose::Kiran Raghavendra Desai:::Hierarchical Cubic Networks.
+journals/tpds/HatcherQLSAJ91:::Philip J. Hatcher::Michael J. Quinn::Anthony J. Lapadula::Bradley K. Seevers::Ray J. Anderson::Robert R. Jones:::Data-Parallel Programming on MIMD Computers.
+journals/tpds/ChakrabortyARW93:::Amal Chakraborty::Donald C. S. Allison::Calvin J. Ribbens::Layne T. Watson:::The Parallel Complexity of Embedding Algorithms for the Solution of Systems of Nonlinear Equations.
+journals/tpds/StompT99:::Frank A. Stomp::Gadi Taubenfeld:::Constructing a Reliable Test&amp;Set Bit.
+journals/tpds/MalloyLS94:::Brian A. Malloy::Errol L. Lloyd::Mary Lou Soffa:::Scheduling DAG's for Asynchronous Multiprocessor Execution.
+journals/tpds/ZhengS95a:::Qin Zheng::Kang G. Shin:::Synchronous Bandwidth Allocation in FDDI Networks.
+journals/tpds/KravetsP96:::Dina Kravets::C. Greg Plaxton:::All Nearest Smaller Values on the Hypercube.
+journals/tpds/ShanFP03:::Wenhao Shan::Pingzhi Fan::Yi Pan:::Performance Evaluation of a Hierarchical Cellular System with Mobile Velocity-Based Bidirectional Call-Overflow Scheme.
+journals/tpds/SumSLY03:::John Sum::Hong Shen::Andrew Chi-Sing Leung::Gilbert H. Young:::Analysis on a Mobile Agent-Based Algorithm for Network Routing and Management.
+journals/tpds/AgarwalKN95:::Anant Agarwal::David A. Kranz::Venkat Natarajan:::Automatic Partitioning of Parallel Loops and Data Arrays for Distributed Shared-Memory Multiprocessors.
+journals/tpds/PontelliG01:::Enrico Pontelli::Gopal Gupta:::Backtracking in Independent And-Parallel Implementations of Logic Programming Languages.
+journals/tpds/XuanJZZ00:::Dong Xuan::Weijia Jia::Wei Zhao::Hongwen Zhu:::A Routing Protocol for Anycast Messages.
+journals/tpds/KremienK92:::Orly Kremien::Jeff Kramer:::Methodical Analysis of Adaptive Load Sharing Algorithms.
+journals/tpds/Solworth02:::Jon A. Solworth:::Integrated Network Barriers.
+journals/tpds/RamachandranSV90:::Umakishore Ramachandran::Marvin H. Solomon::Mary K. Vernon:::Hardware Support for Interprocess Communication.
+journals/tpds/Fernandez-ZepedaVT98:::José Alberto Fernández-Zepeda::Ramachandran Vaidyanathan::Jerry L. Trahan:::Scaling Simulation of the Fusing-Restricted Reconfigurable Mesh.
+journals/tpds/XiangU01:::Limin Xiang::Kazuo Ushijima:::On Time Bounds, the Work-Time Scheduling Principle, and Optimality for BSR.
+journals/tpds/GaoRS99:::Lixin Gao::Arnold L. Rosenberg::Ramesh K. Sitaraman:::Optimal Clustering of Tree-Sweep Computations for High-Latency Parallel Environments.
+journals/tpds/HalwanOD99:::Vivek Halwan::Füsun Özgüner::Atakan Dogan:::Routing in Wormhole-Switched Clustered Networks with Applications to Fault Tolerance.
+journals/tpds/SunPF99:::Xian-He Sun::Mario Pantano::Thomas Fahringer:::Integrated Range Comparison for Data-Parallel Compilation Systems.
+journals/tpds/SpasojevicB94:::Mirjana Spasojevic::Piotr Berman:::Voting as the Optimal Static Pessimistic Scheme for Managing Replicated Data.
+journals/tpds/BhagavathiBGOSSZ95:::Dharmavani Bhagavathi::Venkatavata Bokka::Himabindu Gurla::Stephan Olariu::James L. Schwing::Ivan Stojmenovic::Jingyuan Zhang:::Time-Optimal Visibility-Related Algorithms on Meshes with Multiple Broadcasting.
+journals/tpds/NieuwejaarKPEB96:::Nils Nieuwejaar::David Kotz::Apratim Purakayastha::Carla Schlatter Ellis::Michael L. Best:::File-Access Characteristics of Parallel Scientific Workloads.
+journals/tpds/ShahabiK02a:::Cyrus Shahabi::Farnoush Banaei Kashani:::Decentralized Resource Management for a Distributed Continuous Media Server.
+journals/tpds/PatelKJ97:::Jamshed N. Patel::Ashfaq A. Khokhar::Leah H. Jamieson:::Scalable Parallel Implementations of List Ranking on Fine-Grained Machines.
+journals/tpds/ShatzMBT90:::Sol M. Shatz::Khanh Mai::Chistopher Black::Shengru Tu:::Design and Implementation of a Petri Net Based Toolkit for Ada Tasking Analysis.
+journals/tpds/KafuraMW95:::Dennis G. Kafura::Manibrata Mukherji::Douglas Washabaugh:::Concurrent and Distributed Garbage Collection of Active Objects.
+journals/tpds/BharadwajGM94:::Bharadwaj Veeravalli::Debasish Ghose::V. Mani:::Optimal Sequencing and Arrangement in Distributed Single-Level Tree Networks with Communication Delays.
+journals/tpds/TsaiM97:::Yih-jia Tsai::Philip K. McKinley:::An Extended Dominating Node Approach to Broadcast and Global Combine in Multiport Wormhole-Routed Mesh Networks.
+journals/tpds/TsaiW00:::Ming-Jer Tsai::Sheng-De Wang:::Adaptive and Deadlock-Free Routing for Irregular Faulty Patterns in Mesh Multicomputers.
+journals/tpds/PageJC93:::Ivor P. Page::Tom Jacob::Eric Chern:::Fast Algorithms for Distributed Resource Allocation.
+journals/tpds/TzenN93a:::Ten H. Tzen::Lionel M. Ni:::Dependence Uniformization: A Loop Parallelization Technique.
+journals/tpds/GoldbergH93:::Aaron J. Goldberg::John L. Hennessy:::Mtool: An Integrated System for Performance Debugging Shared Memory Multiprocessor Applications.
+journals/tpds/EzhilchelvanMS90:::Paul D. Ezhilchelvan::Isi Mitrani::Santosh K. Shrivastava:::A Performance Evaluation Study of Pipeline TMR Systems.
+journals/tpds/SurdeanuMH02:::Mihai Surdeanu::Dan I. Moldovan::Sanda M. Harabagiu:::Performance Analysis of a Distributed Question/Answering System.
+journals/tpds/FangCF00:::Yuguang Fang::Imrich Chlamtac::Hong-Bing Fei:::Analytical Results for Optimal Choice of Location Update Interval for Mobility Database Failure Restoration in PCS Networks.
+journals/tpds/GerogiannisO93:::Dimitris C. Gerogiannis::Stelios C. Orphanoudakis:::Load Balancing Requirements in Parallel Implementations of Image Feature Extraction Tasks.
+journals/tpds/RobertsS97:::Alan Roberts::Antonios Symvonis:::A General Method for Deflection Worm Routing on Meshes Based on Packet Routing Algorithms.
+journals/tpds/KongKP91:::Xiangyun Kong::David Klappholz::Kleanthis Psarris:::The I Test: An Improved Dependence Test for Automatic Parallelization and Vectorization.
+journals/tpds/Varma93:::Subir Varma:::Performance Evaluation of the Time-Stamp Ordering Algorithm in a Distributed Database.
+journals/tpds/ChangY95:::Her-Kun Chang::Shyan-Ming Yuan:::Performance Characterization of the Tree Quorum Algorithm.
+journals/tpds/OBoyleS02:::Michael F. P. O'Boyle::Elena Stöhr:::Compile Time Barrier Synchronization Minimization.
+journals/tplp/EiterFST02:::Thomas Eiter::Michael Fink::Giuliana Sabbatini::Hans Tompits:::On Properties of Update Sequences Based on Causal Rejection.
+journals/tplp/Cohen01:::Jacques Cohen:::A Tribute to Alain Colmerauer.
+journals/tplp/BozzanoDM02:::Marco Bozzano::Giorgio Delzanno::Maurizio Martelli:::An effective fixpoint semantics for linear logic programs.
+journals/tplp/LakshmananS01:::Laks V. S. Lakshmanan::Fereidoon Sadri:::On a theory of probabilistic deductive databases.
+journals/tplp/JahierD02:::Erwan Jahier::Mireille Ducassé:::Generic program monitoring by trace analysis.
+journals/tplp/Molina-BravoP03:::Juan M. Molina-Bravo::Ernesto Pimentel:::Composing Programs in a Rewriting Logic for Declarative Programming.
+journals/tplp/GenaimHC01:::Samir Genaim::Jacob M. Howe::Michael Codish:::Worst-case groundness analysis using definite boolean functions.
+journals/tsmc/GuoLC03:::Ping Guo::Michael R. Lyu::C. L. Philip Chen:::Regularization parameter estimation for feedforward neural networks.
+journals/tsmc/Lee03:::Chang-Yong Lee:::Entropy-Boltzmann selection in the genetic algorithms.
+journals/tsmc/MomohZ03:::James A. Momoh::Jizhong Zhu:::Optimal generation scheduling based on AHP/ANP.
+journals/tsmc/HuLCS03:::Li-Sheng Hu::J. Lam::Yong-Yan Cao::Hui-He Shao:::A linear matrix inequality (LMI) approach to robust H/sub 2/ sampled-data control for linear uncertain systems.
+journals/tsmc/NelsonSE03:::Dale E. Nelson::Janusz A. Starzyk::D. D. Ensley:::Iterated wavelet transformation and signal discrimination for HRR radar target recognition.
+journals/tsmc/RayD03:::K. S. Ray::T. K. Dinda:::Pattern classification using fuzzy relational calculus.
+journals/tsmc/PaschosV99:::George Paschos::Kimon P. Valavanis:::A color texture based visual monitoring system for automated surveillance.
+journals/tsmc/XueB03:::Yifei Xue::Donald E. Brown:::A decision model for spatial site selection by criminals: a foundation for law enforcement decision support.
+journals/tsmc/Yager03:::Ronald R. Yager:::Toward a language for specifying summarizing statistics.
+journals/tsmc/HooverGB03:::Adam Hoover::Dmitry B. Goldgof::Kevin M. Bowyer:::Egomotion estimation of a range camera using the space envelope.
+journals/tsmc/CheungX03:::Yiu-ming Cheung::Lei Xu:::Dual multivariate auto-regressive modeling in state space for temporal signal separation.
+journals/tsmc/NagaharaYY03:::Hajime Nagahara::Yasushi Yagi::Masahiko Yachida:::Superresolution modeling using an omnidirectional image sensor.
+journals/tsmc/Azuaje03:::F. Azuaje:::A computational evolutionary approach to evolving game strategy and cooperation.
+journals/tsmc/FangHKP03b:::Liping Fang::K. W. Hipel::D. M. Kilgour::Xiaoyong Peng:::Correction to "A decision support system for interactive decision making - Part I: model formulation".
+journals/tsmc/FangHKP03c:::Liping Fang::K. W. Hipel::D. M. Kilgour::Xiaoyong Peng:::Correction to "A decision support system for interactive decision making - Part II: analysis and output interpretation".
+journals/tsmc/SakakibaraON02:::H. Sakakibara::N. Okada::D. Nakase:::The application of robustness analysis to the conflict with incomplete information.
+journals/tsmc/BoucherG02:::T. O. Boucher::O. Gogus:::Reliability, validity, and imprecision in fuzzy multicriteria decision-making.
+journals/tsmc/DuvivierDBA03:::D. Duvivier::V. Dhaevers::V. Bachelet::Abdelhakim Artiba:::Integrating simulation and optimization of manufacturing systems.
+journals/tsmc/IshidaO02:::K. Ishida::T. Ohta:::An approach for organizing knowledge according to terminology and representing it visually.
+journals/tsmc/Shah-HosseiniS03:::Hamed Shah-Hosseini::Reza Safabakhsh:::TASOM: a new time adaptive self-organizing map.
+journals/tsmc/ChoiLSHA99:::Chintae Choi::Kwanhee Lee::Kitae Shin::Keum Shik Hong::Hyunsik Ahn:::Automatic landing method of a reclaimer on the stockpile.
+journals/tvcg/Frisken-Gibson99:::Sarah F. Frisken Gibson:::Using Linked Volumes to Model Object Collisions, Deformation, Cutting, Carving, and Joining.
+journals/tvcg/El-SanaV98:::Jihad El-Sana::Amitabh Varshney:::Topology Simplification for Polygonal Virtual Environments.
+journals/tvcg/Eick00:::Stephen G. Eick:::Visual Discovery and Analysis.
+journals/tvcg/Guo95:::Baining Guo:::A Multiscale Model for Structure-Based Volume Rendering.
+journals/tvcg/KenwrightHL99:::David N. Kenwright::Chris Henze::Creon Levit:::Feature Extraction of Separation and Attachment Lines.
+journals/tvcg/EtzmussGS03:::Olaf Etzmuß::Joachim Gross::Wolfgang Straßer:::Deriving a Particle System from Continuum Mechanics for the Animation of Deformable Objects.
+journals/tvcg/CignoniMMPS97:::Paolo Cignoni::Paola Marino::Claudio Montani::Enrico Puppo::Roberto Scopigno:::Speeding Up Isosurface Extraction Using Interval Trees.
+journals/tvcg/ManganW99:::Alan P. Mangan::Ross T. Whitaker:::Partitioning 3D Surface Meshes Using Watershed Segmentation.
+journals/tvcg/LindstromT99:::Peter Lindstrom::Greg Turk:::Evaluation of Memoryless Simplification.
+journals/tvcg/GueziecTLH01:::André Guéziec::Gabriel Taubin::Francis Lazarus::William Horn:::Cutting and Stitching: Converting Sets of Polygons to Manifold Surfaces.
+journals/tvcg/HermanMM00:::Ivan Herman::Guy Melançon::M. Scott Marshall:::Graph Visualization and Navigation in Information Visualization: A Survey.
+journals/tvcg/Nielson95:::Gregory M. Nielson:::Visualization Takes its Place in the Scientific Community.
+journals/tvcg/XieF04:::Zhiyong Xie::Gerald E. Farin:::Image Registration Using Hierarchical B-Splines.
+journals/tvcg/HamannJW99:::Bernd Hamann::Benjamin W. Jordan::David F. Wiley:::On a Construction of a Hierarchy of Best Linear Spline Approximations Using Repeated Bisection.
+journals/tvcg/HamannWM95:::Bernd Hamann::Donghua Wu::Robert J. Moorhead II:::On Particle Path Generation Based on Quadrilinear Interpolation and Bernstein-Bézier Polynomials.
+journals/tvcg/KimGS98:::Dong Jin Kim::Leonidas J. Guibas::Sung Yong Shin:::Fast Collision Detection Among Multiple Moving Spheres.
+journals/tvcg/Sbert97:::Mateu Sbert:::Error and Complexity of Random Walk Monte Carlo Radiosity.
+journals/tvcg/AlexaBCFLS03:::Marc Alexa::Johannes Behr::Daniel Cohen-Or::Shachar Fleishman::David Levin::Cláudio T. Silva:::Computing and Rendering Point Set Surfaces.
+journals/tvcg/JerdingS98:::Dean F. Jerding::John T. Stasko:::The Information Mural: A Technique for Displaying and Navigating Large Information Spaces.
+journals/tvcg/HabibiL02:::Arash Habibi::Annie Luciani:::Dynamic Particle Coating.
+journals/tvcg/ZhouT99:::Yong Zhou::Arthur W. Toga:::Efficient Skeletonization of Volumetric Objects.
+journals/tvcg/RappoportSB96:::Ari Rappoport::Alla Sheffer::Michel Bercovier:::Volume-Preserving Free-Form Solids.
+journals/tvcg/MyszkowskiRT00:::Karol Myszkowski::Przemyslaw Rokita::Takehiro Tawara:::Perception-Based Fast Rendering and Antialiasing of Walkthrough Sequences.
+journals/tvcg/ZhangC03:::Caixia Zhang::Roger Crawfis:::Shadows and Soft Shadows with Participating Media Using Splatting.
+journals/tvcg/ScheuermannKMR98:::Gerik Scheuermann::Heinz Krüger::Martin Menzel::Alyn P. Rockwood:::Visualizing Nonlinear Vector Field Topology.
+journals/tvcg/SatoSI99:::Imari Sato::Yoichi Sato::Katsushi Ikeuchi:::Acquiring a Radiance Distribution to Superimpose Virtual Objects onto a Real Scene.
+journals/tvcg/Cani-GascuelD97:::Marie-Paule Cani-Gascuel::Mathieu Desbrun:::Animation of Deformable Models Using Implicit Surfaces.
+journals/tvcg/SchneiderW98:::Bengt-Olaf Schneider::Jim van Welzen:::Efficient Polygon Clipping for an SIMD Graphics Pipeline.
+journals/vldb/SinghalS97:::Vigyan Singhal::Alan Jay Smith:::Analysis of Locking Behavior in Three Real Database Systems.
+journals/vldb/LiR99:::Zhe Li::Kenneth A. Ross:::Fast Joins Using Join Indices.
+journals/vldb/WidomS00:::Jennifer Widom::Oded Shmueli:::Foreword by the VLDB '98 PC Chairmen: Best Papers of VLDB '98.
+journals/vldb/AlbanoGO95:::Antonio Albano::Giorgio Ghelli::Renzo Orsini:::Fibonacci: A Programming Language for Object Databases
+journals/vldb/PoulovassilisS96:::Alexandra Poulovassilis::Carol Small:::Algebraic Query Optimisation for Database Programming Languages
+journals/vldb/JiangE98:::Haitao Jiang::Ahmed K. Elmagarmid:::Spatial and Temporal Content-Based Access to Hypervideo Databases.
+journals/vldb/BernsteinPS00:::Philip A. Bernstein::Shankar Pal::David Shutt:::Context-based prefetch - an optimization for implementing objects on relations.
+journals/vldb/DanYC95:::Asit Dan::Philip S. Yu::Jen-Yao Chung:::Characterization of Database Access Pattern for Analytic Prediction of Buffer Hit Probability
+journals/vldb/SaltenisJ02:::Simonas Saltenis::Christian S. Jensen:::Indexing of now-relative spatio-bitemporal data.
+journals/vldb/DeyBS96:::Debabrata Dey::Terence M. Barron::Veda C. Storey:::A Complete Temporal Relational Algebra.
+journals/vldb/DiazJ97:::Oscar Díaz::Arturo Jaime:::EXACT: An Extensible Approach to Active Object-Oriented Databases.
+journals/vldb/BraumandlCKK00:::Reinhard Braumandl::Jens Claußen::Alfons Kemper::Donald Kossmann:::Functional-Join Processing.
+journals/vldb/AbiteboulCM98:::Serge Abiteboul::Sophie Cluet::Tova Milo:::A Logical View of Structured Files.
+journals/vldb/AslanM99:::Goksel Aslan::Dennis McLeod:::Semantic Heterogeneity Resolution in Federated Databases by Metadata Implantation and Stepwise Evolution.
+journals/vldb/Storey93:::Veda C. Storey:::Understanding Semantic Relationships
+journals/vldb/HansonCDERTX98:::Eric N. Hanson::I.-Cheng Chen::Roxana Dastur::Kurt Engel::Vijay Ramaswamy::Wendy Tan::Chun Xu:::A Flexible and Recoverable Client/Server Database Event Notification System.
+journals/vldb/IvesHW02:::Zachary G. Ives::Alon Y. Halevy::Daniel S. Weld:::An XML query engine for network-bound data.
+journals/vldb/BonifatiCP01:::Angela Bonifati::Stefano Ceri::Stefano Paraboschi:::Active rules for XML: A new paradigm for E-services.
+journals/vldb/AntoshenkovZ96:::Gennady Antoshenkov::Mohamed Ziauddin:::Query Processing and Optimization in Oracle Rdb
+journals/vldb/SwamiS95:::Arun N. Swami::K. Bernhard Schiefer:::Estimating Page Fetches for Index Scans with Finite LRU Buffers
+journals/vldb/Navarro02:::Gonzalo Navarro:::Searching in metric spaces by spatial approximation.
+journals/vldb/MihailaRT02:::George A. Mihaila::Louiqa Raschid::Anthony Tomasic:::Locating and accessing data repositories with WebSemantics.
+journals/vldb/MuckP97:::Thomas A. Mück::Martin L. Polaschek:::A Configrable Type Hierarchy Index for OODB.
+journals/vldb/SteinbrunnMK97:::Michael Steinbrunn::Guido Moerkotte::Alfons Kemper:::Heuristic and Randomized Optimization for the Join Ordering Problem.
+journals/vldb/CandanLS00:::K. Selçuk Candan::Eric Lemar::V. S. Subrahmanian:::View Management in Multimedia Databases.
+journals/vldb/SheikholeslamiCZ00:::Gholamhosein Sheikholeslami::Surojit Chatterjee::Aidong Zhang:::WaveCluster: A Wavelet Based Clustering Approach for Spatial Data in Very Large Databases.
+journals/vldb/RafieiM02:::Davood Rafiei::Alberto O. Mendelzon:::Efficient retrieval of similar shapes.
+journals/wwwj/WoodS97:::Lauren Wood::Jared Sorensen:::Document Object Model Requirements.
+journals/wwwj/KhareR97:::Rohit Khare::Adam Rifkin:::Capturing the State of Distributed Systems with XML.
+journals/geoinformatica/Estivill-CastroL02:::Vladimir Estivill-Castro::Ickjai Lee:::Multi-Level Clustering and its Visualization for Exploratory Spatial Analysis.
+journals/geoinformatica/ChengM99:::Tao Cheng::Martien Molenaar:::Diachronic Analysis of Fuzzy Objects.
+journals/geoinformatica/FlorianiMP00:::Leila De Floriani::Paola Magillo::Enrico Puppo:::Compressing Triangulated Irregular Networks.
+journals/geoinformatica/Pundt02:::Hardy Pundt:::Field Data Collection with Mobile GIS: Dependencies Between Semantics and Data Quality.
+journals/geoinformatica/Saalfeld98:::Alan Saalfeld:::Sorting Spatial Data for Sampling and Other Geographic Applications.
+journals/geoinformatica/LangWF01:::Dieter Lang::Stephan Winter::Andrew U. Frank:::Neighborhood Relations between Fields with Applications to Cellular Networks.
+journals/geoinformatica/HolblingKF98:::Werner Hölbling::Werner Kuhn::Andrew U. Frank:::Finite-Resolution Simplicial Complexes.
+journals/geoinformatica/LecordixPL97:::François Lecordix::Corinne Plazanet::Jean Philippe Lagrange:::A Platform for Research in Generalization: Application to Caricature.
+journals/geoinformatica/PlazanetBR98:::Corinne Plazanet::Nara Martini Bigolin::Anne Ruas:::Experiments with Learning Techniques for Spatial Model Enrichment and Line Generalization.
+journals/geoinformatica/GoodchildJ98:::Michael F. Goodchild::Robert Jeansoulin:::Editorial.
+journals/geoinformatica/HuangL99:::Bo Huang::Hui Lin:::Design of a Query Language for Accessing Spatial Analysis in the Web Environment.
+journals/geoinformatica/WinterF00:::Stephan Winter::Andrew U. Frank:::Topology in Raster and Vector Representation.
+journals/heuristics/KivijarviFN03:::Juha Kivijärvi::Pasi Fränti::Olli Nevalainen:::Self-Adaptive Genetic Algorithm for Clustering.
+journals/heuristics/Kirley02:::Michael Kirley:::A Cellular Genetic Algorithm with Disturbances: Optimisation Using Dynamic Spatial Interactions.
+journals/heuristics/HongKM97:::Inki Hong::Andrew B. Kahng::Byung Ro Moon:::Improved Large-Step Markov Chain Variants for the Symmetric TSP.
+journals/heuristics/CaramiaD02:::Massimiliano Caramia::Paolo Dell'Olmo:::Constraint Propagation in Graph Coloring.
+journals/heuristics/IlichS01:::Nesa Ilich::Slobodan P. Simonovic:::An Evolution Program for Non-Linear Transportation Problems.
+journals/heuristics/CostaS98:::Daniel Costa::Edward A. Silver:::Tabu Search When Noise is Present: An Illustration in the Context of Cause and Effect Analysis.
+journals/heuristics/LabatP03:::Jean-Marc Labat::Jean-Charles Pomerol:::Are Branch and Bound and A* Algorithms Identical?
+journals/heuristics/FernandezM99:::Elena Fernández::Rafael Martí:::GRASP for Seam Drawing in Mosaicking of Aerial Photographic Maps.
+journals/heuristics/JacobsonJSFK97:::Sheldon H. Jacobson::Alan W. Johnson::Kelly A. Sullivan::Mark A. Fleischer::Ashok Kumar:::Metaheuristics for a Flexible Assembly System Design Problem.
+journals/heuristics/ArmonyKLR00:::Mor Armony::John G. Klincewicz::Hanan Luss::Moshe B. Rosenwein:::Design of Stacked Self-Healing Rings Using a Genetic Algorithm.
+journals/heuristics/BalasN98:::Egon Balas::William Niehaus:::Optimized Crossover-Based Genetic Algorithms for the Maximum Cardinality and Maximum Weight Clique Problems.
+journals/heuristics/KovalyovW02:::Mikhail Y. Kovalyov::Frank Werner:::Approximation Schemes for Scheduling Jobs with Common Due Date on Parallel Machines to Minimize Total Tardiness.
+journals/heuristics/Wright01:::Mike Wright:::Subcost-Guided Search-Experiments with Timetabling Problems.
+journals/heuristics/BertsekasTW97:::Dimitri P. Bertsekas::John N. Tsitsiklis::Cynara Wu:::Rollout Algorithms for Combinatorial Optimization.
+journals/heuristics/ThomasS98:::Paul R. Thomas::Said Salhi:::A Tabu Search Approach for the Resource Constrained Project Scheduling Problem.
+journals/heuristics/BistarelliMR02:::Stefano Bistarelli::Ugo Montanari::Francesca Rossi:::Soft Constraint Logic Programming and Generalized Shortest Path Problems.
+journals/heuristics/DavoineHV03:::Thomas Davoine::Peter L. Hammer::Béla Vizvári:::A Heuristic for Boolean Optimization Problems.
+journals/heuristics/CostaHM02:::Marie-Christine Costa::Alain Hertz::Michel Mittaz:::Bounds and Heuristics for the Shortest Capacitated Paths Problem.

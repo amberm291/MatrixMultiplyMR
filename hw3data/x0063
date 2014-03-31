@@ -1,0 +1,200 @@
+conf/icml/Kodratoff90:::Yves Kodratoff:::Using Abductive Recovery of Failed Proofs for Problem Solving by Analogy.
+conf/icml/VilaltaR97:::Ricardo Vilalta::Larry A. Rendell:::Integrating Feature Construction with Multiple Classifiers in Decision Tree Induction.
+conf/icml/DrummondH00:::Chris Drummond::Robert C. Holte:::Exploiting the Cost (In)sensitivity of Decision Tree Splitting Criteria.
+conf/icml/Tecuci92:::Gheorghe Tecuci:::Cooperation in Knowledge Base Refinement.
+conf/icml/BelyaevF91:::Leonid V. Belyaev::Loretta P. Falcone:::Noise-Resistant Classification.
+conf/icml/DeJong95:::Gerald DeJong:::A Case Study of Explanation-Based Control.
+conf/icml/SilverFIVB90:::Bernard Silver::William J. Frawley::Glenn A. Iba::John Vittal::Kelly Bradford:::A Framework for Multi-Paradigmatic Learning.
+conf/icml/FriessCC98:::Thilo-Thomas Frieß::Nello Cristianini::Colin Campbell:::The Kernel-Adatron Algorithm: A Fast and Simple Learning Procedure for Support Vector Machines.
+conf/icml/Spackman88:::Kent A. Spackman:::Learning Categorical Decision Criteria in Biomedical Domains.
+conf/icml/KimuraK98:::Hajime Kimura::Shigenobu Kobayashi:::An Analysis of Actor/Critic Algorithms Using Eligibility Traces: Reinforcement Learning with Imperfect Value Function.
+conf/icml/Fuchs95:::Matthias Fuchs:::Learning Proof Heuristics by Adaptive Parameters.
+conf/icml/NatarajanT88:::Balas K. Natarajan::Prasad Tadepalli:::Two New Frameworks for Learning.
+conf/icml/MladenicG99:::Dunja Mladenic::Marko Grobelnik:::Feature Selection for Unbalanced Class Distribution and Naive Bayes.
+conf/icml/Ellman93:::Thomas Ellman:::Synthesis of Abstraction Hierarchies for Constraint Satisfaction by Clustering Approximately Equivalent Objects.
+conf/icml/CravenPSBG00:::Mark Craven::David Page::Jude W. Shavlik::Joseph Bockhorst::Jeremy D. Glasner:::Using Multiple Levels of Learning and Diverse Evidence to Uncover Coordinately Controlled Genes.
+conf/icml/RosipalTM03:::Roman Rosipal::Leonard J. Trejo::Bryan Matthews:::Kernel PLS-SVC for Linear and Nonlinear Classification.
+conf/icml/Elomaa94:::Tapio Elomaa:::In Defense of C4.5: Notes Learning One-Level Decision Trees.
+conf/icml/RachlinKSA94:::John Rachlin::Simon Kasif::Steven Salzberg::David W. Aha:::Towards a Better Understanding of Memory-based Reasoning Systems.
+conf/icml/Quinlan95:::J. Ross Quinlan:::MDL and Categorial Theories (Continued).
+conf/icml/Helft88:::Nicolas Helft:::Learning Systems of First-Order Rules.
+conf/icml/SchefferGD97:::Tobias Scheffer::Russell Greiner::Christian Darken:::Why Experimentation can be better than "Perfect Guidance".
+conf/icod/Gray83:::Mike Gray:::Databases for Computer-Aided Design.
+conf/icod/StempleRVS83:::David W. Stemple::Krithi Ramamritham::Stephen Vinter::Tim Sheard:::Operating System Support for Abstract Data(base) Types.
+conf/icod/LoomisA80:::Mary E. S. Loomis::Frank W. Allen:::Paging Behaviour and Performance Optimization in a Codasyl DBMS.
+conf/icod/Risch80:::Tore Risch:::A Fexible and External Data Dictionary System for Program Generation.
+conf/icod/EffelsbergHR80:::Wolfgang Effelsberg::Theo Härder::Andreas Reuter:::Measurement and Evaluation of Techniques for Implementing Cosets - A Case Study.
+conf/icod/SelingerA80:::Patricia G. Selinger::Michel E. Adiba:::Access Path Selection in Distributed Database Management Systems.
+conf/icnp/BaoG02:::Lichun Bao::J. J. Garcia-Luna-Aceves:::Hybrid Channel Access Scheduling in Ad Hoc Networks.
+conf/icnp/GriffinW02:::Timothy Griffin::Gordon T. Wilfong:::Analysis of the MED Oscillation Problem in BGP.
+conf/icnp/HeLM98:::J. He::M. Liu::M. Muller:::Performance of Voice/Data Integration for Two MAC Protocols in DS-CDMA Wireless Networks.
+conf/icnp/LiC98:::Dan Li::David R. Cheriton:::OTERS: (On-Tree Efficient Recovery using Subcasting): A Reliable Multicast Protocol.
+conf/icnp/LeungL00:::Ka-Cheong Leung::Victor O. K. Li:::Generalized Load Sharing for Packet-Switching Networks.
+conf/icnp/CalvertGSW00:::Kenneth L. Calvert::Jim Griffioen::Amit Sehgal::Su Wen:::Building a Programmable Multiplexing Service Using Concast.
+conf/icnp/ZhangWFW00:::Xiaobing Zhang::Shyhtsun Felix Wu::Zhi Fu::Tsung-Li Wu:::Malicious Packet Dropping: How It Might Impact the TCP Performance and How We Can Detect It.
+conf/icnp/QiaoJGZW99:::Chunming Qiao::Myoungki Jeong::Amit Guha::Xijun Zhang::John Wei:::WDM Multicasting in IP over WDM Networks.
+conf/icnp/CheungM99:::Gene Cheung::Steven McCanne:::Dynamic Memory Model Based Framework for Optimization of IP Address Lookup Algorithms.
+conf/icnp/KungW99:::H. T. Kung::Shie Yuan Wang:::TCP Trunking: Design, Implementation and Performance.
+conf/icnp/HasegawaKM00:::Go Hasegawa::Kenji Kurata::Masayuki Murata:::Analysis and Improvement of Fairness between TCP Reno and Vegas for Deployment of TCP Vegas to the Internet.
+conf/icnp/FuGML02:::Zhenghua Fu::Benjamin Greenstein::Xiaoqiao Meng::Songwu Lu:::Design and Implementation of a TCP-Friendly Transport Protocol for Ad Hoc Wireless Networks.
+conf/icnp/GriffinSW99:::Timothy Griffin::F. Bruce Shepherd::Gordon T. Wilfong:::Policy Disputes in Path-Vector Protocols.
+conf/icpp/Lo88:::Virginia Mary Lo:::Algorithms for Static Task Assignment and Symmetric Contraction in Distributed Computing Systems.
+conf/icpp/Lu86:::Mi Lu:::Constructing the Voronoi Diagram on a Mesh-Connected Computer.
+conf/icpp/Szymanski86a:::Ted H. Szymanski:::On the Universality of Multistage Interconnection Networks.
+conf/icpp/OpsahlP86:::Torstein Opsahl::Dennis Parkinson:::An Algorithm for Solving Sparse Sets of Linear Equations with an Almost Tri-Diagonal Structure on SIMD Computers.
+conf/icpp/Fijany93:::Amir Fijany:::Time Parallel Algorihts for Solution of Linear Parabolic PDEs.
+conf/icpp/ChengG96:::Albert Mo Kim Cheng::Sharon X. Gu:::Improving the I/O Performance of Real-Time Database Systems with Multiple-Disk Storage Structures.
+conf/icpp/ZhangSY87:::Chang N. Zhang::Behrooz Shirazi::David Y. Y. Yun:::Parallel Designs for Chinese Remainder Conversion.
+conf/icpp/Amano90:::Hideharu Amano:::A Fault Tolerant Batcher Network.
+conf/icpp/Browne85:::James C. Browne:::Formulation and Programming of Parallel Computations: A Unified Approach.
+conf/icpp/VarmanR86:::Peter J. Varman::I. V. Ramakrishnan:::A Fault-Tolerant VLSI Matrix Multiplier.
+conf/icpp/BanikazemiMP98:::Mohammad Banikazemi::Vijay Moorthy::Dhabaleswar K. Panda:::Efficient Collective Communication on Heterogeneous Networks of Workstations.
+conf/icpp/SelvakennedyR99:::S. Selvakennedy::Ashwani K. Ramani:::Performance Study of Token-Passing Protocol for Traffic Multiplicity in Optical Networks.
+conf/icpp/RangarajanHT92:::Sampath Rangarajan::Yennun Huang::Satish K. Tripathi:::Computing Threshold Times for k-Resilient Protocols.
+conf/icpp/Cappello85:::Peter R. Cappello:::A Mesh Automaton for Solving Dense Linear Systems.
+conf/icpp/Al-HajeryB93:::Majed Z. Al-Hajery::Kenneth E. Batcher:::On the Bit-Level Complexity of Bitonic Sorting Networks.
+conf/icpp/MenezesBS91:::Bernard L. Menezes::Umesh Bakhru::Randolph Sergent:::New Bounds on the Reliability of Two Augmented Shuffle-Exchange Networks.
+conf/icpp/Leiserson85:::Charles E. Leiserson:::Fat-Trees: Universal Networks for Hardware-Efficient Supercomputing.
+conf/icpp/GilR86:::Joseph Gil::Larry Rudolph:::Counting and Packing in Parallel.
+conf/icpp/KudohAMHYNYF95:::Tomohiro Kudoh::Hideharu Amano::Takashi Matsumoto::Kei Hiraki::Yulu Yang::Katsunobu Nishimura::Koichi Yoshimura::Yasuhito Fukushima:::Hierarchical Bit-Map Directory Schemes on the RDT Interconnection Network for a Massively Parallel Processor JUMP-1.
+conf/icpp/HanC90:::Tack-Don Han::David A. Carlson:::The Design and Analysis of the Parallel Prefix Computation Algorithm.
+conf/icpp/MirankerKB90:::Daniel P. Miranker::Chin-Ming Kuo::James C. Browne:::Parallelizing Compilation of Rule-Based Programs.
+conf/icpp/IamnitchiF00:::Adriana Iamnitchi::Ian T. Foster:::A Problem-Specific Fault-Tolerance Mechanism for Asynchronous, Distributed Systems.
+conf/icpp/ShetlerB91:::Joy Shetler::Steven E. Butner:::Multiple Stream Execution on the DART Processor.
+conf/icpp/HoelS95:::Erik G. Hoel::Hanan Samet:::Data-Parallel Primitives for Spatial Operations.
+conf/icpp/Efe93:::Kemal Efe:::Embedding Large Mesh of Trees and Related Networks in the Hypercube With Load Balancing.
+conf/icpp/FuL91:::Jin-Yuan Fu::Ferng-Ching Lin:::Optimal Parallel External Merging under Hardware Constraints.
+conf/icpp/Han91:::Yijie Han:::A Parallel Algorithm for the PROFIT/COST Problem.
+conf/icpp/MalyKZ94:::Kurt Maly::S. Kelkar::Mohammad Zubair:::Scientific Computing Using pPVM.
+conf/icpp/HoJ90:::Ching-Tien Ho::S. Lennart Johnsson:::Embedding Three-Dimensional Meshes in Boolean Cubes by Graph Decomposition.
+conf/icpp/LiM87:::Hungwen Li::Massimo Maresca:::Polymorphic-Torus Network.
+conf/icpp/LiS92:::Jianzhong Li::Jaideep Srivastava:::A High Dimensional Array Assignment Method for Parallel Computing Systems.
+conf/icpp/Mok85:::Aloysius K. Mok:::A Graph-Based Computation Model for Real-Time Systems.
+conf/icpp/HuiC96:::Chi-Chung Hui::Samuel T. Chanson:::A Hydro-Dynamic Approach to Heterogeneous Dynamic Load Balancing in a Network of Computers.
+conf/icpp/WangY91:::Hong Wang::Qing Yang:::Prime Cube Graph Approach for Processor Allocation in Hypercube Multiprocessors.
+conf/icpp/MorenoL88:::Jaime H. Moreno::Tomás Lang:::Graph-based Partitioning of Matrix Algorithms for Systolic Arrays: Application to Transitive Closure.
+conf/icpp/Rao90:::Nageswara S. V. Rao:::On Parallel Algorithms for Single-Fault Diagnosis.
+conf/icpp/OhringD93:::Sabine R. Öhring::Sajal K. Das:::The Folded Petersen Network: A New Communication-Efficient Multiprocessor Topology.
+conf/icpp/WuS90:::Min-You Wu::Wei Shu:::A Dynamic Partitioning Strategy on Distributed Memory Systems.
+conf/icpp/Yeh03:::Chi-Hsiang Yeh:::The Robust Middleware Approach for Transparent and Systematic Fault Tolerance in Parallel and Distributed Systems.
+conf/icpp/XuN94:::Hong Xu::Lionel M. Ni:::Optimizing Data Decomposition for Data Parallel Programs.
+conf/icpp/Loveman96:::David B. Loveman:::Fortran: A Modern Standard Programming Language For Parallel Scalable High Performance Technical Computing.
+conf/icpp/YuY92:::Ming-Shing Yu::Cheng-Hsing Yang:::An Optimal Parallel Algorithm for the Domatic Partition Problem on Interval Graphs.
+conf/icpp/WangKSHL99:::Biing-Feng Wang::Shan-Chyun Ku::Keng-Hua Shi::Ting-Kai Hung::Pei-Sen Liu:::Parallel Algorithms for the Tree Bisector Problem and Applications.
+conf/icpp/MehrotraG85:::Ravi Mehrotra::Edward F. Gehringer:::Superlinear Speedup Through Randomized Algorithms.
+conf/icpp/MukkamalaS88:::Ravi Mukkamala::Roger K. Shultz:::Performance Comparision of Two Multiprocessor B-Link Tree Implementations.
+conf/icpp/HoleyI90:::J. Andrew Holey::Oscar H. Ibarra:::Iterative Algorithms for Planar Convex Hull on Mesh-Connected Arrays.
+conf/icpp/JouA88:::Jing-Yang Jou::Jacob A. Abraham:::Fault-Tolerant Algorithms and Architectures for Real Time Signal Processing.
+conf/icpp/KwokAG96:::Yu-Kwong Kwok::Ishfaq Ahmad::Jun Gu:::FAST: A Low-Complexity Algorithm for Efficient Scheduling of DAGs on Parallel Processors.
+conf/icpp/KesavanP96:::Ram Kesavan::Dhabaleswar K. Panda:::Minimizing Node Contention in Multiple Multicast on Wormhole k-ary N-Cube Networks.
+conf/icpp/LeeB96:::Jae-dong Lee::Kenneth E. Batcher:::Minimizing Communication of a Recirculating Bitonic Sorting Network.
+conf/icpp/LeeL86:::Kyungsook Y. Lee::Daeshik Lee:::Control Algorithms for the Augmented Data Manipulator Network.
+conf/icpp/LiaK01:::Wei-Kuo Lia::Chung-Ta King:::Proxy Prefetch and Prefix Caching.
+conf/icpp/Lin91a:::Tsau Young Lin:::Concurrent Automata and Parallel Architecture.
+conf/icpp/LinF90:::Tein-Hsiang Lin::Adly T. Fam:::A Hierarchical Approach for the Design of Two-Dimensional Fault-Tolerant Systolic Arrays.
+conf/icpp/LinM92:::Zheng Lin::Jack Minker:::A Distributed Load Balancing Scheme for Parallel Logic Programming.
+conf/icpp/LinN90:::Xiaola Lin::Lionel M. Ni:::Multicast Communication in Multicomputer Networks.
+conf/icpp/LinW83:::Woei Lin::Chuan-lin Wu:::Configuring Computation Tree Topologies on a Distributed Computing System.
+conf/icpp/Weiss91:::Shlomo Weiss:::Multiple-Port Memory Access in Decoupled Architecture Processors.
+conf/icpp/EvripidouG88:::Paraskevas Evripidou::Jean-Luc Gaudiot:::Iterative Algorithms in a Data-Driven Environment.
+conf/icpp/LeBlancJ87:::Thomas J. LeBlanc::Sanjay Jain:::Crowd Control: Coordinating Processes in Parallel.
+conf/icpp/HsuSC03:::Chih-Shun Hsu::Jang-Ping Sheu::Yen-Jung Chang:::Efficient Broadcasting Protocols for Regular Wireless Sensor Networks.
+conf/icpp/HsuWL90:::Wen-Jing Hsu::Li-Ran Wu::Xiaola Lin:::Optimal Algorithms for Labeling Image Components.
+conf/icpp/NiGM95:::Lionel M. Ni::Yadong Gui::Sherry Moore:::Performance Evaluation of Switch-Based Wormhole Networks.
+conf/icpp/WangLC90:::Biing-Feng Wang::Chi-Jen Lu::Gen-Huey Chen:::Constant Time Algorithms for the Transitive Closure Problem and Its Applications.
+conf/icpp/RaghavendraSH93:::C. S. Raghavendra::M. A. Sridhar::S. Harikumar:::Prefix Computation On a Faulty Hypercube.
+conf/icpp/MooreHCKMMW95:::Lantz Moore::Debra A. Hensgen::David Charley::Venkatram Krishnaswamy::Dale E. Martin::Timothy J. McBrayer::Philip A. Wilsey:::graze: A Tool for Performance Visualization and Analysis.
+conf/icpp/VerstoepLB96:::Kees Verstoep::Koen Langendoen::Henri E. Bal:::Efficient Reliable Multicast on Myrinet.
+conf/icpp/PanC91:::Yi Pan::Y. H. Chuang:::Block Shift Network: A New Interconnection-Network for Efficient Parallel Computation.
+conf/icpp/KallahallaV98:::Mahesh Kallahalla::Peter J. Varman:::Improving Parallel-Disk Buffer Management using Randomized Writeback.
+conf/icpp/NajjarG87:::Walid A. Najjar::Jean-Luc Gaudiot:::Multi-Level Execution In Data-Flow Architectures.
+conf/icpp/KruskalRS85:::Clyde P. Kruskal::Larry Rudolph::Marc Snir:::The Power of Parallel Prefix.
+conf/icpp/KruskalRS86:::Clyde P. Kruskal::Larry Rudolph::Marc Snir:::Efficient Parallel Algorithms for Graph Models.
+conf/icpp/ScottLM88:::Michael L. Scott::Thomas J. LeBlanc::Brian D. Marsh:::Design Rationale for Psyche a General-Purpose Multiprocessor Operating System.
+conf/icpp/Levitan85:::Steven P. Levitan:::Evaluation Criteria for Communication Structures in Parallel Architectures.
+conf/icpp/HorngK91:::Ming-yun Horng::Leonard Kleinrock:::On the Performance of a Deadlock-free Routing Algorithm for Boolean n-Cube Interconnection Networks with Finite Buffers.
+conf/icpp/JagerL87:::W. J. Jager::Wayne M. Loucks:::The P-MACHIne : A Hardware Message Accelerator for a Multiprocessor System.
+conf/icpp/Rice96:::John R. Rice:::Measuring the Performance of Parallel Computations.
+conf/icpp/EvansK93:::John D. Evans::Robert R. Kessler:::Allocation of Parallel Programs With Time Variant Resource Requirements.
+conf/icpp/CalderonGCFP01:::Alejandro Calderón::Félix García::Jesús Carretero::Javier Fernández::Oscar Pérez:::New Techniques for Collective Communications in Clusters: A Case Study with MPI.
+conf/icpp/Shen90:::Weicheng Shen:::Parallel Architectures for a Class of Neural Net Based Algorithms.
+conf/icpp/ShuW93:::Wei Shu::Min-You Wu:::Solving Dynamic and Irregular Problems on SIMD Architectures with Runtime Support.
+conf/icpp/FrankV93:::Matthew I. Frank::Mary K. Vernon:::A Hybrid Shared Memory/Message Passing Parallel Machine.
+conf/icpp/TanD90:::Swie-Tsing Tan::David Hung-Chang Du:::On Subcube Allocation and Relinquishment Schemes for Hypercube Connected Multiprocessor.
+conf/icpp/HouckA92:::Christopher R. Houck::Gul Agha:::HAL: A High-Level Actor Language and Its Distributed Implementation.
+conf/icpp/GhosalB87:::Dipak Ghosal::Laxmi N. Bhuyan:::Performance Analysis of the MIT Tagged Token Dataflow Architecture.
+conf/icpp/NowatzykABKPRV95:::Andreas Nowatzyk::Gunes Aybay::Michael C. Browne::Edmund J. Kelly::Michael Parkin::Bill Radke::Sanjay Vishin:::The S3.mp Scalable Shared Memory Multiprocessor.
+conf/icpp/Anderson89:::Thomas E. Anderson:::The Performance Implications of Spin-Waiting Alternatives for Shared-Memory Multiprocessors.
+conf/icpp/HuelsbergenHL90:::Lorenz Huelsbergen::Douglas Hahn::James R. Larus:::Exact Data Dependence Analysis Using Data Access Descriptors.
+conf/icpp/JenqS87:::Jing-Fu Jenq::Sartaj Sahni:::All Pairs Shortest Paths on a Hypercube Multiprocessor.
+conf/icpp/UhtW86:::Augustus K. Uht::Robert G. Wedig:::Hardware Extraction of Low-Level Concurrency from Serial Instruction Streams.
+conf/icpp/KoppelmanO89:::David M. Koppelman::A. Yavuz Oruç:::A Self-Routing Permutation Network.
+conf/icpp/UlmB98:::Darrell R. Ulm::Johnnie W. Baker:::Simulating PRAM with a MSIMD model (ASC).
+conf/icpp/Rosendale83:::John Van Rosendale:::Minimizing Inner Product Data Dependencies in Conjugate Gradient Iteration.
+conf/icpp/ManjikianA96:::Naraig Manjikian::Tarek S. Abdelrahman:::Scheduling of Wavefront Parallelism on Scalable Shared-memory Multiprocessors.
+conf/icpp/ChenN85:::Pin-Yee Chen::Miguel Nussbaum:::Sorting with Systolic Architecture.
+conf/icpp/ChenS93:::Tzung-Shi Chen::Jang-Ping Sheu:::Communication-Free Data Allocation Techniques for Parallelizing Compilers on Multicomputers.
+conf/icpp/ChenT91:::Hsieng-Lung Chen::Nian-Feng Tzeng:::Fault-Tolerant Resource Placement in Hypercube Computers.
+conf/icpp/SarhanD01:::Nabil J. Sarhan::Chita R. Das:::Adaptive Block Rearrangement Algorithms for Video-On-Demand Servers.
+conf/icpp/ChiuC96:::Ge-Ming Chiu::Kai-Shung Chen:::Fault-Tolerant Multicast in Hypercube Multicomputers.
+conf/icpp/TheelS99:::Oliver E. Theel::Thomas Strauß:::An Excursion to the Zoo of Dynamic Coterie-Based Replication Schemes.
+conf/icpp/WohlC91:::Peter Wohl::Thomas W. Christopher:::Parallel Conceptual Clustering through Message-Driven Computing.
+conf/icpp/RaghavendraB90:::C. S. Raghavendra::Rajendra V. Boppana:::On Methods for Fast and Efficient Parallel Memory Access.
+conf/icpp/Wolfe86:::Michael Wolfe:::Advanced Loop Interchanging.
+conf/icpp/Wise86:::David S. Wise:::Parallel Decomposition of Matrix Inversion Using Quadtrees.
+conf/icpp/PotterCW93:::Terence M. Potter::Hsiao-chen Chung::Chuan-lin Wu:::Reconfigurable Branch Processing Strategy in Super-Scalar Microprocessors.
+conf/icpp/WonS87:::Youngju Won::Sartaj Sahni:::Maze Routing on a Hypercube Multiprocessor Computer.
+conf/icpp/GopalakrishnanRK86:::P. S. Gopalakrishnan::I. V. Ramakrishnan::Laveen N. Kanal:::Parallel Approximate Algorithms for the 0-1 Knapsack Problem.
+conf/icpp/WuHL93:::Ching-Farn Eric Wu::Yarsun Hsu::Yew-Huey Liu:::Efficient Stack Simulation for Shared Memory Set-Associative Multiprocessor Caches.
+conf/icpp/HelmboldMW90:::David P. Helmbold::Charles E. McDowell::Jian-Zhong Wang:::Analyzing Traces with Anonymous Synchronization.
+conf/icpp/ThurimellaY92:::Ramakrishna Thurimella::Yaacov Yesha:::A Scheduling Principle for Precedence Graphs with Communication Delay.
+conf/icpp/Yeh03a:::Chi-Hsiang Yeh:::Optimal Layout for Butterfly Networks in Multilayer VLSI.
+conf/icpp/YehF91:::Yao-ming Yeh::Tse-Yun Feng:::Fault Tolerant Routing on a Class of Rearrangeable Networks.
+conf/icpp/XuHC91:::H. H. Xu::Floyd B. Hanson::Siu Leung Chung:::Optimal Data Parallel Methods for Stochastic Dynamical Programming.
+conf/icpp/MartensJ90:::Jeff D. Martens::D. N. Jayasimha:::A Tree Structured Hierarchical Memory Multiprocessor.
+conf/icpp/QiaoN96:::Wenjian Qiao::Lionel M. Ni:::Adaptive Routing in Irregular Networks Using Cut-Through Switches.
+conf/icpp/GulatiPSW01:::Abhishek Gulati::Dhabaleswar K. Panda::P. Sadayappan::Pete Wyckoff:::NIC-Based Rate Control for Proportional Bandwidth Allocation in Myrinet Clusters.
+conf/icpp/ProdanF02:::Radu Prodan::Thomas Fahringer:::ZEN: A Directive-Based Language for Automatic Experiment Management of Distributed and Parallel Programs.
+conf/icpp/YuWD94:::Philip S. Yu::Kun-Lung Wu::Asit Dan:::Dynamic Parity Grouping for Improving Write Performance of RAID-5 Disk Arrays.
+conf/icpp/DasMM92:::Amitabha Das::Louise E. Moser::P. M. Melliar-Smith:::PAL: A Language for Parallel Asynchronous Computation.
+conf/icpp/JonesL98:::Thomas S. Jones::Ahmed Louri:::Media Access Protocols For A Scalable Optical Interconnection Network.
+conf/icpp/FulghamCS91:::Melanie L. Fulgham::Robert Cypher::Jorge Sanz:::A Comparison of SIMD Hypercube Routing Strategies.
+conf/icpp/XingB98:::Zhaoyun Xing::Prithviraj Banerjee:::A Parallel Algorithm for Timing-driven Global Routing for Standard Cells.
+conf/icpp/Tamaki85:::Hisao Tamaki:::A Distributed Unification Scheme for Systolic Logic Programs.
+conf/icpp/YangW02a:::Yuanyuan Yang::Jianchao Wang:::Routing Permutations with Link-Disjoint and Node-Disjoint Paths in a Class of Self-Routable Networks.
+conf/icpp/MirankerA90:::Daniel P. Miranker::Archie D. Andrews:::On Balanced Synchronous Parallel Computers for AI.
+conf/icpp/RobbinsR91:::Kay A. Robbins::Steven Robbins:::Bus Conflicts for Logical Memory Banks on a Cray Y-MP Type Processor System.
+conf/icpp/NovilloUS98:::Diego Novillo::Ronald C. Unrau::Jonathan Schaeffer:::Concurrent SSA Form in the Presence of Mutual Exclusion.
+conf/icpp/Sensen99:::Norbert Sensen:::Algorithms for a Job-Scheduling Problem within a Parallel Digital Library.
+conf/icpp/RamanujanK86:::Ranga S. Ramanujan::Jon G. Kuhl:::A New Structuring Mechanism for Support of Spatially Redundant Distributed Computation.
+conf/icpp/ChoudharyP90:::Alok N. Choudhary::Janak H. Patel:::Performance Evaluation of Clusters of NETRA: An Architecture for Computer Vision Systems.
+conf/icpp/ReevesB83:::Anthony P. Reeves::John D. Bruner:::: A Parallel P-Code for Parallel Pascal and Other High Level Languages.
+conf/icpp/NicolauN92:::Alexandru Nicolau::Steven Novack:::An Efficient Global Resource Constrained Technique for Exploiting Instruction Level Parallelism.
+conf/icpp/GriswoldHNS90:::William G. Griswold::Gail A. Harrison::David Notkin::Lawrence Snyder:::How Port Ensembles Aid the Efficient Retargeting of Reduction Algorithms.
+conf/icpp/KempF96:::Gregory A. Kemp::Manoj Franklin:::PEWs: A Decentralized Dynamic Scheduler for ILP Processing.
+conf/icpp/FinebergC92:::Samuel A. Fineberg::Thomas L. Casavant:::A Preliminary Performance Evaluation of the Seamless Parallel Processing System Architecture.
+conf/icpp/JradH87:::Ahmad M. Jrad::Richard W. Hall:::Orthogonal Fast Channels: An Enhanced Mesh Architecture.
+conf/icpp/NigamSK90:::Madhusudan Nigam::Sartaj Sahni::Balaji Krishnamurthy:::Embedding Hamiltonians and Hypercubes in Star Interconnection Graphs.
+conf/icpp/LoRGKMT90:::Virginia Mary Lo::Sanjay V. Rajopadhye::Samik Gupta::David Keldsen::Moataz A. Mohamed::Jan Arne Telle:::OREGAMI: Software Tools for Mapping Parallel Computations to Parallel Architectures.
+conf/icpp/YehP99a:::Chi-Hsiang Yeh::Behrooz Parhami:::Routing and Embeddings in Cyclic Petersen Networks: An Efficient Extension of the Petersen Graph.
+conf/icpp/DingB93:::Jianxun Ding::Laxmi N. Bhuyan:::An Adaptive Submesh Allocation Strategy For Two-Dimensional Mesh Connected Systems.
+conf/icpp/KimBD00:::Victor Kim::Prithviraj Banerjee::Kaushik De:::Fine-Grained Parallel VLSI Synthesis for Commercial CAD on a Network of Workstations.
+conf/icpp/GohbergKAS91:::Israel Gohberg::Israel Koltracht::Amir Averbuch::Barak Shoham:::Timing Analysis of a Parallel Algorithm for Toeplitz Matrices on a MIMD Parallel Machine.
+conf/icpp/LakshmanGHT91:::T. V. Lakshman::Dipak Ghosal::Yennun Huang::Satish K. Tripathi:::Effective Load and Resource Sharing in Parallel Protocol-Processing Systems.
+conf/icpp/FragopoulouA91:::Paraskevi Fragopoulou::Selim G. Akl:::A Parallel Algorithm For Computing Fourier Transforms On the Star Graph.
+conf/icpp/GuptaK93:::Anshul Gupta::Vipin Kumar:::Scalability of Parallel Algorithms for Matrix Multiplication.
+conf/icpp/GuptaP91:::Manish K. Gupta::David A. Padua:::Effects of Program Parallelization and Stripmining Transformation on Cache Performance in a Multiprocessor.
+conf/icpp/SchersonH91:::Isaac D. Scherson::Chunyao Huang:::Embedding Binary Trees in Orthogonal Graphs.
+conf/icpp/DeRoseGG96:::Luiz De Rose::Kyle Gallivan::Efstratios Gallopoulos:::3-D Land Avoidance and Load Balancing in Regional Ocean Simulation.
+conf/icpp/PrasadP87:::T. Hari Krishna Prasad::C. Pandurangan:::New Parallel Algorithms for the Maximum Empty Rectangle Problem.
+conf/icpp/NguyenLL93:::Trung N. Nguyen::Zhiyuan Li::David J. Lilja:::Efficient Use of Dynamically Tagged Directories Through Compiler Analysis
+conf/icpp/Dubois87:::Michel Dubois:::Effect of Invalidations on the Hit Ratio of Cache-Based Multiprocessors.
+conf/icpp/YoungG86:::Honesty C. Young::James R. Goodman:::The Design of a Queue-Based Vector Supercomputer.
+conf/icpp/FengWW02:::Wu-chun Feng::Michael S. Warren::Eric Weigle:::Honey, I Shrunk the Beowulf!
+conf/icpp/EberhardL96:::Andreas Eberhard::Jingke Li:::Contention-Free Communication Scheduling on 2D Meshes.
+conf/icpp/HelmanJ93:::David R. Helman::Joseph JáJá:::Efficient Image Processing Algorithms on the Scan Line Array Processor.
+conf/icpp/AllenP87:::Todd R. Allen::David A. Padua:::Debugging Parallel Fortran on a Shared Memory Machine.
+conf/icpp/XuanJZ98:::Dong Xuan::Weijia Jia::Wei Zhao:::Routing Algorithms for Anycast Messages.
+conf/icpp/HerbordtW91:::Martin C. Herbordt::Charles C. Weems:::Multi-associativity: A Framework for Solving Multiple Non-uniform Problem Instances Simultaneously on SIMD Arrays.
+conf/icpp/PeirST91:::Jih-Kwon Peir::Kimming So::Ju-Ho Tang:::Inter-Section Locality of Shared Data in Parallel Programs.
+conf/icpp/BirchlerET97:::Barbara D. Birchler::Abdol-Hossein Esfahanian::Eric Torng:::Sufficient Conditions for Optimal Multicast Communication.

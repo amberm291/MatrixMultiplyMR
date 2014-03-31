@@ -1,0 +1,200 @@
+conf/lfcs/GalmicheP92:::Didier Galmiche::Guy Perrier:::Automated Deduction in Additive and Multiplicative Linear Logic.
+conf/lfcs/Mullins92:::John Mullins:::Kleene Automata and Recursion Theory.
+conf/krdb/PazzagliaE98:::Jean-Christophe R. Pazzaglia::Suzanne M. Embury:::Bottom-up Integration of Ontologies in a Database Context.
+conf/krdb/LenzeriniNNS01:::Maurizio Lenzerini::Daniele Nardi::Werner Nutt::Dan Suciu:::Preface.
+conf/krdb/CaliCL00:::Andrea Calì::Diego Calvanese::Maurizio Lenzerini:::Semistructured data schemas with expressive constraints.
+conf/krdb/Ohlbach03:::Hans Jürgen Ohlbach:::Geotemporal Reasoning for Semantic Web Applications.
+conf/krdb/NapoliS96:::Amedeo Napoli::Arnaud Simon:::KR Meets DB for Data Mining.
+conf/krdb/SeligmanSMG98:::Leonard J. Seligman::Kenneth Smith::Inderjeet Mani::Barbara Gates:::Databases for Semistructures Data: How Useful Are They? (Position Paper).
+conf/krdb/KanzaNS99:::Yaron Kanza::Werner Nutt::Yehoshua Sagiv:::Incomplete Answers for Queries over Semistructured Data.
+conf/krdb/ArenasB98:::Marcelo Arenas::Leopoldo E. Bertossi:::Hypothetical Temporal Queries in Databases.
+conf/krdb/BuchheitDNS94:::Martin Buchheit::Francesco M. Donini::Werner Nutt::Andrea Schaerf:::Terminological Systems Revisited: Terminology = Schema + Views.
+conf/krdb/MenaKIS96:::Eduardo Mena::Vipul Kashyap::Arantza Illarramendi::Amit P. Sheth:::Managing Multiple Information Sources through Ontologies: Relationship between Vocabulary Heterogeneity and Loss of Information.
+conf/krdb/Jeusfeld94:::Manfred A. Jeusfeld:::Generating Queries from Complex Type Definitions.
+conf/krdb/BoufaidaB98:::Mahmoud Boufaïda::Zizette Boufriche-Boufaïda:::On Extending a Semantic Data Model with some Aspects of Rules and Objects.
+conf/krdb/YokotaBKK97:::Kazumasa Yokota::Yutaka Banjou::Takashi Kuroda::Takeo Kunishima:::Extensions of Query Processing Facilities in Mediator Systems.
+conf/krdb/SaltorR97:::Fèlix Saltor::Elena Rodríguez:::On Intelligent Access to Heterogeneous Information.
+conf/krdb/BergamaschiS97:::Sonia Bergamaschi::Claudio Sartori:::An Approach for the Extraction of Information from Heterogeneous Sources of Textual Data.
+conf/krdb/Dymetman02:::Marc Dymetman:::Document Content Authoring and Hybrid Knowledge Bases.
+conf/krdb/Demolombe99:::Robert Demolombe:::Database Validity and Completeness: Another Approach and its Formalisation in Modal Logic.
+conf/krdb/AlechinaDR01:::Natasha Alechina::Stéphane Demri::Maarten de Rijke:::Path Constraints from a Modal Logic Point of View.
+conf/lics/BucciarelliLPS99:::Antonio Bucciarelli::Silvia De Lorenzis::Adolfo Piperno::Ivano Salvo:::Some Computational Properties of Intersection Types.
+conf/lics/Xi00:::Hongwei Xi:::Imperative Programming with Dependent Types.
+conf/lics/CharatonikMNPW98:::Witold Charatonik::David A. McAllester::Damian Niwinski::Andreas Podelski::Igor Walukiewicz:::The Horn Mu-calculus.
+conf/lics/EmersonES90:::E. Allen Emerson::Michael Evangelist::Jai Srinivasan:::On the Limits of Efficient Temporal Decidability (Extended Abstract)
+conf/lics/EmersonHT00:::E. Allen Emerson::John Havlicek::Richard J. Trefler:::Virtual Symmetry Reduction.
+conf/lics/DasD01:::Satyaki Das::David L. Dill:::Successive Approximation of Abstract Transition Relations.
+conf/lics/Hungar91:::Hardi Hungar:::Complexity Bounds of Hoare-style Proof Systems
+conf/lics/VaananenK92:::Phokion G. Kolaitis::Jouko A. Väänänen:::Generalized Quantifiers and Pebble Games on Finite Structures
+conf/lics/DeganoNM88:::Pierpaolo Degano::Rocco De Nicola::Ugo Montanari:::On the Consistency of ``Truly Concurrent'' Operational and Denotational Semantics (Extended Abstract)
+conf/lics/Dima02:::Catalin Dima:::Computing Reachability Relations in Timed Automata.
+conf/lics/PeledKP91:::Doron Peled::Shmuel Katz::Amir Pnueli:::Specifying and Proving Serializability in Temporal Logic
+conf/lics/AlurH90:::Rajeev Alur::Thomas A. Henzinger:::Real-time Logics: Complexity and Expressiveness
+conf/lics/Kwiatkowska03:::Marta Z. Kwiatkowska:::Model checking for probability and time: from theory to practice .
+conf/lics/GottlobP99:::Georg Gottlob::Reinhard Pichler:::Working with Arms: Complexity Results on Atomic Representations of Herbrand Models.
+conf/lics/Oliva03:::Paulo Oliva:::Polynomial-time Algorithms from Ineffective Proofs.
+conf/lics/NerodeRS89:::Anil Nerode::Jeffrey B. Remmel::Andre Scedrov:::Polynomially Grade Logic I: A Graded Version of System T
+conf/lics/Burstall94:::Rod M. Burstall:::Terms, Proofs, and Refinement (Extended abstract)
+conf/lics/Murthy92:::Chetan R. Murthy:::A Computational Analysis of Girard's Translation and LC
+conf/lics/DesharnaisJGP02:::Josee Desharnais::Radha Jagadeesan::Vineet Gupta::Prakash Panangaden:::The Metric Analogue of Weak Bisimulation for Probabilistic Processes.
+conf/lics/Baudinet88:::Marianne Baudinet:::Proving Termination Properties of Prolog Programs: A Semantic Approach
+conf/lics/Luo89:::Zhaohui Luo:::ECC, an Extended Calculus of Constructions
+conf/lics/GraedelM92:::Erich Grädel::Gregory L. McColm:::Deterministic vs. Nondeterministic Transitive Closure Logic
+conf/lics/Walker88:::D. J. Walker:::Bisimulations and Divergence
+conf/lics/Otto02:::Martin Otto:::Modal and Guarded Characterisation Theorems over Finite Transition Systems.
+conf/lics/Pitts96:::Andrew M. Pitts:::Reasoning about Local Variables with Operationally-Based Logical Relations.
+conf/lics/HillebrandKM93:::Gerd G. Hillebrand::Paris C. Kanellakis::Harry G. Mairson:::Database Query Languages Embedded in the Typed Lambda Calculus
+conf/lics/Janin97:::David Janin:::Automata, Tableaus and a Reduction Theorem for Fixpoint Calculi in Arbitrary Complete Lattices.
+conf/lics/Madhusudan03:::P. Madhusudan:::Model-checking Trace Event Structures.
+conf/lics/Pitts93b:::Andrew M. Pitts:::Relational Properties of Recursively Defined Domains
+conf/lics/Rathke97:::Julian Rathke:::Unique Fixpoint Induction for Value-Passing Processes (Extended Abstract).
+conf/lics/BlumensathG00:::Achim Blumensath::Erich Grädel:::Automatic Structures.
+conf/lics/Pratt95:::Vaughan R. Pratt:::The Stone Gamut: A Coordinatization of Mathematics
+conf/lics/Guerrini99:::Stefano Guerrini:::Correctness of Multiplicative Proof Nets Is Linear.
+conf/lics/JouannaudO91:::Jean-Pierre Jouannaud::Mitsuhiro Okada:::A Computation Model for Executable Higher-Order Algebraic Specification Languages
+conf/lics/JouannaudR99:::Jean-Pierre Jouannaud::Albert Rubio:::The Higher-Order Recursive Path Ordering.
+conf/lics/Jancar03:::Petr Jancar:::Strong Bisimilarity on Basic Parallel Processes is PSPACE-complete.
+conf/lics/KestenP95:::Yonit Kesten::Amir Pnueli:::A Complete Proof Systems for QPTL
+conf/lics/Dalen98:::Dirk van Dalen:::L. E. J. Brouwer's Intuitionism: A Revolution in Two Installments.
+conf/lics/GroveHK92:::Adam J. Grove::Joseph Y. Halpern::Daphne Koller:::Random Worlds and Maximum Entropy
+conf/lics/Baader97:::Franz Baader:::Combination of Compatible Reduction Orderings that are Total on Ground Terms.
+conf/lics/KfouryP99:::A. J. Kfoury::Santiago M. Pericás-Geertsen:::Type Inference for Recursive Definitions.
+conf/lics/Rossman03:::Benjamin Rossman:::Successor-Invariance in the Finite.
+conf/lics/Kolaitis90:::Phokion G. Kolaitis:::Implicit Definability on Finite Structures and Unambiguous Computations (Preliminary Report)
+conf/lics/GaifmanS89:::Haim Gaifman::Ehud Y. Shapiro:::Proof Theory and Semantics of Logic Programs
+conf/lics/McCusker96:::Guy McCusker:::Games and Full Abstraction for FPC.
+conf/lics/Mosses89a:::Peter D. Mosses:::Unified Algebras and Institutions
+conf/lics/Simpson99:::Alex K. Simpson:::Elementary Axioms for Categories of Classes.
+conf/lics/Robinson86:::John Alan Robinson:::Merging Functional with Relational Programming in a Reduction Setting (Abstract of an Invited Lecture)
+conf/lics/Robinson89:::Edmund Robinson:::How Complete is PER?
+conf/lics/Laird01:::James Laird:::A Fully Abstract Game Semantics of Local Exceptions.
+conf/lics/HarperHP87:::Robert Harper::Furio Honsell::Gordon D. Plotkin:::A Framework for Defining Logics
+conf/lics/HarperST89:::Robert Harper::Donald Sannella::Andrzej Tarlecki:::Structure and Representation in LF
+conf/lics/Libkin98:::Leonid Libkin:::On Counting Logics and Local Properties.
+conf/lics/RieckeS97:::Jon G. Riecke::Anders Sandholm:::A Relational Account of Call-by-Value Sequentiality.
+conf/lics/Taylor91:::Paul Taylor:::The Fixed Point Property in Synthetic Domain Theory
+conf/lics/BluteDEP97:::Richard Blute::Josee Desharnais::Abbas Edalat::Prakash Panangaden:::Bisimulation for Labelled Markov Processes.
+conf/lics/LiguoroPS92:::Ugo de'Liguoro::Adolfo Piperno::Richard Statman:::Retracts in simply typed lambda-beta-eta-calculus
+conf/lics/LaurentR03:::Olivier Laurent::Laurent Regnier:::About Translations of Classical Logic into Polarized Linear Logic.
+conf/lics/AfratiLR00:::Foto N. Afrati::Hans Leiß::Michel de Rougemont:::Definability and Compression.
+conf/lics/Niwinski88:::Damian Niwinski:::Fixed Points vs. Infinite Generation
+conf/lics/ChristensenHM93:::Søren Christensen::Yoram Hirshfeld::Faron Moller:::Decomposability, Decidability and Axiomatisability for Bisimulation Equivalence on Basic Parallel Processes
+conf/lics/Emden87:::Maarten H. van Emden:::First-order Predicate Logic as a Common Basis for Relational and Functional Programming (Abstract).
+conf/lics/Urzyczyn94:::Pawel Urzyczyn:::The Emptiness Problem for Intersection Types
+conf/lics/ClarkeJLV02:::Edmund M. Clarke::Somesh Jha::Yuan Lu::Helmut Veith:::Tree-Like Counterexamples in Model Checking.
+conf/lics/GrabowskiH88:::Michal Grabowski::Hardi Hungar:::On the Existence of Effective Hoare Logics
+conf/lics/Meyer86:::Albert R. Meyer:::Floyd-Hoare Logic Defines Semantics: Preliminary Version
+conf/lics/Blanqui01:::Frédéric Blanqui:::Definitions by Rewriting in the Calculus of Constructions.
+conf/lics/AlfaroHM01:::Luca de Alfaro::Thomas A. Henzinger::Rupak Majumdar:::From Verification to Control: Dynamic Programs for Omega-Regular Objectives.
+conf/lics/DanosD03:::Vincent Danos::Josee Desharnais:::Labelled Markov Processes: Stronger and Faster Approximations.
+conf/lics/AbramskyJ92:::Samson Abramsky::Radha Jagadeesan:::New Foundations for the Geometry of Interaction
+conf/lics/BloomFG00:::Bard Bloom::Wan Fokkink::Rob J. van Glabbeek:::Precongruence Formats for Decorated Trace Preorders.
+conf/lics/MalacariaH99:::Pasquale Malacaria::Chris Hankin:::Non-Deterministic Games and Program Analysis: An Application to Security.
+conf/lics/Dezani-CiancagliniTU97:::Mariangiola Dezani-Ciancaglini::Jerzy Tiuryn::Pawel Urzyczyn:::Discrimination by Parallel Observers.
+conf/lics/BaldwinB98:::John T. Baldwin::Michael Benedikt:::Embedded Finite Models, Stability Theory and the Impact of Order.
+conf/lics/HalpernS99:::Joseph Y. Halpern::Richard A. Shore:::Reasoning about Common Knowledge with Infinitely Many Agents.
+conf/lics/Meyden94:::Ron van der Meyden:::Axioms for Knowledge and Time in Distributed Systems with Perfect Recall
+conf/lics/DorreR90:::Jochen Dörre::William C. Rounds:::On Subsumption and Semiunification in Feature Algebras
+conf/lics/FaginH87:::Ronald Fagin::Joseph Y. Halpern:::I'm OK if You're OK: On the Notion of Trusting Communication
+conf/lics/Tronci95:::Enrico Tronci:::Hardware Verification, Boolean Logic Programming, Boolean Functional Programming
+conf/lics/EtessamiVW97:::Kousha Etessami::Moshe Y. Vardi::Thomas Wilke:::First-Order Logic with Two Variables and Unary Temporal Logic.
+conf/lics/Fernando89:::R. T. P Fernando:::On Substitutional Recursion Over Non-Well-Founded Sets
+conf/lics/Mackie98:::Ian Mackie:::Linear Logic <i>With</i> Boxes.
+conf/ling/Rosner85:::Dietmar Rösner:::Generierung von Deutsch aus einer semantischen Repräsentation, zu Stand und Perspektiven des Projektes SEMSYN.
+conf/ling/Janssen88:::Theo M. V. Janssen:::A Mathematical Model for the CAT Framwork of EUROTRA.
+conf/ling/Erben88:::Ayse Erben:::Ein Konzept zur Komposition der Semantik aus bedeutungstragenden Teilen einer Äußerung und zur Behandlung alternativer Interpretation.
+conf/ling/HahnR85:::Udo Hahn::Ulrich Reimer:::Entwurfsprinzipien und Architektur des Textkondensierungssystems TOPIC.
+conf/lisa/HohndelH99:::Dirk H. Hohndel::Fabian Herschel:::Automated Installation of Linux Systems Using YaST.
+conf/lisa/Rudorfer97:::Gottfried Rudorfer:::Managing PC Operating Systems with a Revision Control System.
+conf/lisa/GrubbC98:::Michael Fleming Grubb::Rob Carter:::Single Sign-On and the System Administrator.
+conf/lisa/ValianW99:::Peter Valian::Todd K. Watson:::NetReg: An Automated DHCP Registration System.
+conf/lisa/OselG95:::Peter W. Osel::Wilfried Gnsheimer:::OpenDist: Incremental Software Distribution.
+conf/lisa/CouchG99:::Alva L. Couch::Michael Gilfix:::It's Elementary, Dear Watson: Applying Logic Programming To Convergent System Management Processes.
+conf/lisa/Goldenhar99:::Josh Goldenhar:::NetMapper: Hostname Resolution Based on Client Network Location.
+conf/lisa/Robinson99:::David Robinson:::The Advancement of NFS Benchmarking: SFS 2.0.
+conf/lisa/KimballSKD99:::Conrad E. Kimball::Vincent D. Skahan Jr.::David J. Kasik::Roger L. Droz:::Automated Client-side Integration of Distributed Application Servers.
+conf/lisa/Scott97:::Peter Scott:::Automating 24x7 Support Response To Telephone Requests.
+conf/lisa/MosedaleFM95:::Dan Mosedale::William Foss::Robert Martin McCool:::Administering Very High Volume Internet Services.
+conf/lisa/Finke97:::Jon Finke:::Monitoring Application Use with License Server Logs.
+conf/lisa/Labiaga99:::Ricardo Labiaga:::Enhancements to the Autofs Automounter.
+conf/lisa/CordreyFSW99:::Vincent Cordrey::Doug Freyburger::Jordan Schwartz::Liza Weissler:::Moving Large Filesystems On-Line, Including Exiting HSM Filesystems.
+conf/litp/Ch86:::Eric Goles Ch.:::Threshold Networks and Generalizations.
+conf/litp/Schupp86:::Paul E. Schupp:::Arrays, Automata and Groups: Some Interconnections.
+conf/litp/Robert86:::Yves Robert:::Systolic Algorithms for Path- Finding Problems.
+conf/litp/DarondeauK84:::Philippe Darondeau::Laurent Kott:::A formal proof system for infinitary rational expressions.
+conf/litp/Pin84:::Jean-Eric Pin:::Star free omega-languages and first order logic.
+conf/litp/Hansel87:::Georges Hansel:::Estimation of the Entropy by the Lempel-Ziv Method.
+conf/litp/Pansiot84:::Jean-Jacques Pansiot:::On various classes of infinite words obtained by iterated mappings.
+conf/litp/StraubingT88:::Howard Straubing::Denis Thérien:::Finite automata and computational complexity.
+conf/litp/KasangianLP90:::Stefano Kasangian::Anna Labella::Alberto Pettorossi:::Observers, Experiments and Agents: a Comprehensive Approach to Parallelism.
+conf/litp/Weil88:::Pascal Weil:::Concatenation product: a survey.
+conf/litp/Rauzy84:::G. Rauzy:::Mots infinis en arithmétique.
+conf/litp/Leconte84:::Michel Leconte:::K-th power free codes.
+conf/litp/BougeG90:::Luc Bougé::Patrick Garda:::Towards a Semantic Approach to SIMD Architectures and their Languages.
+conf/litp/Danlos87:::Laurence Danlos:::Some Pronominalization Issues in Generation of Texts in Romance Languages.
+conf/mabs/DrogoulVM02:::Alexis Drogoul::Diane Vanbergue::Thomas Meurisse:::Multi-agent Based Simulation: Where Are the Agents?
+conf/mabs/TeranEW00:::Oswaldo Terán::Bruce Edmonds::Steve Wallis:::Mapping the Envelope of Social Simulation Trajectories.
+conf/mabs/ConteP98:::Rosaria Conte::Roberto Pedone:::Finding the Best Partner: The PART-NET System.
+conf/mabs/JagerJ02:::Wander Jager::Marco Janssen:::The Need for and Development of Behaviourally Realistic Agents.
+conf/mabs/BretonZC00:::Laurent Breton::Jean-Daniel Zucker::Eric Clément:::A Multi-Agent Based Simulation of Sand Piles in a Static Equilibrium.
+conf/mabs/Sawyer00:::R. Keith Sawyer:::Simulating Emergence and Downward Causation in Small Groups.
+conf/mach/GolubMR93:::David B. Golub::Ravi Manikundalam::Freeman L. Rawson III:::MVM - An Environment for Running Multiple DOS, Windows and DPMI Programs on the Microkernel.
+conf/mach/Dean93:::Randall W. Dean:::Using Continuations to Build a User-Level Threads Library.
+conf/mach/Welch91:::Brent Welch:::The File System Belongs in the Kernel.
+conf/mach/ChewRRS93:::Kien-Mien Chew::Jyothy Reddy::Theodore H. Romer::Abraham Silberschatz:::Kernel Support for Recoverable-Persistent Virtual Memory.
+conf/mach/ChaoMS90:::Chia Chao::Milon Mackey::Bart Sears:::Mach on a Virtually Addressed Cache Architecture.
+conf/masa/LioncourtL01:::Sorabain Wolfheart de Lioncourt::Michael Luck:::Motivated Agent Behaviour and Requirements Applied to Virtual Emergencies.
+conf/mata/YangGMG02:::Kun Yang::Alex Galis::Telma Mota::Stylianos Gouveris:::Automated Management of IP Networks through Policy and Mobile Agents.
+conf/mata/LiM01:::Yewen Li::Luoming Meng:::High Availability Connection Management via Software Bus and Mobile Agent in Network Management Environment.
+conf/mata/Gonzalez-ValenzuelaLV01:::Sergio Gonzalez-Valenzuela::Victor C. M. Leung::Son T. Vuong:::Multipoint-to-Point Routing with QoS Guarantees Using Mobile Agents.
+conf/mata/PuliafitoTV01:::Antonio Puliafito::Orazio Tomarchio::Lorenzo Vita:::Mobile Agents and Legacy Systems: How to Integrate Alternative Communication Paradigms.
+conf/mata/RouhanaBH00:::Nicolas Rouhana::Samer Boustany::Eric Horlait:::YAAP: Yet Another Active Platform.
+conf/mata/ToivonenH02:::Santtu Toivonen::Heikki Helin:::Options for Reusing Agent Conversations.
+conf/mata/GallegoDG00:::Isabel Gallego::Jaime Delgado::Roberto García:::Use of Mobile Agents for IPR Management and Negotiation.
+conf/mata/RubinsteinDP00:::Marcelo G. Rubinstein::Otto Carlos Muniz Bandeira Duarte::Guy Pujolle:::Evaluating the Network Performance Management Based on Mobile Agents.
+conf/mata/KhedrKLG02:::Mohamed Khedr::Ahmed Karmouch::Ramiro Liscano::Tom Gray:::Agent-Based Context-Aware Ad hoc Communication.
+conf/mata/KhanKT01:::Bilal Khan::Dardo D. Kleiner::David Talmage:::Towards an Agent-Based Distributed Hierarchical Network Management System for All-Optical Networks.
+conf/mata/BravoG02:::Alberto Montilla Bravo::Marisol García-Valls:::FIPA-Based QoS Negotiator for Nomadic Agents.
+conf/mata/LiottaPK01:::Antonio Liotta::George Pavlou::Graham Knight:::A Self-adaptable Agent System for Efficient Information Gathering.
+conf/mata/TarkomaL02:::Sasu Tarkoma::Mikko Laukkanen:::Facilitating Agent Messaging on PDAs.
+conf/mata/SallabiK00:::Farag Sallabi::Ahmed Karmouch:::Mobile Network Domain Agency for Managing Network Resources.
+conf/mata/MuscutariuG01:::Florin Muscutariu::Marie-Pierre Gervais:::On the Modelling of Mobile Agent-Based Systems.
+conf/mcpr/MitraT87:::Debasis Mitra::Pantelis Tsoucas:::Convergence of Relaxations for Numerical Solutions of Stochastic Problems.
+conf/mcpr/Laprie83:::Jean-Claude Laprie:::Trustable Evaluation of Computer Systems Dependability.
+conf/mcpr/Meyer83:::John F. Meyer:::Performability Modeling of Distributed Real-Time Systems.
+conf/mcpr/Fayolle83:::Guy Fayolle:::On Functional Equations for One or Two Complex Variables Arising in the Analysis of Stochastic Models.
+conf/mdic/SantoPSV01:::Massimo De Santo::Gennaro Percannella::Carlo Sansone::Mario Vento:::Dialogue Scenes Detection in MPEG Movies: A Multi-expert Approach.
+conf/lpar/HermannJK99:::Miki Hermann::Laurent Juban::Phokion G. Kolaitis:::On the Complexity of Counting the Hilbert Basis of a Linear Diophnatine System.
+conf/lpar/Beeson92:::Michael Beeson:::Mathpert: Computer Support for Learning Algebra, Trig, and Calculus.
+conf/lpar/Groote00:::Philippe de Groote:::Proof-Search in Implicative Linear Logic as a Matching Problem.
+conf/lpar/Groote94:::Philippe de Groote:::On the Relation between the Lambda-Mu-Calculus and the Syntactic Theory of Sequential Control.
+conf/lpar/Schurmann01:::Carsten Schürmann:::A Type-Theoretic Approach to Induction with Higher-Order Encodings.
+conf/lpar/Baral92:::Chitta Baral:::Generalized Negation As Failure and Semantics of Normal Disjunctive Logic Programs.
+conf/lpar/Barth93:::Peter Barth:::Linear 0-1 Inequalities and Extended Clauses.
+conf/lpar/MasseyT93:::Barton C. Massey::Evan Tick:::Sequentialization of Parallel Logic Programs with Mode Analysis.
+conf/lpar/Kreutzer01:::Stephan Kreutzer:::Operational Semantics for Fixed-Point Logics on Constraint Databases.
+conf/lpar/GenaimC01:::Samir Genaim::Michael Codish:::Inferring Termination Conditions for Logic Programs Using Backwards Analysis.
+conf/lpar/AlechinaL01:::Natasha Alechina::Brian Logan:::Logical Omniscience and the Cost of Deliberation.
+conf/lpar/AvenhausL94:::Jürgen Avenhaus::Carlos Loría-Sáenz:::On Conditional Rewrite Systems with Extra Variables and Deterministic Logic Programs.
+conf/lpar/Lutz99:::Carsten Lutz:::Complexity of Terminological Reasoning Revisited.
+conf/lpar/BerwangerG01:::Dietmar Berwanger::Erich Grädel:::Games and Model Checking for Guarded Logics.
+conf/lpar/Holldobler92:::Steffen Hölldobler:::On Deductive Planning and the Frame Problem.
+conf/lpar/Papp94:::Cristian Papp:::A Bottom-Up Reconstruction of the Well-founded Semantics for Disjunctive Logic Programs.
+conf/lpar/Moreno99:::René Moreno:::Abstracting Properties in Concurrent Constraint Programming.
+conf/lpar/LehmannL00:::Helko Lehmann::Michael Leuschel:::Solving Planning Problems by Partial Deduction.
+conf/lpar/Wilke03:::Thomas Wilke:::Minimizing Automata on Infinite Words.
+conf/lpar/Davison93:::Andrew Davison:::Parsing with DCG-terms.
+conf/lpar/Bruning94:::Stefan Brüning:::Towards Efficient Calculi for Resource-Oriented Deductive Planning.
+conf/lpar/Romanenko92:::Igor Romanenko:::Logican's Workbench.
+conf/lpar/Ducasse92:::Mireille Ducassé:::Opium - A High-level Debugging Environment.
+conf/lpar/Lohrey03:::Markus Lohrey:::Automatic Structures of Bounded Degree.
+conf/lpar/FranzleH03:::Martin Fränzle::Christian Herde:::Efficient SAT Engines for Concise Logics: Accelerating Proof Search for Zero-One Linear Constraint Systems.
+conf/lpar/Baumgartner92:::Peter Baumgartner:::An Order Theory Resolution Calculus.
+conf/lpar/AmatoL01:::Gianluca Amato::James Lipton:::Indexed Categories and Bottom-Up Semantics of Logic Programs.
+conf/lpar/Voinov92:::Alexander V. Voinov:::Netlog - A Concept Oriented Logic Programming Language.
+conf/lpar/IvanetsIK91:::S. Ivanets::N. Ilinsky::M. Krylov:::WAM Specification for Parallel Execution on SIMD Computer.
+conf/lpar/KupfermanV01:::Orna Kupferman::Moshe Y. Vardi:::On Bounded Specifications.
+conf/lpar/CerritoMP99:::Serenella Cerrito::Marta Cialdea Mayer::Sébastien Praud:::First Order Linear Temporal Logic over Finite Time Structures.
+conf/lpar/ArieliNDB01:::Ofer Arieli::Bert Van Nuffelen::Marc Denecker::Maurice Bruynooghe:::Coherent Composition of Distributed Knowledge-Bases Through Abduction.
+conf/lpar/Smaus01:::Jan-Georg Smaus:::Analysis of Polymorphically Typed Logic Programs Using ACI-Unification.
+conf/lpar/KehrerN91:::Norbert Kehrer::Gustaf Neumann:::Treating Enhanced Entity Relationship Models in a Declarative Style.

@@ -1,0 +1,200 @@
+conf/icse/BlackTM81:::James P. Black::David J. Taylor::David E. Morgan:::A Robust B-Tree Implementation.
+conf/icse/Alonzo90:::Rosa Alonzo:::Position Paper on Technology Transfer.
+conf/icse/Sullivan97:::Kent Sullivan:::The Windows 95 User Interface: Iterative Design and Problem Tracking in Action.
+conf/icse/KishidaKMMOSSTW88:::Kouichi Kishida::T. Katayama::M. Matsuo::Isao Miyamoto::K. Ochimizu::N. Saito::John H. Sayler::K. Torii::Lloyd G. Williams:::SDA: A Novel Approach to Software Environment Design and Construction.
+conf/icse/ZelkowitzR01:::Marvin V. Zelkowitz::Ioana Rus:::Understanding IV &amp; V in a Safety Critical and Complex Evolutionary Environment: The NASA Space Shuttle Program.
+conf/icse/Royce87:::W. W. Royce:::Managing the Development of Large Software Systems: Concepts and Techniques.
+conf/icse/Boydston84:::R. E. Boydston:::Programming Cost Estimate: Is It Reasonable?
+conf/icse/Garlan00:::David Garlan:::Software architecture: a roadmap.
+conf/icse/PotierAFB82:::D. Potier::J. L. Albin::R. Ferreol::A. Bilodeau:::Experiments with Computer Software Complexity and Reliability.
+conf/icse/Basili96:::Victor R. Basili:::The Role of Experimentation in Software Engineering: Past, Current, and Future.
+conf/icse/Yourdon97:::Edward Yourdon:::Beyond Software Engineering: Ten Imperatives for the Successful Software Developer at the End of the Decade (Abstract).
+conf/icse/Sabbah01:::Daniel Sabbah:::Software Engineering and the Internet.
+conf/icse/BjornerD90:::Dines Bjørner::Larry E. Druffel:::Position Statement: ICSE-12 Workshop on Industrial Experience Using Formal Methods.
+conf/icse/BauerF79:::J. A. Bauer::A. B. Finger:::Test Plan Generation Using Formal Grammars.
+conf/icse/PerryK88:::Dewayne E. Perry::Gail E. Kaiser:::Models of Software Development Environments.
+conf/icse/Ciuffoletti84:::Augusto Ciuffoletti:::Error Recovery in Systems of Communicating Processes.
+conf/icse/GorlickR91:::Michael M. Gorlick::Rami R. Razouk:::Using Weaves for Software Construction and Analysis.
+conf/icse/ParnasW85:::David Lorge Parnas::David M. Weiss:::Active Design Reviews: Principles and Practices.
+conf/icse/ArdisCJMPSO95:::Mark A. Ardis::John A. Chaves::Lalita Jategaonkar Jagadeesan::Peter Mataga::Carlos Puchol::Mark G. Staskauskas::James Von Olnhausen:::A Framework for Evaluating Specification Methods for Reactive Systems: Experience Report.
+conf/icse/BenlarbiM99:::Saïda Benlarbi::Walcélio L. Melo:::Polymorphism Measures for Early Risk Prediction.
+conf/icse/ZimmermanLL02:::Marc K. Zimmerman::Kristina Lundqvist::Nancy G. Leveson:::Investigating the readability of state-based formal requirements specification languages.
+conf/icse/AtiyaK02:::D. M. Atiya::S. King:::A compliance notation for verifying concurrent systems.
+conf/icse/RudmikCC82:::Andres Rudmik::B. E. Casey::H. Cohen:::Consistency Checking within Embedded Design Languages.
+conf/icse/Dershowitz81:::Nachum Dershowitz:::The Evolution of Programs: Program Abstraction and Instantiation.
+conf/icse/Zundorf01:::Albert Zündorf:::From Use Cases to Code - Rigorous Software Development with UML.
+conf/icse/Lamsweerde03:::Axel van Lamsweerde:::Goal-Oriented Requirements Engineering: From System Objectives to UML Models to Precise Software Specifications.
+conf/icse/OrnburnL93:::Stephen B. Ornburn::Richard J. LeBlanc Jr.:::Building, Modifying and Using Component Generators.
+conf/icse/HarrisonEK02:::Warren Harrison::M. Hakan Erdogmus::Rick Kazman:::The fourth international workshop on economics-driven software engineering research (EDSER-4).
+conf/icse/Osterweil97:::Leon J. Osterweil:::Software Processes Are Software Too, Revisited: An Invited Talk on the Most Influential Paper of ICSE 9.
+conf/icse/AokiHKNNRTY01:::Atsushi Aoki::Kaoru Hayashi::Kouichi Kishida::Kumiyo Nakakoji::Yoshiyuki Nishinaka::Brent Reeves::Akio Takashima::Yasuhiro Yamamoto:::A Case Study of the Evolution of Jun: An Object-Oriented Open-Source 3D Multimedia Library.
+conf/icse/Barstow88:::David Barstow:::Automatic Programming for Streams II: Transformational Implementation.
+conf/icse/BasiliM97:::Victor R. Basili::Frank E. McGarry:::The Experience Factory: How to Build and Run One (Tutorial).
+conf/icse/Schroeder84:::A. Schroeder:::Integrated Program Measurement and Documentation Tools.
+conf/icse/WeisUG03:::Torben Weis::Andreas Ulbrich::Kurt Geihs:::Quality of Service Engineering with UML, .NET, and CORBA.
+conf/icse/BarstowDSV82:::David R. Barstow::Roger Duffey::Stephen W. Smoliar::Stanley Vestal:::An Automatic Programming System to Support an Experimental Science.
+conf/icse/Weiser81:::Mark Weiser:::Program Slicing.
+conf/icse/VottaP95:::Lawrence G. Votta::Adam A. Porter:::Experimental Software Engineering: A Report on the State of the Art.
+conf/icse/DinkelackerGMN02:::Jamie Dinkelacker::Pankaj K. Garg::Rob Miller::Dean Nelson:::Progressive open source.
+conf/icse/ArnoldP82:::Robert S. Arnold::D. A. Parker:::The Dimensions of Healthy Maintenance.
+conf/icse/Knight02:::John C. Knight:::Safety critical systems: challenges and directions.
+conf/icse/Petschenik85:::N. H. Petschenik:::Building Awareness of System Testing Issues.
+conf/icse/RothermelH94:::Gregg Rothermel::Mary Jean Harrold:::A Framework for Evaluating Regression Test Selection Techniques.
+conf/icse/BrittonPP81:::K. H. Britton::R. A. Parker::David Lorge Parnas:::A Procedure for Designing Abstract Interfaces for Device Interface Modules.
+conf/icse/TeichroewH76:::Daniel Teichroew::Ernest A. Hershey III:::PSL/PSA: A Computer-Aided Technique for Structured Documentation and Analysis of Information Processing Systems (Abstract).
+conf/icse/JohnsonS84:::W. Lewis Johnson::Elliot Soloway:::PROUST: Knowledge-Based Program Understanding.
+conf/icse/Stern78:::Max Stern:::Some Experience in Building Portable Software.
+conf/icse/Lawrence82:::M. J. Lawrence:::An Examination of Evolution Dynamics.
+conf/icse/BoehmEPSW82:::Barry W. Boehm::James F. Elwell::Arthur B. Pyster::E. Don Stuckle::Ronald D. Williams:::The TRW Software Productivity System.
+conf/icse/RemusZ79:::Horst Remus::Stephen N. Zilles:::Prediction and Management of Program Quality.
+conf/icse/ShankarC76:::K. S. Shankar::C. Sekar Chandersekaran:::Dat Flow, Abstraction Levels and Specifications for Communications Switching Systems.
+conf/icse/OberleitnerGJ03:::Johann Oberleitner::Thomas Gschwind::Mehdi Jazayeri:::The Vienna Component Framework Enabling Composition Across Component Models.
+conf/icse/Carneiro-CoffinCLS94:::L. M. F. Carneiro-Coffin::Donald D. Cowan::Carlos José Pereira de Lucena::D. Smith:::An Experience Using JASMINUM - Formalization Assisting with the Design of User Interfaces.
+conf/icse/RustonMC91:::L. Ruston::M. J. Muller::Kathleen D. Cebulka:::Designing Software for Use by Humans, not Machines.
+conf/icse/Moore99:::Carleton A. Moore:::Project LEAP: Personal Process Improvement for the Differently Disciplined.
+conf/icse/BirbilisKKTV00:::George Birbilis::Manolis Koutlis::Kriton Kyrimis::George Tsironis::George Vasiliou:::E-Slate: a software architectural style for end-user programming.
+conf/icse/ShimizuFH98:::Yoko Shimizu::Noboru Fujimaki::Masayuki Hirayama:::A Systematic Approach to Domain-Oriented Software Development.
+conf/icse/ItakuraT82:::M. Itakura::A. Takayanagi:::A Model for Estimating Program Size and Its Evaluation.
+conf/icse/Bernstein87:::Philip A. Bernstein:::Database System Support for Software Engineering.
+conf/icse/Greene76:::J. S. Greene:::Dynamic Software Engineering: An Evolutionary Approach to Automated Software Development and Management.
+conf/icse/Balzer01a:::Robert Balzer:::"Tolerating Inconsistency" Revisited.
+conf/icse/BalzerG01:::Robert Balzer::Volker Gruhn:::Process-Centered Software Engineering Environments: Academic and Industrial Perspectives.
+conf/icse/Dowson90:::Mark Dowson:::Experience Using the Graphite Meta-Tool (Experience Report).
+conf/icse/LetierL02:::Emmanuel Letier::Axel van Lamsweerde:::Agent-based tactics for goal-oriented requirements elaboration.
+conf/icse/NakagawaH89:::Yutaka Nakagawa::Shuetsu Hanata:::An Error Complexity Model for Software Reliability Measurement.
+conf/icse/Brewer00:::Robert S. Brewer:::Improving problem-oriented mailing list archives with MCS.
+conf/icse/MasheyS76:::John R. Mashey::D. W. Smith:::Documentation Tools and Techniques.
+conf/icse/Hazra02:::Tushar K. Hazra:::Building enterprise portals: principles to practice.
+conf/icse/Jackson01:::Michael Jackson:::Software Development in the Year 2000.
+conf/icse/GoelS97:::Amrit L. Goel::Miyoung Shin:::Software Engineering Data Analysis Techniques (Tutorial).
+conf/icse/ShullRB01:::Forrest Shull::Ioana Rus::Victor R. Basili:::Improving Software Inspections by Using Reading Techniques.
+conf/icse/BrueggeD97:::Bernd Bruegge::Allen H. Dutoit:::Communication Metrics for Software Development.
+conf/icse/CugolaNF98:::Gianpaolo Cugola::Elisabetta Di Nitto::Alfonso Fuggetta:::Exploiting an Event-Based Infrastructure to Develop Complex Distributed Systems.
+conf/icse/LieberherrR88:::Karl J. Lieberherr::Arthur J. Riel:::Demeter: A Case Study of Software Growth through Parameterized Classes.
+conf/icse/Ramamritham84:::Krithi Ramamritham:::Resource Controller Tasks in Ada: Their Structure and Semantics.
+conf/icsi/Lai90:::Ming-Yee Lai:::An Advanced Overview of the XIS Architecture.
+conf/icsi/Son90:::Sang Hyuk Son:::An Environment for Prototyping Real-Time Distributed Databases.
+conf/icsi/Kuhn90:::D. Richard Kuhn:::On the Effective Use of Software Standards in Systems Integration.
+conf/icsi/LinnenkugelM90:::Ursula Linnenkugel::Monika Müllerburg:::Test Data Selection Criteria for (Software) Integration Testing.
+conf/icsi/NilssonNO90:::Erik G. Nilsson::Else K. Nordhagen::Gro Oftedal:::Aspects of Systems Integration.
+conf/icsi/EickLW90:::Christoph F. Eick::Jia-Lin Liu::Paul Werstein:::Integration of Rules into a Knowledge Base Management System.
+conf/icsi/AntoyTFMZ90:::Sergio Antoy::Virginia Tech::Paola Forcheri::Maria Teresa Molfino::Marvin V. Zelkowitz:::Rapid Protoryping of System Enhancements.
+conf/icsi/HubertP90:::Laurence Hubert::Gerald Perdreau:::Software Factory: Using Process Modeling for Integration Purposes.
+conf/icsi/Rotenstreich90:::Shmuel Rotenstreich:::Integrating Tools and Support-Code with the Developed Program.
+conf/icsi/CornelioN90:::Aloysius Cornelio::Shamkant B. Navathe:::Integration and Cataloging of Engineering Environment.
+conf/icsm/KurishimaONAF93:::Norio Kurishima::Hiroshi Oikawa::Jun-ichi Nakamura::Kazuo Amari::Masanobu Fujioka:::Quantitative Analysis of Errors in Telecommunications Software.
+conf/icsm/SubramaniamB96:::Gokul V. Subramaniam::Eric J. Byrne:::Deriving an Object Model from Legacy Fortran Code.
+conf/icsm/Visaggio97:::Giuseppe Visaggio:::Structural information as a quality metric in software systems organization.
+conf/icsm/Barry02:::Evelyn J. Barry:::Software Evolution, Volatility and Lifecycle Maintenance Patterns: A Longitudinal Analysis.
+conf/icsm/TryggesethN97:::Eirik Tryggeseth::Øystein Nytrø:::Dynamic Traceability Links Supported by a System Architecture Description.
+conf/icsm/HallRBB01:::Tracy Hall::Austen Rainer::Nathan Baddoo::Sarah Beecham:::An Empirical Study of Maintenance Issues within Process Improvement Programmes in the Software Industry.
+conf/icsm/Gold01:::Nicolas Gold:::Hypothesis-Based Concept Assignment to Support Software Maintenance.
+conf/icsm/Chu93:::William C. Chu:::A Re-Engineering Approach to Program Translation.
+conf/icsm/PaulP94:::Santanu Paul::Atul Prakash:::Querying Source Code Using an Algebraic Query Language.
+conf/icsm/VigderD98:::Mark R. Vigder::John C. Dean:::Building Maintainable COTS Based Systems.
+conf/icsm/LinH02:::Jin-Cherng Lin::Ling-Hsuan Huang:::A Table Reduction Approach for Software Structure Testing.
+conf/icsm/RiccaT00:::Filippo Ricca::Paolo Tonella:::Web Site Analysis: Structure and Evolution.
+conf/icsm/Seaman02:::Carolyn B. Seaman:::The Information Gathering Strategies of Software Maintainers.
+conf/icsm/Kellner93:::Marc I. Kellner:::Ten Years of Software Maintenance: Progress or Promises?
+conf/icsm/SiyV01:::Harvey P. Siy::Lawrence G. Votta:::Does the Modern Code Inspection Have Value?
+conf/icsm/Ward01:::Martin P. Ward:::The FermaT Assembler Re-engineering Workbench.
+conf/icsm/SouderMS01:::Timothhy S. Souder::Spiros Mancoridis::Maher Salah:::Form: A Framework for Creating Views of Program Executions.
+conf/icsm/CanforaCMT93:::Gerardo Canfora::Aniello Cimitile::Malcolm Munro::C. J. Taylor:::Extracting Abstract Data Types from C Programs: A Case Study.
+conf/icsm/WaqarKV02:::Umer Waqar::Ferhat Khendek::Daniel Vincent:::A Formal Approach for Software Maintenance.
+conf/icsm/SellinkV99:::M. P. A. Sellink::Chris Verhoef:::Generation of Software Renovation Factories from Compilers.
+conf/icsm/Jonge02:::Merijn de Jonge:::Pretty-Printing for Software Reengineering.
+conf/icsm/HarmanHHFDWSB02:::Mark Harman::Lin Hu::Robert M. Hierons::Chris Fox::Sebastian Danicic::Joachim Wegener::Harmen Sthamer::André Baresel:::Evolutionary Testing Supported by Slicing and Transformation.
+conf/icsm/CaprileT00:::Bruno Caprile::Paolo Tonella:::Restructuring Program Identifier Names.
+conf/icsm/Caldiera93a:::Gianluigi Caldiera:::Impact of ISO 9000 on Software Maintenance.
+conf/icsm/BurchK97:::E. Burch::Hsiang-Jui Kungs:::Modeling software maintenance requests: a case study.
+conf/icsm/LiangH99:::Donglin Liang::Mary Jean Harrold:::Reuse-Driven Interprocedural Slicing in the Presence of Pointers and Recursion.
+conf/icsm/TonellaA99:::Paolo Tonella::Giuliano Antoniol:::Object-Oriented Design Pattern Inference.
+conf/icsm/TonellaP01:::Paolo Tonella::Alessandra Potrich:::Reverse Engineering of the UML Class Diagram from C++ Code in Presence of Weakly Typed Containers.
+conf/icsm/SahraouiGM00:::Houari A. Sahraoui::Robert Godin::Thierry Miceli:::Can Metrics Help to Bridge the Gap between the Improvement of OO Design Quality and its Automation?
+conf/icsm/YoungerLBB96:::E. J. Younger::Z. Luo::Keith H. Bennett::T. M. Bull:::Reverse Engineering Concurrent Programs using Formal Modelling and Analysis.
+conf/icsm/Tilley00:::Scott R. Tilley:::The Impact of Distributed Object Technology on Reengineering - Panel Session Introduction.
+conf/icsm/Sneed01a:::Harry M. Sneed:::Impact Analysis of Maintenance Tasks for a Distributed Object-Oriented System.
+conf/icsm/LauCKL02:::Terence C. Lau::Yumman Chan::Ramzan Khuwaja::Jianguo Lu:::Re-Engineering of E-commerce Legacy Applications for Enterprise Java<sup>TM</sup> Environment.
+conf/icsm/CifuentesM96:::Cristina Cifuentes::Vishv M. Malhotra:::Binary Translation: Static, Dynamic, Retargetable?
+conf/icsm/Basili00:::Victor R. Basili:::Analysis for Reuse and Maintenance: A Program for Experimentation.
+conf/icsm/RugaberD93:::Spencer Rugaber::Srinivas Doddapaneni:::The Transition of Application Programs From COBOL to a Fourth Generation Language.
+conf/icsm/Favre96:::Jean-Marie Favre:::Preprocessors from an Abstract Point of View.
+conf/icsm/CimitileLL98:::Aniello Cimitile::Andrea De Lucia::Giuseppe A. Di Lucca:::An Experiment in Identifying Persistent Objects in Large Systems.
+conf/icsm/KontogiannisDBM94:::Kostas Kontogiannis::Renator DeMori::M. Bernstein::Ettore Merlo:::Localization of Design Concepts in Legacy Systems.
+conf/icsm/VokolosF98:::Filippos I. Vokolos::Phyllis G. Frankl:::Empirical Evaluation of the Textual Differencing Regression Testing Technique.
+conf/icsm/JahnkeSZ96:::Jens H. Jahnke::Wilhelm Schäfer::Albert Zündorf:::A Design Environment for Migrating Relational to Object Oriented Database Systems.
+conf/icsm/KellerCPZ96:::Ted Keller::Ned Chapin::Thomas M. Pigoski::Nicholas Zvegintzov:::How Much Has Software Maintenance Changed Since 1983?
+conf/icsm/Jungmayr02:::Stefan Jungmayr:::Identifying Test-Critical Dependencies.
+conf/icsm/SchauerRMK99:::Reinhard Schauer::Sébastien Robitaille::François Martel::Rudolf K. Keller:::Hot Spot Recovery in Object-Oriented Software with Inheritance and Composition Template Methods.
+conf/icsm/ZhaoCU01:::Jianjun Zhao::Jingde Cheng::Kazuo Ushijima:::A Program Dependence Model for Concurrent Logic Programs and its Applications.
+conf/icsm/Nikora02:::Allen P. Nikora:::Maintenance Issues for Very Long-Lived Robotic Space Systems.
+conf/icsm/CanforaFT95:::Gerardo Canfora::Anna Rita Fasolino::Maria Tortorella:::Towards reengineering in reuse reengineering processes.
+conf/icsm/Harrison02:::Warren Harrison:::Using Service Specific Proxies to Migrate Web Services to the "Wireless Web": An Illustrative Case Study of Adaptive Maintenance.
+conf/icsm/InteresseD99:::Michelangelo Interesse::Roberto Dabbicco:::Experience Paper: Beyond Year 2000 Remediation: The Compliance Verification: A Case Study.
+conf/icsm/Kajko-Mattsson01a:::Mira Kajko-Mattsson:::Towards a Business Maintenance Model.
+conf/icsm/KamkarK95:::Mariam Kamkar::Patrik Krajina:::Dynamic slicing of distributed programs.
+conf/icsm/Briand98:::Lionel C. Briand:::COTS Evaluation and Selection.
+conf/icsm/JonesKMPS98:::Wendell D. Jones::Taghi M. Khoshgoftaar::John C. Munson::T. Troy Pearse::George E. Stark:::Hitting the Moving Target: Trials and Tribulations of Modeling Quality in Evolving Software Systems.
+conf/icsm/SinhaH99:::Saurabh Sinha::Mary Jean Harrold:::Criteria for Testing Exception-Handling Constructs in Java Programs.
+conf/icsm/Biggerstaff93:::Ted J. Biggerstaff:::Directions in Software Development and Maintenance.
+conf/icsm/LuccaFC00:::Giuseppe A. Di Lucca::Anna Rita Fasolino::Ugo de Carlini:::Recovering Class Diagrams from Data-Intensive Legacy Systems.
+conf/icsp/IidaMIT93:::Hajimu Iida::Kei-ichi Mimura::Katsuro Inoue::Koji Torii:::Hakoniwa: Monitor and Navigation System for Cooperative Development Based on Activity Sequence Model.
+conf/icsr/BatoryJMH00:::Don S. Batory::Clay Johnson::Bob MacDonald::Dale von Heeder:::Achieving Extensibility Through Product-Lines and Domain-Specific Languages: A Case Study.
+conf/icsr/Sessions02:::Roger Sessions:::Software Fortresses.
+conf/icsr/CybulskiR00:::Jacob L. Cybulski::Karl Reed:::Requirements Classification and Reuse: Crossing Domain Boundaries.
+conf/icsr/CaballeroS02:::Rodrigo E. Caballero::Steven Demurjian Sr.:::Towards the Formalization of a Reusability Framework for Refactoring.
+conf/icsr/Gomaa00:::Hassan Gomaa:::Object Oriented Analysis and Modeling for Families of Systems with UML.
+conf/ictl/SorensenHL94:::Morten Ulrik Sørensen::Odd Erik Hansen::Hans Henrik Løvengreen:::Combining Temporal Specification Techniques.
+conf/ictl/BonnerK94:::Anthony J. Bonner::Michael Kifer:::Applications of Transaction Logic to Knowledge Representation.
+conf/ictl/WooldridgeF94:::Michael Wooldridge::Michael Fisher:::A Decision Procedure for a Temporal Belief Logic.
+conf/ictl/BaetenBB94:::Jos C. M. Baeten::Jan A. Bergstra::Roland N. Bol:::A Real Time Process Logic.
+conf/icwe/MohanB03:::Permanand Mohan::Christopher H. Brooks:::Engineering a Future for Web-Based Learning Objects.
+conf/icwe/RodriguezRPST03:::Martín González Rodríguez::María del Puerto Paule Ruíz::Juan Ramón Pérez Pérez::Aitor de la Puente Salan::María del Carmen Suárez Torrente:::Adaptive Interactive Dialogs through the Web: Addressing User's Interaction Requirements Dynamically.
+conf/icwe/LuZ03:::Zhengding Lu::Suzhi Zhang:::Data Integration Based WWW with XML and CORBA.
+conf/icwe/CorcolesGL03:::Jose Eduardo Córcoles::Pascual González::Víctor López-Jaquero:::Integration of Spatial XML Documents with RDF.
+conf/icwe/GarciaUGH03:::Elena García::Miguel Ángel Sicilia Urbán::León A. González::José Ramón Hilera:::A Concept-Based Approach for the Design for Web Usability Evaluation Questionnaires.
+conf/icwe/CostaOS03a:::Carlos Costa::José Luís Oliveira::Augusto Silva:::Electronic Patient Record Virtually Unique Based on a Crypto Smart Card.
+conf/icwe/NgadiD03:::M. A. Ngadi::Bernard S. Doherty:::Serverless Web-Multicast Chat System for Multi-users.
+conf/icwe/LeeLL03:::Yong-ho Lee::Im-yeong Lee::Hyung-woo Lee:::New WAKE Key Recovery Protocol on M-commerce.
+conf/icwe/RuizBPR03:::María del Puerto Paule Ruíz::Sergio Ocio Barriales::Juan Ramón Pérez Pérez::Martín González Rodríguez:::Feijoo.net: An Approach to Personalized E-learning Using Learning Styles.
+conf/icwe/HsiehY03:::Angle Hsieh::Dowming Yeh:::Hyperlinks Analysis of Dynamic Web Applications.
+conf/icwe/CorchadoLBLG03:::Juan M. Corchado::Rosalia Laza::L. Borrajo::J. C. Yañez A. de Luis::M. Gonzalez-Bedia:::Agent-Based Web Engineering.
+conf/icwe/ZhangL03:::Suzhi Zhang::Zhengding Lu:::Automatic Generation of Wrapper for Data Extraction from the Web.
+conf/icvs/SiedersbergerPLDRMB01:::K.-H. Siedersberger::Martin Pellkofer::Michael Lützeler::Ernst D. Dickmanns::André Rieder::Robert Mandelbaum::L. Bogoni:::Combining EMS-Vision and Horopter Stereo for Obstacle Avoidance of Autonomous Vehicles.
+conf/icvs/HeidemannRBBR03:::Gunther Heidemann::Robert Rae::Holger Bekel::Ingo Bax::Helge Ritter:::Integrating Context-Free and Context-Dependent Attentional Mechanisms for Gestural Object Reference.
+conf/icvs/HemayedAF01:::Elsayed E. Hemayed::Moumen T. Ahmed::Aly A. Farag:::The CardEye: A Trinocular Active Vision System.
+conf/icvs/DankersZ03:::Andrew Dankers::Alexander Zelinsky:::A Real-World Vision System: Mechanism, Control, and Vision Processing.
+conf/icvs/VinczeAK99:::Markus Vincze::Minu Ayromlou::Wilfried Kubinger:::An Integrated Framework for Robust Real-Time 3D Object Tracking.
+conf/icvs/WachsmuthBSKS99:::Sven Wachsmuth::Hans Brandt-Pook::Gudrun Socher::Franz Kummert::Gerhard Sagerer:::Multilevel Integration of Vision and Speech Understanding Using Bayesian Networks.
+conf/icvs/BarretoPBA99:::João P. Barreto::Paulo Peixoto::Jorge Batista::Helder Araújo:::Improving 3D Active Visual Tracking.
+conf/icvs/BolmeBTD03:::David S. Bolme::J. Ross Beveridge::Marcio Teixeira::Bruce A. Draper:::The CSU Face Identification Evaluation System: Its Purpose, Features, and Structure.
+conf/icvs/SminchisescuT01:::Cristian Sminchisescu::Alexandru Telea:::A Framework for Generic State Estimation in Computer Vision Applications.
+conf/icvs/OliverRP99:::Nuria Oliver::Barbara Rosario::Alex Pentland:::A Bayesian Computer Vision System for Modeling Human Interaction.
+conf/icwl/Lu03:::Hongen Lu:::Mediator Based Open Multi-agent Architecture for Web Based Learning.
+conf/icwl/Chan03:::Keith Chan:::Experience in Developing A General Education Website.
+conf/icwl/ZhangLJ03:::Xinyu Zhang::Nianlong Luo::Dongxing Jiang:::Synchronous Graphic-Interaction in CSCL.
+conf/icwl/ParkR02:::Chanjung Park::Hwakyung Rim:::A Locking-Based Transaction Scheduling Algorithm for Supporting Web-Based Classes.
+conf/icwl/CaoCCY02:::Jiannong Cao::Alvin T. S. Chan::Weidong Cao::Cassidy Yeung:::Virtual Programming Lab for Online Distance Learning.
+conf/icwl/LeeG02:::Yugyung Lee::James Geller:::A Component-Based Architecture for Adaptive, Collaborative Web-Based Learning.
+conf/icwl/YangS02:::Li Yang::Mustafa Sanver:::Web-Based Interactive 3D Visualization for Computer Graphics Education.
+conf/icwl/FongNKT03:::Joseph Fong::Margaret Ng::Irene Kwan::Macro Tam:::Effective E-learning by Use of HCI and Web-Based Workflow Approach.
+conf/icwl/ShiXX02:::Yuanchun Shi::Weikai Xie::Guangyou Xu:::Smart Remote Classroom: Creating a Revolutionary Real-Time Interactive Distance Learning System.
+conf/icwl/KwanC02:::Reggie Kwan::Jimmy S. F. Chan:::Application of Quality Assurance in Web-Based Laboratories.
+conf/icwl/GoscinskiS03:::Andrzej M. Goscinski::Jackie Silcock:::Toward Supporting E-learning and Providing E-teaching Services for E-world.
+conf/icwl/AlbermaniC02:::Faris Albermani::Kwok-wing Chau:::Web-Based Knowledge-Based System on Liquid Retaining Structure Design as Instructional Tool.
+conf/icwl/Kurbel02:::Karl Kurbel:::Virtual Teaching and Learning Based on Multimedia Techniques: Experiences from a Master Program Delivered over the Internet.
+conf/icwl/SiqueiraBM03:::Sean W. M. Siqueira::Maria Helena L. Baptista Braz::Rubens N. Melo:::Developing Learning Objects through Concepts and Contexts.
+conf/icwn/AbuelyamanS03:::Eltayeb Salih Abuelyaman::Daniel Speck:::SPEC: Single-Packet Error Control Protocol for WATM Networks.
+conf/icwn/HurH03:::Hye-Sun Hur::Youn-Sik Hong:::A Measurement and Analysis of Its Performance of Voice Data Transmission Systems with PDA over a Wireless Network.
+conf/icwn/CoxEP03:::Glenn W. Cox::Letha H. Etzkorn::Zubin Pajnigara:::On Battery Conservation Strategies for Wireless Protocols.
+conf/icwn/NeedhamMD03:::D. M. Needham::M. M. McMahon::J. B. Datko:::Ad Hoc Network Authentication: A Jini-Based Approach.
+conf/icwn/Francia03:::Guillermo A. Francia III:::A Wireless Sensor Network.
+conf/icwn/TsaurL03:::Lih-feng Tsaur::Daniel C. Lee:::CCS-FOSSIL and Dual-Channel System Increasing Channel Capacity Per Dynamic Power Range: MPSK Case.
+conf/icwn/SinghC03:::Pushpendra Singh::Gilbert Cabillic:::Successive Checkpointing Approach for Mobile Computing Environment.
+conf/icws/BitchevaPG03:::Julia Bitcheva::Olivier Perrin::Claude Godart:::Coordination of Cooperative Processes with the Synchronization Point Concept.
+conf/icws/Lakshminarayanan03:::Sitaraman Lakshminarayanan:::An Overview of Web Service Security in ASP.NET.
+conf/icws/ReilO03:::Dennis Reil::Frank Oldenettel:::Web Services Based Mediators for Digital Libraries.
+conf/icws/BhattiJBG03:::Rafae Bhatti::James B. D. Joshi::Elisa Bertino::Arif Ghafoor:::Access Control in Dynamic XML-Based Web-Services with X-RBAC.
+conf/icws/Drinkwater03:::Glen Drinkwater:::The CCLRC Dataportal.
+conf/icws/PratisthaNC03:::I. Made (Dennis) Putera Pratistha::Nicholas Nicoloudis::Simon Cuce:::A Micro-Services Framework on Mobile Devices.
+conf/icws/OKeefeG03:::Christine M. O'Keefe::Paul Greenfield:::Role and Expression of Consent in Web Services.

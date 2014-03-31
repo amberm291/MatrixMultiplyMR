@@ -1,0 +1,200 @@
+conf/vlsid/AgrawalB02:::Vishwani D. Agrawal::Michael L. Bushnell:::Electronic Testing for SOC Designers (Tutorial Abstract).
+conf/vlsid/VinnakotaH94:::Bapiraju Vinnakota::Ramesh Harjani:::The Design of Analog Self-Checking Circuits.
+conf/vlsid/BhagavathiOSZ94:::Dharmavani Bhagavathi::Stephan Olariu::James L. Schwing::Jingyuan Zhang:::Time- and Cost-Optimal Parallel Algorithms for the Dominance and Visibility Graphs.
+conf/vlsid/AgrawalGLT94:::Prathima Agrawal::Sanjay Goil::Sally Liu::John A. Trotter:::Parallel Model Evaluation for Circuit Simulation on the PACE Multiprocessor.
+conf/vlsid/RahmanL93:::Chowdhury S. Rahman::Mi Lu:::A Partition Approach to Find the Length of the Longest Common Subsequence.
+conf/vlsid/BhatiaJ93:::Sandeep Bhatia::Niraj K. Jha:::Synthesis of Sequential Circuits for Robust Path Delay Fault Testability.
+conf/vlsid/KidambiTMB94:::M. K. Kidambi::Akhilesh Tyagi::M. R. Madani::Magdy A. Bayoumi:::Parameterized Modeling of Open-Circuit Critical Volume for Three-Dimensional Defects in VLSI Processing.
+conf/vlsid/LalABBCS02:::R. Lal::P. R. Apte::K. N. Bhat::G. Bose::S. Chandra::D. K. Sharma:::MEMS: Technology, Design, CAD and Applications (Tutorial Abstract).
+conf/vlsid/KovacRV93:::Mario Kovac::N. Ranganathan::M. Varanasi:::SIGMA: A VLSI Chip for Galois Field GF(2<sup>m</sup>) Based Multiplication and Division.
+conf/vlsid/ChatterjeeR94:::Abhijit Chatterjee::Rabindra K. Roy:::Synthesis of Low Power Linear DSP Circuits Using Activity Metrics.
+conf/vlsid/MohanKKB02:::Murali Mohan::Rohini Krishnan::Anshul Kumar::M. Balakrishnan:::A New Divide and Conquer Method for Achieving High Speed Division in Hardware.
+conf/vlsid/GanaiA02:::Malay K. Ganai::Adnan Aziz:::Improved SAT-Based Bounded Reachability Analysis.
+conf/vlsid/DumlugolWM94:::Dundar Dumlugol::Don Webber::Rajeev Madhavan:::Analog Modeling Using Event-Driven HDL's.
+conf/vlsid/ChowdharyB94:::Amit Chowdhary::Dinesh Bhatia:::Detailed Routing of Multi-Terminal Nets in FPGAs.
+conf/vlsid/AsthanaLM94:::Abhaya Asthana::Mike Laznovsky::Boyd Mathews:::SEMU: A Parallel Processing System for Timing Simulation of Digital CMOS VLSI Circuits.
+conf/vlsid/BapatC93:::S. Bapat::James P. Cohoon:::A Parallel VLSI Circuit Layout Methodology.
+conf/vlsid/MohanCG93:::C. Rama Mohan::P. P. Chakrabarti::S. Ghose:::Combining State Assignment with PLA Folding.
+conf/vlsid/ShangJ02:::Li Shang::Niraj K. Jha:::Hardware-Software Co-Synthesis of Low Power Real-Time Distributed Embedded Systems with Dynamically Reconfigurable FPGAs.
+conf/vlsid/SastryRB93:::Raghu Sastry::N. Ranganathan::Horst Bunke:::Hardware Algorithms for Polygon Matching.
+conf/vlsid/ChowdhuryB94:::P. Pal Chowdhury::R. Barua:::Cellular Automata Based VLSI Architecture for Computing Multiplication and Inverses in GF (2<sup>m</sup>).
+conf/vlsid/RahamanDB02:::Hafizur Rahaman::Debesh K. Das::Bhargab B. Bhattacharya:::A New Synthesis of Symmetric Functions.
+conf/vlsid/DasasathyanRV02:::Srinivasan Dasasathyan::Rajesh Radhakrishnan::Ranga Vemuri:::Framework for Synthesis of Virtual Pipelines.
+conf/webdb/Sahuguet00:::Arnaud Sahuguet:::Everything You Ever Wanted to Know About DTDs, But Were Afraid to Ask.
+conf/webdb/Brin98:::Sergey Brin:::Extracting Patterns and Relations from the World Wide Web.
+conf/webdb/SahuguetA99:::Arnaud Sahuguet::Fabien Azavant:::Web Ecology: Recycling HTML Pages as XML Documents Using W4F.
+conf/webdb/SahuguetT01:::Arnaud Sahuguet::Val Tannen:::ubQL, a Language for Programming Distributed Query Systems.
+conf/webdb/SchmidtKWW00a:::Albrecht Schmidt::Martin L. Kersten::Menzo Windhouwer::Florian Waas:::Efficient Relational Storage and Retrieval of XML Documents.
+conf/webdb/FlescaMMPP02:::Sergio Flesca::Giuseppe Manco::Elio Masciari::Luigi Pontieri::Andrea Pugliese:::Detecting Structural Similarities between XML Documents.
+conf/webdb/SimeonC98:::Jérôme Siméon::Sophie Cluet:::Using YAT to Build a Web Server.
+conf/webdb/PapadimosM02:::Vassilis Papadimos::David Maier:::Distributed queries without distributed state.
+conf/webdb/ColazzoGMS02:::Dario Colazzo::Giorgio Ghelli::Paolo Manghi::Carlo Sartiani:::Types for Correctness of Queries over Semistructured Data.
+conf/webdb/Cohen99:::William W. Cohen:::Some Practical Observations on Integration of Web Information.
+conf/webdb/BuyukkoktenCGGS99:::Orkut Buyukkokten::Junghoo Cho::Hector Garcia-Molina::Luis Gravano::Narayanan Shivakumar:::Exploiting Geographical Location Information of Web Pages.
+conf/webdb/FiebigM00a:::Thorsten Fiebig::Guido Moerkotte:::Evaluating Queries on Structure with eXtended Access Support Relations.
+conf/webdb/ShimSV98:::Junho Shim::Peter Scheuermann::Radek Vingralek:::A Unified Algorithm for Cache Replacement and Consistency in Web Proxy Servers.
+conf/webdb/BeeriEMSSTKKMS98:::Catriel Beeri::Gershon Elber::Tova Milo::Yehoshua Sagiv::Oded Shmueli::Naftali Tishby::Yakov A. Kogan::David Konopnicki::Pini Mogilevski::Noam Slonim:::WebSuite: A Tool Suite for Harnessing Web Data.
+conf/webdb/BouchouHM03:::Béatrice Bouchou::Mirian Halfeld Ferrari Alves::Martin A. Musicante:::Tree Automata to Verify XML Key Constraints.
+conf/webdb/ProllRSS99:::Birgit Pröll::Werner Retschitzegger::Harald Sighart::Heinrich Starck:::Ready for Prime Time - Pre-Generation of Web Pages in TIScover.
+conf/wicsa/CanalPT99:::Carlos Canal::Ernesto Pimentel::José M. Troya:::Specification and Refinement of Dynamic Software Architectures.
+conf/wicsa/Gentleman99:::W. Morven Gentleman:::Architecture for Software Construction by Unrelated Developers.
+conf/wmcsa/GraumannHLB03:::David Graumann::Jeffrey Hightower::Walter Lara::Gaetano Borriello:::Real-world Implementation of the Location Stack: The Universal Location Framework.
+conf/wmcsa/KozuchS02:::Michael Kozuch::Mahadev Satyanarayanan:::Internet Suspend/Resume.
+conf/wmcsa/ChenMMD03:::DeQing Chen::Alan Messer::Dejan S. Milojicic::Sandhya Dwarkadas:::Garbage Collector Assisted Memory Offloading for Memory-Constrained Devices.
+conf/wmcsa/PonnekantiRF02:::Shankar Ponnekanti::Luis Alberto Robles::Armando Fox:::User Interfaces for Network Services: What, from Where, and How.
+conf/woman/Uden90:::Lorna Uden:::Gender Bias: The East-West Paradox.
+conf/woman/MacGregor90:::John MacGregor:::Getting Women into Computing.
+conf/woman/Beardon90:::Colin Beardon:::Woman into Computing: Some Experience from New Zealand.
+conf/woman/ShippS90:::Karen Shipp::Dianne Sutton:::An Analysis of Attempts to Remember that Some Students are Females.
+conf/woman/StapletonWG90:::Jennifer Stapleton::Shirley Williams::Jane Goodwin:::WISE UP: A New Course for Woman Returners Run at Reading.
+conf/woman/Arrowsmith90:::Christine Arrowsmith:::Networking and the UK Federation of Business and Professional Woman.
+conf/wsmai/Ambroszkiewicz03:::Stanislaw Ambroszkiewicz:::Entish: eLingua for Service Description and Composition.
+conf/wuauc/Oviatt01:::Sharon L. Oviatt:::Designing robust multimodal systems for universal access.
+conf/wuauc/Heller01:::Rachelle S. Heller:::Use of the multimedia taxonomy for a research direction into design and evaluation of materials for the elderly.
+conf/wuauc/GregorN01:::Peter Gregor::Alan F. Newell:::Designing for dynamic diversity: making accessible interfaces for older people.
+conf/db-workshops/Poschik78:::S. Poschik:::A portable relational interface for the distributed DBMS POREL.
+conf/db-workshops/Kowalski85:::Robert A. Kowalski:::The Limitaions of Logic and Its Role in Artificial Intelligence.
+conf/db-workshops/Harper85:::Robert Harper:::Modules and Persistence in Standard ML.
+conf/db-workshops/KlaholdWU88:::Peter Klahold::Wolfgang Wilkes::M. Ungerer:::Datenmodelle für VLSI-Entwurfsdatenbanken.
+conf/db-workshops/MarshallS92:::Lynn S. Marshall::Linda Simon:::Using VDM Within an Object-Oriented Framework.
+conf/db-workshops/HelmbrechtB88:::Udo Helmbrecht::Uwe Böhnke:::Verwaltungsorganisation im CAE-Bereich mit Hilfe technischer Datenbanken.
+conf/db-workshops/BorgidaJMSV85:::Alexander Borgida::Matthias Jarke::John Mylopoulos::Joachim W. Schmidt::Yannis Vassiliou:::The Software Development Environment as a Knowledge Base Management System.
+conf/db-workshops/AppelrathL88:::Hans-Jürgen Appelrath::H. Lorek:::Der Einsatz von Prolog-Werkzeugen für Geo-Datenbanken.
+conf/db-workshops/BubenkoO85:::Janis A. Bubenko Jr.::Istvan P. Orci:::Knowledge Base Management Systems: A Database View.
+conf/db-workshops/ButscherBP78:::Berthold Butscher::Wulf L. Bauerfeld::Radu Popescu-Zeletin:::Data access in a heterogeneous computer network.
+conf/db-workshops/Schweppe78:::Heinz Schweppe:::On different classes of predicates for distributing data.
+conf/db-workshops/HartwigLS78:::W. Hartwig::Volker Linnemann::Günther Stiege:::Realisierung eines Datenbanksystems mittels Spezialhardware und Kleinrechnern.
+conf/db-workshops/KerstenSB90:::Martin L. Kersten::S. Shair-Adi::Carel A. van den Berg:::Performance Analysis of a Dynamic Query Processing Scheme.
+conf/db-workshops/WiederholdBW85:::Gio Wiederhold::Robert L. Blum::Michael G. Walker:::An Integration of Knowledge and Data Representation.
+conf/db-workshops/MottaSA85:::Enrico Motta::Maria Simi::Giuseppe Attardi:::Metalanguage and Databases.
+conf/db-workshops/LienH80:::Y. Edmund Lien::Susan K. Harris:::Structured Implementation of an Image Query Language.
+conf/db-workshops/ZdonikW85:::Stanley B. Zdonik::Peter Wegner:::Language and Methodology for Object-Oriented Database Environments.
+conf/db-workshops/Strelen78:::Johann Christoph Strelen:::Zugriff auf Dateien in Rechnernetzen über Sekundärschlüssel: zur Minimalzahl der beteiligten Rechner.
+conf/db-workshops/ZobristB80:::Albert L. Zobrist::Nevin A. Bryant:::Designing an Image Based Information System.
+conf/db-workshops/Reiter82:::Raymond Reiter:::Towards a Logical Reconstruction of Relational Database Theory.
+conf/db-workshops/Levesque82:::Hector J. Levesque:::The Logic of Incomplete Knowledge Bases.
+conf/db-workshops/Maekawa79:::Mamoru Maekawa:::Parallel Join and Sorting Algorithms.
+conf/db-workshops/Palmer78:::I. R. Palmer:::Practicalities in Applying a Formal Methodology to Data Analysis.
+conf/siggraph/ZongkerWS00:::Douglas E. Zongker::Geraldine Wade::David Salesin:::Example-based hinting of true type fonts.
+conf/siggraph/Chen95:::Shenchang Eric Chen:::QuickTime VR: an image-based approach to virtual environment navigation.
+conf/siggraph/PaiDJLLRY01:::Dinesh K. Pai::Kees van den Doel::Doug L. James::Jochen Lang::John E. Lloyd::Joshua L. Richmond::Som H. Yau:::Scanning physical interaction behavior of 3D objects.
+conf/siggraph/ChiCZB00:::Diane M. Chi::Monica Costa::Liwei Zhao::Norman I. Badler:::The EMOTE model for effort and shape.
+conf/siggraph/WinkenbachS96:::Georges Winkenbach::David Salesin:::Rendering Parametric Surfaces in Pen and Ink.
+conf/siggraph/WatsonFM01:::Benjamin Watson::Alinda Friedman::Aaron McGaffey:::Measuring and predicting visual fidelity.
+conf/siggraph/YuM98:::Yizhou Yu::Jitendra Malik:::Recovering Photometric Properties of Architectural Scenes from Photographs.
+conf/siggraph/MacIntyreF98:::Blair MacIntyre::Steven Feiner:::A Distributed 3D Graphics Library.
+conf/siggraph/ProudfootMTH01:::Kekoa Proudfoot::William R. Mark::Svetoslav Tzvetkov::Pat Hanrahan:::A real-time procedural shading system for programmable graphics hardware.
+conf/siggraph/CurlessL96:::Brian Curless::Marc Levoy:::A Volumetric Method for Building Complex Models from Range Images.
+conf/siggraph/FernandoFBG01:::Randima Fernando::Sebastian Fernandez::Kavita Bala::Donald P. Greenberg:::Adaptive shadow maps.
+conf/siggraph/WalterFM01:::Marcelo Walter::Alain Fournier::Daniel Menevaux:::Integrating shape and pattern in mammalian models.
+conf/siggraph/ShadeGHS98:::Jonathan Shade::Steven J. Gortler::Li-wei He::Richard Szeliski:::Layered Depth Images.
+conf/siggraph/Akeley95:::Kurt Akeley:::Computer graphics achievement award.
+conf/siggraph/WeiL00:::Li-Yi Wei::Marc Levoy:::Fast texture synthesis using tree-structured vector quantization.
+conf/siggraph/Tupper01:::Jeff Tupper:::Reliable two-dimensional graphing methods for mathematical formulae with two free variables.
+conf/siggraph/LewisCF00:::J. P. Lewis::Matt Cordner::Nickson Fong:::Pose space deformation: a unified approach to shape interpolation and skeleton-driven deformation.
+conf/siggraph/PopovicW99:::Zoran Popovic::Andrew P. Witkin:::Physically Based Motion Transformation.
+conf/siggraph/KimKS95:::Myoung-Jun Kim::Myung-Soo Kim::Sung Yong Shin:::A general construction scheme for unit quaternion curves with simple high order derivatives.
+conf/siggraph/Felger96:::Wolfgang Felger:::Global Multi-User Virtual Environments (Panel).
+conf/siggraph/BruderlinW95:::Armin Bruderlin::Lance Williams:::Motion signal processing.
+conf/siggraph/LeeMH00:::Aaron W. F. Lee::Henry P. Moreton::Hugues Hoppe:::Displaced subdivision surfaces.
+conf/siggraph/CameronBCGHO97:::Gordon Cameron::Andre Bustanoby::Ken Cope::Steph Greenberg::Craig Hayes::Olivier Ozoux:::Motion capture and CG character animation (panel).
+conf/siggraph/BolinM95:::Mark R. Bolin::Gary W. Meyer:::A frequency based ray tracer.
+conf/siggraph/Gleicher98:::Michael Gleicher:::Retargeting Motion to New Characters.
+conf/siggraph/WeberP95:::Jason Weber::Joseph Penn:::Creation and rendering of realistic trees.
+conf/siggraph/Mitchell96:::Don P. Mitchell:::Consequences of Stratified Sampling in Graphics.
+conf/siggraph/WandFPHS01:::Michael Wand::Matthias Fischer::Ingmar Peter::Friedhelm Meyer auf der Heide::Wolfgang Straßer:::The randomized z-buffer algorithm: interactive rendering of highly complex scenes.
+conf/siggraph/LaszloPF00:::Joseph Laszlo::Michiel van de Panne::Eugene Fiume:::Interactive control for physically-based animation.
+conf/siggraph/GrzeszczukT95:::Radek Grzeszczuk::Demetri Terzopoulos:::Automated learning of muscle-actuated locomotion through control abstraction.
+conf/siggraph/KochGCBFP96:::Rolf M. Koch::Markus H. Gross::Friedrich R. Carls::Daniel F. von Büren::George Fankhauser::Yoav I. H. Parish:::Simulating Facial Surgery Using Finite Element Models.
+conf/siggraph/EckDDHLS95:::Matthias Eck::Tony DeRose::Tom Duchamp::Hugues Hoppe::Michael Lounsbery::Werner Stuetzle:::Multiresolution analysis of arbitrary meshes.
+conf/siggraph/OlanoL98:::Marc Olano::Anselmo Lastra:::A Shading Language on Graphics Hardware: The Pixelflow Shading System.
+conf/siggraph/Cohen-OrMF99:::Daniel Cohen-Or::Yair Mann::Shachar Fleishman:::Deep Compression for Streaming Texture Intensive Animations.
+conf/siggraph/PeercyOAU00:::Mark S. Peercy::Marc Olano::John Airey::P. Jeffrey Ungar:::Interactive multi-pass programmable shading.
+conf/siggraph/RappoportS97:::Ari Rappoport::Steven N. Spitz:::Interactive Boolean operations for conceptual design of 3-D solids.
+conf/siggraph/GodwinAMCG97:::Paul Godwin::Eythor Arnolds::William L. Martens::Timothy W. Cole::James Grunke:::Sounding off on audio: the future of Internet sound (panel).
+conf/siggraph/GuskovVSS00:::Igor Guskov::Kiril Vidimce::Wim Sweldens::Peter Schröder:::Normal meshes.
+conf/siggraph/LegakisDG01:::Justin Legakis::Julie Dorsey::Steven J. Gortler:::Feature-based cellular texturing for architectural models.
+conf/siggraph/BuehlerBMGC01:::Chris Buehler::Michael Bosse::Leonard McMillan::Steven J. Gortler::Michael F. Cohen:::Unstructured lumigraph rendering.
+conf/siggraph/PrusinkiewiczMKL01:::Przemyslaw Prusinkiewicz::Lars Mündermann::Radoslaw Karwowski::Brendan Lane:::The use of positional information in the modeling of plants.
+conf/siggraph/NeyretC99:::Fabrice Neyret::Marie-Paule Cani:::Pattern-Based Texturing Revisited.
+conf/siggraph/KhodakovskySS00:::Andrei Khodakovsky::Peter Schröder::Wim Sweldens:::Progressive geometry compression.
+conf/siggraph/KrishnamurthyL96:::Venkat Krishnamurthy::Marc Levoy:::Fitting Smooth Surfaces to Dense Polygon Meshes.
+conf/siggraph/MontrymBDM97:::John S. Montrym::Daniel R. Baum::David L. Dignam::Christopher J. Migdal:::InfiniteReality: a real-time graphics system.
+conf/siggraph/GrimmH95:::Cindy Grimm::John F. Hughes:::Modeling surfaces of arbitrary topology using manifolds.
+conf/siggraph/HertzmannZ00:::Aaron Hertzmann::Denis Zorin:::Illustrating smooth surfaces.
+conf/siggraph/KarniG00:::Zachi Karni::Craig Gotsman:::Spectral compression of mesh geometry.
+conf/siggraph/VeachG97:::Eric Veach::Leonidas J. Guibas:::Metropolis light transport.
+conf/sigplanW/ManiattySS92:::William Maniatty::Boleslaw K. Szymanski::Balaram Sinharoy:::Efficiency of Data Alignment on Maspar.
+conf/sacrypt/BlundoBMS00:::Carlo Blundo::Annalisa De Bonis::Barbara Masucci::Douglas R. Stinson:::Dynamic Multi-threshold Metering Schemes.
+conf/sacrypt/KhachatrianKIM01:::Gurgen H. Khachatrian::Melsik K. Kuregian::Karen R. Ispiryan::James L. Massey:::Fast Multiplication of Integers for Public-Key Applications.
+conf/sacrypt/FluhrerL01:::Scott R. Fluhrer::Stefan Lucks:::Analysis of the E<sub>0</sub> Encryption System.
+conf/sacrypt/Pliam99:::John O. Pliam:::Guesswork and Variation Distance as Measures of Cipher Security.
+conf/sacrypt/Reyhani-MasolehH01:::Arash Reyhani-Masoleh::M. Anwarul Hasan:::Fast Normal Basis Multiplication Using General Purpose Processors.
+conf/sacrypt/Kanda00:::Masayuki Kanda:::Practical Security Evaluation against Differential and Linear Cryptanalyses for Feistel Ciphers with SPN Round Function.
+conf/sacrypt/WesthoffSUK99:::Dirk Westhoff::Markus Schneider II::Claus Unger::Firoz Kaderali:::Protecting a Mobile Agent's Route against Collusions.
+conf/sacrypt/Noilhan99:::Fabrice Noilhan:::Software Optimization of Decorrelation Module.
+conf/sacrypt/StinsonW98:::Douglas R. Stinson::R. Wei:::Key Preassigned Traceability Schemes for Broadcast Encryption.
+conf/sacrypt/HawkesR02:::Philip Hawkes::Gregory G. Rose:::Guess-and-Determine Attacks on SNOW.
+conf/sacrypt/KandaTAO98:::Masayuki Kanda::Youichi Takashima::Tsutomu Matsumoto::Kazumaro Aoki::Kazuo Ohta:::A Strategy for Constructing Fast Round Functions with Practical Security Against Differential and Linear Cryptanalysis.
+conf/sacrypt/CandaTMH00:::Valér Canda::Tran van Trung::Spyros S. Magliveras::Tamás Horváth:::Symmetric Block Ciphers Based on Group Bases.
+conf/sacrypt/ChowEJO02:::Stanley Chow::Philip A. Eisen::Harold Johnson::Paul C. van Oorschot:::White-Box Cryptography and an AES Implementation.
+conf/sigsmall/KandellS88:::Abraham Kandel::Mordechay Schneider:::COFESS: Cooperative Fuzzy Expert Systems for Intelligent Recognition on Small Computers.
+conf/sigsmall/Law88:::G. Law:::A Model for the Design of High Performance Protocols for a Networked Computing Environment.
+conf/sigsmall/Kuenning81a:::Geoffrey H. Kuenning:::Designing Real-Time Software Systems.
+conf/sigsmall/Cigas90:::John F. Cigas:::Dynamically Displaying a Pascal Program in Color.
+conf/sigsmall/WongW90:::Kam-Fai Wong::M. Howard Williams:::CLARE - A Prolog Database Machine.
+conf/sigsmall/Felice90:::Paolino Di Felice:::Basic Requirements and Main Features of a System Supporting the Reusability of Mathematical Software on Personal Computers.
+conf/sigsmall/LinWY88:::J. Lin::S. Wang::S. Bing Yao:::A Portable Locking System for Local Area Networks.
+conf/sigsmall/KulkarniW90:::A. D. Kulkarni::George M. Whitson:::Self Organizing Neural Networks with a Split/Merge Algorithm.
+conf/sigsmall/BouchetCF81:::P. Bouchet::A. Chesnais::Jean-Michel Feuvre:::Data Bases for Microcomputers: The PEPIN Approach.
+conf/sigsmall/Hashemi-Nassab90:::Ray Hashemi-Nassab:::Parametric Performance Evaluation of a Micro-Based Database System.
+conf/sigsmall/RavindranR91:::K. Ravindran::K. K. Ramakrishnan:::A Naming System for Feature-Based Service Specification in Distributed Operating Systems.
+conf/sigsmall/TaylorB90:::Kathleen Taylor::Michael A. Bauer:::An Object/Message Model for the Development of Integrated Workstation Software.
+conf/sigsmall/Hughes90:::Larry Hughes:::Edmund: A Multicast Kernel for Distributed Application.
+conf/ecsqaru/Bell97:::Siegfried Bell:::Dependency Mining in Relational Databases.
+conf/ecsqaru/MoralRS03:::Serafín Moral::Rafael Rumí::Antonio Salmerón:::Approximating Conditional MTE Distributions by Means of Mixed Trees.
+conf/ecsqaru/BejarM99:::Ramón Béjar::Felip Manyà:::A Comparison of Systematic and Local Search Algorithms for Regular CNF Formulas.
+conf/ecsqaru/MaW91:::Yong Ma::David C. Wilkins:::Induction of Uncertain Rules and the Sociopathicity Property in Dempster-Shafer Theory.
+conf/ecsqaru/May97:::Wolfgang May:::Process Modeling with Different Qualities of Knowledge.
+conf/ecsqaru/KephartG99:::Jeffrey O. Kephart::Amy R. Greenwald:::Shopbot Economics.
+conf/ecsqaru/ParsonsS93:::Simon Parsons::Alessandro Saffiotti:::Integrating Uncertainty Handling Formalisms in Distributed Artificial Intelligence.
+conf/ecsqaru/Oppel91:::Ulrich G. Oppel:::Every Complex System can be Determined by a Causal Probabilistic Network Without Cycles and Every Such Network Determines a Markov Field.
+conf/ecsqaru/Besnard91:::Philippe Besnard:::Default Logics.
+conf/ecsqaru/Jaeger03:::Manfred Jaeger:::A Representation Theorem and Applications.
+conf/ecsqaru/LehmannH99:::Norbert Lehmann::Rolf Haenni:::An Alternative to Outward Propagation for Dempster-Shafer Belief Functions.
+conf/ecsqaru/DuboisFS03:::Didier Dubois::Hélène Fargier::Régis Sabbadin:::Qualitative Decision Rules under Uncertainty.
+conf/ecsqaru/DuboisGP99:::Didier Dubois::Michel Grabisch::Henri Prade:::Assessing the Value of Candidate (A Qualitative Possibilistic Approach).
+conf/ecsqaru/DuboisSP95:::Didier Dubois::Florence Dupin de Saint-Cyr::Henri Prade:::Update Postulates without Inertia.
+conf/ecsqaru/PapiniR93:::Odile Papini::Antoine Rauzy:::A Mixed Approach of Revision in Propositional Calculus.
+conf/ecsqaru/PapiniR95:::Odile Papini::Antoine Rauzy:::Revision in Extended Propositional Calculus.
+conf/ecsqaru/Lukasiewicz03:::Thomas Lukasiewicz:::Probabilistic Lexicographic Entailment under Variable-Strength Inheritance with Overriding.
+conf/ecsqaru/Milnikel03:::Robert Saxon Milnikel:::A Sequent Calculus for Skeptical Reasoning in Predicate Default Logic (Extended Abstract).
+conf/ecsqaru/Guiasu93:::Silviu Guiasu:::Weighting Independent Bodies of Evidence.
+conf/ecsqaru/NevesR01:::Rui Da Silva Neves::Eric Raufaste:::Polymorphism of Human Judgment under Uncertainty.
+conf/ecsqaru/RhodesG91:::Paul C. Rhodes::Gerald R. Garside:::Using Maximum Entropy to Identify Unsafe Assumptions in Probabilistic Expert Systems.
+conf/ecsqaru/NgairP93:::Teow-Hin Ngair::Gregory M. Provan:::A Lattice-Theoretic Analysis of ATMS Problem Solving.
+conf/ecsqaru/BourneP99:::Rachel A. Bourne::Simon Parsons:::Connecting Lexicographic with Maximum Entropy Entailment.
+conf/ecsqaru/DuboisP97:::Didier Dubois::Henri Prade:::Focusing vs. Belief Revision: A Fundamental Distinction When Dealing with Generic Knowledge.
+conf/ecsqaru/CamposH93:::Luis M. de Campos::Juan F. Huete:::Learning Non Probalistic Belief Networks.
+conf/ecsqaru/YaghlaneM99:::Boutheina Ben Yaghlane::Khaled Mellouli:::Updating Directed Belief Networks.
+conf/ecsqaru/GabbayH93a:::Dov M. Gabbay::Anthony Hunter:::Restricted Access Logics for Inconsistent Information.
+conf/ecsqaru/Dunin-KepliczR95:::Barbara Dunin-Keplicz::Anna Radzikowska:::Epistemic Approach to Actions with Typical Effects.
+conf/ecsqaru/GomezC03:::Manuel Gómez::Andrés Cano:::Applying Numerical Trees to Evaluate Asymmetric Decision Problems.
+conf/ecsqaru/SucarG91:::Luis Enrique Sucar::Duncan Fyfe Gillies:::Handling Uncertainty in Knowledge-Based Computer Vision.
+conf/ecsqaru/OgnjanovicKM01:::Zoran Ognjanovic::Jozef Kratica::Milos Milovanovic:::A Genetic Algorithm for Satisfiability Problem in a Probabilistic Logic: A First Report.
+conf/ecsqaru/BittencourtMS93:::Guilherme Bittencourt::Maurício Marengoni::Sandra Sandri:::The Use of Possibilistic Logic PL1 in a Customizable Tool for the Generation of Production-Rule Based Systems.
+conf/ecsqaru/BlochPU01:::Isabelle Bloch::Ramón Pino Pérez::Carlos Uzcátegui:::Explanatory Relations Based on Mathematical Morphology.
+conf/ecsqaru/YaghlaneSM01:::Boutheina Ben Yaghlane::Philippe Smets::Khaled Mellouli:::About Conditional Belief Function Independence.
+conf/ecsqaru/BighamLB95:::John Bigham::Zhiyuan Luo::Debashis Banerjee:::A Cost Bounded Possibilistic ATMS.
+conf/ecsqaru/LinkeS99:::Thomas Linke::Torsten Schaub:::On Bottom-Up Pre-processing Techniques for Automated Default Reasoning.
+conf/ecsqaru/DuvalN99:::Béatrice Duval::Pascal Nicolas:::Learning Default Theories.
+conf/ecsqaru/Grabisch01:::Michel Grabisch:::On Preference Representation on an Ordinal Scale.
+conf/ecsqaru/KshemkalyaniK01:::Ajay D. Kshemkalyani::Roshan Kamath:::Orthogonal Relations for Reasoning about Abstract Events.
+conf/ecsqaru/Andersson03:::Maria Andersson:::Classification of Aerial Missions Using Hidden Markov Models.
+conf/ecsqaru/FoxKD91:::John Fox::Paul Krause::Mirko Dohnal:::An Extended Logic Language For Representing Belief.
+conf/ecsqaru/DemirerS01:::Riza Demirer::Prakash P. Shenoy:::Sequential Valuation Networks: A New Graphical Technique for Asymmetric Decision Problems.
+conf/ecsqaru/BouckaertS95:::Remco R. Bouckaert::Milan Studený:::Chain graphs: semantics and expressiveness.
+conf/ecsqaru/Weydert91:::Emil Weydert:::Elementary Hyperentailment -Nonmonotonic reasoning about defaults-.
+conf/ecsqaru/GabbayR97:::Dov M. Gabbay::Odinaldo Rodrigues:::Structured Belief Bases: A Practical Approach to Prioritised Base Revision.
+conf/ecsqaru/BaroniGM95:::Pietro Baroni::Giovanni Guida::Silvano Mussi:::Modeling Uncertain Relational Knowledge: the AV-Quantified Production Rules Approach.
+conf/ecsqaru/CornelisK03:::Chris Cornelis::Etienne E. Kerre:::Inclusion Measures in Intuitionistic Fuzzy Set Theory.

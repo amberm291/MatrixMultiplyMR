@@ -1,0 +1,200 @@
+journals/siamcomp/Lickteig89:::Thomas Lickteig:::A Lower Bound on the Complexity of Division in Finite Extension Fields and Inversion in Quadratic Alternative Algebras.
+journals/siamcomp/Tarjan73:::Robert Endre Tarjan:::Enumeration of the Elementary Circuits of a Directed Graph.
+journals/siamcomp/AroraK03:::Sanjeev Arora::George Karakostas:::Approximation Schemes for Minimum Latency Problems.
+journals/siamcomp/BarahonaT89:::Francisco Barahona::Éva Tardos:::Note on Weintraub's Minimum-Cost Circulation Algorithm.
+journals/siamcomp/BhattGLL99:::Sandeep N. Bhatt::David S. Greenberg::Frank Thomson Leighton::Pangfeng Liu:::Tight Bounds for On-Line Tree Embeddings.
+journals/siamcomp/KuceraS01:::Antonín Kucera::Theodore A. Slaman:::Randomness and Recursive Enumerability.
+journals/siamcomp/Renegar92:::James Renegar:::On the Computational Complexity of Approximating Solutions for Real Algebraic Formulae.
+journals/siamcomp/FennerFK96:::Stephen A. Fenner::Lance Fortnow::Stuart A. Kurtz:::The Isomorphism Conjecture Holds Relative to an Oracle.
+journals/siamcomp/Baker78a:::Theodore P. Baker:::A Technique for Extending Rapid Exact-Match String Matching to Arrays of More Than One Dimension.
+journals/siamcomp/Willard86:::Dan E. Willard:::Log-Logarithmic Selection Resolution Protocols in a Multiple Access Channel.
+journals/siamcomp/BalasX91:::Egon Balas::Jue Xue:::Minimum Weighted Coloring of Triangulated Graphs, with Application to Maximum Weight Vertex Packing and Clique Finding in Arbitrary Graphs.
+journals/siamcomp/TouegS81:::Sam Toueg::Kenneth Steiglitz:::Some Complexity Results in the Design of Deadlock-Free Packet Switching Networks.
+journals/siamcomp/GarsiaW77:::Adriano M. Garsia::Michelle L. Wachs:::A New Algorithm for Minimum Cost Binary Trees.
+journals/siamcomp/RamachandranY96:::Vijaya Ramachandran::Honghua Yang:::An Efficient Parallel Algorithm for the General Planar Monotone Circuit Value Problem.
+journals/siamcomp/BuhrmanCD00:::Harry Buhrman::Richard Cleve::Wim van Dam:::Quantum Entanglement and Communication Complexity.
+journals/siamcomp/AndreevCRT99:::Alexander E. Andreev::Andrea E. F. Clementi::José D. P. Rolim::Luca Trevisan:::Weak Random Sources, Hitting Sets, and BPP Simulations.
+journals/siamcomp/VaradarajanA00:::Kasturi R. Varadarajan::Pankaj K. Agarwal:::Approximating Shortest Paths on a Nonconvex Polyhedron.
+journals/siamcomp/PelegU90:::David Peleg::Eli Upfal:::A Time-Randomness Trade-Off for Oblivious Routing.
+journals/siamcomp/KanellakisP85:::Paris C. Kanellakis::Christos H. Papadimitriou:::The Complexity of Distributed Concurrency Control.
+journals/siamcomp/Scott76:::Dana S. Scott:::Data Types as Lattices.
+journals/siamcomp/KhullerRY96:::Samir Khuller::Balaji Raghavachari::Neal E. Young:::Low-Degree Spanning Trees of Small Weight.
+journals/siamcomp/BlumKRS00:::Avrim Blum::Howard J. Karloff::Yuval Rabani::Michael E. Saks:::A Decomposition Theorem for Task Systems and Bounds for Randomized Server Problems.
+journals/siamcomp/CoffmanL79:::Edward G. Coffman Jr.::Joseph Y.-T. Leung:::Combinatorial Analysis of an Efficient Algorithm for Processor and Storage Allocation.
+journals/siamcomp/RothB91:::Ron M. Roth::Gyora M. Benedek:::Interpolation and Approximation of Sparse Multivariate Polynomials over GF(2).
+journals/siamcomp/Sethi76:::Ravi Sethi:::Scheduling Graphs on Two Processors.
+journals/siamcomp/DevroyeR95a:::Luc Devroye::Bruce Reed:::On the Variance of the Height of Random Binary Search Trees.
+journals/siamcomp/CohenHKZ03:::Edith Cohen::Eran Halperin::Haim Kaplan::Uri Zwick:::Reachability and Distance Queries via 2-Hop Labels.
+journals/siamcomp/OommenH87:::B. John Oommen::E. R. Hansen:::List Organizing Strategies Using Stochastic Move-to-Front and Stochastic Move-to-Rear Operations.
+journals/siamcomp/Gathen87:::Joachim von zur Gathen:::Computing Powers in Parallel.
+journals/siamcomp/AldousHS92:::David Aldous::Micha Hofri::Wojciech Szpankowski:::Maximum Size of a Dynamic Data Structure: Hashing with Lazy Deletion Revisited.
+journals/siamcomp/BarnesE98:::Greg Barnes::Jeff Edmonds:::Time-Space Lower Bounds for Directed st-Connectivity on Graph Automata Models.
+journals/siamcomp/AllenderBI97:::Eric Allender::José L. Balcázar::Neil Immerman:::A First-Order Isomorphism Theorem.
+journals/siamcomp/Kundu74:::Sukhamay Kundu:::Existence of Graphs with Three Spanning Trees and Given Degree Sequence.
+journals/siamcomp/ShubS86:::Mike Shub::Steve Smale:::Computational Complexity: On the Geometry of Polynomials and a Theory of Cost: II.
+journals/siamcomp/Kurtz87:::Stuart A. Kurtz:::A Note on Randomized Polynomial Time.
+journals/siamcomp/KeaneKM84:::M. Keane::Alan G. Konheim::I. Meilijson:::The Organ Pipe Permutation.
+journals/siamcomp/KargerM97:::David R. Karger::Rajeev Motwani:::An NC Algorithm for Minimum Cuts.
+journals/siamcomp/Singh97:::Gurdip Singh:::Leader Election in Complete Networks.
+journals/siamcomp/Maass86:::Wolfgang Maass:::On the Complexity of Nonconvex Covering.
+journals/siamcomp/Maass97:::Wolfgang Maass:::Bounds for the Computational Power and Learning Complexity of Analog Neural Nets.
+journals/siamcomp/AlurAT97:::Rajeev Alur::Hagit Attiya::Gadi Taubenfeld:::Time-Adaptive Algorithms for Synchronization.
+journals/siamcomp/Gavril72:::Fanica Gavril:::Algorithms for Minimum Coloring, Maximum Clique, Minimum Covering by Cliques, and Maximum Independent Set of a Chordal Graph.
+journals/siamcomp/DyerF88:::Martin E. Dyer::Alan M. Frieze:::On the Complexity of Computing the Volume of a Polyhedron.
+journals/siamcomp/CheriyanKT93:::Joseph Cheriyan::Ming-Yang Kao::Ramakrishna Thurimella:::Scan-First Search and Sparse Certificates: An Improved Parallel Algorithms for k-Vertex Connectivity.
+journals/siamcomp/GrigorievK98:::Dima Grigoriev::Marek Karpinski:::Computing the Additive Complexity of Algebraic Circuits with Root Extracting.
+journals/siamcomp/HirschbergL87:::Daniel S. Hirschberg::Lawrence L. Larmore:::The Least Weight Subsequence Problem.
+journals/siamcomp/Henzinger00:::Monika Rauch Henzinger:::Improved Data Structures for Fully Dynamic Biconnectivity.
+journals/siamcomp/CosmadakisP84:::Stavros S. Cosmadakis::Christos H. Papadimitriou:::The Traveling Salesman Problem with Many Visits to Few Cities.
+journals/siamcomp/AwerbuchALR02:::Baruch Awerbuch::Yossi Azar::Stefano Leonardi::Oded Regev:::Minimizing the Flow Time Without Migration.
+journals/siamcomp/AwerbuchBCP98:::Baruch Awerbuch::Bonnie Berger::Lenore Cowen::David Peleg:::Near-Linear Time Construction of Sparse Neighborhood Covers.
+journals/siamcomp/Linial92:::Nathan Linial:::Locality in Distributed Graph Algorithms.
+journals/siamcomp/Vaishnavi90:::Vijay K. Vaishnavi:::Erratum: Weighted Leaf AVL-Trees.
+journals/siamcomp/Heller84:::Hans Heller:::On Relativized Polynomial and Exponential Computations.
+journals/siamcomp/BattistaLV98:::Giuseppe Di Battista::Giuseppe Liotta::Francesco Vargiu:::Spirality and Optimal Orthogonal Drawings.
+journals/siamcomp/DurisG84:::Pavol Duris::Zvi Galil:::Two Tapes are Better than One for Nondeterministic Machines.
+journals/siamcomp/FriezeHKLS88:::Alan M. Frieze::Johan Håstad::Ravi Kannan::J. C. Lagarias::Adi Shamir:::Reconstructing Truncated Integer Variables Satisfying Linear Congruences.
+journals/siamcomp/AgarwalPS93:::Pankaj K. Agarwal::Marco Pellegrini::Micha Sharir:::Counting Circular Arc Intersections.
+journals/siamcomp/Ibarra78:::Oscar H. Ibarra:::The Unsolvability of the Equivalence Problem for epsilon-Free NGSM's with Unary Input (Output) Alphabet and Applications.
+journals/siamcomp/ParikhCHM85:::Rohit Parikh::Ashok K. Chandra::Joseph Y. Halpern::Albert R. Meyer:::Equations Between Regular Terms and an Application to Process Logic.
+journals/siamcomp/AgarwalaF94:::Richa Agarwala::David Fernández-Baca:::A Polynomial-Time Algorithm for the Perfect Phylogeny Problem when the Number of Character States is Fixed.
+journals/siamcomp/Spira73:::Philip M. Spira:::A New Algorithm for Finding all Shortest Paths in a Graph of Positive Arcs in Average Time 0(n² log²n).
+journals/siamcomp/KoblerT94:::Johannes Köbler::Thomas Thierauf:::Complexity-Restricted Advice Functions.
+journals/siamcomp/AtallahCG89:::Mikhail J. Atallah::Richard Cole::Michael T. Goodrich:::Cascading Divide-and-Conquer: A Technique for Designing Parallel Algorithms.
+journals/siamcomp/Goodrich91:::Michael T. Goodrich:::Intersecting Line Segments in Parallel with an Output-Sensitive Number of Processors.
+journals/siamcomp/MillerS87:::Russ Miller::Quentin F. Stout:::Data Movement Techniques for the Pyramid Computer.
+journals/siamcomp/FinoA77:::Bernard J. Fino::V. Ralph Algazi:::A Unified Treatment of Discrete Fast Unitary Transforms.
+journals/siamcomp/DolevS83:::Danny Dolev::H. Raymond Strong:::Authenticated Algorithms for Byzantine Agreement.
+journals/siamcomp/Rosenberg75a:::Arnold L. Rosenberg:::Preserving Proximity in Arrays.
+journals/siamcomp/PnueliS81:::Amir Pnueli::Giora Slutzki:::Automatic Programming of Finite State Linear Programs.
+journals/siamcomp/RajagopalanV98:::Sridhar Rajagopalan::Vijay V. Vazirani:::Primal-Dual RNC Approximation Algorithms for Set Cover and Covering Integer Programs.
+journals/siamcomp/CormenSW98:::Thomas H. Cormen::Thomas Sundquist::Leonard F. Wisniewski:::Asymptotically Tight Bounds for Performing BMMC Permutations on Parallel Disk Systems.
+journals/siamcomp/CloteK91:::Peter Clote::Evangelos Kranakis:::Boolean Functions, Invariance Groups, and Parallel Complexity.
+journals/siamcomp/JohnsonK83:::David S. Johnson::Anthony C. Klug:::Optimizing Conjunctive Queries that Contain Untyped Variables.
+journals/siamcomp/IbarraJ87:::Oscar H. Ibarra::Tao Jiang:::On One-Way Cellular Arrays.
+journals/siamcomp/LutzZ00:::Jack H. Lutz::Yong Zhao:::The Density of Weakly Complete Problems under Adaptive Reductions.
+journals/siamcomp/SavageJ81:::Carla D. Savage::Joseph JáJá:::Fast, Efficient Parallel Algorithms for Some Graph Problems.
+journals/siamcomp/BorodinC76:::Allan Borodin::Stephen Cook:::On the Number of Additions to Compute Specific Polynomials.
+journals/siamcomp/Bitner82:::James R. Bitner:::An Asymptotically Optimal Algorithm for the Dutch National Flag Problem.
+journals/siamcomp/Grandjean94:::Etienne Grandjean:::Linear Time Algorithms and NP-Complete Problems.
+journals/siamcomp/Santos75:::Eugene S. Santos:::State-Splitting for Stochastic Machines.
+journals/siamcomp/Norton89:::Graham H. Norton:::Precise Analyses of the Right- and Left-Shift Greatest Common Divisor Algorithms for GF(q)[x].
+journals/siamcomp/PittelY88:::Boris Pittel::Jenn-Hwa Yu:::On Search Times for Early-Insertion Coalesced Hashing.
+journals/siamcomp/ConstableG72:::Robert L. Constable::David Gries:::On Classes of Program Schemata.
+journals/siamcomp/AlekhnovichBRW02:::Michael Alekhnovich::Eli Ben-Sasson::Alexander A. Razborov::Avi Wigderson:::Space Complexity in Propositional Calculus.
+journals/siamcomp/AllenderHOW92:::Eric Allender::Lane A. Hemachandra::Mitsunori Ogiwara::Osamu Watanabe:::Relating Equivalence and Reducibility to Sparse Sets.
+journals/siamcomp/KimbrelK00:::Tracy Kimbrel::Anna R. Karlin:::Near-Optimal Parallel Prefetching and Caching.
+journals/siamcomp/KilpelainenM95:::Pekka Kilpeläinen::Heikki Mannila:::Ordered and Unordered Tree Inclusion.
+journals/siamcomp/DavisW82:::Henry W. Davis::Leon E. Winslow:::Computational Power in Query Languages.
+journals/siamcomp/TodaO92:::Seinosuke Toda::Mitsunori Ogiwara:::Counting Classes are at Least as Hard as the Polynomial-Time Hierarchy.
+journals/siamcomp/AdlerBK00:::Micah Adler::John W. Byers::Richard M. Karp:::Parallel Sorting with Limited Bandwidth.
+journals/siamcomp/BronnimannCM99:::Hervé Brönnimann::Bernard Chazelle::Jirí Matousek:::Product Range Spaces, Sensitive Sampling, and Derandomization.
+journals/siamcomp/LiptonT80:::Richard J. Lipton::Robert Endre Tarjan:::Applications of a Planar Separator Theorem.
+journals/siamcomp/Ripphausen-LipaWW97:::Heike Ripphausen-Lipa::Dorothea Wagner::Karsten Weihe:::The Vertex-Disjoint Menger Problem in Planar Graphs.
+journals/siamcomp/HopcroftW86:::John E. Hopcroft::Gordon T. Wilfong:::Reducing Multiple Object Motion Planning to Graph Searching.
+journals/siamcomp/Gusfield91:::Dan Gusfield:::Computing the Strength of a Graph.
+journals/siamcomp/BrentT80:::Richard P. Brent::J. F. Traub:::On the Complexity of Composition and Generalized Composition of Power Series.
+journals/siamcomp/CheritonT76:::David R. Cheriton::Robert Endre Tarjan:::Finding Minimum Spanning Trees.
+journals/siamcomp/AggarwalCKMS99:::Alok Aggarwal::Don Coppersmith::Sanjeev Khanna::Rajeev Motwani::Baruch Schieber:::The Angular-Metric Traveling Salesman Problem.
+journals/siamcomp/FeldmanM97:::Pesech Feldman::Silvio Micali:::An Optimal Probabilistic Protocol for Synchronous Byzantine Agreement.
+journals/siamcomp/ChariRS95:::Suresh Chari::Pankaj Rohatgi::Aravind Srinivasan:::Randomness-Optimal Unique Element Isolation with Applications to Perfect Matching and Related Problems.
+journals/siamcomp/FichRW88:::Faith E. Fich::Prabhakar Ragde::Avi Wigderson:::Relations Between Concurrent-Write Models of Parallel Computation.
+journals/siamcomp/Jackson72:::D. M. Jackson:::Expectations of Functions of Sequences over Finite Alphabets with Given Transition Probabilities by Methods Independent of Sequence Length.
+journals/siamcomp/CabayC86:::Stanley Cabay::Dong-Koo Choi:::Algebraic Computations of Scaled Padé Fractions.
+journals/siamcomp/CuckerG01:::Felipe Cucker::Dima Grigoriev:::There are No Sparse NP<sub>w</sub>-Hard Sets.
+journals/siamcomp/CuckerG97:::Felipe Cucker::Dima Grigoriev:::On the Power of Real Turing Machines Over Binary Inputs.
+journals/informaticaLT/MalickasV99:::Algimantas Malickas::Rimantas Vitkus:::Fingerprint Registration Using Composite Features Consensus.
+journals/informaticaLT/Kazlauskas98:::Kazys Kazlauskas:::High Speed LMS Adaptive Filtering.
+journals/informaticaLT/Reisz99:::Robert D. Reisz:::Decomposition Theorems for Probabilistic Automata over Infinite Objects.
+journals/informaticaLT/Larichev01:::Oleg I. Larichev:::Method ZAPROS for Multicriteria Alternatives Ranking and the Problem of Incomparability.
+journals/informaticaLT/KokoM98:::Jonas Koko::Aziz Moukrim:::Parallel Implementation of a Generalized Conjugate Gradient Algorithm.
+journals/informaticaLT/Nemuraite99:::Lina Nemuraite:::Business Object Modeling Framework for Distributed Enterprise.
+journals/informaticaLT/Shpilewski00:::Edward Shpilewski:::Recursive Algorithms of Time Series Observations Recognition.
+journals/informaticaLT/DiciunasR00:::Valdas Diciunas::Sarunas Raudys:::Generalization Error of Randomized Linear Zero Empirical Error Classifier: Simple Asymptotics for Centered Data Case.
+journals/informaticaLT/JuozapaviciusB99:::Algimantas Juozapavicius::Richard E. Blake:::Indices and Data Structures in Information Systems.
+journals/informaticaSI/KandusT93:::Gorazd Kandus::Iztok Tvrdy:::Global Modernization Plan of Telecommunications Infrastructure and Services in Slovenia (MTIS).
+journals/informaticaSI/HeylighenJ93:::Francis Heylighen::Cliff Joslyn:::Electronic Networking for Philosophical Development in the Principia Cybernetica Project.
+journals/informaticaSI/DasH96:::Subrata Kumar Das::Peter Hammond:::A Logic for Conditional Recommendation.
+journals/informaticaSI/LeissJ95:::Ernst L. Leiss::Jurij Jaklic:::Comparing Inference Control Mechanisms for Statistical Databases with Emphasis on Randomizing.
+journals/informaticaSI/Cheon96a:::Se Woo Cheon:::Application of Neural Networks to Nuclear Power Plants in Korea.
+journals/informaticaSI/HlupicP94:::Vlatka Hlupic::Ray J. Paul:::Evaluating the Manufacturing Simulator "Witness" on an Automated Manufacturing System.
+journals/informaticaSI/RakovicSRSTJRMCJ99:::D. Rakovic::P. Sukovic::D. Radenovic::L. Skaric::M. Tomasevic::Emil Jovanov::Vlada Radivojevic::Z. Martinovic::M. Car::Z. Jovanovic-Ignjatic:::Electroencephalographic (EEG) Correlates of Some Activities Which May Alter Consciousness.
+journals/informaticaSI/Linkevich97:::Alexander D. Linkevich:::Anticipation, Perception, Language, Mind and Nonlinear Dynamics of Neural Networks.
+journals/informaticaSI/LiP97:::Keqin Li::Yi Pan:::On the Impact of Communication Overhead on the Average-Case Scalability of Random Parallel Programs on Multicomputers.
+journals/informaticaSI/Liu98:::Mengchi Liu:::The ROL Deductive Object-Oriented Database System.
+journals/informaticaSI/Atolagbe97:::Tajudeen A. Atolagbe:::A Generic Architecture for Intelligent Instruction for Simulation Modelling Software Packages.
+journals/informaticaSI/Ecimovic98:::Paule Ecimovic:::Patterns in a Hopfield Linear Associator as Autocorrelatory Simultaneous Byzantine Agreement.
+journals/informaticaSI/Hower96:::Walter Hower:::Bottom-up Layout Generation.
+journals/informaticaSI/Yao94:::Xin Yao:::An Introduction to the Special Issue on Evolutionary Computation.
+journals/informaticaSI/KimL01:::Haeng-Kon Kim::Roger Y. Lee:::Management process for supporting the component development.
+journals/informaticaSI/LeeT01:::Chien-I Lee::Cheng-Jung Tsai:::An efficient approach to extracting and ranking the top K interesting target ranks from Web search engines.
+journals/informaticaSI/LiYH02:::Yong Li::Bo Yang::Xiang Hua:::An Efficient Anonymous Fingerprinting Scheme.
+journals/informaticaSI/Saint-Dizier98:::Patrick Saint-Dizier:::On the Polymorphic Behavior of Word-Senses.
+journals/informaticaSI/CheonLSPC97:::Se Woo Cheon::Jeong Woon Lee::Bong Sik Sim::Jin Kyun Park::Soon Heung Chang:::Cognitive Simulation of Operator's Diagnostic Strategies in Nuclear Power Plants.
+journals/informaticaSI/ClaessensPV02:::Joris Claessens::Bart Preneel::Joos Vandewalle:::Combining World Wide Web and wireless security.
+journals/informaticaSI/Hendriks-Jansen97:::Horst Hendriks-Jansen:::Information and the Dynamics of Phenomenal Consciousness.
+journals/informaticaSI/DahlRST99:::Verónica Dahl::Stephen Rochefort::Marius Scurtescu::Paul Tarau:::A Spanish Interface To LogiMoo: Towards Multilingual Virtual Worlds.
+journals/informaticaSI/ChungW99:::Kuo-Liang Chung::Jung-Gen Wu:::Improved Representations for Spatial Data Structures and Their Manipulations.
+journals/informaticaSI/WuRS95:::Xindong Wu::Sita Ramakrishnan::Heinz Schmidt:::Knowledge Objects.
+journals/informaticaSI/XieS01:::X. Xie::Sol M. Shatz:::An approach for modeling components with customization for distributed software.
+journals/informaticaSI/AudsleyBRW95:::Neil C. Audsley::Alan Burns::Mike F. Richardson::Andy J. Wellings:::Data Consistency in Hard Real-Time Systems.
+journals/informaticaSI/Jovic97:::Franjo Jovic:::Qualitative Reasoning and a Circular Information Processing Algebra.
+journals/informaticaSI/SemeraroDL02:::Giovanni Semeraro::Marco Degemmis::Pasquale Lops:::User Profiling to Support Internet Customers: What Do You Want to Buy Today?
+journals/informaticaSI/Zeleznickar94:::Anton P. Zeleznickar:::Informational Being-In.
+journals/informaticaSI/MizzaroR00:::Stefano Mizzaro::Paolo Zandegiacomo Rizio:::An Automatically Refereed Scholarly Electronic Journal: Formal Specifications.
+journals/informaticaSI/HaatajaSS01:::Arto Haataja::Jarkko Suhonen::Erkki Sutinen:::How to learn introductory programming over the Web?
+journals/informaticaSI/HelmanJ99:::David R. Helman::Joseph JáJá:::Sorting on Clusters of SMPs.
+journals/informaticaSI/Jerman-Blazic93:::Borka Jerman-Blazic:::Open Secure Model And Its Functionality In Networks With Value-Added Services.
+journals/informaticaSI/TaweelB02:::Adel Taweel::Pearl Brereton:::Developing Software Across Time Zones: An Exploratory Empirical Study.
+journals/informaticaSI/KuittinenSTT01:::Marja Kuittinen::Erkki Sutinen::Heikki Topi::Marko Turpeinen:::Learning by experience: Networks in learning organizations.
+journals/informaticaSI/MoisanRR01:::Sabine Moisan::Annie Ressouche::Jean-Paul Rigault:::Blocks, a component framework with checking facilities for knowledge-based systems.
+journals/informaticaSI/GuizaniA01:::Mohsen Guizani::Muhammad Anan:::Fault-tolerant ATM switching architectures based on MINs: A survey.
+journals/informaticaSI/SangKKL99:::Janche Sang::Chan M. Kim::Thaddeus J. Kollar::Isaac Lopez:::High-Performance Cluster Computing over Gigabit/Fast Ethernet.
+journals/informaticaSI/Keiffer94:::Jon Keiffer:::On the Exploitation of Mechanical Advantage Near Robot Singularities.
+journals/informaticaSI/FlorioDL99:::Vincenzo De Florio::Geert Deconinck::Rudy Lauwereins:::An Application-Level Dependable Technique for Farmer-Worker Parallel Programs.
+journals/informaticaSI/Kriselj00:::Miha Kriselj:::Impact of Digital Radio-Television Development on Spatial Development of Slovenia.
+journals/informaticaSI/LuoZC97:::Xudong Luo::Chengqi Zhang::Jingqiu Cai:::The Weighting Issue in Fuzzy Logic.
+journals/informaticaSI/GamsB96:::Matjaz Gams::Ivan Bratko:::AI in Eastern and Central Europe.
+journals/informaticaSI/Radovan00:::Mario Radovan:::Twelve Thesis on the Information Age.
+journals/informaticaSI/SasakiHF00:::Takahiro Sasaki::Tetsuo Hironaka::Seiji Fujino:::Performance Improvements of Thakore's Algorithm with Speculative Execution Technique and Dynamic Task Scheduling.
+journals/informaticaSI/KlostermeyerM96:::William Klostermeyer::Maria Muslea:::Techniques for Algorithm Design and Analysis: Case Study of a Greedy Algorithm.
+journals/informaticaSI/FogelF94:::Lawrence J. Fogel::David B. Fogel:::A Preliminary Investigation on Extending Evolutionary Programming to Include Self-Adaptation on Finite State.
+journals/informaticaSI/SuleimanEK00:::James Suleiman::J. Roberto Evaristo::Gigi G. Kelly:::Facilitating and Coordinating Distributed Joint Applications Development.
+journals/informaticaSI/Sicherl00:::Pavle Sicherl:::Digital Divide and the Gap Between North America and Europe in Internet Users per Capita: New Insight from Existing Data.
+journals/informaticaSI/ChangHK00:::Chin-Chen Chang::Kuo-Feng Hwang::Min-Shiang Hwang:::A Digital Watermarking Scheme Using Human Visual Effects.
+journals/informaticaSI/RamaniVS02:::Arathi Ramani::Salim Vhora::S. Sanyal:::The next generation Internet protocol.
+journals/informaticaSI/Abidi97:::Syed Sibte Raza Abidi:::Internet Information Brokering: A Re-Configurable Database Navigation, Data Filter and Export System.
+journals/informaticaSI/StembergerG01:::Mojca Indihar Stemberger::Janez Grad:::The object model of splines.
+journals/informaticaSI/LeighPPP01:::William Leigh::Mario Paz::Noemi Paz::Russell L. Purvis:::A pattern recognition approach to the prediction of price increases in the New York Stock Exchange Composite Index.
+journals/informaticaSI/ChangC00:::Chin-Chen Chang::Pei-Fang Chung:::A Technique of Watermarking for Digital Images Using (t, n)-Threshold Scheme.
+journals/informaticaSI/Schempp97:::Walter Schempp:::Quantum Holography and Magnetic Resonance Tomography: An Ensemble Quantum Computing Approach.
+journals/datamine/ZhangRL97:::Tian Zhang::Raghu Ramakrishnan::Miron Livny:::BIRCH: A New Data Clustering Algorithm and Its Applications.
+journals/datamine/CoppersmithHH99:::Don Coppersmith::Se June Hong::Jonathan R. M. Hosking:::Partitioning Nominal Attributes in Decision Trees.
+journals/datamine/RockeD03:::David M. Rocke::Jian Dai:::Sampling and Subsampling for Cluster Analysis in Data Mining: With Applications to Sky Survey Data.
+journals/datamine/SilversteinBMU00:::Craig Silverstein::Sergey Brin::Rajeev Motwani::Jeffrey D. Ullman:::Scalable Techniques for Mining Causal Structures.
+journals/datamine/AdomaviciusT01:::Gediminas Adomavicius::Alexander Tuzhilin:::Expert-Driven Validation of Rule-Based User Models in Personalization Applications.
+journals/datamine/SchaferKR01:::J. Ben Schafer::Joseph A. Konstan::John Riedl:::E-Commerce Recommendation Applications.
+journals/datamine/NgHL98:::Raymond T. Ng::Jiawei Han::Laks V. S. Lakshmanan:::Editorial.
+journals/datamine/CarrOPC00:::Daniel B. Carr::Anthony R. Olsen::Suzanne M. Pierson::Jean-Yves P. Courbois:::Using Linked Micromap Plots to Characterize Omernik Ecoregions.
+journals/datamine/SilversteinBM98:::Craig Silverstein::Sergey Brin::Rajeev Motwani:::Beyond Market Baskets: Generalizing Association Rules to Dependence Rules.
+journals/datamine/HamuroKMY98:::Yukinobu Hamuro::Naoki Katoh::Yasuyuki Matsuda::Katsutoshi Yada:::Mining Pharmacy Data Helps to Make Profits.
+journals/datamine/MadiganRDNPR02:::David Madigan::Nandini Raghavan::William DuMouchel::Martha Nason::Christian Posse::Greg Ridgeway:::Likelihood-Based Data Squashing: A Modeling Approach to Instance Construction.
+journals/datamine/LeeCK98:::Sau Dan Lee::David Wai-Lok Cheung::Ben Kao:::Is Sampling Useful in Data Mining? A Case in the Maintenance of Discovered Association Rules.
+journals/datamine/HernandezS98:::Mauricio A. Hernández::Salvatore J. Stolfo:::Real-world Data is Dirty: Data Cleansing and The Merge/Purge Problem.
+journals/datamine/GehrkeRG00:::Johannes Gehrke::Raghu Ramakrishnan::Venkatesh Ganti:::RainForest - A Framework for Fast Decision Tree Construction of Large Datasets.
+journals/aaecc/Chu95:::W. M. Chu:::Construction of Irreducible Polynomials Using Cubic Transformation.
+journals/aaecc/Hong01a:::Hoon Hong:::Ore Subresultant Coefficients in Solutions.
+journals/aaecc/Moller93:::H. Michael Möller:::On Decomposing Systems of Polynomial Equations with Finitely Many Solutions.
+journals/aaecc/HentzelJ92:::Irvin Roy Hentzel::David Pokrass Jacobs:::Fast Change of Basis in Algebras.
+journals/aaecc/Lidl91:::Rudolf Lidl:::Computational Problems in the Theory of Finite Fields.
+journals/aaecc/Barkatou93:::Moulay A. Barkatou:::An Algorithm for Computing a Companion Block Dianonal Form for a System of Liniear Differential Equations.
+journals/aaecc/Pless97:::Vera Pless:::Constraints on Weights in Binary Codes.
+journals/aaecc/Hirota00:::Osamu Hirota:::A Foundation of Quantum Channels with Super Additiveness for Shannon Information.
+journals/aaecc/FrosiniL01:::Patrizio Frosini::Claudia Landi:::Size Functions and Formal Series.
+journals/aaecc/Hessinger01:::Sabrina A. Hessinger:::Computing the Galois Group of a Linear Differential Equation of Order Four.
+journals/aaecc/MarinariMM93:::Maria Grazia Marinari::H. Michael Möller::Teo Mora:::Gröbner Bases of Ideals Defined by Functionals with an Application to Ideals of Projective Points.
+journals/aaecc/BlackmoreN01:::Tim Blackmore::Graham H. Norton:::Matrix-Product Codes over F<sub>q</sub>.
+journals/aaecc/Sabin92:::Roberta Evans Sabin:::On Minimum Distance Bounds for Abelian Codes.
+journals/aaecc/LidlMO90:::Rudolf Lidl::Winfried B. Müller::Alan Oswald:::Some Remarks on Strong Fibonacci Pseudoprimes.
+journals/aaecc/DarafshehP00:::M. R. Darafsheh::M. R. Pournaki:::Computation of the Dimensions of Symmetry Classes of Tensors Associated with the Finite two Dimensional Projective Special Linear Group.
+journals/aaecc/GuillaumeM96:::D. Guillaume::François Morain:::Building Psudoprimes with a Large Number of Prime Factors.

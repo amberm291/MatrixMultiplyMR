@@ -1,0 +1,200 @@
+conf/icpp/LeeSL99:::Wonjun Lee::Jaideep Srivastava::Won-Ho Lee:::Adaptive Disk Scheduling Algorithms for Video Servers.
+conf/icpp/Mueller-ThunsMB89:::Robert B. Mueller-Thuns::David McFarland::Prithviraj Banerjee:::Algorithm-Based Fault Tolerance for Adaptive Least Squares Lattice Filtering on a Hypercube Multiprocessor.
+conf/icpp/GreenbergM85:::Albert G. Greenberg::Udi Manber:::A Probabilistic Pipeline Algorithm for K-Selection on the Tree Machine.
+conf/icpp/VarmanIS90:::Peter J. Varman::Balakrishna R. Iyer::Scott D. Scheufler:::A Multiprocessor Algorithm for Merging Multiple Sorted Lists.
+conf/icpp/Kyriakis-BitzarosKG93:::Efstathios D. Kyriakis-Bitzaros::Odysseas G. Koufopavlou::Constantinos E. Goutis:::Space-Time Representation of Iterative Algorithms and The Design of Regular Processor Arrays.
+conf/icpp/RoseB87:::Daniel Rose::Francine Berman:::Mapping with External I/O : A Case Study.
+conf/icpp/RoseR99:::Luiz De Rose::Daniel A. Reed:::SvPablo: A Multi-Language Architecture-Independent Performance Analysis System.
+conf/icpp/SeoFK96:::Seung-Woo Seo::Tse-Yun Feng::Yanggon Kim:::Conflict Resolution in the Inside-Out Routing Algorithm.
+conf/icpp/GharachorlooGH91:::Kourosh Gharachorloo::Anoop Gupta::John L. Hennessy:::Two Techniques to Enhance the Performance of Memory Consistency Models.
+conf/icpp/Setia97:::Sanjeev Setia:::Trace-driven Analysis of Migration-based Gang Scheduling Policies for Parallel Computers.
+conf/icpp/LiangBT97:::Chungti Liang::Sourav Bhattacharya::Jack Tan:::Design and Analysis of Fault-Tolerant Star Networks.
+conf/icpp/Hemmendinger85:::David Hemmendinger:::Lazy Evaluation and Cancellation of Computations.
+conf/icpp/LinL93a:::Wei-Ming Lin::Zhenhong Lu:::Parallel Implementations of a Scalable Consistent Labeling Technique on Distributed Memory Multi-Processor Systems.
+conf/icpp/LingS93:::Nam Ling::Timothy K. Shih:::VSTA: A Prolog-Based Formal Verifier for Systolic Array Designs.
+conf/icpp/Abu-SufahM86:::Walid A. Abu-Sufah::Allen D. Malony:::Vector Processing on the Alliant FX/8 Multiprocessor.
+conf/icpp/BarachWUG90:::David R. Barach::Robert Wells::Thomas Uban::James Gibson:::Highly Parallel Virtual Memory Management on the TC2000.
+conf/icpp/BaylorB89:::Sandra Johnson Baylor::Faye A. Briggs:::The Effects of Cache Coherence on the Performance of Parallel PDE Algorithms in Multiprocessors.
+conf/icpp/BaylorR89:::Sandra Johnson Baylor::Bharat Deep Rathi:::A Study of the Memory Reference Behavior of Engineering/Scientific Applications in Parallel Processors.
+conf/icpp/LiuPD95:::W. Liu::Guido H. Petit::E. Dirkx:::Performance Assessment of Large ATM Switching Networks with Parallel Simulation Tool.
+conf/icpp/LiuY90a:::Zhiyong Liu::Jia-Huai You:::Finding the Shortest Path in ESMSS Network.
+conf/icpp/SteenstrupLW83:::Martha E. Steenstrup::Daryl T. Lawton::Charles C. Weems:::Determination of the Rotational and Translational Components of a Flow Field Using a Content Addressable Parallel Processor.
+conf/icpp/McKinleyXEN92:::Philip K. McKinley::Hong Xu::Abdol-Hossein Esfahanian::Lionel M. Ni:::Unicast-based Multicast Communication in Wormhole-routed Networks.
+conf/icpp/CherkasskyM86:::Vladimir Cherkassky::Miroslaw Malek:::Analysis of CC-Banyan Networks.
+conf/icpp/LinCLH03:::Shen-Yi Lin::Chih-Shen Chen::Li Liu::Chua-Huang Huang:::Tensor Product Formulation for Hilbert Space-Filling Curves.
+conf/icpp/FanC90a:::Zhenqiang Fan::Kam-Hoi Cheng:::A Generalized Simultaneous Access Dictionary Machine.
+conf/icpp/SimsH93:::David L. Sims::Debra A. Hensgen:::Automatically Mapping Sequential Objects to Concurrent Objects: The Mutual Exclusion Problem.
+conf/icpp/Myoupo90:::Jean Frédéric Myoupo:::A Linear Systolic Array for Transitive Closure Problems.
+conf/icpp/Myoupo91:::Jean Frédéric Myoupo:::A Way of Deriving Linear Systolic Arrays from a Mathematical Algorithm Description: Case of the Warshall-Floyd Algorithm.
+conf/icpp/NakanoOZ00:::Koji Nakano::Stephan Olariu::Albert Y. Zomaya:::Energy-Efficient Deterministic Routing Protocols in Radio Networks.
+conf/icpp/AppelbeL93:::William F. Appelbe::Balakrishnan Lakshmanan:::Optimizing Parallel Programs Using Affinity Regions.
+conf/icpp/RamaswamyR02:::Lakshmi Ramaswamy::Binoy Ravindran:::A Best-Effort Communication Protocol for Real-Time Broadcast Networks.
+conf/icpp/AmmarM96:::Hany H. Ammar::Zhouhui Miao:::Implementation of a Training Set Parallel Algorithm for an Automated Fingerprint Image Comparison System.
+conf/icpp/InagakiNMH98:::Tatsushi Inagaki::Junpei Niwa::Takashi Matsumoto::Kei Hiraki:::Supporting Software Distributed Shared Memory with an Optimizing Compiler.
+conf/icpp/GiloiB86:::Wolfgang K. Giloi::Peter M. Behr:::Suprenum: The German Supercomputer Architecture Rationale and Concepts.
+conf/icpp/FendH91:::H. Allan Fend::Chua-Huang Huang:::On the Synthesis of Programs for Various Parallel Architectures.
+conf/icpp/RichardsR95:::R. J. Richards::Balkrishna Ramkumar:::Blocking Entry Points in Message-Driven Parallel Systems.
+conf/icpp/SheuLDI89:::Tsang-Ling Sheu::Woei Lin::Chita R. Das::Mary Jane Irwin:::Distributed Fault Diagnosis in the Butterfly Parallel Processor.
+conf/icpp/CrowtherGSTMB85:::William R. Crowther::J. Goodhue::E. Starr::R. Thomas::W. Milliken::T. Blackadar:::Performance Measurements on a 128-Node Butterfly Parallel Processor.
+conf/icpp/JuangHF88:::Jie-Yong Juang::Ting-Lu Huang::Ed Freeman:::Parallelism in Connection-Graph-Based Logic Inference.
+conf/icpp/DahlbergA93:::Teresa A. Dahlberg::Dharma P. Agrawal:::Task Based Reliability for Large Systems: A Hierarchical Modeling Approach.
+conf/icpp/TurnerNC93:::Stephen W. Turner::Lionel M. Ni::Betty H. C. Cheng:::Contention-Free 2D-Mesh Cluster Allocation in Hypercubes.
+conf/icpp/ShangOJF91:::Weijia Shang::Matthew T. O'Keefe::José::A. B. Fortes:::On Loop Transformations for Generalized Cycle Shrinking.
+conf/icpp/EswarSV91:::Kalluri Eswar::P. Sadayappan::V. Visvanathan:::Multifrontal Factorization of Sparse Matrices on Shared-Memory Multiprocessors.
+conf/icpp/Patsouris99:::Panos A. Patsouris:::Coordinated Flows in a Formal Multi-Agent System Based on a Modal Algebra.
+conf/icpp/MillerT91:::Russ Miller::Steven L. Tanimoto:::Detecting Repeated Patterns on Mesh Computers.
+conf/icpp/RanaweeraA01:::Samantha Ranaweera::Dharma P. Agrawal:::Scheduling of Periodic Time Critical Applications for Pipelined Execution on Heterogeneous Systems.
+conf/icpp/FigueiredoF01:::Renato J. O. Figueiredo::José A. B. Fortes:::Hardware Support for Extracting Coarse-Grain Speculative Parallelism in Distributed Shared-Memory Multiprocesors.
+conf/icpp/WilsonSS83:::Andrew Wilson::Daniel P. Siewiorek::Zary Segall:::Evaluation of Multiprocessor Interconnect Structures with the Cm Testbed.
+conf/icpp/IqbalSB86:::Mohammad Ashraf Iqbal::Joel H. Saltz::Shahid H. Bokhari:::A Comparative Analysis of Static and Dynamic Load Balancing Strategies.
+conf/icpp/LesherT90:::Robert L. Lesher::Matthew Thazhuthaveetil:::Hotspot Contention in Non-Blocking Multistage Interconnection Networks.
+conf/icpp/HursonLSW90:::A. R. Hurson::Ben Lee::Behrooz Shirazi::M. Wang:::A Program Allocation Scheme for Data Flow Computers.
+conf/icpp/DikaiakosRS92:::Marios D. Dikaiakos::Anne Rogers::Kenneth Steiglitz:::Message Ordering in Multiprocessors with Synchronous Communication.
+conf/icpp/KuhlRR83:::Jon G. Kuhl::Sudhakar M. Reddy::P. Raghavan:::A Class of Graphs for Processor Interconnection.
+conf/icpp/BronsonJ83:::Edward C. Bronson::Leah H. Jamieson:::A Parallel Architecture for Labeling, Segmentation, and Lexical Processing in Speech Understanding.
+conf/icpp/BronsonJ91:::Edward C. Bronson::Leah H. Jamieson:::Experimental Verification of the Critical Path Simulation of an SIMD/MIMD Parallel Processing System.
+conf/icpp/Batcher90:::Kenneth E. Batcher:::On Bitonic Sorting Networks.
+conf/icpp/Ziavras90:::Sotirios G. Ziavras:::Techniques for Mapping Deterministic Algorithms onto Multi-Level Systems.
+conf/icpp/BrooksGWW91:::Eugene D. Brooks III::Brent C. Gorda::Karen H. Warren::Tammy S. Welcome:::Spilt-Join and Message Passing Programming Models on the BBN TC2OOO.
+conf/icpp/ZarghamP85:::Mehdi R. Zargham::Ralph D. Purcell:::A Protocol for Load Balancing on CSMA Networks.
+conf/icpp/BrochardPF89:::Luigi Brochard::Jean-Pierre Prost::Francois Faurie:::Synchronization and Load Unbalance Effects of Parallel Iterative Algorithms.
+conf/icpp/IbarraZ93:::Oscar H. Ibarra::Qi Zheng:::Finding Articulation Points and Bridges of Permutation Graphs.
+conf/icpp/KandaswamyKCB98:::Meenakshi A. Kandaswamy::Mahmut T. Kandemir::Alok N. Choudhary::David E. Bernholdt:::Performance Implications of Architectural and Software Techniques on I/O-Intensive Applications.
+conf/icpp/Dimopoulos83:::Nikitas J. Dimopoulos:::The Homogeneous Multiprocessor Architecture : Structure and Performance Analysis.
+conf/icpp/SteinvorthTMT85:::Randy H. Steinvorth::G. F. Taylor::Jack F. McDonald::T. Hunter:::An Architecture for a Video Rate Fuzzy Golay Processor.
+conf/icpp/KuoCKS98:::Chen-Chi Kuo::John B. Carter::Ravindra Kuramkote::Mark R. Swanson:::ASCOMA: An Adaptive Hybrid Shared Memory Architecture.
+conf/icpp/RichterCFLNRWZZ95:::Harald H. Richter::R. Cole::M. Fitzek::K. Lüddecke::G. Neu::Gerhard Raupp::W. Woyke::D. Zasche::T. Zehetbauer:::The Distributed Real-Time Control System of a Tokamak Fusion Device.
+conf/icpp/McKenney89:::Paul E. McKenney:::High-Speed Event Counting and Classification Using a Dictionary Hash Technique.
+conf/icpp/KumarP91:::J. Mohan Kumar::Lalit M. Patnaik:::Fault-Tolerant Message Routing and Error Detection Schemes for the Extended Hypercube.
+conf/icpp/BhagavathiGOLSZ93:::Dharmavani Bhagavathi::Himabindu Gurla::Stephan Olariu::R Lin::James L. Schwing::Jingyuan Zhang:::Square Meshes Are Not Optimal For Convex Hull Computation.
+conf/icpp/HambruschKL96:::Susanne E. Hambrusch::Ashfaq A. Khokhar::Yi Liu:::Scalable S-to-P Broadcasting on Message-Passing MPPs.
+conf/icpp/Geary86:::Bernard Geary:::Software Based Mutual Exclusion in a Multiprocessor.
+conf/icpp/SrinivasanJ95:::Santhanam Srinivasan::Niraj K. Jha:::Task Allocation for Safety and Reliability in Distributed Systems.
+conf/icpp/GhosalMTY91:::Dipak Ghosal::Amar Mukherjee::Ramakrishna Thurimella::Yaacov Yesha:::Mapping Task Trees onto a Linear Array.
+conf/icpp/PicanoMBH93:::Silvio Picano::David G. Meyer::Eugene D. Brooks III::Joseph E. Hoag:::Performance and Scalability Aspects of Directory-Based Cache Coherence in Shared-Memory Multiprocessors.
+conf/icpp/MudawwarC92:::Muhammad F. Mudawwar::C. Y. Roger Chen:::The Signal Flow Model: A novel Data Driven Approach to Parallel Processing.
+conf/icpp/LeisersonM86:::Charles E. Leiserson::Bruce M. Maggs:::Communication-Efficient Parallel Graph Algorithms.
+conf/icpp/HuangM96:::Yih Huang::Philip K. McKinley:::Efficient Collective Operations with ATM Network Interface Support.
+conf/icpp/FeitelsonR90:::Dror G. Feitelson::Larry Rudolph:::Mapping and Scheduling in a Shared Parallel Environment Using Distributed Hierarchical Control.
+conf/icpp/BatainehHR93:::Sameer Bataineh::Te-Yu Hsiung::Thomas G. Robertazzi:::Closed Form Solutions for Bus and Tree Networks of Processors Load Sharing A Divisible Job.
+conf/icpp/SchwiegelshohnT86:::Uwe Schwiegelshohn::Lothar Thiele:::On the Systolic Detection of Shortest Routes.
+conf/icpp/TuazonPPL85:::Jesus O. Tuazon::John C. Peterson::M. Pniel::Don Liberman:::Caltech/JPL MARK II Hypercube Concurrent Processor.
+conf/icpp/Blelloch87:::Guy E. Blelloch:::Scans as Primitive Parallel Operations.
+conf/icpp/BreebaartPS91:::Leo C. Breebaart::Edwin M. R. M. Paalvast::Henk J. Sips:::The Booster Approach to Annotating Parallel Algorithms.
+conf/icpp/LesterG87:::Bruce P. Lester::Gregory R. Guthrie:::A System for Investigating Parallel Algorithm and Architecture Interaction.
+conf/icpp/BergerB85:::Marsha J. Berger::Shahid H. Bokhari:::A Partitioning Strategy for PDEs Across Multiprocessors.
+conf/icpp/JenqS91a:::Jing-Fu Jenq::Sartaj Sahni:::Reconfigurable Mesh Algorithms for the Area and Perimeter of Image Components.
+conf/icpp/Abdou83:::Ikram E. Abdou:::A Pipeline Machine for Image Processing Applications.
+conf/icpp/ChungWRZL94:::Hsiao-chen Chung::Chuan-lin Wu::James Rakes::Peter J. Zievers::Yin-Kuan Lin:::Design and Evaluation of a Multiprocessor Architecture with Decentralized Control.
+conf/icpp/KothariOG89:::Suresh C. Kothari::Heekuck Oh::Ethan Gannet:::Optimal Designs of Linear Flow Systolic Architectures.
+conf/icpp/TokerudAT88:::Bard Tokerud::Vidar S. Anderson::Morton Toverud:::CESAR: The Architecture and Implementation of a High Performance Systolic Array Processor.
+conf/icpp/GoldbergH91:::Aaron J. Goldberg::John L. Hennessy:::MTOOL: A Method for Isolating Memory Bottlenecks in Shared Memory Multiprocessor Programs.
+conf/icpp/HorozovGVL02:::Tzvetan Horozov::Ananth Grama::Venu Vasudevan::Sean Landis:::MOBY - A Mobile Peer-to-Peer Service and Data Network.
+conf/icpp/FangWL02:::Weijian Fang::Cho-Li Wang::Francis C. M. Lau:::Efficient Global Object Space Support for Distributed JVM on Cluster.
+conf/icpp/UresinD87:::Aydin Üresin::Michel Dubois:::Asynchronous Relaxation of Non-Numerical Data.
+conf/icpp/MallaET01:::Anjlica Malla::Mona El-Kadi::Petia Todorova:::A Fair Resource Allocation Protocol for Multimedia Wireless Networks.
+conf/icpp/FangTYZ87a:::Zhixi Fang::Peiyi Tang::Pen-Chung Yew::Chuan-Qi Zhu:::Deadlock Prevention in Processor Self-Scheduling for Parallel Nested Loops.
+conf/icpp/BhattacharyaLT91:::Sourav Bhattacharya::C. T. Liang::Wei-Tek Tsai:::Inverted Memory.
+conf/icpp/El-AmawyK94:::Ahmed El-Amawy::Priyalal Kulasinghe:::Theory of Generalized Branch and Combine Clock Networks.
+conf/icpp/GhoseMGGJS97:::Kanad Ghose::Seth Melnick::Tom Gaska::Seth Goldberg::Arun K. Jayendran::Brian T. Stein:::The Implementation of Low Latency Communication Primitives in the Snow Prototype.
+conf/icpp/ChaeKKHL95:::SangHo Chae::Jong Kim::Dongseung Kim::Sung Je Hong::Sunggu Lee:::DTN: A New Partitionable Torus Topology.
+conf/icpp/RobertsonPS85:::William Robertson::D. Pincock::D. N. Swingler:::A Reconfigurable Architecture for Digital Time Domain Beamforming.
+conf/icpp/McNameeO92:::Carole M. McNamee::Ronald A. Olsson:::Static Inter-Module Analysis for Determining Processor Co-Residency.
+conf/icpp/DekelHO92:::Eliezer Dekel::Jie Hu::Wen Ouyang:::An Efficient Parallel Algorithm for Finding Compact Sets.
+conf/icpp/KorenS83:::Israel Koren::Gabriel M. Silberman:::A Direct Mapping of Algorithms onto VLSI Processing Arrays Based on the Data Flow Approach.
+conf/icpr/KornDH00:::Bernd Korn::Hans-Ullrich Doehler::Peter Hecker:::Weather Independent Flight Guidance: Analysis of MMW Radar Images for Approach and Landing.
+conf/icpr/VogelhuberS00:::Veronika Vogelhuber::Cordelia Schmid:::Face Detection Based on Generic Local Descriptors and Spatial Constraints.
+conf/icpr/Ruiz-del-SolarK00:::Javier Ruiz-del-Solar::Daniel Kottow:::Neural-Based Architectures for the Segmentation of Textures.
+conf/icpr/MatasHJKLKTPTYSCGABBM00:::Jiri Matas::Miroslav Hamouz::K. Jonsson::Josef Kittler::Yongping Li::Constantine Kotropoulos::Anastasios Tefas::Ioannis Pitas::Teewoon Tan::Hong Yan::Fabrizio Smeraldi::N. Capdevielle::Wulfram Gerstner::Y. Abdeljaoued::Josef Bigün::S. Ben-Yacoub::E. Mayoraz:::Comparison of Face Verification Results on the XM2VTS Database.
+conf/icpr/ChengDHT00:::Jian Cheng::Siegbert Drüe::Georg Hartmann::Jörg Thiem:::Efficient Detection and Extraction of Color Objects from Complex Scenes.
+conf/icpr/ChetverikovNV00:::Dmitry Chetverikov::Marcell Nagy::Judit Verestóy:::Comparison of Tracking Techniques Applied to Digital PIV.
+conf/icpr/KuritaTHSM00:::Takio Kurita::Masaru Tanaka::Kazuhiro Hotta::Hiroyuki Shimai::Taketoshi Mishima:::Efficient Face Detection from News Images by Adaptive Estimation of Prior Probabilities and Ising Search.
+conf/icpr/ArtieresMGD00:::Thierry Artières::J.-M. Marchand::Patrick Gallinari::Bernadette Dorizzi:::Multi-Modal Segmental Models for On-Line Handwriting Recognition.
+conf/icpr/GriffinK00:::Andrew Griffin::Josef Kittler:::Coping with 3D Artifacts in Video Sequences.
+conf/icpr/PorterMT00:::Sarah V. Porter::Majid Mirmehdi::Barry T. Thomas:::Video Cut Detection using Frequency Domain Correlation.
+conf/icpr/Liu00:::Tyng-Luh Liu:::A Generalized Shape-Axis Model for Planar Shapes.
+conf/icpr/LuJ00:::Qing Lu::Tianzi Jiang:::A New Bayesian Approach to Image Denoising with a Combination of MRFs and Pixon Method.
+conf/icpr/MutoNH00:::Yoshihiko Muto::Hirokazu Nagase::Yoshihiko Hamamoto:::Evaluation of a Modified Parzen Classifier in High Dimensional Spaces.
+conf/icpr/WangL00:::Jiankang Wang::Xiaobo Li:::Guiding Ziplock Snakes with a priori Information.
+conf/icpr/LudtkeWH00:::Niklas Lüdtke::Richard C. Wilson::Edwin R. Hancock:::Population Codes for Orientation Estimation.
+conf/icpr/GagaudakisRC00:::George Gagaudakis::Paul L. Rosin::Chaomei Chen:::Using CBIR and Pathfinder Networks for Image Database Visualization.
+conf/icpr/LiuT00:::Ruizhen Liu::Tieniu Tan:::Content-Based Watermarking Model.
+conf/icpr/AksoyYSSWHPPRSF00:::Selim Aksøy::Ming Ye::Michael L. Schauf::Mingzhou Song::Yalin Wang::Robert M. Haralick::Jim R. Parker::Juraj Pivovarov::Dominik Royko::Changming Sun::Gunnar Farnebäck:::Algorithm Performance Contest.
+conf/icpr/HongHT00:::Pengyu Hong::Thomas S. Huang::Matthew Turk:::Constructing Finite State Machines for Fast Gesture Recognition.
+conf/icpr/CordellaFSV00:::Luigi P. Cordella::Pasquale Foggia::Carlo Sansone::Mario Vento:::Fast Graph Matching for Detecting CAD Image Components.
+conf/icpr/DeschenesZ00:::François Deschènes::Djemel Ziou:::Detection of Line Junctions in Gray-Level Images.
+conf/icpr/Ruiz-PinalesL00:::José Ruiz-Pinales::Eric Lecolinet:::Cursive Handwriting Recognition Using the Hough Transform and a Neural Network.
+conf/icpr/LuoH00:::Bin Luo::Edwin R. Hancock:::Symbolic Graph Matching Using the EM Algorithm and Singular Value Decomposition.
+conf/icpr/KornprobstM00:::Pierre Kornprobst::Gérard G. Medioni:::A 2D + t Tensor Voting Based Approach for Tracking.
+conf/icpr/NedzvedAP00:::A. Nedzved::Sergey Ablameyko::I. Pitas:::Morphological Segmentation of Histology Cell Images.
+conf/icpr/WangSW00:::W. X. Wang::O. Stephansson::S. C. Wang:::On-Line System Setup in a Cellar of a Flotation Plant.
+conf/icpr/MateiM00:::Bogdan Matei::Peter Meer:::Reduction of Bias in Maximum Likelihood Ellipse Fitting.
+conf/icpr/Uchida00:::Kaoru Uchida:::Fingerprint-Based User-Friendly Interface and Pocket-PID for Mobile Authentication.
+conf/icpr/El-NasanN00:::Adnan El-Nasan::George Nagy:::Ink-Link.
+conf/icpr/KojimaITF00:::Atsuhiro Kojima::Masao Izumi::Takeshi Tamura::Kunio Fukunaga:::Generating Natural Language Description of Human Behavior from Video Images.
+conf/icpr/CarreiraMTH00:::M. J. Carreira::Majid Mirmehdi::B. T. Thomas::John F. Haddon:::Grouping of Directional Features Using an Extended Hough Transform.
+conf/icpr/Verges-LlahiSC00:::Jaume Vergés-Llahí::Alberto Sanfeliu::Joan Climent:::Color Image Segmentation Solving Hard-Constraints on Graph Partitioning Greedy Algorithms.
+conf/icpr/VilarinoCPB00:::David López Vilariño::Diego Cabello::Xose Manuel Pardo::Victor M. Brea:::Pixel-Level Snakes.
+conf/icpr/LeungCKC00:::C. C. Leung::F. H. Y. Chan::Paul C. K. Kwok::W. F. Chen:::Thyroid Cancer Cells Boundary Location by a Fuzzy Edge Detection Method.
+conf/icpr/Nakano00a:::Yasuaki Nakano:::Needs and Seeds in Character Recognition.
+conf/icpr/TanY00:::Teewoon Tan::Hong Yan:::Object Recognition Using Fractal Neighbor Distance: Eventual Convergence and Recognition Rates.
+conf/icpr/AntaniCK00:::Sameer Antani::David Crandall::Rangachar Kasturi:::Robust Extraction of Text in Video.
+conf/icpr/BradleyRF00:::Paul S. Bradley::Cory Reina::Usama M. Fayyad:::Clustering Very Large Databases Using EM Mixture Models.
+conf/icpr/LucasS00:::Simon M. Lucas::Kostas Sarampalis:::Automatic Evaluation of Algorithms over the Internet.
+conf/icpr/Ishii00:::Akira Ishii:::3-D Shape Measurement Using a Focused-Section Method.
+conf/icpr/GarciaV00:::Miguel Angel García::Boris Xavier Vintimilla:::Acceleration of Thresholding and Labeling Operations through Geometric Processing of Gray-Level Images.
+conf/icpr/Bunke00:::Horst Bunke:::Recent Developments in Graph Matching.
+conf/icpr/ZhuL00:::Weiyu Zhu::Stephen E. Levinson:::Edge Orientation-Based Multi-View Object Recognition.
+conf/icpr/AyersC00:::Douglas Ayers::Rama Chellappa:::Scenario Recognition from Video Using a Hierarchy of Dynamic Belief Networks.
+conf/icpr/SelbBL00:::Alexander Selb::Horst Bischof::Ales Leonardis:::Fuzzy C-Means in an MDL-Framework.
+conf/icpr/WinkNV00:::Onno Wink::Wiro J. Niessen::Max A. Viergever:::Minimum Cost Path Determination Using a Simple Heuristic Function.
+conf/icpr/BesshoIY00:::Hiroaki Bessho::Yoshio Iwai::Masahiko Yachida:::Detecting Human Face and Recognizing Facial Expressions Using Potential Net.
+conf/icpr/YangSH00:::Changjiang Yang::Fengmei Sun::Zhanyi Hu:::Planar Conic Based Camera Calibration.
+conf/icpr/BrandLO00:::Sami Brand::Jorma Laaksonen::Erkki Oja:::Statistical Shape Features in Content-Based Image Retrieval.
+conf/icpr/HuangCH00a:::ZhongYang Huang::Kap Luk Chan::Yong Huang:::Local Spectra Features Extraction Based-On 2D Pseudo-Wigner Distribution for Texture Analysis.
+conf/icpr/HermesB00:::Lothar Hermes::Joachim M. Buhmann:::Feature Selection for Support Vector Machines.
+conf/icpr/BukerH00:::Ulrich Büker::Georg Hartmann:::Object Representation: On Combining Viewer-Centered and Object-Centered Elements.
+conf/icpr/KacemBA00:::Atef Kacem::Abdel Belaïd::Mohamed Ben Ahmed:::Embedded Formulas Extraction.
+conf/icpr/YoonDD00:::Kyongil Yoon::Daniel DeMenthon::David S. Doermann:::Event Detection from MPEG Video in the Compressed Domain.
+conf/icpr/TomazevicLP00:::Dejan Tomazevic::Bostjan Likar::Franjo Pernus:::A Comparison of Retrospective Shading Correction Techniques.
+conf/icpr/BulowK00:::Thomas Bülow::Reinhard Klette:::Rubber Band Algorithm for Estimating the Length of Digitized Space-Curves.
+conf/icpr/Sanchez-Reillo00:::Raul Sanchez-Reillo:::Hand Geometry Pattern Recognition through Gaussian Mixture Modeling.
+conf/icpr/KimPL00:::Hye-Yeon Kim::Jooyoung Park::Seong-Whan Lee:::A New Methodology to the Design of Associative Memories Based on Cellular Neural Networks.
+conf/icpr/Wingbermuhle00:::Jochen Wingbermühle:::Robust Registration of Coarse Binary Volume Models.
+conf/icpr/SmitsA00:::P. C. Smits::A. Annoni:::Cost-Based Feature Subset Selection for Interactive Image Analysis.
+conf/icpr/HansenH00:::Jakob Vogdrup Hansen::Tom Heskes:::General Bias/Variance Decomposition with Target Independent Variance of Error Functions Derived from the Exponential Family of Distributions.
+conf/icpr/NakamuraSO00:::Kenji Nakamura::Hideo Saito::Shinji Ozawa:::3D Reconstruction of Book Surface Taken from Image Sequence with Handy Camera.
+conf/icpr/LaoWLO00:::Tze-kin Lao::Kin-hong Wong::Kam-sum Lee::Siu-Hang Or:::Creating Virtual Walkthrough Environment from Vertical Panoramic Mosaic.
+conf/icpr/TerrillonMSSA00:::Jean-Christophe Terrillon::Daniel McReynolds::Mohamed Sadek::Yunlong Sheng::Shigeru Akamatsu:::Invariant Neural-Network Based Face Detection with Orthogonal Fourier-Mellin Moments.
+conf/icpr/TesserP00:::Herbert Tesser::Theodosios Pavlidis:::RoadFinder Front End: An Automated Road Extraction System.
+conf/icpr/WestenbergR00:::Michel A. Westenberg::J. B. T. M. Roerdink:::X-Ray Volume Rendering by Hierarchical Wavelet Splatting.
+conf/icpr/WakaharaK00:::Toru Wakahara::Yoshimasa Kimura:::Affine-Invariant Gray-Scale Character Recognition Using GAT Correlation.
+conf/icpr/Rocha00:::Jairo Rocha:::Efficient Polygonal Decomposition into Singular and Regular Regions via Voronoi Diagrams.
+conf/icpr/LeonS00:::Rocio Diaz de Leon::Luis Enrique Sucar:::Human Silhouette Recognition with Fourier Descriptors.
+conf/icpr/SubrahmoniaZ00:::Jayashree Subrahmonia::Thomas Zimmerman:::Pen Computing: Challenges and Applications.
+conf/icpr/BilodeauB00:::Guillaume-Alexandre Bilodeau::Robert Bergevin:::Generic Modeling of 3D Objects from Single 2D Images.
+conf/icpr/KitaKWN00:::Yasuyo Kita::Nobuyuki Kita::Dale L. Wilson::J. Alison Noble:::A Quick 3D-2D Registration Method for a Wide-Range of Applications.
+conf/icpr/Serra00:::Jean Serra:::Is Pattern Recognition a Physical Science?.
+conf/icpr/ConnellSJ00:::Scott D. Connell::R. M. K. Sinha::Anil K. Jain:::Recognition of Unconstrained On-Line Devanagari Characters.
+conf/icpr/LimCL00:::Young-Kyu Lim::Song-Ha Choi::Seong-Whan Lee:::Text Extraction in MPEG Compressed Video for Content-Based Indexing.
+conf/icpr/PolickerG00:::Shai Policker::Amir B. Geva:::A New Algorithm for Time Series Prediction by Temporal Fuzzy Clustering.
+conf/icpr/ShenIT00b:::Dinggang Shen::Horace Ho-Shing Ip::Eam Khwang Teoh:::Robust Detection of Skewed Symmetries.
+conf/icpr/WilsonL00:::Richard C. Wilson::Niklas Lüdtke:::Decoding Population Codes.
+conf/icpr/Zheng00:::Jiang Yu Zheng:::A Flexible Laser Range Sensor Based on Spatial-temporal Analysis.
+conf/icpr/MaderlechnerSS00:::Gerd Maderlechner::Angela Schreyer::Peter Suda:::Extraction of Relevant Information from Document Images Using Measures of Visual Attention.
+conf/icpr/JabriDWR00:::Sumer Jabri::Zoran Duric::Harry Wechsler::Azriel Rosenfeld:::Detection and Location of People in Video Images Using Adaptive Fusion of Color and Edge Information.
+conf/icpr/MurakamiTK00:::Kazuhito Murakami::Masafumi Tominaga::Hiroyasu Koshimizu:::An Interactive Facial Caricaturing System Based on the Gaze Direction of Gallery.
+conf/icpr/BorghysPA00:::D. Borghys::C. Perneel::Marc Acheroy:::A Multi-Variate Contour Detector for High-Resolution Polarimetric SAR Images.
+conf/icpr/MedioniF00:::Gérard G. Medioni::Alexandre R. J. François:::3-D Structures for Generic Object Recognition.
+conf/icpr/HuotYHC00:::Etienne G. Huot::Hussein M. Yahia::Isabelle Herlin::Isaac Cohen:::A General Surface Matching Model: Application to Ground Evolution Tracking.
+conf/icpr/FujikiK00:::Jun Fujiki::Takeshi Kurata:::Recursive Factorization Method for the Paraperspective Model Based on the Perspective Projection.
+conf/icpr/GrossmannV00:::Etienne Grossmann::José Santos Victor:::A Closed-Form Solution for Paraperspective Reconstruction.
+conf/icpr/HasegawaYM00:::T. Hasegawa::H. Yasuda::T. Matsumoto:::Fast Discrete HMM Algorithm for On-line Handwriting Recognition.
+conf/icpr/DoermannM00:::David S. Doermann::David Mihalcik:::Tools and Techniques for Video Performance Evaluation.
+conf/icpr/KruizingaP00:::Peter Kruizinga::Nikolay Petkov:::A Nonlinear Texture Operator Specialized in the Analysis of Dot-Patterns.
+conf/icpr/LagunovskyFB00:::Dmitry Lagunovsky::Maria Frucci::Gabriella Sanniti di Baja:::Image Processing Tools for Fresco Restoration.
+conf/icpr/MinPB00:::Jaesik Min::Mark W. Powell::Kevin W. Bowyer:::Progress in Automated Evaluation of Curved Surface Range Image Segmentation.
+conf/icpr/LloretSLSV00:::David Lloret::Joan Serrat::Antonio M. López::Andrés Soler::Juan J. Villanueva:::Retinal Image Registration Using Creases as Anatomical Landmarks.
+conf/icpr/WeigelJP00:::A. Weigel::T. Jäger::A. Pies:::Estimation of Probabilities for Edit Operations.
+conf/icpr/Perez-CordobaRST00:::José L. Pérez-Córdoba::Antonio Rubio::Victoria E. Sánchez::Angel de la Torre:::Channel Optimized Matrix Quantizer (COMQ) in CELP Coding.
+conf/icpr/OnishiIF00a:::Masaki Onishi::Masao Izumi::Kunio Fukunaga:::Blackboard Segmentation Using Video Image of Lecture and Its Applications.

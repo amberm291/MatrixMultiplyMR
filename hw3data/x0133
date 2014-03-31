@@ -1,0 +1,200 @@
+conf/coling/SaitoT88:::Hiroaki Saito::Masaru Tomita:::Parsing noisy sentences.
+conf/coling/SchmauksR88:::Dagmar Schmauks::Norbert Reithinger:::Generating multimodal output - conditions, advantages and problems.
+conf/coling/Paducheva88:::Elena V. Paducheva:::Referential properties of generic terms denoting things and situations.
+conf/coling/Zelinsky-Wibbelt86:::Cornelia Zelinsky-Wibbelt:::An Empirically Based Approach Towards a System of Semantic Features.
+conf/coling/Habel86:::Christopher Habel:::Plurals, Cardinalities, and Structures of Determination.
+conf/coling/Hajic88:::Jan Hajic:::Formal morphology.
+conf/concur/Best88:::Eike Best:::Weighted Basic Petri Nets.
+conf/concur/ZhouGK93:::Shengzong Zhou::Rob Gerth::Ruurd Kuiper:::Transformations Preserving Properties and Properties Preserved by Transformations in Fair Transition Systems (Extended Abstract).
+conf/concur/HermannsK01:::Holger Hermanns::Joost-Pieter Katoen:::Performance Evaluation : = (Process Algebra + Model Checking) × Markov Chains.
+conf/concur/ChechikDELP01:::Marsha Chechik::Benet Devereux::Steve M. Easterbrook::Albert Y. C. Lai::Victor Petrovykh:::Efficient Multiple-Valued Model-Checking Using Lattice Representations.
+conf/concur/BaierHKW03:::Christel Baier::Holger Hermanns::Joost-Pieter Katoen::Verena Wolf:::Comparative Branching-Time Semantics.
+conf/concur/AlurAHM99:::Rajeev Alur::Luca de Alfaro::Thomas A. Henzinger::Freddy Y. C. Mang:::Automating Modular Verification.
+conf/concur/BouyerPT01:::Patricia Bouyer::Antoine Petit::Denis Thérien:::An Algebraic Characterization of Data and Timed Languages.
+conf/concur/RocklE99:::Christine Röckl::Javier Esparza:::Proof-Checking Protocols Using Bisimulations.
+conf/concur/CohenL98:::Ernie Cohen::Leslie Lamport:::Reduction in TLA.
+conf/concur/BoerKPR91:::Frank S. de Boer::Joost N. Kok::Catuscia Palamidessi::Jan J. M. M. Rutten:::The Failure of Failures in a Paradigm for Asynchronous Communication.
+conf/concur/Moszkowski84:::Ben C. Moszkowski:::Executing Temporal Logic Programs.
+conf/concur/DesharnaisGJP99:::Josee Desharnais::Vineet Gupta::Radha Jagadeesan::Prakash Panangaden:::Metrics for Labeled Markov Systems.
+conf/concur/Honda93:::Kohei Honda:::Types for Dynamic Interaction.
+conf/concur/Stirling89:::Colin Stirling:::An Introduction to Modal and Temporal Logics for CCS.
+conf/concur/WolperG93:::Pierre Wolper::Patrice Godefroid:::Partial-Order Methods for Temporal Verification.
+conf/concur/Glabbeek99:::Rob J. van Glabbeek:::Petri Nets, Configuration Structures and Higher Dimensional Automata.
+conf/concur/Attie99:::Paul C. Attie:::Synthesis of Large Concurrent Programs via Pairwise Composition.
+conf/concur/KupfermanPV01:::Orna Kupferman::Nir Piterman::Moshe Y. Vardi:::Extended Temporal Logic Revisited.
+conf/concur/BravettiBG98:::Mario Bravetti::Marco Bernardo::Roberto Gorrieri:::Towards Performance Evaluation with General Distributions in Process Algebras.
+conf/concur/Rutten98:::Jan J. M. M. Rutten:::Automata and Coinduction (An Exercise in Coalgebra).
+conf/concur/BoualiS91:::Amar Bouali::Robert de Simone:::Causal Models for Rational Algebraic Processes.
+conf/concur/Panangaden94:::Prakash Panangaden:::The Logical Structure of Concurrent Constraint Programming Languages (Abstract).
+conf/concur/HenzingerK96:::Thomas A. Henzinger::Peter W. Kopke:::State Equivalences for Rectangular Hybrid Automata.
+conf/concur/GuptaJS96:::Vineet Gupta::Radha Jagadeesan::Vijay A. Saraswat:::Models for Concurrent Constraint Programming.
+conf/concur/GrooteS95:::Jan Friso Groote::M. P. A. Sellink:::Confluence for Process Verification.
+conf/concur/Pratt02:::Vaughan R. Pratt:::Event-State Duality: The Enriched Case.
+conf/concur/MollerT91:::Faron Moller::Chris M. N. Tofts:::Relating Processes With Respect to Speed.
+conf/concur/JaninW96:::David Janin::Igor Walukiewicz:::On the Expressive Completeness of the Propositional mu-Calculus with Respect to Monadic Second Order Logic.
+conf/concur/RensinkW94:::Arend Rensink::Heike Wehrheim:::Weak Sequential Composition in Process Algebras.
+conf/concur/WeinbergZ92:::Henri B. Weinberg::Lenore D. Zuck:::Timed Ethernet: Real-Time Formal Specification of Ethernet.
+conf/concur/FernandezM91:::Jean-Claude Fernandez::Laurent Mournier:::A Tool Set for deciding Behavioral Equivalences.
+conf/concur/Tanaka89:::Hidehiko Tanaka:::A Parallel Object Oriented Language FLENG++ and Its Control System on the Parallel Machine PIE64.
+conf/concur/KwiatkowskaNS01:::Marta Z. Kwiatkowska::Gethin Norman::Jeremy Sproston:::Symbolic Computation of Maximal Probabilistic Reachability.
+conf/concur/Alfaro99:::Luca de Alfaro:::Computing Minimum and Maximum Reachability Times in Probabilistic Systems.
+conf/concur/Gunawardena94:::Jeremy Gunawardena:::A Dynamic Approach to Timed Behaviour.
+conf/concur/MeseguerT99:::José Meseguer::Carolyn L. Talcott:::A Partial Order Event Model for Concurrent Objects.
+conf/concur/JanickiK91:::Ryszard Janicki::Maciej Koutny:::Invariant Semantics of Nets with Inhibitor Arcs.
+conf/concur/BengtssonJLY98:::Johan Bengtsson::Bengt Jonsson::Johan Lilius::Wang Yi:::Partial Order Reductions for Timed Systems.
+conf/concur/Kaivola95:::Roope Kaivola:::Axiomatising Linear Time Mu-calculus.
+conf/concur/Butler93:::Michael J. Butler:::Refinement and Decomposition of Value-Passing Action Systems.
+conf/concur/MateusMS03:::Paulo Mateus::John C. Mitchell::Andre Scedrov:::Composition of Cryptographic Protocols in a Probabilistic Polynomial-Time Process Calculus.
+conf/concur/Gordon02:::Andrew D. Gordon:::Types for Cryptographic Protocols.
+conf/concur/DemichelisZ98:::François Demichelis::Wieslaw Zielonka:::Controlled Timed Automata.
+conf/concur/ChristensenHS92:::Søren Christensen::Hans Hüttel::Colin Stirling:::Bisimulation Equivalence is Decidable for all Context-Free Processes.
+conf/concur/BouajjaniER94:::Ahmed Bouajjani::Rachid Echahed::Riadh Robbana:::Verification of Nonregular Temporal Properties for Context-Free Processes.
+conf/concur/CleavelandLM97:::Rance Cleaveland::Gerald Lüttgen::Michael Mendler:::An Algebraic Theory of Multiple Clocks.
+conf/concur/AbdullaJ01:::Parosh Aziz Abdulla::Bengt Jonsson:::Channel Representations in Protocol Verification.
+conf/concur/KoutnyEB94:::Maciej Koutny::Javier Esparza::Eike Best:::Operational Semantics for the Petri Box Calculus.
+conf/concur/Vaandrager95:::Frits W. Vaandrager:::Verification of a Distributed Summation Algorithm.
+conf/concur/Klusener92:::Steven Klusener:::The Silent Step in Time.
+conf/concur/MadhusudanT98:::P. Madhusudan::P. S. Thiagarajan:::Controllers for Discrete Event Systems via Morphisms.
+conf/concur/DolevS88:::Danny Dolev::H. Raymond Strong:::On Safety and Timeliness in Distributed Data Management.
+conf/concur/CattaniPW98:::Gian Luca Cattani::John Power::Glynn Winskel:::A Categorical Axiomatics for Bisimulation.
+conf/concur/KhomenkoK01:::Victor Khomenko::Maciej Koutny:::Towards an Efficient Algorithm for Unfolding Petri Nets.
+conf/concur/VoglerSY98:::Walter Vogler::Alexei L. Semenov::Alexandre Yakovlev:::Unfolding and Finite Prefix for Nets with Read Arcs.
+conf/concur/Corradini96:::Andrea Corradini:::Concurrent Graph and Term Graph Rewriting.
+conf/concur/Cerans95:::Karlis Cerans:::CTR: A Calculus of Timed Refinement.
+conf/concur/Mislove00:::Michael W. Mislove:::Nondeterminism and Probabilistic Choice: Obeying the Laws.
+conf/concur/BaetenB97:::Jos C. M. Baeten::Jan A. Bergstra:::Bounded Stacks, Bags and Queues.
+conf/concur/NygaardW03:::Mikkel Nygaard::Glynn Winskel:::Full Abstraction for HOPLA.
+conf/concur/BerardF99:::Béatrice Bérard::Laurent Fribourg:::Reachability Analysis of (Timed) Petri Nets Using Real Arithmetic.
+conf/concur/HirschM01:::Dan Hirsch::Ugo Montanari:::Synchronized Hyperedge Replacement with Name Mobility.
+conf/concur/EtalleGM98:::Sandro Etalle::Maurizio Gabbrielli::Maria Chiara Meo:::Unfold/Fold Transformations of CCP Programs.
+conf/concur/ValmariC91:::Antti Valmari::Matthew Clegg:::Reduced Labelled Transition Systems Save Verification Effort.
+conf/concur/Winskel84:::Glynn Winskel:::On the Composition and Decomposition of Assertions.
+conf/concur/AbadiG97:::Martín Abadi::Andrew D. Gordon:::Reasoning about Cryptographic Protocols in the Spi Calculus.
+conf/concur/GerthKS92:::Rob Gerth::Ruurd Kuiper::John Segers:::Interface Refinement in Reactive Systems (Extended Abstract).
+conf/concur/PhilippouW96:::Anna Philippou::David Walker:::On Transformations of Concurrent Object Programs.
+conf/concur/KorachTZ88:::Ephraim Korach::Gerard Tel::Shmuel Zaks:::Optimal Synchronization of ABD Networks.
+conf/concur/GoubaultJ92:::Eric Goubault::Thomas P. Jensen:::Homology of Higher Dimensional Automata.
+conf/compos/Lamport97:::Leslie Lamport:::Composition: A Way to Make Proofs Harder.
+conf/compos/PoigneH97:::Axel Poigné::Leszek Holenderski:::On the Combination of Synchronous Languages.
+conf/conpar/Nowinski90:::Wieslaw L. Nowinski:::Parallel Implementation of the Convultion Method in Image Reconstruction.
+conf/conpar/MohrBM94:::Bernd Mohr::Darryl Brown::Allen D. Malony:::TAU: A Portable Parallel Program Analysis Environment for pC++.
+conf/conpar/Berthou94:::Jean-Yves Berthou:::Design of a Meta-Parallelizer for Large Scientific Applications.
+conf/conpar/LemkeQ92:::Max Lemke::Daniel J. Quinlan:::P++, a C++ Virtual Shared Grids Based Programming Environment for Architecture-Independent Development of Structured Grid Applications.
+conf/conpar/UngererZ92:::Theo Ungerer::Eberhard Zehendner:::Threads and Subinstruction Level Parallelism in a Dataflow Architecture.
+conf/conpar/Lee86:::Matthew K. O. Lee:::A Packet Based Demand/Data Driven Reduction Model for the Parallel Execution of Logic Programs.
+conf/conpar/GasperoniS92:::Franco Gasperoni::Uwe Schwiegelshohn:::Scheduling Loops on Parallel Processors: A Simple Algorithm with Close to Optimum Performance.
+conf/conpar/SchaferGS92:::Michael Schäfer::Michael M. Gutzmann::Markus Schwehm:::Comparing the DAP, Meiko and Suprenum with a Fluid Dynamic Benchmark.
+conf/conpar/Hwang94:::Kai Hwang:::Scalability and Programmability of Massively Parallel Processors.
+conf/conpar/Romero90:::Jorge Humberto Conçalves Romero:::A Comparative Study of Two Wavefront Implementations of a LU Solver Algorithm.
+conf/conpar/WardTW90:::Mike Ward::Paul Townsend::Günter Watzlawik:::EDS Hardware Architecture.
+conf/conpar/StokarGGHMSSZ90:::D. Stokar::Anton Gunzinger::W. Guggenbühl::Edi Hiltebrand::S. Mathis::P. Schaeren::B. Schneuwly::M. Zeltner:::SYDAMA II: A Heterogeneous Multiprocessor System for Real Time Image Processing.
+conf/conpar/SergentB94:::Thierry Le Sergent::Bernard Berthomieu:::Balancing Load under Large and Fast Load Changes in Distributed Computing Systems - A Case Study.
+conf/conpar/Burks86:::Arthur W. Burks:::A Radically Non-Von-Neumann-Architecture for Learning and Discovery.
+conf/conpar/Schwandt86:::Hartmut Schwandt:::Multitasking Algorithms on CRAY Computers for Interval Arithmetic Newton-Like Methods for a Class of Systems of Nonlinear Equations.
+conf/conpar/EigenmannHJP90:::Rudolf Eigenmann::Jay Hoeflinger::G. Jaxon::David A. Padua:::Cedar Fortran and Its Compiler.
+conf/conpar/David92:::Pierre David:::Semantic Analysis for Parallelizing C.
+conf/conpar/HossfeldW81:::Friedel Hossfeld::P. Weidner:::Parallel evaluation of correlation time-of-flight experiments.
+conf/conpar/WabnigHKV94:::Harald Wabnig::Günter Haring::Dieter Kranzlmüller::Jens Volkert:::Communication Pattern Based Performance Prediction on the nCUBE 2 Multiprocessor System.
+conf/conpar/Ohring92:::Sabine R. Öhring:::Dynamic Tree Embeddings into de Bruijn Graphs.
+conf/conpar/MartinoI94:::Beniamino Di Martino::Giulio Iannello:::Parallelization of Non-Simultaneous Iterative Methods for Systems of Linear Equations.
+conf/conpar/SchwehmW94:::Markus Schwehm::Thomas Walter:::Mapping and Scheduling by Genetic Algorithms.
+conf/conpar/KattnerEM94:::R. Kattner::M. Eger::Christian Müller-Schloer:::Modeling Cache Coherence Overhead with Geometric Objects.
+conf/conpar/Vajtersic90:::Marián Vajtersic:::Parallel Multigrid Algorithms for some Specialized Computer Systems.
+conf/conpar/Vornberger86:::Oliver Vornberger:::Implementing Branch-and-Bound in a Ring of Processors.
+conf/conpar/EssafiPJ92:::Hassane Essafi::Marc Pic::Didier Juvin:::kappa-Project - First Step: To Improve Data Manipualtions and Representations on Parallel Computers.
+conf/conpar/GovindarajanN92:::Ramaswamy Govindarajan::Shashank S. Nemawarkar:::A Large Context Multithreaded Architecture.
+conf/conpar/Lange86:::Otto Lange:::Kronecker Products of Matrices and Their Implementation on Shuffle/Exchange-Type Processor Networks.
+conf/conpar/SaadS81:::V. Saad::Ahmed H. Sameh:::Iterative methods for the solution of elliptic difference equations on multiprocessors.
+conf/conpar/RochV92:::Jean-Luis Roch::Gilles Villard:::Parallel gcd and Lattice Basis Reduction.
+conf/conpar/WaringC92:::L. C. Waring::M. Clint:::Computation of the Eigenvalues of Real Symmetric Matrices Using a Processor Farm.
+conf/conpar/GannonLN92:::Dennis Gannon::Jenq Kuen Lee::Srinivas Narayana:::On Using Object-Oriented Parallel Programming to Build Distributed Algebraic Abstractions.
+conf/conpar/AndonovR94:::Rumen Andonov::Sanjay V. Rajopadhye:::Optimal Tile Sizing.
+conf/conpar/HaritaogluA94:::Ismail Haritaoglu::Cevdet Aykanat:::An Efficient Mapping Heuristic for Mesh-Connected Parallel Architectures Based on Mean Field Annealing.
+conf/conpar/BrennerL86:::K.-H. Brenner::A. W. Lohmann:::The Digital Optical Computing Program at Erlangen.
+conf/conpar/BarnettL92:::Michael Barnett::Christian Lengauer:::Unimodularity Considered Non-Essential.
+conf/conpar/ChardonnesHK90:::B. Chardonnes::Roger D. Hersch::O. Kölbl:::Transputer Based Distributed Cartographic Image Processing.
+conf/conpar/BemmerlB92:::Thomas Bemmerl::Peter Braun:::Visualization of Message Passing Parallel Programs.
+conf/conpar/ShiloachV81:::Yossi Shiloach::Uzi Vishkin:::Finding the maximum, merging and sorting in a parallel computation model.
+conf/conpar/MackenzieOSK92:::Lewis M. Mackenzie::Mohamed Ould-Khaoua::Rob J. Sutherland::T. Kelly:::A Hypergraph-Based Interconnection Network for Large Multicomputers.
+conf/conpar/MilovanovicMS92:::Emina I. Milovanovic::Igor Z. Milovanovic::Mile K. Stojcev:::Matrix Inversion Algorithm for Linear Array Processor.
+conf/conpar/GutzmannS92:::Michael M. Gutzmann::Klaus Steffan:::PEPSIM-ST: A Simulator Tool for Benchmarking.
+conf/conpar/HartensteinHW90:::Reiner W. Hartenstein::Alexender G. Hirschbiel::M. Weber:::A Novel Paradigm of Parallel Computation and its Use to Implement Simple High Performance Hardware.
+conf/conpar/BourzoufiGT92:::H. Bourzoufi::G. Goncalves::Bernard Toursel:::A Time-Bounded Binding Access with Low Task-Switching Cost in an OR-Parallel Prolog.
+conf/coopis/TeschA98:::Thomas Tesch::Karl Aberer:::Scheduling Non-Enforceable Contracts among Autonomous Agents.
+conf/coopis/ZlotkinR93:::Gilad Zlotkin::Jeffrey S. Rosenschein:::Negotiation with Incomplete Information about Worth: Strict versus Tolerant Mechanisms.
+conf/coopis/BhargavaJS93:::Bharat K. Bhargava::Yin-he Jiang::Jagannathan Srinivasan:::O-Raid: Experiences and Experiments.
+conf/coopis/VillateIP00:::Yolanda Villate::Arantza Illarramendi::Evaggelia Pitoura:::Data Lockers: Mobile-Agent Based Middleware for the Security and Availability of Roaming Users Data.
+conf/coopis/Muhl01:::Gero Mühl:::Generic Constraints for Content-Based Publish/Subscribe.
+conf/coopis/LiebigCB99:::Christoph Liebig::Mariano Cilia::Alejandro P. Buchmann:::Event Composition in Time-dependent Distributed Systems.
+conf/coopis/JarrarM02:::Mustafa Jarrar::Robert Meersman:::Formal Ontology Engineering in the DOGMA Approach.
+conf/coopis/FlorescuRV95:::Daniela Florescu::Louiqa Raschid::Patrick Valduriez:::Using Heterogeneous Equivalences for Query Rewriting in Multidatabase Systems.
+conf/coopis/AdaliB98:::Sibel Adali::Corey Bufi:::A Flexible Architecture for Query Integration and Mapping.
+conf/coopis/HindiL94:::Khalil el Hindi::Brian Lings:::Using Truth Maintenance Systems to Solve the Data Consistency Problem.
+conf/coopis/Watt93:::S. Watt:::Role Conflicts in Groupware.
+conf/coopis/StillgerOF97:::Michael Stillger::Johann K. Obermaier::Johann Christoph Freytag:::AQuES: An Agent-based Query Evaluation System.
+conf/coopis/SimoffB02:::Simeon J. Simoff::Robert P. Biuk-Aghai:::Discovering Emergent Virtual Work Processes in Collaborative Systems.
+conf/coopis/Gaasterland93:::Terry Gaasterland:::Restricting Query Relaxation through User Constraints.
+conf/coopis/MecellaSVBCB02:::Massimo Mecella::Monica Scannapieco::Antonino Virgillito::Roberto Baldoni::Tiziana Catarci::Carlo Batini:::Managing Data Quality in Cooperative Information Systems.
+conf/coopis/BrueggeOR94:::Bernd Bruegge::Kevin O'Toole::David Rothenberger:::Design Considerations for an Accident Management System.
+conf/coopis/LiuPL96:::Ling Liu::Calton Pu::Yooshin Lee:::An Adaptive Approach to Query Mediation Across Heterogeneous Information Sources.
+conf/coopis/MinockRP99:::Michael Minock::Marek Rusinkiewicz::Brad Perry:::The Identification of Missing Information Resources through the Query Difference Operator.
+conf/coopis/ArcieriCNNT99:::Franco Arcieri::Elettra Cappadozzi::Paolo Naggar::Enrico Nardelli::Maurizio Talamo:::Access Keys Warehouse: A New Approach to the Development of Cooperative Information Systems.
+conf/coopis/PerlGG96:::Yehoshua Perl::James Geller::Huanying Gu:::Identifying a Forest Hierarchy in an OODB Specification Hierarchy Satisfying Disciplined Modeling.
+conf/coopis/MahalingamH97:::Kuhanandha Mahalingam::Michael N. Huhns:::An Ontology Tool for Query Formulation in an Agent-Based Context.
+conf/coopis/DuongH93:::Toncan Duong::John Hiller:::Modelling the Real World by Multi-World Data Model.
+conf/coopis/Biller96:::Horst Biller:::From Distributed Database Management Systems to Cooperative Information Systems: We have the solutions, what are the problems? (Abstract)
+conf/coopis/BalkeGK02:::Wolf-Tilo Balke::Ulrich Güntzer::Werner Kießling:::On Real-Time Top k Querying for Mobile Services.
+conf/coopis/MengYL99:::Weiyi Meng::Clement T. Yu::King-Lup Liu:::Detection of Heterogeneities in a Multiple Text Database Environment.
+conf/coopis/GuizzardiHW02:::Giancarlo Guizzardi::Heinrich Herre::Gerd Wagner:::Towards Ontological Foundations for UML Conceptual Models.
+conf/coopis/RakotonirainyG02:::Andry Rakotonirainy::Greg Groves:::Resource Discovery for Pervasive Environments.
+conf/coopis/MaierNPWTRKTDU02:::F. Maier::Donald Nute::Walter D. Potter::J. Wang::M. J. Twery::H. M. Rauscher::P. Knopp::S. Thomasma::Mayukh Dass::H. Uchiyama:::PROLOG/RDBMS Integration in the NED Intelligent Information System.
+conf/coopis/Saltor95:::Fèlix Saltor:::Interoperability in Multidatabase Systems (Panel).
+conf/coopis/PaalKF02:::Stefan Paal::Reiner Kammüller::Bernd Freisleben:::Customizable Deployment, Composition, and Hosting of Distributed Java Applications.
+conf/coopis/KarlapalemYH95:::Kamalakar Karlapalem::Helen P. Yeung::Patrick C. K. Hung:::CapBasED-AMS - A Framework for Capability-Based and Event-Driven Activity Management System.
+conf/coopis/Bernstein01:::Philip A. Bernstein:::Generic Model Management: A Database Infrastructure for Schema Manipulation.
+conf/coopis/DoucetGLR01:::Anne Doucet::Stéphane Gançarski::Claudia León::Marta Rukoz:::Checking Integrity Constraints in Multidatabase Systems with Nested Transactions.
+conf/coopis/HanFN94:::Jiawei Han::Yongjian Fu::Raymond T. Ng:::Cooperative Query Answering Using Multiple Layered Databases.
+conf/coopis/WittemannK93:::C. Wittemann::H. Kunst:::Intelligent Assistance in Flexible Decisions.
+conf/coopis/BerlinM01:::Jacob Berlin::Amihai Motro:::Autoplex: Automated Discovery of Content for Virtual Databases.
+conf/coopis/MullerP94:::Jörg P. Müller::Markus Pische:::An Architecture for Dynamically Interacting Agents.
+conf/coopis/CardiffCS95:::John Cardiff::Tiziana Catarci::Giuseppe Santucci:::Distributed Semantic Query Processing in a Cooperative Information System.
+conf/cooppn/Sibertin-Blanc01:::Christophe Sibertin-Blanc:::CoOperative Objects: Principles, Use and Implementation.
+conf/cooppn/BattistonCC01:::Eugenio Battiston::A. Chizzoni::Fiorella de Cindio:::CLOWN as a Testbed for Concurrent Object-Oriented Concepts.
+conf/cooppn/Sibertin-Blanc01a:::Christophe Sibertin-Blanc:::The Hurried Philosophers.
+conf/colognet/Prestwich02:::Steven David Prestwich:::A Local Search Algorithm for Balanced Incomplete Block Designs.
+conf/colognet/LynceS02:::Inês Lynce::João P. Marques Silva:::The Effect of Nogood Recording in DPLL-CBJ SAT Algorithms.
+conf/deform/BaerlocherB00:::Paolo Baerlocher::Ronan Boulic:::Parametrization and Range of Motion of the Ball-and-Socket Joint.
+conf/deform/LeeJ00:::Dong Hoon Lee::Soon Ki Jung:::Delaunay Triangles Model for Image-Based Motion Retargeting.
+conf/deform/ParisyS00:::Olivier Parisy::Christophe Schlick:::Object-Oriented Reformulation and Extension of Implicit Free-Form Deformations.
+conf/deform/Nebel00:::Jean-Christophe Nebel:::Soft Tissue Modeling from 3D Scanned Data.
+conf/IEEEinteract/HsuCYC02:::Wei-Chung Hsu::Howard Chen::Pen-Chung Yew::Dong-yuan Chen:::On the Predictability of Program Behavior Using Different Input Data Sets.
+conf/dialog/Spieker92:::Peter Spieker:::Erklärungen in technischen Expertensystemen.
+conf/crypto/Quisquater87:::Jean-Jacques Quisquater:::Secret Distribution of Keys for Public-Key Systems.
+conf/crypto/Blum81:::Manuel Blum:::Coin Flipping by Telephone.
+conf/crypto/Boer88:::Bert den Boer:::Diffie-Hillman is as Strong as Discrete Log for Certain Primes.
+conf/crypto/FrankelY95a:::Yair Frankel::Moti Yung:::Cryptoanalysis of the Immunized LL Public Key Systems.
+conf/crypto/HalevyS02:::Dani Halevy::Adi Shamir:::The LSD Broadcast Encryption Scheme.
+conf/crypto/Toussaint91:::Marie-Jeanne Toussaint:::Deriving the Complete Knowledge of Participants in Cryptographic Protocols (Extended Abstract).
+conf/crypto/Morrison81:::Don R. Morrison:::Subtractive Encryptors - Alternatives to the DES.
+conf/crypto/Kilian95:::Joe Kilian:::Improved Efficient Arguments (Preliminary Version).
+conf/crypto/BrickellD89:::Ernest F. Brickell::Daniel M. Davenport:::On the Classification of Idea Secret Sharing Schemes.
+conf/crypto/BrickellS90:::Ernest F. Brickell::Douglas R. Stinson:::Some Improved Bounds on the Information Rate of Perfect Secret Sharing Schemes.
+conf/crypto/BleichenbacherM94:::Daniel Bleichenbacher::Ueli M. Maurer:::Directed Acyclic Graphs, One-way Functions and Digital Signatures.
+conf/crypto/Fiat89:::Amos Fiat:::Batch RSA.
+conf/crypto/BoyarCDP90:::Joan Boyar::David Chaum::Ivan Damgård::Torben P. Pedersen:::Convertible Undeniable Signatures.
+conf/crypto/SimmonsDB82:::Ernest F. Brickell::James A. Davis::Gustavus J. Simmons:::A Preliminary Report on the Cryptanalysis of Merkle-Hellman Knapsack Cryptosystems.
+conf/crypto/Fam83:::Bahaa W. Fam:::Improving the Security of Exponential Key Exchange.
+conf/crypto/Beker81:::H. J. Beker:::Nonlinear Feedback Shift Register Sequences.
+conf/crypto/May02:::Alexander May:::Cryptanalysis of Unbalanced RSA with Small CRT-Exponent.
+conf/crypto/Rao87:::T. R. N. Rao:::On Struik-Tilburg Cryptanalysis of Rao-Nam Scheme.
+conf/crypto/Brassard81:::Gilles Brassard:::An Optimally Secure Relativized Cryptosystem.
+conf/crypto/Brassard82:::Gilles Brassard:::On Computationally Secure Authentication Tags Requiring Short Secret Shared Keys.
+conf/crypto/LeeC81:::Lin-Shan Lee::Ger-chih Chow:::Results on Sampling-based Scrambling for Secure Speech Communication.
+conf/crypto/CrescenzoO99:::Giovanni Di Crescenzo::Rafail Ostrovsky:::On Concurrent Zero-Knowledge with Pre-processing.
+conf/crypto/Naor02:::Moni Naor:::Deniable Ring Authentication.
+conf/crypto/Naor89:::Moni Naor:::Bit Commitment Using Pseudo-Randomness.
+conf/crypto/MooreS86:::Judy H. Moore::Gustavus J. Simmons:::Cycle Structures of the DES with Weak and Semi-Weak Keys.
+conf/crypto/TsujiiC91:::Shigeo Tsujii::Jinhui Chao:::A New ID-Based Key Sharing System.
+conf/crypto/Rankine86:::Gordon Rankine:::THOMAS - A Complete Single Chip RSA Device.
+conf/crypto/ChorFN94:::Benny Chor::Amos Fiat::Moni Naor:::Tracing Traitors.
+conf/crypto/Coppersmith85a:::Don Coppersmith:::Cheating at Mental Poker.

@@ -1,0 +1,200 @@
+conf/sspr/KitamotoT98:::Asanobu Kitamoto::Mikio Takagi:::Image Classification Method Using Stochastic Model that Reflects the Internal Structure of Mixels.
+conf/time/Yi96:::Choong-Ho Yi:::Reasoning about Concurrent Actions within Features and Fluents.
+conf/time/MiuraSW00:::Takao Miura::Isamu Shioya::Kohei Watanabe:::Behavior Discovery as Database Scheme Design.
+conf/time/Orgun96:::Mehmet A. Orgun:::A recursive temporal algebra and temporal completeness.
+conf/time/Boddy97:::Mark S. Boddy:::Practical Temporal Reasoning for Real Scheduling Applications.
+conf/time/Bacchus96:::Fahiem Bacchus:::Using Temporal Logics for Planning and Control.
+conf/time/WeiE99:::Han-Chieh Wei::Ramez Elmasri:::Study and Comparison of Schema Versioning and Database Conversion Techniques for Bi-Temporal Databases.
+conf/time/BertinoCGG01:::Elisa Bertino::Tsz S. Cheng::Shashi K. Gadia::Giovanna Guerrini:::A Linguistic Framework for Querying Dimensional Data.
+conf/time/HinzeV02:::Annika Hinze::Agnès Voisard:::A Parameterized Algebra for Event Notification Services.
+conf/time/BertinoFGM01:::Elisa Bertino::Elena Ferrari::Giovanna Guerrini::Isabella Merlo:::Navigating Through Multiple Temporal Granularity Objects.
+conf/time/BauerHWZ02:::Sebastian Bauer::Ian M. Hodkinson::Frank Wolter::Michael Zakharyaschev:::On Non-Local Propositional and Local One-Variable Quantified CTL*.
+conf/time/TambeR94:::Milind Tambe::Paul S. Rosenbloom:::Event Tracking for an Intelligent Automated Agent.
+conf/time/KrokhinJ02:::Andrei A. Krokhin::Peter Jonsson:::Extending the Point Algebra into the Qualitative Algebra.
+conf/time/BovenkampL97:::Ernst G. P. Bovenkamp::Jan C. A. van der Lubbe:::Temporal Reasoning with Fuzzy Time-Objects.
+conf/time/Loganantharaj98:::Rasiah Loganantharaj:::Efficient Temporal Propagation Algorithm for Scheduling.
+conf/time/LammaMM96:::Evelina Lamma::Paola Mello::Michela Milano:::Temporal Reasoning in a Meta Constraint Logic Programming Architecture.
+conf/time/VidalF97:::Thierry Vidal::Hélène Fargier:::Contingent Durations in Temporal CSPs: From Consistency to Controllabilities.
+conf/time/JantkeA96:::Klaus P. Jantke::Oksana Arnold:::A Modal Temporal Logic and its Models Underlying Variants of Planning Algorithms.
+conf/time/MeulenS01:::Alice ter Meulen::Hans Smessaert:::Temporal reasoning with aspectual adverbs.
+conf/time/BowmanT01:::Ivan T. Bowman::David Toman:::Optimizing Temporal Queries: Efficient Handling of Duplicates.
+conf/time/BrajnikC96:::Giorgio Brajnik::Daniel J. Clancy:::Guiding and refining simulation using temporal logic.
+conf/time/MotaR96:::Edjard Mota::David Stuart Robertson:::Representing Interaction of Agents at Different Time Granularities.
+conf/time/BadaloniGM01:::Silvana Badaloni::Massimiliano Giacomin::Claudio Masolo:::Qualitative temporal representation and reasoning about points, intervals and durations.
+conf/time/Morgenstern94:::Leora Morgenstern:::A Proper Ontology for Reasoning about Knowledge and Planning.
+conf/time/Heinemann01:::Bernhard Heinemann:::About the Temporal Decrease of Sets.
+conf/time/BeardP00:::Kate Beard::H. Mustafa Palancioglu:::Estimating Positions and Paths of Moving Objects.
+conf/time/BlancE02:::Jérémie Blanc::Rachid Echahed:::On the Operational Semantics of Timed Rewrite Systems.
+conf/time/GuilleeFW96:::Rocio Guillén::David Farwell::Janyce Wiebe:::Handling Temporal Relations in Scheduling Dialogues for an MT System.
+conf/stoc/Papadimitriou01:::Christos H. Papadimitriou:::Algorithms, games, and the internet.
+conf/stoc/Stockmeyer83:::Larry J. Stockmeyer:::The Complexity of Approximate Counting (Preliminary Version)
+conf/stoc/Ma96:::Yuan Ma:::An <i>O</i>(<i>n</i> <i>log</i> <i>n</i>)-Size Fault-Tolerant Sorting Network (Extended Abstract).
+conf/stoc/Trakhtenbrot01:::Boris A. Trakhtenbrot:::Automata, circuits and hybrids: facets of continuous time.
+conf/stoc/MaggsV97:::Bruce M. Maggs::Berthold Vöcking:::Improved Routing and Sorting on Multibutterflies.
+conf/stoc/Leighton82:::Frank Thomson Leighton:::A Layout Strategy for VLSI which Is Provably Good (Extended Abstract)
+conf/stoc/Chan02:::Timothy M. Chan:::Dynamic subgraph connectivity with geometric applications.
+conf/stoc/CulikH81:::Karel Culik II::Tero Harju:::The omega-Sequence Equivalence Problem for DOL Systems Is Decidable
+conf/stoc/Bshouty89:::Nader H. Bshouty:::On the Extended Direct Sum Conjecture
+conf/stoc/Cook71:::Stephen A. Cook:::The Complexity of Theorem-Proving Procedures
+conf/stoc/DeyG96:::Tamal K. Dey::Sumanta Guha:::Algorithms for Manifolds and Simplicial Complexes in Euclidean 3-Space (Preliminary Version).
+conf/stoc/Gupta99:::Anupam Gupta:::Embedding Tree Metrics Into Low Dimensional Euclidean Spaces.
+conf/stoc/Kilian00:::Joe Kilian:::More general completeness theorems for secure two-party computation.
+conf/stoc/FlajoletFV79:::Philippe Flajolet::Jean Françon::Jean Vuillemin:::Computing Integrated Costs of Sequences of Operations with Application to Dictionaries
+conf/stoc/DuhF97:::Rong-chii Duh::Martin Fürer:::Approximation of <i>k</i>-Set Cover by Semi-Local Optimization.
+conf/stoc/Ponzio95:::Stephen Ponzio:::A lower bound for integer multiplication with read-once branching programs.
+conf/stoc/BlumCCPRS94:::Avrim Blum::Prasad Chalasani::Don Coppersmith::William R. Pulleyblank::Prabhakar Raghavan::Madhu Sudan:::The minimum latency problem.
+conf/stoc/AronovPST03:::Boris Aronov::János Pach::Micha Sharir::Gábor Tardos:::Distinct distances in three and higher dimensions.
+conf/stoc/Greibach74:::Sheila A. Greibach:::Some Restrictions on W-Grammars
+conf/stoc/CuntoM84:::Walter Cunto::J. Ian Munro:::Average Case Selection
+conf/stoc/Fich81:::Faith E. Fich:::Lower Bounds for the Cycle Detection Problem
+conf/stoc/Johnson73:::David S. Johnson:::Approximation Algorithms for Combinatorial Problems
+conf/stoc/GalR03:::Anna Gál::Adi Rosén:::Lower bounds on the amount of randomness in private computation.
+conf/stoc/GaoZ03:::Jie Gao::Li Zhang:::Well-separated pair decomposition for the unit-disk graph metric and its applications.
+conf/stoc/ArBCG93:::Sigal Ar::Manuel Blum::Bruno Codenotti::Peter Gemmell:::Checking approximate computations over the reals.
+conf/stoc/DurisGPR83:::Pavol Duris::Zvi Galil::Wolfgang J. Paul::Rüdiger Reischuk:::Two Nonlinear Lower Bounds
+conf/stoc/RaviMRRH93:::R. Ravi::Madhav V. Marathe::S. S. Ravi::Daniel J. Rosenkrantz::Harry B. Hunt III:::Many birds with one stone: multi-objective approximation algorithms.
+conf/stoc/LovaszW95:::László Lovász::Peter Winkler:::Efficient stopping rules for Markov chains.
+conf/stoc/GoldbergKP02:::Leslie Ann Goldberg::Steven Kelk::Mike Paterson:::The complexity of choosing an H-colouring (nearly) uniformly at random.
+conf/stoc/Hodes69:::Louis Hodes:::The Logical Complexity of Geometric Properties in the Plane
+conf/stoc/PaulTC76:::Wolfgang J. Paul::Robert Endre Tarjan::James R. Celoni:::Space Bounds for a Game of Graphs
+conf/stoc/Paturi92:::Ramamohan Paturi:::On the Degree of Polynomials that Approximate Symmetric Boolean Functions (Preliminary Version)
+conf/stoc/Pippenger80:::Nicholas Pippenger:::Comparative Schematology and Pebbling with Auxiliary Pushdowns (Preliminary Version)
+conf/stoc/Bloniarz80:::Peter A. Bloniarz:::A Shortest-Path Algorithm with Expected Time O(n^2 log n log ^* n)
+conf/stoc/LiY86:::Ming Li::Yaacov Yesha:::New Lower Bounds for Parallel Computation
+conf/stoc/JaJa78:::Joseph JáJá:::Optimal Evaluation of Pairs of Bilinear Forms
+conf/stoc/Schnorr72:::Claus-Peter Schnorr:::The Process Complexity and Effective Random Tests
+conf/stoc/BarringtonBR92:::David A. Mix Barrington::Richard Beigel::Steven Rudich:::Representing Boolean Functions as Polynomials Modulo Composite Numbers (Extended Abstract)
+conf/stoc/DobkinEY86:::David P. Dobkin::Herbert Edelsbrunner::Chee-Keng Yap:::Probing Convex Polytopes
+conf/stoc/Valiant79:::Leslie G. Valiant:::Negation Can Be Exponentially Powerful
+conf/stoc/Yao79:::Andrew Chi-Chih Yao:::Some Complexity Questions Related to Distributive Computing (Preliminary Report)
+conf/stoc/AmbainisBNVW01:::Andris Ambainis::Eric Bach::Ashwin Nayak::Ashvin Vishwanath::John Watrous:::One-dimensional quantum walks.
+conf/stoc/Spinrad83:::Jeremy Spinrad:::Transitive Orientation in O(n²) Time
+conf/stoc/SchaeferSS02:::Marcus Schaefer::Eric Sedgwick::Daniel Stefankovic:::Recognizing string graphs in NP.
+conf/stoc/RothemundW00:::Paul W. K. Rothemund::Erik Winfree:::The program-size complexity of self-assembled squares (extended abstract).
+conf/stoc/KimR81:::Chul E. Kim::Azriel Rosenfeld:::Digital Straightness and Convexity (Extended Abstract)
+conf/stoc/Long79:::Timothy J. Long:::On gamma-Reducibility versus Polynomial Time Many-One Reducibility (Extended Abstract)
+conf/stoc/Kissin82:::Gloria Kissin:::Measuring Energy Consumption in VLSI Circuits: a Foundation
+conf/stoc/GoodmanPS89:::Jacob E. Goodman::Richard Pollack::Bernd Sturmfels:::Coordinate Representation of Order Types Requires Exponential Storage
+conf/stoc/Orlin88:::James B. Orlin:::A Faster Strongly Polynominal Minimum Cost Flow Algorithm
+conf/stoc/ThatcherWW78:::James W. Thatcher::Eric G. Wagner::Jesse B. Wright:::Data Type Specification: Parameterization and the Power of Specification Techniques
+conf/stoc/ChaudhuriR96:::Shiva Chaudhuri::Jaikumar Radhakrishnan:::Deterministic Restrictions in Circuit Complexity.
+conf/stoc/Berman79:::Francine Berman:::A Completeness Technique for D-Axiomatizable Semantics
+conf/stoc/HarjuK90:::Tero Harju::Juhani Karhumäki:::Decidability of the Multiplicity Equivalence of Multitape Finite Automata
+conf/stoc/Schaefer76:::Thomas J. Schaefer:::Complexity of Decision Problems Based on Finite Two-Person Perfect-Information Games
+conf/stoc/BoyceDDG82:::James E. Boyce::David P. Dobkin::Robert L. (Scot) Drysdale III::Leonidas J. Guibas:::Finding Extremal Polygons
+conf/stoc/CoppersmithW87:::Don Coppersmith::Shmuel Winograd:::Matrix Multiplication via Arithmetic Progressions
+conf/stoc/BatuEKMRRS03:::Tugkan Batu::Funda Ergün::Joe Kilian::Avner Magen::Sofya Raskhodnikova::Ronitt Rubinfeld::Rahul Sami:::A sublinear algorithm for weakly approximating edit distance.
+conf/stoc/Schulman92:::Leonard J. Schulman:::Sample Spaces Uniform on Neighborhoods
+conf/stoc/GilbertGIMS02:::Anna C. Gilbert::Sudipto Guha::Piotr Indyk::S. Muthukrishnan::Martin Strauss:::Near-optimal sparse fourier representations via sampling.
+conf/stoc/BlumJLTY91:::Avrim Blum::Tao Jiang::Ming Li::John Tromp::Mihalis Yannakakis:::Linear Approximation of Shortest Superstrings
+conf/stoc/BlumK89:::Manuel Blum::Sampath Kannan:::Designing Programs That Check Their Work
+conf/stoc/PittW89:::Leonard Pitt::Manfred K. Warmuth:::The Minimum Consistent DFA Problem Cannot Be Approximated within any Polynomial
+conf/stoc/ArmoniTWZ97:::Roy Armoni::Amnon Ta-Shma::Avi Wigderson::Shiyu Zhou:::SL &lt;= L<sup>4/3</sup>.
+conf/stoc/Ben-David92:::Shai Ben-David:::Can Finite Samples Detect Singularities of Real-Valued Functions?
+conf/stoc/RazS01:::Ran Raz::Amir Shpilka:::Lower bounds for matrix product, in bounded depth circuits with arbitrary gates.
+conf/stoc/AmorosoLY69:::Serafino Amoroso::Edward Lieblein::Hisao Yamada:::A Unifying Framework for the Theory of Iterative Arrays of Machines
+conf/stoc/KantorL90:::William M. Kantor::Eugene M. Luks:::Computing in Quotient Groups
+conf/stoc/AwerbuchS97:::Baruch Awerbuch::Tripurari Singh:::Online Algorithms for Selective Multicast and Maximal Dense Trees.
+conf/stoc/Goldreich87:::Oded Goldreich:::Towards a Theory of Software Protection and Simulation by Oblivious RAMs
+conf/stoc/Miller74:::Webb Miller:::Computational Complexity and Numerical Stability
+conf/stoc/Miller78:::Gary L. Miller:::On the n^log n Isomorphism Technique: A Preliminary Report
+conf/stoc/Miller84:::Gary L. Miller:::Finding Small Simple Cycle Separators for 2-Connected Planar Graphs
+conf/stoc/CarterW77:::Larry Carter::Mark N. Wegman:::Universal Classes of Hash Functions (Extended Abstract)
+conf/stoc/HenzingerK95:::Monika Rauch Henzinger::Valerie King:::Randomized dynamic graph algorithms with polylogarithmic time per operation.
+conf/stoc/KivinenW95:::Jyrki Kivinen::Manfred K. Warmuth:::Additive versus exponentiated gradient updates for linear prediction.
+conf/stoc/AdlemanM77:::Leonard M. Adleman::Kenneth L. Manders:::Reducibility, Randomness, and Intractability (Abstract)
+conf/stoc/KesselmanLMPSS01:::Alexander Kesselman::Zvi Lotker::Yishay Mansour::Boaz Patt-Shamir::Baruch Schieber::Maxim Sviridenko:::Buffer overflow management in QoS switches.
+conf/stoc/Chang70:::Shi-Kuo Chang:::The Analysis of Two-Dimensional Patterns using Picture Processing Grammars
+conf/stoc/FischerL77:::Michael J. Fischer::Richard E. Ladner:::Propositional Modal Logic of Programs (Extended Abstract)
+conf/stoc/FischerN01:::Eldar Fischer::Ilan Newman:::Testing of matrix properties.
+conf/stoc/FischerP80:::Michael J. Fischer::Mike Paterson:::Optimal Tree Layout (Preliminary Version)
+conf/stoc/ChenM99:::Jianer Chen::Antonio Miranda:::A Polynomial Time Approximation Scheme for General Multiprocessor Job Scheduling (Extended Abstract).
+conf/stoc/BrodalF03:::Gerth Stølting Brodal::Rolf Fagerberg:::On the limits of cache-obliviousness.
+conf/stoc/MourrainP98:::Bernard Mourrain::Victor Y. Pan:::Asymptotic Acceleration of Solving Multivariate Polynomial Systems of Equations.
+conf/stoc/Shparlinski01:::Igor Shparlinski:::Sparse polynomial approximation in finite fields.
+conf/stoc/BorodinKRSW96:::Allan Borodin::Jon M. Kleinberg::Prabhakar Raghavan::Madhu Sudan::David P. Williamson:::Adversarial Queueing Theory.
+conf/stoc/Seidel86:::Raimund Seidel:::Constructing Higher-Dimensional Convex Hulls at Logarithmic Cost per Face
+conf/stoc/ValiantV85:::Leslie G. Valiant::Vijay V. Vazirani:::NP Is as Easy as Detecting Unique Solutions
+conf/stoc/BroderDFS84:::Andrei Z. Broder::Danny Dolev::Michael J. Fischer::Barbara Simons:::Efficient Fault Tolerant Routings in Networks
+conf/stoc/DengPS02:::Xiaotie Deng::Christos H. Papadimitriou::Shmuel Safra:::On the complexity of equilibria.
+conf/stoc/MavronicolasS01:::Marios Mavronicolas::Paul G. Spirakis:::The price of selfish routing.
+conf/stoc/CramerDD00:::Ronald Cramer::Ivan Damgård::Stefan Dziembowski:::On the complexity of verifiable secret sharing and multiparty computation.
+conf/stoc/BroderKRU89:::Andrei Z. Broder::Anna R. Karlin::Prabhakar Raghavan::Eli Upfal:::Trading Space for Time in Undirected s-t Connectivity
+conf/stoc/Rounds70:::William C. Rounds:::Tree-Oriented Proofs of Some Theorems on Context-Free and Indexed Languages
+conf/stoc/Wilson96:::David Bruce Wilson:::Generating Random Spanning Trees More Quickly than the Cover Time.
+conf/stoc/AdachiIK81:::Akeo Adachi::Shigeki Iwata::Takumi Kasai:::Low Level Complexity for Combinatorial Games
+conf/stoc/Lindell03:::Yehuda Lindell:::Bounded-concurrent secure two-party computation without setup assumptions.
+conf/stoc/Bar-NoyCKMS95:::Amotz Bar-Noy::Ran Canetti::Shay Kutten::Yishay Mansour::Baruch Schieber:::Bandwidth allocation with preemption.
+conf/stoc/WilliamsonGMV93:::David P. Williamson::Michel X. Goemans::Milena Mihail::Vijay V. Vazirani:::A primal-dual approximation algorithm for generalized Steiner network problems.
+conf/stoc/KahnK92:::Jeff Kahn::Jeong Han Kim:::Entropy and Sorting
+conf/stoc/AdlerB92:::Ilan Adler::Peter A. Beling:::Polynomial Algorithms for Linear Programming over the Algebraic Numbers
+conf/stoc/AdlerL00:::Micah Adler::Frank Thomson Leighton:::Compression using efficient multicasting.
+conf/stoc/FischerMRT90:::Michael J. Fischer::Shlomo Moran::Steven Rudich::Gadi Taubenfeld:::The Wakeup Problem (Extended Abstract)
+conf/stoc/Bachmat02:::Eitan Bachmat:::Average case analysis for batched disk scheduling and increasing subsequences.
+conf/stoc/KaoNT00:::Ming-Yang Kao::Andreas Nolte::Stephen R. Tate:::The risk profile problem for stock portfolio optimization (extended abstract).
+conf/stoc/GuruswamiS00:::Venkatesan Guruswami::Madhu Sudan:::List decoding algorithms for certain concatenated codes.
+conf/stoc/KarpZ88:::Richard M. Karp::Yanjun Zhang:::A Randomized Parallel Branch-and-Bound Procedure
+conf/stoc/DeganoM84:::Pierpaolo Degano::Ugo Montanari:::Liveness Properties as Convergence in Metric Spaces
+conf/stoc/RosenkrantzS69:::Daniel J. Rosenkrantz::Richard Edwin Stearns:::Properties of Deterministic Top Down Grammars
+conf/stoc/FederG88:::Tomás Feder::Daniel H. Greene:::Optimal Algorithms for Approximate Clustering
+conf/stoc/HenzingerKPV95:::Thomas A. Henzinger::Peter W. Kopke::Anuj Puri::Pravin Varaiya:::What's decidable about hybrid automata?
+conf/stoc/FederM91:::Tomás Feder::Rajeev Motwani:::Clique Partitions, Graph Compression, and Speeding-Up Algorithms
+conf/stoc/MaratheHSR94:::Madhav V. Marathe::Harry B. Hunt III::Richard Edwin Stearns::Venkatesh Radhakrishnan:::Approximation schemes for PSPACE-complete problems for succinct specifications (preliminary version).
+conf/stoc/SpielmanT01:::Daniel A. Spielman::Shang-Hua Teng:::Smoothed analysis of algorithms: why the simplex algorithm usually takes polynomial time.
+conf/stoc/Trevisan97:::Luca Trevisan:::When Hamming Meets Euclid: The Approximability of Geometric TSP and MST (Extended Abstract).
+conf/stoc/Ladner73:::Richard E. Ladner:::Polynomial Time Reducibility
+conf/stoc/LindenmayerR72:::Aristid Lindenmayer::Grzegorz Rozenberg:::Developmental Systems and Languages
+conf/stoc/YangA94:::Jae-Heon Yang::James H. Anderson:::Time bounds for mutual exclusion and related problems.
+conf/stoc/Ben-Sasson02:::Eli Ben-Sasson:::Size space tradeoffs for resolution.
+conf/stoc/BhattL82:::Sandeep N. Bhatt::Charles E. Leiserson:::How to Assemble Tree Machines (Extended Abstract)
+conf/stoc/AggarwalC88:::Alok Aggarwal::Ashok K. Chandra:::Virtual Memory Algorithms (Preliminary Version)
+conf/stoc/KosarajuA86:::S. Rao Kosaraju::Mikhail J. Atallah:::Optimal Simulations between Mesh-Connected Arrays of Processors (Preliminary Version)
+conf/stoc/Rougemont84:::Michel de Rougemont:::Uniform Definability on Finite Structures with Successor
+conf/stoc/Thorup03:::Mikkel Thorup:::Integer priority queues with decrease key in constant time and the single source shortest paths problem.
+conf/stoc/Owicki76:::Susan S. Owicki:::A Consistent and Complete Deductive System for the Verification of Parallel Programs
+conf/stoc/Servedio99:::Rocco A. Servedio:::Computational Sample Complexity and Attribute-Efficient Learning.
+conf/stoc/BadoiuHI02:::Mihai Badoiu::Sariel Har-Peled::Piotr Indyk:::Approximate clustering via core-sets.
+conf/stoc/Vadhan00:::Salil P. Vadhan:::On transformation of interactive proofs that preserve the prover's complexity.
+conf/stoc/Khot02a:::Subhash Khot:::On the power of unique 2-prover 1-round games.
+conf/stoc/JiangSV94:::Tao Jiang::Joel I. Seiferas::Paul M. B. Vitányi:::Two heads are better than two tapes.
+conf/stoc/Yannakakis81:::Mihalis Yannakakis:::Issues of Correctness in Database Concurrency Control by Locking
+conf/stoc/SauerhoffW03:::Martin Sauerhoff::Philipp Woelfel:::Time-space tradeoff lower bounds for integer multiplication and graphs of arithmetic functions.
+conf/stoc/KhullerV92:::Samir Khuller::Uzi Vishkin:::Biconnectivity Approximations and Graph Carvings
+conf/stoc/OppenC75:::Derek C. Oppen::Stephen A. Cook:::Proving Assertions about Programs that Manipulate Data Structures
+conf/stoc/Ta-Shma98:::Amnon Ta-Shma:::Almost Optimal Dispersers.
+conf/stoc/Ben-OrT88:::Michael Ben-Or::Prasoon Tiwari:::A Deterministic Algorithm for Sparse Multivariate Polynominal Interpolation (Extended Abstract)
+conf/stoc/SedgewickS79:::Robert Sedgewick::Thomas G. Szymanski:::The Complexity of Finding Periods
+conf/stoc/BellareGG95:::Mihir Bellare::Oded Goldreich::Shafi Goldwasser:::Incremental cryptography and application to virus protection.
+conf/stoc/BartalFL96:::Yair Bartal::Amos Fiat::Stefano Leonardi:::Lower Bounds for On-line Graph Problems with Application to On-line Circuit and Optical Routing.
+conf/stoc/Ben-DavidCGL89:::Shai Ben-David::Benny Chor::Oded Goldreich::Michael Luby:::On the Theory of Average Case Complexity
+conf/stoc/LubotzkyPS86:::Alexander Lubotzky::R. Phillips::P. Sarnak:::Explicit Expanders and the Ramanujan Conjectures
+conf/stoc/PonzioRV99:::Stephen Ponzio::Jaikumar Radhakrishnan::S. Venkatesh:::The Communication Complexity of Pointer Chasing: Applications of Entropy and Sampling.
+conf/stoc/AlonCG93:::Noga Alon::Fan R. K. Chung::Ronald L. Graham:::Routing permutations on graphs via matchings.
+conf/stoc/AlonYZ94:::Noga Alon::Raphael Yuster::Uri Zwick:::Color-coding: a new method for finding simple paths, cycles and other small subgraphs within large graphs.
+conf/stoc/Levin84:::Leonid A. Levin:::Problems, Complete in ``Average'' Instance
+conf/stoc/Levin85:::Leonid A. Levin:::One-Way Functions and Pseudorandom Generators
+conf/stoc/LandauV86:::Gad M. Landau::Uzi Vishkin:::Introducing Efficient Parallelism into Approximate String Matching and a New Serial Algorithm
+conf/stoc/Lewis70:::Forbes D. Lewis:::Unsolvability Considerations in Computational Complexity
+conf/stoc/Lewis78:::John M. Lewis:::On the Complexity of the Maximum Subgraph Problem
+conf/stoc/CoffmanG91:::Edward G. Coffman Jr.::M. R. Garey:::Proof of the 4/3 Conjecture for Preemptive vs. Nonpreemptive Two-Processor Scheduling
+conf/stoc/BeigelH98:::Richard Beigel::Tirza Hirst:::One Help Bit Doesn't Help.
+conf/stoc/Young69:::Paul R. Young:::Speed-Ups by Changing the Order in Which Sets are Enumerated (Preliminary Version)
+conf/stoc/Gathen83:::Joachim von zur Gathen:::Parallel algorithms for algebraic problems
+conf/stoc/Bartal98:::Yair Bartal:::On Approximating Arbitrary Metrices by Tree Metrics.
+conf/stoc/AggarwalHL90:::Alok Aggarwal::Mark Hansen::Frank Thomson Leighton:::Solving Query-Retrieval Problems by Compacting Voronoi Diagrams (Extended Abstract)
+conf/stoc/GoldreichR97:::Oded Goldreich::Dana Ron:::Property Testing in Bounded Degree Graphs.
+conf/stoc/CharikarOP03:::Moses Charikar::Liadan O'Callaghan::Rina Panigrahy:::Better streaming algorithms for clustering problems.
+conf/stoc/Baudet78:::Gérard M. Baudet:::An Analysis of the Full Alpha-Beta Pruning Algorithm
+conf/stoc/Clarkson97:::Kenneth L. Clarkson:::Nearest Neighbor Queries in Metric Spaces.
+conf/stoc/KargerP95:::David R. Karger::Serge A. Plotkin:::Adding multiple cost constraints to combinatorial optimization problems, with applications to multicommodity flows.
+conf/stoc/VardiW84:::Moshe Y. Vardi::Pierre Wolper:::Automata Theoretic Techniques for Modal Logics of Programs (Extended Abstract)
+conf/stoc/JansenP99:::Klaus Jansen::Lorant Porkolab:::Improved Approximation Schemes for Scheduling Unrelated Parallel Machines.
+conf/stoc/FortnowS89:::Lance Fortnow::Michael Sipser:::Probabilistic Computation and Linear Time
+conf/stoc/ParnasR01:::Michal Parnas::Dana Ron:::Testing metric properties.
+conf/stoc/CosmadakisK85:::Stavros S. Cosmadakis::Paris C. Kanellakis:::Equational Theories and Database Constraints
+conf/stoc/Mirkowska80:::Grazyna Mirkowska:::Complete Axiomatization of Algorithmic Properties of Program Schemes with Bounded Nondeterministic Interpretations
+conf/stoc/Teitelbaum73:::Ray Teitelbaum:::Context-Free Error Analysis by Evaluation of Algebraic Power Series
+conf/stoc/FredericksonS84:::Greg N. Frederickson::Mandayam A. Srinivas:::Data Structures for On-Line Updating of Matroid Intersection Solutions (Preliminary Version)
+conf/stoc/SadriU80:::Fereidoon Sadri::Jeffrey D. Ullman:::A Complete Axiomatization for a Large Class of Dependencies in Relational Databases
+conf/stoc/ChandraM72:::Ashok K. Chandra::Zohar Manna:::Program Schemas with Equality
+conf/stoc/KleinRRS94:::Philip N. Klein::Satish Rao::Monika Rauch Henzinger::Sairam Subramanian:::Faster shortest-path algorithms for planar graphs.

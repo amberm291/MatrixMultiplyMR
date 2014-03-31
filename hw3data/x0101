@@ -1,0 +1,200 @@
+conf/disco/Brunswick92:::Brian D. Brunswick:::LILK - Static Analysis of REDUCE Code.
+conf/disco/Meshveliani93:::Serge D. Meshveliani:::The Algebraic Constructor CAC: Computing in Construction-Defined Domains.
+conf/disco/BidoitCC90:::Michel Bidoit::Francis Capy::Christine Choppy:::The design and specification of the ASSPEGIQUE database.
+conf/ctrsa/WangP03:::Huaxiong Wang::Josef Pieprzyk:::Shared Generation of Pseudo-Random Functions with Cumulative Maps.
+conf/ctrsa/Onions01:::Paul Onions:::On the Strength of Simply-Iterated Feistel Ciphers with Whitening Keys.
+conf/ctrsa/Walter02:::Colin D. Walter:::Precise Bounds for Montgomery Modular Multiplication and Some Potentially Insecure RSA Moduli.
+conf/ctrsa/BertoniGKOPW03:::Guido Bertoni::Jorge Guajardo::Sandeep Kumar::Gerardo Orlando::Christof Paar::Thomas J. Wollinger:::Efficient GF(p<sup>m</sup>) Arithmetic Architectures for Cryptographic Applications.
+conf/ctrsa/Fischlin01:::Marc Fischlin:::A Cost-Effective Pay-Per-Multiplication Comparison Method for Millionaires.
+conf/ctrsa/JakobssonLMS03:::Markus Jakobsson::Frank Thomson Leighton::Silvio Micali::Michael Szydlo:::Fractal Merkle Tree Representation and Traversal.
+conf/ctrsa/GoodrichTTC03:::Michael T. Goodrich::Roberto Tamassia::Nikos Triandopoulos::Robert Cohen:::Authenticated Data Structures for Graph and Geometric Searching.
+conf/ctrsa/Shamir03:::Adi Shamir:::RSA Shortcuts.
+conf/ctrsa/KurosawaI03:::Kaoru Kurosawa::Tetsu Iwata:::TMAC: Two-Key CBC MAC.
+conf/ctrsa/BellareY03:::Mihir Bellare::Bennet S. Yee:::Forward-Security in Private-Key Cryptography.
+conf/diweb/ZwolJFA02:::Roelof van Zwol::V. Jeronimus::Maarten M. Fokkinga::Peter M. G. Apers:::Data Exchange over Web-based Applications with DXL.
+conf/diweb/LukasczykH01:::Jürgen Lukasczyk::Wolfgang Hümmer:::Server Side Website Wrapping the XWeb approach.
+conf/diweb/MignetAAV01:::Laurent Mignet::Vincent Aguilera::Sébastien Ailleret::Pierangelo Veltri:::Xyro: The Xyleme Robot Architecture.
+conf/dmccg/Snellman01:::Jan Snellman:::A Poset Classifying Non-CommRichard Edwin Stearnsutative Term Orders.
+conf/ecaiw/EngelhardtC00:::Barbara Engelhardt::Steve A. Chien:::Empirical Evaluation of Local Search Methods for Adapting Planning Policies in a Stochastic Environment.
+conf/ecaiw/Voss00:::Stefan Voß:::Meta-heuristics: The State of the Art.
+conf/ecaiw/WooldridgeJ94:::Michael Wooldridge::Nicholas R. Jennings:::Agent Theories, Architectures, and Languages: A Survey.
+conf/eccsp/BlakleyK93:::G. R. Blakley::Gregory Kabatianskii:::Linear Algebra Approach to Secret Sharing Schemes.
+conf/dmtcs/LungoFR03:::Alberto Del Lungo::Andrea Frosini::Simone Rinaldi:::ECO Method and the Exhaustive Generation of Convex Polyominoes.
+conf/edbtw/BalkoSS02:::Sören Balko::Ingo Schmitt::Gunter Saake:::Towards Enhanced Compression Techniques for Efficient High-Dimensional Similarity Search in Multimedia Databases.
+conf/ecoop/Hohenstein96:::Uwe Hohenstein:::Bridging the Gap Between C++ and Relational Databases.
+conf/ecoop/AlagicK02:::Suad Alagic::Svetlana Kouznetsova:::Behavioral Compatibility of Self-Typed Theories.
+conf/ecoop/Nygaard97:::Kristen Nygaard:::GOODS to Appear on the Stage.
+conf/ecoop/GilI98:::Joseph Gil::Alon Itai:::The Complexity of Type Analysis of Object Oriented Programs.
+conf/ecoop/BeckJ94:::Kent Beck::Ralph E. Johnson:::Patterns Generate Architectures.
+conf/ecoop/HurC87:::Jin Ho Hur::Kilnam Chon:::Overview of a Parallel Object-Oriented Language CLIX.
+conf/ecoop/Barbedette91:::Gilles Barbedette:::Schema Modifications in the LISPO<sub>2</sub> Persistent Object-Oriented Language.
+conf/ecoop/DeanGC95:::Jeffrey Dean::David Grove::Craig Chambers:::Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis.
+conf/ecoop/Holzle93:::Urs Hölzle:::Integrating Independently-Developed Components in Object-Oriented Languages.
+conf/ecoop/MillsteinC99:::Todd D. Millstein::Craig Chambers:::Modular Statically Typed Multimethods.
+conf/ecoop/GreenhouseB99:::Aaron Greenhouse::John Boyland:::An Object-Oriented Effects System.
+conf/ecoop/HaradaYP01:::Yasunori Harada::Kenichi Yamazaki::Richard Potter:::CCC: User-Defined Object Structure in C.
+conf/ecoop/KaiserPHW89:::Gail E. Kaiser::Steven S. Popovich::Wenwey Hseush::Shyhtsun Felix Wu:::MELDing Multiple Granularities of Parallelism.
+conf/ecoop/BertinoFGM98:::Elisa Bertino::Elena Ferrari::Giovanna Guerrini::Isabella Merlo:::Extending the ODMG Object Model with Time.
+conf/ecoop/ClarkeW03:::Dave Clarke::Tobias Wrigstad:::External Uniqueness Is Unique Enough.
+conf/ecoop/Sakkinen89:::Markku Sakkinen:::Disciplined Inheritance.
+conf/ecoop/Champeaux91:::Dennis de Champeaux:::Object-Oriented Analysis and Top-Down Software Development.
+conf/ecoop/NobleVP98:::James Noble::Jan Vitek::John Potter:::Flexible Alias Protection.
+conf/ecoop/EngelsonFF96:::Vadim Engelson::Dag Fritzson::Peter Fritzson:::Automatic Generation of User Interfaces From Data Structure Specifications and Object-Oriented Application Models.
+conf/ecoop/NormandC92:::Véronique Normand::Joëlle Coutaz:::Unifying the Design and Implementation of User Interfaces through the Object Paradigm.
+conf/ecoop/LampingA94:::John Lamping::Martín Abadi:::Methods as Assertions.
+conf/ecoop/Holland92:::Ian M. Holland:::Specifying Reusable Components Using Contracts.
+conf/ecoop/KrallVH97:::Andreas Krall::Jan Vitek::R. Nigel Horspool:::Near Optimal Hierarchical Encoding of Types.
+conf/ecoop/FrolundA93:::Svend Frølund::Gul Agha:::A Language Framework for Multi-Object Coordination.
+conf/ecoop/LanoH92:::Kevin Lano::Howard P. Haughton:::Reasoning and Refinement in Object-Oriented Specification Languages.
+conf/ecoop/SteyaertCDHLL93:::Patrick Steyaert::Wim Codenie::Theo D'Hondt::Koen De Hondt::Carine Lucas::Marc Van Limberghen:::Nested Mixin-Methods in Agora.
+conf/ecoop/BanavarL96:::Guruduth Banavar::Gary Lindstrom:::An Application Framework For Module Composition Tools.
+conf/ecoop/Lamming93:::Michael G. Lamming:::Intimate Computing and the Memory Prothesis: A Challenge for Computer Systems Research? (Abstract).
+conf/ecoop/Ostermann02:::Klaus Ostermann:::Dynamically Composable Collaborations with Delegation Layers.
+conf/ecoop/SmaragdakisB98:::Yannis Smaragdakis::Don S. Batory:::Implementing Layered Designs with Mixin Layers.
+conf/ecoop/HedinM88:::Görel Hedin::Boris Magnusson:::The Mjølner Environment: Direct Interaction with Abstractions.
+conf/ecoop/LinsjornS88:::Yngve Linsjørn::Dag I. K. Sjøberg:::Database Concepts Discussed in Object-Oriented Perspective.
+conf/ecoop/ClarkeNP01:::David G. Clarke::James Noble::John Potter:::Simple Ownership Types for Object Containment.
+conf/ecoop/IgarashiP99:::Atsushi Igarashi::Benjamin C. Pierce:::Foundations for Virtual Types.
+conf/ecoop/Amsellem95:::Maurice Amsellem:::ChyPro: A Hypermedia Programming Environment for Smalltalk-80.
+conf/ecoop/Deutsch89:::L. Peter Deutsch:::The Past, Present and Future of Smalltalk.
+conf/ecoop/GammaWM89:::Erich Gamma::André Weinand::Rudolph Marty:::Integration of a Programming Environment into ET++ - A Case Study.
+conf/ecoop/BorningO87:::Alan Borning::Tim O'Shea:::Deltatalk: An Empirically and Aesthetically Motivated Simplification of the Smalltalk-80 Language.
+conf/ecoop/OmiciniN94:::Andrea Omicini::Antonio Natali:::Object-Oriented Computations in Logic Programming.
+conf/ecoop/Almeida97:::Paulo Sérgio Almeida:::Balloon Types: Controlling Sharing of State in Data Types.
+conf/ecoop/IchisugiT02:::Yuuji Ichisugi::Akira Tanaka:::Difference-Based Modules: A Class-Independent Module Mechanism.
+conf/ecoop/Serrano99:::Manuel Serrano:::Wide Classes.
+conf/ecoop/BanahanDMP93:::Mike Banahan::L. Peter Deutsch::Boris Magnusson::Jens Palsberg:::Panel: Aims, Means, and Future of Object-Oriented Languages.
+conf/ecoop/GlewP02:::Neal Glew::Jens Palsberg:::Type-Safe Method Inlining.
+conf/ecoop/Hagimont94:::Daniel Hagimont:::Protection in the Guide Object-Oriented Distributed System.
+conf/ecoop/MatsuokaWY91:::Satoshi Matsuoka::Takuo Watanabe::Akinori Yonezawa:::Hybrid Group Reflective Architecture for Object-Oriented Concurrent Reflective Programming.
+conf/ecoop/KrishnamurthiFF98:::Shriram Krishnamurthi::Matthias Felleisen::Daniel P. Friedman:::Synthesizing Object-Oriented and Functional Design to Promote Re-Use.
+conf/ecoop/KonoKM96:::Kenji Kono::Kazuhiko Kato::Takashi Masuda:::An Implementation Method of Migratable Distributed Objects Using an RPC Technique Integrated with Virtual Memory Management.
+conf/ecscw/KristoffersenR95:::Steinar Kristoffersen::Tom Rodden:::Multimedia Support of Collaboration in a Teleservice Team.
+conf/ecscw/PatelK93:::Dorab Patel::Scott D. Kalter:::Low Overhead, Loosely Coupled Communication Channels in Collaboration.
+conf/ecscw/PalfreymanRT99:::Kevin Palfreyman::Tom Rodden::Jonathan Trevor:::PSI: A Platform for Shared Interaction.
+conf/ecscw/ChoudharyD95:::Rajiv Choudhary::Prasun Dewan:::A General Multi-User Undo/Redo Model.
+conf/ecscw/LaMarcaEDLST99:::Anthony LaMarca::W. Keith Edwards::Paul Dourish::John Lamping::Ian Smith::James Thornton:::Taking the work out of workflow: Mechanisms for document-centered collaboration.
+conf/ecscw/FuchsPP95:::Ludwin Fuchs::Uta Pankoke-Babatz::Wolfgang Prinz:::Supporting Cooperative Awareness with Local Event Mechanisms: The GroupDesk System.
+conf/ecscw/KensingSB97:::Finn Kensing::Jesper Simonsen::Keld Bødker:::Designing for Cooperation at a Radio Station.
+conf/ecscw/AndersonBS93:::Bob Anderson::Graham Button::Wes Sharrock:::Supporting The Design Process Within An Organisational Context.
+conf/ecscw/TurnerT97:::Phil Turner::Susan Turner:::Supporting cooperative working using shared notebooks.
+conf/ecrts/AydinMMM01:::Hakan Aydin::Rami G. Melhem::Daniel Mossé::Pedro Mejía-Alvarez:::Determining Optimal Processor Speeds for Periodic Real-Time Tasks with Different Power Characteristics.
+conf/ecrts/IsoviaFS03:::Damir Isoviá::Gerhard Fohler::Liesbeth Steffens:::Timing Constraints of MPEG-2 Decoding for High Quality Video: Misconceptions and Realistic Assumptions.
+conf/ecrts/ColinP01:::Antoine Colin::Isabelle Puaut:::A Modular &amp; Retargetable Framework for Tree-Based WCET Analysis.
+conf/ecrts/HolmanA03:::Philip Holman::James H. Anderson:::Using Supertasks to Improve Processor Utilization in Multiprocessor Real-Time Systems.
+conf/ecrts/BennettA01:::M. D. Bennett::Neil C. Audsley:::Predictable and Efficient Virtual Addressing for Safety-Critical Real-Time Systems.
+conf/ecrts/Baruah02:::Sanjoy K. Baruah:::Robustness results concerning EDF scheduling upon uniform multiprocessors.
+conf/ecrts/BauerR02:::Alexander Bauer::Peter Rössler:::A Hard Real-Time Bus Arbitration Protocol based on EIA-709.
+conf/ecrts/KloukinasY03:::Christos Kloukinas::Sergio Yovine:::Synthesis of Safe, QoS Extendible, Application Specific Schedulers for Heterogeneous Real-Time Systems.
+conf/ecrts/DelvaiHPS03:::Martin Delvai::Wolfgang Huber::Peter Puschner::Andreas Steininger:::Processor Support for Temporal Predictability - The SPEAR Design Example.
+conf/ecrts/BernatB01:::Guillem Bernat::Alan Burns:::Three Obstacles to Flexible Scheduling.
+conf/dolap/ChenCY99:::Chung-Min Chen::Munir Cochinwala::Elsa Yueh:::Dealing with Slow-Evolving Fact: A Case Study on Inventory Data Warehousing.
+conf/dolap/BodyMBT02:::Mathurin Body::Maryvonne Miquel::Yvan Bédard::Anne Tchounikine:::A multidimensional and multiversion structure for OLAP applications.
+conf/dolap/ChoongLM01:::Yeow Wei Choong::Dominique Laurent::Patrick Marcel:::Computing Appropriate Representations for Multidimensional Data.
+conf/dolap/UchiyamaRT99:::Hidetoshi Uchiyama::Kanda Runapongsa::Toby J. Teorey:::A Progressive View Materialization Algorithm.
+conf/dolap/GolfarelliRV01:::Matteo Golfarelli::Stefano Rizzi::Boris Vrdoljak:::Data Warehouse Design from XML Sources.
+conf/dolap/TryfonaBC99:::Nectaria Tryfona::Frank Busborg::Jens G. Borch Christiansen:::starER: A Conceptual Model for Data Warehouse Design.
+conf/dolap/EspilV01:::Mauricio Minuto Espil::Alejandro A. Vaisman:::Efficient Intensional Redefinition of Aggregation Hierarchies in Multidimensional Databases.
+conf/dolap/ChangL98:::Jae-young Chang::Sang-goo Lee:::Query Reformulation Using Materialized Views in Data Warehousing Environment.
+conf/ecweb/Yu01:::Chien-Chih Yu:::An Integrated Framework of Business Models for Guiding Electronic Commerce Applications and Case Studies.
+conf/ecweb/KimRPY02:::Taek-Hun Kim::Young-Suk Ryu::Seok-In Park::Sung-Bong Yang:::An Improved Recommendation Algorithm in Collaborative Filtering.
+conf/ecweb/LuC02:::Jin Lu::Lihui Chen:::An Architecture for Building User-Driven Web Tasks via Web Services.
+conf/ecweb/WangD01:::Guandong Wang::Amitabha Das:::Models and Protocol Structures for Software Agent Based Complex E-Commerce Transactions.
+conf/ecweb/GarciaGMC02:::Francisco José García::Ana Belén Gil::N. Moreno::B. Curto:::A Web-Based E-commerce Facilitator Intermediary for Small and Medium Enterprises: A B2B/B2C Hybrid Proposal.
+conf/ecweb/KerridgeHMK00:::Simon Kerridge::Christos Halaris::Gregory Mentzas::Susan Kerridge:::Virtual Tendering and Bidding in the Construction Sector.
+conf/ecweb/LaenderRSS00:::Alberto H. F. Laender::Berthier A. Ribeiro-Neto::Altigran Soares da Silva::Elaine S. Silva:::Representing Web Data as Complex Objects.
+conf/ecweb/WardBCL02:::Christopher Ward::Melissa J. Buco::Rong N. Chang::Laura Z. Luan:::A Generic SLA Semantic Model for the Execution Management of E-business Outsourcing Contracts.
+conf/ecweb/MagkosBC00:::Emmanouil Magkos::Mike Burmester::Vassilios Chrissikopoulos:::An Equitably Fair On-line Auction Scheme.
+conf/ecweb/LeeLK00:::Sung-Min Lee::Hyung-Woo Lee::Tai-Yun Kim:::A Secure Electronic Software Distribution (ESD) Protocol Based on PKC.
+conf/ecweb/NambiarLBLL02:::Ullas Nambiar::Zoé Lacroix::Stéphane Bressan::Mong-Li Lee::Ying Guang Li:::Efficient XML Data Management: An Analysis.
+conf/ecweb/KlapsingN00:::Reinhold Klapsing::Gustaf Neumann:::Applying the Resource Description Framework to Web Engineering.
+conf/ecweb/Timmers00:::Paul Timmers:::Global and Local in Electronic Commerce.
+conf/ecweb/GrafG00:::Guntram Gräf::Martin Gaedke:::Construction of Adaptive Web-Applications from Reusable Components.
+conf/edmcc/UngererB91:::Theo Ungerer::Lubomir Bic:::An Object-Oriented Interface for Parallel Programming of Loosely-Coupled Multiprocessor Systems.
+conf/edmcc/Schmidt91:::Henning Schmidt:::Making PEACE a Dynamic Alterable System.
+conf/edmcc/SinhaASM91:::Pradeep Kumar Sinha::Hyo Ashihara::Kentaro Shimizu::Mamoru Maekawa:::Flexible User-Definable Memory Coherence Scheme in Distributed Shared Memory of GALAXY.
+conf/edmcc/Gerndt91:::Michael Gerndt:::Parallelization of Multigrid Programs in SUPERB.
+conf/edmcc/KeyserR91:::Johan De Keyser::Dirk Roose:::Adaptive Irregular Multiple Grids on a Distributed Memory Multiprocessor.
+conf/edmcc/HammerH91:::Carsten Hammer::Thomas Henties:::Using a Weak Coherency Model for a Parallel Lisp.
+conf/edmcc/BemmerlGK91:::Thomas Bemmerl::Udo Graf::Rainer Knödlseder:::Experiences in Parallelizing an Existing CFD Algorithm.
+conf/edmcc/HofestadtKR91:::H. Hofestädt::A. Klein::Erwin Reyzl:::Performance Benefits from Locally Adaptive Interval Routing in Dynamically Switched Interconnection Networks.
+conf/edmcc/GiavittoGF91:::Jean-Louis Giavitto::Cécile Germain::Julian Fowler:::OAL: an Implementation of an Actor Language on a Massively Parallel Message-Passing Architecture.
+conf/edmcc/RobertsonI91:::Alexander R. Robertson::Roland N. Ibbett:::Simulation of the MC88000 Microprocessor System on a Transputer Network.
+conf/edmcc/Corporaal91:::Henk Corporaal:::Distributed Heapmanagement using reference weights.
+conf/efdbs/Koschel00:::Arne Koschel:::Base Technologies for iPortal development: IONA's iPortal Suite.
+conf/efdbs/RodriguezOSC97:::Elena Rodríguez::Marta Oliva::Fèlix Saltor::Benet Campderrich:::On Schema and Functional Architectures for Multilevel Secure and Multiuser Model Federated DB Systems.
+conf/efdbs/Mester00:::Arnulf Mester:::"Meta-Directories" and Federated Information Systems: can their communities learn from each other?
+conf/efdbs/TerrasseSLB03:::Marie-Noëlle Terrasse::Marinette Savonnet::Eric Leclercq::George Becker:::Building platforms for information system interoperability - using a UML-based metamodeling approach.
+conf/efdbs/BusseKL00:::Susanne Busse::Ralf-Detlef Kutsche::Ulf Leser:::Strategies for the Conceptual Design of Federated Information Systems.
+conf/eextt/GertzS02:::Michael Gertz::Kai-Uwe Sattler:::Integrating Scientific Data through External, Concept-Based Annotations.
+conf/egpgv/ChenFN02:::L. Chen::I. Fujishiro::K. Nakajima:::Parallel performance optimization of large-scale unstructured data visualization for the earth simulator.
+conf/drums/Dam98:::Karin van Dam:::Using uncertainty techniques in radio communication systems.
+conf/drums/Lalmas98:::Mounia Lalmas:::Information retrieval and Dempster-Shafer's theory of evidence.
+conf/dsvis/VernierN00:::Frédéric Vernier::Laurence Nigay:::A Framework for the Combination and Characterization of Output Modalities.
+conf/dsvis/SmithH02:::Shamus P. Smith::Michael D. Harrison:::Blending Descriptive and Numeric Analysis in Human Reliability Design.
+conf/dsvis/GarridoG01:::José Luis Garrido::Miguel Gea:::Modelling Dynamic Group Behaviours.
+conf/faabs/Fisher00:::Michael Fisher:::Direct Execution of Agent Specifications.
+conf/faabs/AlonsoK00:::Eduardo Alonso::Daniel Kudenko:::Machine Learning for Logic-Based Multi-agent Systems.
+conf/faabs/SurkaCS00:::Derek M. Surka::Mark E. Campbell::Thomas P. Schetter:::Controlling Multiple Satellite Constellations Using the TEAMAgent System.
+conf/faabs/Mandutianu00:::Sanda Mandutianu:::Modeling Agent-Based Systems.
+conf/faabs/KhatibMH00:::Lina Khatib::Nicola Muscettola::Klaus Havelund:::Verification of Plan Models Using UPPAAL.
+conf/faabs/Wesley00:::Leonard P. Wesley:::A Real Time Object-Oriented Rational Agent Development System.
+conf/emisa/Stuhlmann87:::Herbert Stuhlmann:::Informationsbedarfsermittlung für die Gestaltung eines Bürgeramtes.
+conf/emisa/LobbeckeB96:::Claudia Löbbecke::Philipp Butzbach:::Kommerzielle Internet-Nutzung - Probleme und Zukunftsperspektiven für Inhalteanbieter.
+conf/emisa/Bothe98:::Ingeborg Bothe:::Mitarbeiterorientiertes Prozeßcontrolling in der betrieblichen Projektarbeit.
+conf/emisa/Schutter99:::C. Schütter:::Data Mining in der Praxis: Churn-Management bei Telekommunikationsanbietern.
+conf/emisa/MaucherPR02:::Irene Maucher::Hansjürgen Paul::Christiane Rudlof:::Bericht EMISA-AG: Modellierung in Soziotechnischen Systemen.
+conf/emisa/HerrmannMD98:::Thomas Herrmann::Klaus Moysich::Lars Distelrath:::Modellierung und Bewertung sozio-technischer Systeme am Beispiel eines Telearbeitsplatzes.
+conf/emisa/BindzusB96:::Lars Bindzus::Klemens Böhm:::VROBS - Datenbankzugangskontrolle mittels einer verteilten Warteschlange.
+conf/emisa/Kueng98:::Peter Kueng:::Wirkungen von Workflow-Systemen: eine empirische Studie.
+conf/emisa/GordonQ87:::Thomas F. Gordon::Gerald Quirchmayr:::Der Einsatz der Modellierungssprache OBLOG zum Entwurf von Juristischen Expertensystemen im Wege des Prototyping am Beispiel eines Modells des Verfahrens der Eidesstattlichen Versicherung.
+conf/emisa/Thoma95:::Helmut Thoma:::Schwachstellen des Requirements Engineering für Informationssysteme in der Praxis.
+conf/emisa/HohensteinNSE87:::Uwe Hohenstein::Leonore Neugebauer::Gunter Saake::Hans-Dieter Ehrich:::Three-Level-Specification of Databases using an extended Entity-Relationship Model.
+conf/fidji/JonesPRW02:::Cliff B. Jones::Panayiotis Periorellis::Alexander B. Romanovsky::Ian Welch:::Structured Handling of Online Interface Upgrades in Integrating Dependable Systems of Systems.
+conf/fidji/AldaWC02:::Sascha Alda::Markus Won::Armin B. Cremers:::Managing Dependencies in Component-Based Distributed Applications.
+conf/fidji/ChungKKH02:::Moon-Jung Chung::Sangchul Kim::Hyun Kim::Ho Sang Ham:::A Java-Based, Distributed Process Management System for Collaborative Design and Manufacturing.
+conf/essen/Chen89:::Ching-chih Chen:::Hypermedia/Multimedia Technology and New Opportunities for Libraries in the 1990s.
+conf/essen/Nieuwenhuysen94:::Paul Nieuwenhuysen:::Development of Slides about Information Retrieval, Using a Presentation Software Package.
+conf/essen/Schmidt92:::Ronald M. Schmidt:::Online Public Access Catalogs Serving Users in an Electronic Library Environment.
+conf/essen/Walton91:::Jennifer Walton:::Information Services for the Public.
+conf/essen/Ferguson85:::John Ferguson:::Future of Online Catalogues, UTLAS in Europe, a Personal View.
+conf/essen/Rutemann95:::Hans Rütemann:::Comments on behalf of the Commission on Preservation and Access.
+conf/essen/Barnholdt86:::Bent Barnholdt:::ALIS - The Online Public Access Union Catalogue and Document Ordering System of the Scadinavian Central Libraries of Technology.
+conf/essen/Gennaro96:::Richard De Gennaro:::JSTOR: The Andrew W. Mellon Foundation's Journal Storage Project.
+conf/essen/Blunden-Ellis93:::John Blunden-Ellis:::The Consortium of Academic Libraries in Manchester (CALIM): Strategic and Development Planning of a New Consortium.
+conf/essen/Rourke95:::Tony O. Rourke:::Chadwyck-Healey - Electronic Resources for the Virtual Library: A Publisher's Perspective of Preservation and Access.
+conf/essen/Paterson90:::Alasdair Paterson:::The Wheel of Fortune: Academic Libraries IT and the Re-Emerging Past.
+conf/essen/Arnold94:::Kathryn Arnold:::User Aspects of the ELINOR Electronic Library.
+conf/essen/Ritter94:::Gerold Ritter:::CD-ROM Server in the Internet.
+conf/essen/AmanFD89:::Mohammed M. Aman::Wilfred W. Fong::Virgil Diodato:::The Use of LAN in Improving Management and Services in an Academic Environment.
+conf/essen/Dougherty91:::Richard M. Dougherty:::Nudging a Dinosaur in Order to Avoid Library Extinction.
+conf/essen/Snead84:::Barbara Snead:::From Network to Turnkey: A "BLIS"-ful Experience.
+conf/essen/Hildreth85:::Charles R. Hildreth:::Online Public Access Catalogues.
+conf/essen/Torok92:::Andrew G. Torok:::From Microforms to Imaging: Document Storage in Transition.
+conf/essen/Torok94:::Andrew G. Torok:::Technological Speedtraps on the Information Superhighway.
+conf/essen/Reinitzer90:::Sigrid Reinitzer:::Information Services and Information Utilities - A Management for the User.
+conf/essir/Fuhr00:::Norbert Fuhr:::Models in Information Retrieval.
+conf/fiwac/Rifa-Coma93:::Josep Rifà-Coma:::Decoding a bit more than the BCH bound.
+conf/fiwac/MorenoZ93:::Oscar Moreno::Victor Zinoviev:::Some sufficient conditions for 4-regular graphs to have 3-regular subgraphs.
+conf/fiwac/Davydov91:::Alexander A. Davydov:::Constructions of Codes with Covering Radius 2.
+conf/fiwac/Zemor91:::Gilles Zémor:::An Extremal Problem Related to the Covering Radius of Binary Codes.
+conf/fiwac/Zemor93:::Gilles Zémor:::Threshold effects in codes.
+conf/fiwac/BocharovaK93:::Irina E. Bocharova::Boris D. Kudryashov:::On the covering radius of convolutional codes.
+conf/eunis/RotheryH01:::Andrew Rothery::Anne Hannaford:::Collaboration or Catastrophe: cna Libraries and Computer Centres work together?
+conf/eunis/Gradmann01:::Stefan Gradmann:::Reducing White Noise / Towards a common information garbage policy.
+conf/eunis/Haneke01:::Uwe Haneke:::Fully integrated business software and its impact on German universities.
+conf/eunis/PociusDBJ01:::Kestutis Pocius::Giedrius Deveikis::Darius Braukyla::Marijus Jurgutis:::Admission to Lithuanian Universities / Evolutional Development of the Consolidate Information System.
+conf/eunis/Magiera01:::Ewa Magiera:::The Strategy of IT implemenation in the Higher Education Institution on the example of the University of Silesia.
+conf/eunis/RantalaLHP01:::Tero Rantala::Tapani Lehtilä::Soile Harjala::Juhani Paananen:::Wireless Networks in the Library.
+conf/eunis/MartisiusS01:::Stasys Martisius::Linas Stabingis:::Information System of Research, Studies and Consulting for Agriculture in Lithuania.
+conf/eunis/Sidorenco01:::Veaceslav Sidorenco:::Distance Learning Technology based on NetOp Virtual Classrooms.
+conf/eunis/LifshitsG01:::Anatoli Lifshits::Tatiana Gavrilova:::On-line Learning for North-West of Russia.
+conf/eunis/LindenKK01:::Mikael Linden::Janne Kanner::Mika Kivilompolo:::FEIDHE (a project) / Electronic Identification in Finnish Higher Education.
+conf/event/ZotkinDD01:::Dmitry Zotkin::Ramani Duraiswami::Larry S. Davis:::Multimodal 3-D Tracking and Event Detection via the Particle Filter.
+conf/event/Syeda-MahmoodVS01:::Tanveer Fathima Syeda-Mahmood::A. Vasilescu::S. Sethi:::Recognizing Action Events from Multiple Viewpoints.
+conf/event/NaphadeH01:::Milind R. Naphade::Thomas S. Huang:::Detecting Semantic Concepts Using Context and Audiovisual Features.
+conf/ewcbr/McGintyS00:::Lorraine McGinty::Barry Smyth:::Personalized Route Planning: A Case-Based Approach.
+conf/ewcbr/CunninghamFS93:::Padraig Cunningham::Donal Finn::Seán Slattery:::Knowledge Engineering Requirements in Derivational Analogy.
+conf/ewcbr/HejaziB02:::Mahmoudreza Hejazi::Kambiz Badie:::A New Approach to Solution Adaptation and Its Application for Design Purposes.
+conf/ewcbr/ScottS98:::Steve Scott::Ron Simpson:::Case-Bases Incorporating Scheduling Constraint Dimensions - Experiences in Nurse Rostering.
+conf/ewcbr/Kamp96:::Gerd Kamp:::Using Description Logics for Knowledge Intensive Case-Based Reasoning.

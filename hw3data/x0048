@@ -1,0 +1,200 @@
+conf/cvpr/KurataFKS00:::Takeshi Kurata::Jun Fujiki::Masakatsu Kourogi::Katsuhiko Sakaue:::A Fast and Robust Approach to Recovering Structure and Motion from Live Video Frames.
+conf/cvpr/DellaertSTT00:::Frank Dellaert::Steven M. Seitz::Charles E. Thorpe::Sebastian Thrun:::Structure from Motion without Correspondence.
+conf/cvpr/JelinekT99:::David Jelinek::Camillo J. Taylor:::Reconstruction of Linearly Parameterized Models from Single Images with a Camera of Unknown Focal Length.
+conf/cvpr/LoopZ99:::Charles T. Loop::Zhengyou Zhang:::Computing Rectifying Homographies for Stereo Vision.
+conf/cvpr/VestriD00:::C. Vestri::Frederic Devernay:::Improving Correlation-Based DEMs by Image Warping and Facade Correlation.
+conf/cvpr/TeowL00:::Loo-Nin Teow::Kia-Fock Loe:::Handwritten Digit Recognition with a Novel Vision Model that Extracts Linearly Separable Features.
+conf/cvpr/RosenbergW97:::Yoav Rosenberg::Michael Werman:::A general filter for measurements with any probability distribution.
+conf/cvpr/MendoncaC99a:::Paulo R. S. Mendonça::Roberto Cipolla:::A Simple Technique for Self-Calibration.
+conf/cvpr/Stein97:::Gideon P. Stein:::Lens distortion calibration using point correspondences.
+conf/cvpr/HadjidemetriouGN00:::Efstathios Hadjidemetriou::Michael D. Grossberg::Shree K. Nayar:::Histogram Preserving Image Transformations.
+conf/cvpr/ElderZ96:::James H. Elder::Steven W. Zucker:::Space Scale Localization, Blur, and Contour-Based Image Coding.
+conf/cvpr/SzeliskiAA00:::Richard Szeliski::Shai Avidan::P. Anandan:::Layer Extraction from Multiple Images Containing Reflections and Transparency.
+conf/cvpr/KumarG96:::Senthil Kumar::Dmitry Goldgof:::Recovery of Global Nonrigid Motion - Based Approach Without Point Correspondences.
+conf/cvpr/WilliamsJ96:::Lance R. Williams::David W. Jacobs:::Local Parallel Computation of Stochastic Completion Fields.
+conf/cvpr/NeneN96:::Sameer A. Nene::Shree K. Nayar:::Closest Point Search in High Dimensions.
+conf/cvpr/Thirion96:::Jean-Philippe Thirion:::Non-Rigid Matching Using Demons.
+conf/cvpr/Zelnik-ManorI99:::Lihi Zelnik-Manor::Michal Irani:::Multi-Frame Alignment of Planes.
+conf/cvpr/KonishiY00:::Scott Konishi::Alan L. Yuille:::Statistical cues for Domain Specific Image Segmentation with Performance Analysis.
+conf/cvpr/ODonnellAGFHW00:::Thomas O'Donnell::Shmuel Aharon::Alok Gupta::Gareth Funka-Lea::Sandra Simon Halliburton::Richard D. White:::Multi-Modality Model-Based Registration in the Cardiac Domain.
+conf/cvpr/WexlerS00:::Yonatan Wexler::Amnon Shashua:::On the Synthesis of Dynamic Scenes from Reference Views.
+conf/cvpr/KornprobstDA97:::Pierre Kornprobst::Rachid Deriche::Gilles Aubert:::Non-linear operators in image restoration.
+conf/cvpr/SatohK97:::Shin'ichi Satoh::Takeo Kanade:::Name-It: Association of Face and Name in Video.
+conf/cvpr/KameiM98:::Toshio Kamei::Masanori Mizoguchi:::Fingerprint Preselection Using Eigenfeatures.
+conf/cvpr/ShumHS98:::Heung-Yeung Shum::Mei Han::Richard Szeliski:::Interactive Construction of 3D Models from Panoramic Mosaics.
+conf/cvpr/NguyenNMJR98:::Van-Duc Nguyen::Alison Noble::Joseph L. Mundy::John Janning::Joseph Ross:::Exhaustive Detection of Manufacturing Flaws as Abnormalities.
+conf/cvpr/GdalyahuWW99:::Yoram Gdalyahu::Daphna Weinshall::Michael Werman:::Stochastic Image Segmentation by Typical Cuts.
+conf/cvpr/MatsuyamaHWMY00:::Takashi Matsuyama::Shinsaku Hiura::Toshikazu Wada::K. Murase::A. Yoshioka:::Dynamic Memory: Architecture for Real Time Integration of Visual Perception, Camera Action, and Network Communication.
+conf/cvpr/ChristensenNMH00:::Thomas Christensen::Mads Noergaard::Claus Madsen::Adam Hoover:::Sensor Networked Mobile Robotics.
+conf/cvpr/FelzenszwalbH00:::Pedro F. Felzenszwalb::Daniel P. Huttenlocher:::Efficient Matching of Pictorial Structures.
+conf/cvpr/JacobsB97:::David W. Jacobs::Ronen Basri:::3-D to 2-D Recognition with Regions.
+conf/cvpr/ChanNM96:::LipChen Alex Chan::Nasser M Nasrabadi::Vincent Mirelli:::Multi-Stage Target Recognition Using Modular Vector Quantizers and Multilayer Perceptrons.
+conf/eaia/FilgueirasMT90:::Miguel Filgueiras::Nelma Moreira::Ana Paula Tomás:::General Introduction.
+conf/dlog/TessarisG99:::Sergio Tessaris::Graham Gough:::ABox Reasoning with Transitive Roles and Axioms.
+conf/dlog/Alvarez98:::Jordi Alvarez:::A Description Logic System for Learning in Complex Domains.
+conf/dlog/MacGregorM99:::Robert M. MacGregor::Deborah L. McGuinness:::DARPA's High Performance Knowledge Base (HPKB) Program.
+conf/dlog/Guarino91:::Nicola Guarino:::A Non-Standard Approach to terminological Knowledge: The ITL System.
+conf/dlog/Swartout91:::William R. Swartout:::Using Terminological Logics in a Problem Solver.
+conf/dlog/Rosati99:::Riccardo Rosati:::Towards expressive KR systems integrating datalog and description logics: preliminary report.
+conf/dlog/Priss99:::Uta Priss:::Description Logic and Faceted Knowledge Representation.
+conf/dlog/CompatangeloDR98:::Ernesto Compatangelo::Francesco M. Donini::Giovanni Rumolo:::DL-based Support to Domain Engineering.
+conf/dlog/HorrocksP01:::Ian Horrocks::Peter F. Patel-Schneider:::The Generation of DAML+OIL.
+conf/dlog/Patel-Schneider99:::Peter F. Patel-Schneider:::Systems Comparison.
+conf/dlog/CarrivePR98:::Jean Carrive::François Pachet::Rémi Ronfard:::Using Description Logics for Indexing Audiovisual Documents.
+conf/dlog/Schmiedel91:::Albrecht Schmiedel:::Integrating Time into Terminological Logics.
+conf/dlog/LemboLR02:::Domenico Lembo::Maurizio Lenzerini::Riccardo Rosati:::Source inconsistency and incompleteness in data integration.
+conf/dlog/BeuvronRGRS99:::François de Bertrand de Beuvron::François Rousselot::Martina Grathwohl::David Rudloff::Michael Schlick:::CICLOP.
+conf/dlog/HaarslevM01:::Volker Haarslev::Ralf Möller:::Description of the RACER System and its Applications.
+conf/dlog/GunselW01:::Christian Günsel::Marco Wittmann:::Towards an Implementation of the Temporal Description Logic TLALC.
+conf/dmcs/NilssonR03:::Martin Nilsson::Steen Rasmussen:::Cellular Automata for Simulating Molecular Self-Assembly.
+conf/dmdw/GalhardasFSSS01:::Helena Galhardas::Daniela Florescu::Dennis Shasha::Eric Simon::Cristian-Augustin Saita:::Improving Data Cleaning Quality Using a Data Lineage Facility.
+conf/dmdw/Rizzi03:::Stefano Rizzi:::Open problems in data warehousing: eight years later.
+conf/dmdw/CalvaneseGLNR99:::Diego Calvanese::Giuseppe De Giacomo::Maurizio Lenzerini::Daniele Nardi::Riccardo Rosati:::A Principled Approach to Data Integration and Reconciliation in Data Warehousing.
+conf/dmkd/Skalak01:::David B. Skalak:::Speed-up Mining or "Why is Data Mining Iterative?".
+conf/dmkd/HanKKM97:::Eui-Hong Han::George Karypis::Vipin Kumar::Bamshad Mobasher:::Clustering Based On Association Rule Hypergraphs.
+conf/dmkd/ParkK02:::Byung-Hoon Park::Hillol Kargupta:::Constructing Simpler Decision Trees from Ensemble Models Using Fourier Analysis.
+conf/dmkd/WangZ00:::Haixun Wang::Carlo Zaniolo:::Database System Extensions for Decision Support: the AXL Approach.
+conf/dmkd/PeiHM00:::Jian Pei::Jiawei Han::Runying Mao:::CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets.
+conf/dmkd/WongF00:::Wai-ching Wong::Ada Wai-Chee Fu:::Finding Structure and Characteristics of Web Documents for Classification.
+conf/dmkd/GoethalsB99:::Bart Goethals::Jan Van den Bussche:::A priori versus a posteriori filtering of association rules.
+conf/dmkd/OrdonezSB00:::Carlos Ordonez::Cesar A. Santana::Levien de Braal:::Discovering Interesting Association Rules in Medical Data.
+conf/dmkd/GrahneLW99:::Gösta Grahne::Laks V. S. Lakshmanan::Xiaohong Wang:::Interactive Mining of Correlations - A Constraint Perspective.
+conf/dmkd/MeretakisW99:::Dimitris Meretakis::Beat Wüthrich:::Classification as Mining and Use of Labeled Itemsets.
+conf/dmkd/ChundiD97:::Parvathi Chundi::Umeshwar Dayal:::An Application of Adaptive Data Mining: Facilitating Web Information Access.
+conf/ecai/DasguptaM92:::Dipankar Dasgupta::Douglas R. McGregor:::Engineering Optimizations Using the Structured Genetic Aigorithm.
+conf/ecai/Kokinov94:::Boicho N. Kokinov:::The DUAL Cognitive Architecture: A Hybrid Multi-Agent Approach.
+conf/ecai/Aguirre92:::Alfonso San Miguel Aguirre:::Symmetries and the Cardinality Operator.
+conf/ecai/BeetzB00:::Michael Beetz::Thorsten Belker:::Autonomous Environment and Task Adaptation for Robotic Agents.
+conf/ecai/Galliers88:::Julia Rose Galliers:::A Strategic Framework for Multi-Agent Cooperative Dialogue.
+conf/ecai/GerdemannH90:::Dale Gerdemann::Erhard W. Hinrichs:::A Unification-Based Approach to Quantifier Scoping.
+conf/ecai/BorilloG90:::Mario Borillo::Bruno Gaume:::An Extension to Kowalski &amp; Sergot's Event Calculus.
+conf/ecai/Witteveen90:::Cees Witteveen:::A Skeptical Semantics for Truth Maintenance.
+conf/ecai/Badea98:::Liviu Badea:::Planning in Description Logics: Deduction versus Satisfiability Testing.
+conf/ecai/VatchevaJM00:::Ivayla Vatcheva::Hidde de Jong::Nicolaas J. I. Mars:::Selection of Perturbation Experiments for Model Discrimination.
+conf/ecai/Dunin-Keplicz84:::Barbara Dunin-Keplicz:::Default Reasoning in Anaphora Resolution.
+conf/ecai/Brown76a:::Frank M. Brown:::A Deductive System for elementary Arithmetic.
+conf/ecai/Eisenstadt76:::Marc Eisenstadt:::Processing Newspaper Stories: Some Thoughts on fighting and Stylistics.
+conf/ecai/LateckiP92:::Longin Jan Latecki::Simone Pribbenow:::On Hybrid Reasoning for Processing Spatial Expressions.
+conf/ecai/Bauer98:::Mathias Bauer:::Towards the Automatic Acquisition of Plan Libraries.
+conf/ecai/RaedtB90:::Luc De Raedt::Maurice Bruynooghe:::On Negation and Three-Valued Logic in Interactive Concept-Learning.
+conf/ecai/Hahn98:::Udo Hahn:::Knowledge Generation from Texts.
+conf/ecai/JonssonF00:::Ari K. Jónsson::Jeremy Frank:::A Framework for Dynamic Constraint Reasoning using Procedural Constraints.
+conf/ecai/CostaFLSS02:::Fabrizio Costa::Paolo Frasconi::Vincenzo Lombardo::Patrick Sturt::Giovanni Soda:::Enhancing First-Pass Attachment Prediction.
+conf/ecai/Dix92:::Jürgen Dix:::Default Theories of Poole-Type and a Method for constructing Cumulative Versions of Default Logic.
+conf/ecai/IdeV90:::Nancy Ide::Jean Véronis:::Very Large Neural Networks for Word Sense Disambiguation.
+conf/ecai/BellH96:::J. Bell::Z. Huang:::Safety Logics II: Normative Safety.
+conf/ecai/Liu88:::Bing Liu:::A Reinforcement Approach to Schelduling.
+conf/ecai/OnoF96a:::Norihiko Ono::Yoshihiro Fukuta:::Learning Coordinated Behavior in a Continuous Environment.
+conf/ecai/Walsh02:::Toby Walsh:::Stochastic Constraint Programming.
+conf/ecai/Hoppe90:::Thomas Hoppe:::Hypotheses Generation for Knowledge Validation.
+conf/ecai/Sierra-Santibanez98:::Josefina Sierra-Santibáñez:::A Declarative Formalization of STRIPS.
+conf/ecai/LeoneR92:::Nicola Leone::Pasquale Rullo:::Stable Model Semantics and its Computation for Ordered Logic Programs.
+conf/ecai/Wainer94:::Jacques Wainer:::Yet another Semantics of Goals and Goal Priorities.
+conf/ecai/ConsolePR00:::Luca Console::Claudia Picardi::Marina Ribaudo:::Diagnosis and Diagnosability Analysis Using PEPA.
+conf/ecai/Rodosek94:::Robert Rodosek:::Combining Constraint Network and Causal Theory to Solve Scheduling Problems from a CSP Perspective.
+conf/ecai/BourneEJ00:::Rachel A. Bourne::Cora B. Excelente-Toledo::Nicholas R. Jennings:::Run-Time Selection of Coordination Mechanisms in Multi-Agent Systems.
+conf/ecai/ChristensenG94:::Henrik I. Christensen::Erik Granum:::Active Vision: A Survey.
+conf/ecai/Mack94:::Daniel Mack:::A New Formal Model of Belief.
+conf/ecai/Binot84:::Jean-Louis Binot:::A Set-Oriented Semantic Network Formalism for the Representation of Sentence Meaning.
+conf/ecai/Marcke86:::Kris Van Marcke:::A Parallel Algorithm for Consistency Maintenance in Knowledge Representation.
+conf/ecai/BulsariS92:::Abhai B. Bulsari::Henrik Saxén:::A Partially Recurrent Connectionist Model.
+conf/ecai/BrezellecS94:::Pierre Brézellec::Henry Soldano:::Improvement of the Exploration of the Search Space of a Top-Down Algorithm: Theoretical and Experimental Results.
+conf/ecai/LozinskiiN82:::Eliezer L. Lozinskii::Sergei Nirenburg:::Parallel Processing of Natural Language.
+conf/ecai/WangYY96:::Xianchang Wang::Jia-Huai You::Li-Yan Yuan:::Circumscription by Inference Rules with Priority.
+conf/ecai/BohrerBS92:::S. Bohrer::Michael Brauckmann::Werner von Seelen:::Visual Obstacle Detection by a Geometrically Simplified Optical Flow Approach.
+conf/ecai/ChittaroMP94:::Luca Chittaro::Angelo Montanari::Alessandro Provetti:::Skeptical and Credulous Event Calculi for Supporting Modal Queries.
+conf/ecai/Wanner92:::Leo Wanner:::Lexical Choice and the Organization of Lexical Resources in Text Generation.
+conf/ecai/WolterZ00:::Frank Wolter::Michael Zakharyaschev:::Spatial Reasoning in RCC-8 with Boolean Region Terms.
+conf/ecai/Zaverucha92:::Gerson Zaverucha:::Logical Foundations of a Modal Defeasible Relevant Logic of Belief.
+conf/ecai/Wilks76:::Yorick Wilks:::De Minimis, or the Archaeology of Frames.
+conf/ecai/ShimboI00:::Masashi Shimbo::Toru Ishida:::Towards Real-Time Search with Inadmissible Heuristics.
+conf/ecai/Geurts90:::Bart Geurts:::Computing Salience.
+conf/ecai/OwenH88:::Stephen Owen::Richard Hull II:::The Use of Explicit Interpretation to Control Reasoning about Protein Topology.
+conf/ecai/Reed02:::Chris Reed:::Saliency and the Attentional State in Natural Language Generation.
+conf/ecai/LabrocheMV02:::Nicolas Labroche::Nicolas Monmarché::Gilles Venturini:::A new clustering algorithm based on the ants chemical recognition system.
+conf/ecai/KrickhahnNMS88:::Reinhard Krickhahn::Reinhard Nobis::Andres Mählmann::Mina-Jaqueline Schachter-Radig:::Applying the KADS Methodology to Develop a Knowledge Based System: NetHandler.
+conf/ecai/Seel84:::Nigel R. Seel:::An Analysis of a Simple Learning System.
+conf/ecai/Boose84:::John H. Boose:::Personal Construct Theory and the Transfer of Human Expertise.
+conf/ecai/Millan92:::José Del R. Millán:::Building Reactive Path-Finders through Reinforcement Connectionist Learning: Three Issues and an Architecture.
+conf/ecai/AlferesDP94:::José Júlio Alferes::Carlos Viegas Damásio::Luís Moniz Pereira:::Top-Down Query Evaluation for Well-Founded Semantics with Explicit Negation.
+conf/ecai/Brown88:::Allen L. Brown Jr.:::Logics of Justified Belief.
+conf/ecai/Brown92:::M. Brown:::Incorporating Similarity Measures into Case Retrieval Using Analogue Marker Passing.
+conf/ecai/ConsoleD92:::Luca Console::Daniele Theseider Dupré:::Adcuctive Reasoning with Abstraction Axioms.
+conf/ecai/MatsushitaYK00:::Mitsunori Matsushita::Hayato Yonezawa::Tsuneaki Kato:::Frame Representation of User's Requirement for Automated Data Visualization.
+conf/ecai/JacquetP86:::Paul Jacquet::Marie-Laure Potet:::Program Synthesis = Proof Method + Knowledge (Example about Recursive Function Synthesis).
+conf/ecai/PereiraA92:::Luís Moniz Pereira::José Júlio Alferes:::Well Founded Semantics for Logic Programs with Explicit Negation.
+conf/ecai/JaffarL82:::Joxan Jaffar::Jean-Louis Lassez:::Reasoning about Array Segments.
+conf/ecai/WuHYH92:::Z. Wu::T. Huang::J. Ying::Z. He:::A Summary of Coupled Expert Systems Building Toolkit ZIPE.
+conf/ecai/RichardS96:::Gilles Richard::Frédéric Saubion:::Answers Synthesis for CLP with Negation.
+conf/ecai/GrosskreutzL00:::Henrik Grosskreutz::Gerhard Lakemeyer:::Turning High-Level Plans into Robot Programs in Uncertain Domains.
+conf/ecai/VoglerRHN00:::Axel Vogler::Patrick Rammelt::Jörg Herbers::Dietmar Neumerkel:::Visual Design Support in Dynamic Probabilistic Networks for Driver Modelling.
+conf/ecai/JongMV96:::Hidde de Jong::Nicolaas J. I. Mars::Paul E. van der Vet:::CEC: Comparative Analysis by Envisionment Construction.
+conf/ecai/Farquhar88:::Adam Farquhar:::A Qualitative Reasoning Approach to Fault Avoidance.
+conf/ecai/Siekmann86:::Jörg H. Siekmann:::Unification Theory.
+conf/ecai/CofinoCSG02:::Antonio S. Cofiño::R. Cano::C. Sordo::José Manuel Gutiérrez:::Bayesian Networks for Probabilistic Weather Prediction.
+conf/ecai/Golfarelli98:::Matteo Golfarelli:::A Game Theory Approach to Coordination in MAS.
+conf/ecai/Pankowski02:::Tadeusz Pankowski:::Querying semistructured data using a rule-oriented XML query language.
+conf/ecai/VaudryC00:::Christophe Vaudry::Michel Crampes:::Composition Through Agent Negotiation: A Step Towards Fluid Interface.
+conf/ecai/BoverieDGMP02:::Serge Boverie::Didier Dubois::Xavier Guérandel::Olivier de Mouzon::Henri Prade:::Online Diagnosis of Engine Dyno Test Benches: A Possibilistic Approach.
+conf/ecai/Nienhuys-ChengW96:::Shan-Hwei Nienhuys-Cheng::Ronald de Wolf:::A Complete Method for Program Specialization Based on Unfolding.
+conf/ecai/Alcobe02:::Josep Roure Alcobé:::An Incremental Algorithm for Tree-shaped Bayesian Network Learning.
+conf/ecai/FinklerS92:::Wolfgang Finkler::Anne Schauder:::Effects of Incremental Output on Incremental Natural Language Generation.
+conf/ecai/KaindlS98:::Hermann Kaindl::Anton Scheucher:::Back-up of Heuristic Values: Minimaxing vs. Product Propagation.
+conf/ecai/Kern-Isberner00:::Gabriele Kern-Isberner:::Solving the Inverse Representation Problem.
+conf/ecai/Pearce92:::David Pearce:::Default Logic and Constructive Logic.
+conf/ecai/Liberatore98:::Paolo Liberatore:::On Non-Conservative Plan Modification.
+conf/ecai/HindriksIL00:::Koen V. Hindriks::Mark d' Inverno::Michael Luck:::Architecture for Agent Programming Languages.
+conf/ecai/RemyZ84:::Jean-Luc Remy::Hantao Zhang:::REVEUR 4: A System for Validating Conditional Algebraic Specifications of Abstract Data Types.
+conf/ecai/BundyLSW76:::Alan Bundy::George F. Luger::M. Stone::R. Welham:::MECHNO, Year one.
+conf/ecai/Lopez-SanchezMS98:::Maite López-Sánchez::Ramon López de Mántaras::Carles Sierra:::Possibility Theory-Based Environment Modelling by Means of Behaviour-Based Autonomous Robots.
+conf/ecai/DessimozM94:::Jean-Daniel Dessimoz::Giovanni Mele:::Performance Assessment of Cognitive Systems: Case of Elementary Mobile Robots.
+conf/ecai/Backstrom94:::Christer Bäckström:::Executing Parallel Plans Faster by Adding Actions.
+conf/ecai/Klein82:::S. Klein:::Culture, Mysticism &amp; Social Structure and the Calculation of Behavior.
+conf/ecai/YoungR90:::R. A. Young::A. Reel:::A Hybrid Genetic Algorithm for a Logic Problem.
+conf/ecai/CortesRSCCP02:::Ulises Cortés::Ignasi R.-Roda::Miquel Sànchez-Marrè::Joaquim Comas::Christian Cortes::Manel Poch:::DAI-DEPUR: An Environmental Decision Support System for the control and supervison of Municipal WasteWater Treatment Plants.
+conf/ecai/ChakravarthyHW92:::Anil S. Chakravarthy::Kenneth B. Haase::L. M. Weitzman:::A Uniform Memory-Based Representation for Visual Languages.
+conf/ecai/JussienL98:::Narendra Jussien::Olivier Lhomme:::Dynamic Domain Splitting for Numeric CSPs.
+conf/ecai/Jennings92:::Nicholas R. Jennings:::Towards a Cooperation Knowledge Level For Collaborative Problem Solving.
+conf/ecai/Satoh90:::Ken Satoh:::Formalizing Soft Constraints by Interpretation Ordering.
+conf/ecai/Satoh98:::Ken Satoh:::Using Two Level Abduction to Decide Similarity of Cases.
+conf/ecai/Janlert88:::Lars-Erik Janlert:::Pictorial Knowledge Representation.
+conf/ecai/Robnik-SikonjaK98:::Marko Robnik-Sikonja::Igor Kononenko:::Pruning Regression Trees with MDL.
+conf/ecai/Lieber02:::Jean Lieber:::Strong, Fuzzy and Smooth Hierarchical Classification for Case-Based Problem Solving.
+conf/ecai/Sinclair86:::Clive Sinclair:::The Why and When of Artificial Intelligence.
+conf/ecai/JuniorT02:::Roberto Marcondes Cesar Junior::Celina Maki Takemura:::Shape Analysis and Classification using Landmarks: Polygonal Wavelet Transform.
+conf/ecai/GrandchampL92:::Jean-Michel Grandchamp::S. Letellier:::Predictions in Deterministic Parsing: a Framework for Lexical Correction.
+conf/ecai/BergmannW98:::Ralph Bergmann::Wolfgang Wilke:::Towards a New Formal Model of Transformational Adaptation in Case-Based Reasoning.
+conf/ecai/Lukaszewicz84:::Witold Lukaszewicz:::Nonmonotonic Logic for Default Theories.
+conf/ecai/HassineG02:::Ahlem Ben Hassine::Khaled Ghédira:::How to Establish Arc-Consistency by Reactive Agents.
+conf/ecai/FrohlichN96:::Peter Fröhlich::Wolfgang Nejdl:::A Model-based Reasoning Approach to Circumscription.
+conf/ecai/TidharR92:::Gil Tidhar::Jeffrey S. Rosenschein:::A Contract Net with Consultants: An Alternative Architecture and Experimental Results.
+conf/ecai/DiederichTB92:::Joachim Diederich::Andreas Thümmel::E. Bartels:::Recurrent and Feedforward Networks for Human-Computer Interaction.
+conf/ecai/Neitzke92:::Michael Neitzke:::Modeling Physical Systems with Relative Descriptions of Parameters.
+conf/ecai/VossKDL90:::Angi Voß::Werner Karbach::Uwe Drouven::D. Lorek:::Competence Assessment in Configuration Tasks.
+conf/ecai/FujiwaraH90:::Yasushi Fujiwara::Shinichi Honiden:::On Logical Foundations of the ATMS.
+conf/ecai/Wooldridge98:::Michael Wooldridge:::A Knowledge-theoretic Approach to Distributed Problem Solving.
+conf/ecai/BenferhatDP94:::Salem Benferhat::Didier Dubois::Henri Prade:::Expressing Independence in a Possibilistic Framework and its Application to Default Reasoning.
+conf/ecai/WilsonM94:::Nic Wilson::Serafín Moral:::A Logical View of Probability.
+conf/ecai/WilsonM96:::Nic Wilson::Serafín Moral:::Fast Markov Chain Algorithms for Calculating Dempster-Shafer Belief.
+conf/ecai/Dousson02:::Christophe Dousson:::Extending and Unifying Chronicle Representation with Event Counters.
+conf/ecai/Kounalis92:::Emmanuel Kounalis:::A Simplification-Based Approach to Program Synthesis.
+conf/ecai/Lawler86:::Robert W. Lawler:::Co-Adaptation and the Development of Cognitive Structures.
+conf/ecai/HarwoodH76:::W. T. Harwood::F. Keith Hanna:::A Distributed Activity Processing System for AI.
+conf/ecai/Rintanen00:::Jussi Rintanen:::Incorporation of Temporal Logic Control into Plan Operators.
+conf/ecai/Slack84:::Jon M. Slack:::The Role of Distributed Memory in Natural Language Parsing.
+conf/ecai/Lattaud98:::Claude Lattaud:::A Macro - Mutation Operator in Genetic Algorithms.
+conf/ecai/FerraraFH92:::P. Ferrara::Alois Ferscha::G. Haring:::A Collision Avoiding Six Legged Walking Machine Based on Kohonen Feature Maps.
+conf/ecai/BasiliMP02:::Roberto Basili::Alessandro Moschitti::Maria Teresa Pazienza:::Empirical investigation of fast text classification over linguistic features.
+conf/ecai/SumigaKS88:::J. H. Sumiga::Babak Khazaei::Jawed I. A. Siddiqi:::A Cognitive Model of Program Designer Behaviour.
+conf/ecai/MikschS00:::Silvia Miksch::Andreas Seyfang:::Continual Planning with Time-Oriented, Skeletal Plans.
+conf/ecai/VanwelkenhuysenR90:::Johan Vanwelkenhuysen::Philip Rademakers:::Mapping a Knowledge Level Analysis onto a Computational Framework.
+conf/ecai/CamurriIFZ92:::Antonio Camurri::C. Innocenti::Marcello Frixione::Renato Zaccaria:::A Model of Representation and Communication of Music and Multimedia Knowledge.
+conf/ecai/BallimW90:::Afzal Ballim::Yorick Wilks:::Relevant Beliefs.
+conf/ecai/Massacci98:::Fabio Massacci:::Cook and Reckhow are Wrong: Subexponential Tableaux Proofs for Their Family of Formulae.
+conf/ecai/Rissland84:::Edwina L. Rissland:::The Ubiquitous Dialectic.
+conf/ecai/BenferhatDKP00:::Salem Benferhat::Didier Dubois::Souhila Kaci::Henri Prade:::Encoding Information Fusion in Possibilistic Logic: A General Framework for Rational Syntactic Merging.
+conf/ecai/Dutech00:::Alain Dutech:::Solving POMDPs Using Selected Past Events.
+conf/ecai/Tuominen88:::Heikki Tuominen:::Translations from Epistemic into Dynamic Logic.
+conf/ecai/MikolajczakM02:::Rafal Mikolajczak::Jacek Mandziuk:::Chaotic Time Series Prediction with Neural Networks - Comparison of Several Architectures.
+conf/ecai/NigamB90:::Anil Nigam::R. Bhaskar:::Qualitative Astrophysics.
+conf/ecai/Nagao92:::Katashi Nagao:::A Preferential Constraint Satisfaction Technique for Natural Language Analysis.

@@ -1,0 +1,200 @@
+conf/cgi/TiggesW99:::Mark Tigges::Brian Wyvill:::A Field Interpolated Texture Mapping Algorithm for Skeletal Implicit Surfaces.
+conf/cgi/ZhangHC03:::Kaicheng Zhang::Zhiyong Huang::Tat-Seng Chua:::A Framework to Customize a Face Model for Reusing Animation.
+conf/cgi/ChouraquiE96:::Patrick Chouraqui::Gershon Elber:::Physically Based Adaptive Triangulation of Freeform Surfaces.
+conf/cgi/Rossignac98:::Jarek Rossignac:::Invited Lecture: Interactive Exploration of Distributed 3D Databases over the Internet.
+conf/cgi/DregerGS98:::A. Dreger::Markus H. Gross::J. Schlegel:::Multiresolution Triangular B-Spline Surfaces.
+conf/cgi/Grau98:::Oliver Grau:::3-D Modelling of Buildings using High-Level Knowledge.
+conf/cgi/Cox99:::Donna Cox:::Visualization and Virtual Reality for Art and Science.
+conf/cgi/IpW97:::Horace Ho-Shing Ip::Helena T. F. Wong:::Calligraphic Character Synthesis using Brush Model.
+conf/cgi/Jern98:::Mikael Jern:::"THIN" vs. "FAT" Visualization Client.
+conf/cgi/GengFYP01:::Weidong Geng::Monika Fleischmann::Hongfeng Yu::Yunhe Pan:::Technical Illustration Based on Human-Like Approach.
+conf/cgi/NedelT98:::Luciana Porcher Nedel::Daniel Thalmann:::Real Time Muscle Deformations using Mass-Spring Systems.
+conf/cgi/YagouOB03:::Hirokazu Yagou::Yutaka Ohtake::Alexander G. Belyaev:::Mesh Denoising via Iterative Alpha-Trimming and Nonlinear Diffusion of Normals with Automatic Thresholding.
+conf/cgi/BaumannDHK99:::Konstantin Baumann::Jürgen Döllner::Klaus Hinrichs::Oliver Kersting:::A Hybrid, Hierarchical Data Structure for Real-Time Terrain Visualization.
+conf/cgi/BoseT96:::Prosenjit Bose::Godfried T. Toussaint:::Computing the Constrained Euclidean Geodesic and Link Center of a Simple Polygon with Application.
+conf/cgi/ChoNW96:::Youngkwan Cho::Ulrich Neumann::Jongwook Woo:::Improved Specular Highlights With Adaptive Shading.
+conf/cgi/KwaiterGC98:::Ghassan Kwaiter::Véronique Gaildrat::René Caubet:::Controlling Object Natural Behaviors with a 3D Declarative Modeler.
+conf/cgi/StrothotteMI99:::Thomas Strothotte::Maic Masuch::Tobias Isenberg:::Visualizing Knowledge about Virtual Reconstructions of Ancient Architecture.
+conf/cgi/KoflerGG98:::Michael Kofler::Michael Gervautz::Michael Gruber:::The Styria Flyover - LoD Management for Huge Textured Terrain Models.
+conf/cgi/McLeodW03:::Philip McLeod::Geoff Wyvill:::Visualization of Musical Pitch.
+conf/cgi/KonigLD98:::Matthias König::Christian Lenz::Gitta Domik:::Visualization of Meteorological Data using an Interactive Flight.
+conf/cgi/MikamiT03:::Koji Mikami::Toru Tokuhara:::Diorama Engine - A 3D Directing Tool for 3D Computer Animation Production.
+conf/cgi/FosterM97:::Nick Foster::Dimitris N. Metaxa:::Controlling Fluid Animation.
+conf/cgi/OhmoriK00:::Kenji Ohmori::Tosiyasu L. Kunii:::A Homotopy Model for Cup Lifting.
+conf/cgi/PrautzschU98:::Hartmut Prautzsch::Georg Umlauf:::Improved Triangular Subdivision Schemes.
+conf/cgi/CheungI98:::Kent K. T. Cheung::Horace Ho-Shing Ip:::Image Retrieval in Digital Library Based on Symmetry Detection.
+conf/cgi/ThalmannSC96:::Daniel Thalmann::Jianhua Shen::Eric Chauvineau:::Fast Realistic Human Body Deformations for Animation and VR Applications.
+conf/cgi/Musgrave99:::Ken Musgrave:::Building Worlds in Cyberspace.
+conf/cgi/OliveiraP98:::Manuel Fradinho Duarte de Oliveira::João Madeiras Pereira:::Virtual Worlds - A Virtual Environment Architecture.
+conf/cgi/ThurmerW98:::Grit Thürmer::Charles A. Wüthrich:::Varying Neighborhood Parameters for the Computation of Normals on Surfaces in Discrete Space.
+conf/cgi/BlumbergTD01:::Bruce Blumberg::Bill Tomlinson::Marc Downie:::Multiple Conceptions of Character-Based Interactive Installations.
+conf/cgi/BarreraRSTN03:::Salvador Barrera::Piperakis Romanos::Suguru Saito::Hiroki Takahashi::Masayuki Nakajima:::Real Time Detection Interface For Walking on CAVE.
+conf/cgi/AharaA03:::Kazushi Ahara::Yoshiaki Araki:::Sphairahedral Approach to Parameterize Visible Three Dimensional Quasi-Fuchsian Fractals.
+conf/cgi/TreavettCSJ01:::Steve M. F. Treavett::Min Chen::Richard Satherley::Mark W. Jones:::Volumes of Expression: Artistic Modelling and Rendering of Volume Datasets.
+conf/cgi/GrammalidisS00:::Nikos Grammalidis::Michael G. Strintzis:::Head Detection and Tracking by 2-D and 3-D Ellipsoid Fitting.
+conf/cgi/PatrikalakisABCMRSW00:::Nicholas M. Patrikalakis::Stephen L. Abrams::J. G. Bellingham::W. Cho::K. P. Mihanetzis::Allan R. Robinson::Henrik Schmidt::Pubudu C. H. Wariyapola:::The Digital Ocean.
+conf/cgi/Bar-LevE98:::Adi Bar-Lev::Gershon Elber:::Visibility as an Intrinsic Property of Geometric Models.
+conf/cgi/KawasakiKK03:::Raita Kawasaki::Yoshifumi Kitamura::Fumio Kishino:::Extraction of Motion Individuality in Sports and its Application to Motion of Characters with Different Figures.
+conf/cgi/Gobel98:::Stefan Göbel:::WebVizard: Intelligent System for Geodata Visualization and CBT in the WWW.
+conf/cgi/Wolberg96:::George Wolberg:::Recent Advances in Image Morphing.
+conf/cgi/MiyazakiH99:::Ryuji Miyazaki::Koichi Harada:::Edge Extraction for Adaptive Mesh Construction.
+conf/cgi/SongEMC03:::Meehae Song::Thomas Elias::Wolfgang Müller-Wittig::Tony K. Y. Chan:::Using Virtual Reality to bring Singaporean Heritage to Life.
+conf/chi/Baca97:::Julie Baca:::Displayless Interface Access to Spatial Data: Effects on Speaker Prosodics.
+conf/chi/MacKenzieO97:::I. Scott MacKenzie::Aleks Oniszczak:::The Tactile Touchpad.
+conf/chi/Perkins95:::Ron Perkins:::The Interchange Online Network: Simplifying Information Access.
+conf/chi/MynattRCJ01:::Elizabeth D. Mynatt::Jim Rowan::Sarah Craighill::Annie Jacobs:::Digital family portraits: supporting peace of mind for extended family members.
+conf/chi/PlaisantMRWS96:::Catherine Plaisant::Brett Milash::Anne Rose::Seth Widoff::Ben Shneiderman:::LifeLines: Visualizing Personal Histories.
+conf/chi/BoyarskiHMP95:::Daniel Boyarski::Virginia Howlett::Scott Mathis::David Peters:::Mapping the design process: visualizing what we don't see (panel session).
+conf/chi/RebelskyFHMMO95:::Samuel A. Rebelsky::James Ford::Kenneth Harker::Fillia Makedon::Panagiotis Takis Metaxas::Charles B. Owen:::Interactive multimedia conference proceedings.
+conf/chi/Balka96:::Ellen Balka:::Gender and Skill in Human Computer Interaction.
+conf/chi/DuncanB95:::Anne Smith Duncan::Minette A. Beabes:::Contextual inquiry: grounding your design in user's work.
+conf/chi/BrownM98:::Diane S. Brown::Susan Motte:::Device Design Methodology for Trauma Applications.
+conf/chi/WatsonWH96:::Benjamin Watson::Neff Walker::Larry F. Hodges:::Effectiveness of Spatial Level of Detail Degradation in the Periphery of Head-Mounted Displays.
+conf/chi/TullisP97:::Thomas S. Tullis::Ana Pons:::Designating Required vs. Optional Input Fields.
+conf/chi/SandersN95:::Elizabeth B.-N. Sanders::Elizabeth H. Nutter:::Participatory design practices: a special interest groups (abstract).
+conf/chi/Palen99:::Leysia Palen:::Social, Individual and Technological Issues for Groupware Calendar Systems.
+conf/chi/Fox96:::Jean E. Fox:::The Effects of Information Accuracy on User Trust and Compliance.
+conf/chi/Holst96:::Shirley J. Holst:::Directing Learner Attention with Manipulation Styles.
+conf/chi/FerrinHCPL92:::Thomas E. Ferrin::Conrad C. Huang::Gregory Couch::Eric Pettersen::Robert Langridge:::The MidasPlus molecular modeling system.
+conf/chi/OlsonOFSA97:::Gary M. Olson::Judith S. Olson::George W. Furnas::Elliot Soloway::Daniel E. Atkins:::HCI at the University of Michigan's School of Information.
+conf/chi/AbowdS97:::Gregory D. Abowd::Bill N. Schilit:::Ubiquitous Computing: The Impact on Future Interaction Paradigms and HCI Research.
+conf/chi/RappinGRL97:::Noel Rappin::Mark Guzdial::Matthew Realff::Pete Ludovice:::Balancing Usability and Learning in an Interface.
+conf/chi/RamsayJ97:::Judith Ramsay::Richard Jacques:::Cognitive and Software Solutions for Computer-related Anxiety.
+conf/chi/Fernandes96:::Tony Fernandes:::The Claris Interface Design Group: A Personal Retrospective.
+conf/chi/KerrMST95:::Randy Kerr::Mike Markley::Martin Sonntag::Tandy Trower:::Reno: a component-based user interface.
+conf/chi/ShawLGS92:::Chris Shaw::Jiandong Liang::Mark Green::Yunqi Sun:::The decoupled simulation model for virtual reality systems.
+conf/chi/Strommen98:::Erik Strommen:::When the Interface is a Talking Dinosaur: Learning Across Media with ActiMates Barney.
+conf/chi/Muncher97:::Elizabeth Muncher:::Usability and Requirements: What role can usability professionals play in requirements definition?
+conf/chi/KierasMB01:::David E. Kieras::David Meyer::James A. Ballas:::Towards demystification of direct manipulation: cognitive modeling charts the gulf of execution.
+conf/chi/KierasWM95:::David E. Kieras::Scott D. Wood::David E. Meyer:::Predictive Engineering Models Using the EPIC Architecture for a High-Performance Task.
+conf/chi/CobleKK97:::Janette M. Coble::John Karat::Michael G. Kahn:::Maintaining a Focus on User Requirements Throughout the Development of Clinical Workstation Software.
+conf/chi/HoltzblattB97b:::Karen Holtzblatt::Hugh R. Beyer:::Contextual Design: Using Customer Work Models to Drive Systems Design.
+conf/chi/KaratHHK99:::Clare-Marie Karat::Christine Halverson::Daniel Horn::John Karat:::Patterns of Entry and Correction in Large Vocabulary Continuous Speech Recognition System.
+conf/chi/CarlesonLN97:::Fredrik Carleson::Torbjörn Lundberg::Hans Nässla:::Magazines and Electronic Information Web Channels - The Reader's Point of View.
+conf/chi/Erickson96:::Thomas Erickson:::The Design and Long-Term Use of a Personal Electronic Notebook: A Teflective Analysis.
+conf/chi/Winograd97:::Terry Winograd:::The Design Interaction.
+conf/chi/McGeeCWH02:::David McGee::Philip R. Cohen::R. Matthews Wesson::Sheilah Horman:::Comparing paper and tangible, multimodal tools.
+conf/chi/AraiAH97:::Toshifumi Arai::Dietmar Aust::Scott E. Hudson:::PaperLink: A Technique for Hyperlinking from Real Paper to Electronic Content.
+conf/chi/OConaillF95:::Brid O'Conaill::David Frohlich:::Timespace in the workplace: dealing with interruptions.
+conf/chi/FriedlanderSM97:::Naomi Friedlander::Kevin Schlueter::Marilyn M. Mantei:::Easy Tactile Feedback in Bargain Basement Prices.
+conf/chi/ToyodaS99:::Masashi Toyoda::Etsuya Shibayama:::Hyper Mochi Sheet: A Predictive Focusing Interface for Navigating and Editing Nested Networks Through a Multi-Focus Distortion-Oriented View.
+conf/chi/MullettFS97:::Kevin Mullett::Christopher Fry::Diane J. Schiano:::On Your Marks, Get Set, Browse! (Panel).
+conf/chi/ComstockD96:::Elizabeth M. Comstock::William M. Duane:::Embed User Values in System Architecture: The Declaration of System Usability.
+conf/chi/BharatB95:::Krishna Bharat::Marc H. Brown:::Building a distributed application using visual Obliq.
+conf/chi/Staples95:::Loretta Staples:::Tools &amp; techniques for visual design development (abstract).
+conf/chi/HubscherPGK97:::Roland Hübscher::Sadhana Puntambekar::Mark Guzdial::Janet L. Kolodner:::Integrating Tools into the Classroom.
+conf/chi/Byrne96:::Michael D. Byrne:::A Computational Theory of Working Memory.
+conf/chi/TeelSRB98:::Mary-Marshall Teel::Rachael Sokolowski::David Rosenthal::Matt Belge:::Voice-enabled Structured Medical Reporting.
+conf/chi/Raman96:::T. V. Raman:::Emacspeak - A Speech Interface.
+conf/chi/RectorHFKNNRW92:::Alan L. Rector::Bernard Horan::M. Fitter::S. Kay::P. D. Newton::W. A. Nowlan::D. Robinson::A. Wilson:::User centered development of a general practice medical workstation: the PEN&amp;PAD experience.
+conf/chi/BellottiBEGHL02:::Victoria Bellotti::Maribeth Back::W. Keith Edwards::Rebecca E. Grinter::D. Austin Henderson Jr.::Cristina Videira Lopes:::Making sense of sensing systems: five questions for designers and researchers.
+conf/chi/WilcoxSB92:::Lynn Wilcox::Ian E. Smith::Marcia Bush:::Wordspotting for Voice Editing and Audio Indexing.
+conf/chi/BuyukkoktenGP01:::Orkut Buyukkokten::Hector Garcia-Molina::Andreas Paepcke:::Accordion summarization for end-game browsing on PDAs and cellular phones.
+conf/chi/McDanielM99:::Richard G. McDaniel::Brad A. Myers:::Getting More Cut of Programming-by-Demonstration.
+conf/chi/YarinI99:::Paul Yarin::Hiroshi Ishii:::TouchCounters: Designing Interactive Electronic Labels for Physical Containers.
+conf/chi/JohnsonWJ97:::Peter Johnson::Stephanie Wilson::Hilary Johnson:::Designing User Interfaces from Analyses of Users' Tasks.
+conf/chi/ApollonioCLDG92:::M. A. Apollonio::G. Colasante::P. G. De Luca::A. Diana::A. Gisotti:::YAPO: Yet Another Preview ODA.
+conf/chi/DixRW96:::Alan J. Dix::Devina Ramduny::Julie Wilkinson:::Long-Term Interaction: Learning the 4 Rs.
+conf/chi/PinhanezMB97:::Claudio S. Pinhanez::Kenji Mase::Aaron F. Bobick:::Interval Scripts: a Design Paradigm for Story-Based Interactive Systems.
+conf/chi/MyersLY00:::Brad A. Myers::Kin Pou Lie::Bo-Chieh Yang:::Two-handed input using a PDA and a mouse.
+conf/chi/KurtenbachFBB97:::Gordon Kurtenbach::George W. Fitzmaurice::Thomas Baudel::William Buxton:::The Design of a GUI Paradigm based on Tablets, Two-hands, and Transparency.
+conf/chi/LohseS98:::Gerald L. Lohse::Peter Spiller:::Quantifying the Effect of User Interface Design Features on Cyberstore Traffic and Sales.
+conf/chi/SmithR98:::Brian K. Smith::Brian J. Reiser:::National Geographic Unplugged: Classroom-Centered Design of Interactive Nature Films.
+conf/chi/WixonR95:::Dennis R. Wixon::Judy Ramey:::Field oriented design techniques: case studies and organizing dimensions (abstract).
+conf/chi/KoikeSKTK00:::Hideki Koike::Yoichi Sato::Yoshinori Kobayashi::Hiroaki Tobita::Motoki Kobayashi:::Interactive textbook and interactive Venn diagram: natural and intuitive interfaces on augmented desk system.
+conf/chi/FoggCAE98:::B. J. Fogg::Lawrence D. Cutler::Perry Arnold::Chris Eisbach:::HandJive: A Device for Interpersonal Haptic Entertainment.
+conf/chi/DehaesV95:::Christel Dehaes::Kris Vanstappen:::Integrated software usability services.
+conf/chi/WhitmoreM95:::Mihriban Whitmore::Tim McKay:::Usability testing of Posture Video Analysis Tool.
+conf/chi/Balter00:::Olle Bälter:::Keystroke level analysis of email message organization.
+conf/chi/OsbornA92:::James R. Osborn::Alice M. Agogino:::An Interface for Interactive Spatial Reasoning and Visualization.
+conf/chi/BrownGW98:::Judy Brown::T. C. Nicholas Graham::Timothy N. Wright:::The <i>Vista</i> Environment for the Coevolutionary Design of User Interfaces.
+conf/chi/Lieberman97:::Henry Lieberman:::Autonomous Interface Agents.
+conf/chi/BrownSO00:::Barry A. T. Brown::Abigail Sellen::Kenton O'Hara:::A diary study of information capture in working life.
+conf/chi/Hayes-RothSBHL95:::Barbara Hayes-Roth::Erik Sincoff::Lee Brownston::Ruth Huard::Brian Lent:::Directed improvisation with animated puppets.
+conf/chi/LiCHH97:::Wen-Syan Li::K. Selçuk Candan::Kyoji Hirata::Yoshinori Hara:::IFQ: A Visual Query Interface for Object-based Image Retrieval.
+conf/chi/BergmanEKLRJ96:::Eric Bergman::Alistair D. N. Edwards::Deborah Kaplan::Greg Lowney::T. V. Raman::Earl Johnson:::Universal Design: Everyone has Special Needs.
+conf/chi/RehderLTPR95:::Bob Rehder::Clayton Lewis::Robert B. Terwilliger::Peter G. Polson::John Rieman:::A model of optimal exploration and decision making in novel interfaces.
+conf/chi/MoranCMK95:::Thomas P. Moran::Patrick Chiu::William van Melle::Gordon Kurtenbach:::Implicit Structures for Pen-Based Systems within a Freeform Interaction Paradigm.
+conf/chi/Clarke96:::Steven J. Clarke:::Putting Context into Design.
+conf/chi/GordonKD96:::Andrew Gordon::Smadar Kedar::Eric A. Domeshek:::Interfaces for Managing Access to a Video Archive.
+conf/chi/Ehret97:::Brian D. Ehret:::Representation Without Taxation: What Makes GUI Good.
+conf/chi/MackinlayZ95:::Jock D. Mackinlay::Polle Zellweger:::Browsing vs. search: can we find a synergy? (panel session).
+conf/chi/AmentoHTHJ99:::Brian Amento::William C. Hill::Loren G. Terveen::Deborah Hix::Peter Ju:::An Empirical Evaluation of User Interfaces for Topic Management of Web Sites.
+conf/chi/PierceP02:::Jeffrey S. Pierce::Randy F. Pausch:::Comparing voodoo dolls and HOMER: exploring the importance of feedback in virtual environments.
+conf/chi/Mynatt95:::Elizabeth D. Mynatt:::Transforming graphical interfaces into auditory interfaces.
+conf/chi/MetrosH97:::Susan E. Metros::John G. Hedberg:::Multimedia Visual Interface Design.
+conf/chi/BellottiR97:::Victoria Bellotti::Yvonne Rogers:::From Web Press to Web Pressure: Multimedia Representations and Multimedia Publishing.
+conf/chi/NarayananH97:::N. Hari Narayanan::Mary Hegarty:::Model-Based Design of Hypermedia Presentations.
+conf/chi/Williams96:::David Williams:::Multimedia, Mental Models and Complex Tasks.
+conf/chi/AshlundH96:::Stacey L. Ashlund::Karen J. Horwitz:::Usability Improvements in Lotus cc: Mail for Windows.
+conf/chi/CasadayR95:::George Casaday::Cynthia Raini:::Models, prototypes, and evaluations for HCI design: making the structured approach practical.
+conf/chi/ZhouF98:::Michelle X. Zhou::Steven Feiner:::Visual Task Characterization for Automated Visual Discourse Synthesis.
+conf/chi/AltyRV97:::James L. Alty::Dimitrios I. Rigas::Paul Vickers:::Using Music as a Communication Medium.
+conf/chi/BoreczkyGGU00:::John S. Boreczky::Andreas Girgensohn::Gene Golovchinsky::Shingo Uchihashi:::An interactive comic book presentation for exploring video.
+conf/chi/GutwinGR96a:::Carl Gutwin::Saul Greenberg::Mark Roseman:::Workspace Awareness Support with Radar Views.
+conf/chi/TerveenPT95:::Loren G. Terveen::Elena Papavero::Mark Tuomenoksa:::DynaDesigner: a tool for rapid design and deployment of device-independent interactive services.
+conf/chi/TerveenSH95:::Loren G. Terveen::Markus Stolze::William C. Hill:::From "model world" to "magic world": making graphical objects the medium for intelligent design assistance (abstract).
+conf/chi/SavidisS95:::Anthony Savidis::Constantine Stephanidis:::Developing Dual Interfaces for Integrating Blind and Sighted Users: The HOMER UIMS.
+conf/chi/PlowmanKLST99:::Lydia Plowman::Rosemary Kuckin::Diana Laurillard::Matthew Stratfold::Josie Taylor:::Designing Multimedia for Learning: Narrative Guidance and Narrative Construction.
+conf/chi/Doerry95:::Eckehard Doerry:::Evaluating distributed environments based on communicative efficacy.
+conf/chi/SumnerS98:::Tamara Sumner::Simon Buckingham Shum:::From Documents to Discourse: Shifting Conceptions of Scholarly Publishing.
+conf/chi/Smith96:::Ian E. Smith:::Toolkits for Multimedia Awareness.
+conf/chi/HudsonCKE02:::James M. Hudson::Jim Christensen::Wendy A. Kellogg::Thomas Erickson:::"I'd be overwhelmed, but it's just one more thing to do": availability and interruption in research management.
+conf/chi/Miller-Jacobs92:::Richard Muñoz::Harold H. Miller-Jacobs:::In Search of the Ideal Prototype.
+conf/chi/LohRRGRE98:::Ben Loh::Josh Radinsky::Eric Russell::Louis M. Gomez::Brian J. Reiser::Daniel C. Edelson:::The Progress Portfolio: Designing Reflective Tools for a Classroom Context.
+conf/chi/DarkenS96:::Rudolph P. Darken::John L. Sibert:::Wayfinding Strategies and Behaviors in Large Virtual Worlds.
+conf/chi/Meyer96:::Jonathan Meyer:::EtchaPad - Disposable Sketch Based Interfaces.
+conf/chi/Damer97a:::Bruce Damer:::Interacting and Designing in Virtual Worlds on the Internet.
+conf/chi/TsukaharaW01:::Wataru Tsukahara::Nigel Ward:::Responding to subtle, fleeting changes in the user's internal state.
+conf/chi/ShafrirG97:::Eviatar Shafrir::Lee Smith Responsive Graphs:::Understanding Engineering Concepts Through Interactive Experience.
+conf/chi/BhavnaniJ98:::Suresh K. Bhavnani::Bonnie E. John:::Delegation and Circumvention: Two Faces of Efficiency.
+conf/chi/ThorissonKB92:::Kristinn R. Thórisson::David B. Koons::Richard A. Bolt:::Multi-Modal Natural Dialogue.
+conf/chi/KurosuK95:::Masaaki Kurosu::Kaori Kashimura:::Apparent usability vs. inherent usability: experimental analysis on the determinants of the apparent usability.
+conf/chi/JornaWGKMMMM97:::Gerard Jorna::Mirjam Wouters::Paul Gardien::Hans Kemp::Jack Mama::Irene Mavromati::Ian McClelland::Linda Vodegel Matzen:::The Multimedia Library: The Center of an Information-Rich Community.
+conf/chi/BassSSS95:::Leonard J. Bass::Daniel P. Siewiorek::Asim Smailagic::John Stivoric:::On site wearable computer system.
+conf/chi/FoggN97:::B. J. Fogg::Clifford Nass:::How Users Reciprocate to Computers: An experiment that demonstrates behavior change.
+conf/chi/FoggT99:::B. J. Fogg::Hsiang Tseng:::The Elements of Computer Credibility.
+conf/chi/OviattDK97:::Sharon L. Oviatt::Antonella DeAngeli::Karen Kuhn:::Integration and Synchronization of Input Modes during Multimodal Human-Computer Interaction.
+conf/chi/ZhaiMI99:::Shumin Zhai::Carlos Morimoto::Steven Ihde:::Manual and Gaze Input Cascaded (MAGIC) Pointing.
+conf/chi/VertegaalSVN01:::Roel Vertegaal::Robert Slagter::Gerrit C. van der Veer::Anton Nijholt:::Eye gaze patterns in conversations: there is more the conversational agents than meets the eyes.
+conf/chi/AndrewsKM95:::Keith Andrews::Frank Kappe::Hermann A. Maurer:::Hyper-G and harmony: towards the next generation of networked information technology.
+conf/chi/MonkW95:::Andrew F. Monk::Leon Watts:::A poor quality video link affects speech but not gaze.
+conf/chi/HillHWM92:::William C. Hill::James D. Hollan::David A. Wroblewski::Tim McCandless:::Edit Wear and Read Wear.
+conf/chi/CareyMPL98:::Tom Carey::Slade Mitchell::Dan Peerenboom::Mary Lytwyn:::Design Evolution in a Multimedia Tutorial on User-Centered Design.
+conf/chi/DamerKH96:::Bruce Damer::Christina Kekenes::Terrel Hoffman:::Inhabited Digital Spaces.
+conf/chi/GutwinG96:::Carl Gutwin::Saul Greenberg:::Workspace Awareness for Groupware.
+conf/chi/GutwinR96:::Carl Gutwin::Mark Roseman:::A Usability Study of Workspace Awareness Widgets.
+conf/chi/WhisenandE95:::Thomas G. Whisenand::Henry H. Emurian:::Some effects of angle of approach on icon selection.
+conf/chi/WittenburgS97:::Kent Wittenburg::Eric Sigman:::Integration of Browsing, Searching, and Filtering in an Applet for Web Information Access.
+conf/chi/GongL01:::Li Gong::Jennifer Lai:::Shall we mix synthetic speech and human speech?: impact on users' performance, perception, and attitude.
+conf/chi/Mackay95:::Wendy E. Mackay:::Ethics, Lies and Videotape...
+conf/chi/BrushBGC01:::A. J. Bernheim Brush::David Bargeron::Anoop Gupta::Jonathan J. Cadiz:::Robust annotation positioning in digital documents.
+conf/chi/KarnPK97:::Keith S. Karn::Thomas J. Perry::Marc J. Krolczyk:::Testing for Power Usability.
+conf/chi/MeyerSSMW97:::Beth Meyer::Richard A. Sit::Victoria A. Spaulding::Sherry E. Mead::Neff Walker:::Age Group Differences in World Wide Web Navigation.
+conf/chi/SpoolS97:::Jared M. Spool::Tara Scanlon:::Measuring Website Usability.
+conf/cia/DurfeeMPVW98:::Edmund H. Durfee::Tracy Mullen::Sunju Park::José M. Vidal::Peter Weinstein:::The Dynamics of the UMDL Service Market Society.
+conf/cia/Wellman99:::Michael P. Wellman:::Agents and Electronic Commerce: Mechanisms and Protocols (Abstract).
+conf/cia/CaoBH97:::Wen Cao::Cheng-Gang Bian::Gunnar Hartvigsen:::Achieving Efficient Cooperation in a Multi-Agent System: the Twin-Base Modeling.
+conf/cia/BrandtBW00:::Felix Brandt::Wilfried Brauer::Gerhard Weiß:::Task Assignment in Multiagent Systems Based on Vickrey-Type Auctioning and Leveled Commitment Contracting.
+conf/cia/WongZK00:::Wai Yat Wong::Dong Mei Zhang::Mustapha Kara-Ali:::Towards an Experience-Based Negotiation Agent.
+conf/cia/KitamuraST02:::Yasuhiko Kitamura::Toshiki Sakamoto::Shoji Tatsumi:::A Competitive Information Recommendation System and Its Behavior.
+conf/cia/CarlssonG01:::Bengt Carlsson::Rune Gustavsson:::Arms Race within Information Ecosystems.
+conf/cia/MontanariTS02:::Rebecca Montanari::Gianluca Tonti::Cesare Stefanelli:::Programming Agent Mobility.
+conf/cia/GuttmanM98:::Robert H. Guttman::Pattie Maes:::Cooperative vs. Competitive Multi-Agent Negotiations in Retail Electronic Commerce.
+conf/cia/ManouselisM01:::Nikos Manouselis::Nikos F. Matsatsinis:::Introducing a Multi-agent, Multi-criteria Methodology for Modeling Electronic Consumer's Behavior: The Case of Internet Radio.
+conf/cia/Castelfranchi01:::Cristiano Castelfranchi:::Information Agents: The Social Nature of Information and the Role of Trust.
+conf/cia/BerndtssonCL97:::Mikael Berndtsson::Sharma Chakravarthy::Brian Lings:::Result Sharing Among Agents Using Reactive Rules.
+conf/cia/JonkerTL99:::Catholijn M. Jonker::Jan Treur::Remco A. Lam:::A Multi-agent Architecture for an Intelligent Website in Insurance.
+conf/cia/VoglerMK98:::Hartmut Vogler::Marie-Luise Moschgarth::Thomas Kunkelmann:::Enhancing Mobile Agents with Electronic Commerce Capabilities.
+conf/cia/MitaimK97:::Sanya Mitaim::Bart Kosko:::Neural Fuzzy Agents for Database Search.
+conf/cia/Parunak98:::H. Van Dyke Parunak:::What Can Agents Do in Industry, and Why? An Overview of Industrially-Oriented R&amp;D at CEC.
+conf/cia/StaabBBDHKNPPSSUW99:::Steffen Staab::Christian Braun::Ilvio Bruder::Antje Düsterhöft::Andreas Heuer::Meike Klettke::Günter Neumann::Bernd Prager::Jan Pretzel::Hans-Peter Schnurr::Rudi Studer::Hans Uszkoreit::Burkhard Wrenger:::GETESS - Searching the Web Exploiting German Texts.
+conf/cia/VieiraC99:::Walter Vieira::Luis M. Camarinha-Matos:::Execution Monitoring in Adaptive Mobile Agents.
+conf/cia/CabriLZ00:::Giacomo Cabri::Letizia Leonardi::Franco Zambonelli:::Auction-Based Agent Negotiation via Programmable Tuple Spaces.
+conf/cia/HadadK01:::Meirav Hadad::Sarit Kraus:::A Mechanism for Temporal Reasoning by Collaborative Agents.
+conf/cia/HadadK02:::Meirav Hadad::Sarit Kraus:::Exchanging and Combining Temporal Information in a Cooperative Environment.
+conf/cic/DvorskyKSS03:::Jiri Dvorský::Michal Krátký::Tomás Skopal::Václav Snásel:::Term Indexing in Information Retrieval Systems.
+conf/cim/Leimkuhler83:::Ferdinand F. Leimkuhler:::Economic Analysis of Computer Integrated Manufacturing Systems.
+conf/cim/CividiniVG83:::Marco Cividini::Giuseppe Villa::Maria L. Gini:::Programming a Vision System.
+conf/cim/RemboldE83:::Ulrich Rembold::Wolfgang K. Epple:::Present State and Future Trends in the Development of Programming Languages for Manufacturing.
+conf/cim/SpurKG83a:::Günter Spur::Frank-Lothar Krause::W. Grottke:::Planning of Assembly Sequences.

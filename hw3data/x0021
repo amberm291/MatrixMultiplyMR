@@ -1,0 +1,200 @@
+conf/fpl/HoffmannUVW00:::Rolf Hoffmann::Bernd Ulmann::Klaus-Peter Völkmann::Stefan Waldschmidt:::A Stream Processor Architecture Based on the Configurable CEPRA-S.
+conf/fpl/KastrupMN99:::Bernardo Kastrup::Jef L. van Meerbergen::Katarzyna Nowak:::Seeking (the right) Problems for the Solutions of Reconfigurable Computing.
+conf/fpl/PetersenH95:::Russell J. Petersen::Brad L. Hutchings:::An Assessment of the Suitability of FPGA-Based Systems for Use in Digital Signal Processing.
+conf/fpl/HaritaogluA94:::Ismail Haritaoglu::Cevdet Ayakanat:::A Global Routing Heuristic for FPGAs Based on Mean Field Annealing.
+conf/fpl/CerdaGHS03:::Joaquín Cerdá::Rafael Gadea Gironés::Vicente Herrero::Angel Sebastia:::On the Implementation of a Margolus Neighborhood Cellular Automata on FPGA.
+conf/fpl/EggersLDM96:::Holger Eggers::Patrick Lysaght::Hugh Dick::Gordon McGregor:::Fast Reconfigurable Crossbar Switching in FPGAs.
+conf/fpl/SimpsonHWHM01:::Albert Simpson::Jill Hunter::Moira Wylie::Yi Hu::David Mann:::Demonstrating Real-Time JPEG Image Compression-Decompression Using Standard Component IP Cores on a Programmable Logic Based Platform for DSP and Image Processing.
+conf/fpl/StefoNFMJ01:::Riad Stefo::Jose Luis Nunez::Claudia Feregrino::Sudipta Mahapatra::Simon Jones:::FPGA-Based Modelling Unit for High Speed Lossless Arithmetic Coding.
+conf/fpl/CadambiG01:::Srihari Cadambi::Seth Copen Goldstein:::Static Profile-Driven Compilation for FPGAs.
+conf/fpl/SassatelliTGCD01:::Gilles Sassatelli::Lionel Torres::Jérôme Galy::Gaston Cambon::Camille Diou:::The Systolic Ring: A Dynamically Reconfigurable Architecture for Embedded Systems.
+conf/fpl/CalmonFVGCF02:::F. Calmon::M. Fathallah::P. J. Viverge::C. Gontrand::Jordi Carrabina::P. Foussier:::FPGA and Mixed FPGA-DSP Implementations of Electrical Drive Algorithms.
+conf/fpl/QuisquaterSRDL02:::Jean-Jacques Quisquater::Francois-Xavier Standaert::Gael Rouvroy::Jean-Pierre David::Jean-Didier Legat:::A Cryptanalytic Time-Memory Tradeoff: First FPGA Implementation.
+conf/fpl/DanekM99:::Martin Danek::Zdenek Muzikár:::Global Routing Models.
+conf/fpl/AmanoSU00:::Hideharu Amano::Yuichiro Shibata::Masaki Uno:::Reconfigurable Systems: New Activities in Asia.
+conf/fpl/MiyajimaM03:::Yosuke Miyajima::Tsutomu Maruyama:::A Real-Time Stereo Vision System with FPGA.
+conf/fpl/VicenteLH99:::Juan de Vicente::Juan Lanchares::Román Hermida:::Placement Optimization Based on Global Routing Updating for System Partitioning onto Multi-FPGA Mesh Topologies.
+conf/fpl/KoboriM02:::Tomoyoshi Kobori::Tsutomu Maruyama:::High Speed Computation of Three Dimensional Cellular Automata with FPGA.
+conf/fpl/DavidCPS02:::Raphaël David::Daniel Chillet::Sébastien Pillement::Olivier Sentieys:::A Compilation Framework for a Dynamically Reconfigurable Architecture.
+conf/fpl/KumarL03:::Vinu Vijay Kumar::John Lach:::Designing, Scheduling, and Allocating Flexible Arithmetic Components.
+conf/fpl/KuzmanovV03:::Georgi Kuzmanov::Stamatis Vassiliadis:::Arbitrating Instructions in an pmu-Coded CCM.
+conf/fpl/Kasperek01:::Jerzy Kasperek:::Real Time Morphological Image Contrast Enhancement in Virtex FPGA.
+conf/fpl/SuyamaYS96:::Takayuki Suyama::Makoto Yokoo::Hiroshi Sawada:::Solving Satisfiability Problems on FPGAs.
+conf/fpl/Beaumont95:::Christophe Beaumont:::Using FPGAs as Control Support in MIMD Executions.
+conf/fpl/SulimmaSK99:::Kolja Sulimma::Dominik Stoffel::Wolfgang Kunz:::Accelerating Boolean Implications with FPGAs.
+conf/fpl/McCaskillW00:::John S. McCaskill::Patrick Wagler:::From Reconfigurability to Evolution in Construction Systems: Spanning the Electronic, Microfluidic and Biomolecular Domains.
+conf/fpl/ServitM94:::Michal Servít::Zdenek Muzikár:::Integrated Layout Synthesis for FPGAs.
+conf/fpl/StandaertOSQ03:::François-Xavier Standaert::Loïc van Oldeneel tot Oldenzeel::David Samyde::Jean-Jacques Quisquater:::Power Analysis of FPGAs: How Practical is the Attack?
+conf/fpl/YamaguchiMMK02:::Yoshiki Yamaguchi::Yosuke Miyajima::Tsutomu Maruyama::Akihiko Konagaya:::High Speed Homology Search Using Run-Time Reconfiguration.
+conf/fpl/GokhaleDDBPH02:::Maya Gokhale::Dave Dubois::Andy Dubois::Mike Boorman::Steve Poole::Vic Hogsett:::Granidt: Towards Gigabit Rate Network Intrusion Detection Technology.
+conf/fpl/CorsonelloPIC03:::Pasquale Corsonello::Stefania Perri::Maria Antonia Iachino::Giuseppe Cocorullo:::Variable Precision Multipliers for FPGA-Based Reconfigurable Computing Systems.
+conf/fpl/TeifelM03:::John Teifel::Rajit Manohar:::Programmable Asynchronous Pipeline Arrays.
+conf/fpl/TessierG00:::Russell Tessier::Heather Giza:::Balancing Logic Utilization and Area Efficiency in FPGAs.
+conf/fpl/MiyazakiSKMT98:::Toshiaki Miyazaki::Kazuhiro Shirakawa::Masaru Katayama::Takahiro Murooka::Atsushi Takahara:::A Transmutable Telecom System.
+conf/fpl/BrebnerD01:::Gordon J. Brebner::Oliver Diessel:::Chip-Based Reconfigurable Task Management.
+conf/fpl/SchmidtK03:::Christian Schmidt::Andreas Koch:::Fast Region Labeling on the Reconfigurable Platform ACE-V.
+conf/fpl/DalyMKP03:::Alan Daly::William P. Marnane::Tim Kerins::Emanuel Popovici:::Fast Modular Division for Application in ECC on Reconfigurable Logic.
+conf/fpl/ManohararajahBBV02:::Valavan Manohararajah::Terry Borer::Stephen Dean Brown::Zvonko G. Vranesic:::Automatic Partitioning for Improved Placement and Routing in Complex Programmable Logic Devices.
+conf/geo/KolmanicG00:::Simon Kolmanic::Nikola Guid:::The Flattening of Arbitrary Surfaces by Approximation with Developable Stripes.
+conf/geo/BonteGR00:::T. Bonte::A. Galimberti::Caterina Rizzi:::A 3D Graphic Environment for Garments Design.
+conf/geo/SolanoB00:::Lluis Solano::Pere Brunet:::Distance Constraint Satisfaction Based on Geometric Relaxation.
+conf/fse/Preneel93:::Bart Preneel:::Design Principles for Dedicated Hash Functions.
+conf/fse/FullerM03:::Joanne Fuller::William Millan:::Linear Redundancy in S-Boxes.
+conf/fse/Gollmann93:::Dieter Gollmann:::Cryptanalysis of Clock Controlled Shift Registers.
+conf/fse/Nyberg93:::Kaisa Nyberg:::New Bent Mappings Suitable for Fast Implementation.
+conf/fse/Biryukov03:::Alex Biryukov:::Analysis of Involutional Ciphers: Khazad and Anubis.
+conf/fse/Safavi-NainiBC98:::Reihaneh Safavi-Naini::Shahram Bakhtiari::Chris Charnes:::MRD Hashing.
+conf/fse/Vaudenay99:::Serge Vaudenay:::On the Security of CS-Cipher.
+conf/fse/Lim99:::Chae Hoon Lim:::A Revised Version of Crypton - Crypton V1.0.
+conf/fse/Tao93:::Ren-ji Tao:::On Finite Automaton One-Key Cryptosystems.
+conf/fse/DaemenKR97:::Joan Daemen::Lars R. Knudsen::Vincent Rijmen:::The Block Cipher Square.
+conf/fse/Geiselmann96:::Willi Geiselmann:::A Note on the Hash Function of Tillich and Zémor.
+conf/fse/BihamFMR01:::Eli Biham::Vladimir Furman::Michal Misztal::Vincent Rijmen:::Differential Cryptanalysis of Q.
+conf/fse/KatzY00:::Jonathan Katz::Moti Yung:::Unforgeable Encryption and Chosen Ciphertext Secure Modes of Operation.
+conf/fse/HongSMLL01:::Deukjo Hong::Jaechul Sung::Shiho Moriai::Sangjin Lee::Jongin Lim:::Impossible Differential Cryptanalysis of Zodiac.
+conf/fse/Saarinen03:::Markku-Juhani Olavi Saarinen:::Cryptanalysis of Block Ciphers Based on SHA-1 and MD5.
+conf/fse/NakaharaPV00:::Jorge Nakahara Jr.::Bart Preneel::Joos Vandewalle:::Linear Cryptanalysis of Reduced-Round Versions of the SAFER Block Cipher Family.
+conf/fse/MoriaiSK98:::Shiho Moriai::Takeshi Shimoyama::Toshinobu Kaneko:::Higher Order Differential Attak of CAST Cipher.
+conf/fse/KaliskiR93:::Burton S. Kaliski Jr.::Matthew J. B. Robshaw:::Fast Block Cipher Proposal.
+conf/fse/Lucks98:::Stefan Lucks:::Attacking Triple Encryption.
+conf/fse/IwataK00:::Tetsu Iwata::Kaoru Kurosawa:::On the Pseudorandomness of the AES Finalists - RC6 and Serpent.
+conf/fse/MihaljevicFI00:::Miodrag J. Mihaljevic::Marc P. C. Fossorier::Hideki Imai:::A Low-Complexity and High-Performance Algorithm for the Fast Correlation Attack.
+conf/fse/Knudsen94:::Lars R. Knudsen:::Truncated and Higher Order Differentials.
+conf/fse/DingNRS97:::Cunsheng Ding::Valtteri Niemi::Ari Renvall::Arto Salomaa:::TWOPRIME: A Fast Stream Ciphering Algorithm.
+conf/fse/SchneierW97:::Bruce Schneier::Doug Whiting:::Fast Software Encryption: Designing Encryption Algorithms for Optimal Software Speed on the Intel Pentium Processor.
+conf/fse/Fluhrer01:::Scott R. Fluhrer:::Cryptanalysis of the Mercy Block Cipher.
+conf/fse/Klapper94:::Andrew Klapper:::Feedback with Carry Shift Registers over Finite Fields (extended abstract).
+conf/fse/YeomPK02:::Yongjin Yeom::Sangwoo Park::Iljun Kim:::On the Security of CAMELLIA against the Square Attack.
+conf/fse/HongLLSCC00:::Seokhie Hong::Sangjin Lee::Jongin Lim::Jaechul Sung::Donghyeon Cheon::Inho Cho:::Provable Security against Differential and Linear Cryptanalysis for the SPN Structure.
+conf/gis/SorokineA00:::Alexandre Sorokine::Kurt Ackermann:::Scripting in GIS applications: experimental standards-based framework for perl.
+conf/gis/SaranAASS96:::Amitabh Saran::Divyakant Agrawal::Amr El Abbadi::Terence R. Smith::Jianwen Su:::Scientific Modeling Using Distributed Resources.
+conf/gis/AimeBM99:::Andrea Aime::Flavio Bonfatti::Paola Daniela Monari:::Making GIS Closer to End Users of Urban Environment Data.
+conf/gis/MedeirosC95:::Claudia Bauzer Medeiros::Mariano Cilia:::Maintenance of Binary Topological Constraints Through Active Databases.
+conf/gis/BreunigCMS01:::Martin Breunig::Armin B. Cremers::Wolfgang Müller::Jörg Siebeck:::New Methods for Topological Clustering and Spatial Access in Object-Oriented 3D Databases.
+conf/gis/HopeCL00:::Martin Hope::Tom Chrisp::Nigel Linge:::Improving co-operative working in the utility industry through mobile context aware geographic information systems.
+conf/gis/CoorsF98:::Volker Coors::Sascha Flick:::Integrating Levels of Detain in a Web-Nased 3d-GIS.
+conf/gis/BertolottoE99:::Michela Bertolotto::Max J. Egenhofer:::Progressive Vector Transmission.
+conf/gis/Freksa92:::Christian Freksa:::Using Orientation Information for Qualitative Spatial Reasoning.
+conf/gis/NittelYM96:::Silvia Nittel::Jiong Yang::Richard R. Muntz:::Mapping a Common Geoscientific Object Model to Heterogeneous Spatial Data Repositories.
+conf/gis/RakkolainenPH98:::Ismo Rakkolainen::Simo Pulkkinen::Arttu Heinonen:::Visualizing Real-Time GPS Data with Internet's VRML Worlds.
+conf/gis/dOnofrioP01:::Alberto d'Onofrio::Elaheh Pourabbas:::Formalization of Temporal Thematic Map Contents.
+conf/gis/GimelfarbK98:::Georgy L. Gimel'farb::Nelley M. Kovalevskaya:::Computational Image Models for GIS Analysis: Texture Modeling as a Tool for Thematic Mapping.
+conf/gis/BrodeurBP00:::Jean Brodeur::Yvan Bédard::Marie-Josée Proulx:::Modelling geospatial application databases using UML-based repositories aligned with international standards in geomatics.
+conf/gis/LodhaV00:::Suresh K. Lodha::Arvind K. Verma:::Spatio-temporal visualization of urban crimes on a GIS grid.
+conf/gis/BeckerHH00:::Ludger Becker::Stefan Hammelbeck::Klaus Hinrichs:::Design and implementation of an interoperable GIS-interface for grid data.
+conf/gis/Jungert92:::Erland Jungert:::The Observer's Point of View: An Extension of Symbolic Projections.
+conf/gis/HuangJR96:::Yun-Wu Huang::Ning Jing::Elke A. Rundensteiner:::Path Queries for Transportation Networks: Dynamic Reordering and Sliding Window Paging Techniques.
+conf/gis/LeuteneggerSL00:::Scott T. Leutenegger::Rostislav M. Sheykhet::Mario A. Lopez:::A mechanism to detect changing access patterns and automatically migrate distributed R-tree indexed multidimensional data.
+conf/gis/BorgesLD99:::Karla A. V. Borges::Alberto H. F. Laender::Clodoveu A. Davis:::Spatial Data Integrity Constraints in Object Oriented Geographic Data Modeling.
+conf/gis/WhighamMD92:::P. A. Whigham::R. I. McKay::J. R. Davis:::Machine Induction of Geospatial Knowledge.
+conf/gis/Gaede95:::Volker Gaede:::Geometric Information Makes Spatial Query Processing More Efficient.
+conf/gis/EgenhoferA92:::Max J. Egenhofer::Khaled K. Al-Taha:::Reasoning about Gradual Changes of Topological Relationships.
+conf/gis/SymanzikMC96:::Jürgen Symanzik::James J. Majure::Dianne Cook:::The Linked ArcView 2.1 and XGobi Environment - GIS, Dynamic Statistical Graphics, and Spatial Data.
+conf/gis/DavisL99:::Clodoveu A. Davis::Alberto H. F. Laender:::Multiple Representations in GIS: Materialization Through Map Generalization, Geometric, and Spatial Analysis Operations.
+conf/gis/HadzilacosT92:::Thanasis Hadzilacos::Nectaria Tryfona:::A Model for Expressing topological Integrity Constraints in Geographic Databases.
+conf/gis/SheikholeslamiZB97:::Gholamhosein Sheikholeslami::Aidong Zhang::Ling Bian:::Geographical Image Classification and Retrieval.
+conf/gis/KaracapilidisPE95:::Nikos I. Karacapilidis::Dimitris Papadias::Max J. Egenhofer:::Collaborative Spatial Decision Making with Qualitative Constraints.
+conf/hcc/Sloane98:::Andy Sloane:::Infrastructure issues for internet broadcasting to home-based users.
+conf/hcc/Okunoye02:::Adekunle Okunoye:::Towards a Framework for Sustainable Knowledge Management in Organisations in Developing Countries.
+conf/hcc/Kling02:::Rob Kling:::Critical Professional Discourses About Information and Communications Technologies and Social Life in the U.S..
+conf/hcc/Karvalics02:::László Z. Karvalics:::The Security Aspect of Information Society as a Global Biocultural System.
+conf/hcc/ClementGJS02:::Andrew Clement::Robert Guerra::Jeff Johnson::Felix Stalder:::National Identification Schemes (Nids): A Remedy Against Terrorist Attack?
+conf/hcc/Jarvinen98:::Pertti Järvinen:::Improving the quality of drawings.
+conf/gmp/ZhangZC00:::Pifu Zhang::Caiming Zhang::Fuhua Cheng:::Constrained Shape Scaling of Multi-Surface Objects.
+conf/gmp/Kaufman02:::Arie E. Kaufman:::Accelerated Volume Graphics.
+conf/gmp/YuZ00:::K. M. Yu::W. M. Zhu:::Dimension-Driven Parameterized Design of Free Form Objects.
+conf/gmp/ArmstrongMOP00:::C. G. Armstrong::R. M. McKeag::H. Ou::M. A. Price:::Geometric Processing for Analysis.
+conf/gmp/BajajXW02:::Chandrajit L. Bajaj::Guoliang Xu::Joe D. Warren:::Acoustics Scattering on Arbitrary Manifold Surfaces.
+conf/gmp/OhtakeBB00:::Yutaka Ohtake::Alexander G. Belyaev::Ilia A. Bogaevski:::Polyhedral Surface Smoothing with Simultaneous Mesh Regularization.
+conf/gmp/GardanG03:::Nicolas Gardan::Yvon Gardan:::A Web-Based System Using Trade Knowledge.
+conf/gmp/LabsikHG00:::Ulf Labsik::Kai Hormann::Günther Greiner:::Using Most Isometric Parametrizations for Remeshing Polygonal Surfaces.
+conf/gmp/BerglundJS03:::Tomas Berglund::Håkan Jonsson::Inge Söderkvist:::An Obstacle-Avoiding Minimum Variation B-Spline Problem.
+conf/gmp/ChionhZG00:::Eng-Wee Chionh::Ming Zhang::Ronald N. Goldman:::Implicitization by Dixon A-Resultants.
+conf/gmp/CameronP00:::Stephen Cameron::Joe Pitt-Francis:::Proximity Queries for Modeling and Manufacturing.
+conf/hci/KatoWI93:::Hirokazu Kato::Sanae Wake::Seiji Inokuchi:::Cooperative Musical Partner System: JASPER (Jam Session Partner).
+conf/hci/BrazierR93:::Frances M. T. Brazier::Zsófia Ruttkay:::Modelling Collective User Satisfaction.
+conf/hci/Beck93:::Astrid Beck:::User Participation in systems Design - Results of a Field Study.
+conf/hci/SkybergSEVG97:::Knut Skyberg::Knut Skulberg::Wijnand Eduard::Arnt I. Vistnes::Lars Ole Goffeng:::Electric Fields, Dust and Health Problems Among VDU-Users in an Office Environment: An Intervention Program.
+conf/hci/ZimolongK93:::B. Zimolong::Udo Konradt:::Interactive Support System for Maintenance and Repair: Diagnosis Strategies.
+conf/hci/WaflerGRW97:::Toni Wäfler::Gudela Grote::Cornelia Ryser::Anna Windischer:::Complementary Function Allocation for Scheduling Tasks.
+conf/hci/Chen99:::Chaomei Chen:::The StarWalker virtual environment - an integrative design for social navigation.
+conf/hci/AraiYIHU97:::Yoshiaki Arai::Yoshimichi Yonezawa::Kazunori Itoh::Masami Hashimoto::Yoshihisa Ushiyama:::An Input Interface System Using VEP for the Physically Challenged.
+conf/hci/QuintanarCM87:::Leo R. Quintanar::Charles R. Crowell::Patrick J. Moskal:::The interactive Computer as a Social Stimulus in Human-Computer Interactions.
+conf/hci/GlinertGS87:::Ephraim P. Glinert::Jakob Gonezarowski::Craig D. Smith:::An Integrated Approach to Solving Visual Programming's Problems.
+conf/hci/Cierjacks99:::Martin Cierjacks:::Acquiring Tasks: A Better Way Than Asking?.
+conf/hci/CrosbyC97:::Martha E. Crosby::David N. Chin:::Evaluating Multi-User Interfaces (EMI).
+conf/hci/CrosbyC99:::Martha E. Crosby::David N. Chin:::Investigating User Comprehension of Complex Multi-user Interfaces.
+conf/hci/ParamythisSSS99:::Alex Paramythis::Michael Sfyrakis::Anthony Savidis::Constantine Stephanidis:::Non-visual web browsing: lessons learned from the AVANTI case study.
+conf/hci/Fach99:::Peter W. Fach:::Design Patterns: Bridges Between Application Domain and Software Labs.
+conf/hci/BurmesterPRW99:::Michael Burmester::Axel Platz::Udo Rudolph::Brigitte Wild:::Aesthetic design - just an add on?
+conf/hci/Czerwinski99a:::Mary Czerwinski:::Trends in Future Web Designs.
+conf/hci/HutchingsHC93:::Gerard Hutchings::Wendy Hall::Christopher J. Colbourn:::A Model of Learning with Hypermedia Systems.
+conf/hci/Cohill93:::Andrew M. Cohill:::Information Tools: A New Approach to Interface Design and Development.
+conf/hci/CakirC93:::Gisela Çakir::Ahmet Çakir:::Image Processing of Office Documents - Ergonomic Evaluation of the User Interface of a New System.
+conf/hci/Lee99:::Seongil Lee:::A study on perceptual responses to electrocutaneous stimulation for blind access to computers with graphical user interfaces.
+conf/hci/Lin99:::Rungtai Lin:::Cultural Differences in Icon Recognition.
+conf/hci/Brewster99:::Stephen A. Brewster:::Sound in the interface to a mobile computer.
+conf/hci/Horie97:::Yoshinori Horie:::Fundamental Study on Optimum Working Posture of VDT Workers from the View Point of EMG.
+conf/hci/Imaz99:::Manuel Imaz:::Designing Interactions through Meaning.
+conf/hci/KitakazeAIF99:::Seiji Kitakaze::Yoshinori Arifuku::Tatsuro Imaoka::Shin'ichi Fukuzumi:::Study of Adaptive Input System for Telecommunication Terminal - Evaluation of Discriminant which Controls Computer key-input -.
+conf/hci/KirbyH93:::John Kirby::Heather Heathfield:::An Analysis Technique for User Centered Design.
+conf/hci/LeclercM93:::S. Leclerc::S. de Maisonneuve:::Natural Language as Object and Medium in Computer-Based Learning.
+conf/hci/PrevotC99:::Thomas Prevot::Barry Crane:::A vertical situation display for automated aircraft - design and evaluation in full mission simulation.
+conf/hci/MertinsSC93:::Kai Mertins::Burkhard Schallock::M. Carbon:::Production Management Software Suitable for Group Work.
+conf/hci/VendaL97:::Valery F. Venda::S. S. Lim:::Ergonomic Evaluation of Manual Assembly Operations Using Direct and Indirect Observation Workstations in Sitting and Standing Positions.
+conf/hci/Miki99:::Hiroyuki Miki:::Designing awareness for multipurpose remote branch terminals.
+conf/hci/UchidaT97:::Tomoyuki Uchida::Hidehiko Tanaka:::An Automatic Document Coloring and Browsing System.
+conf/hci/BiksonECM97:::Tora K. Bikson::J. D. Eveland::S. Cohen::D. Mankin:::Knowledge-Based Teams: Technology, Reinvention and Critical Process Redesign.
+conf/hci/KollerW97:::Franz Koller::Andrea Wöhr:::Navigation Design for Interactive Multimedia.
+conf/hci/Conway99:::Frank T. Conway:::Compensable injuries due to repetitive motion in computerized office work.
+conf/hci/VartiainenKPN97:::Matti Vartiainen::Jyrki J. J. Kasvi::Anneli Pulkkis::Marko Nieminen:::The Role of Information Support Systems in the Joint Optimization.
+conf/hci/BismarckH99:::Wolf-Bertram von Bismarck::Markus Held:::Is informal communication needed, wanted and supported?
+conf/hci/SearsB99:::Andrew Sears::Janet Bishof-Risario:::Redesigning speech recognition for use by individuals with spinal cord injuries.
+conf/hci/Maurer99:::Hermann A. Maurer:::A critical look at web based training efforts.
+conf/hci/Niemeier99:::Joachim Niemeier:::Networking Companies: from basic web services to business solutions.
+conf/hci/DijkstraHD93:::Alice Dijkstra::Carla Huls::Han Damen:::User Responses to an Editor Supporting Syntactic Selection Method.
+conf/hci/Stephanidis99:::Constantine Stephanidis:::Universal access in the information society.
+conf/hci/Seki99:::Yoshikazu Seki:::Systematic auditory training of obstacle sense for the visually impaired by using acoustical VR system.
+conf/hci/TokudaMTL99:::Y. Tokuda::T. Murakami::Y. Tanaka::E. S. Lee:::A New Integrated Support Environment for Requirements Analysis of User Interface Development.
+conf/hci/Boyce97:::Susan J. Boyce:::Designing the User Interface for a Natural Spoken Dialogue System.
+conf/hci/SavidisAS97:::Anthony Savidis::Demosthenes Akoumianakis::Constantine Stephanidis:::Software Architecture for Transformable Interface Implementations: Building User-Adapted Interactions.
+conf/hci/RomahnP99:::Stephan Romahn::Everett A. Palmer:::Design and evaluation of air traffic control support tools.
+conf/hci/Seeley87:::D. A. Seeley:::An Object-oriented Reference Model for User Interface Design, Hypertext and Collaboration.
+conf/hci/KoisoSYN97:::Takashi Koiso::Naoki Saiwaki::Tetsuya Yoshida::Shogo Nishida:::Communication Model in Emergency Which Considers Competence, Duty and Responsibility.
+conf/hci/FujigakiM93:::Yuko Fujigaki::Kazuko Mori:::Longitudinal Observations of Stress Index Among Software Engineers.
+conf/hci/GermannBO99:::Clark Germann::Jane Kaufman Broida::Peggy O'Neill-Jones:::Assisting individuals with disabilities through the use of virtual reality technologies.
+conf/hci/KawanoK99:::Sumihiro Kawano::Takao Kurokawa:::The Effects of Facial Expression on Understanding Japanese Sign Language Animation.
+conf/hci/Brodner93:::Peter Brödner:::Anthropocentric Production Systems - A European Response to the Challenges of Global Markets.
+conf/hci/Chuan99:::Tan Kay Chuan:::Small Group CSCW Using Web Recources: A Case Study.
+conf/hci/MulgundRIZ97:::Sandeep Mulgund::Gerard Rinkus::Christine Illgen::Greg Zacharias:::Situation Awareness Modeling and Pilot State Estimation for Tactical Cockpit Interfaces.
+conf/hci/CampbellR87:::J. A. Campbell::S. P. Ross:::Issues in Computer-Assisted Interpretation of Graphs and Quantitative Information.
+conf/hci/Yang97:::Yun Yang:::An Integration Framework for Software Development Environments to Incorporate Task, Team and Tool Perspectives.
+conf/hci/OshibaT99:::Takashi Oshiba::Jiro Tanaka:::Three-dimensional modeling environment "claymore" based on augmented direct manipulation technique.
+conf/hci/GriffithsPGW99:::Tony Griffiths::Norman W. Paton::Carole A. Goble::Adrian West:::Task Modelling for Database Interface Development.
+conf/hci/Pankoke-BabatzKJ99:::Uta Pankoke-Babatz::Konrad Klöckner::Phillip Jeffrey:::Norms and conventions in collaborative systems.
+conf/hci/KuzuokaN97:::Hideaki Kuzuoka::Tatsuhiro Nakada:::Assisting Remote Instruction Using Copied Reality.
+conf/hci/UchyigitCQC99:::Gulden Uchyigit::Bjørn Carlin::Ewald Quak::Jim Cunningham:::Agents in the box.
+conf/hci/SatohAMO97:::Kenji Satoh::Susumu Akamine::Kazunori Muraki::Akitoshi Okumura:::Information Retrieval Supported by Rich and Redundant Indices.
+conf/hci/Robertson97:::Michelle M. Robertson:::A Model for Ergonomics Training Evaluation.
+conf/hci/Takeda99:::Koji Takeda:::Evolutionary Approach to Revolutionary Use of Software Diagrams in Client-Designer Communication.
+conf/hci/HedmanL99:::Anders Hedman::Sören Lenman:::Orientation versus accomodation - new requirements for the HCI of digital communities.
+conf/hci/JonesC93:::Trevor H. Jones::Margaret Christensen:::Changing Persona: University Student to Museum Visitor.
+conf/hci/JonesD97:::Christian Martyn Jones::Satnam Singh Dlay:::MARTI: Man-Machine Animation Real-Time Interface: The Illusion of Life.
+conf/hci/WainwrightLB97:::C. E. Wainwright::R. Leonard::K. D. Barber:::Information Management for the Agile Enterprise.
+conf/hci/KoubekS93:::Richard J. Koubek::Gavriel Salvendy:::A Conceptual Model of Human Skill Requirements for Advanced Manufacturing Settings.
+conf/hci/LawsonRGGM97:::B. D. Lawson::A. H. Rupert::F. E. Guedry::J. D. Grissett::A. M. Mead:::The Human-Machine Interface Challenges of Using Virtual Environment (VE) Displays Aboard Centrifuge Devices.
+conf/hci/Blanchard97:::Harry E. Blanchard:::International Standards on Human-Computer Interaction: What is Out There and How Will it be Implemented?.
+conf/hci/ColtekinVK99:::Arzu Çöltekin::Matti Vartiainen::I. Murat Koç:::Consequences of Computer Breakdowns on Time Usage.
+conf/hci/Jasiak97:::Aleksandra E. Jasiak:::Ergonomic Information for Design of Manufacturing Systems.
+conf/hci/Jones93:::S. Jones:::3-D Diagrams for Knowledge Engineering: An Early Estimation of Utility.
+conf/hci/Jones99:::Rachel M. Jones:::Using the paper user interface to support community involvement in urban development.
+conf/hci/MatsuoNNO99:::Satoko Matsuo::Takashi Nakagawa::Yoshio Nakatani::Tadashi Ohi:::Simulation-Based Human Interface Evaluation for Maintenance Facilities.
+conf/hci/ChenLCW99:::Chien-Hsu Chen::Ming-Chyuan Lin::Dao-Yuan Chen::Hsin-Tien Wu:::The Comfort Evaluation of VR in Vibration and Slopes Environment.
+conf/hci/Rauterberg93:::Matthias Rauterberg:::Quantitative Measures for Evaluating Human-Computer Interfaces.
+conf/hci/KylmaahoRKV99:::E. Kylmäaho::S. Rauas::R. Ketola::E. Viikari-Juntura:::Supporting the forearm and wrist during mouse and keybord work. A field study.
+conf/hci/DobronetsSV97:::Boris S. Dobronets::Aleksandr A. Spikov::Valery F. Venda:::Ergodynamic Method of Identification of the Cognitive Strategy Used by the Human-Operator.
+conf/hci/HaberlSMF97:::Stefan Haberl::Simon F. Schmelzer::Michael Mezger::Tobias Förster:::Partizipative Organisation Design-Integrating the Employee into Structural Re-Organisation.
+conf/hci/MatsumotoNMK99:::Toshikazu Matsumoto::Hidetoshi Nakayasu::Eiji Morita::Kouji Kamejima:::Learning human-computer interactive process of learning with intelligence tutoring systems.
+conf/hci/WrightD87:::Jon R. Wright::J. T. Diamond:::A Knowledge-Based System for Geographical Modeling.
+conf/hci/ItohSY97:::Kazunori Itoh::Michio Shimizu::Yoshimichi Yonezawa:::A Drawing Support System for the Visually Impaired Computer User Using a Virtual Sound Screen.
+conf/hci/YoungM93:::Michael F. Young::Michael D. McNeese:::A Situated Cognition Approach to Problem Solving with Implications for Computer-Based Learning and Assessment.

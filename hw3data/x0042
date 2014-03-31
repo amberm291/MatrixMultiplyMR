@@ -1,0 +1,200 @@
+conf/cade/OhlbachW84:::Hans Jürgen Ohlbach::Graham Wrightson:::Solving a Problem in Relevance Logic with an Automated Theorem Prover.
+conf/cade/BourelyCP94:::Christophe Bourely::Ricardo Caferra::Nicolas Peltier:::A Method for Building Models Automatically. Experiments with an Extension of OTTER.
+conf/cade/MiddeldorpOZ96:::Aart Middeldorp::Hitoshi Ohsaki::Hans Zantema:::Transforming Termination by Self-Labelling.
+conf/cade/KutzlerS86:::B. Kutzler::Sabine Stifter:::A Geometry Theorem Prover Based on Buchberger's Algorithm.
+conf/cade/Smullyan92:::Raymond M. Smullyan:::Puzzles and Paradoxes (Abstract).
+conf/cade/EastaughffeOC97:::Katherine A. Eastaughffe::Maris A. Ozols::Anthony Cant:::Proof Tactics for a Theory of State Machines in a Graphical Environment.
+conf/cade/LuskMO86:::Ewing L. Lusk::William McCune::Ross A. Overbeek:::ITP at Argonne National Laboratory.
+conf/cade/BeckertH92:::Bernhard Beckert::Reiner Hähnle:::An Improved Method for Adding Equality to Free Variable Semantic Tableaux.
+conf/cade/BeckertP94:::Bernhard Beckert::Joachim Posegga:::leanT<sup>A</sup>P: Lean Tableau-Based Theorem Proving (Extended Abstract).
+conf/cade/CerroFGHLM01:::Luis Fariñas del Cerro::David Fauthoux::Olivier Gasquet::Andreas Herzig::Dominique Longin::Fabio Massacci:::Lotrec : The Generic Tableau Prover for Modal and Description Logics.
+conf/cade/Subrahmanian88:::V. S. Subrahmanian:::Query Processing in Quantitative Logic Programming.
+conf/cade/Matthews97:::Seán Matthews:::A Practical Implementation of Simple Consequence Relations Using Inductive Definitions.
+conf/cade/OwreRS92:::Sam Owre::John M. Rushby::Natarajan Shankar:::PVS: A Prototype Verification System.
+conf/cade/BeckertGHK92:::Bernhard Beckert::Stefan Gerberding::Reiner Hähnle::Werner Kernig:::The Tableau-Based Theorem Prover <sub>3</sub>T<sup>A</sup>P for Multi-Valued Logics.
+conf/cade/KreitzMOS97:::Christoph Kreitz::Heiko Mantel::Jens Otten::Stephan Schmitt:::Connection-Based Proof Construction in Linear Logic.
+conf/cade/BachmairD86:::Leo Bachmair::Nachum Dershowitz:::Commutation, Transformation, and Termination.
+conf/cade/BachmairG90:::Leo Bachmair::Harald Ganzinger:::On Restrictions of Ordered Paramodulation with Simplification.
+conf/cade/ChatalicS00:::Philippe Chatalic::Laurent Simon:::ZRES: The Old Davis-Putman Procedure Meets ZBDD.
+conf/cade/Seger00:::Carl-Johan H. Seger:::Connecting Bits with Floating-Point Numbers: Model Checking and Theorem Proving in Practice.
+conf/cade/AllenCEKL00:::Stuart F. Allen::Robert L. Constable::Rich Eaton::Christoph Kreitz::Lori Lorigo:::The Nuprl Open Logical Environment.
+conf/cade/GieslK01:::Jürgen Giesl::Deepak Kapur:::Decidable Classes of Inductive Theorems.
+conf/cade/BasinW94:::David A. Basin::Toby Walsh:::Termination Orderings for Rippling.
+conf/cade/Schmidt-Schauss88:::Manfred Schmidt-Schauß:::Unification in a Combination of Arbitrary Disjoint Equational Theories.
+conf/cade/Friedman80:::Leonard Friedman:::Reasoning by Plausible Inference.
+conf/cade/Kaufmann90:::Matt Kaufmann:::RCL: A Lisp Verification System.
+conf/cade/BronsardRH94:::François Bronsard::Uday S. Reddy::Robert W. Hasker:::Induction using Term Orderings.
+conf/cade/Lopes99:::Raul H. C. Lopes:::Automatic Generation of Proof Search Strategies for Second-order Logic.
+conf/cade/Meier00:::Andreas Meier:::System Description: TRAMP: Transformation of Machine-Found Proofs into ND-Proofs at the Assertion Level.
+conf/cade/LoweD97:::Helen Lowe::David Duncan:::XBarnacle: Making Theorem Provers More Accessible.
+conf/cade/FuchsF97:::Dirk Fuchs::Matthias Fuchs:::CODE: A Powerful Prover for Problems of Condensed Detachment.
+conf/cade/Socher-Ambrosius94:::Rolf Socher-Ambrosius:::A Refined Version of General E-Unification.
+conf/cade/MarcusR88:::Leo Marcus::Timothy Redmond:::Two Automated Methods in Implementation Proofs.
+conf/cade/Tuominen90:::Heikki Tuominen:::Dynamic Logic as a Uniform Framework for Theorem Proving in Intensional Logic.
+conf/cade/Thery98:::Laurent Théry:::A Certified Version of Buchberger's Algorithm.
+conf/cade/DuchierM88:::D. Duchier::Drew V. McDermott:::LOGICALC: An Environment for Interactive Proof Development.
+conf/cade/SutcliffeSY94:::Geoff Sutcliffe::Christian B. Suttner::Theodor Yemenis:::The TPTP Problem Library.
+conf/cade/MiddeldorpZ94:::Aart Middeldorp::Hans Zantema:::Simple Termination Revisited.
+conf/cade/MantheyB88:::Rainer Manthey::François Bry:::SATCHMO: A Theorem Prover Implemented in Prolog.
+conf/cade/Fuchs97:::Matthias Fuchs:::Evolving Combinators.
+conf/cade/BjornerSU97:::Nikolaj Bjørner::Mark E. Stickel::Tomás E. Uribe:::A Practical Integration of First-Order Reasoning and Decision Procedures.
+conf/cade/ChirimarGI92:::Jawahar Chirimar::Carl A. Gunter::Myra Van Inwegen:::Xpnet: A Graphical Interface to Proof Nets with an Efficient Proof Checker.
+conf/cade/Ganzinger96:::Harald Ganzinger:::Saturation-Based Theorem Proving: Past Successes and Future Potential (Abstract).
+conf/cade/Kirchner84:::Claude Kirchner:::A New Equational Unification Method: A Generalization of Martelli-Montanari's Algorithm.
+conf/cade/Kirchner90:::Claude Kirchner:::Tutorial on Equational Unification.
+conf/cade/Schmidt-SchaussS99:::Manfred Schmidt-Schauß::Klaus U. Schulz:::Solvability of Context Equations with Two Context Variables is Decidable.
+conf/cade/HasegawaIOK97:::Ryuzo Hasegawa::Katsumi Inoue::Yoshihiko Ohta::Miyuki Koshimura:::Non-Horn Magic Sets to Incorporate Top-down Inference into Bottom-up Theorem Proving.
+conf/cade/Eisinger86:::Norbert Eisinger:::What You Always Wanted to Know About Clause Graph Resolution.
+conf/cade/GrafM96:::Peter Graf::Christoph Meyer:::Advanced Indexing Operations on Substitution Trees.
+conf/cade/AndrewsB00:::Peter B. Andrews::Chad E. Brown:::Tutorial: Using TPS for Higher-Order Theorem Proving and ETPS for Teaching Logic.
+conf/cade/MichaelA00:::Neophytos G. Michael::Andrew W. Appel:::Machine Instruction Syntax and Semantics in Higher Order Logic.
+conf/cade/LynchM01:::Christopher Lynch::Barbara Morawska:::Decidability and Complexity of Finitely Closable Linear Equational Theories.
+conf/awic/QuaresmaR03:::Paulo Quaresma::Irene Pimenta Rodrigues:::A Natural Language Interface for Information Retrieval on Semantic Web Documents.
+conf/awic/Zhong03:::Ning Zhong:::Toward Web Intelligence.
+conf/awic/StefanowskiW03:::Jerzy Stefanowski::Dawid Weiss:::Carrot and Language Properties in Web Search Results Clustering.
+conf/caip/LehalS01:::G. S. Lehal::Chandan Singh:::A Technique for Segmentation of Gurmukhi Text.
+conf/caip/BajaT93:::Gabriella Sanniti di Baja::Edouard Thiel:::A Multiresolution Shape Description Algorithm.
+conf/caip/KataharaA99:::Shunji Katahara::Masayoshi Aoki:::Face Parts Extraction Windows Based on Bilateral Symmetry of Gradient Direction.
+conf/caip/Ottenberg93:::Karsten Ottenberg:::Brightness-Contrast Diffusion and the Grouping of Missing Angles.
+conf/caip/MohrPS97:::Roger Mohr::S. Picard::Cordelia Schmid:::Bayesian Decision Versus Voting for Image Retrieval.
+conf/caip/AnzaloneM95:::A. Anzalone::A. Machì:::Visual detection of defects in moulded plastic drippers.
+conf/caip/JanGHKKP93:::J. Jan::B. Gabrhel::J. Haluziková::P. Kilián::R. Kubák Jr.::I. Provaznik:::Comparison of Different Approaches to Suppress Speckles in Ultrasonic Tomograms.
+conf/caip/Kozera95:::Ryszard Kozera:::An Algorithm for a Linear Shape-from-Shading Problem.
+conf/caip/ChiavettaG95:::Franco Chiavetta::Vito Di Gesù:::An unsupervised region growing method for 3-D image segmenation.
+conf/caip/Jahn01:::Herbert Jahn:::Binocular Stereo Matching by Local Attraction.
+conf/caip/BojkovicMS93:::Zoran Bojkovic::Dragorad Milanovic::Andreja Samcovic:::On a Bound on Signal-to-Noise Ratio in Subband Coding of Gaussian Image Process.
+conf/caip/PersK01:::Janez Pers::Stanislav Kovacic:::Tracking People in Sport: Making Use of Partially Controlled Environment.
+conf/caip/WeiHK99:::Shou Kang Wei::Yu Fei Huang::Reinhard Klette:::Three-Dimensional Scene Navigation Through Anaglyphic Panorama Visualization.
+conf/caip/SablatnigK99:::Robert Sablatnig::Martin Kampel:::On Registering Front- and Backviews of Rotationally Symmetric Objects.
+conf/caip/Blake97:::Stephen Blake:::6DOF Calibration of a Camera with Respect to the Wrist of a 5-Axis Machine Tool.
+conf/caip/HatefK95:::Mohamad Hatef::Josef Kittler:::Constraining Probabilistic Relaxation with Symbolic Attributes.
+conf/caip/HlavacF97:::Václav Hlavác::Jaroslav Fojtík:::Adaptive Non-linear Predictor for Lossless Image Compression.
+conf/caip/StraussB95:::Edilberto Strauss::Peter Burger:::4 Dimensional Modelling of the Human Heart.
+conf/caip/NajmanV95:::Laurent Najman::Régis Vaillant:::Topological and geometrical corners by watershed.
+conf/caip/CyganekB01:::Boguslaw Cyganek::Jan Borgosz:::A Comparative Study of Performance and Implementation of Some Area-Based Stereo Algorithms.
+conf/caip/AlshattiL93:::W. Alshatti::Patrick Lambert:::Using Eigenvectors of a Vector Field for Deriving a Second Directional Derivative Operator for Color Images.
+conf/caip/Melichar95:::Borivoj Melichar:::Approximate String Matching by Finite Automata.
+conf/caip/Kalocsai97:::Peter Kalocsai:::Improving the Shape Recognition Performance of a Model with Gabor Filter Representation.
+conf/caip/Przelaskowski01a:::Artur Przelaskowski:::Hybrid Lossless Coder of Medical Images with Statistical Data Modelling.
+conf/caip/GuoHCS93:::Jinn-Kwei Guo::Rein-Lien Hsu::Chin-Hsing Chen::Yung-Nien Sun:::Detecting Corners of Polygonal and Polyhedral Objects.
+conf/caip/PalmerFP95:::P. L. Palmer::N. Fatemi-Ghomi::Maria Petrou:::Feature Selection for the Tree-Wavelet Transform.
+conf/caip/QuanM97:::Long Quan::Roger Mohr:::Uniqueness of 3D Affine Reconstruction of Lines with Affine Cameras.
+conf/caip/FainzilbergP95:::Leonid Fainzilberg::Tatiana Potapova:::Computer Analysis and Recognition of Cognitive Phase Space Electro-Cardio Graphic Image.
+conf/caip/StrohbeckJM99:::Uwe Strohbeck::Uwe Jäger::Alastair Macgregor:::FORI-CSDR - A New Approach for Context Sensitive Image Data Reduction.
+conf/caip/BenayounA95:::Serge Benayoun::Nicholas Ayache:::Dense Non-Rigid Motion Estimation in Sequences of Medical Images Using Differential Constraints.
+conf/caip/GoolMP95:::Luc J. Van Gool::Theo Moons::Marc Proesmans:::Groups for Grouping: A Strategy for the Exploitation of Geometrical Constraints.
+conf/caip/Chetverikov01:::Dmitry Chetverikov:::Particle Image Velocimetry by Feature Tracking.
+conf/caip/Kazantsev97:::Ivan G. Kazantsev:::The Radon Transform-Based Analysis of Bidirectional Structural Textures.
+conf/caip/Perner93:::Petra Perner:::Application of Knowledge-Based Image Inspection System for Diagnosis of Misprints in Offsetprinting.
+conf/caip/CzuniSZ97:::László Czúni::Tamás Szirányi::Josiane Zerubia:::Multigrid MRF Based Picture Segmentation with Cellular Neural Networks.
+conf/caip/BostMP93:::Jean-Marc Bost::Ruggero Milanese::Thierry Pun:::Temporal Precedence in Asynchronous Visual Indexing.
+conf/caip/Hegedus93:::Gy. Csaba Hegedüs:::CADI: Computer Assisted Educational Package for Digital Image Processing.
+conf/caip/ShenCZ93:::Jun Shen::Serge Castan::Jian Zhao:::A Comparative Study of Performance for Noisy Roof Edge Detection.
+conf/caip/VossSN95:::Klaus Voss::Herbert Suesse::R. Neubauer:::Moment-Based Invariant Fiting of Elliptical Segments.
+conf/caip/Steinhage93:::Volker Steinhage:::Occlusions and Special Views within the Reconstruction of Polyhedral Scenes.
+conf/caip/PalagyiK97:::Kálmán Palágyi::Attila Kuba:::A Parallel 12-Subiteration 3D Thinning Algorithm to Extract Medial Lines.
+conf/caip/KenmochiI97:::Yukiko Kenmochi::Atsushi Imiya:::Deformation of Discrete Object Surfaces.
+conf/caip/MichaelisHS95:::Markus Michaelis::Rainer Herpers::Gerald Sommer:::A common framework for preattentive and attentive vision using steerable filters.
+conf/caip/FelsbergS99:::Michael Felsberg::Gerald Sommer:::Optimized Fast Algorithms for the Quaternionic Fourier Transform.
+conf/caip/ThimmBL99:::G. Thimm::S. Ben-Yacoub::Juergen Luettin:::Evaluating the complexity of databases for person identification and verification.
+conf/caip/Muresan97:::Lucian Muresan:::2D -&gt; 2D Geometric Transformation Invariant to Arbitrary Translations, Rotations and Scales.
+conf/caip/ChebaroCMC93:::B. Chebaro::Alain Crouzil::L. Massip-Pailhes::S. Castan:::Fusion of the Stereoscopic and Temporal Matching Results by an Algorithm of Coherence Control and Conflicts Management.
+conf/caip/KunchevaY95:::Ludmila Kuncheva::Yordan K. Yotzov:::Experimental Investigation on Editing for the k-NN Rule through a Genetic Algorithm.
+conf/caip/Wiskott97a:::Laurenz Wiskott:::Phantom Faces for Face Analysis.
+conf/caip/HanajikV93:::Milan Hanajík::Ruud G. van Vliet:::Real Time Image Processing for Fast Seam Tracking.
+conf/caip/ZunicS97:::Jovisa D. Zunic::Natasa Sladoje:::A Characterization of Digital Disks by Discrete Moments.
+conf/caip/KlauerW93:::Bernd Klauer::Klaus Waldschmidt:::An Object-Oriented Pen-Based Recognizer for Handprinted Characters.
+conf/caip/KrebsBW97:::Björn Krebs::M. Burkhardt::Friedrich M. Wahl:::A Bayesian Network for 3D Object Recognition in Range Data.
+conf/avss/MittalZD03:::Anurag Mittal::Liang Zhao::Larry S. Davis:::Human Body Pose Estimation Using Silhouette Shape Analysis.
+conf/avss/XuF03:::Fengliang Xu::Kikuo Fujimura:::Human Detection Using Depth and Gray Images.
+conf/avss/ChenL03:::Duan-sheng Chen::Zheng-kai Liu:::A Novel Approach to Detect and Correct Highlighted Face Region in Color Image.
+conf/avss/PizuricaZP03:::Aleksandra Pizurica::Vladimir Zlokolica::Wilfried Philips:::Combined Wavelet Domain and Temporal Video Denoising.
+conf/avss/WuJWCW03:::Yi Wu::Long Jiao::Gang Wu::Edward Y. Chang::Yuan-Fang Wang:::Invariant Feature Extraction and Biased Statistical Inference for Video Surveillance.
+conf/avss/SnidaroNVF03:::L. Snidaro::R. Niu::P. K. Varshney::Gian Luca Foresti:::Automatic Camera Selection and Fusion for Outdoor Surveillance under Changing Weather Conditions.
+conf/awoc/ChrobakY88:::Marek Chrobak::Moti Yung:::Fast Parallel and Sequential Algorithms for Edge-Coloring Planar Graphs.
+conf/awoc/HanI88:::Yijie Han::Yoshihide Igarashi:::Time Lower Bounds for Parallel Sorting on a Mesh-Connected Processor Array.
+conf/awoc/Rosenberg86:::Arnold L. Rosenberg:::Diogenes, Circa 1986.
+conf/awoc/AfratiPP88:::Foto N. Afrati::Christos H. Papadimitriou::George Papageorgiou:::Scheduling Dags to Minimize Time and Communication.
+conf/awoc/Ellis88:::John A. Ellis:::Embedding Rectangular Grids into Square Grids.
+conf/awoc/FredericksonS86:::Greg N. Frederickson::Nicola Santoro:::Breaking Symmetry in Synchronous Networks.
+conf/awoc/LodiP86:::Elena Lodi::Linda Pagli:::Some New Results on a Restricted Channel Routing Problem.
+conf/awoc/MillerS86:::Zevi Miller::Ivan Hal Sudborough:::A Polynomial Algorithm for Recognizing Samll Cutwidth in Hypergraphs.
+conf/awoc/AndersonM88:::Richard J. Anderson::Gary L. Miller:::Deterministic Parallel List Ranking.
+conf/awoc/Kirousis86:::Lefteris M. Kirousis:::A Polynomial Algorithm for Recognizing Images of Polyhedra.
+conf/awoc/CodenottiT88:::Bruno Codenotti::Roberto Tamassia:::Efficient Reconfiguration of VLSI Arrays.
+conf/awoc/AndersonMS88:::Richard J. Anderson::Ashfaq A. Munshi::Barbara Simons:::A Scheduling Problem Arising From Loop Parallelization on MIMD Machines.
+conf/awoc/Bar-NoyD88:::Amotz Bar-Noy::Danny Dolev:::Families of Consensus Algorithms.
+conf/bmcv/ChienC00:::Sung-Il Chien::Il Choi:::Face and Facial Landmarks Location Based on Log-Polar Mapping.
+conf/bmcv/ParkB00:::Chang Su Park::Sung Yang Bang:::Modeling Character Superiority Effect in Korean Characters by Using IAM.
+conf/bmcv/ParkL00:::Sang-Cheol Park::Seong-Whan Lee:::Fast Distance Computation with a Stereo Head-Eye System.
+conf/bmcv/LeeL00:::Su-In Lee::Soo-Young Lee:::Top-Down Attention Control at Feature Space for Robust Pattern Recognition.
+conf/bmcv/HongCH00:::Ji-Young Hong::Kyung-Ja Cho::Kwang-Hee Han:::The Effect of Color Differences on the Detection of the Target in Visual Search.
+conf/bmcv/Lowe00:::David G. Lowe:::Towards a Computational Model for Object Recognition in IT Cortex.
+conf/bmcv/SunF02:::Yaoru Sun::Robert Fisher:::Hierarchical Selectivity for Object-Based Visual Attention.
+conf/bmcv/SturzlM02:::Wolfgang Stürzl::Hanspeter A. Mallot:::Vision-Based Homing with a Panoramic Stereo Sensor.
+conf/bmcv/Zhao00:::Liang Zhao:::Scene Segmentation by Chaotic Synchronization and Desynchronization.
+conf/bmcv/LamarBI00:::Marcus V. Lamar::Md. Shoaib Bhuiyan::Akira Iwata:::T-CombNET - A Neural Network Dedicated to Hand Gesture Recognition.
+conf/bmcv/ParkKPLL00:::Seon Hee Park::Seunghwan Kim::Hyeon-Bong Pyo::Sooyeul Lee::Sang-Kyung Lee:::Time Delay Effects on Dynamic Patterns in a Coupled Neural Model.
+conf/bmcv/BayerlN02:::Pierre Bayerl::Heiko Neumann:::Neural Mechanisms of Visual Flow Integration and Segregation - Insights from the Pinna-Brelstaff Illusion and Variations of It.
+conf/bmcv/KolesnikBZ02:::Marina Kolesnik::Alexander Barlit::Evgeny Zubkov:::Iterative Tuning of Simple Cells for Contrast Invariant Edge Enhancement.
+conf/bmcv/KalbererMG02:::Gregor A. Kalberer::Pascal Müller::Luc J. Van Gool:::Biological Motion of Speech.
+conf/bmcv/IwakiS00:::Ryuichi Iwaki::Michinari Shimoda:::Electronic Circuit Model of Color Sensitive Retinal Cell Network.
+conf/bmcv/NattelY00:::Efri Nattel::Yehezkel Yeshurun:::An Efficient Data Structure for Feature Extraction in a Foveated Environment.
+conf/bmcv/LeeCBY00:::Hae-Sung Lee::Yongbum Cho::Hyeran Byun::Jisang Yoo:::An Image Enhancement Technique Based on Wavelets.
+conf/bmcv/IshiharaM00:::Yukio Ishihara::Satoru Morita:::Computation Model of Eye Movement in Reading Using Foveated Vision.
+conf/awpn/Schiller99:::Nicolas Schiller:::Das Erreichbarkeitsproblem für Stetige Petri-Netze ist entscheidbar.
+conf/cata/HungCQ03:::Chih-Cheng Hung::Tommy Coleman::Kai Qian:::Some Experiments on Peer Group Pixels Based Spatial Classifier.
+conf/cata/PatelR03:::Parimal Patel::Venkataramana Reddipalli:::Design Considerations of Implementing a Superscalar CPU in FPGA.
+conf/cata/LiY03:::Wei Li::Xinghuo Yu:::Modeling Volunteer Computing Grid on the Web by Socially Intelligent Agents.
+conf/cata/KarR03:::Dulal C. Kar::V. V. Bapeswara Rao:::Routing Tables for Message Routing in Distributed Double Loop Networks.
+conf/cata/DjomehriBL03:::M. Jahed Djomehri::Rupak Biswas::Noé Lopez-Benitez:::Load Balancing Strategies for Multi-Block Overset Grid Applications.
+conf/cata/XuLL03:::Shuyun Xu::Yu Li::Shiyong Lu:::ERDraw: An XML-based ER-diagram Drawing and Translation Tool.
+conf/cata/LeeRKLY03:::Hyoung-Mok Lee::Eun-Kyung Ryu::Kee-Won Kim::Jae-Min Lee::Kee-Young Yoo:::A Robust Authenticated Key Agreement Protocol.
+conf/cata/Burgin03:::M. Burgin:::Cluster Computers and Grid Automata.
+conf/cata/PheanisT03:::David C. Pheanis::Jeffrey A. Tenney:::Vehicle-Bus Interface with GMLAN for Data Collection.
+conf/cata/KwonC03:::Moonsang Kwon::Yookun Cho:::Protecting Secret Keys with Blind Computation Service Based on Discrete Logarithm.
+conf/cata/AmbroiseRS03:::Dominique Ambroise::Brigitee Rozoy::Jean Saquet:::Deadlock Detection in Distributed Systems.
+conf/cata/HanPC03:::Sangchui Han::Moonju Park::Yookun Cho:::On the Real-Time Job Management in Dynamic Priority Scheduling under the Stack Resource Policy.
+conf/cccg/Le96:::Ngoc-Minh Lê:::On Non-smooth Convex Distance Functions.
+conf/cccg/CocanO99:::Roxana Cocan::Joseph O'Rourke:::Polygonal chains cannot lock in 4d.
+conf/cccg/KreveldSW93:::Marc J. van Kreveld::Jack Snoeyink::Sue Whitesides:::Folding Rulers inside Triangles.
+conf/cccg/Bhattacharya97:::Binay K. Bhattacharya:::Biased search and k-point clustering.
+conf/cccg/LiN01:::Zhangjian Li::Shin-Ichi Nakano:::Listing all connected plane triangulation.
+conf/cccg/Imai96:::Toshiyuki Imai:::A Topology Oriented Algorithm for the Voronoi Diagram of Polygons.
+conf/cccg/Imai97:::Toshiyuki Imai:::Some methods to determine the sign of a long integer from its remainders.
+conf/cccg/AntonMG01:::Francois Anton::Darka Mioc::Christopher M. Gold:::Line voronoi diagram based interpolation and application to digital terrain modelling.
+conf/cccg/BrodenHN01:::Björn Brodén::Mikael Hammar::Bengt J. Nilsson:::Guarding lines and 2-link polygons is apx-hard.
+conf/cccg/Klee99:::Victor Klee:::Shapes of the future - some unsolved problems in high-dimensional intuitive geometry.
+conf/cccg/LuHT98:::Bor-Kuan Lu::Fang-Rong Hsu::Chuan Yi Tang:::Guarding in a simple polygon.
+conf/cccg/Raghavan96:::Prabhakar Raghavan:::Computational Geometry Impact Potential: A Business and Industrial Perspective.
+conf/cccg/McAllister99:::Michael McAllister:::A watershed algorithm for triangulated terrains.
+conf/cccg/Moreau94:::Jean-Michel Moreau:::Hierarchical Delaunay Triangulation.
+conf/cccg/MilenkovicM93:::Victor Milenkovic::Veljko Milenkovic:::Rational Orthogonal Approximations to Orthogonal Matrices.
+conf/cccg/EverettR94:::Hazel Everett::Eduardo Rivera-Campo:::Edge Guarding a Triangulated Polyhedral Terrain.
+conf/cccg/KanekoKT98:::Atsushi Kaneko::M. Kano::Shin-ichi Tokunaga:::Straight-line embeddings of three rooted trees in the plane.
+conf/cccg/MountN93:::David M. Mount::Nathan S. Netanyahu:::Efficient Algorithms for Robust Circular Arc Estimators.
+conf/cccg/Viswanathan93:::Shivakumar Viswanathan:::The Edge Guard Problem for Spiral Polygons.
+conf/cccg/RandallRSS01:::Dana Randall::Günter Rote::Francisco Santos::Jack Snoeyink:::Counting triangulations and pseudo-triangulations of wheels.
+conf/cccg/CaceresGM00:::José Cáceres::C. I. Grima::Alberto Márquez:::Spanners in l<sub>1</sub>.
+conf/cccg/Mirolo94:::Claudio Mirolo:::Convex Minimization on a Grid and Applications.
+conf/cccg/SteigerS94:::William L. Steiger::Ileana Streinu:::A Pseudo-Algorithmic Separation of Lines from Pseudo-Lines.
+conf/cccg/SteigerW98:::William L. Steiger::Rephael Wenger:::Hyperplane depth and nested simplices.
+conf/cccg/Damian-Iordache02:::Mirela Damian-Iordache:::Exact and approximation algorithms for computing <i>a</i>-fat decompositions.
+conf/cccg/OlivieraGE98:::Antonio A. F. Oliveira::Luiz M. G. Gonçalves::Claudio Esperança:::Towards a contour morphing preserving differentiability.
+conf/cccg/DemaineM01:::Erik D. Demaine::Joseph S. B. Mitchell:::Reaching folded states of a rectangular piece of paper.
+conf/cccg/CzyzowiczCU98:::Jurek Czyzowicz::F. Contreras-Alcalá::Jorge Urrutia:::On measuring areas of polygons.
+conf/cccg/CzyzowiczKU99:::Jurek Czyzowicz::Evangelos Kranakis::Jorge Urrutia:::Dissections, cuts and triangulations.
+conf/cccg/CzyzowiczRU93:::Jurek Czyzowicz::Eduardo Rivera-Campo::Jorge Urrutia:::Optimal Floodlight Illumination of Stages.
+conf/cccg/CzyzowiczSS96:::Jurek Czyzowicz::Ivan Stojmenovic::Tomasz Szymacha:::On a Problem of Immobilizing Polygons.
+conf/cccg/LopezN02:::Mario A. Lopez::Bradford G. Nickerson:::Analysis of half-space range search using the <i>k</i>-d search skip list.
+conf/cccg/BronnimannC94:::Hervé Brönnimann::Bernard Chazelle:::Optimal Slope Selection Via Cuttings.
+conf/cccg/BiedlDDLT98:::Therese C. Biedl::Erik D. Demaine::Martin L. Demaine::Anna Lubiw::Godfried T. Toussaint:::Hiding disks in folded polygons.
+conf/cccg/KranakisSU99:::Evangelos Kranakis::Harvinder Singh::Jorge Urrutia:::Compass routing on geometric networks.
+conf/cccg/Palios94a:::Leonidas Palios:::Optimal Tetrahedralization of the 3d-Region between a Convex Polyhedron and a Convex Polygon.
+conf/cccg/Bespamyatnikh02:::Sergei Bespamyatnikh:::Computing closest points for segments.
+conf/cccg/Omana-PulidoT98:::Elsa Omaña-Pulido::Godfried T. Toussaint:::Aperture-angle optimization problems in 3 dimensions.
+conf/cccg/KumarM93:::P. Pradeep Kumar::C. E. Veni Madhavan:::Shortest Watchman Tours in Weak Visibility Polygons.
+conf/cccg/Neagu00:::Manuela Neagu:::Equivalence of Arrangements of Curves.
+conf/cccg/Dattasharma94:::Abhi Dattasharma:::Some Qualitative Properties of a Generalized Voronoi Diagram for Convex Polyhedra in d-dimensions.
+conf/cccg/DamerowFZ02:::Valentina Damerow::Lukas Finschi::Martin Ziegler:::Point location algorithms of minimum size.
+conf/cccg/BronnimannGW02:::Hervé Brönnimann::Marc Glisse::David R. Wood:::Cost-optimal quadtrees for ray shooting.

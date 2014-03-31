@@ -1,0 +1,200 @@
+conf/hpdc/VadhiyarD02:::Sathish S. Vadhiyar::Jack Dongarra:::A Metascheduler For The Grid.
+conf/hpdc/XuNVW00:::Dongyan Xu::Klara Nahrstedt::Arun Viswanathan::Duangdao Wichadakul:::QoS and Contention-Aware Multi-Resource Reservation.
+conf/hpdc/RussBGJRL98:::Samuel H. Russ::Ioana Banicescu::Sheikh Ghafoor::Bharathi Janapareddi::Jonathan Robinson::Rong Lu:::Hectiling: An Integration of Fine and Coarse-Grained Load-Balancing Strategies.
+conf/hpdc/TachikawaT95:::Takayuki Tachikawa::Makoto Takizawa:::Multimedia Intra-Group Communication Protocol.
+conf/hpdc/KumarSSG96:::A. Kumar::A. Srivastava::A. Singru::R. K. Ghosh:::Robust and Distributed Genetic Algorithm for Ordering Problems.
+conf/hpdc/PramanickP94:::Ira Pramanick::Ankan K. Pramanick:::Distributed Solutions to the Delay Fault Test Quality Evaluation Problem.
+conf/hpdc/SiegelDFPMNRT93:::Howard Jay Siegel::Henry G. Dietz::Richard F. Freund::Chani Pangali::Richard C. Metzger::Kenneth W. Neves::C. V. Ramamoorthy::Andrew S. Tanenbaum:::Panel - The Virtual Heterogeneous Supercomputer: Can It Be Built?
+conf/hpdc/KohliAS95:::Prince Kohli::Mustaque Ahamad::Karsten Schwan:::Indigo: User-Level Support for Building Distributed Shared Abstractions.
+conf/hpdc/WornerGHZ94:::Bernhard Wörner::Uwe Geuder::Monika Härdtner::Roland Zink:::Reducing Variations in Parallel Efficiency for Unstructured Grid Computations.
+conf/hpdc/KaroDFRWL01:::Michael Karo::Christopher Dwan::John L. Freeman::Ernest F. Retzel::Jon B. Weissman::Miron Livny:::Applying Grid Technologies to Bioinformatics.
+conf/hpdc/MannP01:::Vijay Mann::Manish Parashar:::Middleware Support for Global Access to Integrated Computational Collaboratories.
+conf/hpdc/ShiHTE99:::Weisong Shi::Weiwu Hu::Zhimin Tang::M. Rasit Eskicioglu:::Dynamic Task Migration in Home-based Software DSM Systems.
+conf/hpdc/KremienK94:::Orly Kremien::Jeff Kramer:::Providing High Performance Distributed Computing Through Scalable Computation Servers.
+conf/hpdc/ThomasMDMSB01:::Mary Thomas::Steve Mock::Maytal Dahan::Kurt Mueller::Don Sutton::John R. Boisseau:::The GridPort Toolkit: A System for Building Grid Portals.
+conf/hpdc/BeckerW94:::Wolfgang Becker::Gerlinde Waldmann:::Exploiting Inter-Task Dependencies for Dynamic Load Balancing.
+conf/hpdc/Johnston98:::William E. Johnston:::High-Speed, Wide Area, Data Intensive Computing: A Ten Year Retrospective.
+conf/hpdc/ChangFFGHNRSW94:::Chran-Ham Chang::Richard Flower::John Forecast::Heather Gray::William R. Hawe::Ashok P. Nadkarni::K. K. Ramakrishnan::Uttam N. Shikarpur::Kathleen M. Wilde:::High-Performance TCP/IP and UDP/IP Networking in DEC OSF/1 for Alpha AXP.
+conf/hpdc/BaudeCHMV02:::Françoise Baude::Denis Caromel::Fabrice Huet::Lionel Mestre::Julien Vayssière:::Interactive and Descriptor-Based Deployment of Object-Oriented Grid Applications.
+conf/hpdc/GrimshawW96:::Andrew S. Grimshaw::William A. Wulf:::Legion - A View from 50, 000 Feet.
+conf/hpdc/CzajkowskiDKT01:::Karl Czajkowski::Alper K. Demir::Carl Kesselman::Marcus Thiébaux:::Practical Resource Management for Grid-Based Visual Exploration.
+conf/hpdc/FreyTLFT01:::James Frey::Todd Tannenbaum::Miron Livny::Ian T. Foster::Steven Tuecke:::Condor-G: A Computation Management Agent for Multi-Institutional Grids.
+conf/hpdc/BianchiniC00:::Ricardo Bianchini::Enrique V. Carrera:::Evaluating Cluster-based Network Servers.
+conf/hpdc/Al-TawilM98:::Khalid Al-Tawil::Csaba Andras Moritz:::LogGP Quantified: The Case for MPI.
+conf/hopl/GriswoldG93:::Ralph E. Griswold::Madge T. Griswold:::History of the Icon Programming Language.
+conf/hopl/ColmerauerR93:::Alain Colmerauer::Philippe Roussel:::The Birth of Prolog.
+conf/hopl/Ritchie93:::Dennis Ritchie:::The Development of the C Language.
+conf/ifip/Bell74:::James R. Bell:::A Compression Method for Compiler Precedence Tables.
+conf/ifip/Ho96:::Tu Bao Ho:::Automation in knowledge engineering via inductive learning.
+conf/ifip/HromkovicK94:::Juraj Hromkovic::Juhani Karhumäki:::Two Lower Bounds on Computational Complexity of Infinite Word Generation.
+conf/ifip/Jewell68:::William S. Jewell:::Allocation of route service in a transportation network.
+conf/ifip/Pichat68:::E. Pichat:::Algorithms for finding the maximal elements of a finite universal algebra.
+conf/ifip/Mendelssohn71:::Rudolph C. Mendelssohn:::Data Banks and Information Systems for National Statistics.
+conf/ifip/Huguenin94:::François Huguenin:::Business Mobile Computing.
+conf/ifip/Lehman62:::M. M. Lehman:::A Comparative Study of Propagation Speedup Circuits in Binary Arithmetic Units.
+conf/ifip/Papert80:::Seymour Papert:::Redefining Childhood: The Computer Presence as an Experiment in Developmental Psychology.
+conf/ifip/OkamotoNM83:::Noriyoshi Okamoto::Osamu Nakamura::Toshi Minami:::Character Segmentation for Mixed-Mode Communication.
+conf/ifip/BuchananL71:::Bruce G. Buchanan::Joshua Lederberg:::The Heuristic <i>DENDRAL</i> Program for Explaining Empirical Data.
+conf/ifip/Codd74:::E. F. Codd:::Recent Investigations in Relational Data Base Systems.
+conf/ifip/Dias86:::Danilo de Souza Dias:::Information Systems Requirements Definition: Key Factors and Situation in Brazilian Companies.
+conf/ifip/Brooks77:::Frederick P. Brooks Jr.:::The Computer "Scientist" as Toolsmith-Studies in Interactive Computer Graphics.
+conf/ifip/Ishikawa92:::Hajime Ishikawa:::Progress Trends and Perspective of VLSI Technology.
+conf/ifip/MorrisFT77:::D. Morris::G. R. Frank::C. J. Theaker:::Machine-Independent Operating Systems.
+conf/ifip/Tretiakoff74:::A. Tretiakoff:::Computer Generated Word Classes and Sentence Structures.
+conf/ifip/Gupta86:::Prem Prakash Gupta:::Can Developing Countries Compete in Information Technology (Panel).
+conf/ifip/Kovacs94:::Gyózö Kovács:::John von Neumann: A Hungarian Born Computer Pioneer.
+conf/ifip/BochmannG77:::Gregor von Bochmann::Jan Gecsei:::A Unified Method for the Specification and Verification of Protocols.
+conf/ifip/DeGrasse71:::Richard V. DeGrasse:::Information Systems and Earth Resources Management.
+conf/ifip/DuncanH59:::F. G. Duncan::E. N. Hawkins:::Pseudo-code translation on multi-level storage machines.
+conf/ifip/Kilian92:::Wolfgang Kilian:::Legal Apects of Data Security.
+conf/ifip/BaslV71:::Zdenek Basl::Anna Vejsová:::On Some Problems of System-System Interactions of Special Type.
+conf/ifip/Schubert71:::Rolf Schubert:::Structure of a Highly Reliable System.
+conf/ifip/Endo89:::Makoto Endo:::The Roles of Logic Synthesis Systems.
+conf/ifip/Parnas71:::David Lorge Parnas:::Information Distribution Aspects of Design Methodology.
+conf/ifip/BarraCINS98:::Maria Barra::Giuseppe Cattaneo::Mario Izzo::Alberto Negro::Vittorio Scarano:::Symmetric Adaptive Customer Modeling for Electronic Commerce in a Distributed Environment.
+conf/ifip/Bolliet68:::L. Bolliet:::Multi-access systems in university education and research.
+conf/ifip/Fine71:::Terrence Fine:::Stochastic Independence and Computational Complexity.
+conf/ifip/Johnson68:::Benjamin F. Johnson:::Design of an operating system for the control of student terminals in a computer based instructional system.
+conf/ifip/Johnson94:::David S. Johnson:::The Traveling Salesman Problem: A report on the State of the Art.
+conf/ifip/Yanenko71:::N. N. Yanenko:::Splitting Methods for Partial Differential Equations.
+conf/ifip/YamamotoC94:::Y. Yamamoto::I. Chuang:::Physical Limits For Computing And Communication.
+conf/ifip/YamamotoK86:::M. Yamamoto::T. Kuriyama:::Developing Project Management Skills through Computer Simulation.
+conf/ifip/Montanari74:::Ugo Montanari:::Optimization Methods in Image Processing.
+conf/ifip/Beale94:::Ian Beale:::Centralisation and Standardisation of IT: The Security Risks and Opportunities.
+conf/ifip/Childs68:::D. L. Childs:::Feasibility of a set-theoretic data structure. A general structure based on a reconstituted definition of relation.
+conf/ifip/BartezzaghiCRM77:::Emilio Bartezzaghi::Claudio Ciborra::Paolo Romano::Piercarlo Maggiolini:::Information Systems and Organization - Empirical Findings Regarding the Introduction of Computers in Manufacturing Firms.
+conf/ifip/Deb77:::Rajat K. Deb:::On Generation of Test Data and Minimal Cover of Directed Graphs.
+conf/ifip/Halevi86:::Gideon Halevi:::CIM - The Future Technology (Invited Paper).
+conf/ifip/WilsonNHL92:::Judith D. Wilson::John T. Nosek::Nathan Hoskin::Lin L. Liou:::The Effect of Collaboration on Problem-Solving Performance Among Programmers.
+conf/ifip/Shapiro71:::Eugene Shapiro:::Technologies for Storage Hierarchies.
+conf/ifip/Joy86:::William N. Joy:::The Workstation Approach for Software Engineering (Invited Paper).
+conf/ifip/LeR96:::My T. Le::Jan M. Rabaey:::A Global QoS Management for Wireless Network.
+conf/ifip/LiM89:::Tao Li::Chris D. Marlin:::Algorithms for the Parallel Execution of Rule-Based Expert Systems.
+conf/ifip/Lamberton86:::Donald McLean Lamberton:::Informatics in a Developing World (Invited Paper).
+conf/ifip/Hollnagel92:::Erik Hollnagel:::The Formalization Of Knowledge-Based Systems Validation And Verification: Promises And Pitfalls.
+conf/ifip/Molnar68:::Thomas P. Molnar:::Planning and implementing international data networks.
+conf/ifip/Kevorkian86:::D. Kevorkian:::UNIX and Its Standardisation (Panel).
+conf/ifip/Kent62:::A. Kent:::Information Retrieval - Review and Prospectus.
+conf/ifip/Lann86:::Gérard Le Lann:::Which LAN in the Factory (Panel).
+conf/ifip/Abrial92:::Jean-Raymond Abrial:::On Constructing Large Software Systems.
+conf/ifip/EngelbrechtWBS96:::Rolf Engelbrecht::Thomas Waschulzik::Wilfried Brauer::Matthias Scherf:::The structured development method SENN for freeforward neural networks and the application to the multimedia patient record in the Bavarian Health Net.
+conf/ifip/LinC92:::Min-Sheng Lin::Deng-Jyi Chen:::Distributed Reliability Analysis.
+conf/ifip/StevensonV68:::David A. Stevenson::W. H. Vermillion:::Core storage as a slave memory for disk storage devices.
+conf/ifip/LiuL74:::Jane W.-S. Liu::C. L. Liu:::Bounds on Scheduling Algorithms for Heterogeneous Comnputing Systems.
+conf/ifip/Sackman92:::Harold Sackman:::Aims and Scope of the Draft IFIP Code of Ethics (Panel).
+conf/ifip/AkushskyEKLM59:::I. Y. Akushsky::L. B. Emelianow-Yaroslavsky::E. A. Klyamko::V. S. Linsky::G. D. Monakhov:::Methods of speeding-up the operation of digital computers.
+conf/ifip/Perry89:::Dewayne E. Perry:::Industrial Strength Software Development Environments.
+conf/ifip/Weert94:::Tom J. van Weert:::Education and Computers: Who is in Control?
+conf/ifip/Otsuki89:::Setsuko Otsuki:::Personal Computers on Campuses: The Experience.
+conf/ifip/Padawitz89:::Peter Padawitz:::Proving the Correctness of Schorr-Waite Graph Marking by Inductive Expansion.
+conf/ifip/JakelLPS83:::Hans-Jörg Jäkel::Hans Loeper::H. Pietsch::G. Stiller:::A Portable ALGOL 68 Implementation for Minicomputers Developed Using the CDL Compiler Compiler Technique.
+conf/ifip/HsuWW92:::Lih-Hsing Hsu::Peng-Fei Wang::Chu-Tao Wu:::Parallel Algorithms for Finding the Most Vital Edge with Respect to Minimum Spanning Tree.
+conf/ifip/Walter83:::Bernd Walter:::Timed Petri-Nets for Modelling and Alalyzing Protocols with Real-Time Characteristics.
+conf/ifip/Santesmases62:::J. G. Santesmases:::Symposium on Advanced Methods in Information Storage and Retrieval.
+conf/ifip/WangJK94:::Kesheng Wang::Paramsothy Jeyakumar::Dag Kjenstad:::An Expert System for Diagnosing Faults in a Chocolate Factory.
+conf/ifip/Ackland89:::Bryan Ackland:::Experiences with Advanced Design Automation Tools.
+conf/ifip/IkeharaSOYNK94:::Satoru Ikehara::Satoshi Shirai::Kentaro Ogura::Akio Yokoo::Hiromi Nakaiwa::Tsukasa Kawaoka:::ALT-J/E, a Japanese to English Machine Translation System for Communication with Translation.
+conf/ifip/Harper68:::Dean H. Harper:::An examination of information processing in the social sciences through the use of simulated data.
+conf/ifip/Harvey83:::George A. Harvey:::The Routing Certification System.
+conf/ifip/MuramatsuDYKK92:::Hiroshi Muramatsu::Masahiro Date::Hiroshi Yoshida::Masaharu Kitaoka::Norio Kurobane:::Operating System SXO for Continuous Operation.
+conf/ifip/Julesz62:::B. Julesz:::Towards the Automation of Binocular Depth Perception.
+conf/ifip/Wieth89:::Morten Wieth:::Loose Specification and Its Semantics.
+conf/ifip/Raulefs94:::Peter Raulefs:::The Virtual Factory.
+conf/ifip/JalicsL74:::Paul J. Jalics::William C. Lynch:::Selected Measurements of the PDP-10 Tops-10 Timesharing Operating System.
+conf/ifip/Morris86:::D. Morris:::Methodologies for Computer Engineering (Panel).
+conf/ifip/Chartrand68:::Robert L. Chartrand:::Information processing for the United States Congress.
+conf/ifip/BleierV68:::Robert E. Bleier::Alfred H. Vorhaus:::File organization in the SDC Time-Shared Data Management System (TSMS).
+conf/ifip/Riet74:::Reind P. van de Riet:::About ABC ALGOL: A Language for Formula Manipulation Systems.
+conf/ifip/Neumann94:::Bernd Neumann:::Indroductory Remarks to Virtual Reality.
+conf/ifip/Booth74:::Taylor L. Booth:::Design of Minimal Expected Processing Time Finite-State Transducers.
+conf/ifip/VignesP74:::J. Vignes::M. La Porte:::Error Analysis in Computing.
+conf/ifip/Taki89:::Kazuo Taki:::The FGCS Computing Architecture.
+conf/ifip/Rolland96:::Colette Rolland:::Understanding and guiding requirements engineering processes.
+conf/ifip/AntoniouW96:::Grigoris Antoniou::Mary-Anne Williams:::CIN: an intelligent information management toolkit.
+conf/ifip/Furukawa86:::Koichi Furukawa:::Specification Languages versus Programming Languages (Panel).
+conf/ifip/BorilloCV77:::M. Borillo::Luis Fariñas del Cerro::Jacques Virbel:::Validation Problems in Pattern Recognition Study of a Particular Case.
+conf/ifip/Mazare86:::Guy Mazare:::Computer Aided Design and Artificial Intelligence (Panel).
+conf/ifip/Chang89:::Ifay F. Chang:::Advanced Software Technology for Automating the Office.
+conf/ifip/Cheng94:::Xing Cheng:::Analysis and Modelling of Routing Algorithms in High-Speed Networks.
+conf/ifip/Brown96:::M. Brown:::Supporting User Mobility.
+conf/ifip/Dirckinck-HolmfeldN92:::Lone Dirckinck-Holmfeld::Janni Nielsen:::Visual Operational Thinking and Communicative Competence - A Prerequisiste for Bringing Multimedia Network Systems and Learners into Action.
+conf/ifip/Wang74:::Paul S. Wang:::Symbolic Evaluation of Definite Integrals by Residue Theory in Macsyma.
+conf/ifip/Vrecion80:::Vladimír Vrecion:::Some Basic Applications of Computering in the Law-Making Process.
+conf/ifip/Nicodeme92:::P. Nicodeme:::Compact Balanced Tries.
+conf/ifip/BrunoCS74:::John L. Bruno::Edward G. Coffman Jr.::Ravi Sethi:::Algorithms for Minimizing Mean Flow Time.
+conf/ifip/CurtisR71:::A. R. Curtis::J. K. Reid:::The Solution of Large Sparse Unsymmetric Systems of Linear Equations.
+conf/ifip/Wulf71:::William A. Wulf:::Programming without the Goto.
+conf/ifip/MortonZ68:::Michael Scott Morton::Z. S. Zannetos:::Efforts toward and associative learning instructional system.
+conf/ifip/BucklesSE94:::Bogdan D. Czejdo::Bill P. Buckles::L. Smith::Christoph F. Eick:::An Adaptive Browsing System Based on Rules for Object-Oriented Databases.
+conf/ifip/Busby96:::Geoff Busby:::Technology for the disabled and why it matters to you.
+conf/ifip/Gurevich94:::Yuri Gurevich:::Evolving Algebras.
+conf/ifip/HarhenKB86:::John Harhen::Michael G. Ketcham::Jimmie Browne:::Artificial Intelligence and Simulation of Manufacturing Systems.
+conf/ifip/Fortier74:::Paul A. Fortier:::From Objectivity to Covenience: Information Processing for Literary Study.
+conf/ifip/Gabrovski74:::Konstantin Gabrovski:::Computers in Planning in People's Republic of Bulgaria.
+conf/ifip/Clarke94a:::Roger A. Clarke:::Who is in Control?
+conf/ifip/Vaswani68:::Peter K. T. Vaswani:::A technique for cluster emphasis and its application to automatic indexing.
+conf/ifip/ZhuW92:::Ming-Yuan Zhu::Cheng-Wei Wang:::An Overview of Specification Language Universe.
+conf/ifip/Stanley80:::Philip M. Stanley:::A Design Approach to the Audit of Computer Information Systems.
+conf/ifip/Lincoln68:::Harry B. Lincoln:::A computer application in musicology: the thematic index.
+conf/ifip/Lincoln71:::Harry B. Lincoln:::Toward a Computer Typography for Music Research: a progress report.
+conf/ifip/BiebowS89:::Brigitte Biebow::Sylvie Szulman:::Enrichment of Semantic Network for Requirements Expressed in Natural Language.
+conf/ifip/JonesL71:::P. D. Jones::Neil R. Lincoln:::J. E. Thornton: Whither Computer Architecture?
+conf/ifip/Rubbert89:::Paul E. Rubbert:::Supercomputing in Airplane Design.
+conf/ifip/Yamada89:::Akihiko Yamada:::Design Automation for Large Mainframes and Supercomputers in NEC.
+conf/ifip/Pritchard77:::Paul Pritchard:::Program Proving-Expression Languages.
+conf/ifip/Kamel86:::R. F. Kamel:::Software Development in a Distributed Environment: The XMS System.
+conf/ifip/EngelsK94:::Gregor Engels::Gerti Kappel:::Object-Oriented System Development: Will the New Approach Solve Old Problems?
+conf/ifip/Kubicek92:::Herbert Kubicek:::Network(er)s at Risk: The Fairy-Tale of Invulerability of Computer Supported Work.
+conf/ifip/CroissantP71:::R. G. Croissant::L. A. Pickthorne:::An Interactive Aid to Project Control.
+conf/ifip/GiulianoO59:::Vincent E. Giuliano::Anthony G. Oettinger:::Research on automatic translation at the Harvard Computation Laboratory.
+conf/ifip/Cheatham71:::Thomas E. Cheatham Jr.:::The Recent Evolution of Programming Languages.
+conf/ifip/HughesH59:::G. W. Hughes::M. Halle:::On the recognition of speech by machine.
+conf/ifip/ColeL83:::Robert Cole::Peter Lloyd:::A Flexible Architekture for Protocol Studies in a Multi-Network Environment.
+conf/ifip/Ohlsson86:::Stellan Ohlsson:::Machine Learning (Panel).
+conf/ifip/Kendall71:::David Kendall:::Some Data-Analytic Problems in Archaeology and History.
+conf/ifip/Jarvis77:::D. B. Jarvis:::LSI by CAD Out of Daisy.
+conf/ifip/Klein94a:::Michel R. Klein:::Progress and Challenges in the Application of Decision Support Systems to Management.
+conf/ifip/KleinT71:::Michel R. Klein::Vincent Tixier:::SCARABEE: A Data and Model Bank for Financial Engineering and Research.
+conf/ifip/Jones68:::P. D. Jones:::Operating system structures.
+conf/ifip/HernanJ80:::Miguel A. Hernan::Javier Jiménez:::Image Analysis of Experimental Data in Turbulence.
+conf/ifip/Nilsson68:::Nils J. Nilsson:::Searching problem-solving and game-playing trees for minimal cost solutions.
+conf/ifip/Haberman92:::A. Nico Habermann:::Encouraging Academic-Industry Collaboration: Industry-University Interaction in the US.
+conf/ifip/BeauchampKTW71:::K. G. Beauchamp::C. J. Kelley::P. G. Thomasson::M. E. Williamson:::Development of a Hybrid System for University Research.
+conf/ifip/Watanabe68:::Satosi Watanabe:::Object-predicate reciprocity and its application to pattern recognition.
+conf/ifip/Govorun71:::N. N. Govorun:::Computers and Data Processing in Nuclear Research.
+conf/ifip/Baeza-Yates92:::Ricardo A. Baeza-Yates:::Text-Retrieval: Theory and Practice.
+conf/ifip/Shneiderman89:::Ben Shneiderman:::Intelligent User Interfaces: From Fantasy to Fact.
+conf/ifip/Kambayashi86:::Yahiko Kambayashi:::An Overview of a Natural Language-Assisted Database User Interface: ENLI.
+conf/ifip/Risset94:::J. C. Risset:::About the Role of Computers to Bridge Gaps in Music.
+conf/ifip/Cunningham86:::I. M. Cunningham:::Electronic Mail and the Paper Society (Panel).
+conf/ifip/StrasserRM98:::Markus Straßer::Kurt Rothermel::Christian Maihöfer:::Providing Reliable Agents for Electronic Commerce.
+conf/ifip/DeheneffeHP74:::Claude Deheneffe::Henri Hennebert::W. Paulus:::Relational Model for a Data Base.
+conf/ifip/Wildhack92:::Rolf Wildhack:::ISDN for Multimedia Workstations.
+conf/ifip/CrainM94:::Ian K. Crain::Gwynneth M. Martin:::Information Systems for Environmental Decison Making in Developing Countries - Decision Maker Needs and Technology Transfer Challenges.
+conf/ifip/Fosseus71:::Stefan H. Fosseus:::BASYS.
+conf/ifip/Rivest74:::Ronald L. Rivest:::On the Optimality of Elia's Algorithm for Performing Best-Match Searches.
+conf/ifip/BarioglioCLP86:::Maurizio Barioglio::G. Capella::I. Lupo::Luigi Petrone:::KEYLINE: Software Productivity Tools for Program Design, Implementation, Documentation.
+conf/ifip/BrauerB89:::Wilfried Brauer::Ute Brauer:::Better Tools - Less Education?
+conf/ifip/SmitHJ92:::Gerard J. M. Smit::Paul J. M. Havinga::Pierre G. Jansen:::A Programmable Communication Architecture Based on Kautz Networks.
+conf/ifip/GuptaS94:::Suresh C. Gupta::Mukul K. Sinha:::Improving Software Testability by Observability and Controllabliity Measures.
+conf/ifip/Gastinel62:::N. Gastinel:::Sur certains procédés itératifs non linéaires de résolution de systèmes d'équations du premier degré.
+conf/ifip/Klahr68:::David Klahr:::A Monte Carlo investigation of the statistical significance of multidimensional scaling.
+conf/ifip/KovacsL89:::George L. Kovács::Zoltan Letray:::A Knowledge-Based Manufacturing Cell Design System.
+conf/ifip/WaxmanS89:::Ronald Waxman::Larry Saunders:::The Evolution of VHDL.
+conf/ifip/Klein77:::Michel R. Klein:::Finsim - A Decision Support System for Financial Planning and Engineering.
+conf/ifip/Thacher74:::Henry C. Thacher Jr.:::Numerical Application of the Generalized Euler Transformation.
+conf/ifip/Langefors74:::Börje Langefors:::Information Systems.
+conf/ifip/NakamuraNY74:::Akira Nakamura::Junro Nose::Shuzo Yamakawa:::High Speed Generation of Fault Location Data for Logic Circuits.
+conf/ifip/Denison62:::S. J. M. Denison:::A Proposed ALGOL 60 Matrix Scheme.
+conf/ifip/KrollPP94:::Chr. Kröll::Peter Peinl::J. Pommnitz:::Extensions of the Internet Protocol for Wireless Communication.
+conf/ifip/FerranHM71:::P. M. Ferran::J. M. Howie::W. Gerald Moorhead:::Recognition and Measurement of Bubble Chamber Tracks Using a Flying Spot Digitizer.
+conf/ifip/KavianpourF80:::Alireza Kavianpour::Arthur D. Friedman:::Different Diagnostic Models for Multiprocessor Systems.
+conf/ifip/BarryEGM71:::C. D. Barry::R. A. Ellis::S. M. Graesser::Garland R. Marshall:::CHEMAST: A Computer Program for Modelling Molecular Structures.
+conf/ifip/Hoffman62:::Alan J. Hoffman:::Large Linear Programs.
+conf/ifip/Hoffman68:::Alan J. Hoffman:::Bounds for the rank and eigenvalues of a matrix.
+conf/ifip/CastellsCPBJ92:::Jordi Castells::Guillem Carreras::Jaume Porta::Jordi Bertran::Xavier Jordà:::Telematic Services in Catalan Schools: Working Environment and Achievements.
+conf/ifip/Balzer86:::Robert Balzer:::Living in the Next Generation Operating System (Invited Paper).
+conf/ifip/Langsford86:::Alwyn Langsford:::Open Systems Management - The Implications for Distributed Processing Architecture.
+conf/ifip/Butler71:::Anthony R. Butler:::Record Linkage: Adaptive Decision Techniques in File Processing.
+conf/ifip/DadamPS83:::Peter Dadam::Peter Pistor::Hans-Jörg Schek:::A Predicate Oriented Locking Approach for Integrated Information Systems.
+conf/ifip/MartelliM71:::Alberto Martelli::Ugo Montanari:::Optimal Smoothing in Picture Processing: An Application to Fingerprints.

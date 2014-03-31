@@ -1,0 +1,200 @@
+conf/compgeom/CappellGPPSW90:::Sylvain E. Cappell::Jacob E. Goodman::János Pach::Richard Pollack::Micha Sharir::Rephael Wenger:::The Combinatorial Complexity of Hyperplane Transversals.
+conf/compgeom/FriedmanHS89:::J. Friedman::John Hershberger::Jack Snoeyink:::Compliant Motion in a Simple Polygon.
+conf/compgeom/MatousekS92:::Jirí Matousek::Otfried Schwarzkopf:::Linear Optimization Queries.
+conf/compgeom/GuibasH94:::Leonidas J. Guibas::John Hershberger:::Morphing Simple Polygons.
+conf/compgeom/Chan95:::Timothy M. Chan:::Output-Sensitive Results on Convex Hulls, Extreme Points, and Related Problems.
+conf/compgeom/Chan98:::Timothy M. Chan:::Geometric Applications of a Randomized Optimization Technique.
+conf/compgeom/Chew97:::L. Paul Chew:::Guaranteed-Quality Delaunay Meshing in 3D (Short Version).
+conf/compgeom/ContrerasCRU98:::Felipe Contreras::Jurek Czyzowicz::Eduardo Rivera-Campo::Jorge Urrutia:::Optimal Floodlight Illumination of Stages.
+conf/compgeom/AichholzerAK02:::Oswin Aichholzer::Franz Aurenhammer::Hannes Krasser:::On the crossing number of complete graphs.
+conf/compgeom/WagnerW95:::Frank Wagner::Alexander Wolff:::Map Labeling Heuristics: Provably Good and Practically Useful.
+conf/compgeom/Rappaport87:::David Rappaport:::Computing Simple Circuits from a Set of Line Segments is NP-Complete.
+conf/compgeom/HaasORSSSSSW03:::Ruth Haas::David Orden::Günter Rote::Francisco Santos::Brigitte Servatius::Herman Servatius::Diane L. Souvaine::Ileana Streinu::Walter Whiteley:::Planar minimally rigid graphs and pseudo-triangulations.
+conf/compgeom/AronovBCC02:::Boris Aronov::Hervé Brönnimann::Allen Y. Chang::Yi-Jen Chiang:::Cost prediction for ray shooting.
+conf/compgeom/AronovBCC03:::Boris Aronov::Hervé Brönnimann::Allen Y. Chang::Yi-Jen Chiang:::Cost-driven octree construction schemes: an experimental study.
+conf/compgeom/Bajaj90:::Chandrajit L. Bajaj:::Geometric Computations with Algebraic Varieties of Bounded Degree.
+conf/compgeom/Schirra93:::Stefan Schirra:::Moving a Disc Between Polygons.
+conf/compgeom/GavrilovIMV99:::Martin Gavrilov::Piotr Indyk::Rajeev Motwani::Suresh Venkatasubramanian:::Geometric Pattern Matching: A Performance Study.
+conf/compgeom/FixL98:::James D. Fix::Richard E. Ladner:::Multiresolution Banded Refinement to Accelerate Surface Reconstruction from Polygons.
+conf/compgeom/PachT00:::János Pach::Gábor Tardos:::Cutting glass.
+conf/compgeom/Riviere95:::Stéphane Rivière:::Topologically Sweeping the Visibility Complex of Polygonal Scenes.
+conf/compgeom/FinkeH95:::Ulrich Finke::Klaus Hinrichs:::Overlaying Simply Connected Planar Subdivisions in Linear Time.
+conf/compgeom/HoL89:::Jan-Ming Ho::D. T. Lee:::Bounded Diameter Minimum Spanning Trees and Related Problems.
+conf/compgeom/EfratH98:::Alon Efrat::Sariel Har-Peled:::Fly Cheaply: On the Minimum Fuel-Consumption Problem.
+conf/compgeom/DupontLLP03:::Laurent Dupont::Daniel Lazard::Sylvain Lazard::Sylvain Petitjean:::Near-optimal parameterization of the intersection of quadrics.
+conf/compgeom/BernE03:::Marshall W. Bern::David Eppstein:::Optimized color gamuts for tiled displays.
+conf/compgeom/ArkinMMRS93:::Esther M. Arkin::Henk Meijer::Joseph S. B. Mitchell::David Rappaport::Steven Skiena:::Decision Trees for Geometric Models.
+conf/compgeom/ClarksonKV87:::Kenneth L. Clarkson::Sanjiv Kapoor::Pravin M. Vaidya:::Rectilinear Shortest Paths Through Polygonal Obstacles in O(n (log n)<sup>2</sup>) Time.
+conf/compgeom/ClarksonTW89:::Kenneth L. Clarkson::Robert Endre Tarjan::Christopher J. Van Wyk:::A Fast Las Vegas Algorithm for Triangulating a Simple Polygon.
+conf/compgeom/SharirW96:::Micha Sharir::Emo Welzl:::Rectilinear and Polygonal <i>p</i>-Piercing and <i>p</i>-Center Problems.
+conf/compgeom/BoissonnatLT97:::Jean-Daniel Boissonnat::Eelco de Lange::Monique Teillaud:::Minkowski Operations for Satellite Antenna Layout.
+conf/compgeom/LazarusPVV01:::Francis Lazarus::Michel Pocchiola::Gert Vegter::Anne Verroust:::Computing a canonical polygonal schema of an orientable triangulated surface.
+conf/compgeom/Welzl89:::Emo Welzl:::Partition Trees for Triangle Counting and Other Range Searching Problems.
+conf/compgeom/Goldwasser95:::Michael Goldwasser:::An Implementation for Maintaining Arrangements of Polygons.
+conf/compgeom/AvisF91:::David Avis::Komei Fukuda:::A Pivoting Algorithm for Convex Hulls and Vertex Enumeration of Arrangements and Polyhedra.
+conf/compgeom/BremnerFM97:::David Bremner::Komei Fukuda::Ambros Marzetta:::Primal-Dual Methods for Vertex and Facet Enumeration (Preliminary Version).
+conf/compgeom/AhnBBCHMS97:::Hee-Kap Ahn::Mark de Berg::Prosenjit Bose::Siu-Wing Cheng::Dan Halperin::Jirí Matousek::Otfried Schwarzkopf:::Separating an Object from its Cast.
+conf/compgeom/Varadarajan96:::Kasturi R. Varadarajan:::Approximating Monotone Polygonal Curves Using the Uniform Metric.
+conf/compgeom/CrauserFMMR98:::Andreas Crauser::Paolo Ferragina::Kurt Mehlhorn::Ulrich Meyer::Edgar A. Ramos:::Randomized External-Memory Algorithms for Some Geometric Problems.
+conf/compgeom/Kaltofen89:::Erich Kaltofen:::Computing the Irreducible Real Factors and Components of an Algebraic Curve.
+conf/compgeom/ChenH90:::Jindong Chen::Yijie Han:::Shortest Paths on a Polyhedron.
+conf/compgeom/ChenI93:::Yui-Bin Chen::Doug Ierardi:::Optimal Motion Planning for a Rod in the Plane Subject to Velocity Constraints.
+conf/compgeom/Franklin87:::Wm. Randolph Franklin:::Polygon Properties Calculated from the Vertex Neighborhoods.
+conf/compgeom/Mulmuley91:::Ketan Mulmuley:::A Generalization of Dehn-Sommerville Relations to Simple Stratified Spaces.
+conf/compgeom/BurnikelFMS99:::Christoph Burnikel::Rudolf Fleischer::Kurt Mehlhorn::Stefan Schirra:::Efficient Exact Geometric Computation Made Easy.
+conf/compgeom/EricsonY89:::L. W. Ericson::Chee-Keng Yap:::The Design of LINETOOL, a Geometric Editor.
+conf/compgeom/KranakisP90:::Evangelos Kranakis::Michel Pocchiola:::Enumeration and Visibility Problems in Integer Lattices (Extended Abstract).
+conf/compgeom/Fortune98:::Steven Fortune:::Vertex-Rounding a Three-Dimensional Polyhedral Subdivision.
+conf/compgeom/HuttenlocherKK92:::Daniel P. Huttenlocher::Klara Kedem::Jon M. Kleinberg:::On Dynamic Voronoi Diagrams and the Minimum Hausdorff Distance for Point Sets Under Euclidean Motion in the Plane.
+conf/compgeom/AonumaIIT90:::Hiromi Aonuma::Hiroshi Imai::Keiko Imai::Takeshi Tokuyama:::Maximin Location of Convex Objects in a Polygon and Related Dynamic Voronoi Diagrams.
+conf/compgeom/PopDBGHK01:::Mihai Pop::Christian A. Duncan::Gill Barequet::Michael T. Goodrich::Wenjing Huang::Subodh Kumar:::Efficient perspective-accurate silhouette computation and applications.
+conf/compgeom/AsanoKY02:::Tetsuo Asano::David G. Kirkpatrick::Chee-Keng Yap:::Pseudo approximation algorithms, with applications to optimal motion planning.
+conf/compgeom/GewaliMMN89:::Laxmi Gewali::Alex Meng::Joseph S. B. Mitchell::Simeon C. Ntafos:::Path Planning in 0/1/infinity Weighted Regions with Applications.
+conf/compgeom/EricksonH02:::Jeff Erickson::Sariel Har-Peled:::Optimally cutting a surface into a disk.
+conf/compgeom/AronovKS02:::Boris Aronov::Vladlen Koltun::Micha Sharir:::Incidences between points and circles in three and higher dimensions.
+conf/compgeom/GuptaS96:::Neelima Gupta::Sandeep Sen:::Faster Output-Sensitive Parallel Convex Hulls for <i>d</i>&lt;=3: Optimal Sublogarithmic Algorithms for Small Outputs.
+conf/compgeom/Bentley90:::Jon Louis Bentley:::K-d Trees for Semidynamic Point Sets.
+conf/compgeom/ShneersonT98:::Maria Shneerson::Ayellet Tal:::GASP-II - A Geometric Algorithm Animation System for an Electronic Classroom.
+conf/compgeom/BalogB91:::Antal Balog::Imre Bárány:::On the Convex Hull of the Integer Points in a Disc.
+conf/compgeom/GeismannHS01:::Nicola Geismann::Michael Hemmer::Elmar Schömer:::Computing a 3-dimensional cell in an arrangement of quadrics: exactly and actually!
+conf/compgeom/Vijayan86:::V. Vijayan:::Geometry of Planar Graphs with Angles.
+conf/compgeom/AmatoR96:::Nancy M. Amato::Edgar A. Ramos:::On Computing Voronoi Diagrams by Divide-Prune-and-Conquer.
+conf/compgeom/CohenBTTB92:::Robert F. Cohen::Giuseppe Di Battista::Roberto Tamassia::Ioannis G. Tollis::Paola Bertolazzi:::A Framework for Dynamic Graph Drawing.
+conf/compgeom/LeeCY90:::D. T. Lee::T. H. Chen::Chung-Do Yang:::Shortest Rectilinear Paths among Weighted Obstacles.
+conf/compgeom/IckingKLM93:::Christian Icking::Rolf Klein::Ngoc-Minh Lê::Lihong Ma:::Convex Distance Functions in 3-Space are Different.
+conf/compgeom/FeketeMW00:::Sándor P. Fekete::Joseph S. B. Mitchell::Karin Weinbrecht:::On the continuous Weber and <i>k</i>-median problems (extended abstract).
+conf/compgeom/Amenta94:::Nina Amenta:::Bounded Boxes, Hausdorff Distance, and a New Proof of an Interesting Helly-Type Theorem.
+conf/compgeom/ReckhowC87:::Robert A. Reckhow::Joseph C. Culberson:::Covering a Simple Orthogonal Polygon with a Minimum Number of Orthogonally Convex Polygons.
+conf/compgeom/CannyDR92:::John F. Canny::Bruce Randall Donald::Eugene K. Ressler:::A Rational Rotation Method for Robust Geometric Algorithms.
+conf/compgeom/HaverkortBG02:::Herman J. Haverkort::Mark de Berg::Joachim Gudmundsson:::Box-trees for collision checking in industrial installations.
+conf/compgeom/CannyRR90:::John F. Canny::Ashutosh Rege::John H. Reif:::An Exact Algorithm for Kinodynamic Planning in the Plane.
+conf/compgeom/Mitchell93:::Joseph S. B. Mitchell:::Shortest Paths Among Obstacles in the Plane.
+conf/compgeom/CzumajZ03:::Artur Czumaj::Hairong Zhao:::Fault-tolerant geometric spanners.
+conf/compgeom/ChenHHLX01:::Danny Z. Chen::Xiaobo Hu::Yingping Huang::Yifan Li::Jinhui Xu:::Algorithms for congruent sphere packing and applications.
+conf/compgeom/OvermarsS90:::Mark H. Overmars::Micha Sharir:::Merging Visibility Maps.
+conf/compgeom/MountNM98:::David M. Mount::Nathan S. Netanyahu::Jacqueline Le Moigne:::Improved Algorithms for Robust Point Pattern Matching and Applications to Image Registration.
+conf/compgeom/KenyonK91:::Claire Kenyon::Richard Kenyon:::How to Take Short Cuts.
+conf/compgeom/IckingK91:::Christian Icking::Rolf Klein:::The Two Guards Problem.
+conf/compgeom/IckingK95:::Christian Icking::Rolf Klein:::Searching for the Kernel of a Polygon - A Competitive Strategy.
+conf/compgeom/Natarajan87:::B. K. Natarajan:::On Detecting the Orientation of Polygons and Polyhedra.
+conf/compgeom/Natarajan90:::B. K. Natarajan:::On Computing the Intersection of B-Splines (Extended Abstract).
+conf/compgeom/Goodrich93:::Michael T. Goodrich:::Geometric Partitioning Made Easier, Even in Parallel.
+conf/compgeom/ChazelleE86:::Bernard Chazelle::Herbert Edelsbrunner:::Linear Data Structures for Two Types of Range Search.
+conf/compgeom/DobkinG94:::David P. Dobkin::Dimitrios Gunopulos:::Computing the Rectangle Discrepancy.
+conf/compgeom/DobkinG98:::David P. Dobkin::Emden R. Gansner:::A Path Router for Graph Drawing.
+conf/compgeom/AgarwalAHS99:::Pankaj K. Agarwal::Boris Aronov::Sariel Har-Peled::Micha Sharir:::Approximation and Exact Algorithms for Minimum-Width Annuli and Shells.
+conf/compgeom/AgarwalBMS94:::Pankaj K. Agarwal::Mark de Berg::Jirí Matousek::Otfried Schwarzkopf:::Constructing Levels in Arrangements and Higher Order Voronoi Diagrams.
+conf/compgeom/AgarwalESW90:::Pankaj K. Agarwal::Herbert Edelsbrunner::Otfried Schwarzkopf::Emo Welzl:::Euclidean Minimum Spanning Trees and Bichromatic Closest Pairs.
+conf/compgeom/MitchellP87:::Joseph S. B. Mitchell::Christos H. Papadimitriou:::The Weighted Region Problem.
+conf/compgeom/KraatsKO95:::Berto van de Kraats::Marc J. van Kreveld::Mark H. Overmars:::Printed Circuit Board Simplification: Simplifying Subdivisions in Practice.
+conf/compgeom/EdelsbrunnerT92:::Herbert Edelsbrunner::Tiow Seng Tan:::An Upper Bound for Conforming Delaunay Triangulations.
+conf/compgeom/GuskovKSS02:::Igor Guskov::Andrei Khodakovsky::Peter Schröder::Wim Sweldens:::Hybrid meshes: multiresolution using regular and irregular refinement.
+conf/compgeom/AmatoGR00:::Nancy M. Amato::Michael T. Goodrich::Edgar A. Ramos:::Linear-time triangulation of a simple polygon made easier via randomization.
+conf/compgeom/HagedoornV97:::Michiel Hagedoorn::Remco C. Veltkamp:::A General Method for Partial Point Set Matching.
+conf/compgeom/Buchberger89:::Bruno Buchberger:::Algebraic Methods for Non-Linear Computational Geometry (Invited Address).
+conf/compgeom/BergKSV97:::Mark de Berg::Matthew J. Katz::A. Frank van der Stappen::Jules Vleugels:::Realistic Input Models for Geometric Algorithms.
+conf/compgeom/Har-PeledI00:::Sariel Har-Peled::Piotr Indyk:::When crossings count - approximating the minimum spanning tree.
+conf/compgeom/Har-PeledW03:::Sariel Har-Peled::Yusu Wang:::Shape fitting with outliers.
+conf/compgeom/AtallahT89:::Mikhail J. Atallah::Jyh-Jong Tsay:::On the Parallel Decomposability of Geometric Problems.
+conf/compgeom/Cohen-SteinerVY02:::David Cohen-Steiner::Éric Colin de Verdière::Mariette Yvinec:::Conforming Delaunay triangulations in 3D.
+conf/compgeom/AvnaimB87:::Francis Avnaim::Jean-Daniel Boissonnat:::Simultaneous Containment of Several Polygons.
+conf/compgeom/ClarksonEMST93:::Kenneth L. Clarkson::David Eppstein::Gary L. Miller::Carl Sturtivant::Shang-Hua Teng:::Approximating Center Points with Iterated Radon Points.
+conf/compgeom/Muller-Hannemann00:::Matthias Müller-Hannemann:::Improving the surface cycle structure for hexahedral mesh generation.
+conf/compgeom/KanungoMNPSW02:::Tapas Kanungo::David M. Mount::Nathan S. Netanyahu::Christine D. Piatko::Ruth Silverman::Angela Y. Wu:::A local search approximation algorithm for k-means clustering.
+conf/compulog/BenhamouGG99:::Frédéric Benhamou::Laurent Granvilliers::Frédéric Goualard:::Interval Constraints: Results and Perspectives.
+conf/eiffel/Nemeth92:::Tibor Németh:::Methoden und Werkzeuge für den konstruktiven Entwurf von Objektsystemen.
+conf/mobicom/HoA95:::Joseph S. M. Ho::Ian F. Akyildiz:::Local Anchor Scheme for Reducing Location Tracking Costs in PCNs.
+conf/mobicom/Joe97:::Inwhee Joe:::An Adaptive Hybrid ARQ Scheme with Concatenated FEC Codes for Wireless ATM.
+conf/mobicom/ClouqueurPRS02:::Thomas Clouqueur::Veradej Phipatanasuphorn::Parameswaran Ramanathan::Kewal K. Saluja:::Sensor deployment strategy for target detection.
+conf/mobicom/KimN01:::Minkyong Kim::Brian Noble:::Mobile network estimation.
+conf/mobicom/LiJCKM00:::Jinyang Li::John Jannotti::Douglas S. J. De Couto::David R. Karger::Robert Morris:::A scalable location service for geographic ad hoc routing.
+conf/mobicom/WongCL98:::W. S. Vincent Wong::Henry C. B. Chan::Victor C. M. Leung:::Performance Evaluations of Path Optimization Schemes for Inter-Switch Handoffs in Wireless ATM Networks.
+conf/mobicom/VukovicM96:::Ivan Vukovic::John McKown:::Spectrum Sharing Under the Asynchronous UPCS Etiquette: The Performance of Collocated Systems under Heavy Load.
+conf/mobicom/MartiGLB00:::Sergio Marti::Thomas J. Giuli::Kevin Lai::Mary Baker:::Mitigating routing misbehavior in mobile ad hoc networks.
+conf/mobicom/SavvidesPS02:::Andreas Savvides::Heemin Park::Mani B. Srivastava:::The bits and flops of the n-hop multilateration primitive for node localization problems.
+conf/mobicom/KarpK00:::Brad Karp::H. T. Kung:::GPSR: greedy perimeter stateless routing for wireless networks.
+conf/mobicom/SinghWR98:::Suresh Singh::Mike Woo::C. S. Raghavendra:::Power-Aware Routing in Mobile Ad Hoc Networks.
+conf/mobicom/BakreB95:::Ajay V. Bakre::B. R. Badrinath:::M-RPC: A Remote Procedure Call Service for Mobile Clients.
+conf/mobicom/KravetsK98:::Robin Kravets::P. Krishnan:::Power Management Techniques for Mobile Communication.
+conf/mobicom/TangB99:::Diane Tang::Mary Baker:::Analysis of a Metropolitan-Area Wireless Network.
+conf/mobicom/NandagopalKGB00:::Thyagarajan Nandagopal::Tae-eun Kim::Xia Gao::Vaduvur Bharghavan:::Achieving MAC layer fairness in wireless packet networks.
+conf/mobicom/LettieriFS97:::Paul Lettieri::Christina Fragouli::Mani B. Srivastava:::Low Power Error Control for Wireless Links.
+conf/mobicom/LiuCZG02:::Jie Liu::Patrick Cheung::Feng Zhao::LeonidasJ. Guibas:::A dual-space approach to tracking and sensor management in wireless sensor networks.
+conf/mobicom/RajagopalanB95:::Subhashini Rajagopalan::B. R. Badrinath:::An Adaptive Location Management Strategy for Mobile IP.
+conf/mobicom/NavasI97:::Julio C. Navas::Tomasz Imielinski:::GeoCast - Geographic Addressing and Routing.
+conf/mobicom/HouselL96:::Barron C. Housel::David B. Lindquist:::WebExpress: A System for Optimizing Web Browsing in a Wireless Environment.
+conf/mobicom/MurthyG95:::Shree Murthy::J. J. Garcia-Luna-Aceves:::A Routing Protocol for Packet Radio Networks.
+conf/mobihoc/SubramanianK00:::Lakshminarayanan Subramanian::Randy H. Katz:::An architecture for building self-configurable systems.
+conf/mobihoc/LeeK00:::Seungjoon Lee::Chongkwon Kim:::Neighbor supporting ad hoc multicast routing protocol.
+conf/mobihoc/JohanssonAJ01:::Niklas Johansson::Fredrik Alriksson::Ulf Jönsson:::JUMP mode---a dynamic window-based scheduling framework for Bluetooth scatternets.
+conf/mobihoc/KuhnZ03:::Fabian Kuhn::Aaron Zollinger:::Ad-hoc networks beyond unit disk graphs.
+conf/mobihoc/Bar-Noy03:::Amotz Bar-Noy:::Windows scheduling as a paradigm for pushing information in wireless networks.
+conf/mobihoc/RaczMKV01:::András Rácz::György Miklós::Ferenc Kubinszky::András Gergely Valkó:::A pseudo random coordinated scheduling algorithm for Bluetooth scatternets.
+conf/mobihoc/BanerjeeM02:::Suman Banerjee::Archan Misra:::Minimum energy paths for reliable communication in multi-hop wireless networks.
+conf/mobihoc/ByersN00:::John W. Byers::Gabriel Nasser:::Utility-based decision-making in wireless sensor networks.
+conf/mobihoc/MiklosRTVJ00:::György Miklós::András Rácz::Zoltán Turányi::Andras Valkó::P. Johansson:::Performance aspects of Bluetooth scatternet formation.
+conf/mobisys/BalazinskaC03:::Magdalena Balazinska::Paul Castro:::Characterizing Mobility and Network Usage in a Corporate Wireless Local-Area Network.
+conf/mobisys/GruteserG03:::Marco Gruteser::Dirk Grunwald:::Anonymous Usage of Location-Based Services Through Spatial and Temporal Cloaking.
+conf/mobisys/BagrodiaBCGGGJLPSVZ03:::Rajive Bagrodia::S. Bhattacharyya::F. Cheng::S. Gerding::Glenn Glazer::Richard G. Guy::Z. Ji::Jinsong Lin::Thomas Phan::E. Skow::M. Varshney::George Zorpas:::iMASH: Interactive Mobile Application Session Handoff.
+conf/mobisys/NarayananS03:::Dushyanth Narayanan::Mahadev Satyanarayanan:::Predictive Resource Management for Wearable Computing.
+conf/mobisys/CarterKT03:::Casey Carter::Robin Kravets::Jean Tourrilhes:::Contact Networking: A Localized Mobility System.
+conf/mocomed/HeissKMRPFGH03:::K. Heiss::A. Krause::A. Mehlhorn::V. Riedl::S. Preis::K. Feike::L. Greiner::D. Hartl:::Mobile wireless acess to EHR and PACS in clinical practice.
+conf/mocomed/KoopB03:::Andreas Koop::Hans-Bernd Bludau:::Empfehlungen für den Einsatz von mobilen Computern und drahtlosen Datenübertragungstechnologien m Gesundheitswesen - Diskussionsgrundlage.
+conf/emsoft/LeeX01:::Edward A. Lee::Yuhong Xiong:::System-Level Types for Component-Based Design.
+conf/emsoft/Leveson02:::Nancy G. Leveson:::An Approach to Designing Safe Embedded Software.
+conf/emsoft/QinRVWZAKMP02:::Wei Qin::Subramanian Rajagopalan::Manish Vachharajani::Hangsheng Wang::Xinping Zhu::David I. August::Kurt Keutzer::Sharad Malik::Li-Shiuan Peh:::Design Tools for Application Specific Embedded Processors.
+conf/emsoft/Buttazzo02:::Giorgio C. Buttazzo:::Scalable Applications for Energy-Aware Processors.
+conf/emsoft/SimsekV01:::Tunc Simsek::Pravin Varaiya:::Design of Autonomous, Distributed Systems.
+conf/emsoft/KooLMS01:::Tak-John Koo::Judith Liebman::Cedric Ma::Shankar Sastry:::Hierarchical Approach for Design of Multi-vehicle Multi-modal Embedded Software.
+conf/emsoft/Benveniste01:::Albert Benveniste:::Some Synchronization Issues When Designing Embedded Systems from Components.
+conf/emsoft/ThieleCGMG01:::Lothar Thiele::Samarjit Chakraborty::Matthias Gries::Alexander Maxiaguine::Jonas Greutert:::Embedded Software in Network Processors - Models and Algorithms.
+conf/dynamo/UngC00:::David Ung::Cristina Cifuentes:::Machine-adaptable dynamic binary translation.
+conf/dynamo/EnglerH00:::Dawson R. Engler::Wilson C. Hsieh:::Derive: a tool that automatically reverse-engineers instruction encodings.
+conf/isas-sci/MatousekMJ01:::Kamil Matousek::Jan Mordacik::Ladislava Janku:::On Implementing the Data Warehouse - GIS Integration.
+conf/isas-sci/GarciaMSOML01:::José García::Ignacio Martínez::Leif Sörnmo::Salvador Olmos::Angel Mur::Pablo Laguna:::Remote ECG-Based Diagnosis Support Via Web.
+conf/isas-sci/MathkourS01:::Hassan Mathkour::Abad Shah:::Framework for the Development of Web Applications.
+conf/isas-sci/SelivonenkoRBDGM01:::Andriy Selivonenko::Naphtali Rishe::Toby Berk::Oksana Dyganova::Scott Graham::Daniel Mendez:::Crawling Distributed Operating System within Multiple Heterogeneous Operating Systems of Internet-Connected Hosts.
+conf/isas-sci/KoubaMM01:::Zdenek Kouba::Petr Miksovský::Kamil Matousek:::On Geographical On-Line Analytical Processing (GOLAP).
+conf/isas-sci/ShaposhnikovRMW01:::Artyom Shaposhnikov::Naphtali Rishe::Daniel Mendez::Ouri Wolfson:::Algorithms for Efficient Data Compression in Databases using the Semantic Binary Model.
+conf/isas-sci/HsiaoSLPY01:::Tsun-Yu Hsiao::Ruey-Kai Sheu::Kai-Chih Liang::Nei-Chiung Perng::Shyan-Ming Yuan:::An Asynchronous High Confident Information Interchange Infrastructure.
+conf/isas-sci/WittmannD01:::Stefan Wittmann::Peter Daniel:::Safety and Security of IT-Systems - A Necessary Dilemma?
+conf/berkeley/WatsonF79:::Richard W. Watson::John G. Fletcher:::An Architecture for Support of Network Operating System Services.
+conf/berkeley/ChengB82:::Wing Kai Cheng::Geneva G. Belford:::The Resiliency of Fully Replicated Distributed Databases.
+conf/berkeley/Amiot76:::Lawrence Amiot:::Front-Ending at Argonne National Laboratory.
+conf/berkeley/LiHG82:::Liang Li::Herman D. Hughes::Lewis H. Greenberg:::Performance Analysis of a Shortest-Delay Protocol.
+conf/berkeley/Wall82:::David W. Wall:::Selective Broadcast in Packet-Switched Networks.
+conf/berkeley/GrayHKO81:::Jim Gray::P. Homan::Henry F. Korth::Ron Obermarck:::A Straw Man Analysis of the Probability of Waiting and Deadlock in a Database System.
+conf/berkeley/FauserN79:::U. Fauser::Erich J. Neuhold:::Transaction Processing in the Distributed DBMS-POREL.
+conf/berkeley/BachGK79:::Maurice J. Bach::Nancy H. Goguen::Michael M. Kaplan:::The ADAPT Data Translation System and Applications.
+conf/berkeley/MenasceM78:::Daniel A. Menascé::Richard R. Muntz:::Locking and Deadlock Detection in Distributed Databases.
+conf/berkeley/GerhardsteinSB78:::L. H. Gerhardstein::J. O. Schroeder::A. J. Boland:::The Pacific Northwest Laboratory Minicomputer Network.
+conf/berkeley/Rosen79:::Eric C. Rosen:::The Updating Protocol of the ARPANET's New Routing Algorithm: A Case Study in Maintaining Identical Copies of a Changing Distributed Data Base.
+conf/berkeley/WeberBP79:::Herbert Weber::Dieter Baum::Radu Popescu-Zeletin:::An Evolutionary System Architecture for a Distributed Data Base Management System.
+conf/berkeley/Killeen76:::John Killeen:::The CTR Computer Network.
+conf/berkeley/Alsberg76:::Peter Alsberg:::Data Distribution Strategies.
+conf/berkeley/Shoch78:::John F. Shoch:::Inter-Network Fragmentation and the TCP.
+conf/berkeley/KimbletonWF79:::Stephen R. Kimbleton::P. Wang::Elizabeth N. Fong:::XNDM: An Experimental Network Data Manager.
+conf/berkeley/Ellis77:::Clarence A. Ellis:::A Robust Algorithm for Updating Duplicate Databases.
+conf/berkeley/DonnelleyY78:::James E. Donnelley::Jeffry W. Yeh:::Interaction Between Protocol Levels in a Prioritized CSMA Broadcast Network.
+conf/berkeley/Lidinsky76:::William Lidinsky:::The Argonne Intra-Laboratory Network.
+conf/berkeley/GlasserU81:::Alan L. Glasser::David M. Ungar:::A Distributed UNIX System.
+conf/berkeley/Farrell76:::Jerry Farrell:::The Datacomputer - A Network Data Utility.
+conf/fossacs/JensenS01:::Thomas P. Jensen::Fausto Spoto:::Class Analysis of Object-Oriented Programs through Abstract Interpretation.
+conf/fossacs/Boer99:::Frank S. de Boer:::A WP-calculus for OO.
+conf/fossacs/Maneth99:::Sebastian Maneth:::String Languages Generated by Total Deterministic Macro Tree Transducers.
+conf/fossacs/BorealeG02:::Michele Boreale::Daniele Gorla:::On Compositional Reasoning in the Spi-calculus.
+conf/fossacs/PlotkinP01:::Gordon D. Plotkin::John Power:::Adequacy for Algebraic Effects.
+conf/fossacs/GodardM02:::Emmanuel Godard::Yves Métivier:::A Characterization of Families of Graphs in Which Election Is Possible.
+conf/fossacs/DurandM01:::Irène Durand::Aart Middeldorp:::On the Modularity of Deciding Call-by-Need.
+conf/fossacs/AbramskyJ03:::Samson Abramsky::Radha Jagadeesan:::A Game Semantics for Generic Polymorphism.
+conf/fossacs/HuhnNW99:::Michaela Huhn::Peter Niebert::Frank Wallner:::Model Checking Logics for Communicating Sequential Agents.
+conf/fossacs/HabelP01:::Annegret Habel::Detlef Plump:::Computational Completeness of Programming Languages Based on Graph Transformation.
+conf/fossacs/Klempien-Hinrichs98:::Renate Klempien-Hinrichs:::Net Refinement by Pullback Rewriting.
+conf/fossacs/FokkinkP03:::Wan Fokkink::Jun Pang:::Cones and Foci for Protocol Verification Revisited.
+conf/ershov/CousotC93:::Patrick Cousot::Radhia Cousot:::Galois Connection Based Abstract Interpretations for Strictness Analysis (Invited Paper).
+conf/ershov/Hof99:::Markus Hof:::Late Adaptation of Method Invocation Semantics.
+conf/ershov/Mossenbock99:::Hanspeter Mössenböck:::Twin - A Design Pattern for Modeling Multiple Inheritance.
+conf/ershov/Mazurkiewicz79:::Antoni W. Mazurkiewicz:::Concurrent algorithms schemata.
+conf/ershov/Kral75:::Jaroslav Král:::Almost Top-Down Analysis for generalized LR(K) Grammars.
+conf/ershov/ChkliaevHS99:::Dmitri Chkliaev::Jozef Hooman::Peter van der Stok:::Serializability Preserving Extensions of Concurrency Control Protocols.
+conf/ershov/Vakarelov89:::Dimiter Vakarelov:::Modal Logics for Knowledge Representation Systems.

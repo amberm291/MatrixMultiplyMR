@@ -1,0 +1,200 @@
+conf/isaac/GaurK99:::Daya Ram Gaur::Ramesh Krishnamurti:::Simple Approximation Algorithms for MAXNAESP and Hypergraph 2-colorability.
+conf/isaac/IwamotoI94:::Chuzo Iwamoto::Kazuo Iwama:::Extended Graph Connectivity and Its Gradually Increasing Parallel Complexity.
+conf/isaac/Papadopoulou96:::Evanthia Papadopoulou::: <i>k</i>-Pairs Non-Crossing Shortest Paths in a Simple Polygon.
+conf/isaac/BhattacharyaM95:::Binay K. Bhattacharya::Asish Mukhopadhyay:::Computing in Linear Time a Chord from Which a Simple Polygon is Weakly Internally Visible.
+conf/isaac/FurerSM93:::Martin Fürer::C. R. Subramanian::C. E. Veni Madhavan:::Coloring Random Graphs in Polynomial Expected Time.
+conf/isaac/ZhangZ94:::Xiang-Sun Zhang::Hui-Can Zhu:::A Neural Network Model for Quadratic Programming with Simple Upper and Lower Bounds and its Application to Linear Programming.
+conf/isaac/Graham94:::Ronald L. Graham:::Quasi-Random Combinatorial Structures (Abstract).
+conf/isaac/YehKLY97:::Tzuoo-Hawn Yeh::Cheng-Ming Kuo::Chin-Laung Lei::Hsu-Chun Yen:::Competitive Source Routing on Tori and Meshes.
+conf/isaac/Ripphausen-LipaWW93:::Heike Ripphausen-Lipa::Dorothea Wagner::Karsten Weihe:::Linear Time Algorithms for Disjoint Two-Face Paths Problems in Planar Graphs.
+conf/isaac/ChangHK99:::Jou-Ming Chang::Chin-Wen Ho::Ming-Tat Ko:::LexBFS-Ordering in Asteroidal Triple-Free Graphs.
+conf/isaac/TsaiL94:::Kuo-Hui Tsai::D. T. Lee:::k-Best Cuts for Circular-Arc Graphs.
+conf/isaac/PantziouPS97:::Grammati E. Pantziou::George P. Pentaris::Paul G. Spirakis:::Competitive Call Control in Mobile Networks.
+conf/isaac/PantziouRS96:::Grammati E. Pantziou::Alan Roberts::Antonios Symvonis:::Dynamic Tree Routing under the ``Matching with Consumption'' Model.
+conf/isaac/HambruschT93:::Susanne E. Hambrusch::Hung-Yi Tu:::New Algorithms for Minimizing the Longest Wire Length during Circuit Compaction.
+conf/isads/AlagarM03:::Vangalur S. Alagar::D. Muthiaye:::A Rigorous Approach to Modeling Autonomous Traffic Control Systems.
+conf/isads/Randell99:::Brian Randell:::Fault Tolerance in Decentralized Systems.
+conf/isads/Kim99:::K. H. Kim:::Object-Oriented Structuring of Real-Time Autonomous Decentralized Systems.
+conf/isads/MatsumotoHKWK01:::Masayuki Matsumoto::Akiyoshi Hosokawa::Satoru Kitamura::Dai Watanabe::Atsushi Kawabata:::The New ATC Systems with an Autonomous Speed Control with On-Board Equipment.
+conf/isads/Yau03:::Stephen S. Yau:::Software Development Support for Next-Generation Distributed Embedded Systems.
+conf/isads/MarvieMGL01:::Raphaël Marvie::Philippe Merle::Jean-Marc Geib::Sylvain Leblanc:::Type-Safe Trading Proxies Using TORBA.
+conf/isads/WadaSNYKK99:::Hidehiko Wada::Yuichi Sakuraba::Masako Negishi::Toshiharu Yamakawa::K. Kubo::Y. Kashiyama:::A Machinery Control System using Mobile Agents.
+conf/isads/TaiK01:::Kuo-Chung Tai::Bengi Karaçali:::On Godefroid's Stateless Search Technique for Testing Concurrent Programs.
+conf/isads/BucciFV03:::Giacomo Bucci::Andrea Fedeli::Enrico Vicario:::Predicting Timeliness of Reactive Systems under Flexible Scheduling.
+conf/isads/DuarteW03:::Elias Procópio Duarte Jr.::Andréa Weber:::A Distributed Network Connectivity Algorithm.
+conf/isads/BhattiS99:::Nina T. Bhatti::Richard D. Schlichting:::Configurable Communication Protocols for Mobile Computing.
+conf/isads/Thomas03:::Martyn Thomas:::The Modest Software Engineer.
+conf/isads/McCannJS03:::Julie A. McCann::Gawesh Jawaheer::Linxue Sun:::Patia: Adaptive Distributed Webserver.
+conf/isads/AstesianoR01:::Egidio Astesiano::Gianna Reggio:::UML-Spaces: A UML Profile for Distributed Systems Coordinated via Tuple Spaces.
+conf/isads/PearsXB03:::Simon Pears::Jie Xu::Cornelia Boldyreff:::Mobile Agent Fault Tolerance for Information Retrieval Applications: An Exception Handling Approach.
+conf/isads/Thuraisingham03:::Bhavani M. Thuraisingham:::Dependable Computing for National Security.
+conf/isads/LuZAM03:::Xiaodong Lu::Yi Zhou::Hélène Arfaoui::Kinji Mori:::Autonomous Integration and Provision of Heterogeneous Information Services in Distributed Information Systems.
+conf/isads/TakanoA03:::Chisa Takano::Masaki Aida:::Stability and Adaptability of Autonomous Decentralized Flow Control in High-Speed Networks.
+conf/isads/KojimaI99:::Kazuhiro Kojima::Koji Ito:::Dynamical Distributed Memory Systems.
+conf/isads/HuangE01:::En-Hsin Huang::Tzilla Elrad:::Reflective Decision Controls for Autonomous Distributed Objects.
+conf/isads/ZhengB99:::Haihong Zheng::Sourav Bhattacharya:::Working Set in Channel Management for Cellular Networks.
+conf/iscas/LinMHYR95:::Min-Hsiung Lin::Gee-gwo Mei::Thomas A. Horvath::Robert J. Yagley::Roger S. Rutter:::A Novel Memory Architecture to Achieve Minimal Rounding/Truncation Errors for N Dimensional Image Transformation.
+conf/iscas/SamadiNF94:::Saed Samadi::Akinori Nishihara::Nobuo Fujii:::Modular Realization of Bandstop and Bandpass FIR Digital Filters.
+conf/iscas/EdirisooriyaE95:::Geetani Edirisooriya::Samantha Edirisooriya:::Scan Chain Fault Diagnosis with Fault Dictionaries.
+conf/iscas/NakaoaWKY95:::Toshihiro Nakaoa::Shin'ichi Wakabayashi::Tetsushi Koide::Noriyoshi Yoshida:::A Verification Algorithm for Logic Circuits with Internal Variables.
+conf/iscas/HarneforsM95:::Lennart Harnefors::Kåre Mossberg:::Sampling of Quadrature-Phase Quantities.
+conf/iscas/ChenV93a:::Tsuhan Chen::P. P. Vaidyanathan:::Considerations in multidimensional filter bank design.
+conf/iscas/SchinSL94:::D. Schin::Yinan N. Shen::Fabrizio Lombardi:::An Approach for UIO Generation for FSM Verification and Validation.
+conf/iscas/ZhangGS94:::Bo Zhang::Montgomery Goodson::Richard Schreier:::Invariant Sets for General Second-Order Lowpaws Delta-Sigma Modulators with DC Inputs.
+conf/iscas/ChengT94:::Gui-Xin Cheng::Mamoru Tanaka:::Structural Pattern Compression and Recognition by Linear CNN.
+conf/iscas/NekiliSB94:::Mohamed Nekili::Yvon Savaria::Guy Bois:::A Fast Low-Power Driver for Long Interconnections in VLSI Systems.
+conf/iscas/BellEST95:::Ian M. Bell::Kevin R. Eckersall::Stephen J. Spinks::Gaynor E. Taylor:::Fault Orientated Test and Fault Simulation of Mixed Signal Integrated Circuits.
+conf/iscas/HeitkamperW93:::Peter Heitkämper::Michael Walker II:::Adaptive gain control for speech quality improvement and echo suppression.
+conf/iscas/CurrentPH93:::K. Wayne Current::Jim Parker::Wes Hardaker:::Block-Diagram-Level Design Capture, Functional Simulation, and Layout Assembly of Analog CMOS ICs.
+conf/iscas/Kayhan94:::A. S. Kayhan:::Evolutionary Biperiodogram.
+conf/iscas/JohnsLC93:::David A. Johns::David M. Lewis::D. Cherepacha:::Highly Selective "Analog" Filters Using Delta Sigma Based IIR Filtering.
+conf/iscas/YamauchiW94:::Masahiro Yamauchi::Toshimasa Watanabe:::An Approximation Algorithm for the Legal Firing Sequence Problem of Petri Nets.
+conf/iscas/BomarSJ95:::Bruce W. Bomar::L. Montgomery Smith::Roy D. Joseph:::Roundoff Noise Analysis of State-Space Digital Filters Implemented on Floating-Point Digital Signal Processors.
+conf/iscas/FuP95a:::Bin Fu::Keshab K. Parhi:::Two VLSI Design Advances in Arithmetic Coding.
+conf/iscas/PalSN94:::Debajyoti Pal::S. K. Sanyal::R. Nandi:::New Dual-Input Voltage Controlled Integrator/Differentiator and their Digital Control.
+conf/iscas/GuillemotO94:::Christine Guillemot::Patrice Onno:::Exact Reconstruction Filter Banks Using Cosine Modulation: Matrix Formalization for Arbitrary Length Prototype Filters.
+conf/iscas/Gopinath94:::R. A. Gopinath:::Some Thoughts on Least Squared Error Optimal Windows.
+conf/iscas/GuS94a:::Zhiqiang Gu::W. Martin Snelgrove:::Frequency-Domain Analysis of A/D Converter Nonlinearity.
+conf/iscas/FuP95:::Bin Fu::Keshab K. Parhi:::Generalized Multiplication Free Arithmetic Codes.
+conf/iscas/JenkinsS93:::W. Kenneth Jenkins::Bernard A. Schnaufer:::Fault tolerant adaptive filters based on the block LMS algorithm.
+conf/iscas/HuB93:::Xiaobo Hu::Steven C. Bass:::A neglected error source in the CORDIC algorithm.
+conf/iscas/Li93a:::Wenzhe Li:::Two-dimensional lossless two-port for circularly symmetric digital filtering.
+conf/iscas/Kos93:::Andrzej Kos:::An approach to thermal placement in power electronics using neural networks.
+conf/iscas/Lei93:::Shaw-Min Lei:::Finite Word-length Effects on Arithmetic Codes.
+conf/iscas/TsujiM93:::Kohkichi Tsuji::Tadao Murata:::On reachability conditions for unrestricted Petri nets.
+conf/iscas/NiD93:::Yang Ni::Francis Devos:::An Analog Smart Sensor for Active Obstacle Detection.
+conf/iscas/WangC95:::Kai Wang::Wai-Kai Chen:::Floorplan Area Optimization Using Network Analogous Approach.
+conf/iscas/WangS95:::Shaoyun Wang::Earl E. Swartzlander Jr.:::Merged CORDIC Algorithm.
+conf/iscas/OhS94:::Hwa-Joon Oh::Fathi M. A. Salam:::Analog CMOS Implementation of Neural Network for Adaptive Signal Processing.
+conf/iscas/LemaitreP93:::Laurent Lemaitre::Marek J. Patyra:::Fuzzy Logic Functions Synthesis - A CMOS Current Mirror Based Solution.
+conf/iscas/SharafE94:::K. M. Sharaf::Mohamed I. Elmasry:::BiCMOS Active-Pull-Down Non-Threshold Logic Cicuits for High-Speed Low-Power Applications.
+conf/iscas/KriplaniNH94:::Harish Kriplani::Farid N. Najm::Ibrahim N. Hajj:::Improved Delay and Current Models for Estimating Maximum Currents in CMOS VLSI Circuits.
+conf/iscas/XuK95:::Meina Xu::Anthony Kuh:::Unsupervised Learning Applied to Image Coding.
+conf/iscas/OpalR95:::Ajoy Opal::Kaamran Raahemifar:::Zero State Response of Linear Circuits to Exponential Inputs.
+conf/iscas/YuL93:::Shunjia Yu::Rueywen Liu:::A new edge detection algorithm: Fast and localizing to a single pixel.
+conf/iscas/ZhouCJM94:::P. Zhou::J. C. Czilli::Graham A. Jullien::W. C. Miller:::Current Input TSPC Latch for High Speed, Complex Switching Trees.
+conf/iscas/JouC95:::Jer-Min Jou::Shung-Chih Chen:::Distributed Diagnostic Fault Simulation for Synchronous Sequential Circuits by Dynamic Fault Partitioning.
+conf/iscas/ReebesP93:::Stanley J. Reebes::Kevin M. Perry:::A stopping rule for iterative image restoration with constraints.
+conf/iscas/FleurkensB93:::Hans Fleurkens::Pim Buurman:::Flexible Mixed-mode and Mixed-level Simulation.
+conf/iscas/LinM93:::Ing-Song Lin::Sanjit K. Mitra:::Fast FIR filtering algorithms based on overlapped block structure.
+conf/iscas/LiuB94:::Bo Liu::L. T. Bruton:::Adaptive Video Coding using Mixed-Domain Filter Banks having Optimal-Shaped Subbands.
+conf/iscas/LiuH94:::Bin-Da Liu::Chun-Yueh Huang:::Array Based Fuzzy Inference Mechanism Implemented with Current-Mode CMOS Circuits.
+conf/iscas/KuoL93:::Sen M. Kuo::Jian Luan:::Cross-coupled filtered-X LMS algorithm and lattice structure for active noise control systems.
+conf/iscas/DonhamSMW95:::Christopher Donham::Jan Van der Spiegel::Paul Mueller::Z. Walton:::Real Time Feature Extraction of Acoustic Signals with an Analog Neural Computer.
+conf/iscas/Ziolko94:::Mariusz Ziolko:::Optimal Placement of Heat Dissipating Elements.
+conf/iscas/WenCL93:::Kuei-Ann Wen::Po-Wen Cheng::Ru-Yeong Lin:::VLSI design of the shuffle-exchange network for 2D fast transforms.
+conf/iscas/NaRA94:::KyungMin Na::JaeYeol Rheem::SouGuil Ann:::A Discriminative Training Algorithm for Predictive Neural Network Models.
+conf/iscas/FrancaMP93:::José E. Franca::Sanjit K. Mitra::Antonio Petraglia:::Recent Developments and Future Trends of Multirate Analog-digital Systems.
+conf/iscas/NieU95:::X. Nie::Rolf Unbehauen:::Parallel Processing of Two-Dimensional Sequences Using 2-D Denominator-Separable digital Filters.
+conf/iscas/WangCC95:::Chin-Liang Wang::Ching-Chia Chen::Che-Fu Chen:::A Digital-Serial VLSI Architecture for Delayed LMS Adaptive FIR Filttering.
+conf/iscas/WangCL94:::Ping-Tsung Wang::Kun-Nen Chen::Yen-Tai Lai:::A High Performance FPGA with Hierarchical Interconnection Structure.
+conf/iscas/AlonsoP93:::José I. Alonso::Félix Pérez:::SPICE implementation of nonuniform frequency-dependent transmission lines.
+conf/iscas/ChoyCK95:::C. S. Choy::C. F. Chan::M. H. Ku:::A Feedback Control Circuit Design Technique to Suppress Power Noise in High Speed Output Driver.
+conf/iscas/MasonT93:::Richard Mason::John T. Taylor:::High-speed Electro-optic Analogue to Digital Converters.
+conf/iscas/ChoySS95:::Clifford Sze-Tsan Choy::Pui-Kin Ser::Wan-Chi Siu:::Peak Detection in Hough Transform Via Self-Organizing Learning.
+conf/iscas/Sugimoto95:::Yasuhiro Sugimoto:::A 1.6V 10-Bit 20MHz Current-Mode Sample and Hold Circuit.
+conf/iscas/KnutsonC93:::Jack R. Knutson::Chang Y. Choo:::Feature based compression of vector quantized codebooks and data for optimal image compression.
+conf/iscas/AburSC95:::A. Abur::D. Shirmohammadi::C. S. Cheng:::Estimation of Switch Statuses for Radical Power Distribution Systems.
+conf/iscas/Harvey93:::Barry Harvey:::Current Feedback Opamp Limitations: A State-of-the-art Review.
+conf/iscas/PingF93:::W. Ping::José E. Franca:::Switched-capacitor Polyphase Sructures for Two-dimensional Analog FIR Filtering.
+conf/iscas/HalonenKWK94:::Kari Halonen::Kimmo Koli::Jukka Wallinheimo::Harri Kimppa:::An Integrated Fully-Differential Switched-Current Ladder Filter.
+conf/iscas/UnaltunaP94:::M. Kemal Unaltuna::Vijay Pitchumani:::A Stochastic Reward &amp; Punishment Neural Network Algorithm for Circuit Bipartitioning.
+conf/iscas/BrambillaDP93:::Angelo Brambilla::Dario D'Amore::Margherita Pillan:::Convergence improvements of the harmonic balance method.
+conf/iscas/AdamsT95:::Mervyn H. Adams::Chris Toumazou:::A Novel Architecture for Reducing the Sensitivity of Multibit Sigma-Delta ADCs To DAC Nonlinearity.
+conf/iscas/BazarjaniS95:::Seyfi S. Bazarjani::Martin Snelgrove:::Low Voltage SC Circuit Design with Low-V<sub>t</sub> MOSFETs.
+conf/iscas/IshidaYOMT93:::Akira Ishida::Miki Yamamoto::Hiromi Okada::Kouichi Mutsuura::Yoshikazu Tezuka:::Immediate transmission scheme of s-ALOHA with PCT method.
+conf/iscas/CaponettoFV94:::Riccardo Caponetto::Luigi Fortuna::C. Vinci:::Design of Fuzzy Filters by Genetic Algorithms.
+conf/iscas/KanekoMH93:::Mineo Kaneko::Masahiro Masuda::Tomohiro Hayashi:::A Novel Capacitor Placement Strategy in ASCCOT: Automatic Layouter for Switched Capacitor Circuits.
+conf/iscas/Piet-LahanierW93:::H. Piet-Lahanier::E. Walter:::Polyhedric approximation and tracking for bounded-error models.
+conf/iscas/BoseJ94:::Tamal Bose::Kyung Sub Joo:::The Generalized Bilinear System: a Class of Nonlinear Discrete Systems.
+conf/iscas/Vaidyanathan94:::P. P. Vaidyanathan:::Biorthonormal Filter Banks and the Theory of Transfer Matrix Inversion.
+conf/iscas/SutiknoKO94:::Sarwono Sutikno::Mineo Kaneko::Mahoki Onoda:::A Distributed Reconfiguration Controller for Linear Array Harvest Problem: Hierarchically Quasi-Normalized Neural Approach.
+conf/iscas/Espejo-MeanaDR95:::Servano Espejo-Meana::Rafael Domínguez-Castro::Ángel Rodríguez-Vázquez:::Realization of a CNN Universal Chip in CMOS Technolgy.
+conf/iscas/Chang94:::Fung-Yuel Chang:::Waveform Relaxation Synthesis of Distributed-Lumped Network Characteristic Models.
+conf/iscas/ChenD93:::Guanrong Chen::Xiaoning Dong:::Ordering chaos of Chua's circuit - A feedback control approach.
+conf/iscas/Bruun93:::Erik Bruun:::CMOS Technology and Current-feedback Op-Amps.
+conf/iscas/Bruun94:::Erik Bruun:::A High-Speed CMOS Current Opamp for Very Low Supply Voltage Operation.
+conf/iscas/ChoLK93:::Nam Ik Cho::Sang Uk Lee::Kiho Kim:::Design of FIR filter over a discrete coefficient space with applications to HDTV signal processing.
+conf/iscas/Freier93:::Bernd E. Freier:::Reducing the Physical Design Cycle by Means of Topological Placement with Hard Timing Restraints.
+conf/iscas/ChowL95:::Keith Hung-Kei Chow::Ming L. Liou:::Simple Cell Admission Control and Buffer Management Scheme for Mulitclass Video-On-Demand Service.
+conf/iscas/ChuMS94:::Yiren Chu::Iuri Mehr::Terry Sculley:::High Speed Analog Filtering Using Feedforward Neural Network Architectures.
+conf/iscas/BaschirottoACM93:::A. Baschirotto::R. Alini::R. Castello::F. Montecchi:::High-speed BiCMOS Operational Amplifier for Switched-capacitor Circuits.
+conf/iscas/WuLS94:::John Wu::Bosco Leung::Sehat Sutarja:::A Mismatch Independent DNL Pipelined Analog to Digital Converter.
+conf/iscas/Xiao93:::Cheng-Shan Xiao:::A new study on the synthesis of 2-D state-space digital filters with minimum roundoff noise.
+conf/iscas/SchnauferJ94:::Bernard A. Schnaufer::W Kenneth Jenkins:::An FFT-Based Fault Tolerant FIR Adaptive Filter.
+conf/iscas/MalobertiBCFB95:::Franco Maloberti::S. Brigati::Giuseppe Caiulo::Guido Franchi::A. Bigongiari:::An Analog High-Speed Wide-Range Programmable Monostable Multivibrator.
+conf/iscas/BullH93:::David R. Bull::David H. Horrocks:::Realisation techniques for primitive operator infinite impulse response digital filters.
+conf/iscas/YehM95:::Pen-Shu Yeh::Warner H. Miller:::A Real-Time Lossless Data Compression Technology for Remote-Sensing and Other Applications.
+conf/iscas/WuCJJ93:::Quen-Zong Wu::Yann LeCun::Larry D. Jackel::Bor-Shenn Jeng:::On-line recognition of limited-vocabulary Chinese character using multiple convolutional neural networks.
+conf/iscas/TamuraSSSA95:::Hiroshi Tamura::Ryohei Sato::Masakazu Sengoku::Shoji Shinoda::Takeo Abe:::The Structure of Networks Realized from Terminal Capacity Matrices.
+conf/iscas/Dostal94a:::Tomás Dostál:::Synthesis of Switched-Capacitor Inductance Simulation Circuits.
+conf/iscas/ClarkNS94:::C. T. Clark::Graham R. Nudd::S. Summerfield:::Current Mode Techniques for Multiple Valued Arithmetic and Logic.
+conf/iscas/YuLM93:::Xiangui Yu::Nan K. Loh::William C. Miller:::A new algorithm for training multilayer feedforward neural networks.
+conf/iscas/AccianiCM94:::Giuseppe Acciani::Ernesto Chiarantoni::M. Minenna:::A New Non Competitive Unsupervised Neural Network for Clustering.
+conf/iscas/Davis95:::Artice M. Davis:::K infinity Generalized Functions.
+conf/iscas/KaulbergB94:::Thomas Kaulberg::Gudmundur Bogason:::An Angledetector Based on Magnetic Sensing.
+conf/iscas/KurosawaKT93:::Kaoru Kurosawa::Kouichi Kawabe::Shigeo Tsujii:::Stability and zeros of a complex polynomial.
+conf/iscas/HughesM93:::John B. Hughes::Kenneth W. Moulding::: <i>S<sup>2</sup>I</i>: A Two-step Approach to Switched-Currents.
+conf/iscas/Ciocoiu94:::Iulian B. Ciocoiu:::Circuit Implementation of a Nonmonotone Activation Function.
+conf/iscas/SeijasS95:::Juan Seijas::José L. Sanz-González:::Basic-Evolutive Algorithms for Neural Networks Architecture Configuration and Training.
+conf/iscas/TangAN93:::Kaijun Tang::Jaakko Astola::Yrjö Neuvo:::Adaptive nonlinear multivariate image filtering for mixed noise removal.
+conf/iscas/DabrowskiO94:::Adam Dabrowski::Marek Olejniczak:::Floating-point Quasi-Maximum Accuracy Arithmetics for Digital Signal Processing.
+conf/iscas/BrachtendorfWL95:::Hans Georg Brachtendorf::G. Welsch::Rainer Laur:::Fast Simulation of the Steady-State of Circuits by the Harmonic Balance Technique.
+conf/iscas/PhoongV95:::See-May Phoong::P. P. Vaidyanathan:::Efficient Recursive Computation of 1D and 2D-Quincunx IIR Wavelets.
+conf/iscas/CzarnulTFIY94:::Zdzislaw Czarnul::Shigetaka Takagi::Nobuo Fujii::Tetsuya Iida::Takeshi Yanagisawa:::Principles of nonlinearity Cancellation in Linear MOS Systems using MRC Circuits.
+conf/iscas/ChakrabartiW94:::Chaitali Chakrabarti::Li-Yu Wang:::Novel Sorting Netowrk-Based Architectures for Rank Order Filters.
+conf/iscas/WojciechowskiOZ95a:::Jacek Wojciechowski::Leszek Opalski::Krzysztof Zamlynski:::Applications of the Piecewise Ellipsoidal Approximation to the Design of Nonlinear Circuits.
+conf/iscas/KhooJ94:::Kei-Yong Khoo::Alan N. Willson Jr.:::Low Power CMOS Clock Buffer.
+conf/iscas/BenyassineA95:::Adil Benyassine::Ali N. Akansu:::Performance Analysis and Optimal Structuring of Subchannels for Discrete Multitone Transceivers.
+conf/iscas/Fliege93:::Norbert J. Fliege:::Closed form design of prototype filters for linear phase DFT polyphase filter banks.
+conf/iscas/Szczepanski94:::Stanislaw Szczepanski:::VHF Fully-Differential Linearized CMOS Transconductance Element and its Applications.
+conf/iscas/BaschirottoCM93:::A. Baschirotto::R. Castello::F. Montecchi:::Exact Design of High-frequency SC Circuits with Low-gain Op Amps.
+conf/iscas/OHairS94:::John R. O'Hair::Bruce W. Suter:::The Zak Transform and Decimated Spectrograms.
+conf/iscas/NguyenLT94:::Truong Q. Nguyen::Timo I. Laakso::T. Engin Tuncer:::On Perfect-Reconstruction Allpass-Based Cosine-Modulated IIR Filter Banks.
+conf/iscas/LejmiKW93:::Samir Lejmi::Bozena Kaminska::Edouard Wagneur:::Resynthesis and Retiming of Synchronous Sequential Cirucits.
+conf/iscas/Alkhairy94:::Ashraf Alkhairy:::Synthesis of Optimal Nonrecursive Filters.
+conf/iscas/DellerCY94:::J. R. Deller Jr.::C. C. Chiu::Y. P. Yang:::A Decoding Strategy Using Graph Partitioning for Continuous-Speech Recognition.
+conf/iscas/LoizouS94:::Philipos C. Loizou::Andreas Spanias:::Context-Dependent Modeling in Alphabet Recognition.
+conf/iscas/ZeleLA93:::Rajesh H. Zele::Sang-Soo Lee::David J. Allstot:::A 3V-125 MHz CMOS Continuous-time Filter.
+conf/iscas/VerhoevenH95:::Huibert-Jan Verhoeven::Johan H. Huijsing:::Design of Thermal Sigma-Delta Modulators for Smart Thermal Sensors.
+conf/iscas/Silva-MartinezS95:::José Silva-Martínez::Jorge Salcedo-Suner:::A CMOS Preamplifier for Electret Microphones.
+conf/iscas/Salam93:::Fathi M. A. Salam:::An adaptive network for blind separation of independent signals.
+conf/iscas/KochM93:::Bernd K. Koch::Klaus D. Müller-Glaser:::An Examination of Feedback Bridging Faults in Digital CMOS Circuits.
+conf/iscas/IsmailB93:::Osman Ismail::B. Bandyopadhyay:::Design of state feedback control law for interval systems.
+conf/iscas/KoliH94:::Kimmo Koli::Kari Halonen:::A BiCMOs Current-Feedback Operational Amplifier with a 60 dB Constant Bandwidth Range.
+conf/iscas/ExpositoAR95:::Antonio Gómez Expósito::Ali Abur::Esther Romero Ramos:::On the Use of Loop Equations in Power System Analysis.
+conf/iscas/ZengBM94:::X. Zeng::P. Bowron::A. A. Muhieddine:::HD and IMD Prediction Techniques for Active Filters.
+conf/iscas/GourgueBAB94:::Frédéric Gourgue::Maurice Bellanger::Sabrina Azrouf::Vincent Bruneau:::A Bandpass Subsampled Delta-Sigma Modulator for Narrowband Cellular Mobile Communications.
+conf/iscas/HaslerDMM95:::Paul Hasler::Chris Diorio::Bradley A. Minch::Carver Mead:::Single Transistor Learning Synapse with Long Term Storage.
+conf/iscas/CartyJEKJ95:::C. A. Carty::M. M. Jamali::A. G. Eldin::Subhash C. Kwatra::R. E. Jones:::A High Speed 800 Channel Digital Interpolator Network.
+conf/iscas/PramanickA94:::Ira Pramanick::Hyder Ali:::Analysis and Experiments for a Parallel Solution to the All Pairs Shortest Path Problem.
+conf/iscas/Zeheb94:::Ezra Zeheb:::Conditions for Hurwitz Stability of Interval Matrices.
+conf/iscas/LiangLZ95:::Ying-Chang Liang::Yan-Da Li::Xian-Da Zhang:::EAMUSE: An Extended Algorithm for Multiple Sources Extraction.
+conf/iscas/NguyenJ94:::Truong Q. Nguyen::Sriram Jayasimha:::Polarity-Coincidence Filter Banks and Nondestructive Evaluation.
+conf/iscas/ZengH94:::W. J. Zeng::Y. F. Huang:::Boundary Matching Detection for Progressive Transmission of VQ Indices over Noisy Channels.
+conf/iscas/ZengV93:::Bing Zeng::Anastasios N. Venetsanopoulos:::A split sorting-algorithm for generalized order statistic filters.
+conf/iscas/Salapura94:::Valentina Salapura:::Neural Networks Using Bit Stream Arithmetic: a Space Efficient Implementation.
+conf/iscas/LinAC93:::L. C. Lin::George B. Adams III::E. J. Coyle:::Circular stack filters.
+conf/iscas/ShahT95:::Peter Shah::Chris Toumazou:::A New BiCMOS Technique for Very Fast Discrete-Time Signal Processing.
+conf/iscas/LinU94a:::Ji-Nan Lin::Rolf Unbehauen:::On Generalization of Order Statistics Based Filters.
+conf/iscas/LinY94a:::Sheng Lin::Qin-Ye Yin:::Performance Analysis of Hopfield Neural Networks for DOA Estimation.
+conf/iscas/DjuricC93:::Petar M. Djuric::Chao-Ming Cho:::Frequency estimation of sinusoids in colored noise.
+conf/iscas/AboelazeLW93:::Mokhtar Aboelaze::De-Lei Lee::Benjamin W. Wah:::Two-dimensional digital filtering using constant-I/O systolic arrays.
+conf/iscas/PenzoSS95:::Luca Penzo::Donatella Sciuto::Cristina Silvano:::GECO: A Tool for Automatic Generation of Error Control Codes for Computer Applications.
+conf/iscas/LinGSJ93:::Yu-Sheng Lin::Jiun-In Guo::C. Bernard Shung::Chein-Wei Jen:::A Multi-phase Shared Bus Structure for the Fast Fourier Transform.
+conf/iscas/VisocchiTMBH94:::Pasqualino Visocchi::John T. Taylor::Richard Mason::Andrew Betts::David Haigh:::A High-Precision, Fully Tunable OTA-C Second-Order Banpass Filter Implemented in GaAs MESFET Technology.
+conf/iscas/MaioC94:::Ivan A. Maio::F. G. Canavero:::Lossy Transmission Line Response via Numerical Laplace Transform Inversion.
+conf/iscas/ZhuSA95:::Jieyan Zhu::Mohamad Sawan::Karim Arabi:::An Offset Compensated CMOS Current-Feedback Operational-Amplifier.
+conf/iscas/DeokarS94:::Rahul B. Deokar::Sachin S. Sapatnekar:::A Graph-Theoretic Approach to Clock Skew Optimization.
+conf/iscas/PerryR95:::D. Perry::Gordon W. Roberts:::Log-Domain Filters Based on LC Ladder Synthesis.
+conf/iscas/Bostel95:::A. J. Bostel:::Training Radial Basis Function Networks with Perturbation Methods.
+conf/iscas/GaltonZ93:::Ian Galton::George Zimmerman:::Combined RF Phase Extraction and Digitalization.
+conf/iscas/Ramirez-Angulo94a:::Jaime Ramírez-Angulo:::Low Voltage Current Mirrors for Built-in Current Sensors.
+conf/iscas/LingS93a:::Bo Ling::Fathi M. A. Salam:::Parameter determination for an implementable feedback neural network.
+conf/iscas/VaidyanathanP95:::P. P. Vaidyanathan::See-May Phoong:::Reconstruction of Sequences from Nonuniform Samples.
+conf/iscas/ChangSCA93:::Carl K. Chang::Xin Shu::Gene Chan::Mikio Aoyama:::An object-oriented real-time distributed simulation of cellular phone switching system.
+conf/iscas/BolchiniBSS94:::Cristiana Bolchini::Giacomo Buonanno::Donatella Sciuto::Renato Stefanelli:::CMOS Reliability Improvements Through a New Fault Tolerant Technique.
+conf/iscas/Panayirci94:::Erdal Panayirci:::Symbol Timing Recovery in Digital Subscriber Loops in the Presence of Residual Echo &amp; Impulsive Noise.
+conf/iscas/WintermantelL94:::Markus Wintermantel::Ernst Lüder:::Increasing the Speed and Saving Mulitpliers in Block Parallel Digital Filters by a Linear Transformation.
+conf/iscas/HossainWA93:::Razak Hossain::Leszek B. Wronski::Alexander Albicki:::Doubel Edge Triggered Devices: Speed and Power Considerations.
+conf/iscas/NandaDP94:::P. K. Nanda::Uday B. Desai::P. G. Poonacha:::A Homotopy Continuation Method for Parameter Estimation in MRF Models and Image Restoration.

@@ -1,0 +1,200 @@
+journals/stvr/BallHRWW00:::Thomas Ball::Daniel Hoffman::Frank Ruskey::Richard Webber::Lee J. White:::State Generation and Automated Class Testing.
+journals/stvr/OffuttC94:::A. Jefferson Offutt::W. M. Craft:::Using Compiler Optimization Techniques to Detect Equivalent Mutants.
+journals/stvr/Yates92:::Derek Yates:::Editorial.
+journals/stvr/Yates95:::Derek Yates:::Editorial.
+journals/stvr/HolzmannS01:::Gerard J. Holzmann::Margaret H. Smith:::Software model checking: extracting verification models from source code.
+journals/stvr/Fenton91:::Norman E. Fenton:::Software Complexity: Measures and Methods, by Horst Zuse, Published by Walter de Gruyter, 1990 (Book Review).
+journals/stvr/Fenton94:::Norman E. Fenton:::Software Engineering Metrics, Volume 1: Measures and Validations, by Martin Sheppard, McGraw-Hill, 1993 (Book Review).
+journals/stvr/Taylor00:::Richard Taylor:::Test Process Improvement, Tim Koomen and Martin Pol, Addison-Wesley, 1999 (Book Review).
+journals/stvr/HieronsHD99:::Robert M. Hierons::Mark Harman::Sebastian Danicic:::Using Program Slicing to Assist in the Detection of Equivalent Mutants.
+journals/stvr/SoCSK02:::Sun Sup So::Sung Deok Cha::Timothy J. Shimeall::Yong Rae Kwon:::An empirical evaluation of six methods to detect faults in software.
+journals/stvr/Edwards01:::Stephen H. Edwards:::A framework for practical, automated black-box testing of component-based software.
+journals/stvr/Sneed94:::Harry M. Sneed:::Validating Functional Equivalence of Re-engineered Programs via Control Path, Result, and Data Flow Comparison.
+journals/stvr/HarroldRSWY00:::Mary Jean Harrold::Gregg Rothermel::Kent Sayre::Rui Wu::Liu Yi:::An Empirical Investigation of the Relationship Between Spectra Differences and Regression Faults.
+journals/stvr/IorgulescuS97:::R. Iorgulescu::R. E. Seviora:::A Method for Continuous Real-Time Supervision.
+journals/stvr/Bertolino96:::Antonia Bertolino:::Software Assessment: Reliability, Safety, Testability, by Michael A. Friedman and Jeffrey M. Voas, Wiley, 1995 (Book Review).
+journals/stvr/Hierons02:::Robert M. Hierons:::Editorial: Formal methods and testing.
+journals/tkde/Papadimitriou94:::Georgios I. Papadimitriou:::A New Approach to the Design of Reinforcement Schemes for Learning Automata: Stochastic Estimator Learning Algorithms.
+journals/tkde/Bell93:::David A. Bell:::From Data Properties to Evidence.
+journals/tkde/ParedaensPT95:::Jan Paredaens::Peter Peelman::Letizia Tanca:::G-Log: A Graph-Based Query Language.
+journals/tkde/KimGBW90:::Won Kim::Jorge F. Garza::Nat Ballou::Darrell Woelk:::Architecture of the ORION Next-Generation Database System.
+journals/tkde/BertinoGM00:::Elisa Bertino::Giovanna Guerrini::Isabella Merlo:::Trigger Inheritance and Overriding in an Active Object Database System.
+journals/tkde/ChenBS03:::Chung-Min Chen::Randeep Bhatia::Rakesh K. Sinha:::Multidimensional Declustering Schemes Using Golden Ratio and Kronecker Sequences.
+journals/tkde/ChenWY03:::Ming-Syan Chen::Kun-Lung Wu::Philip S. Yu:::Optimizing Index Allocation for Sequential Data Broadcasting in Wireless Mobile Computing.
+journals/tkde/ChenYW96:::Ming-Syan Chen::Philip S. Yu::Kun-Lung Wu:::Optimization of Parallel Execution for Multi-Join Queries.
+journals/tkde/Fateman89:::Richard J. Fateman:::A Review of Macsyma.
+journals/tkde/GalM01:::Avigdor Gal::John Mylopoulos:::Toward Web-Based Application Management Systems.
+journals/tkde/DamianiVPS03:::Ernesto Damiani::Sabrina De Capitani di Vimercati::Stefano Paraboschi::Pierangela Samarati:::Managing and Sharing Servents' Reputations in P2P Systems.
+journals/tkde/BansalW03:::Arvind K. Bansal::Christopher Woolverton:::Applying Automatically Derived Gene-Groups to Automatically Predict and Refine Metabolic Pathways.
+journals/tkde/LawrenceGF00:::Steve Lawrence::C. Lee Giles::Sandiway Fong:::Natural Language Grammatical Inference with Recurrent Neural Networks.
+journals/tkde/Cao03:::Guohong Cao:::A Scalable Low-Latency Cache Invalidation Strategy for Mobile.
+journals/tkde/Han95:::Jiawei Han:::Chain-Split Evaluation in Deductive Databases.
+journals/tkde/HouZ03:::Jingyu Hou::Yanchun Zhang:::Effectively Finding Relevant Web Pages from Linkage Information.
+journals/tkde/LiS02:::Jianzhong Li::Jaideep Srivastava:::Efficient Aggregation Algorithms for Compressed Data Warehouses.
+journals/tkde/Ngu89:::Anne H. H. Ngu:::Conceptual Transaction Modeling.
+journals/tkde/WangL00:::Ke Wang::Huiqing Liu:::Discovering Structural Association of Semistructured Data.
+journals/tkde/SrivastavaC99:::Jaideep Srivastava::Ping-Yao Chen:::Warehouse Creation - A Potential Roadblock to Data Warehousing.
+journals/tkde/SuO91:::Tzong-An Su::Gultekin Özsoyoglu:::Controlling FD and MVD Inferences in Multilevel Relational Database Systems.
+journals/tkde/ConsolePD96:::Luca Console::Luigi Portinale::Daniele Theseider Dupré:::Using Compiled Knowledge to Guide and Focus Abductive Diagnosis.
+journals/tkde/YuZ03:::Dantong Yu::Aidong Zhang:::ClusterTree: Integration of Cluster Representation and Nearest-Neighbor Search for Large Data Sets with High Dimensions.
+journals/tkde/KitsuregawaPP00:::Masaru Kitsuregawa::Mike P. Papazoglou::Calton Pu:::Guest Editors' Introduction - Papers from ICDE 1999.
+journals/tkde/VassiliadisTK94:::Stamatis Vassiliadis::George Triantafyllos::Walid Kobrosly:::A Fuzzy Reasoning Database Question Answering System.
+journals/tkde/VassiliadisTK97:::Stamatis Vassiliadis::George Triantafyllos::Walid Kobrosly:::Establishing the Relevancy of the Bookkeeping Libraries to the Functional Testing of Computer Implementations.
+journals/tkde/LeeH95:::Sang Ho Lee::Lawrence J. Henschen:::Evaluation of Recursive Queries with Extended Rules in Deductive Databases.
+journals/tkde/LinH01:::Hui Lin::Bo Huang:::SQL/SDA: A Query Language for Supporting Spatial Data Analysis and Its Web-Based Implementation.
+journals/tkde/GraefeLS94:::Goetz Graefe::Ann Linville::Leonard D. Shapiro:::Sort versus Hash Revisited.
+journals/tkde/DuttaWD97:::Soumitra Dutta::Berend Wierenga::Arco Dalebout:::Case-Based Reasoning Systems: From Automation to Decision-Aiding and Simulation.
+journals/tkde/LuLH94:::Wenyu Lu::Dik Lun Lee::Jiawei Han:::A Study on the Structure of Linear Recursion.
+journals/tkde/MoonLI03:::Bongki Moon::Inés Fernando Vega López::Vijaykumar Immanuel:::Efficient Algorithms for Large-Scale Temporal Aggregation.
+journals/tkde/ParthasarathyA03:::Srinivasan Parthasarathy::Charu C. Aggarwal:::On the Use of Conceptual Reconstruction for Mining Massively Incomplete Data Sets.
+journals/tkde/WangYM00:::Wei Wang::Jiong Yang::Richard R. Muntz:::An Approach to Active Spatial Data Mining Based on Statistical Information.
+journals/tkde/Chengalur-SmithBP99:::InduShobha N. Chengalur-Smith::Donald P. Ballou::Harold L. Pazer:::The Impact of Data Quality Information on Decision Making: An Exploratory Analysis.
+journals/tkde/Manivannan94:::S. Manivannan::S. A. Guthrie:::A Knowledge-Based Fatal Incident Decision Model.
+journals/tkde/CheungLX02:::David Wai-Lok Cheung::Sau Dan Lee::Yongqiao Xiao:::Effect of Data Skewness and Workload Balance in Parallel Data Mining.
+journals/tkde/ChuHCT98:::Wesley W. Chu::Chih-Cheng Hsu::Alfonso F. Cardenas::Ricky K. Taira:::Knowledge-Based Image Retrieval with Spatial and Temporal Constructs.
+journals/tkde/AgrawalAL94:::Divyakant Agrawal::Amr El Abbadi::A. E. Lang:::The Performance of Protocols Based on Locks with Ordered Sharing.
+journals/tkde/GlasgowJBF91:::Janice I. Glasgow::Michael A. Jenkins::Eli Blevis::Michel P. Féret:::Logic Programming with Arrays.
+journals/tkde/RamaswamySC97:::Mysore Ramaswamy::Sumit Sarkar::Ye-Sho Chen:::Using Directed Hypergraphs to Verity Rule-Based Expert Systems.
+journals/tkde/SuHC98:::Stanley Y. W. Su::Soon J. Hyun::Hsin-Hsing M. Chen:::Temporal Association Algebra: A Mathematical Foundation for Processing Object-Oriented Temporal Databases.
+journals/tkde/SuRH00:::Stanley Y. W. Su::Sanjay Ranka::Xiang He:::Performance Analysis of Parallel Query Processing Algorithms for Object-Oriented Databases.
+journals/tkde/MegalouH03:::Elina Megalou::Thanasis Hadzilacos:::Semantic Abstractions in the Multimedia Domain.
+journals/tkde/CarterH98:::Colin L. Carter::Howard J. Hamilton:::Efficient Attribute-Oriented Generalization for Knowledge Discovery from Large Databases.
+journals/tkde/Wah96b:::Benjamin W. Wah:::Editorial: Results of TKDE's 1995 Readership Survey.
+journals/tkde/Wang98:::Jung-Hua Wang:::Principal Interconnections in Higher Order Hebbian-Type Associative Memories.
+journals/tkde/AdamABF02:::Nabil R. Adam::Vijayalakshmi Atluri::Elisa Bertino::Elena Ferrari:::A Content-Based Authorization Model for Digital Libraries.
+journals/tkde/UrbanD90:::Susan Darling Urban::Lois M. L. Delcambre:::Constraint Analysis: A Design Process for Specifying Operations on Objects.
+journals/tkde/WolfsonO93:::Ouri Wolfson::Aya Ozeri:::Parallel and Distributed Processing of Rules by Data Reduction.
+journals/tkde/SarkarM96:::Sumit Sarkar::Ishwar Murthy:::Constructing Efficient Belief Network Structures With Expert Provided Information.
+journals/tkde/RoddickCR96:::John F. Roddick::Noel G. Craske::Thomas J. Richards:::Handling Discovered Structure in Database Systems.
+journals/tkde/YooS93:::Song Bong Yoo::Phillip C.-Y. Sheu:::Evaluation and Optimization of Query Programs in an Object-Oriented and Symbolic Information System.
+journals/tkde/QianL96:::Xiaolei Qian::Teresa F. Lunt:::A MAC Policy Framework for Multilevel Relational Databases.
+journals/tkde/QianW91:::Xiaolei Qian::Gio Wiederhold:::Incremental Recomputation of Active Relational Expressions.
+journals/tkde/PramanikJ96:::Sakti Pramanik::Sungwon Jung:::Description and Identification of Distributed Fragments of Recursive Relations.
+journals/tkde/PramanikT97:::Sakti Pramanik::Walid R. Tout:::The NUMA with Clusters of Processors for Parallel Join.
+journals/tkde/HadzikadicB97:::Mirsad Hadzikadic::Benjamin F. Bohren:::Learning to Predict: INC2.5.
+journals/tkde/GooleyW89:::Markian M. Gooley::Benjamin W. Wah:::Efficient Reordering of Prolog Programs.
+journals/tkde/RundensteinerB92:::Elke A. Rundensteiner::Lubomir Bic:::Set Operations in Object-Based Data Models.
+journals/tkde/SnodgrassGM93:::Richard T. Snodgrass::Santiago Gomez::L. Edwin McKenzie:::Aggregates in the Temporal Query Language TQuel.
+journals/tkde/MirankerL91:::Daniel P. Miranker::Bernie J. Lofaso:::The Organization and Performance fo a TREAT-Based Production System Compiler.
+journals/tkde/GiordanaSBBM93:::Attilio Giordana::Lorenza Saitta::Francesco Bergadano::Filippo Brancadori::Davide De Marchi:::ENIGMA: A System That Learns Diagnostic Knowledge.
+journals/tkde/LaskeyM00:::Kathryn B. Laskey::Suzanne M. Mahoney:::Network Engineering for Agile Belief Network Models.
+journals/tkde/OzsoyogluGDH95:::Gultekin Özsoyoglu::Sujatha Guruswamy::Kaizheng Du::Wen-Chi Hou:::Time-Constrained Query Processing in CASE-DB.
+journals/tkde/TangMXMS97:::Yuan Yan Tang::Hong Ma::Dihua Xi::Xiaogang Mao::Ching Y. Suen:::Modified Fractal Signature (MFS): A New Approach to Document Analysis for Automatic Knowledge Acquisition.
+journals/tkde/BoberC97:::Paul M. Bober::Michael J. Carey:::Indexing for Multiversion Locking: Alternatives and Performance Evaluation.
+journals/tkde/StoreyD02:::Veda C. Storey::Debabrata Dey:::A Methodology for Learning Across Application Domains for Database Design Systems.
+journals/tkde/Gur-AliW93:::Özden Gür-Ali::William A. Wallace:::Induction of Rules Subject to a Quality Constraint: Probabilistic Inductive Learning.
+journals/tkde/RichW92:::Charles Rich::Richard C. Waters:::Knowledge Intensive Software Engineering Tools.
+journals/tkde/LitwinR92:::Witold Litwin::Tore Risch:::Main Memory Oriented Optimization of OO Queries Using Typed Datalog with Foreign Predicates.
+journals/tkde/DasguptaCDGB02:::Pallab Dasgupta::P. P. Chakrabarti::Arnab Dey::Sujoy Ghose::Wolfgang Bibel:::Solving Constraint Optimization Problems from CLP-Style Specifications Using Heuristic Search Techniques.
+journals/tkde/StefanovicHK00:::Nebojsa Stefanovic::Jiawei Han::Krzysztof Koperski:::Object-Based Selective Materialization for Efficient Implementation of Spatial Data Cubes.
+journals/tkde/LaneH01:::Peter Lane::James Henderson:::Incremental Syntactic Parsing of Natural Language Corpora with Simple Synchrony Networks.
+journals/tkde/KaushikR01:::Sudhir Kaushik::Elke A. Rundensteiner:::SEE: A Spatial Exploration Environment Based on a Direct-Manipulation Paradigm.
+journals/tkde/DoanW97:::Khanh P. V. Doan::Kit Po Wong:::SHAPES: A Novel Approach for Learning Search Heuristics in Under-Constrained Optimization Problems.
+journals/tkde/Patel-SchneiderS03:::Peter F. Patel-Schneider::Jérôme Siméon:::The Yin/Yang Web: A Unified Model for XML Syntax and RDF Semantics.
+journals/tkde/DennaHM91:::Eric L. Denna::James V. Hansen::Rayman D. Meservy:::Development and Application of Expert System in Audit Services.
+journals/tkde/FujiharaSES97:::Hiroko Fujihara::Dick B. Simmons::Newton C. Ellis::Robert E. Shannnon:::Knowledge Conceptualization Tool.
+journals/tkde/TorosluQ96:::Ismail H. Toroslu::Ghassan Z. Qadah:::The Strong Partial Transitive-Closure Problem: Algorithms and Performance Evaluation.
+journals/tkde/LeiboviciFSRKSA00:::Leonard Leibovici::Michal Fishman::Henrik C. Schønheyder::Christian Riekehr::Brian Kristensen::Ilana Shraga::Steen Andreassen:::A Causal Probabilistic Network for Optimal Treatment of Bacterial Infections.
+journals/tkde/LiCVA02:::Wen-Syan Li::K. Selçuk Candan::Quoc Vu::Divyakant Agrawal:::Query Relaxation by Structure and Semantics for Retrieval of Logical Web Documents.
+journals/tkde/RacineY01:::Kirsti Racine::Qiang Yang:::Redundancy Detection in Semistructured Case Bases.
+journals/tkde/DuGMS89:::David Hung-Chang Du::S. Ghanta::Kurt Maly::Suzanne M. Sharrock:::An Efficient File Structure for Document Retrieval in the Automated Office Environment.
+journals/tkde/BeneventanoBLS98:::Domenico Beneventano::Sonia Bergamaschi::Stefano Lodi::Claudio Sartori:::Consistency Checking in Complex Object Database Schemata with Integrity Constraints.
+journals/tkde/FloydE89:::Richard A. Floyd::Carla Schlatter Ellis:::Directory Reference Patterns in Hierarchical File Systems.
+journals/tkde/ProiettiF00:::Guido Proietti::Christos Faloutsos:::Analysis of Range Queries and Self-Spatial Join Queries on Real Region Datasets Stored Using an R-Tree.
+journals/tkde/Garcia89:::Oscar N. Garcia:::Foreword - Knowledge and Data Engineering: An Outlook.
+journals/tkde/SekiH01:::Yoshiaki Seki::Tetsuo Hidaka:::DOLPHIN: Digital Online Library Providing Human-Like Interactive Navigation.
+journals/tkde/LinOY94:::Eileen Tien Lin::Edward Omiecinski::Sudhakar Yalamanchili:::Large Join Optimization on a Hypercube Multiprocessor.
+journals/tkde/GarofalakisRS02:::Minos N. Garofalakis::Rajeev Rastogi::Kyuseok Shim:::Mining Sequential Patterns with Regular Expression Constraints.
+journals/tkde/AggarwalWY99:::Charu C. Aggarwal::Joel L. Wolf::Philip S. Yu:::Caching on the World Wide Web.
+journals/tkde/BaekgaardM95:::Lars Bækgaard::Leo Mark:::Incremental Computation of Time-Varying Query Expressions.
+journals/tkde/Simon91:::Herbert A. Simon:::Artificial Intelligence: Where Has It Been, Where is it Going?
+journals/tkde/BurnsSL03:::Randal C. Burns::Larry J. Stockmeyer::Darrell D. E. Long:::In-Place Reconstruction of Version Differences.
+journals/tkde/TanLG02:::Hee Beng Kuan Tan::Tok Wang Ling::Cheng Hian Goh:::Exploring into Programs for the Recovery of Data Dependencies Designed.
+journals/tkde/Sadri95a:::Fereidoon Sadri:::Information Source Tracking Method: Efficiency Issues
+journals/tkde/TangN93:::Jian Tang::N. Natarajan:::Obtaining Coteries That Optimize the Availability of Replicated Databases.
+journals/tkde/PayneEG97:::Terry R. Payne::Peter Edwards::Claire L. Green:::Experience with Rule Induction and k-Nearest Neighbor Methods for Interface Agents that Learn.
+journals/tkde/SungLTN03:::Sam Yuan Sung::Zhao Li::Chew Lim Tan::Peter A. Ng:::Forecasting Association Rules Using Existing Data Sets.
+journals/tkde/Venkatesh92:::Santosh S. Venkatesh:::The Science of Making ERORS: What Error Tolerance Implies for Capacity in Neural Networks.
+journals/tkde/LiuHGP02:::Li-min Liu::Michael Halper::James Geller::Yehoshua Perl:::Using OODB Modeling to Partition a Vocabulary in Structurally and Semantically Uniform Concept Groups.
+journals/tkde/DuttaM93:::Amitava Dutta::Sabyasachi Mitra:::Integrating Heuristic Knowledge and Optimization Models for Communications Network Design.
+journals/tkde/BettiniWJL98:::Claudio Bettini::Xiaoyang Sean Wang::Sushil Jajodia::Jia-Ling Lin:::Discovering Frequent Event Patterns with Multiple Granularities in Time Sequences.
+journals/tkde/Benaroch97:::Michel Benaroch:::Toward the Notion of a Knowledge Repository for Financial Risk Management.
+journals/tkde/Osborn89:::Sylvia L. Osborn:::The Role of Polymorphism in Schema Evolution in an Object-Oriented Database.
+journals/tkde/KshemkalyaniS99:::Ajay D. Kshemkalyani::Mukesh Singhal:::A One-Phase Algorithm to Detect Distributed Deadlocks in Replicated Databases.
+journals/tkde/PirotteRZ91:::Alain Pirotte::Dominique Roelants van Baronaigien::Esteban Zimányi:::Controlled Generation of Intensional Answers.
+journals/tkde/KumarB92:::Vijay Kumar::Albert Burger:::Performance Measurement of Main Memory Database Recovery Algorithms Based on Update-in-Place and Shadow Approaches.
+journals/tkde/RamamrithamP95:::Krithi Ramamritham::Calton Pu:::A Formal Characterization of Epsilon Serializability.
+journals/tkde/Mookerjee01:::Vijay S. Mookerjee:::Debiasing Training Data for Inductive Expert System Construction.
+journals/tkde/TsaiLW98:::Jeffrey J. P. Tsai::Bing Li::Thomas J. Weigert:::A Logic-Based Transformation System.
+journals/tkde/GyssensPBG94:::Marc Gyssens::Jan Paredaens::Jan Van den Bussche::Dirk Van Gucht:::A Graph-Oriented Object Database Model.
+journals/tkde/Weddell89:::Grant E. Weddell:::Selection of Indexes to Memory-Resident Entities for Semantic Data Models.
+journals/tkde/AtluriJB97:::Vijayalakshmi Atluri::Sushil Jajodia::Elisa Bertino:::Transaction Processing in Multilevel Secure Databases with Kernelized Architectures: Challenges and Solutions.
+journals/tkde/Bergadano93:::Francesco Bergadano:::Inductive Database Relations.
+journals/tkde/ZhengL96:::LuoQuan Zheng::Per-Åke Larson:::Speeding up External Mergesort.
+journals/tkde/EckEFHVW01:::Pascal van Eck::Joeri Engelfriet::Dieter Fensel::Frank van Harmelen::Yde Venema::Mark Willems:::A Survey of Languages for Specifying Dynamics: A Knowledge Engineering Perspective.
+journals/tkde/Borgida95:::Alexander Borgida:::Description Logics in Data Management.
+journals/tkde/SosicG94:::Rok Sosic::Jun Gu:::Efficient Local Search with Conflict Minimization: A Case Study of the n-Queens Problem.
+journals/tkde/MuckS95:::Thomas A. Mück::Manfred J. Schauer:::Optimizing Sort Order Query Execution in Balanced and Nested Grid Files.
+journals/tkde/DowlingH01:::Cornelia E. Dowling::Cord Hockemeyer:::Automata for the Assessment of Knowledge.
+journals/tkde/ThuraisinghamF95:::Bhavani M. Thuraisingham::William Ford:::Security Constraints in a Multilevel Secure Distributed Database Management System.
+journals/tkde/ThuraisinghamT96:::Bhavani M. Thuraisingham::T. C. Ting:::Guest Editors' Introduction to the Special Issue on Secure Database Systems Technology.
+journals/tkde/BertinoF98:::Elisa Bertino::Elena Ferrari:::Temporal Synchronization Models for Multimedia Data.
+journals/tkde/HanXF99:::Jiawei Han::Zhaohui Xie::Yongjian Fu:::Join Index Hierarchy: An Indexing Structure for Efficient Navigation in Object-Oriented Databases.
+journals/tkde/Mussi95:::Silvano Mussi:::Causal Knowledge Elicitation Based on Elicitation Failures.
+journals/tkde/FrasconiGS99:::Paolo Frasconi::Marco Gori::Giovanni Soda:::Data Categorization Using Decision Trellises.
+journals/tkde/Berztiss93:::Alfs T. Berztiss:::The Query Language Vizla.
+journals/tkde/AdamY96:::Nabil R. Adam::Yelena Yesha:::Guest Editors' Introduction: Special Section on Digital Libraries.
+journals/tkde/ElmagarmidJKBZ96:::Ahmed K. Elmagarmid::Jin Jing::Won Kim::Omran A. Bukhres::Aidong Zhang:::Global Committability in Multidatabase Systems.
+journals/tkde/BhowmickMN03:::Sourav S. Bhowmick::Sanjay Kumar Madria::Wee Keong Ng:::Detecting and Representing Relevant Web Deltas in WHOWEDA.
+journals/tkde/GohTN96:::Chien-Le Goh::Masahiko Tsukamoto::Shojiro Nishio:::Knowledge Discovery in Deductive Databases with Large Deduction Results: the First Step.
+journals/tkde/PetrakisF97:::Euripides G. M. Petrakis::Christos Faloutsos:::Similarity Searching in Medical Image Databases.
+journals/tocl/CohenK00:::Ernie Cohen::Dexter Kozen:::A note on the complexity of propositional Hoare logic.
+journals/tocl/KutzWSSZ03:::Oliver Kutz::Frank Wolter::Holger Sturm::Nobu-Yuki Suzuki::Michael Zakharyaschev:::Logics of metric spaces.
+journals/tocl/Sergot01:::Marek J. Sergot:::A computational theory of normative positions.
+journals/tocl/KupfermanV01:::Orna Kupferman::Moshe Y. Vardi:::Weak alternating automata are not that weak.
+journals/tocl/Reiter01:::Raymond Reiter:::On knowledge-based programming with sensing in the situation calculus.
+journals/tocl/Voronkov01:::Andrei Voronkov:::How to optimize proof-search in modal logics: new methods of proving redundancy criteria for sequent calculi.
+journals/tocl/BlassG01:::Andreas Blass::Yuri Gurevich:::Inadequacy of computable loop invariants.
+journals/tocs/GrimshawWS96:::Andrew S. Grimshaw::Jon B. Weissman::W. Timothy Strayer:::Portable Run-Time Support for Dynamic Object-Oriented Parallel Processing.
+journals/tocs/GopalakrishnanF93:::Ganesh Gopalakrishnan::Richard Fujimoto:::Design and Verification of the Rollback Chip Using HOP: A Case Study of Formal Methods Applied to Hardware design.
+journals/tocs/BirmanSS91:::Kenneth P. Birman::André Schiper::Pat Stephenson:::Lightweigt Causal and Atomic Group Multicast.
+journals/tocs/Arpaci-Dusseau01:::Andrea C. Arpaci-Dusseau:::Implicit coscheduling: coordinated scheduling with implicit information in distributed systems.
+journals/tocs/IyerRH86:::Ravishankar K. Iyer::David J. Rossetti::M. C. Hsueh:::Measurement and Modeling of Computer Reliability as Affected by System Activity.
+journals/tocs/CaoLVW94:::Pei Cao::Swee Boon Lim::Shivakumar Venkataraman::John Wilkes:::The TickerTAIP Parallel RAID Architecture.
+journals/tocs/AronD00:::Mohit Aron::Peter Druschel:::Soft timers: efficient microsecond software timer support for network processing.
+journals/tocs/JulLHB88:::Eric Jul::Henry M. Levy::Norman C. Hutchinson::Andrew P. Black:::Fine-Grained Mobility in the Emerald System.
+journals/tocs/HardyS96:::Darren R. Hardy::Michael F. Schwartz:::Customized Information Extraction as a Basis for Resource Discovery.
+journals/tocs/CorbettF96:::Peter F. Corbett::Dror G. Feitelson:::The Vesta Parallel File System.
+journals/tocs/GangerEKBHP02:::Gregory R. Ganger::Dawson R. Engler::M. Frans Kaashoek::Héctor Briceño::Russell Hunt::Thomas Pinckney:::Fast and flexible application-level networking on exokernel systems.
+journals/tocs/Steenkiste97:::Peter Steenkiste:::A High-Speed Network Interface for Distributed-Memory Systems: Architecture and Applications.
+journals/tocs/MaxemchukS01:::Nicholas F. Maxemchuk::David H. Shur:::An Internet multicast system for the stock market.
+journals/tocs/AndersonDNPRW96:::Thomas E. Anderson::Michael Dahlin::Jeanna M. Neefe::David A. Patterson::Drew S. Roselli::Randolph Y. Wang:::Serverless Network File Systems.
+journals/tocs/AkyurekS95:::Sedat Akyürek::Kenneth Salem:::Adaptive Block Rearrangement
+journals/tocs/BhattiHSC98:::Nina T. Bhatti::Matti A. Hiltunen::Richard D. Schlichting::Wanda Chiu:::Coyote: A System for Constructing Fine-Grain Configurable Communication Services.
+journals/tocs/FeketeLS01:::Alan Fekete::Nancy A. Lynch::Alexander A. Shvartsman:::Specifying and using a partitionable group communication service.
+journals/tocs/Peterson88:::Larry L. Peterson:::The Profile Naming Service.
+journals/tocs/Peterson91:::Larry L. Peterson:::Guest Editorial - Special Section on Communication Architectures and Protocols.
+journals/tocs/ChandyMH83:::K. Mani Chandy::Jayadev Misra::Laura M. Haas:::Distributed Deadlock Detection
+journals/tocs/MendelsonG01:::Avi Mendelson::Freddy Gabbay:::The effect of seance communication on multiprocessing systems.
+journals/tocs/SavageBNSA97:::Stefan Savage::Michael Burrows::Greg Nelson::Patrick Sobalvarro::Thomas E. Anderson:::Eraser: A Dynamic Data Race Detector for Multithreaded Programs.
+journals/tocs/Birrel85:::Andrew Birrell:::Secure Communication Using Remote Procedure Calls
+journals/tocs/Sandhu88:::Ravi S. Sandhu:::The NTree: A Two Dimension Partial Order for Protection Groups.
+journals/tocs/SpasojevicS96:::Mirjana Spasojevic::Mahadev Satyanarayanan:::An Empirical Styudy of a Wide-Area Distributed File System.
+journals/tocs/Raymond89:::Kerry Raymond:::A Tree-Based Algorithm for Distributed Mutual Exclusion.
+journals/tocs/Kameda86:::Hisao Kameda:::Effects of Job Loading Policies for Multiprogramming Systems in Processing a Job Stream.
+journals/tocs/AndersonBLL92:::Thomas E. Anderson::Brian N. Bershad::Edward D. Lazowska::Henry M. Levy:::Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism.
+journals/tocs/UhligNSMSB94:::Richard Uhlig::David Nagle::Tim Stanley::Trevor N. Mudge::Stuart Sechrest::Richard B. Brown:::Design Tradeoffs for Software-Managed TLBs.
+journals/tocs/ChangM88:::Albert Chang::Mark F. Mergen:::801 Storage: Architecture and Programming.
+journals/tods/BeeriB79:::Catriel Beeri::Philip A. Bernstein:::Computational Problems Related to the Design of Normal Form Relational Schemas.
+journals/tods/CanO90:::Fazli Can::Esen A. Ozkarahan:::Concepts and Effectiveness of the Cover-Coefficient-Based Clustering Methodology for Text Databases.
+journals/tods/GutingBEJLSV00:::Ralf Hartmut Güting::Michael H. Böhlen::Martin Erwig::Christian S. Jensen::Nikos A. Lorentzos::Markus Schneider::Michalis Vazirgiannis:::A foundation for representing and quering moving objects.
+journals/tods/Chin78:::Francis Y. L. Chin:::Security in Statistical Databases for Queries with Small Counts.
+journals/tods/ChenHM95:::I-Min A. Chen::Richard Hull::Dennis McLeod:::An Execution Model for Limited Ambiguity Rules and Its Application to Derived Data Update.
+journals/tods/AstrahanBCEGGKLMMPTWW76:::Morton M. Astrahan::Mike W. Blasgen::Donald D. Chamberlin::Kapali P. Eswaran::Jim Gray::Patricia P. Griffiths::W. Frank King III::Raymond A. Lorie::Paul R. McJones::James W. Mehl::Gianfranco R. Putzolu::Irving L. Traiger::Bradford W. Wade::Vera Watson:::System R: Relational Approach to Database Management.
+journals/tods/Griffith82:::Robert L. Griffith:::Three Principles of Representation for Semantic Networks.
+journals/tods/Beeri80:::Catriel Beeri:::On the Membership Problem for Functional and Multivalued Dependencies in Relational Databases.
+journals/tods/DuS82:::David Hung-Chang Du::J. S. Sobolewski:::Disk Allocation for Cartesian Product Files on Multiple-Disk Systems.
+journals/tods/Shapiro86:::Leonard D. Shapiro:::Join Processing in Database Systems with Large Main Memories.
+journals/tods/Liu76:::Jane W.-S. Liu:::Algorithms for Parsing Search Queries in Systems with Inverted File Organization.
+journals/tods/Kent79:::William Kent:::Limitations of Record-Based Information Models.
+journals/tods/HaskinH83:::Roger L. Haskin::Lee A. Hollaar:::Operational Characteristics of a Hardware-Based Pattern Matcher.

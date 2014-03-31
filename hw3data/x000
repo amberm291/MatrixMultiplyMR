@@ -1,0 +1,200 @@
+tr/gte/TM-0014-06-88-165:::Frank Manola:::Distributed Object Management Technology.
+tr/ibm/IWBS94:::Christoph Beierle::Udo Pletat:::The Algebra of Feature Graph Specifications
+tr/ibm/LILOG12:::Ipke Wachsmuth:::On Structuring Domain-Specific Knowledge
+tr/ibm/LILOG17:::Christopher Habel:::Prozedurale Aspekte der Wegplanung und Wegbeschreibung
+tr/ibm/LILOG20:::Klaus Rehkämper:::Mentale Bilder und Wegbedeutungen
+tr/ibm/LILOG32:::Jean-Yves Lerner::Ulrich Schatz:::Die Sloppy/Referenzielle Ambiguität: Bildungssyntax oder Diskursrepräsentationstheorie?
+tr/ibm/LILOG47:::Simone Pribbenow:::Verträglichkeitsprüfungen für die Verarbeitung räumlichen Wissens
+tr/ibm/LILOG1a:::Otthein Herzog::Claus-Rainer Rollinger::Peter H. Schmitt::Petra Steffens::Rudi Studer::Birgit Wesche::Brigitte Bartsch-Spörl::F. Günthner::Christopher Habel::Siegfried Kanngießer::Christian Rohrer:::LILOG - Linguistische und logische Methoden für das maschinelle Verstehen des Deutschen - Projektbeschreibung
+tr/ibm/LILOG59:::Thomas Ludwig:::Algebraical Optimization of FTA-Expressions
+tr/ibm/LILOGM2:::Brigitte Bartsch-Spörl:::Zur Systemarchitektur von LILOG
+tr/ibm/LILOGM4:::Brigitte Bartsch-Spörl:::Zur Behandlung komplexer Objekte in LILOG
+tr/ibm/RJ1579:::Jim Gray::Vera Watson:::A Shared Segment and Interprocess Communication Facility for VM/370
+tr/ibm/RJ2555:::Irving L. Traiger::Jim Gray::Cesare A. Galtieli::Bruce G. Lindsay:::Transactions and Consistency in Distributed Database Systems.
+tr/ibm/IWBS110:::Karl Dotzek:::Strategien zur Pronominalisierung
+tr/ibm/IWBS113:::Christoph Beierle::Ulrich Hedtstück::Udo Pletat::Peter H. Schmitt::Jörg H. Siekmann:::An Order-Sorted Logic for Knowledge Representation Systems
+tr/ibm/IWBS115:::Egon Börger:::A Logical Operational Semantics of Full Prolog Part II: Built-in Predicates for Database Manipulations
+tr/ibm/IWBS126:::Otthein Herzog:::The Institute for Knowledge Based Systems in the IBM Germany Scientific Center
+tr/ibm/IWBS132:::Stefan Böttcher:::An Inference Engine for Function Free Logic Programs
+tr/ibm/IWBS176:::Ralph Scheubrein:::Integration eines deduktiven Datenbanksystems in eine Logikprogrammiersprache
+tr/ibm/IWBS201:::Thomas Ludwig::Stefan Benzschawel::Erich Gehlen:::Differential Closure Computation for General Horn-Clause Queries
+tr/ibm/IWBS204:::Karl Schlechta:::Results on Non-Monotonic Logics.
+tr/ibm/IWBS208:::Bernhard Beckert:::Konzeption und Implementierung von Gleichheit für einen tableau-basierten Theorem-Beweiser
+tr/ibm/IWBS221:::Ulrike Rackow:::On the Treatment of Compounds in Machine Translation. A Study
+tr/ibm/IWBS223:::Peter Gerstl:::Mengenkonzepte in Unifikationsgrammatiken
+tr/ibm/IWBS225:::Ulrike Rackow::Ido Dagan::Ulrike Schwall:::A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds
+tr/ibm/IWBS237:::Birgit Wendholt:::DInG - ein Domänen-orientierter Inkrementeller und Integrierter Generator für kohärente Texte
+tr/trier/MI00-11:::Lothar Breuer:::Operator-Geometric Solutions for the M/G/k Queue and its Variants
+tr/trier/MI00-12:::Christopher Lusena::Judy Goldsmith::Martin Mundhenk:::Nonapproximability Results for Partially Observable Markov Decision Processes
+tr/trier/MI01-09:::Christoph Meinel::Harald Sack::Arno Wagner:::WWW.BDD-PORTAL.ORG: An Experimentation Platform for Binary Decision Diagram Algorithms
+tr/trier/MI02-19:::Lothar Breuer:::Approximating Semi-Markov Processes by MAPs, with an Application on Queueing Theory
+tr/trier/MI02-21:::Christoph Meinel::Volker Schillings:::tele-TASK - Teleteaching Anywhere Solution Kit
+tr/trier/MI92-01:::Carsten Damm::Matthias Krause::Christoph Meinel::Stephan Waack:::Separating Counting Communication Complexity Classes
+tr/trier/MI92-15:::Klaus Jansen:::On the Complexity of a Licence Constrained Job Assignment Problem
+tr/trier/MI92-24:::Matthias Heinkenschloss:::Numerical Solution of a Semilinear Parabolic Control Problem
+tr/trier/MI93-02:::Dirk Frosch-Wilke:::Exact Analysis of Closed Synchronized Systems of Stochastic Sequential Processes
+tr/trier/MI93-09:::Anna Slobodová::Christoph Meinel:::Efficient Manipulation of FBDDs by Means of a Modified OBDD-Package
+tr/trier/MI93-16:::Ulrich Hertrampf:::Complexity Classes with Finite Acceptance Types
+tr/trier/MI94-03:::Jochen Bern::Christoph Meinel::Anna Slobodová:::Some Heuristics for Generating Tree-like FBDD Types
+tr/trier/MI94-12:::Carsten Damm::Markus Holzer:::Inductive Counting below LOGSPACE
+tr/trier/MI94-13:::Reiner Horst::Nguyen V. Thoai:::An Integer Concave Minimization Approach for the Minimum Concave Cost Capacitated Flow Problem on Networks
+tr/trier/MI96-07:::Ulrich Hertrampf:::On the Acceptance Power of Groups and Semigroups
+tr/trier/MI96-17:::Manfred Laumen:::Structured PSB-Update for Optimal Shape Design Problems
+tr/trier/MI96-37:::Klaus Jansen:::Approximation Results for Wavelength Routing in Directed Binary Trees
+tr/trier/MI97-03:::Thomas Erlebach::Klaus Jansen:::An Optimal Greedy Algorithm for Wavelength Allocation in Directed Tree Networks
+tr/trier/MI97-05:::Andreas Neumann:::Unambiguity of SMGL Content Models - Pushdown Automata Revisited
+tr/trier/MI97-12:::Christoph W. Keßler:::Practical PRAM Programming with Fork95 - A Tutorial
+tr/trier/MI97-25:::Markus Roters:::The Theory of Optimal Sampling in Continuous Time
+tr/trier/MI98-16:::Richard Rödler:::Stochastic Modeling of Server Capacity Utilization by Geometric Sums
+tr/trier/MI99-09:::Richard Rödler:::On the Rareness of Disturbed Martingales in the Class of all Uniformly L<sub>1</sub>-bounded Stochastic Processes
+tr/trier/MI99-24:::Markus R. Schmidt:::Dual Characterization of Super-Hedging Prices in a Currency Market with Proportional Transaction Costs
+journals/ac/GrudinP97:::Jonathan Grudin::Steven E. Poltrock:::Computer Supported Cooperative Work and Groupware.
+journals/ac/Fraenkel68:::Aviezri S. Fraenkel:::Legal Information Retrieval.
+journals/ac/ConteDS85:::Samuel D. Conte::Hubert E. Dunsmore::Vincent Yun Shen:::Software Effort Estimation and Productivity.
+journals/ac/Dam66:::Andries van Dam:::Computer Driven Displays and Their Use in Man/Machine Interaction.
+journals/ac/PorterSV96:::Adam A. Porter::Harvey P. Siy::Lawrence G. Votta:::A Review of Software Inspections.
+journals/ac/Liu89:::Ming T. Liu:::Protocol Engineering.
+journals/ac/Poppelbaum68:::W. J. Poppelbaum:::What Next in Computer Technology?
+journals/ac/Poppelbaum76:::W. J. Poppelbaum:::Statistical Processors.
+journals/ac/Prewitt72:::Judith M. S. Prewitt:::Parametric and Nonparametric Recognition by Computer: An Application to Leukocyte Image Processing.
+journals/ac/Kuck76:::David J. Kuck:::Parallel Processing of Ordinary Programs.
+journals/ac/BerztissT83:::Alfs T. Berztiss::Satish Thatte:::Specification and Implementation of Abstract Data Types.
+journals/ac/Otten71:::Klaus W. Otten:::Approaches to the Machine Recognition of Conversational Speech.
+journals/ac/Rice76:::John R. Rice:::The Algorithm Selection Problem.
+journals/ac/Anderson72:::James P. Anderson:::Information Security in a Multi-User Computer Environment.
+journals/ac/DavidaD90:::George I. Davida::Yvo Desmedt:::Cryptography Based Data Security.
+journals/ac/Rosenfeld88:::Azriel Rosenfeld:::Computer Vision.
+journals/ac/GroskyM92:::William I. Grosky::Rajiv Mehrotra:::Image Database Management.
+journals/ac/Metcalf86:::Michael Metcalf:::Computers in High-Energy Physics.
+journals/ac/Cuthill64:::Elizabeth H. Cuthill:::Digital Computers in Nuclear Reactor Design.
+journals/ac/Gasarch96:::William I. Gasarch:::The Complexity of Problems.
+journals/ac/KlingS82:::Rob Kling::Walt Scacchi:::The Web of Computing: Computer Technology as Social Organization.
+journals/ac/Douglas61:::Jim Douglas Jr.:::A Survey of Numerical Methods for Parabolic Differential Equations.
+journals/ac/WalkerdenJ97:::Fiona Walkerden::D. Ross Jeffery:::Software Cost Estimation: A Review of Models, Process, and Practice.
+journals/ac/BirkhoffVY62:::Garret Birkhoff::Richard S. Varga::David Young:::Alternating Direction Implicit Methods.
+journals/ac/Sager67:::Naomi Sager:::Syntactic Analysis of Natural Language.
+journals/ac/Basili95:::Victor R. Basili:::The Experience Factory and Its Relationship to Other Quality Approaches.
+journals/ac/Gammill82:::Robert C. Gammill:::Microcomputers: Applications, Problems, and Promise.
+journals/ac/CerconeM86:::Nick Cercone::Gordon I. McCalla:::Accessing Knowledge through Natural Language.
+journals/ac/Josselson71:::Harry H. Josselson:::Automatic Translation of Languages Since 1960: A Linguist's View.
+journals/ac/Snyder84:::Lawrence Snyder:::Supercomputers and VLSI: The Effect of Large-Scale Integration on Computer Architecture.
+journals/ac/Mayrhauser94:::Anneliese von Mayrhauser:::Maintenance and Evolution of Software Products.
+journals/ac/Biggerstaff92:::Ted J. Biggerstaff:::An Assessment and Analysis of Software Reuse.
+journals/ai/DelgrandeSJ94:::James P. Delgrande::Torsten Schaub::W. Ken Jackson:::Alternative Approaches to Default Logic.
+journals/ai/Ben-Eliyahu-Zohary02:::Rachel Ben-Eliyahu-Zohary:::Yet some more complexity results for default logic.
+journals/ai/ShohamT97:::Yoav Shoham::Moshe Tennenholtz:::On the Emergence of Social Conventions: Modeling, Analysis, and Simulations.
+journals/ai/StahovichDS98:::Thomas F. Stahovich::Randall Davis::Howard E. Shrobe:::Generating Multiple New Designs from a Sketch.
+journals/ai/Stewart03:::Iain A. Stewart:::The complexity of achievement and maintenance problems in agent-based systems.
+journals/ai/Genesereth84:::Michael R. Genesereth:::The Use of Design Descriptions in Automated Diagnosis.
+journals/ai/RenooijGP02:::Silja Renooij::Linda C. van der Gaag::Simon Parsons:::Context-specific sign-propagation in qualitative probabilistic networks.
+journals/ai/ChenKC90:::Susan S. Chen::James M. Keller::Richard M. Crownover:::Shape from Fractal Geometry.
+journals/ai/Dyer91:::Michael G. Dyer:::A Society of Ideas on Cognition: Review of Marvin Minsky's The Society of Mind.
+journals/ai/FouksS01:::Jean-Denis Fouks::L. Signac:::The problem of survival from an algorithmic point of view.
+journals/ai/MinkerFM73:::Jack Minker::Daniel H. Fishman::James R. McSkimin:::The Q<sup>*</sup> Algorithm - A Search Strategy for a Deductive Question-Answering System.
+journals/ai/Johnson86:::Rodney W. Johnson:::Independence and Bayesian Updating Methods.
+journals/ai/Shankar89:::C. Ravi Shankar:::Fernando C. N. Pereira and Stuart M. Sheiber, Prolog and Natural-Language Analysis, CSLI Lecture Notes 10.
+journals/ai/Lenat83a:::Douglas B. Lenat:::EURISKO: A Program That Learns New Heuristics and Domain Concepts.
+journals/ai/Murray82:::Neil V. Murray:::Completely Non-Clausal Theorem Proving.
+journals/ai/Palay82:::Andrew J. Palay:::The B<sup>*</sup> Tree Search Algorithm - New Results.
+journals/ai/Gelsey95:::Andrew Gelsey:::Automated Reasoning About Machines.
+journals/ai/HoggW94:::Tad Hogg::Colin P. Williams:::The Hardest Constraint Problems: A Double Phase Transition.
+journals/ai/HeY01:::Jun He::Xin Yao:::Drift analysis and average time complexity of evolutionary algorithms.
+journals/ai/BacchusK00:::Fahiem Bacchus::Froduald Kabanza:::Using temporal logics to express search control knowledge for planning.
+journals/ai/Pylyshyn89:::Zenon W. Pylyshyn:::On "Computation and Cognition: Toward a Foundation of Cognitive Science". A Response to the Reviews by A. K. Mackworth and M. J. Stefik.
+journals/ai/Pollack93:::Jordan B. Pollack:::On Wings of Knowledge: A Review of Allen Newell's Unified Theories of Cognition.
+journals/ai/HornS93:::Berthold K. P. Horn::Brian G. Schunck:::"Determining optical flow": A Retrospective.
+journals/ai/Yip96:::Kenneth Man-kam Yip:::Model Simplification by Asymptotic Order of Magnitude Reasoning.
+journals/ai/Pollock92:::John L. Pollock:::How to Reason Defeasibly.
+journals/ai/ForbusNF91:::Kenneth D. Forbus::Paul Nielsen::Boi Faltings:::Qualitative Spatial Reasoning: The Clock Project.
+journals/ai/HanksM94:::Steve Hanks::Drew V. McDermott:::Modeling a Dynamic and Uncertain World I: Symbolic and Probabilistic Reasoning About Change.
+journals/ai/Pearl80:::Judea Pearl:::Asymptotic Properties of Minimax Trees and Game-Searching Procedures.
+journals/ai/Pearl96:::Judea Pearl:::Qualitative Probabilities for Default Reasoning, Belief Revision, and Causal Modeling.
+journals/ai/KimR00:::Jihie Kim::Paul S. Rosenbloom:::Bounding the cost of learned rules.
+journals/ai/LarrosaMS99:::Javier Larrosa::Pedro Meseguer::Thomas Schiex:::Maintaining Reversible DAC for Max-CSP.
+journals/ai/Bibel80:::Wolfgang Bibel:::Syntax-Directed, Semantics-Supported Program Synthesis.
+journals/ai/BerlinerM96:::Hans J. Berliner::Chris McConnell:::B Probability Based Search.
+journals/ai/Lin96a:::Jinxin Lin:::Integration of Weighted Knowledge Bases.
+journals/ai/LinY02:::Fangzhen Lin::Jia-Huai You:::Abduction in logic programming: A new definition and an abductive procedure based on rewriting.
+journals/ai/Mali03:::Amol Dattatraya Mali:::On the evaluation of agent behaviors.
+journals/ai/Swartout83:::William R. Swartout:::XPLAIN: A System for Creating and Explaining Expert Consulting Programs.
+journals/ai/CadoliS00:::Marco Cadoli::Francesco Scarcello:::Semantical and computational aspects of Horn approximations.
+journals/ai/Pinkas95:::Gadi Pinkas:::Reasoning, Nonmonotonicity and Learning in Connectionist Networks that Capture Propositional Knowledge.
+journals/ai/CarmelM98:::David Carmel::Shaul Markovitch:::Pruning Algorithms for Multi-Model Adversary Search.
+journals/ai/Smolensky90:::Paul Smolensky:::Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems.
+journals/ai/McDermott93a:::John P. McDermott:::R1 ("XCON") at Age 12: Lessons from an Elementary School Achiever.
+journals/ai/NieP92:::Xumin Nie::David A. Plaisted:::A Semantic Backward Chaining Proof System.
+journals/ai/Imielinski87:::Tomasz Imielinski:::Results on Translating Defaults to Circumscription.
+journals/ai/BroxvallJR02:::Mathias Broxvall::Peter Jonsson::Jochen Renz:::Disjunctions, independence, refinements.
+journals/ai/HuynDP80:::Nam Huyn::Rina Dechter::Judea Pearl:::Probabilistic Analysis of the Complexity of A<sup>*</sup>.
+journals/ai/Boutilier98:::Craig Boutilier:::A Unified Model of Qualitative Belief Change: A Dynamical Systems Perspective.
+journals/ai/OnnT97:::Shmuel Onn::Moshe Tennenholtz:::Determination of Social Laws for Multi-Agent Mobilization.
+journals/ai/Canny88:::John F. Canny:::Constructing Roadmaps of Semi-Algebraic Sets I: Completeness.
+journals/ai/MosesF01:::Melanie Moses::Stephanie Forrest:::Review of The Computational Beauty of Nature by Gary William Flake.
+journals/ai/MadaniHC03:::Omid Madani::Steve Hanks::Anne Condon:::On the undecidability of probabilistic planning and related stochastic optimization problems.
+journals/ai/Shimaya95:::Akira Shimaya:::Interpreting Non-3-D Line Drawings.
+journals/ai/Rada86:::Roy Rada:::E. Rich, Artificial Intelligence.
+journals/ai/Boley77:::Harold Boley:::Directed Recursive Labelnode Hypergraphs: A New Representation-Language.
+journals/ai/Rock87:::Sheila Rock:::Philippe Coiffet, Robot Technology, Volume 1: Modelling and Control, and Volume 2: Interaction with the Environment.
+journals/ai/Winograd80:::Terry Winograd:::Extended Inference Modes in Reasoning by Computer Systems.
+journals/ai/Dreyfus96:::Hubert L. Dreyfus:::Response to my Critics.
+journals/ai/Pitrat77:::Jacques Pitrat:::A Chess Combination Program Which Uses Plans.
+journals/ai/HaytonBSM99:::Paul M. Hayton::Michael Brady::Stephen M. Smith::Niall Moore:::A Non-Rigid Registration Algorithm for Dynamic Breast MR Images.
+journals/ai/Levinson95:::Richard Levinson:::A General Programming Language for Unified Planning and Control.
+journals/ai/Anderson03:::Michael L. Anderson:::Embodied Cognition: A field guide.
+journals/ai/Anderson84:::John R. Anderson:::Cognitive Psychology.
+journals/ai/Brady85:::Michael Brady:::Artificial Intelligence and Robotics.
+journals/ai/CravenDFMMNS00:::Mark Craven::Dan DiPasquo::Dayne Freitag::Andrew McCallum::Tom M. Mitchell::Kamal Nigam::Seán Slattery:::Learning to construct knowledge bases from the World Wide Web.
+journals/ai/BacchusGHK96:::Fahiem Bacchus::Adam J. Grove::Joseph Y. Halpern::Daphne Koller:::From Statistical Knowledge Bases to Degrees of Belief.
+journals/ai/Vere80:::Steven A. Vere:::Multilevel Counterfactuals for Generalizations of Relational Concepts and Productions.
+journals/ai/SandholmL97:::Tuomas Sandholm::Victor R. Lesser:::Coalitions Among Computationally Bounded Agents.
+journals/ai/SandholmS03:::Tuomas Sandholm::Subhash Suri:::BOB: Improved winner determination in combinatorial auctions and generalizations.
+journals/ai/Brown77:::F. Malloy Brown:::Doing Arithmetic Without Diagrams.
+journals/ai/Wang95:::Tie-Cheng Wang:::A Typed Resolution Principle for Deduction with Conditional Typing Theory.
+journals/ai/Minsky91:::Marvin Minsky:::Society of Mind: A Response to Four Reviews.
+journals/ai/Rosati00:::Riccardo Rosati:::On the decidability and complexity of reasoning about only knowing.
+journals/ai/KleerMR92:::Johan de Kleer::Alan K. Mackworth::Raymond Reiter:::Characterizing Diagnoses and Systems.
+journals/ai/Jurafsky89:::Daniel Jurafsky:::James Allen, Understanding Natural Language.
+journals/ai/World98:::Richard J. Howarth:::Interpreting a Dynamic and Uncertain World: Task-Based Control.
+journals/ai/Hinton90:::Geoffrey E. Hinton:::Connectionist Symbol Processing - Preface.
+journals/ai/Tesauro02:::Gerald Tesauro:::Programming backgammon using self-teaching neural nets.
+journals/ai/DeJongB97:::Gerald DeJong::Scott Bennett:::Permissive Planning: Extending Classical Planning to Uncertain Task Domains.
+journals/ai/Wilson01:::Robert A. Wilson:::The Cognitive Sciences: A comment on 6 reviews of The MIT Encyclopedia of the Cognitive Sciences.
+journals/ai/SchwalbD97:::Eddie Schwalb::Rina Dechter:::Processing Disjunctions in Temporal Constraint Networks.
+journals/ai/Mellish92:::Chris Mellish:::The Description Identification Problem.
+journals/ai/KahnG77:::Kenneth M. Kahn::G. Anthony Gorry:::Mechanizing Temporal Knowledge.
+journals/ai/Davis84:::Randall Davis:::Diagnostic Reasoning Based on Structure and Behavior.
+journals/ai/Davis93:::Ernest Davis:::Representations of Commonsense Knowledge: Response to the Reviews.
+journals/ai/Bessiere94:::Christian Bessière:::Arc-Consistency and Arc-Consistency Again.
+journals/ai/DufourdMS98:::Jean-François Dufourd::Pascal Mathis::Pascal Schreck:::Geometric Construction by Assembling Solved Subfigures.
+journals/ai/KaskD01:::Kalev Kask::Rina Dechter:::A general scheme for automatic generation of search heuristics from specification dependencies.
+journals/ai/TappertD74:::Charles C. Tappert::N. R. Dixon:::A Procedure for Adaptive Control of the Interaction Between Acoustic Classification and Linguistic Decoding in Automatic Recognition of Continuous Speech.
+journals/ai/BrandPE95:::Matthew Brand::Peter N. Prokopowicz::Clark Elliott:::Jean-Arcady Meyer and Stewart W. Wilson, eds., From Animals to Animats: Proceedings of the First International Conference on Simulation of Adaptive Behavior.
+journals/ai/Costello98:::Tom Costello:::The Expressive Power of Circumscription.
+journals/ai/JelasityD98:::Márk Jelasity::József Dombi:::GAS, A Concept on Modeling Species in Genetic Algorithms.
+journals/ai/Yager87:::Ronald R. Yager:::Using Approximate Reasoning to Represent Default Knowledge.
+journals/ai/Kleer86b:::Johan de Kleer:::Problem Solving with the ATMS.
+journals/ai/KaplanS00:::Aaron N. Kaplan::Lenhart K. Schubert:::A computational model of belief.
+journals/ai/NavarreteSWM02:::Isabel Navarrete::Abdul Sattar::Rattana Wetprasit::Roque Marín:::On point-duration networks for temporal reasoning.
+journals/ai/Fahlman74:::Scott E. Fahlman:::A Planning System for Robot Construction Tasks.
+journals/ai/Simmons92:::Reid G. Simmons:::The Roles of Associational and Causal Reasoning in Problem Solving.
+journals/ai/GeigerH96:::Dan Geiger::David Heckerman:::Knowledge Representation and Inference in Similarity Networks and Bayesian Multinets.
+journals/ai/Manzini95:::Giovanni Manzini:::BIDA: An Improved Perimeter Search Algorithm.
+journals/ai/BundyGSW96:::Alan Bundy::Fausto Giunchiglia::Roberto Sebastiani::Toby Walsh:::Calculating Criticalities.
+journals/ai/BundyW81:::Alan Bundy::Bob Welham:::Using Meta-Level Inference for Selective Application of Multiple Rewrite Rule Sets in Algebraic Manipulation.
+journals/ai/Sproull80:::Robert Sproull:::J. C. Latombe (Ed.), Artificial Intelligence and Pattern Recognition in Computer Aided Design.
+journals/ai/ZhangDFL95:::Zhengyou Zhang::Rachid Deriche::Olivier D. Faugeras::Quang-Tuan Luong:::A Robust Technique for Matching two Uncalibrated Images Through the Recovery of the Unknown Epipolar Geometry.
+journals/ai/EtheringtonKP92:::David W. Etherington::Sarit Kraus::Donald Perlis:::Nonmonotonicity and the Scope of Reasoning.
+journals/ai/McDermott82:::John P. McDermott:::R1: A Rule-Based Configurer of Computer Systems.
+journals/ai/Goguen88:::Joseph A. Goguen:::Modular Algebraic Specification of Some Basic Geometrical Constructions.
+journals/ai/Backstrom95:::Christer Bäckström:::Expressive Equivalence of Planning Formalisms.
+journals/ai/GereviniR02:::Alfonso Gerevini::Jochen Renz:::Combining topological and size information for spatial reasoning.
+journals/ai/Wilkins80:::David Wilkins:::Using Patterns and Plans in Chess.
+journals/ai/Almuallim96:::Hussein Almuallim:::An Efficient Algorithm for Optimal Pruning of Decision Trees.
+journals/ai/McCarthy00:::John McCarthy:::Review: M. Shanahan, Solving the Frame Problem.
+journals/ai/McCarthy74:::John L. McCarthy:::Professor Sir James Lighthill, FRS. Artificial Intelligence: A General Survey.
+journals/ai/McCarthy86:::John L. McCarthy:::Applications of Circumscription to Formalizing Common-Sense Knowledge.
+journals/ai/Lansky98:::Amy L. Lansky:::Localized Planning with Action-Based Constraints.
+journals/ai/FikesHN72:::Richard Fikes::Peter E. Hart::Nils J. Nilsson:::Learning and Executing Generalized Robot Plans.
+journals/ai/Jennings00:::Nicholas R. Jennings:::On agent-based software engineering.
+journals/ai/BrafmanHS98:::Ronen I. Brafman::Joseph Y. Halpern::Yoav Shoham:::On the Knowledge Requirements of Tasks.
+journals/ai/GennariLF89:::John H. Gennari::Pat Langley::Douglas H. Fisher:::Models of Incremental Concept Formation.

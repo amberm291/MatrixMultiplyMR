@@ -1,0 +1,200 @@
+conf/gd/FraysseixM97:::Hubert de Fraysseix::Patrice Ossona de Mendez:::A Short Proof of a Gauss Problem.
+conf/gd/Munzner98:::Tamara Munzner:::Drawing Large Graphs with H3Viewer and Site Manager.
+conf/gd/BasalajE99:::Wojciech Basalaj::Karen Eilbeck:::Straight-Line Drawings of Protein Interactions.
+conf/gd/JungerL99:::Michael Jünger::Sebastian Leipert:::Level Planar Embedding in Linear Time.
+conf/gd/BerryDGSS97:::Jonathan Berry::Nathaniel Dean::Mark K. Goldberg::Gregory E. Shannon::Steven Skiena:::Graph Drawing and Manipulation with <i>LINK</i>.
+conf/gd/QuigleyE00:::Aaron J. Quigley::Peter Eades:::FADE: Graph Drawing, Clustering, and Visual Abstraction.
+conf/gd/Raitner02:::Marcus Raitner:::HGV: A Library for Hierarchies, Graphs, and Views.
+conf/gd/CohenELR94:::Robert F. Cohen::Peter Eades::Tao Lin::Frank Ruskey:::Three-Dimensional Graph Drawing.
+conf/gd/AggarwalKP98:::Alok Aggarwal::S. Rao Kosaraju::Mihai Pop:::Drawing of Two-Dimensional Irregular Meshes.
+conf/gd/KratochvilP95:::Jan Kratochvíl::Teresa M. Przytycka:::Grid Intersection and Box Intersection Graphs on Surfaces (Extended Abstract).
+conf/gd/Dodson95:::David Dodson:::COMAIDE: Information Visualization using Cooperative 3D Diagram Layout.
+conf/gd/JungerLM98:::Michael Jünger::Sebastian Leipert::Petra Mutzel:::Level Planarity Testing in Linear Time.
+conf/gd/BattistaPV98:::Giuseppe Di Battista::Maurizio Patrignani::Francesco Vargiu:::A Split&amp;Push Approach to 3D Orthogonal Drawing.
+conf/gd/BarouniJZ99:::Ala Eddine Barouni::Ali Jaoua::Nejib Zaguia:::Visualizing Algorithms for the Design and Analysis of Survivable Networks.
+conf/gd/GargT94:::Ashim Garg::Roberto Tamassia:::On the Compuational Complexity of Upward and Rectilinear Planarity Testing.
+conf/gd/MaddenMPH95:::Brendan Madden::Patrick Madden::Steve Powers::Michael Himsholt:::Portable Graph Layout and Editing.
+conf/gd/PapakostasST96:::Achilleas Papakostas::Janet M. Six::Ioannis G. Tollis:::Experimental and Theoretical Results in Interactive Orthogonal Graph Drawing.
+conf/gd/PurchaseCJ95:::Helen C. Purchase::Robert F. Cohen::Murray James:::Validating Graph Drawing Aesthetics.
+conf/gd/BrandenburgJMMS99:::Franz-Josef Brandenburg::Michael Jünger::Joe Marks::Petra Mutzel::Falk Schreiber:::Graph-Drawing Contest Report.
+conf/gd/HanJP02:::Kyungsook Han::Byong-Hyon Ju::Jong H. Park:::InterViewer: Dynamic Visualization of Protein-Protein Interactions.
+conf/gd/WittenburgW96:::Kent Wittenburg::Louis Weitzman:::Qualitative Visualization of Processes: Attributed Graph Layout and Focusing Techniques.
+conf/fp/HammondB89:::Kevin Hammond::Stephen Blott:::Implementing Haskell Type Classes.
+conf/fp/Davie95:::Antony J. T. Davie:::Algebraic Formula Manipulation in a Functional Language: A First Attempt.
+conf/fp/Jones95:::Simon B. Jones:::Experiences with Clean I/O.
+conf/fp/AchtenGP92:::Peter Achten::John H. G. van Groningen::Marinus J. Plasmeijer:::High Level Specification of I/O in Functional Languages.
+conf/fp/BarakiH89:::Gebreselassie Baraki::John Hughes:::Abstract Interpretation of Polymorphic Functions.
+conf/fp/LoidlH95:::Hans-Wolfgang Loidl::Kevin Hammond:::On the Granularity of Divide-and-Conquer Parallelism.
+conf/fp/LaunchburyGHMJW92:::John Launchbury::Andy Gill::John Hughes::Simon Marlow::Simon L. Peyton Jones::Philip Wadler:::Avoiding Unnecessary Updates.
+conf/fp/BreitingerL95:::Silvia Breitinger::Rita Loogen:::Towards a Declarative Language for Parallel and Concurrent Programming.
+conf/fp/KewleyG89:::John M. Kewley::Kevin Glynn:::Evaluation Annotations for Hope<sup>+</sup>.
+conf/fp/FergusonH89:::Alex Ferguson::John Hughes:::An Iterative Powerdomain Construction.
+conf/fp/KubiakHL91:::Ryszard Kubiak::John Hughes::John Launchbury:::Implementing Projection-based Strictness Analysis.
+conf/gg/MarburgerW02:::André Marburger::Bernhard Westfechtel:::Graph-Based Reengineering of Telecommunication Systems.
+conf/gg/WuR78:::Angela Y. Wu::Azriel Rosenfeld:::Cellular Graph Automata.
+conf/gg/Kaul82:::Manfred Kaul:::Parsing of graphs in linear time.
+conf/gg/Nagl86:::Manfred Nagl:::Set theoretic approaches to graph grammars.
+conf/gg/PazR78:::Azaria Paz::Yoav Raz:::Complexity of Pattern Generation by Map-L-Systems.
+conf/gg/DrewesK90:::Frank Drewes::Hans-Jörg Kreowski:::A Note on Hyperedge Replacement.
+conf/gg/Kreowski86:::Hans-Jörg Kreowski:::Is parallelism already concurrency? Part 1: Derivations in graph grammars.
+conf/gg/Rosenfeld90:::Azriel Rosenfeld:::A Note on Graph Decimation.
+conf/gg/JanssensR86:::Dirk Janssens::Grzegorz Rozenberg:::Basic notions of actor grammars: A graph grammar model for actor computation.
+conf/gg/LindenmayerR78:::Aristid Lindenmayer::Grzegorz Rozenberg:::Parallel Generation of Maps: Developmental Systems for Cell Layers.
+conf/gg/EhrigL78:::Hartmut Ehrig::Axel Liedtke:::Locally Star Sluing Formulas for a Class of Parallel Graph Grammars.
+conf/gg/EhrigR78:::Hartmut Ehrig::Barry K. Rosen:::Decomposition of Graph Grammar Productions and Derivations.
+conf/gg/KaplanLG90:::Simon M. Kaplan::Joseph P. Loyall::Steven K. Goering:::Specifying Concurrent Languages and Systems with ???-Grammars.
+conf/gg/EngelfrietLR86:::Joost Engelfriet::George Leih::Grzegorz Rozenberg:::Apex Graph Grammars.
+conf/gg/MainR86:::Michael G. Main::Grzegorz Rozenberg:::Fundamentals of edge-label controlled graph grammars.
+conf/gg/Bartsch-Sporl82:::Brigitte Bartsch-Spörl:::Grammatical inference of graph grammars for syntactic pattern recognition.
+conf/gg/Sleep90:::M. Ronan Sleep:::Applications of Graph Grammars and Directions for Research.
+conf/gg/Maggiolo-SchettiniW78:::Andrea Maggiolo-Schettini::Józef Winkowski:::Processes in Structures.
+conf/gg/LuckL90:::Jacqueline Lück::Hermann B. Lück:::Double-wall Cellworks Systems for Plant Meristems.
+conf/gg/Courcelle90:::Bruno Courcelle:::The Logical Exprssion of Graph Properties (Abstract).
+conf/gg/BatiniD78:::Carlo Batini::Alessandro D'Atri:::Rewriting Systems as a Tool for Relational Data Base Design.
+conf/gg/BottoniM02:::Paolo Bottoni::Mark Minas:::Workshop on Graph Transformation and Visual Modeling Techniques.
+conf/gg/Siromoney86:::Rani Siromoney:::Advances in array languages.
+conf/gg/Kaplan90:::Simon M. Kaplan:::Applying Graph Grammars to Software engineering.
+conf/gg/HeckelKT02:::Reiko Heckel::Jochen Malte Küster::Gabriele Taentzer:::Confluence of Typed Attributed Graph Transformation Systems.
+conf/gg/HessM86:::L. Hess::Brian H. Mayoh:::Graphics and Their Grammars.
+conf/gg/HessM90:::L. Hess::Brian H. Mayoh:::The Four Musicians: Analogies and Expert Systems - A Graphic Approach.
+conf/gi/Gancarski90:::Pierre Gançarski:::A Generative System for Interactive Animation Based on Reactive System Semantics and on Actor Semantics.
+conf/gi/BelliBFJ88:::Fevzi Belli::Hinrich E. G. Bonin::W. Filipowicz::Piotr Jedrzejowicz:::FEUEX - Ein Expertensystem zur Beratung über Gefahrguttransport und für den Feuerwehreinsatz.
+conf/gi/Berg78:::Helmut K. Berg:::Mikroprogrammierung.
+conf/gi/Lehner89:::Franz Lehner:::Software als Werkzeug für den Organisator.
+conf/gi/Bode97:::Arndt Bode:::Werkzeuge und Methoden für die Nutzung paralleler und verteilter Rechnerarchitekturen.
+conf/gi/Panzer82:::K. Panzer:::Anwendungen der graphischen Datenverarbeitung im Bayerischen Staatsministerium für Landesentwicklung und Umweltfragen.
+conf/gi/Redeker86:::Helmut Redeker:::Rechtliche Probleme von Mailbox-Systemen.
+conf/gi/FischerLV03:::Wolfgang Fischer::Niels Lepperhoff::Angelika Volst:::Internet under Threat: Simulation of Survivability with INESS.
+conf/gi/Schiele90:::Gerhard Schiele:::Massiv parallele Datenbankanwendungen in Multiprozessorsystemen.
+conf/gi/Back02a:::Andrea Back:::Zum Verhälnis von eLearning und Wissensmanagement im Unternehmen.
+conf/gi/WohlandPS92:::G. Wohland::V. Popp::G. Schmidt-Weinmar:::Zeltdynamische Simulation für Design und Management von schlanker Produktion.
+conf/gi/BorgmannKWSV86:::H. Borgmann::B. Körner::M. Rieskamp-von der Warth::Gunter Schlageter::R. Vieler:::MeDoc Expertensystem: Unterstützung der Differentialdiagnose bei Gelenkerkrankungen in einer orthopädischen Praxis.
+conf/gi/Peschke90:::Helmut Peschke:::Style-Guides und Schnittstellenwerkzeuge - Fortschritt oder Bremse?
+conf/gi/KlosgenS79:::Willi Klösgen::W. Schwarz:::Die Realisierung von Architekturprinzipien für Methodenbank-Systeme im Modellbanksystem MBS.
+conf/gi/BaumS74:::Dieter Baum::H.-D. Schrödter:::Ein Kommunikationsbetriebssystem für ein Sternförmiges Rechnernetz.
+conf/gi/Steinmuller79:::Wilhelm Steinmüller:::Grenzen und Möglichkeiten der Verrechtlichung der Datenverarbeitung.
+conf/gi/PfaffSW03:::Donovan Pfaff::Bernd Skiera::Tim Weitzel:::Datenintegration in Finanzprozessen.
+conf/gi/Bayer93:::Rudolf Bayer:::OMNIS/Myriad: Elektronische Verwaltung und Publikation von multimedialen Dokumenten.
+conf/gi/GrobelKR92:::Thomas Grobel::Christoph Kilger::Stefan Rude:::Objektorientierte Modellierung der Produktionsorganisation.
+conf/gi/JayezLL80:::J.-H. Jayez::P. Levasseur::M. Liscouet:::A Natural Language Processing Model.
+conf/gi/Eberleh89:::Edmund Eberleh:::Optimierung der kognitiven Verträglichkeit von Dialogsituationen durch wissenschaftliche Unterstützung.
+conf/gi/Haux86:::Reinhold Haux:::Zur Problematik der Integration von Expertensystemen in Krankenhausinformationssysteme.
+conf/gi/PalmK97:::Günther Palm::Gerhard K. Kraetzschmar:::SFB 527: Integration symbolischer und subsymbolischer Informationsverarbeitung in adaptiven sensomotorischen Systemen.
+conf/gi/Schmidt80:::Bernd Schmidt:::Platz- und zeiteffiziente Realisierung des Laufzeitkellers bei blockstrukturierten Programmiersprachen.
+conf/gi/Grau82:::N. Grau:::Unternehmensplanspiel im Schulunterricht: Einstatzmöglichkeiten eines Personal-Computers.
+conf/gi/Bertram88:::Gottfried B. Bertram:::Auswirkungen neuer Benutzungsoberflächen auf die Systeminfrastrukturen betrieblicher Informationsverarbeitung.
+conf/gi/Wagner86:::J. Wagner:::Grafische Programmentwicklung mit GRAPES.
+conf/gi/Fox99:::Dirk Fox:::Aufbau unternehmensweiter Public Key-Infrastrukturen.
+conf/gi/Endres78:::Albert Endres:::Methoden der Programm- und Systemkonstruktion: Ein Statusbericht.
+conf/gi/Holl87:::Friedrich-L. Holl:::Entwicklungstendenzen und Auswirkungen integrierter Bürosysteme.
+conf/gi/Below86:::Jürgen Below:::Ohne neue Technologie keine moderne Verwaltung.
+conf/gi/Hoss89:::Hermann Josef Hoss:::Der rechnergestützte Arbeitsplatz des Managers.
+conf/gi/Jurgens74:::Jürn Jürgens:::Modularer Aufbau einer Familie von Kooperierenden Prozessen.
+conf/gi/Hanani76:::Michael Z. Hanani:::An Optimal Evaluation of Boolean Expressions in an On-Line Query System.
+conf/gi/DittrichKORW03:::Klaus R. Dittrich::Wolfgang König::Andreas Oberweis::Kai Rannenberg::Wolfgang Wahlster:::Vorwort der Herausgeber.
+conf/gi/DeppischGKOW86:::Uwe Deppisch::Jürgen Günauer::Klaus Küspert::V. Obermeit::Georg Walch:::Überlegungen zur Datenbank-Kooperation zwischen Server und Workstations.
+conf/gi/JungclausWHSH94:::Ralf Jungclaus::Roel Wieringa::Peter Hartel::Gunter Saake::Thorsten Hartmann:::Combining TROLL with the Object Modeling Technique.
+conf/gi/Hoppner74:::Matthias Höppner:::Eine Charakterisierung der Szilardsprachen und ihre Verwendung als Steuersprachen.
+conf/gi/John01:::Sebastian John:::Transition Selection Algorithms for Statecharts.
+conf/gi/Dermler94:::Gabriel Dermler:::Ein Konzept zur Integration von Netzwerk-Filtern in virtuelle Multimedia-Systeme.
+conf/gi/George88:::Wolfgang George:::Jackson System Development mit Speedbuilder.
+conf/gi/Deacon95:::Andrew Deacon:::Transactional Workflows Support using Middleware.
+conf/gi/Koch79:::Wilfried Koch:::SPEZI - Eine Sprache zur Formulierung von Spezifikationen (unvollstängige Fassung).
+conf/gi/Kopp95:::Herbert Kopp:::Stellenwert theoretischer Inhalte im Informatikstudium an Fachhochschulen.
+conf/gi/Lenk93:::Klaus Lenk:::Die Schaffung zukunftsweisender Verwaltungsstrukturen als Gestaltungsprozeß.
+conf/gi/Mahn95:::Anne Mahn:::Berufsfertigkeit versus Berufsfähigkeit.
+conf/gi/Herrmann85:::H. Herrmann:::Telearbeit - Dämon oder Chance?
+conf/gi/ThomasFK87:::Christoph G. Thomas::Elke B. Finke::Gert Kellermann:::AiD: Ein wissensbasierter Ansatz für adaptive Mensch-Computer-Schnittstellen.
+conf/gi/RadimirschJ02:::Markus Radimirsch::Klaus Jobmann:::Spieltheorie und ihre Anwendung im Mobilfunk.
+conf/gi/GodbersenKLSZ86:::Heinrich P. Godbersen::G. Köhler::Ch. Lewin::J. Seib::G. Zschoche:::Bearbeitung, Verwaltung und Versand von Dokumenten.
+conf/gi/Wenke80:::Klaus Wenke:::Verteilte Datenverarbeitung und Bildschirmtext.
+conf/gi/SchallehnE00:::Eike Schallehn::Martin Endig:::Integration von Internetdatenbanken mit eingeschränkten Anfragemöglichkeiten.
+conf/gi/FrommholzBTS02:::Ingo Frommholz::Holger Brocks::Ulrich Thiel::Adelheit Stein:::Kontextbasiertes Retrieval unter Verwendung verknüpfter Annontationen.
+conf/gi/Naur74:::Peter Naur:::Trends in Computer Science Education.
+conf/gi/BaumgartenSKK88:::Uwe Baumgarten::Peter Paul Spies::R. Kewitz::D. König:::Werkzeuge zur Entwicklung verteilter Systeme.
+conf/gi/Munz88:::Rudolf Munz:::Verteilung im SQL-DBMS REFLEX.
+conf/gi/HaberackerL74:::Peter Haberäcker::M. Lehner:::Zugriffssicherung in Datenbanksystemen.
+conf/gi/Pawlowski02:::Jan M. Pawlowski:::Modellierung didaktischer Konzepte.
+conf/gi/ZabalaLBD01:::Sandra Zabala::Gábor Loerincs::Yubesli Bello::Victor Dias:::CALVIN: A Personalized Web-Search Agent based on Monitoring User Actions.
+conf/gi/BrauchESS92:::I. Brauch::H. Eggert::K. P. Scherer::P. Stiller:::Einsatz wissensbasierter Methoden für Konstruktion, Fertigung und Test von LIGA-Mikrostrukturen.
+conf/gi/Nitsche-RuhlandZ95:::Doris Nitsche-Ruhland::Gottfried Zimmermann:::CRITI-GUI - Lernen im Dialog mit einem Kritiker.
+conf/gi/Cooley74:::M. J. W. Cooley:::Computer Aided Design - Some Occupational and Social Implications.
+conf/gi/StuckyNS90:::Wolffried Stucky::Tibor Németh::Frank Schönthaler:::Modellierung und Simulation verteilter Systeme mit INCOME.
+conf/gi/Paul73:::Wolfgang J. Paul:::Optimale Algorithmen zum Transponieren Quadratischer Matrizen.
+conf/gi/HeisselMMSW94:::T. Heissel::U. Meyer::Michael Müller-Wünsch::C. Schopf::Ansgar Woltering:::Cooperative Allround Financial Consulting.
+conf/gi/GanzingerW75:::Harald Ganzinger::Reinhard Wilhelm:::Verschränkung von Compiler-Moduln.
+conf/gi/MorikS02:::Katharina Morik::Martin Scholz:::The MiningMart Approach.
+conf/gi/Oris74:::N. Oris:::Erfahrungen mit dem Versuch eines integrierten Informatik-Grundstudiums.
+conf/gi/Aitenbichler03:::Erwin Aitenbichler:::Ortungssysteme für mobile Endgeräte.
+conf/gi/MagenheimS03:::Johannes Magenheim::Sigrid E. Schubert:::Blended Learning im Informatikstudium.
+conf/gi/Brockl-Fox98:::Ulrich Bröckl-Fox:::Real-Time 3-D Interaction from Monocular Video Image Flows.
+conf/gi/Hauber01:::Ralf Hauber:::Kompendium philosophischer Begriffe und Fragestellungen in der Informatik: Ein Vorschlag.
+conf/gi/HornBT81:::Werner Horn::Walter Buchstaller::Robert Trappl:::Struktur der Wissensbasis für ein AI-System zur Unterstützung ärztlicher diagnostischer und therapeutischer Entscheidungen.
+conf/gi/Vucic01:::Ivan Vucic:::Sign@tor - das Terminal für Signatur-Chipkarten.
+conf/gi/Reps97:::Thomas W. Reps:::The Use of Program Profiling for Software Testing.
+conf/gi/LocherMW03:::Christian Locher::Jens Ingo Mehlau::Oliver Wild:::Integration von operationellen Risikoeffekten in das Controlling von strategischen IV-Investitionen bei Kreditinstituten.
+conf/gi/GlesnerHIMST88:::Manfred Glesner::M. Huch::Peter A. Ivey::T. Midwinter::Gabriele Saucier::Jacques Trilhe:::Entwurf eines systolischen Arrays in Wafer Scale Technik für die digitale Signalverarbeitung.
+conf/gi/Riet97:::Reind P. van de Riet:::Research in the SIKS Research School: An Example of a Cooperation in Using Linguistic Tools for Requirements Specification in Cyberspace.
+conf/gi/BernardSW02:::Lars Bernard::Ingo Simonis::Andreas Wytzisk:::Monitoring und Simulation raum-zeitlicher Prozesse in Geodateninfrastrukturen.
+conf/gi/Bohne01:::Michael Bohne:::Informationsaustausch zwischen Unternehmen durch das Internet als Gegenstand wettbewerbsrechtlicher Kontrolle.
+conf/gi/Boley83:::Harold Boley:::From Pattern-Directed to Adapter-Driven Computation via Function-Applying Matching.
+conf/gi/Neumann92:::Peter G. Neumann:::Developing Complex Software for Critical Systems.
+conf/gi/Roth74:::Helmut Roth:::Semantische Aspekte der Programmoptimierung.
+conf/gi/Booss-Bavnbek90:::Bernhelm Booss-Bavnbek:::Rationalität und Scheinrationalität durch computergestützte mathematische Modellierung.
+conf/gi/HustKJD02:::Armin Hust::Stefan Klink::Markus Junker::Andreas Dengel:::Query Expansion for Web Information Retrieval.
+conf/gi/Braun73:::Stephan Braun:::Automatische Indexierung durch Linguistische Syntaxanalyse.
+conf/gi/BimazubuteSGH01:::Raymond Bimazubute::Herbert Stoyan::Barbara Grille::Carsten Hausdorfl:::Toolgestützte Nachbereitung von Experteninterviews zum Aufbau hypertextbasierter Informations- und Tutorsysteme.
+conf/gi/TumaHR92:::A. Tuma::H.-D. Haasis::Otto Rentz:::Eine Methodik zur Konstruktion und Auswahl emissionsorientierter Produktionssteuerungsmechanismen.
+conf/gi/FischerK99:::Joachim Fischer::Gerhard Knolmayer:::5. Workshop des GI-Arbeitskreises 5.2.1.2: Zeitorientierte betriebliche Informationssysteme (ZoBIS) - Temporale Aufgaben in Informations- und Kommunikationssystemen (Zusammenfassung).
+conf/gi/GriesPS93:::Gerd Gries::Holger Post::Axel Schwanke:::Entwurf und Verwendung eines Metamodells für die Projektierung von Vermittlungstechnik.
+conf/gi/DumslaffM90:::Uwe Dumslaff::D. Meyerhoff:::Eine inhaltsorientierte Architektur für tutorielle CUU-Systeme.
+conf/gi/Grundmann86:::Stefan Grundmann:::Erste computergestützte juristische Lehrprogramme in Deutschland - Ansätze und Perspektiven.
+conf/gi/GreisleH03:::Alexander Greisle::Udo-Ernst Haner:::Positionierungssysteme als Infrastruktur für Pervasive Computing in flexiblen Buro- und Arbeitsumgebungen.
+conf/gi/BrunnettVHWKK03:::Guido Brunnett::M. Vanco::Christine Haller::S. Washausen::H.-J. Kuhn::W. Knabe:::Visualization of cross sectional data for morphogenetic studies.
+conf/gi/TopperwienW91:::T. Töpperwien::T. Weidenfeller:::Design und Realisierung einer objektorientierten Bedienoberfläche für die Multimedia-Kommunikation.
+conf/gi/Handler74:::Wolfgang Händler:::On Classification Schemes for Computer Systems in the Post-von-Neumann-Era.
+conf/gi/Skronn73:::Hans-Jürgen Skronn:::Gibt es ein Alternativkonzept zu den Datenbanktechniken der Data Base Task Group (CODASYL)?
+conf/gi/HildebrandWM90:::R. Hildebrand::Thomas Wedel::Peter Mertens:::Zusammenarbeit mehrerer Expertensysteme mit einem großen PPS-Modularprogramm.
+conf/gi/CatalkayaG98:::Tamer Çatalkaya::Ulrich Golze:::Entwicklung multimedialer Lernprogramme im Chip-Entwurf für und als Teil der Lehre.
+conf/gi/Kaack90:::Heino Kaack:::Verwaltungsinformatik als anwendungsspezifische Informatik.
+conf/gi/Klamma02:::Ralf Klamma:::Bootstrapping im Wissensmanagement - Organisations-gedächtnisbasierte Workflow-Systeme.
+conf/gi/SchardtC83:::L. P. Schardt::D. Cornelius:::Gewerkschaftliche Interessensvertretung und/oder "Partizipative Systemgestaltung"?
+conf/gi/SchardtH83:::Lothar P. Schardt::Friedrich-L. Holl:::Ganzheitliche Beurteilung von Benutzerschnittstellen und Gestaltungsanforderungen an die Software-Produktion.
+conf/gi/Engelke92:::Dietmar Engelke:::Das neue Ersatzteillager und Verteilzentrum der Mercedes Benz AG in Germersheim.
+conf/gi/SchinzerS93:::Heiko D. Schinzer::Eric Schoop:::Entwicklung eines Führungsinformationssystems als verteilter Hypertext auf Client/Server-Basis.
+conf/gi/MehlhornZ88:::Kurt Mehlhorn::Gerhard Zimmermann:::SFB 124: VLSI-Entwurfsmethoden und Parallelität.
+conf/gi/Raden87:::Lutz van Raden:::IT-unterstützte Richter- und Staatsanwaltsarbeitsplätze: Erfahrungen, Erwartungen, Akzeptanz.
+conf/gi/Eberle88:::Carl-Eugen Eberle:::Telekommunikation in der rechtspolitischen Diskussion.
+conf/gi/BeutelspacherR89:::Albrecht Beutelspacher::Ute Rosenbaum:::Kann man mit kryptographischen Methoden Viren erkennen?
+conf/gi/KeedyR82:::James Leslie Keedy::John Rosenberg:::Architectural Support for Software in the Monads III Computer Design.
+conf/gi/Fellner98:::Dieter W. Fellner:::Text, Bild, Ton, 3D-Modell und Animation - Gleichberechtigte Partner in Digital Libraries.
+conf/gi/Wurtz98:::Rolf P. Würtz:::Extracting Symbols from the Environment - The Concept of Correspondence-Based Object Recognition.
+conf/gi/Hartenstein73:::Reiner W. Hartenstein:::Hierarchy of Interpreters for Modelling Complex Digital Systems.
+conf/gi/HerrmannME92:::F. Herrmann::M. Moser::S. Engell:::Ressourcenplanung in der Flexiblen Fertigung.
+conf/gi/Hildebrand93a:::Knut Hildebrand:::Stab oder Linie? - Aufgabengerechte Gestaltung der Organisationsstruktur des Informationsmanagements.
+conf/gi/GeiselbrechtingerHKS73:::Franz Geiselbrechtinger::Wolfgang Hesse::Bernd Krieg::H. Scheidig:::L0, the Basic Layer of the Wide Spectrum Language L.
+conf/gi/Mehlhorn79:::Kurt Mehlhorn:::Konzepte der Komplexitätstheorie illustriert am Beispiel des Sortierens.
+conf/gi/MauveSG01:::Martin Mauve::Nicolai Scheele::Werner Geyer:::Enhancing Synchronous Distance Education with Pervasive Devices.
+conf/gi/JordeK88:::Klaus-Dieter Jorde::Walter F. Klos:::CAD-Einsatz bei der Dokumentation elektrotechnischer Anlagen in der Automobilindustrie und die Probleme eines CAD-gerechten Datenaustausches.
+conf/gi/Sawinski89:::R. Sawinski:::Ablaufunterstützung und Terminplanung bei ungenauen Plandaten-Aspekte der Organisationskomponente eines medizinischen Abteilungsinformationssystems.
+conf/gi/StaryS03:::Edith Stary::Christian Stary:::Montessori-orientierter Wissenstransfer im Web.
+conf/gi/BullingerTLOB93:::Hans-Jörg Bullinger::Michael Thines::Hans-Peter Laubscher::T. Otterbein::Rainer Bamberger:::Benutzergerechte, aufgabenangemessene und effiziente Leitstände: Anforderungen and die Softwaregestaltung.
+conf/gi/JamesonHW80:::Anthony Jameson::Wolfgang Hoeppner::Wolfgang Wahlster:::The Natural Language System HAM-RPM as a Hotel Manager: Some Representational Prerequisites.
+conf/gi/ArndtB84:::Ulf Arndt::Piero Benini:::Erfahrungen mit der IGES- und VDA-Schnittstelle bei AUDI.
+conf/gi/KernerPMT85:::Helmut Kerner::Renate Pitrik::Herbert Motschnig::Werner Trattnig:::EDDA-S, eine graphische, strukturierte Datenflußsprache für den Software-Entwurf.
+conf/gi/GorlitzMG03:::Gudrun Görlitz::Stefan Muller::Oliver Grimm:::Soziale Kompetenzen in der Online-Programmierausbildung.
+conf/gi/Verlanj90:::A. F. Verlanj:::Integralgleichungen in angewandter Modellierung.
+conf/gi/EichholzHW03:::Sebastian Eichholz::Bodo Hüsemann::Peter Westerkamp:::Hausinformationssysteme.de - Entwicklung eines Informationsportals.
+conf/gi/Schiller95:::Jochen H. Schiller:::CHIMPSY - A Modular Processor-System for High-Performance Communications.
+conf/gi/Zukunft02:::Olaf Zukunft:::Datenbankunterstützung für Informationssysteme im Auto.
+conf/gi/GaweckiMSS97:::Andreas Gawecki::Florian Matthes::Joachim W. Schmidt::Sören Stamer:::Persistent Object Systems: From Technology to Market.
+conf/gi/Wisskirchen86:::Peter Wißkirchen:::Graphische Kernsysteme und Programmiermethoden der Künstlichen Intelligenz: Systematische Ansätze und Wechselwirkungen.
+conf/gi/VockeF03:::Heike Vocke::Andreas Fett:::Aufbau von Web-Portalen für Unternehmenskooperationen - Vorgehen, Funktionen, Architektur, Erfahrungen.
+conf/gi/BittnerHTW03:::Peter Bittner::Eva Hornecker::Ute Twisselmann::Karsten Weber:::Die berufliche Situation informatisch Handelnder in der ethischen Reflexion.
+conf/gi/Kruger86:::Gerhard Krüger:::Der individuelle Rechner im Netzverbund als Arbeitsplatz des Ingenieurs.
+conf/gi/Pousttchi03:::Key Pousttchi:::Abrechnung mobiler Mehrwertdienste.
+conf/gi/Gohner80:::Peter Göhner:::Umwandlung von EPOS-Spezifikationen in Petri-Netze.
+conf/gi/Felfernig85:::Kurt A. Felfernig:::Bildschirmtext - Das Kommunikationsmedium für Klein- und Mittelbetriebe.
+conf/gi/SpaanenburgHKN92:::Lambert Spaanenburg::B. Höfflinger::A. Klofutar::S. Neusser:::Neurocontrol for Industrial Applications.
+conf/gi/BohmRH80:::M. Böhm::Martin Riemer::Karl Heinz Höhne:::Implementation of a Relational Data Base System on Top of a Commercial DBMS.
+conf/gi/BohleR87:::Knud Böhle::Ulrich Riehm:::Elektronisches Publizieren und Desktop Publishing - Variationen für Schreibende und Publizierende.

@@ -1,0 +1,200 @@
+conf/ifipTCS/RotheSV02:::Jörg Rothe::Holger Spakowski::Jörg Vogel:::Exact Complexity of Exact-Four-Colorability and of the Winner Problem for Young Elections.
+conf/ifipTCS/HylandPP02:::Martin Hyland::Gordon D. Plotkin::John Power:::Combining Computational Effects: commutativity &amp; sum.
+conf/ifipTCS/CalinescuMZ02:::Gruia Calinescu::Ion I. Mandoiu::Alexander Zelikovsky:::Symmetric Connectivity with Minimum Power Consumption in Radio Networks.
+conf/ifipTCS/BeygelzimerO02:::Alina Beygelzimer::Mitsunori Ogihara:::On the Enumerability of the Determinant and the Rank.
+conf/ifipTCS/Sudan00:::Madhu Sudan:::List Decoding: Algorithms and Applications.
+conf/procomet/BackS94:::Ralph-Johan Back::Kaisa Sere:::Action Systems with Synchronous Communication.
+conf/procomet/BoerFHS98:::Frank S. de Boer::N. Francez::M. van Hulst::Frank A. Stomp:::A proof theory of asynchronously communicating sequential processes.
+conf/procomet/Kieburtz98:::Richard B. Kieburtz:::Reactive functional programming.
+conf/procomet/HuthK98:::Michael Huth::Marta Z. Kwiatkowska:::Comparing CTL and PCTL on labeled Markov chains.
+conf/procomet/Verhoef94:::C. Verhoef:::A General Conservative Extension Theorem in Process Algebra.
+conf/procomet/FrancescoMR94:::Nicoletta De Francesco::Ugo Montanari::Gioia Ristori:::Modelling Concurrent Accesses to Shared Data via Petri Nets.
+conf/imperial/KwiatkowskaP93:::Marta Z. Kwiatkowska::Iain Phillips:::Concurrency and Conflict in CSP.
+conf/programm/KeranguevenK74:::A. Kerangueven::F. Kerangueven:::Structure du système SAR.
+conf/programm/HamiltonZ74:::Margaret Hamilton::Saydean Zeldin:::Higher order software techniques applied to a space shuttle prototype program.
+conf/programm/EhrigKP80:::Hartmut Ehrig::Hans-Jörg Kreowski::Peter Padawitz:::A Case Study of Abstract Implementations and Their Correctness.
+conf/programm/Eriksson82:::Agneta Eriksson:::Computer-based synthesis of logic programs.
+conf/programm/BohmDR74:::Corrado Böhm::Mariangiola Dezani-Ciancaglini::Simona Ronchi Della Rocca:::Listing of information structures defined by fixed-point operators.
+conf/programm/AguzziCPSS74:::Gianni Aguzzi::Francesca Cesarini::Renzo Pinzani::Giovanni Soda::Renzo Sprugnoli:::Tree structures handling by APS.
+conf/prolamat/HorvathMV99:::M. Horváth::András Márkus::József Váncza:::Cooperation Via Conflicts In Manufacturing Systems.
+conf/prolamat/Ito92:::Toshio Ito:::The Roles of Man and Computer in CIM Systems.
+conf/prolamat/SuT99:::C. J. Su::M. Tseng:::Design Knowledge Representation. Retrieval And Delivery for Cooperative Knowledge Processing.
+conf/prolamat/OttoKM98:::Harald E. Otto::Fumihiko Kimura::Ferruccio Mandordi:::Inheritance Semantics for Features.
+conf/prolamat/Choon92:::Nai-Choon Ho:::The Manufacturing Scenario in the 21st Century - A Singaporean Perspective.
+conf/prolamat/OhtakaS98:::A. Ohtaka::S. Sasao:::Development of New Collaborative Design &amp; Engineering Environment.
+conf/prolamat/BuddeI92:::Wolfgang Budde::Karl Imbusch:::EXAPT Process Plannning and NC Planning with Database-supported Management of Production Data.
+conf/prolamat/YangWL92:::W.-Y. Yang::Q.-D. Wu::T.-J. Li:::A Novel Method of Workshop Scheduling in FMS.
+conf/prolamat/BiennierF92:::Frédérique Biennier::Joël Favrel:::Dynamic Knowledge Systems for New Production Trends.
+conf/prolamat/TonshoffZ98:::Hans Kurt Tönshoff::Michael Zwick:::An Integrated Product and Process Model.
+conf/prolamat/StorrK92:::A. Storr::W. Kempf:::Machining Model for Complex Workpieces with Free-form Sufaces.
+conf/prolamat/ShenN98:::Weiming Shen::Douglas H. Norrie:::An Agent-Based Approach for Manufacturing Enterprise Integration and Supply Chain Management.
+conf/prolamat/ElcachoDLS98:::Colette Elcacho::Ralf Dörner::Volker Luckas::Arno Schäfer:::VRML Authoring in the context of Industrial Applications.
+conf/prolamat/Baskin99c:::Arthur B. Baskin:::Web Of Shared Understanding (Essay).
+conf/prolamat/AcacciaCMMM98:::G. M. Acaccia::M. Conte::D. Maina::R. C. Michelini::R. M. Molfini:::Integrated Manufacturing of High-Standing Dresses for Customised Satisfaction.
+conf/prolamat/OttoMKGM01:::Harald E. Otto::K. G. Mueller::Fumihiko Kimura::M. Germani::Ferruccio Mandorli:::Integrating Life Cycle Aspects within Product Family Design: An Example for SMEs.
+conf/prolamat/ChaouchCDFYS92:::H. Chaouch::E. Cocquebert::D. Deneux::F. Féru::S. Yazid::René Soenen:::Function-based Design for Manufacturability.
+conf/prolamat/Fukuda92:::Ieki Fukuda:::Customer-oriented CIM of Ventilator Business.
+conf/prolamat/Olling92:::Gustav J. Olling:::CAE/CAD/CAM Perspective at Chrysler Corporation.
+conf/prolamat/MicheliniACM92:::R. C. Michelini::G. M. Acaccia::M. Callegari::R. M. Molfino:::XIM-SIFIP: An Expert-simulation Environment for Factory Automation.
+conf/prolamat/MolinaAAR01:::Arturo Molina::José L. Acosta::Ahmed Al-Ashaab::Karina Rodríguez:::Web-based Information Models to Support Product Development in Virtual Enterprises.
+conf/prolamat/BrowneDB92:::Jimmie Browne::Guy Doumeingts::C. Berard:::Production Activity Control and SIPA PLUS.
+conf/dbmachine/CesariniS87a:::Francesca Cesarini::Silvio Salza:::Modeling and Measuring Methodologies.
+conf/dbmachine/SalzaTV87:::Silvio Salza::Mario Terranova::Paola Velardi:::Performance Modeling of the DBMAC Architecture.
+conf/dbmachine/GardarinBTVV83:::Georges Gardarin::Philippe Bernadat::Nicole Temmerman::Patrick Valduriez::Yann Viémont:::SABRE: A Relational Database System for a Multimicroprocessor Machine.
+conf/bildmed/HassenpflugGSWBM00:::Peter Hassenpflug::Gerald-P. Glombitza::Carlos E. Cárdenas S.::Ivo Wolf::Axel Brenner::Hans-Peter Meinzer:::Komponenten zur Unterstützung der automatischen Bildsegmentierung von CT-Aufnahmen der Leber.
+conf/bildmed/KohnenSWGBLD01:::Michael Kohnen::Henning Schubert::Berthold B. Wein::Rolf W. Günther::Jörg Bredno::Thomas Lehmann::Jörg Dahmen:::Qualität von DICOM-Informationen in Bilddaten aus der klinischen Routine.
+conf/bildmed/GuldBKKTSWL02:::Mark Oliver Güld::Jörg Bredno::Daniel Keysers::Michael Kohnen::Christian Thies::Henning Schubert::Berthold B. Wein::Thomas Lehmann:::Eine verteilte Systemarchitektur für IRMA: (Image Retrieval in Medical Applications).
+conf/bildmed/MetzlerSTCA00:::Volker Metzler::Günter Seidel::Daniel Toth::Lars Claassen::Til Aach:::Quantitative Messung der Hirnperfusion in intrakraniellen Ultraschall Bildsequenzen.
+conf/bildmed/SchneiderPB96:::Wilfried Schneider::R. Paulsburg::M. Blumenthal:::Digitale Bildverarbeitung mit computergestützter Befundung in PACS-Systemen.
+conf/bildmed/Neubert98:::W. Neubert:::Bilddokumentation und -analyse am Beispiel der Augenmedizin.
+conf/bildmed/SchroederEBSM96:::Antje Schroeder::Uwe Engelmann::U. Baur::Andre Schröter::Hans-Peter Meinzer:::Modell und Realisierung einer Client/Server-Bildverarbeitungsumgebung.
+conf/bildmed/GanserDSMWBTK00:::Klaus A. Ganser::Hartmut Dickhaus::Andreas Staubert::R. Metzner::C. R. Wirtz::M. M. Bonsanto::Volker M. Tronnier::S. Kunze:::Ein digitaler Gehirnatlas: Evaluation mit funktioneller MRT.
+conf/bildmed/Krol96:::Zdzislaw Król:::Surface-Similarity vs. Voxel-Similarity Based Registration of Multimodality Medical Images using Simulated Annealing.
+conf/bildmed/RohlfingB00a:::Torsten Rohlfing::Jürgen Beier:::Gesteigerte Registrierungsgenauigkeit verrauschter Bilddaten durch Coincidence Thresholding.
+conf/bildmed/RohlfingBWTLT00:::Torsten Rohlfing::Jürgen Beier::Jay B. West::Ulrich-Wilhelm Thomale::Thomas Liebig::Christian A. Taschner:::Registrierung und Fusion von funktionellen und anatomischen MRT-Daten: Quantitative Genauigkeitsanalyse und Anwendung in der navigierten Neurochirurgie.
+conf/bildmed/HektorJBG96:::Jens Hektor::J. Jansen::Frank Broicher::Reinhard Grebe:::Digital Video Workbench (DVW) - Ein Hilfsmittel zur Online Bildverarbeitung.
+conf/bildmed/BrednoLS01:::Jörg Bredno::Thomas Lehmann::Klaus Spitzer:::Texturadaptive Paramentierung aktiver Konturmodelle.
+conf/bildmed/TheekK00:::Carmen Theek::Matthias König:::Automatisches Auffinden von potentiell irreversiblen Infarktregionen im menschlichen Gehirn anhand von kombinierten Perfusions-CT-Bildern.
+conf/bildmed/Al-ZubiTBH02:::Stephan Al-Zubi::Klaus D. Tönnies::Nils Bodammer::Hermann Hinrichs:::Fusing Markov Random Fields with Anatomical Knowledge and Shape-Based Analysis to Segment Multiple Sclerosis White Matter Lesions in Magnetic Resonance Images of the Brain.
+conf/bildmed/KeysersCBDN02:::Daniel Keysers::Sami Celik::Henning Braess::Jörg Dahmen::Hermann Ney:::Parameter Estimation for Automatic Dose Control in Radioscopy.
+conf/bildmed/WolfMGTGPPM02:::Ivo Wolf::Manuela Makabe::Gerald Greil::Matthias Thorn::Tal Geva::Stella van Praagh::Richard van Praagh::Hans-Peter Meinzer:::Image Processing Methods for an Exact Reproduction of Unicque Waxed Heart Specimens.
+conf/bildmed/RathBSSGHHGM00:::Christoph Räth::Wolfram Bunk::Britta Schulte::Natalie Sorger::Carl Ganter::Hermann Helmberger::Alexander Horsch::Paul Gerhardt::Gregor Morfill:::Segmentierung und Volumetrie von Tumorentitäten mit CT-Datensätzen.
+conf/bildmed/LohwegM01:::Volker Lohweg::Dietmar Müller:::Unscharfe Histogrammklassifikation mit nichtlinearen Zirkulartransformationen und Potentialfunktionen für die Bildfindung und -analyse.
+conf/bildmed/BraunSBT01:::Jürgen Braun::Ingolf Sack::Johannes Bernarding::Thomas Tolxdorff:::Ortsaufsgelöste Quantifizierung frequenzabhängiger Kenngrößen aus MR-Bilddaten.
+conf/bildmed/WittenbergFWTSS00:::Thomas Wittenberg::Robert Frischholz::Stephan Wolf::Monika Tigges::Bernhard Suchy::Simone Schneider:::Automatische Verfolgung von Augenlidbewegungen und Korrelation mit EMG-Daten.
+conf/bildmed/GiessEM99:::Christoph Giess::Harald Evers::Hans-Peter Meinzer:::Haptisches Rendering in der Operationsplanung.
+conf/bildmed/WismullerDLHA98:::Axel Wismüller::Dominik R. Dersch::Bernadette Lipinski::Klaus Hahn::Dorothee Auer:::Neural network analysis of functional MRI time-series. Hierarchical clustering by deterministic annealing.
+conf/bildmed/PielotSOGH99:::Rainer Pielot::Michael Scholz::Klaus Obermayer::Eckart D. Gundelfinger::Andreas Hess:::Optimiertes Warping durch gewichtete Summen von Verschiebungsvektoren - eine neue Methode zur Reduktion von interindividuellen Variabilitäten von Hirndaten.
+conf/bildmed/NiemannBWK96:::Klaus Niemann::R. van den Boom::C. Wollner::Diedrich Graf v. Keyserlingk:::Der stereotaktische Atlas von AFSHAR, WATKINS und YAP in einem 3D-Navigationssystem.
+conf/bildmed/HorschA02:::Alexander Horsch::Hans-Dieter Allescher:::Automatische Lokalisationserkennung in der Endoskopie des Gastrointestinaltrakts: Eine Machbarkeitsstudie.
+conf/bildmed/GladilinZDH02:::Evgeny Gladilin::Stefan Zachow::Peter Deuflhard::Hans-Christian Hege:::Biomechanisches Modell zur Abschätzung der individuellen Gesichtsmimik.
+conf/bildmed/JendrysiakR01:::Udo Jendrysiak::Daniel Rinck:::Modellgestützte Gefäßbaumklassifikation am Beispiel der Segmenteinteilung der Leber.
+conf/bildmed/EnglmeierSBSR00:::Karl-Hans Englmeier::M. Siebert::R. Brüning::J. Scheidler::Maximilian Reiser:::Prinzipien und derzeitige Möglichkeiten der virtuellen Endoskopie.
+conf/bildmed/KohlrauschRS01:::Jan Kohlrausch::Karl Rohr::H. Siegfried Stiehl:::A New Class of Elastic Body Splines for Nonrigid Registration of Medical Images.
+conf/bildmed/WittaHBS96:::L. Witta::Rainer Herpers::Jörg Bruske::Gerald Sommer:::Anwendung eines DCS-Netzwerkes zur Verifikation von charakteristischen Bildpunkten.
+conf/bildmed/HahnZFB99:::M. Hahn::Detlef Zerfowski::H. Friedburg::Thomas Beth:::Auswertung von Funtions-CT oberer Halswirbel zur Diagnose von Weichteildistorsionen.
+conf/bildmed/NeumannFHT98:::Patrick Neumann::Gabriele Faulkner::Klaus Haarbeck::Thomas Tolxdorff:::MeVisTo-Jaw: Ein Visualisierungstool für die kieferchirurgische OP-Planung.
+conf/bildmed/PreimSSOP01:::Bernhard Preim::Henry Sonnet::Wolf Spindler::Karl J. Oldhafer::Heinz-Otto Peitgen:::Interaktive und automatische Vermessung von 3D-Visualisierungen für die Planung chirurgischer Eingriffe.
+conf/bildmed/KreitzZPH02:::Silke Kreitz::Werner Zuschratter::Rainer Pielot::Andreas Hess:::Cellular and Subcellular So-localisations of Immunologic Expression Patterns Revised by Boolean Feature Operators.
+conf/bildmed/KrellMWCR00:::Gerald Krell::Bernd Michaelis::Mathias Walke::Roman Calow::Nils Riefenstahl:::Bilder aus Diagnostik und Behandlungsplanung in der Strahlentherapie zur Auswertung von Online-Daten mit neuronalen Netzen.
+conf/bildmed/DauberHKWBHW02:::Sascha Däuber::Peter Heinze::Robert Krempien::T. Welzel::Jakob Brief::Stefan Haßfeld::Heinz Wörn:::Erstellung eines statistischen Atlas des Craniums.
+conf/bildmed/BraumannG02:::Ulf-Dietrich Braumann::Jörg Galle:::Untersuchungen zur Rekonstruktion netzartiger Tumorinvasionsfronten anhand histologischer Serienschnitte.
+conf/bildmed/BurghartPRRW98:::Catherina Burghart::Arno Pernozzoli::Jörg Raczkowsky::Ulrich Rembold::Heinz Wörn:::Segmentierung medizinischer Bilddaten unter Verwendung eines automatisch generierten patientenspezifischen Gewebemodells und Superquadriken.
+conf/bildmed/DolemeyerLTWM98:::A. Dölemeyer::H. Liebau::F. Toonen::Stephan Wolf::Dietrich Meyer-Ebrecht:::Ein schneller Algorithmus zur Erkennung und Kompensation von Augenbewegungen zur automatischen Durchführung der funduskontrollierten Mikroperimetrie.
+conf/bildmed/JansonK96:::Catherine P. Janson::D. Komitowski:::Quantitatives Tumorgrading mit Methoden der Bildanalyse.
+conf/bildmed/Haimerl99:::Martin Haimerl:::Oszillierende Ladungen als Werkzeug für die Analyse von MR-Aufnahmen.
+conf/bildmed/BurkhardtRSB02:::Stefan Burkhardt::Michael Roth::Achim Schweikard::Rainer Burgkart:::Korrektur von geometrischen Verzeichnungen bei MR-Aufnahmen vom Femur.
+conf/bildmed/KellerBKRN96:::A. Keller::Thomas Baehring::H. Krause::H. Richter::V. Natchkova:::Videodensitometrische und Videotopometrische Messungen in Röntgenbildern.
+conf/bildmed/PalmNLS99:::Christoph Palm::C. Neuschaefer-Rube::Thomas Lehmann::Klaus Spitzer:::Wissensbasierte Bewegungskompensation in aktiven Konturmodellen.
+conf/bildmed/Firle01:::Evelyn Firle:::Semi-automatische Segmentierung der Prostata mit Hilfe von 3D-Ultraschallaufnahmen.
+conf/bildmed/WeisPEW00:::Susanne Weis::Steffen Pollrich::Stephan G. Erberich::Klaus Willmes:::Abhängigkeit von Interstimulusintervallen und Aufnahmegeschwindigkeit bei der Bildakquisition schneller ereigniskorrelierter funktioneller MRI.
+conf/bildmed/PrinzLGSWG99:::Michael Prinz::Thomas Lorang::Manfred Gengler::Ernst Schuster::Stefan Wachter::Natascha Gerstner:::Ein verteiltes Bilddatenbank- und Bildverarbeitungssystem fü medizinische Bilder.
+conf/bildmed/HaimerlMMB02:::Martin Haimerl::Jörg Moldenhauer::Ulrich Mende::Thomas Beth:::Merkmalsinduzierte Aufbereitung medizinischer Ultraschallbilddaten.
+conf/bildmed/KopsHKM96:::Elena Rota Kops::Karsten Held::Bernd J. Krause::Hans-W. Müller-Gärtner:::Segmentierung von MR Hirnbildern mit Hilfe von Markov-Random Feldern.
+conf/bildmed/Franz00:::Martin Franz:::Erkennen von Blutgefäßen in subtraktionsangiographischen Bildern.
+conf/bildmed/ThierschmannM98:::Michael Thierschmann::Uwe-Erik Martin:::Waveletbasierte Bildkompressionsverfahren. Vorteile bei der Archivierung und Übertragung hochaufgelöster Bilder.
+conf/bildmed/UesbeckLS00:::M. Uesbeck::G. Lindenthal::Martin Skalej:::Ein hybrider Ansatz für Image-Retrieval in medizinischen WBT-Systemen.
+conf/bildmed/HludovM99:::Sergei Hludov::Christoph Meinel:::LZW-JPEG Kompression radiologischer Bilder.
+conf/bildmed/HassenpflugVSLWTSRLBM02:::Peter Hassenpflug::Marcus Vetter::Marc Schneberger::Thorsten Liebler::Ivo Wolf::Matthias Thorn::Carlos E. Cárdenas S.::Götz Martin Richter::Wolfram Lamadé::Markus Büchler::Hans-Peter Meinzer:::Ein Verfahren zur Genauigkeitsanalyse magnetischen Trackings.
+conf/infrasec/KimY02:::Hyun-Sung Kim::Kee-Young Yoo:::Bit-Serial AOP Arithmetic Architectures over GF (2<sup>m</sup>).
+conf/infrasec/Rila02:::Luciano Rila:::Denial of Access in Biometrics-Based Authentication Systems.
+conf/aussois/RichardFN01:::Jean-Philippe P. Richard::Ismael R. de Farias Jr.::George L. Nemhauser:::A Simplex-Based Algorithm for 0-1 Mixed Integer Programming.
+conf/aussois/MaurrasN01:::Jean François Maurras::Viet Hung Nguyen:::A Procedure of Facet Composition for the Symmetric Traveling Salesman Polytope.
+conf/phoenix/SchulteG91:::Wolfram Schulte::Wolfgang Grieskamp:::Generating Efficient Portable Code for a Strict Applicative Language.
+conf/phoenix/Paterson91:::Ross Paterson:::A Tiny Functional Language with Logical Features.
+conf/phoenix/CheongF91:::P. H. Cheong::Laurent Fribourg:::A Survey of the Implementations of Narrowing.
+conf/kognition/Staufer84:::Michael Staufer:::Das mantale Modell als Ausgangspunkt zu einem Benutzterfreundlichen Reiseberatungssystem.
+conf/calisce/Huang96:::Sherman X. Huang:::On Content-Balanced Adaptive Testing.
+conf/calisce/ForteMS96:::Maria Wentland Forte::E. McMurray::Florence Simillion:::Teaching Informatics with ARIANE: An Experimental Internet-Based Pedagogical Environment.
+conf/calisce/BelmonteBC96:::María-Victoria Belmonte::J. Berbel::Ricardo Conejo:::TEA: An Agrarian Economuy Instructor System.
+conf/calisce/JerinicD96:::Ljubomir Jerinic::Vladan Devedzic:::An Object-Oriented Shell for Intelligent Tutoring Lessons.
+conf/calisce/Villiers96:::M. R. de Villiers:::A Component-Based Interactive Practice Environment.
+conf/calisce/MillanMPT96:::Eva Millán::A. Muñoz-Zea::José-Luis Pérez-de-la-Cruz::F. Triguero-Ruiz:::GITE: Intelligent Generation of Tests.
+conf/calisce/HuapayaA96:::Constanza R. Huapaya::Graciela M. Arona:::A Student Model in Numerical Analysis for an Actual Engineering Student.
+conf/calisce/GirouxPG96:::Sylvain Giroux::Gilbert Paquette::Jean Girard:::Epiphyte Advisor Systems for Collaborative Learning.
+conf/captech/Fua98:::Pascal Fua:::Face Models from Uncalibrated Video Sequences.
+conf/captech/AminianARFSDLR98:::Kamiar Aminian::Eduardo De Andres::Karen Rezakhanlou::Carlo Fritsch::Y. Schutz::Michèle Depairon::Pierre-François Leyvraz::Philippe Robert:::Motion Analysis in Clinical Practice Using Ambulatory Accelerometry.
+conf/captech/SulJW98:::ChangWhan Sul::SoonKi Jung::KwangYun Wohn:::Synthesis of Human Motion Using Kalman Filter.
+conf/sigmetrics/FarkasFBGA00:::Keith I. Farkas::Jason Flinn::Godmar Back::Dirk Grunwald::Jennifer-Ann M. Anderson:::Quantifying the energy consumption of a pocket computer and a Java virtual machine.
+conf/sigmetrics/GlennP91:::Raymond R. Glenn::Daniel V. Pryor:::Instrumentation for a Massively Parallel MIMD Application.
+conf/sigmetrics/Williamson93:::Carey L. Williamson:::Optimizing File Transfer Response Time Using the Loss-Load Curve Congestion Control Mechanism.
+conf/sigmetrics/Bose99:::Pradip Bose:::Performance Evaluation and Validation of Microprocessors.
+conf/sigmetrics/ContiGL93:::Marco Conti::Enrico Gregori::Luciano Lenzini:::Metropolitan Area Networks (MANs): Protocols, Modeling and Performance Evaluation.
+conf/sigmetrics/HeidelbergerF89:::Philip Heidelberger::Peter A. Franaszek:::Traffic Studies of Unbuffered Delta Networks.
+conf/sigmetrics/Perez-Davila88:::Alfredo de J. Perez-Davila:::A Generalized Queueing Network Model of a Local Area Network for Performance Evaluation of File Management Techniques with File Locking.
+conf/sigmetrics/UhligNMS94:::Richard Uhlig::David Nagle::Trevor N. Mudge::Stuart Sechrest:::Kernel-Based Memory Simulation.
+conf/sigmetrics/GuoM02:::Liang Guo::Ibrahim Matta:::Scheduling flows with unknown sizes: approximate analysis.
+conf/sigmetrics/ParkB91:::Arvin Park::Jeffrey C. Becker:::Measurements of the Paging Behavior of UNIX.
+conf/sigmetrics/Hofri86:::Micha Hofri:::Queueing Systems with a Procrastinating Server.
+conf/sigmetrics/SmaragdakisKW99:::Yannis Smaragdakis::Scott F. Kaplan::Paul R. Wilson:::EELRU: Simple and Effective Adaptive Page Replacement.
+conf/sigmetrics/CaoCLS01:::Jin Cao::William S. Cleveland::Dong Lin::Don X. Sun:::On the nonstationarity of Internet traffic.
+conf/sigmetrics/AamodtMCGHWS03:::Tor M. Aamodt::Pedro Marcuello::Paul Chow::Antonio González::Per Hammarlund::Hong Wang::John Paul Shen:::A framework for modeling and optimization of prescient instruction prefetch.
+conf/sigmetrics/JinA02:::Ruoming Jin::Gagan Agrawal:::Performance prediction for random write reductions: a case study in modeling shared memory programs.
+conf/sigmetrics/LaiN02:::Albert Lai::Jason Nieh:::Limits of wide-area thin-client computing.
+conf/sigmetrics/LamL82:::Simon S. Lam::Y. Luke Lien:::Optimal Routing in Networks With Flow-Controlled Virtual Channels.
+conf/sigmetrics/SimmondsWBAU02:::Rob Simmonds::Carey L. Williamson::Russell Bradford::Martin F. Arlitt::Brian Unger:::Web server benchmarking using parallel WAN emulation.
+conf/sigmetrics/ErramilliWLHMLN95:::Ashok Erramilli::Walter Willinger::T. V. Lakshman::Daniel P. Heyman::Amarnath Mukherjee::San-qi Li::Onuttom Narayan:::Performance Impacts of Self-Similarity in Traffic (Panel).
+conf/sigmetrics/LinT91:::Tein-Hsiang Lin::Wernhuar Tarng:::Scheduling Periodic and Aperiodic Tasks in Hard Real-Time Computing Systems.
+conf/sigmetrics/ChouGL99:::Cheng-Fu Chou::Leana Golubchik::John C. S. Lui:::A Performance Study of Dynamic Replication Techniques in Continuous Media Servers.
+conf/sigmetrics/Massey86:::William A. Massey:::A Probabilistic Analysis of a Database System.
+conf/sigmetrics/WilliamsonW02:::Carey L. Williamson::Qian Wu:::Context-aware TCP/IP.
+conf/sigmetrics/ShenkerW88:::Scott Shenker::Abel Weinrib:::Asymptotic Analysis of Large Heterogeneous Queueing Systems.
+conf/sigmetrics/QinB97:::Xiaohan Qin::Jean-Loup Baer:::A Performance Evaluation of Cluster-Based Architectures.
+conf/sigmetrics/CrowleyB99:::Patrick Crowley::Jean-Loup Baer:::On the Use of Trace Sampling for Architectural Studies of Desktop Applications.
+conf/sigmetrics/SmithCJO01:::F. Donelson Smith::Félix Hernández-Campos::Kevin Jeffay::David Ott:::What TCP/IP protocol headers can tell us about the web.
+conf/sigmetrics/ShakkottaiS00:::Sanjay Shakkottai::R. Srikant:::Delay asymptotics for a priority queueing system.
+conf/sigmetrics/KoksalKB00:::Can Emre Koksal::Hisham Kassab::Hari Balakrishnan:::An analysis of short-term fairness in wireless media access protocols (poster).
+conf/sigmetrics/Domanski88:::Bernard Domanski:::A PROLOG-Based Expert System for Tuning MVX/XA.
+conf/sigmetrics/BubenikZ89:::Rick Bubenik::Willy Zwaenepoel:::Performance of Optimistic Make.
+conf/sigmetrics/Ferrari84:::Domenico Ferrari:::On the Foundations of Artificial Workload Design.
+conf/sigmetrics/MyllymakiL95:::Jussi Myllymaki::Miron Livny:::Disk-Tape Joins: Synchronizing Disk and Tape Access.
+conf/sigmetrics/ZhuH02:::Yingwu Zhu::Yiming Hu:::Can large disk built-in caches really improve system performance?.
+conf/sigmetrics/Brorsson95:::Mats Brorsson:::SM-prof: A Tool to Visualise and Find Cache Coherence Performance Bottlenecks in Multiprocessor Programs.
+conf/sigmetrics/WilliamsonWPM95:::Carey L. Williamson::Walter Willinger::Vern Paxson::Benjamin Melamed:::Network Traffic Measurement and Modelling (Panel).
+conf/sigmetrics/MartinNR00:::Jim Martin::Arne A. Nilsson::Injong Rhee:::The incremental deployability of RTT-based congestion avoidance for high speed TCP Internet connections.
+conf/sigmetrics/MirchandaniB90:::Dinesh Mirchandani::Prabuddha Biswas:::Characterizing and Modeling Ethernet Performance of Distributed DECwindows Applications.
+conf/sigmetrics/Schwetman81:::Herbert D. Schwetman:::Computer System Models: An Introduction.
+conf/sigmetrics/Onvural93:::Raif O. Onvural:::Queueing Networks with Finite Capacities.
+conf/sigmetrics/BriggsD81:::Faye A. Briggs::Michel Dubois:::Performance of Cache-Based Multiprocessors.
+conf/sigmetrics/BuntMM84:::Richard B. Bunt::Jennifer M. Murphy::Shikharesh Majumdar:::A Measure of Program Locality and Its Application.
+conf/sigmetrics/ArakawaKST93:::Hiroshi Arakawa::Daniel I. Katcher::Jay K. Strosnider::Hideyuki Tokuda:::Modeling and Validation of the Real-Time Mach Scheduler.
+conf/sigmetrics/CrovellaHM98:::Mark Crovella::Mor Harchol-Balter::Cristina D. Murta:::Task Assignment in a Distributed System: Improving Performance by Unbalancing Load (Extended Abstract).
+conf/sigmetrics/McGehearty90:::Patrick F. McGehearty:::Challenges in Obtaining Peak Parallel Performance with a Convex C240, a Parallel Vector Processor.
+conf/sigmetrics/LuthiL01:::Johannes Lüthi::Catalina M. Lladó:::Interval parameters for capturing uncertainties in an EJB performance model.
+conf/sigmetrics/Lehoczky97:::John P. Lehoczky:::Using Real-Time Queueing Theory to Control Lateness in Real-Time Systems.
+conf/sigmetrics/KonradJ03:::Almudena Konrad::Anthony D. Joseph:::Choosing an accurate network path model.
+conf/sigmetrics/KumarJCS99:::Sanjeev Kumar::Dongming Jiang::Rohit Chandra::Jaswinder Pal Singh:::Evaluating Synchronization on Shared Address Space Multiprocessors: Methodology and Performance.
+conf/sigmetrics/SivasubramaniamSRV95:::Anand Sivasubramaniam::Aman Singla::Umakishore Ramachandran::H. Venkateswaran:::On Characterizing Bandwidth Requirements of Parallel Applications.
+conf/sigmetrics/BalboBS94:::Gianfranco Balbo::Steven C. Bruell::Matteo Sereno:::Arrival Theorems for Product-Form Stochastic Petri Nets.
+conf/sigmetrics/GeistRP87:::Robert Geist::Robert G. Reynolds::Eve Pittard:::Disk Scheduling in System V.
+conf/sigmetrics/ShinH93:::Kang G. Shin::Chao-Ju Hou:::Evaluation of Load Sharing in HARTS while Considering Message Routing and Broadcasting.
+conf/sigmetrics/Heidelberger93:::Philip Heidelberger:::Fast Simulation of Rare Events in Queueing and Reliability Models.
+conf/sigmetrics/ZhuSY99:::Huican Zhu::Ben Smith::Tao Yang:::Hierarchical Resource Management for Web Server Clusters with Dynamic Content.
+conf/sigmetrics/ShenoyV98:::Prashant J. Shenoy::Harrick M. Vin:::Cello: A Disk Scheduling Framework for Bext Generation Operating Systems.
+conf/sigmetrics/Mellor-CrummeyFW01:::John M. Mellor-Crummey::Robert J. Fowler::David B. Whalley:::On providing useful information for analyzing and tuning applications.
+conf/sigmetrics/DawkinsDJS90:::W. P. Dawkins::V. Debbad::J. Robert Jump::James B. Sinclair:::Efficient Simulation of Multiprogramming.
+conf/sigmetrics/Petriu94:::Dorina C. Petriu:::Approximate Mean Value Analysis of Client-Server Systems with Multi-class Requests.
+conf/sigmetrics/HershkoSS99:::Yuval Hershko::Daniel Segal::Hadas Shachnai:::Self-Tuning Synchronization Mechanisms in Network Operating Systems.
+conf/sigmetrics/ChiangMV94:::Su-Hui Chiang::Rajesh K. Mansharamani::Mary K. Vernon:::Use of Application Characteristics and Limited Preemption for Run-to-Completion Parallel Processor Scheduling Policies.
+conf/sigmetrics/BarfordC99:::Paul Barford::Mark Crovella:::A Performance Evaluation of Hyper Text Transfer Protocols.
+conf/sigmetrics/SalamatianV01:::Kavé Salamatian::Sandrine Vaton:::Hidden Markov modeling for network communication channels.
+conf/sigmetrics/MartonosiGA93:::Margaret Martonosi::Anoop Gupta::Thomas E. Anderson:::Effectiveness of Trace Sampling for Performance Debugging Tools.
+conf/sigmetrics/NahumYKT97:::Erich M. Nahum::David J. Yates::James F. Kurose::Donald F. Towsley:::Cache Behavior of Network Protocols.
+conf/sigmetrics/Danzig91:::Peter B. Danzig:::An Analytical Model of Operating System Protocol Processing Including Effects of Multiprogramming.
+conf/sigmetrics/Swami89:::Arun N. Swami:::A Validated Cost Model for Main Memory Databases.
+conf/sigmetrics/Hevner85:::Alan R. Hevner:::Evaluation of Optical Disk Systems for Very Large Database Applications.
+conf/sigmetrics/ZhangK94:::Hui Zhang::Edward W. Knightly:::Providing End-to-End Statistical Performance Guarantees with Bounding Interval Dependent Stochastic Models.
+conf/sigmetrics/Stavenow84:::Bengt Stavenow:::Throughput-Delay Characteristics and Stability Considerations of the Access Channel in a Mobile Telephone System.
+conf/sigmetrics/ElsanadidiC82:::M. Y. Elsanadidi::Wesley W. Chu:::An Analysis of a Time Window Multiaccess Protocol With Collision Size Feedback (WCSF).
+conf/sigmetrics/NgSSZ99:::T. S. Eugene Ng::Donpaul C. Stephens::Ion Stoica::Hui Zhang:::Supporting Best-Effort Traffic With Fair Service Curve.
+conf/sigmetrics/PatelCV94:::Jignesh M. Patel::Michael J. Carey::Mary K. Vernon:::Accurate Modeling of the Hybrid Hash Join Algorithm.
+conf/sigmetrics/Walstra85:::Robbe J. Walstra:::Nonexponential Networks of Queues: A Maximum Entropy Analysis.
+conf/sigmetrics/YoshizawaAKS88:::Yasufumi Yoshizawa::Toshiaki Arai::Takashige Kubo::Toshiharu Shinozaki:::Adaptive Storage Control For Page Frame Supply in Large Scale Computer Systems.
+conf/sigmetrics/CoatesCNGKT02:::Mark Coates::Rui Castro::Robert Nowak::Manik Gadhiok::Ryan King::Yolanda Tsang:::Maximum likelihood network topology identification from edge-based unicast measurements.
+conf/sigmetrics/VenkitaramanKL99:::Narayanan Venkitaraman::Tae-eun Kim::Kang-Won Lee:::Design and Evaluation of Congestion Control Algorithms in the Future Internet.
+conf/sigmetrics/ChiangS91:::MenChow Chiang::Gurindar S. Sohi:::Experience with Mean Value Analysis Models for Evaluating Shared Bus, Throughput-Oriented Multiprocessors.
+conf/sigmetrics/AltmanN92:::Eitan Altman::Philippe Nain:::Closed-Loop Control with Delayed Information.
+conf/sigmetrics/RazoukSW86:::Rami R. Razouk::Terri Stewart::Michael Wilson:::Measuring Operating System Performance on Modern Micro-Processors.
+conf/sigmetrics/Downey01:::Allen B. Downey:::The structural cause of file size distributions.
+conf/sigmetrics/TorrellasTG93:::Josep Torrellas::Andrew Tucker::Anoop Gupta:::Benefits of Cache-Affinity Scheduling in Shared-Memory Multiprocessors: A Summary.
+conf/sigmetrics/TalimLNC01:::Jerome Talim::Zhen Liu::Philippe Nain::Edward G. Coffman Jr.:::Controlling the robots of Web search engines.

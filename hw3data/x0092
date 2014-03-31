@@ -1,0 +1,200 @@
+conf/uist/MillerZ98:::Timothy Miller::Robert C. Zeleznik:::An Insidious Haptic Invasion: Adding Force Feedback to the X Desktop.
+conf/uist/RaoCJMR92:::Ramana Rao::Stuart K. Card::Herbert D. Jellinek::Jock D. Mackinlay::George G. Robertson:::The Information Grid: A Framework for Information Retrieval and Retrieval-centered Applications.
+conf/uist/ChimeraBBPR93:::Richard Chimera::Jeff Barr::Martin Brunecky::Randy F. Pausch::Alain T. Rappaport:::Platform Independent User Interface Builders: Where are we headed?
+conf/uist/WlokaG95:::Matthias M. Wloka::Eliot Greenfield:::The Virtual Tricorder: A Uniform Interface for Virtual Reality.
+conf/uist/DietzY01:::Paul H. Dietz::William S. Yerazunis:::Real-time audio buffering for telephone applications.
+conf/uist/SpenkeBB96:::Michael Spenke::Christian Beilken::Thomas Berlage:::FOCUS: The Interactive Table for Product Comparison and Selection.
+conf/uist/SiioMF99:::Itiro Siio::Toshiyuki Masui::Kentaro Fukuchi:::Real-world Interaction Using the FieldMouse.
+conf/uist/HindusASGMB95:::Debby Hindus::Barry Arons::Lisa Stifelman::William W. Gaver::Elizabeth D. Mynatt::Maribeth Back:::Designing auditory interactions for PDAs.
+conf/uist/XiongD99:::Rebecca Xiong::Judith S. Donath:::PeopleGarden: Creating Data Portraits for Users.
+conf/uist/PoupyrevBWI96:::Ivan Poupyrev::Mark Billinghurst::Suzanne Weghorst::Tadao Ichikawa:::The Go-Go Interaction Technique: Non-Linear Mapping for Direct Manipulation in VR.
+conf/uist/Zanden94:::Brad T. Vander Zanden:::Optimizing Toolkit-generated Graphical Interfaces.
+conf/unix/Heintke82:::H. Heintke:::UNIX als Software-Entwicklungswerkzeug.
+conf/unix/Muller82:::Claus M. Müller:::C - Die UNIX-Implementierungssprache.
+conf/wabi/Spriet03:::Jan A. Spriet:::Side-Chain Structure Prediction Based on Dead-End Elimination: Single Split DEE-criterion Implementation and Elimination Power.
+conf/wabi/AumannMY03:::Yonatan Aumann::Efrat Manisterski::Zohar Yakhini:::Designing Optimally Multiplexed SNP Genotyping Assays.
+conf/wabi/Addario-BerryCHLPW03:::Louigi Addario-Berry::Benny Chor::Michael T. Hallett::Jens Lagergren::Alessandro Panconesi::Todd Wareham:::Ancestral Maximum Likelihood of Evolutionary Trees Is Hard.
+conf/wabi/BermanBDGKS02:::Piotr Berman::Paul Bertone::Bhaskar DasGupta::Mark Gerstein::Ming-Yang Kao::Michael Snyder:::Fast Optimal Genome Tiling with Applications to Microarray Design and Homology Search.
+conf/wabi/CsurosM02:::Miklós Csürös::Aleksandar Milosavljevic:::Pooled Genomic Indexing (PGI): Mathematical Analysis and Experiment Design.
+conf/wabi/ShatskyNW02:::Maxim Shatsky::Ruth Nussinov::Haim J. Wolfson:::MultiProt - A Multiple Protein Structural Alignment Algorithm.
+conf/wabi/BarashBF01:::Yoseph Barash::Gill Bejerano::Nir Friedman:::A Simple Hyper-Geometric Approach for Discovering Putative Transcription Factor Binding Sites.
+conf/wacc/Girgensohn99:::Andreas Girgensohn:::Supporting the writing of reports in a hierarchical organization.
+conf/wacc/PrinceSTZ99:::Robert Prince::Jianwen Su::Hong Tang::Yonggang Zhao:::The design of an interactive online help desk in the Alexandria Digital Library.
+conf/wacg/Mehlhorn96:::Kurt Mehlhorn:::Position Paper for Panel Discussion.
+conf/wacg/Mitchell96:::Joseph S. B. Mitchell:::On Some Applications of Computational Geometry in Manufacturing and Virtual Environments.
+conf/wacg/Fortune96a:::Steven Fortune:::A Beam-Tracing Algorithm for Prediction of Indoor Radio Propagation.
+conf/wacg/Hoffmann96:::Christoph M. Hoffmann:::How Solid is Solid Modeling?
+conf/vlbv/BescosMG03:::Jesús Bescós::José M. Martínez::Narciso N. García:::Real-Time Audiovisual Feature Extraction for Online Service Provision over DVB Streams.
+conf/vlbv/MatsudaSI03:::Ichiro Matsuda::Noriyuki Shirai::Susumu Itoh:::Lossless Coding Using Predictors and Arithmetic Code Optimized for Each Image.
+conf/vlbv/TzouveliNK03:::Paraskevi K. Tzouveli::Klimis S. Ntalianis::Stefanos D. Kollias:::Automatic Videoconference Objects Watermarking Using Object Adapted Qualified Significant Wavelet Trees.
+conf/vlbv/LerougeLW03:::Sam Lerouge::Peter Lambert::Rik Van de Walle:::Multi-criteria Optimization for Scalable Bitstreams.
+conf/vldb/Dasgupta96:::A. R. Dasgupta:::Large Databases for Remote Sensing and GIS.
+conf/vldb/AnKR03:::Ning An::Kothuri Venkata Ravi Kanth::Siva Ravada:::Improving Performance with Bulk-Inserts in Oracle R-Trees.
+conf/vldb/HinneburgAK00:::Alexander Hinneburg::Charu C. Aggarwal::Daniel A. Keim:::What Is the Nearest Neighbor in High Dimensional Spaces?
+conf/vldb/KornMZ03:::Flip Korn::S. Muthukrishnan::Yunyue Zhu:::Checks and Balances: Monitoring Data Quality Problems in Network Traffic Databases.
+conf/vldb/MannilaR87:::Heikki Mannila::Kari-Jouko Räihä:::Dependency Inference.
+conf/vldb/Lu87:::Hongjun Lu:::New Strategies for Computing the Transitive Closure of a Database Relation.
+conf/vldb/GyssensL97:::Marc Gyssens::Laks V. S. Lakshmanan:::A Foundation for Multi-dimensional Databases.
+conf/vldb/MillerIR93:::Renée J. Miller::Yannis E. Ioannidis::Raghu Ramakrishnan:::The Use of Information Capacity in Schema Integration and Translation.
+conf/vldb/Vereb03:::Krisztian Vereb:::On a Hierarchical Indexing Fuzzy Content-Based Image Retrieval Approach.
+conf/vldb/HsuLOMTX02:::Wynne Hsu::Mong-Li Lee::Beng Chin Ooi::Pranab Kumar Mohanty::Keng Lik Teo::Chenyi Xia:::Advanced Database Technologies in a Diabetic Healthcare System.
+conf/vldb/Chen86:::Qiming Chen:::The Management of Dynamically Distributed Database Windows (Extended Abstract).
+conf/vldb/KimLMP84:::Won Kim::Raymond A. Lorie::Dan McNabb::Wil Plouffe:::A Transaction Mechanism for Engineering Design Databases.
+conf/vldb/GallersdorferN95:::Rainer Gallersdörfer::Matthias Nicola:::Improving Performance in Replicated Databases through Relaxed Coherency.
+conf/vldb/Gupta96:::Umang Gupta:::The Changing Landscape of the Software Industry and its Implications for India
+conf/vldb/Toivonen96:::Hannu Toivonen:::Sampling Large Databases for Association Rules.
+conf/vldb/BrownG01:::Leonard Brown::Le Gruenwald:::A Prototype Content-Based Retrieval System that Uses Virtual Images to Save Space.
+conf/vldb/MohanN91:::C. Mohan::Inderpal Narang:::Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment.
+conf/vldb/Parker86:::Douglas Stott Parker Jr.:::Knowledge-Bases and Database Engineering.
+conf/vldb/EleftheriouBCDHLPPABDDDGJHLRSVW03:::E. Eleftheriou::P. Bächtold::G. Cherubini::A. Dholakia::C. Hagleitner::T. Loeliger::A. Pantazi::H. Pozidis::T. R. Albrecht::Gerd K. Binnig::Michel Despont::Ute Drechsler::Urs Dürig::B. Gotsmann::D. Jubin::Walter Häberle::M. A. Lantz::Hugo E. Rothuizen::Richard Stutz::Peter Vettiger::D. Wiesmann:::A Nanotechnology-based Approach to Data Storage.
+conf/vldb/VelegrakisMP03:::Yannis Velegrakis::Renée J. Miller::Lucian Popa:::Mapping Adaptation under Evolving Schemas.
+conf/vldb/GaoS03:::Dengfeng Gao::Richard T. Snodgrass:::Temporal Slicing in the Evaluation of XML Queries.
+conf/vldb/MontgomeryR81:::Christine A. Montgomery::Enrique H. Ruspini:::The Active Information System: A Data-Driven System for the Analysis of Imprecise Data
+conf/vldb/Banerjee00:::Sandeepan Banerjee:::A Database Platform for Bioinformatics.
+conf/vldb/CareyJL89:::Michael J. Carey::Rajiv Jauhari::Miron Livny:::Priority in DBMS Resource Scheduling.
+conf/vldb/Fuhr90:::Norbert Fuhr:::A Probabilistic Framework for Vague Queries and Imprecise Information in Databases.
+conf/vldb/Childs77:::D. L. Childs:::Extended Set Theory.
+conf/vldb/MedeirosT85:::Claudia Bauzer Medeiros::Frank Wm. Tompa:::Understanding the Implications of View Update Policies.
+conf/vldb/DuE89:::Weimin Du::Ahmed K. Elmagarmid:::Quasi Serializability: a Correctness Criterion for Global Concurrency Control in InterBase.
+conf/vldb/Fox02:::Armando Fox:::Toward Recovery-Oriented Computing.
+conf/vldb/WoelkK87:::Darrell Woelk::Won Kim:::Multimedia Information Management in an Object-Oriented Database System.
+conf/vldb/Kim89:::Won Kim:::A Model of Queries for Object-Oriented Databases.
+conf/vldb/DoschMW82:::Walter Dosch::Gianfranco Mascari::Martin Wirsing:::On the Algebraic Specification of Databases.
+conf/vldb/NgH94:::Raymond T. Ng::Jiawei Han:::Efficient and Effective Clustering Methods for Spatial Data Mining.
+conf/vldb/WangM90:::Y. Richard Wang::Stuart E. Madnick:::A Polygen Model for Heterogeneous Database Systems: The Source Tagging Perspective.
+conf/vldb/WangS90:::Jason Tsong-Li Wang::Dennis Shasha:::Query Processing for Distance Metrics.
+conf/vldb/JarkeLS85:::Matthias Jarke::Volker Linnemann::Joachim W. Schmidt:::Data Constructors: On the Integration of Rules and Relations.
+conf/vldb/SistlaYH94:::A. Prasad Sistla::Clement T. Yu::R. Haddad:::Reasoning About Spatial Relationships in Picture Retrieval Systems.
+conf/vldb/YiF00:::Byoung-Kee Yi::Christos Faloutsos:::Fast Time Sequence Indexing for Arbitrary Lp Norms.
+conf/vldb/PereiraFLS00:::João Pereira::Françoise Fabret::François Llirbat::Radu Preotiuc-Pietro::Kenneth A. Ross::Dennis Shasha:::Publish/Subscribe on the Web at Extreme Speed.
+conf/vldb/LiCHPALHAY01:::Wen-Syan Li::K. Selçuk Candan::Wang-Pin Hsiung::Oliver Po::Divyakant Agrawal::Qiong Luo::Wei-Kuang Waine Huang::Yusuf Akca::Cemal Yilmaz:::Cache Portal: Technology for Accelerating Database-driven e-commerce Web Sites.
+conf/vldb/Levy96:::Alon Y. Levy:::Obtaining Complete Answers from Incomplete Databases.
+conf/vldb/LiRW87:::Jianzhong Li::Doron Rotem::Harry K. T. Wong:::A New Compression Method with Fast Searching on Large Databases.
+conf/vldb/LiSR92:::Jianzhong Li::Jaideep Srivastava::Doron Rotem:::CMD: A Multidimensional Declustering Method for Parallel Data Systems.
+conf/vldb/Pilote83:::Michel Pilote:::A Data Modeling Approach to Simplify the Design of User Interfaces.
+conf/vldb/LienTDR75:::Y. Edmund Lien::Carl E. Taylor::James R. Driscoll::Mark L. Reynolds:::Binary Search Tree Complex - Towards the Implementation of Relations.
+conf/vldb/RamakrishnanR96:::R. Ramakrishnan::D. Janaki Ram:::Modeling Design Versions.
+conf/vldb/LuOT94:::Hongjun Lu::Beng Chin Ooi::Kian-Lee Tan:::On Spatially Partitioned Temporal Join.
+conf/vldb/LuTS90:::Hongjun Lu::Kian-Lee Tan::Ming-Chien Shan:::Hash-Based Join Algorithms for Multiprocessor Computers.
+conf/vldb/Walter80:::Bernd Walter:::Strategies for Handling Transactions in Distributed Data Base Systems During Recovery.
+conf/vldb/RamanH01:::Vijayshankar Raman::Joseph M. Hellerstein:::Potter's Wheel: An Interactive Data Cleaning System.
+conf/vldb/WangHH00:::Ke Wang::Yu He::Jiawei Han:::Mining Frequent Itemsets Using Support Constraints.
+conf/vldb/WangSG03:::Tianqiu Wang::Simone Santini::Amarnath Gupta:::An Interpolated Volume Data Model.
+conf/vldb/GambinoG77:::Thomas J. Gambino::Rob Gerritsen:::A Data Base Design Decision Support System.
+conf/vldb/WangYM97:::Wei Wang::Jiong Yang::Richard R. Muntz:::STING: A Statistical Information Grid Approach to Spatial Data Mining.
+conf/vldb/Kerschberg82:::Larry Kerschberg:::The Database/Data Dictionary Interface.
+conf/vldb/Nori00:::Anil Nori:::Asera: Extranet Architecture for B2B Solutions.
+conf/vldb/HullY90:::Richard Hull::Masatoshi Yoshikawa:::ILOG: Declarative Creation and Manipulation of Object Identifiers.
+conf/vldb/ChampineFFJKPPRT77:::George Champine::Craig Fields::Koichi Furukawa::David Jefferson::Fritz Krückeberg::Giora Pelled::Charles Purcell::John Rundell::Tadahiko Takahama:::Panel: Directions in Database Research.
+conf/vldb/KoudasMJ99:::H. V. Jagadish::Nick Koudas::S. Muthukrishnan:::Mining Deviants in a Time Series Database.
+conf/vldb/KoenigP81:::Shaye Koenig::Robert Paige:::A Transformational Framework for the Automatic Control of Derived Data
+conf/vldb/BaulierBKS98:::Jerry Baulier::Stephen Blott::Henry F. Korth::Abraham Silberschatz:::A Database System for Real-Time Event Aggregation in Telecommunication.
+conf/vldb/SevcikK96:::Kenneth C. Sevcik::Nick Koudas:::Filter Trees for Managing Spatial Data over a Range of Size Granularities
+conf/vldb/Lockemann78:::Peter C. Lockemann:::Authorization and Database Security.
+conf/vldb/Paolini78:::Paolo Paolini:::An Alternative Structure for Data Base Management Systems.
+conf/vldb/SimonsonA75:::Walter E. Simonson::William T. Alsbrooks:::A DBMS for the U.S. Bureo of the Census.
+conf/vldb/SullivanS91:::Mark Sullivan::Michael Stonebraker:::Using Write Protected Data Structures To Improve Software Fault Tolerance in Highly Available Database Management Systems.
+conf/vldb/Otoo84:::Ekow J. Otoo:::A Mapping Function for the Directory of a Multidimensional Extendible Hashing.
+conf/vldb/DeenAT84:::S. Misbah Deen::R. R. Amin::Malcolm C. Taylor:::A Strategy for Decomposing Complex Queries in a Heterogeneous DDB.
+conf/vldb/Mattos03:::Nelson Mendonça Mattos:::Integrating Information for On Demand Computing.
+conf/vldb/Mattos96:::Nelson Mendonça Mattos:::Supporting Procedural Constructs in SQL Compilers.
+conf/vldb/Post80:::Jonathan V. Post:::Quintillabit: Parameters of a Hyperlarge Database.
+conf/vldb/AgrawalSX02:::Rakesh Agrawal::Ramakrishnan Srikant::Yirong Xu:::Database Technologies for Electronic Commerce.
+conf/vldb/MillinerBP95:::Steven Milliner::Athman Bouguettaya::Mike P. Papazoglou:::A Scalable Architecture for Autonomous Heterogeneous Database Interactions.
+conf/vldb/GrustKT03:::Torsten Grust::Maurice van Keulen::Jens Teubner:::Staircase Join: Teach a Relational DBMS to Watch its (Axis) Steps.
+conf/vldb/CosleyLP02:::Dan Cosley::Steve Lawrence::David M. Pennock:::REFEREE: An Open Framework for Practical Testing of Recommender Systems using ResearchIndex.
+conf/vldb/KahlerR87:::Bo Kähler::Oddvar Risnes:::Extending Logging for Database Snapshot Refresh.
+conf/vldb/RamaswamyMS98:::Sridhar Ramaswamy::Sameer Mahajan::Abraham Silberschatz:::On the Discovery of Interesting Patterns in Association Rules.
+conf/vldb/Vetter77:::M. Vetter:::Data Base Design by Applied Data Synthesis.
+conf/vldb/Todd75:::Stephen Todd:::PRTV: An Efficient Implementation for Large Relational Data Bases.
+conf/vldb/AdiBEY00:::Asaf Adi::David Botzer::Opher Etzion::Tali Yatzkar-Haham:::Push Technology Personalization through Event Correlation.
+conf/vldb/HartsonH76:::H. Rex Hartson::David K. Hsiao:::A Semantic Model for Data Base Protection Languages.
+conf/vldb/Chang78:::H. Chang:::On Bubble Memories and Relational Data Base.
+conf/vldb/BrodieS78:::Michael L. Brodie::Joachim W. Schmidt:::What is the Use of Abstract Data Types?
+conf/vldb/ChouK86:::Hong-Tai Chou::Won Kim:::A Unifying Framework for Version Control in a CAD Environment.
+conf/vldb/WoodF79:::C. Wood::Eduardo B. Fernández:::Decentralized Authorization in a Database System.
+conf/vldb/FlorescuKLP97:::Daniela Florescu::Daphne Koller::Alon Y. Levy:::Using Probabilistic Information in Data Integration.
+conf/vldb/Orenstein83:::Jack A. Orenstein:::A Dynamic Hash File for Random and Sequential Accessing.
+conf/vldb/SeidlK97:::Thomas Seidl::Hans-Peter Kriegel:::Efficient User-Adaptable Similarity Search in Large Multimedia Databases.
+conf/vldb/KriegelPS00:::Hans-Peter Kriegel::Marco Pötke::Thomas Seidl:::Managing Intervals Efficiently in Object-Relational Databases.
+conf/vldb/Galindo-LegariaJWW03:::César A. Galindo-Legaria::Milind Joshi::Florian Waas::Ming-Chuan Wu:::Statistics on Views.
+conf/vldb/XieH94:::Zhaohui Xie::Jiawei Han:::Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases.
+conf/vldb/PoulovassilisS93:::Alexandra Poulovassilis::Carol Small:::A Domain-theoretic Approach to Integrating Functional and Logic Database Languages.
+conf/vldb/AbbodBN87:::T. Abbod::K. Brown::H. Noble:::Providing Time-Related Constraints for Conventional Database Systems.
+conf/vldb/RoussopoulosM75:::Nick Roussopoulos::John Mylopoulos:::Using Semantic Networks for Database Management.
+conf/vldb/AgrawalKSX02:::Rakesh Agrawal::Jerry Kiernan::Ramakrishnan Srikant::Yirong Xu:::Hippocratic Databases.
+conf/vldb/BernsteinG80a:::Philip A. Bernstein::Nathan Goodman:::Timestamp-Based Algorithms for Concurrency Control in Distributed Database Systems.
+conf/vldb/BernsteinGW93:::Philip A. Bernstein::Per O. Gyllstrom::Tom Wimberg:::STDL - A Portable Language for Transaction Processing.
+conf/vldb/BernsteinPS99:::Philip A. Bernstein::Shankar Pal::David Shutt:::Context-Based Prefetch for Implementing Objects on Relations.
+conf/vldb/LecluseS88:::Christophe Lécluse::Nicolas Spyratos:::Implementing Queries and Updates on Universal Scheme Interfaces.
+conf/vldb/WhangWS81:::Kyu-Young Whang::Gio Wiederhold::Daniel Sagalowicz:::Separability - An Approach to Physical Data Base Design
+conf/vldb/ZouS98:::Chendong Zou::Betty Salzberg:::Safely and Efficiently Updating References During On-line Reorganization.
+conf/vldb/DasTY75:::K. Sundar Das::Toby J. Teorey::S. Bing Yao:::Reorganization Points for File Designs with Nonlinear Processing Costs.
+conf/vldb/ConradGJM02:::Jack G. Conrad::Xi S. Guo::Peter Jackson::Monem Meziou:::Database Selection Using Actual Physical and Acquired Logical Collection Resources in a Massive Domain-specific Operational Environment.
+conf/vldb/StolteA02:::Etzard Stolte::Gustavo Alonso:::Efficient Exploration of Large Scientific Databases.
+conf/vldb/BrantGLM91:::David A. Brant::Timothy Grose::Bernie Lofaso::Daniel P. Miranker:::Effects of Database Size on Rule System Performance: Five Case Studies.
+conf/vldb/RamamoorthyHKW77:::C. V. Ramamoorthy::Gary S. Ho::T. Kirshnarao::Benjamin W. Wah:::Architectural Issues in Distributed Data Base Systems.
+conf/vldb/SellisRF87:::Timos K. Sellis::Nick Roussopoulos::Christos Faloutsos:::The R+-Tree: A Dynamic Index for Multi-Dimensional Objects.
+conf/vldb/RosenthalC88:::Arnon Rosenthal::Upen S. Chakravarthy:::Anatomy of a Mudular Multiple Query Optimizer.
+conf/vldb/Galindo-LegariaPK94:::César A. Galindo-Legaria::Arjan Pellenkoft::Martin L. Kersten:::Fast, Randomized Join-Order Selection - Why Use Transformations?
+conf/vldb/AggarwalY02:::Charu C. Aggarwal::Philip S. Yu:::An Automated System for Web Portal Personalization.
+conf/vldb/ChakrabartiGRS00:::Kaushik Chakrabarti::Minos N. Garofalakis::Rajeev Rastogi::Kyuseok Shim:::Approximate Query Processing Using Wavelets.
+conf/vldb/ThomRN86:::James A. Thom::Kotagiri Ramamohanarao::Lee Naish:::A Superjoin Algorithm for Deductive Databases.
+conf/vldb/ChenHWW02:::Yixin Chen::Guozhu Dong::Jiawei Han::Benjamin W. Wah::Jianyong Wang:::Multi-Dimensional Regression Analysis of Time-Series Data Streams.
+conf/vldb/ChakrabartiM00:::Kaushik Chakrabarti::Sharad Mehrotra:::Local Dimensionality Reduction: A New Approach to Indexing High Dimensional Spaces.
+conf/vldb/GeorgeH98:::Binto George::Jayant R. Haritsa:::Secure Buffering in Firm Real-Time Database Systems.
+conf/vldb/BittonDT83:::Dina Bitton::David J. DeWitt::Carolyn Turbyfill:::Benchmarking Database Systems A Systematic Approach.
+conf/vldb/NaughtonRSU89:::Jeffrey F. Naughton::Raghu Ramakrishnan::Yehoshua Sagiv::Jeffrey D. Ullman:::Argument Reduction by Factoring.
+conf/vldb/Sevcik81:::Kenneth C. Sevcik:::Data Base System Performance Prediction Using an Analytical Model (Invited Paper)
+conf/vldb/Setzer79:::V. W. Setzer:::Program Development by Transformations Applied to Relational Database Queries.
+conf/vldb/PonceletTCL93:::Pascal Poncelet::Maguelonne Teisseire::Rosine Cicchetti::Lotfi Lakhal:::Towards a Formal Approach for Object Database Design.
+conf/vldb/CooperADA87:::Richard Cooper::Malcolm P. Atkinson::Alan Dearle::D. Abderrahmane:::Constructing Database Systems in a Persistent Environment.
+conf/vldb/Schlesinger03:::Lutz Schlesinger:::Consistency Based Snapshot Management in Data Grids.
+conf/vldb/LaneEN00:::Meridith A. Lane::James L. Edwards::Ebbe Nielsen:::Biodiversity Informatics: The Challenge of Rapid Development, Large Databases, and Complex Data (Keynote).
+conf/vldb/DeutschPT99:::Alin Deutsch::Lucian Popa::Val Tannen:::Physical Data Independence, Constraints, and Optimization with Universal Plans
+conf/vldb/WienerN95:::Janet L. Wiener::Jeffrey F. Naughton:::OODB Bulk Loading Revisited: The Partitioned-List Approach.
+conf/vldb/BouguettayaEMO01:::Athman Bouguettaya::Ahmed K. Elmagarmid::Brahim Medjahed::Mourad Ouzzani:::Ontology-based Support for Digital Government.
+conf/vldb/LometS93:::David B. Lomet::Betty Salzberg:::Exploiting A History Database for Backup.
+conf/vldb/AmielBDS94:::Eric Amiel::Marie-Jo Bellosta::Eric Dujardin::Eric Simon:::Supporting Exceptions to Schema Consistency to Ease Schema Evolution in OODBMS.
+conf/vldb/SripadaW94:::Suryanarayana M. Sripada::Beat Wüthrich:::Cumulative Updates.
+conf/vldb/CooperSFHS01:::Brian Cooper::Neal Sample::Michael J. Franklin::Gísli R. Hjaltason::Moshe Shadmon:::A Fast Index for Semistructured Data.
+conf/vldb/PardonA00:::Guy Pardon::Gustavo Alonso:::CheeTah: a Lightweight Transaction Server for Plug-and-Play Internet Data Management.
+conf/vldb/Vingralek02:::Radek Vingralek:::GnatDb: A Small-Footprint, Secure Database System.
+conf/vldb/Hardgrave79:::W. Terry Hardgrave:::Ambiguity in Processing Boolean Queries on TDMS Tree Structures: A Study of Four Different Philosophies.
+conf/vldb/Suciu96a:::Dan Suciu:::Implementation and Analysis of a Parallel Collection Query Language.
+conf/vldb/LakshmananPH02:::Laks V. S. Lakshmanan::Jian Pei::Jiawei Han:::Quotient Cube: How to Summarize the Semantics of a Data Cube.
+conf/vldb/Phillips80:::Dorothy A. Phillips:::Telidon and the Human Factors of Videotex Data Bases.
+conf/vldb/GravanoG95:::Luis Gravano::Hector Garcia-Molina:::Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies.
+conf/vldb/NguyenR87:::Gia Toan Nguyen::Dominique Rieu:::Expert Database Support for Consistent Dynamic Objects.
+conf/vldb/ReadFS92:::Robert L. Read::Donald S. Fussell::Abraham Silberschatz:::A Multi-Resolution Relational Data Model.
+conf/vldb/LimWV03:::Lipyeow Lim::Min Wang::Jeffrey Scott Vitter:::SASH: A Self-Adaptive Histogram Set for Dynamically Changing Workloads.
+conf/vldb/GarofalakisRS99:::Minos N. Garofalakis::Rajeev Rastogi::Kyuseok Shim:::SPIRIT: Sequential Pattern Mining with Regular Expression Constraints.
+conf/vldb/FerrierS82:::Arlette Ferrier::Christine Stangret:::Heterogeneity in the Distributed Database Management System SIRIUS-DELTA.
+conf/vldb/KornSFSP96:::Flip Korn::Nikolaos Sidiropoulos::Christos Faloutsos::Eliot Siegel::Zenon Protopapas:::Fast Nearest Neighbor Search in Medical Image Databases.
+conf/vldb/FrohnLU94:::Jürgen Frohn::Georg Lausen::Heinz Uphoff:::Access to Objects by Path Expressions and Rules.
+conf/vldb/Antoshenkov92:::Gennady Antoshenkov:::Random Sampling from Pseudo-Ranked B+ Trees.
+conf/vldb/BasuFP00:::Julie Basu::José Alberto Fernández::Olga Peschansky:::Building Scalable Internet Applications with Oracle8i Server.
+conf/vldb/MehtaD95:::Manish Mehta::David J. DeWitt:::Managing Intra-operator Parallelism in Parallel Database Systems.
+conf/vldb/IoannidisLGP96:::Yannis E. Ioannidis::Miron Livny::S. Gupta::Nagavamsi Ponnekanti:::ZOO : A Desktop Experiment Management Environment.
+conf/vldb/Batory78:::Don S. Batory:::On Searching Transposed Files (Abstract).
+conf/vldb/SaccaW83:::Domenico Saccà::Gio Wiederhold:::Database Partitioning in a Cluster of Processors.
+conf/vldb/YagoubFIV00a:::Khaled Yagoub::Daniela Florescu::Valérie Issarny::Patrick Valduriez:::Building and Customizing Data-Intensive Web Sites Using Weave.
+conf/vldb/ChirkovaHS01:::Rada Chirkova::Alon Y. Halevy::Dan Suciu:::A Formal Perspective on the View Selection Problem.
+conf/vldb/HelmerWM98:::Sven Helmer::Till Westmann::Guido Moerkotte:::Diag-Join: An Opportunistic Join Algorithm for 1:N Relationships.
+conf/vldb/Studer80:::Rudi Studer:::A Dialogue Interface for Data Base Applications.
+conf/vldb/McGregorTD76:::D. R. McGregor::R. G. Thomson::W. N. Dawson:::High Performance Hardware for Database Systems.
+conf/vldb/AnkerstBKS98:::Mihael Ankerst::Bernhard Braunmüller::Hans-Peter Kriegel::Thomas Seidl:::Improving Adaptable Similarity Query Processing by Using Approximations.
+conf/vldb/EhrichLG84:::Hans-Dieter Ehrich::Udo W. Lipeck::Martin Gogolla:::Specification, Semantics, and Enforcement of Dynamic Database Constraints.
+conf/vldb/TanGO99:::Kian-Lee Tan::Cheng Hian Goh::Beng Chin Ooi:::Online Feedback for Nested Aggregate Queries with Multi-Threading.
+conf/vldb/HelalL00:::Abdelsalam Helal::Hua Li:::Rainbow: Distributed Database System for Classroom Education and Experimental Research.
+conf/vldb/DeMillo78:::Richard A. DeMillo:::Database Security.
+conf/vldb/Slutz98:::Donald R. Slutz:::Massive Stochastic Testing of SQL.
+conf/vldb/Jeffery93:::Keith G. Jeffery:::Database Research Strategies of Funding Agencies (Panel).
+conf/vldb/Meier95:::Andreas Meier:::Providing Database Migration Tools - A Practicioner's Approach.
+conf/vldb/MeoPC96:::Rosa Meo::Giuseppe Psaila::Stefano Ceri:::A New SQL-like Operator for Mining Association Rules.
+conf/vldb/EsterKSWX98:::Martin Ester::Hans-Peter Kriegel::Jörg Sander::Michael Wimmer::Xiaowei Xu:::Incremental Clustering for Mining in a Data Warehousing Environment.
+conf/vldb/KietzRS97:::Jörg-Uwe Kietz::Ulrich Reimer::Martin Staudt:::Mining Insurance Data at Swiss Life.
+conf/vldb/SeligmanBNSW95:::Leonard J. Seligman::Nicholas J. Belkin::Erich J. Neuhold::Michael Stonebraker::Gio Wiederhold:::Metrics for Accessing Heterogeneous Data: Is There Any Hope? (Panel).
+conf/vldb/DiazPG91:::Oscar Díaz::Norman W. Paton::Peter M. D. Gray:::Rule Management in Object Oriented Databases: A Uniform Approach.
+conf/vldb/Wiederhold89:::Gio Wiederhold:::Knowledge to Mediate from User's Workstations to Databases.
+conf/vldb/Lucas79:::Ana Lucas:::Implementation of the IRRD Data Base in Portugal.

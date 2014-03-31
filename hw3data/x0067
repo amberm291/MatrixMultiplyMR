@@ -1,0 +1,200 @@
+conf/icra/NagaiNHKMT98:::Kiyoshi Nagai::Isao Nakanishi::Hideo Hanafusa::Sadao Kawamura::Masaaki Makikawa::Noriyuki Tejima:::Development of an 8 DOF Robotic Orthosis for Assisting Human Upper Limb Motion.
+conf/icra/KusiakT00:::Andrew Kusiak::Bill T. L. Tseng:::Data Mining in Engineering Design: A Case Study.
+conf/icra/HaradaK00:::Kensuke Harada::Makoto Kaneko:::Neighborhood Equilibrium Grasp for Multiple Objects.
+conf/icra/LuntzMC00:::Jonathan E. Luntz::William Messner::Howie Choset:::Closed-Loop Operation of Actuator Arrays.
+conf/icra/GoelDVC93:::Ashok K. Goel::Michael W. Donnellan::Nancy Vazquez::Todd J. Callantine:::An Integrated Experience-Based Approach to Navigational Path Planning for Autonomous Mobile Robots.
+conf/icra/MoritaIS00:::Toshio Morita::Hiroyasu Iwata::Shigeki Sugano:::Human Symbiotic Robot Design Based on Division and Unification of Functional Requirements.
+conf/icra/MoritaIS99:::Toshio Morita::Hiroyasu Iwata::Shigeki Sugano:::Development of Human Symbiotic Robot: WENDY.
+conf/icra/ArmingolMES98:::Jose M. Armingol::Luis Moreno::Arturo de la Escalera::Miguel Angel Salichs:::Landmark Perception Planning for Mobile Robot Localization.
+conf/icra/OyamaCAMT01:::Eimei Oyama::Nak Young Chong::Arvin Agah::Taro Maeda::Susumu Tachi:::Inverse Kinematics Learning by Modular Architecture Neural Networks with Performance Prediction Networks.
+conf/icra/Hashtrudi-ZaadS99:::K. Hashtrudi-Zaad::S. E. Salcudean:::On the Use of Local Force Feedback for Transparent Teleoperation.
+conf/icra/LipsonP00:::Hod Lipson::Jordan B. Pollack:::Towards Continuously Reconfigurable Self-Designing Robotics.
+conf/icra/BranickyLOY01:::Michael S. Branicky::Steven M. LaValle::Kari Olson::Libo Yang:::Quasi-Randomized Path Planning.
+conf/icra/CaldwellFT98:::Darwin G. Caldwell::C. Favede::Nikolaos G. Tsagarakis:::Dextrous Exploration of a Virtual World for Improved Prototyping.
+conf/icra/UenoK99:::Naohiro Ueno::Makoto Kaneko:::Contact Localization by Multiple Active Antenna.
+conf/icra/CaldwellTG99:::Darwin G. Caldwell::Nikolaos G. Tsagarakis::C. Giesler:::An Integrated Tactile/Shear Feedback Array for Stimulation of Finger Mechanoreceptor.
+conf/icra/ZhengC93:::Yuan F. Zheng::Ming Z. Chen:::Trajectory Planning for Two Manipulators to Deform Flexible Beams.
+conf/icra/HoriuchiN01:::Yohei Horiuchi::Hiroshi Noborio:::Evaluation of Path Length Made in Sensor-Based Path-Planning with the Alternative Following.
+conf/icra/Takeuchi01:::Hiroki Takeuchi:::Development of MEL HORSE.
+conf/icra/Bruyninckx99a:::Herman Bruyninckx:::Dualities Between Serial and Parallel "321" Manipulators.
+conf/icra/BruyninckxS98:::Herman Bruyninckx::Joris De Schutter:::Modelling and Specification of Compliant Motions with Two and Three Contact Points.
+conf/icra/ArmstrongVHRS02:::Brian Armstrong::Thomas Verron::Lee Heppe::Jim Reynolds::Karl Schmidt:::RGR-3D: Simple, Cheap Detection of 6-DOF Pose for Tele-Operation, and Robot Programming and Calibration.
+conf/icra/McGheeCDK94:::Scott McGhee::Tan Fung Chan::Rajiv V. Dubey::Reid L. Kress:::Probability-Based Weighting of Performance Criteria for a Redundant Manipulator.
+conf/icra/BicchiPBP01:::Antonio Bicchi::Lucia Pallottino::Marco Bray::Pierangelo Perdomi:::Randomized Parallel Simulation Computation Of Constrained Multibody Systems for VR/Haptic Applications.
+conf/icra/GhassemiTLH02:::Farhad Ghassemi::S. Tafazoli::P. D. Lawrence::K. Hashtrudi-Zaad:::An Accelerometer-Based Joint Angle Sensor for Heavy-Duty Manipulators.
+conf/icra/TokashikiKT00:::Hiroki Tokashiki::Kenji Kaneko::Kazuo Tanie:::Development of Independently-Controlled Position and Orientation Manipulator for Minute Work.
+conf/icra/UppalaKBRG02:::S. Uppala::Deepak Karuppiah::M. Brewer::S. Chandu Ravela::Roderic A. Grupen:::On Viewpoint Control.
+conf/icra/MingKKS02:::Aiguo Ming::Kazuhiro Kajihara::Makoto Kajitani::Makoto Shimojo:::Development of a Rapid Obstacle Sensing System using Sonar Ring for Mobile Robot.
+conf/icra/HancockLHSIHMF98:::John Hancock::Dirk Langer::Martial Hebert::Ryan Sullivan::Darin Ingimarson::Eric Hoffmann::Markus Mettenleiter::Christoph Froehlich:::Active Laser Radar for High Performance Measurements.
+conf/icra/BurschkaLH02:::Darius Burschka::Stephen Lee::Gregory D. Hager:::Stereo-Based Obstacle Avoidance in Indoor Environments with Active Sensor Re-Calibration.
+conf/icra/SatoHNMU93:::Yuichi Sato::Mitsunori Hirata::Fumio Nagashima::Tsugito Maruyama::Takashi Uchiyama:::Reducing Attitude Disturbances While Teleoperating a Space Manipulator.
+conf/icra/HanKKLK01:::Kuk-Hyun Han::Shin Kim::Yong-Jae Kim::Seung-Eun Lee::Jong-Hwan Kim:::Implementation of Internet-Based Personal Robot with Internet Control Architecture.
+conf/icra/BishayPK94:::M. Bishay::R. Alan Peters II::Kazuhiko Kawamura:::Object Detection in Indoor Scenes Using Log-Polar Mapping.
+conf/icra/MartinT02:::Christian Martin::Sebastian Thrun:::Real-Time Acquisition of Compact Volumetric 3D Maps with Mobile Robots.
+conf/icra/LaunayOY02:::Fabien Launay::Akihisa Ohya::Shin'ichi Yuta:::A Corridors Lights Based Navigation System Including Path Definition using a Topologically Corrected Map for Indoor Mobile Robots.
+conf/icra/Chirikjian94a:::Gregory S. Chirikjian:::A Binary Paradigm for Robotic Manipulators.
+conf/icra/SinghF93:::Karansher Singh::Kikuo Fujimura:::Map Making by Cooperating Mobile Robots.
+conf/icra/MalletL98:::Anthony Mallet::Simon Lacroix:::Toward Real-Time 2D Localization in Outdoor Environments.
+conf/icra/NitzAB93:::Elizabeth Nitz::Ronald C. Arkin::Tucker R. Balch:::Communication of Behavioral State in Multi-agent Retrieval Tasks.
+conf/icra/FraichardL93:::Thierry Fraichard::Christian Laugier:::Path-Velocity Decomposition Revisited and Applied to Dynamic Trajectory Planning.
+conf/icra/EndresFL98:::Hermann Endres::Wendelin Feiten::Gisbert Lawitzky:::Field Test of Navigation System: Autonomous Cleaning in Supermarkets.
+conf/icra/LankenauR02:::Axel Lankenau::Thomas Röfer:::Mobile Robot Self-Localization in Large-Scale Environments.
+conf/icra/LovchikD99:::Chris Lovchik::Myron Diftler:::The Robonaut Hand: A Dexterous Robot Hand for Space.
+conf/icra/OlsonM98:::Clark F. Olson::Larry Matthies:::Maximum Likelihood Rover Localization by Matching Range Maps.
+conf/icra/OhCYS98:::Yonghwan Oh::Wan Kyun Chung::Youngil Youm::Il Hong Suh:::Motion/Force Decomposition of Redundant Manipulator and its Application to Hybrid Impedance Control.
+conf/icra/PerrinKSP02:::Douglas P. Perrin::Esra Kadioglu::Sascha Stoeter::Nikolaos Papanikolopoulos:::Localization of Miniature Mobile Robots using Constant Curvature Dynamic Contours.
+conf/icra/SongCSKC98:::J. I. Song::Y. H. Choi::J. H. Shim::Dong-Soo Kwon::H. S. Cho:::Nonlinear Friction Compensation Methods for an In-Parallel Actuated 6-DOF Manipulator.
+conf/icra/NeubertHDHG01:::Jeremiah J. Neubert::Anthony Hammond::Yongtae Do::Yu Hen Hu::Nils Guse:::Automatic Training of a Neural Net for Active Stereo 3D Reconstruction.
+conf/icra/HaleSBF00:::Eric Hale::Nathan Schara::Joel W. Burdick::Paolo Fiorini:::A Minimally Actuated Hopping Rover for Exploration of Celestial Bodies.
+conf/icra/FrancoisS94:::C. François::Christophe Samson:::Running with Constant Energy.
+conf/icra/LynchM93:::Kevin M. Lynch::Matthew T. Mason:::Pulling by Pushing, Slip with Infinite Friction, and Perfectly Rough Surfaces.
+conf/icre/DayJ00:::Nancy A. Day::Jeffrey J. Joyce:::A Framework for Multi-Notation Requirements Specification and Analysis.
+conf/icre/Pohl96:::Klaus Pohl:::PRO-ART: Enabling Requirements Pre-Traceability.
+conf/icre/Boehm96:::Barry W. Boehm:::Requirements Engineering at Age 20: Looking Back, Looking Ahead.
+conf/icre/HubbardSM00:::Rick Hubbard::Charles N. Schroeder::Nancy R. Mead:::An Assessment of the Relative Efficiency of a Facilitator-Driven Requirements Collection Process with Respect to the Conventional Interview Method.
+conf/icre/Ferdinandi00:::Pat Ferdinandi:::The Requirement Set.
+conf/icre/BoehmI96:::Barry W. Boehm::Hoh In:::Identifying Quality-Requirement Conflicts.
+conf/icre/Saeki00:::Motoshi Saeki:::Patterns and Aspects for Use Cases: Reuse Techniques for Use Case Descriptions.
+conf/icre/BustardDC96:::David W. Bustard::T. J. Dobbin::B. N. Carey:::Integrating Soft Systems and Object-Oriented Analysis.
+conf/icre/Mead00a:::Nancy R. Mead:::What Do You Mean I'm Practicing without a License? Certification and Licensing of Requirements Engineering Professionals.
+conf/icre/FeatherCG00:::Martin S. Feather::Steven L. Cornford::Mark Gibbel:::Scalable Mechanisms for Requirements Interaction Management.
+conf/icsc/HoG95:::Carlos S. N. Ho::Richard L. Grimsdale:::A Behavioural Control Framework for Computer Animation Using AI Techniques.
+conf/icsc/KaoF95:::Sheng-Liang Kao::Chiou-Shann Fuh:::Shape from Shading Using Near Point Light Sources.
+conf/icsc/LeeH95:::Chung-Nan Lee::Robert M. Haralick:::Statistical Estimation for Exterior Orientation from Line-to-Line Correspondences.
+conf/icsc/HongfeiXT99:::Lin Hongfei::Zhan Xuegang::Yao Tianshun:::Example-Based Chinese Text Filtering Model.
+conf/icsc/AdjerohL95:::Donald A. Adjeroh::Moon-Chuen Lee:::Mechanisms for Automatic Extraction of Primary Features for Video Indexing.
+conf/icsc/ShinagawaK99:::Norihide Shinagawa::Hiroyuki Kitagawa:::Dynamic Generation and Browsing of Virtual WWW Space Based on User Profiles.
+conf/icsc/KawataNK95:::Yoshiki Kawata::Noboru Niki::Tatsuo Kumazaki:::Computer-Assisted Analysis and 3D Visualization of Blood Vessels Based on Cone-Beam CT Images.
+conf/icsc/SealesR95:::W. Brent Seales::Arcot Rajasekar:::Interpreting Music Manuscripts: A Logic-Based, Object-Oriented Approach.
+conf/icsc/WongC99:::Gary Yat Chung Wong::Andy Hon Wai Chun:::Push-Based News Delivery with CORBA.
+conf/icsc/MarianiDLLM95:::Robert Mariani::Marc Pierrot Deseilligny::Jacques Labiche::Yves Lecourtier::Rémy Mullot:::Geographic Map Understanding. Algorithms for Hydrographic Network Reconstruction.
+conf/icsc/BhowmickMNL99:::Sourav S. Bhowmick::Sanjay Kumar Madria::Wee Keong Ng::Ee-Peng Lim:::Algebraic Operations on Bags in a Web Warehouse.
+conf/icsc/RenZL95:::Jicheng Ren::Guangzhou Zeng::Shenquan Liu:::Interactive Particle Tracing Algorithm for Unstructured Grids.
+conf/icsc/KawakamiOYHM95:::Fumio Kawakami::Motohiro Ohkura::Hiroshi Yamada::Hiroshi Harashima::Shigeo Morishima:::3-D Emotion Space for Interactive Communication.
+conf/icsc/Hel-Or95:::Hagit Zabrodsky Hel-Or:::Time-Space Weighting for Image Sequence Quantization.
+conf/icsc/LuiGO99:::Andrew K. Lui::Mark W. Grigg::Michael J. Owen:::Developing Quality of Service Capabilities for Distributed Imagery Dissemination Services.
+conf/icsc/KawaharaK99:::Minoru Kawahara::Hiroyuki Kawanao:::ROC Performance Evaluation of Web-Based Bibliographic Navigator using Extended Association Rules.
+conf/icsc/TianT95:::Ying-li Tian::Hung-Tat Tsui:::Estimating Shape and Reflectance of Surfaces by Color Image Analysis.
+conf/icsc/KafezaK99:::Eleanna Kafeza::Kamalakar Karlapalem:::Temporally Constrained Workflows.
+conf/icsc/RachidNN95:::Rachid Sammouda::Noboru Niki::Hiromu Nishitani:::Neural Networks for the Segmentation of Magnetic Resonance Images.
+conf/icsc/ChangLK99:::Kyung-Ah Chang::Byung-Rae Lee::Tai-Yun Kim:::CORBA-Based Open Authentication Support Service of Electronic Commerce.
+conf/icsc/BarbeauM99:::Franck Barbeau::José María Martínez Sanchez:::About Tours in the OTHY Hypermedia Design.
+conf/icsd/RobertsonE02:::Dale A. Robertson::Richard Ethier:::Cell Suppression: Experience and Theory.
+conf/icsd/Elliot02:::Mark Elliot:::Integrating File and Record Level Disclosure Risk Assessment.
+conf/icse/Korson01:::Timothy D. Korson:::From UML to Java, Building a 3-Tier Architecture: Case Study.
+conf/icse/HihnH91:::Jairus Hihn::Hamid Habib-agahi:::Cost Estimation of Software Intensive Projects: A Survey of Current Practices.
+conf/icse/HirayamaSYT90:::Masayuki Hirayama::Hiroyuki Sato::Atushi Yamada::Junichiro Tsuda:::Practice of Quality Modeling and Measurement on Software Life-Cycle.
+conf/icse/FaulkH97:::Stuart R. Faulk::Constance L. Heitmeyer:::Rigorous Requirements for Real-Time Systems: Evolution and Application of the SCR Method (Tutorial).
+conf/icse/Bush91:::Marilyn W. Bush:::Process Assessments in NASA.
+conf/icse/HerbslebG96:::James D. Herbsleb::Dennis Goldenson:::A Systematic Survey of CMM Experience and Results.
+conf/icse/VleckC78:::T. H. Van Vleck::C. T. Clingen:::The Multics System Programming Process.
+conf/icse/KnauberB03:::Peter Knauber::Jan Bosch:::ICSE Workshop on Software Variability Management.
+conf/icse/HeimdahlL95:::Mats Per Erik Heimdahl::Nancy G. Leveson:::Completeness and Consistency Analysis of State-Based Requirements.
+conf/icse/AlurJKO97:::Rajeev Alur::Lalita Jategaonkar Jagadeesan::Joseph J. Kott::James Von Olnhausen:::Model-Checking of Real-Time Systems: A Telecommunications Application (Experience Report).
+conf/icse/Madhavji91:::Nazim H. Madhavji:::The Prism Model of Changes.
+conf/icse/SucciYP01:::Giancarlo Succi::Jason Yip::Witold Pedrycz:::Holmes: An Intelligent System to Support Software Product Line Development.
+conf/icse/Fowler97:::Martin Fowler:::A Survey of Object Oriented Analysis and Design Methods (Tutorial).
+conf/icse/CheathamTH79:::Thomas E. Cheatham Jr.::Judy A. Townley::Glenn H. Holloway:::A System for Program Refinement.
+conf/icse/RobillarddDV98:::Pierre N. Robillard::Patrick d'Astous::Françoise Détienne::Willemien Visser:::Measuring Cognitive Activities in Software Engineering.
+conf/icse/Schmidt03:::Douglas C. Schmidt:::Pattern-Oriented Distributed System Architectures.
+conf/icse/Hoek01:::André van der Hoek:::SCM-10: Tenth International Workshop on Software Configuration Management. New Practices, New Challenges, and New Boundaries.
+conf/icse/Hou01:::Daqing Hou:::Supporting the Deployment of Object-Oriented Frameworks.
+conf/icse/dAusbourgSDR98:::Bruno d'Ausbourg::Christel Seguin::Guy Durrieu::Pierre Roché:::Helping the Automated Validation Process of User Interfaces Systems.
+conf/icse/StephensT78:::Sharon A. Stephens::Leonard L. Tripp:::Requirements Expression and Verification Aid.
+conf/icse/HamerF82:::P. G. Hamer::G. D. Frewin:::M. H. Halstead's Software Science - A Critical Examination.
+conf/icse/Tai93:::Kuo-Chung Tai:::Predicate-Based Test Generation for Computer Programs.
+conf/icse/PiccoMR99:::Gian Pietro Picco::Amy L. Murphy::Gruia-Catalin Roman:::LIME: Linda Meets Mobility.
+conf/icse/ManoOT82:::Yoshihisa Mano::Kazuhito Ohmaki::Koji Torii:::Early Experiences with a Multi-Display Programming Environment.
+conf/icse/FregoneseZC99:::Giulio Fregonese::Alessandro Zorer::Giovanni Cortese:::Architectural Framework Modeling in Telecommunication Domain.
+conf/icse/MinskyL85:::Naftaly H. Minsky::Abe Lockman:::Ensuring Integrity by Adding Obligations to Privileges.
+conf/icse/Vekens96:::Alexander W. van der Vekens:::An Object-Oriented Implementation of B-ISDN Signalling - Part 2: Extendability Stands the Test.
+conf/icse/EmbleyW87:::David W. Embley::Scott N. Woodfield:::A Knowledge Structure for Reusing Abstract Data Types.
+conf/icse/PerrySV98:::Dewayne E. Perry::Harvey P. Siy::Lawrence G. Votta:::Parallel Changes in Large Scale Software Development: An Observational Case Study.
+conf/icse/RamseyB85:::J. Ramsey::Victor R. Basili:::Analyzing the Test Process Using Structural Coverage.
+conf/icse/KerolaF81:::Pentti Kerola::Peter Freeman:::A Comparison of Lifecycle Models.
+conf/icse/King78:::James C. King:::Prospects for Program Verification (Tutorial).
+conf/icse/Weyuker01:::Elaine J. Weyuker:::In Defense of Coverage Criteria.
+conf/icse/FinkelsteinK00:::Anthony Finkelstein::Jeff Kramer:::Software engineering: a roadmap.
+conf/icse/MarcaP00:::David A. Marca::Beth A. Perdue:::A software engineering approach and tool set for developing Internet applications.
+conf/icse/FreemanWF76:::Peter Freeman::Anthony I. Wasserman::Richard E. Fairley:::Essential Elements of Software Engineering Education.
+conf/icse/Colyer00:::Adrian M. Colyer:::From research to reward: challenges in technology transfer.
+conf/icse/FroehlichHLS97:::Garry Froehlich::H. James Hoover::Ling Liu::Paul G. Sorenson:::Hooking into Object-Oriented Application Frameworks.
+conf/icse/Decina90:::Maurizio Decina:::CEFRIEL: an Innovative Approach to University-Industry Cooperation in Information Technologies.
+conf/icse/Musa97:::John D. Musa:::Software-Reliability-Engineered Testing Practice (Tutorial).
+conf/icse/EhrlichE87:::Willa K. Ehrlich::T. J. Emerson:::Modeling Software Failures and Reliability Growth During System Testing.
+conf/icse/InBRD01:::Hoh In::Barry W. Boehm::Thomas Lee Rodgers::Michael Deutsch:::Applying WinWin to Quality Requirements: A Case Study.
+conf/icse/TraceyPV00:::Nigel Tracey::John Penix::Willem Visser:::The First International Workshop on Automated Program Analysis, Testing and Verification.
+conf/icse/MacKenzie99:::David M. MacKenzie:::Designing Safe Software for Medical Devices.
+conf/icse/Lakhotia93:::Arun Lakhotia:::Rule-Based Approach to Computing Module Cohesion.
+conf/icse/PanD96:::Si Pan::R. Geoff Dromey:::Beyond Structured Programming.
+conf/icse/EixelsbergerOGB98:::Wolfgang Eixelsberger::Michaela Ogris::Harald Gall::Berndt Bellay:::Software Architecture Recovery of a Program Family.
+conf/icse/SchaferZ99:::Wilhelm Schäfer::Albert Zündorf:::Round-Trip Engineering with Design Patterns, UML, Java and C++.
+conf/icse/Capra02:::Licia Capra:::Mobile computing middleware for context-aware applications.
+conf/icse/Pisan00:::Yusuf Pisan:::Extending requirement specifications using analogy.
+conf/icse/BertolinoCIM00:::Antonia Bertolino::Flavio Corradini::Paola Inverardi::Henry Muccini:::Deriving test plans from architectural descriptions.
+conf/icse/Horejs79:::J. Horejs:::Finite Semantics for Program Testing.
+conf/icse/BrodmanJ97:::Judith G. Brodman::Donna L. Johnson:::A Software Process Improvement Approach Tailored for Small Organizations and Small Projects (Tutorial).
+conf/icse/Hosier87:::W. A. Hosier:::Pitfalls and Safeguards in Real-Time Digital Systems with Emphasis on Programming.
+conf/icse/Kramer94:::Jeff Kramer:::Distributed Software Engineering.
+conf/icse/EvansP84:::M. W. Evans::L. M. Picinich:::POWER: A Tool for Quantitative Evaluation of Software Project Effectiveness.
+conf/icse/RappsW82:::Sandra Rapps::Elaine J. Weyuker:::Data Flow Analysis Techniques for Test Data Selection.
+conf/icse/SilberschatzKB76:::Abraham Silberschatz::Richard B. Kieburtz::Arthur J. Bernstein:::Extending Concurrent Pascal to Allow Dynamic Resource Management (Abstract).
+conf/icse/Shaw03:::Mary Shaw:::Writing Good Software Engineering Research Paper.
+conf/icse/EmmerichMF00:::Wolfgang Emmerich::Cecilia Mascolo::Anthony Finkelstein:::Implementing incremental code migration with XML.
+conf/icse/HodgesR76:::B. C. Hodges::J. P. Ryan:::A System for Automatic Software Evaluation.
+conf/icse/RomanHH01:::Gruia-Catalin Roman::Qingfeng Huang::Ali Hazemi:::Consistent Group Membership in Ad Hoc Networks.
+conf/icse/RomanJH02:::Gruia-Catalin Roman::Christine Julien::Qingfeng Huang:::Network abstractions for context-aware mobile computing.
+conf/icse/Iosif00:::Radu Iosif:::Formal verification applied to Java concurrent software.
+conf/icse/IscoeWA91:::Neil Iscoe::Gerald B. Williams::Guillermo Arango:::Domain Modeling for Software Engineering.
+conf/icse/BasiliLSR00:::Victor R. Basili::Oliver Laitenberger::Forrest Shull::Ioana Rus:::Improving software inspections by using reading techniques (tutorial session).
+conf/icse/FischerL97:::Stefan Fischer::Stefan Leue:::Formal Methods for Broadband and Multimedia Systems (Tutorial).
+conf/icse/Vick79:::Charles R. Vick:::On Software Engineering Tools: Past, Present and Future.
+conf/icse/Vinoski00:::Steve Vinoski:::Introduction to CORBA (tutorial session).
+conf/icse/GerhartY76:::Susan L. Gerhart::Lawrence Yelowitz:::Control Structure Abstractions of the Backtracking Programming Technique (Abstract).
+conf/icse/GehrkeGNNTWZ02:::Matthias Gehrke::Holger Giese::Ulrich Nickel::Jörg Niere::Matthias Tichy::Jörg P. Wadsack::Albert Zündorf:::Reporting about industrial strength software engineering courses for undergraduates.
+conf/icse/KramerFN93:::Jeff Kramer::Anthony Finkelstein::Bashar Nuseibeh:::Method Integration and Support for Distributed Software Development: An Overview.
+conf/icse/Hagemann88:::M. Hagemann:::Requirements Analysis for Real-Time Automation Projects.
+conf/icse/KontioPS98:::Jyrki Kontio::Olli Pitkänen::Reijo Sulonen:::Towards Better Software Projects and Contracts: Commitment Specifications in Software Development Projects.
+conf/icse/LarsenH96:::Loren Larsen::Mary Jean Harrold:::Slicing Object-Oriented Software.
+conf/icse/SefikaSC96:::Mohlalefi Sefika::Aamod Sane::Roy H. Campbell:::Monitoring Compliance of a Software System with Its High-Level Design Models.
+conf/icse/HeidenreichMK96:::Georg Heidenreich::Mark Minas::Detlef Kips:::A New Approach to Consistency Control in Software Engineering.
+conf/icse/RothermelEMKD02:::Gregg Rothermel::Sebastian G. Elbaum::Alexey G. Malishevsky::Praveen Kallakuri::Brian Davia:::The impact of test suite granularity on the cost-effectiveness of regression testing.
+conf/icse/EngelsG00:::Gregor Engels::Luuk Groenewegen:::Object-oriented modeling: a roadmap.
+conf/icse/IrvineB76:::C. A. Irvine::John W. Brackett:::Automated Software Engineering Through Structured Data Management (Abstract).
+conf/icse/PeuschelS92:::Burkhard Peuschel::Wilhelm Schäfer:::Concepts and Implementation of a Rule-Based Process Engine.
+conf/icse/Michail01:::Amir Michail:::CodeWeb: Data Mining Library Reuse Patterns.
+conf/icse/Michail02:::Amir Michail:::Browsing and searching source code of applications written using a GUIframework.
+conf/icse/FriesenJW97:::Viktor Friesen::Stefan Jähnichen::Matthias Weber:::Specification of Software Controlling a Discrete-Continuous Environment.
+conf/icse/Turski79:::Wladyslaw M. Turski:::Software Engineering : As It Will Be.
+conf/icse/DeanC93:::Thomas R. Dean::James R. Cordy:::Software Structure Characterization Using Connectivity.
+conf/icse/Lingard81:::R. W. Lingard:::A Software Methodology for Buidling Interactive Tools.
+conf/icse/MunsonK89:::John C. Munson::Taghi M. Khoshgoftaar:::The Dimensionality of Program Complexity.
+conf/icse/JacksonR00:::Daniel Jackson::Martin C. Rinard:::Software analysis: a roadmap: a roadmap.
+conf/icse/Fairbanks03:::George Fairbanks:::Why Can't They Create Architecture Models Like "Developer X"? An Experience Report.
+conf/icse/Henninger96:::Scott Henninger:::Supporting the Construction and Evolution of Component Repositories.
+conf/icse/MahonyD98:::Brendan P. Mahony::Jin Song Dong:::Blending Object-Z and Timed CSP: An Introduction to TCOZ.
+conf/icse/Thomas89:::Ian Thomas:::Tool Integration in the Pact Environment.
+conf/icse/BhandariR93:::Inderpal S. Bhandari::Norman Roth:::Post-Process Feedback With and Without Attribute Focusing: A Comparative Evaluation.
+conf/icse/Feinberg02:::Donald Feinberg:::Transforming and extending the enterprise through IT.
+conf/icse/BarberJ00:::K. Suzanne Barber::Stephen R. Jernigan:::Hybrid domain representation archive (HyDRA) for requirements model synthesis across viewpoints (poster).
+conf/icse/BoehmR88:::Barry W. Boehm::Rony Ross:::Theory-W Software Project Management: A Case Study.
+conf/icse/Padberg02:::Frank Padberg:::Empirical interval estimates for the defect content after an inspection.
+conf/icse/Finkelstein01:::Anthony Finkelstein:::"Not Waving but Drowning": Representation Schemes for Modelling Software Development.
+conf/icse/BakerNH03:::Alex Baker::Emily Oh Navarro::André van der Hoek:::Problems and Programmers: An Educational Software Engineering Card Game.
+conf/icse/WhittleSK03:::Jon Whittle::Jyoti Saboo::Richard Kwan:::From Scenarios to Code: An Air Traffic Control Case Study.
+conf/icse/KramerM97:::Jeff Kramer::Jeff Magee:::Distributed Software Architectures (Tutorial).
+conf/icse/BensonM76:::J. P. Benson::R. A. Melton:::A Laboratory for the Development and Evaluation of BMD Software Quality Enhancement Techniques.
+conf/icse/Janicki95:::Ryszard Janicki:::Towards a Formal Semantics of Parnas Tables.
+conf/icse/MyersO81:::Eugene W. Myers::Leon J. Osterweil:::BIGMAC II: A FORTRAN Language Augmentation Tool.
+conf/icse/Paralic00:::Marek Paralic:::Contribution to simplifying the mobile agent programming.
+conf/icse/Newkirk02:::James Newkirk:::Introduction to agile processes and extreme programming.
+conf/icse/BorgidaMR93:::Alexander Borgida::John Mylopoulos::Raymond Reiter:::"...And Nothing Else Changes": The Frame Problem in Procedure Specifications.
+conf/icse/Schlumberger91:::Maurice Schlumberger:::Software Engineering Management.
+conf/icse/ZageZ03:::Dolores M. Zage::Wayne M. Zage:::An Analysis of the Fault Correction Process in a Large-Scale SDL Production Model.
+conf/icse/FafchampsG94:::Danielle Fafchamps::Pankaj K. Garg:::Computing Environments for Flexible Teams.
+conf/icse/Balzer01:::Robert Balzer:::Software Engineering in the Year 2001.
+conf/icse/LorenzV03:::David H. Lorenz::John M. Vlissides:::Pluggable Reflection: Decoupling Meta-Interface and Implementation.
+conf/icse/Denning76:::Peter J. Denning:::Sacificing the Calf of Flexibility on the Altar of Reliability.
+conf/icse/FutatsugiO82:::Kokichi Futatsugi::Koji Okada:::A Hierarchical Structuring Method for Functional Software Systems.
+conf/icse/RussellJ03:::Jeffry T. Russell::Margarida F. Jacome:::Embedded Architect: A Tool for Early Performance Evaluation of Embedded Software.
+conf/icse/TvedtTG01:::John D. Tvedt::Roseanne Tesoriero::Kevin A. Gary:::The Software Factory: Combining Undergraduate Computer Science and Software Engineering Education.

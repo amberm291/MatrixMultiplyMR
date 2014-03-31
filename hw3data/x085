@@ -1,0 +1,200 @@
+journals/questa/Scheller-Wolf00:::Alan Scheller-Wolf:::Further delay moment results for FIFO multiserver queues.
+journals/questa/KnesslMST86a:::Charles Knessl::B. J. Matkowsky::Z. Schuss::Charles Tier:::A Markov-Modulated M/G/1 Queue II: Busy Period and Time for Buffer Overflow.
+journals/questa/Maglaras03:::Constantinos Maglaras:::Continuous-Review Tracking Policies for Dynamic Control of Stochastic Networks.
+journals/questa/BereznerK96:::S. A. Berezner::Anthony E. Krzesinski:::Order Independent Loss Queues.
+journals/questa/BoerNO01:::Pieter-Tjerk de Boer::Victor F. Nicola::Jan-Kees C. W. van Ommeren:::The Remaining Service Time upon Reaching a High Level in M/G/1 Queues.
+journals/questa/Ivnitski01:::Victor A. Ivnitski:::Network of Single-Server Queues with Dependent Service Times.
+journals/questa/Atkinson00:::J. B. Atkinson:::A note on the C/G/1 queue and the C/G/1 loss system.
+journals/questa/El-Taha96:::Muhammad El-Taha:::Pathwise Rate-Stability for Input-Output Processes.
+journals/questa/GreinerJK99:::Michael Greiner::Manfred R. Jobmann::Claudia Klüppelberg:::Telecommunication Traffic, Queueing Models, and Subexponential Distributions.
+journals/questa/Hasenbein01:::John J. Hasenbein:::Stability of Fluid Networks with Proportional Routing.
+journals/questa/Ben-ShaharOS00:::Israel Ben-Shahar::Ariel Orda::Nahum Shimkin:::Dynamic service sharing with heterogeneous preferences.
+journals/questa/MandjesK01:::Michel Mandjes::Jeong Han Kim:::Large Deviations for Small Buffers: An Insensitivity Result.
+journals/questa/Bonomi86:::Flavio Bonomi:::An Approximate Analysis for a Class of Assembly-Like Queues.
+journals/questa/LiuKT87:::Liming Liu::Brij R. K. Kashyap::James G. C. Templeton:::The Service System M/M<sup>R</sup>/infinity with Impatient Customers.
+journals/questa/SalminenN01:::Paavo Salminen::Ilkka Norros:::On Busy Periods of the Unbounded Brownian Storage.
+journals/questa/Serfozo97:::Richard F. Serfozo:::Editorial Introduction.
+journals/questa/BertsimasM97:::Dimitris Bertsimas::Georgia Mourtzinou:::Transient Laws of Non-Stationary Queueing Systems and Their Applications.
+journals/questa/Teugels90:::J. L. Teugels:::The Average Virtual Waiting Time as a Measure of Performance.
+journals/questa/BlancIN88:::J. P. C. Blanc::R. Iasnogorodski::Philippe Nain:::Analysis of the M/GI/1 -&gt; ./M/1 Queueing Model.
+journals/questa/BoxmaC99:::Onno J. Boxma::J. W. Cohen:::Heavy-Traffic Analysis for the GI/G/1 Queue with Heavy-Tailed Distributions.
+journals/questa/AnisimovA01:::Vladimir V. Anisimov::Jesus R. Artalejo:::Analysis of Markov Multiserver Retrial Queues with Negative Arrivals.
+journals/questa/GaneshA96:::A. Ganesh::Venkat Anantharam:::Stationary Tail Probabilities in Exponential Server Tandems with Renewal Arrivals.
+journals/questa/Leemans00:::H. Leemans:::Provable bounds for the mean queue lengths in a heterogeneous priority queue.
+journals/questa/AnantharamGH88:::Venkat Anantharam::B. Gopinath::D. Hajela:::A Generalization of the Erlang Formula of Traffic Engineering.
+journals/questa/KelbertV97:::Mark Kelbert::Alexandre Veretennikov:::On the Estimation of Mixing Coefficients for a Multiphase Service System.
+journals/questa/ReimanS90:::Martin I. Reiman::B. Simon:::A Network of Priority Queues in Heavy Traffic: One Bottleneck Station.
+journals/questa/DantzerD02:::Jean-François Dantzer::Vincent Dumas:::Stability Analysis of the Cambridge Ring.
+journals/questa/AltmanB97:::Eitan Altman::Aleksandr A. Borovkov:::On the Stability of Retrial Queues.
+journals/questa/KaspiKP97:::H. Kaspi::Offer Kella::David Perry:::Dam Processes with State Dependent Batch Sizes and Intermittent Production Processes with State Dependent Rates.
+journals/questa/ParthasarathyVL02:::P. R. Parthasarathy::K. V. Vijayashree::R. B. Lenin:::An M/M/1 Driven Fluid Queue C Continued Fraction Approach.
+journals/questa/GautamK00:::N. Gautam::Vidyadhar G. Kulkarni:::Applications of SMP Bounds to Multi-class Traffic in High-speed Networks.
+journals/questa/ChaeLA01:::K. C. Chae::H. W. Lee::C. W. Ahn:::An Arrival Time Approach to M/G/1-type Queues with Generalized Vacations.
+journals/siamam/Graham69:::Ronald L. Graham:::Bounds on Multiprocessing Timing Anomalies.
+journals/siamdm/Nierhoff00:::Till Nierhoff:::A Tight Bound on the Irregularity Strength of Graphs.
+journals/siamdm/Zuckerman92:::David Zuckerman:::A Technique for Lower Bounding the Cover Time.
+journals/siamdm/BarahonaM94b:::Francisco Barahona::Ali Ridha Mahjoub:::Compositions of Graphs and Polyhedra III: Graphs with No W<sub>4</sub> Minor.
+journals/siamdm/ChengS89:::Ying Cheng::N. J. A. Sloane:::Codes from Symmetry Groups, and A [32, 17, 8] Code.
+journals/siamdm/Chepoi98:::Victor Chepoi:::On Distance-Preserving and Domination Elimination Orderings.
+journals/siamdm/BrickellS91:::Ernest F. Brickell::Douglas R. Stinson:::The Detection of Cheaters in Threshold Schemes.
+journals/siamdm/Raychaudhuri94:::Arundhati Raychaudhuri:::Further Results on T-Coloring and Frequency Assignment Problems.
+journals/siamdm/TrachtenbergV03:::Ari Trachtenberg::Alexander Vardy:::Full-Rank Tilings of $\mathbbF^8_\!2$ Do Not Exist.
+journals/siamdm/CoppersmithTW93:::Don Coppersmith::Prasad Tetali::Peter Winkler:::Collisions Among Random Walks on a Graph.
+journals/siamdm/GaoS94:::Jun Gao::J. Michael Steele:::Sums of Squares of Edge Lengths and Spacefilling Curve Heuristics for the Traveling Salesman Problem.
+journals/siamdm/Kao96:::Ming-Yang Kao:::Data Security Equals Graph Connectivity.
+journals/siamdm/LuT01:::Chi-Jen Lu::Shi-Chun Tsai:::A Note on Iterating an alpha-ary Gray Code.
+journals/siamdm/NgH91:::Cheng Ng::Daniel S. Hirschberg:::Three-Dimensional Stable Matching Problems.
+journals/siamdm/Yen97:::Lily Yen:::A Combinatorial Proof for Stockhausen's Problem.
+journals/siamdm/Ramras98:::Mark Ramras:::Congestion-free Routings of Linear Complement Permutations.
+journals/siamdm/GetuSWW92:::Seyoum Getu::Louis W. Shapiro::Wen-Jin Woan::Leon C. Woodson:::How to Guess a Generating Function.
+journals/siamdm/HassinH92:::Refael Hassin::Moshe Haviv:::Mean Passage Times and Nearly Uncoupled Markov Chains.
+journals/siamdm/BoydH93:::Sylvia C. Boyd::Tianbao Hao:::An Integer Polytope Related to the Design of Survivable Communication Networks.
+journals/siamdm/KarchmerW90:::Mauricio Karchmer::Avi Wigderson:::Monotone Circuits for Connectivity Require Super-Logarithmic Depth.
+journals/siamdm/Etzion96:::Tuvi Etzion:::Nonequivalent <i>q</i>-ary Perfect Codes.
+journals/siamdm/UenoBHS93:::S. Ueno::Anindo Bagchi::S. Louis Hakimi::Edward F. Schmeichel:::On Minimum Fault-Tolerant Networks.
+journals/siamdm/Worley88:::Roderick T. Worley:::The Voronoi Region of E<sup>*</sup> <sub>7</sub>.
+journals/siamdm/Veen94:::Jack A. A. van der Veen:::A New Class of Pyramidally Solvable Symmetric Traveling Salesman Problems.
+journals/siamdm/Wang02:::Biing-Feng Wang:::Finding a 2-Core of a Tree in Linear Time.
+journals/siamdm/LovaszNNW95:::László Lovász::Moni Naor::Ilan Newman::Avi Wigderson:::Search Problems in the Decision Tree Model.
+journals/siamdm/Hurlbert94:::Glenn Hurlbert:::On Universal Cycles for <i>k</i>-Subsets of an <i>n</i>-Set.
+journals/siamdm/FederHKM03:::Tomás Feder::Pavol Hell::Sulamita Klein::Rajeev Motwani:::List Partitions.
+journals/siamdm/GimbelT98:::John G. Gimbel::Ann N. Trenk:::On the Weakness of an Ordered Set.
+journals/siamdm/Janusz00:::Gerald J. Janusz:::Overlap and Covering Polynomials with Applications to Designs and Self-Dual Codes.
+journals/siamdm/IsaakKMMR92:::Garth Isaak::Suh-Ryung Kim::Terry A. McKee::Fred R. McMorris::Fred S. Roberts:::2-Competition Graphs.
+journals/siamdm/BottiMV92:::Philip Botti::Russell Merris::Cheryl Vega:::Laplacian Permanents of Trees.
+journals/siamdm/KushilevitzM97:::Eyal Kushilevitz::Yishay Mansour:::Randomness in Private Computations.
+journals/siamdm/PalmerRR02:::Edgar M. Palmer::Ronald C. Read::Robert W. Robinson:::Counting Claw-Free Cubic Graphs.
+journals/siamdm/BaiouM97:::Mourad Baïou::Ali Ridha Mahjoub:::Steiner 2-Edge Connected Subgraph Polytopes on Series-Parallel Graphs.
+journals/siamdm/KiersteadPT94:::Henry A. Kierstead::Stephen G. Penrice::William T. Trotter:::On-Line Coloring and Recursive Graph Theory.
+journals/siamdm/Bang-JensenHY00:::Jørgen Bang-Jensen::Jing Huang::Anders Yeo:::Convex-Round and Concave-Round Graphs.
+journals/siamdm/BrankovicHM00:::Ljiljana Brankovic::Peter Horak::Mirka Miller:::An Optimization Problem in Statistical Databases.
+journals/siamdm/McKinleyHLL91:::Philip K. McKinley::N. Hasan::Ran Libeskind-Hadas::C. L. Liu:::Disjoint Covers in Replicated Heterogeneous Arrays.
+journals/siamdm/Altschul89:::Stephen F. Altschul:::Leaf Pairs and Tree Dissections.
+journals/siamdm/DeogunK02:::Jitender S. Deogun::Dieter Kratsch:::Dominating Pair Graphs.
+journals/siamdm/BjornerW99:::Anders Björner::Volkmar Welker:::Complexes of Directed Graphs.
+journals/siamdm/SchrijverSW98:::Alexander Schrijver::Paul D. Seymour::Peter Winkler:::The Ring Loading Problem.
+journals/siamdm/HamidouneT90:::Yahya Ould Hamidoune::Ralph Tindell:::Vertex Transitivity and Super Line Connectedness.
+journals/siamdm/TangA93:::K. Wendy Tang::Bruce W. Arden:::Representations of Borel Cayley Graphs.
+journals/siamdm/PadroMM98:::Carles Padró::Paz Morillo::Xavier Muñoz:::Fault-Tolerant Fixed Routings in Some Families of Digraphs.
+journals/siamdm/Simoes-Pereira88:::J. M. S. Simoes Pereira:::An Optimality Criterion for Graph Embeddings of Metrics.
+journals/siamdm/PhillipsSW97:::Cynthia A. Phillips::Clifford Stein::Joel Wein:::Task Scheduling in Networks.
+journals/siamdm/SzwarcfiterB94:::Jayme Luiz Szwarcfiter::Claudson F. Bornstein:::Clique Graphs of Chordal and Path Graphs.
+journals/siamdm/Jacobson92:::Michael S. Jacobson:::On the <i>p</i>-Edge Clique Cover Number of Complete Bipartite Graphs.
+journals/siamdm/DumitriuTW03:::Ioana Dumitriu::Prasad Tetali::Peter Winkler:::On Playing Golf with Two Balls.
+journals/siamdm/HwangRS93:::Frank K. Hwang::Uriel G. Rothblum::Larry A. Shepp:::Monotone Optimal Multipartitions Using Schur Convexity with Respect to Partial Orders.
+journals/siamdm/Naatz00:::Michael Naatz:::The Graph of Linear Extensions Revisited.
+journals/siamdm/Jedwab93:::Jonathan Jedwab:::Barker Arrays I: Even Number of Elements.
+journals/siamdm/ChungGK94:::Fan R. K. Chung::Wayne Goddard::Daniel J. Kleitman:::Even Cycles in Directed Graphs.
+journals/siamdm/GoldschmidtH90:::Olivier Goldschmidt::Dorit S. Hochbaum:::A Fast Perfect-Matching Algorithm in Random Graphs.
+journals/siamdm/FeigenbaumH89:::Joan Feigenbaum::Ramsey W. Haddad:::On Factorable Extensions and Subgraphs of Prime Graphs.
+journals/siamdm/Kahale97:::Nabil Kahale:::Isoperimetric Inequalities and Eigenvalues.
+journals/siamdm/BartalLMSS00:::Yair Bartal::Stefano Leonardi::Alberto Marchetti-Spaccamela::Jiri Sgall::Leen Stougie:::Multiprocessor Scheduling with Rejection.
+journals/siamdm/KleitmanV90:::Daniel J. Kleitman::Rakesh Vohra:::Computing the Bandwidth of Interval Graphs.
+journals/siamdm/HaddadS88:::Ramsey W. Haddad::Alejandro A. Schäffer:::Recognizing Bellman-Ford-Orderable Graphs.
+journals/siamdm/SantoroSSU89:::Nicola Santoro::Jeffrey B. Sidney::Stuart J. Sidney::Jorge Urrutia:::Geometric Containment and Partial Orders.
+journals/siamdm/BeutelspacherJOV92:::Albrecht Beutelspacher::Dieter Jungnickel::Paul C. van Oorschot::Scott A. Vanstone:::Pair-Splitting Sets in <i>AG(m, q)</i>.
+journals/siamdm/Dahlhaus93:::Elias Dahlhaus:::Fast Parallel Recognition of Ultrametrics and Tree Metrics.
+journals/siamdm/KohliK89:::Rajeev Kohli::Ramesh Krisnamurti:::Average Performance of Heuristics for Satisfiability.
+journals/siamdm/ChangHW88:::X. M. Chang::Frank K. Hwang::J. F. Weng:::Optimal Detection of Two Defectives with a Parity Check Device.
+journals/siamdm/CalkinET97:::Neil J. Calkin::Paul Erdös::Craig A. Tovey:::New Ramsey Bounds from Cyclic Graphs of Prime Order.
+journals/siamdm/Savage90:::Carla D. Savage:::Generating Permutations with <i>k</i>-Differences.
+journals/siamdm/GoldbergS89:::Mark Goldberg::Thomas H. Spencer:::Constructing a Maximal Independent Set in Parallel.
+journals/siamdm/Murota96a:::Kazuo Murota:::Valuated Matroid Intersection II: Algorithms.
+journals/siamdm/Fishburn90:::Peter C. Fishburn:::Binary Probabilities Induced by Rankings.
+journals/siamdm/AndreaeB95:::Thomas Andreae::Hans-Jürgen Bandelt:::Performance Guarantees for Approximation Algorithms Depending on Parametrized Triangle Inequalities.
+journals/siamdm/RubinovT98:::Anatoly R. Rubinov::Vadim G. Timkovsky:::String Noninclusion Optimization Problems.
+journals/siamdm/LempelW88:::Abraham Lempel::Marcelo J. Weinberger:::Self-Complementary Normal Bases in Finite Fields.
+journals/siamdm/BrentGL03:::Richard P. Brent::Shuhong Gao::Alan G. B. Lauder:::Random Krylov Spaces over Finite Fields.
+journals/siamdm/PemantlePU92:::Robin Pemantle::James Propp::Daniel Ullman:::On Tensor Powers of Integer Programs.
+journals/siamdm/GarnierK01:::Josselin Garnier::Leila Kallel:::Efficiency of Local Search with Multiple Local Optima.
+journals/sigart/Brooks91:::Rodney A. Brooks:::Integrated Systems Based on Behaviors.
+journals/sigart/Johnson99:::W. Lewis Johnson:::Letter from the Chair.
+journals/sigart/Gat91:::Erann Gat:::Integrating Reaction and Planning in a Heterogeneous Asynchronous Architecture for Mobile Robot Navigation.
+journals/sigart/Shapiro91:::Stuart C. Shapiro:::Case Studies of SNePS.
+journals/sigart/Tate95:::Austin Tate:::Characterising Plans as a Set of Constraints - the &lt;I-N-OVA&gt;Model - A Framework for Comparative Analysis.
+journals/sigart/Bradshaw99a:::Jeffrey Bradshaw:::Letter from the chair.
+journals/sigart/Sutherland00b:::Karen T. Sutherland:::Book reviews.
+journals/sigart/Hayes-Roth91:::Barbara Hayes-Roth:::An Integrated Architecture for Intelligent Agents.
+journals/sigart/MacGregor91:::Robert M. MacGregor:::Inside the LOOM Description Classifier.
+journals/sigart/RussellN95:::Stuart J. Russell::Peter Norvig:::A Modern, Agent-Oriented Approach to Introductory Artificial Intelligence.
+journals/sigart/NadoBF91:::Robert Nado::Jeffrey Van Baalen::Richard Fikes:::JOSIE: An Integration of Specialized Representation and Reasoning Tools.
+journals/sigart/Lowry99:::Stuart Lowry:::Conference review.
+journals/sigart/Patel-SchneiderMB91:::Peter F. Patel-Schneider::Deborah L. McGuinness::Alexander Borgida:::The CLASSIC Knowledge Representation System: Guiding Principles and Implementation Rationale.
+journals/sigart/YampratoomA93:::Ed Yampratoom::James F. Allen:::Performance of Temporal Reasoning Systems.
+journals/sigart/McKevittMN00:::Paul McKevitt::Conn Mulvihill::Seán Ó Nualláin:::Conference review.
+journals/sigart/Kumar99e:::Amruth N. Kumar:::Links.
+journals/sigart/GrassZ96:::Joshua Grass::Shlomo Zilberstein:::Anytime Algorithm Development Tools.
+journals/sigart/SosicG90:::Rok Sosic::Jun Gu:::A Polynomial Time Algorithm for the N-Queens Problem.
+journals/sigart/SosicG91:::Rok Sosic::Jun Gu:::3000000 Queens in Less Than One Minute.
+journals/sigart/Bradshaw00:::Jeffrey Bradshaw:::Letter from the chair.
+journals/sigart/GoelE91:::Ashok K. Goel::Kurt P. Eiselt:::Mental Models, Text Interpretation, and Knowledge Acquisition.
+journals/sigart/MurrayW91:::Tom Murray::Beverly Park Woolf:::A Knowledge Acquisition Tool for Intelligent Computer Tutors.
+journals/sigart/Blank00b:::Douglas Blank:::News.
+journals/sigkdd/Lo02:::Victor S. Y. Lo:::The True Lift Model - A Novel Data Mining Approach to Response Modeling in Database Marketing.
+journals/sigkdd/Hand99:::David J. Hand:::Statistics and Data Mining: Intersecting Disciplines.
+journals/sigkdd/Roy00:::Asim Roy:::Artificial Neural Networks - A Science in Trouble .
+journals/sigkdd/Freitas00:::Alex Alves Freitas:::Understanding the Crucial Differences Between Classification and Discovery of Association Rules - A Position Paper.
+journals/sigkdd/SpiliopoulouSKM00:::Myra Spiliopoulou::Jaideep Srivastava::Ron Kohavi::Brij M. Masand:::WEBKDD 2000 - Web Mining for E-Commerce.
+journals/sigkdd/KowalczykR02:::Adam Kowalczyk::Bhavani Raskutti:::One Class SVM for Yeast Regulation Prediction.
+journals/sigkdd/McCarthy00:::John McCarthy:::Phenomenal Data Mining: From Data to Phenomena.
+journals/sigkdd/SuciuV00:::Dan Suciu::Gottfried Vossen:::Report on WebDB'2000: 3rd International Workshop on the Web and Databases.
+journals/sigkdd/DiamantiniP00:::Claudia Diamantini::Maurizio Panti:::An Efficient Data Compression Approach to the Classification Task.
+journals/sigkdd/ZaianeS02:::Osmar R. Zaïane::Simeon J. Simoff:::MDM/KDD: Multimedia Data Mining for the Second Time.
+journals/sigkdd/GeorgesM00:::Jim Georges::Anne H. Milley:::KDD'99 Competition: Knowledge Discovery Contest.
+journals/sigkdd/Quinlan00:::J. Ross Quinlan:::KDD-99 Panel on Last 10 and Next 10 years.
+journals/sigkdd/GrucaKP99:::Thomas S. Gruca::Bruce R. Klemz::E. Ann Furr Petersen:::Mining Sales Data using a Neural Network Model of Market Response.
+journals/sigmod/Schiel88:::Ulrich Schiel:::the Problem of Identification.
+journals/sigmod/Jonsson90:::Jan Jonsson:::Semantic Modeling through Identification and Characterization of Objects.
+journals/sigmod/Jonsson92:::Dan Jonsson:::Formal Syntax and Semantics of a Reconstructed Relational Database System.
+journals/sigmod/DeWitt88:::David J. DeWitt:::Chair's Message.
+journals/sigmod/Hatfield69b:::Donald J. Hatfield:::Chairman's Message.
+journals/sigmod/OzsuDV93:::M. Tamer Özsu::Umeshwar Dayal::Patrick Valduriez:::Workshop Report: International Workshop on Distributed Object Management.
+journals/sigmod/BraP82:::Paul De Bra::Jan Paredaens:::Horizontal Decompositions and their Impact on Query Solving.
+journals/sigmod/Buff92:::H. W. Buff:::The Relational Model contra Entity Relationship?
+journals/sigmod/BertinoEH01:::Elisa Bertino::Ahmed K. Elmagarmid::Mohand-Said Hacid:::Quality of Service in Multimedia Digital Libraries.
+journals/sigmod/BertinoEH03:::Elisa Bertino::Ahmed K. Elmagarmid::Mohand-Said Hacid:::A Database Approach to Quality of Service Specification in Video Databases.
+journals/sigmod/PissinouMY93:::Niki Pissinou::Kia Makki::Y. Yesha:::On Temporal Modeling in the Context of Object Databases.
+journals/sigmod/Date89:::C. J. Date:::A Note on the Relational Calculus.
+journals/sigmod/BerraNT95:::P. Bruce Berra::Kingsley C. Nwosu::Bhavani M. Thuraisingham:::ACM Multimedia '94 Conference Workshop on Multimedia Database Management Systems.
+journals/sigmod/Eich86:::Margaret H. Eich:::Editor's Notes.
+journals/sigmod/BunemanRU97:::Peter Buneman::Louiqa Raschid::Jeffrey D. Ullman:::Mediator Languages - a Proposal for a Standard.
+journals/sigmod/Olle69a:::T. William Olle:::CODASYL 10th Anniversary Meeting 1969 May 27-28, Session Outline.
+journals/sigmod/LevenePBST93:::Mark Levene::Alexandra Poulovassilis::Kerima Benkerimi::Sara Schwartz::Eran Tuv:::Implementation of a Graph-Based Data Model for Complex Objects.
+journals/sigmod/VelACM01:::Olivier Y. de Vel::A. Anderson::M. Corney::George M. Mohay:::Mining Email Content for Author Identification Forensics.
+journals/sigmod/JukicNV03:::Nenad Jukic::Svetlozar Nestorov::Susan V. Vrbsky:::Closing the key loophole in MLS databases.
+journals/sigmod/Kim89:::Won Kim:::Chair's Message.
+journals/sigmod/Kim93:::Won Kim:::Chair's Message.
+journals/sigmod/Lee95:::Byung Suk Lee:::Normalization in OODB Design.
+journals/sigmod/Ley00:::Michael Ley:::SIGMOD Anthology Editor's Message.
+journals/sigmod/ElmasriDR81:::Ramez Elmasri::Cory Devor::Said K. Rahimi:::Notes of DDTS - An Apparatus for Experimental Research in Distributed Database Management Systems.
+journals/sigmod/Jain93:::Ramesh Jain:::NSF Workshop on Visual Information Management Systems.
+journals/sigmod/OoiST03:::Beng Chin Ooi::Yanfeng Shu::Kian-Lee Tan:::Relational data sharing in peer-based data management systems.
+journals/sigmod/Franklin00a:::Michael J. Franklin:::Editor's Notes.
+journals/sigmod/Franklin97b:::Michael J. Franklin:::Editor's Notes.
+journals/sigmod/Yormark84:::Bea Yormark:::Chairman's Column.
+journals/sigmod/FolinusMS74:::Jeffrey J. Folinus::Stuart E. Madnick::Howard B. Schutzman:::Virtual Information in Data-Base Systems.
+journals/sigmod/WuY00:::Kun-Lung Wu::Philip S. Yu:::Report on Second International Workshop on Advanced Issues of E-Commerce and Web-based Information Systems.
+journals/sigmod/HardgraveS76:::W. Terry Hardgrave::Edgar H. Sibley:::Problems of Basic and Applied Research in Database Systems.
+journals/sigmod/Jagadish00:::H. V. Jagadish:::ACM-SIGMOD Digital Review.
+journals/sigmod/ClementiniF00:::Eliseo Clementini::Paolino Di Felice:::Spatial Operators.
+journals/sigmod/Kim93a:::Won Kim:::Chair's Message.
+journals/sigmod/Liu03b:::Ling Liu:::Editor's Notes.
+journals/sigmod/DeWitt87a:::David J. DeWitt:::Chair's Message.
+journals/sigmod/Lyon73:::John K. Lyon:::What is a Data Base (Tutorial from ACM 1972).
+journals/sigmod/Knowles76:::J. S. Knowles:::CODASYL DDLC Data Base Administration Working Group (DBAWG).
+journals/sigmod/JacobS99:::Kaippallimalil J. Jacob::Dennis Shasha:::FinTime - A Financial Time Series Benchmark.
+journals/sigmod/Alonso94b:::Rafael Alonso:::Trade Press News - Announcement and Preface.
+journals/sigmod/Rustin75:::Randall Rustin:::Editor's Note.
+journals/sigmod/Camps96:::Rafael Camps:::Domains, Relations and Religious Wars.
+journals/sigmod/Qian95:::Xiaolei Qian:::Political Winds Change Direction Again.
+journals/sigmod/Qian96:::Xiaolei Qian:::Shutdown, Budget, and Funding.
+journals/sigmod/Qian97:::Xiaolei Qian:::Opportunities in Information Management and Assurance.
+journals/sigmod/Widom96b:::Jennifer Widom:::Editor's Notes.
+journals/sigmod/Tagg83:::Roger M. Tagg:::Interfacing a Query Language to a CODASYL DBMS.
+journals/sigmod/DunhamH95a:::Margaret H. Dunham::Abdelsalam Helal:::Mobile Computing and Databases: Anything New?
+journals/sigmod/Son88a:::Sang Hyuk Son:::Replicated Data Management in Distributed Database Systems.
+journals/sigmod/CiliaB02:::Mariano Cilia::Alejandro P. Buchmann:::An Active Functionality Service for E-Business Applications.
+journals/sigmod/Hatfield71:::Donald J. Hatfield:::New England Subcommittee.
+journals/sigmod/Ozsu03a:::M. Tamer Özsu:::Chair's Message.
+journals/sigmod/Kawagoe91:::Kyoji Kawagoe:::Continuous Media Data Manegement.
+journals/sigmod/Minsky74:::Naftaly H. Minsky:::Another Look at Data-Bases.

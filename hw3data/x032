@@ -1,0 +1,200 @@
+journals/rsa/ShelahS94a:::Saharon Shelah::Joel Spencer:::Random Sparse Unary Predicates.
+journals/rsa/Devroye92:::Luc Devroye:::A Note on the Probabilistic Analysis of Patricia Trees.
+journals/rsa/Chvatal91:::Vasek Chvátal:::Almost All Graphs with 1.44n Edges are 3-Colorable.
+journals/rsa/CondonH94:::Anne Condon::Diane Hernek:::Random Walks on Colored Graphs.
+journals/rsa/Nebel02:::Markus E. Nebel:::A unified approach to the analysis of Horton-Strahler parameters of binary tree structures.
+journals/rsa/Szabo90:::Zoltán Szabó:::An Application of Lovász's Local Lemma - A New Lower Bound for the van der Waerden Number.
+journals/rsa/BaritompaS96:::William Baritompa::Mike A. Steel:::Bounds on absorption times of directionally biased random sequences.
+journals/rsa/Talagrand99:::Michel Talagrand:::Self averaging and the space of interactions in neural networks.
+journals/rsa/KohayakawaK97:::Yoshiharu Kohayakawa::Bernd Kreuter:::Threshold functions for asymmetric Ramsey properties involving cycles.
+journals/rts/NishioTI89:::Shojiro Nishio::Shinichi Taniguchi::Toshihide Ibaraki:::On the Efficiency of Cautious Schedulers for Database Concurrency Control - Why Insist on Two-Phase Locking?
+journals/rts/Schutz94:::Werner Schütz:::Fundamental Issues in Testing Distributed Real-Time Systems.
+journals/rts/TakashioT96:::Kazunori Takashio::Mario Tokoro:::Least Suffering Strategy in Distributed Real-Time Programming Language DROL.
+journals/rts/AeA89:::Tadashi Ae::Reiji Aibara:::Programmable Real-Time Scheduler Using a Neurocomputer.
+journals/rts/GhazalieB95:::T. M. Ghazalie::Theodore P. Baker:::Aperiodic Servers in a Deadline Scheduling Environment.
+journals/rts/OhS94:::Yingfeng Oh::Sang Hyuk Son:::Enhancing Fault-Tolerance in Rate-Monotonic Scheduling.
+journals/rts/JehudaI98:::Jair Jehuda::Amos Israeli:::Automated Meta-Control for Adaptable Real-Time Software.
+journals/rts/HarmonBW94:::Marion G. Harmon::Theodore P. Baker::David B. Whalley:::A Retargetable Technique for Predicting Execution Time of Code Segments.
+journals/rts/SchmidtMFG01:::Douglas C. Schmidt::Sumedh Mungee::Sergio Flores-Gaitan::Aniruddha S. Gokhale:::Software Architectures for Reducing Priority Inversion and Non-determinism in Real-time Object Request Brokers.
+journals/rts/ElmstromLP93:::René Elmstrøm::Raino Lintulampi::Mauro Pezzè:::Giving Semantics to SA/RT by Means of High-Level Times Petri Nets.
+journals/rts/NilssonBL98:::Klas Nilsson::Anders Blomdell::Olof Laurin:::Open Embedded Control.
+journals/rts/Tyszberowicz98:::Shmuel S. Tyszberowicz:::How to Implement a Safe Real-Time System: The OBSERV Implementation of the Production Cell Case Study.
+journals/rts/DolevRSS97:::Danny Dolev::Rüdiger Reischuk::Fred B. Schneider::H. Raymond Strong:::Report Dagstuhl Seminar on Time Services, Schloß Dagstuhl, March 11-15, 1996.
+journals/rts/AlariC97:::Gianluigi Alari::Augusto Ciuffoletti:::Implementing a Probabilistic Clock Synchronization Algorithm.
+journals/rts/HendersonKR01:::William Henderson::David Kendall::Adrian Robson:::Improving the Accuracy of Scheduling Analysis Applied to Distributed Systems Computing Minimal Response Times and Reducing Jitter.
+journals/rts/WegenerG98:::Joachim Wegener::Matthias Grochtmann:::Verifying Timing Constraints of Real-Time Systems by Means of Evolutionary Testing.
+journals/rts/TheilingFW00:::Henrik Theiling::Christian Ferdinand::Reinhard Wilhelm:::Fast and Precise WCET Prediction by Separated Cache and Path Analyses.
+journals/rts/ChengCH98:::Sheng-Tzong Cheng::Chia-Mei Chen::Jing-Wen Hwang:::Low-Power Design for Real-Time Systems.
+journals/rts/ChatterjeeC98:::Niladri Chatterjee::J. A. Campbell:::Cashing in on Caching: An Architecture for Time-Bounded Knowledge-Based Problem Solving.
+journals/rts/Dolev97:::Shlomi Dolev:::Possible and Impossible Self-Stabilizing Digital Clock Synchronization in General Graphs.
+journals/rts/TindellBW95:::Ken Tindell::Alan Burns::Andy J. Wellings:::Analysis of Hard Real-Time Communications.
+journals/rts/ThielemansDB98:::H. Thielemans::L. Demeestere::Hendrik Van Brussel:::HEDRA: Heterogeneous Distributed Real-Time Architecture.
+journals/rts/LentK89:::Bogdan Lent::Hans Kurmann:::The OR Dataflow Architecture for a Machine Embedded Control System.
+journals/rts/KakudaKK94:::Yoshiaki Kakuda::Tohru Kikuno::Kenichi Kawashima:::Automated Verification of Responsive Protocols Modeled by Extended Finite State Machines.
+journals/rts/BurnsKY00:::Frank P. Burns::Albert Koelmans::Alexandre Yakovlev:::WCET Analysis of Superscalar Processors Using Simulation With Coloured Petri Nets.
+journals/rts/Lundberg02:::Lars Lundberg:::Utilization Based Schedulability Bounds for Age Constraint Process Sets in Real-Time Systems.
+journals/rts/MazzeoMRV97:::Antonino Mazzeo::Nicola Mazzocca::Stefano Russo::Valeria Vittorini:::A Systematic Approach to the Petri Net Based Specification of Concurrent Systems.
+journals/rts/Cantone91:::Giovanni Cantone:::Guest Introduction: Some Italian Research on Real-Time Systems.
+journals/rts/MarloweSMW94:::Thomas J. Marlowe::Alexander D. Stoyenko::Stephen P. Masticola::Lonnie R. Welch:::Schedulability-Analyzable Exception Handling for Fault-Tolerant Real-Time Languages.
+journals/rts/SpruntSL89:::Brinkley Sprunt::Lui Sha::John P. Lehoczky:::Aperiodic Task Scheduling for Hard Real-Time Systems.
+journals/rts/Puente00:::Juan Antonio de la Puente:::Real-Time Object-Oriented Design and Formal Methods.
+journals/rts/StoyenkoM92:::Alexander D. Stoyenko::Thomas J. Marlowe:::Polynomial-Time Transformations and Schedulability Analysis of Parallel Real-Time Programs with Restricted Resource Contention.
+journals/rts/FelderGP93:::Miguel Felder::Carlo Ghezzi::Mauro Pezzè:::High-Level Timed Petri Nets as a Kernel for Executable Specifications.
+journals/rts/AltisenGS02:::Karine Altisen::Gregor Gößler::Joseph Sifakis:::Scheduler Modeling Based on the Controller Synthesis Paradigm.
+journals/rts/LundqvistA03:::Kristina Lundqvist::Lars Asplund:::A Ravenscar-Compliant Run-time Kernel for Safety-Critical Systems.
+journals/rts/AalstO95:::Wil M. P. van der Aalst::Michiel A. Odijk:::Analysis of Railway Stations by Means of Interval Timed Coloured Petri Nets.
+journals/rts/HalangS90:::Wolfgang A. Halang::Alexander D. Stoyenko:::Comparative Evaluation of High-Level Real-Time Programming Languages.
+journals/rts/ArvindRS91:::K. Arvind::Krithi Ramamritham::John A. Stankovic:::A Local Area Network Architecture for Communication in Distributed Real-Time Systems.
+journals/smr/Ng01:::Celeste See Pui Ng:::A decision framework for enterprise resource planning maintenance and upgrade: A client perspective.
+journals/smr/Black01:::Sue Black:::Computing ripple effect for software maintenance.
+journals/smr/PopovicAK01:::Miroslav Popovic::Branislav Atlagic::Vladimir Kovacevic:::Case study: a maintenance practice used with real-time telecommunications software.
+journals/smr/MattssonB00:::Michael Mattsson::Jan Bosch:::Stability assessment of evolving industrial object-oriented frameworks.
+journals/smr/Henry00:::Joel E. Henry:::Test case selection for simulations in the maintenance of real-time systems.
+journals/tcs/BaaderB88:::Franz Baader::Wolfram Büttner:::Unification in Commutative Idempotent Monoids.
+journals/tcs/GubasHW95:::Xaver Gubás::Juraj Hromkovic::Juraj Waczulík:::A Nonlinear Lower Bound on the Practical Combinational Complexity.
+journals/tcs/TakedaFNYT03:::Masayuki Takeda::Tomoko Fukuda::Ichiro Nanri::Mayumi Yamasaki::Kouichi Tamari:::Discovering instances of poetic allusion from anthologies of classical Japanese poems.
+journals/tcs/MundiciO98:::Daniele Mundici::Nicola Olivetti:::Resolution and Model Building in the Infinite-Valued Calculus of Lukasiewicz.
+journals/tcs/Holcombe82:::Mike Holcombe:::On the Holonomy Decomposition of Transformation Semigroups.
+journals/tcs/GasarchGS03:::William I. Gasarch::Evan Golub::Aravind Srinivasan:::When does a random Robin Hood win?
+journals/tcs/Ko85:::Ker-I Ko:::On Some Natural Complete Operators.
+journals/tcs/Ko95:::Ker-I Ko:::A Polynomial-Time Computable Curve whose Interior has a Nonrecursive Measure.
+journals/tcs/Lu01:::Chi-Jen Lu:::An exact characterization of symmetric functions in qAC<sup>0</sup>[2].
+journals/tcs/Su97:::Jianwen Su:::Dynamic Constraints and Object Migration.
+journals/tcs/Bini84:::Dario Bini:::On Commutativity and Approximation.
+journals/tcs/FachiniMRS91:::Emanuela Fachini::Andrea Maggiolo-Schettini::Giovanni Resta::Davide Sangiorgi:::Nonacceptability Criteria and Closure Properties for the Class of Languages Accepted by Binary Systolic Tree Automata.
+journals/tcs/GyssensG91:::Marc Gyssens::Dirk Van Gucht:::A Comparison between Algebraic Query Languages for Flat and Nested Databases.
+journals/tcs/Bertrand94:::A. Bertrand:::Sur une conjecture d'Yves Métivier.
+journals/tcs/HayashiMST03:::Yosuke Hayashi::Satoshi Matsumoto::Ayumi Shinohara::Masayuki Takeda:::Uniform characterizations of polynomial-query learnabilities.
+journals/tcs/Blum83:::Norbert Blum:::More on the Power of Chain Rules in Context-Free Grammars.
+journals/tcs/ChrobakL92:::Marek Chrobak::Lawrence L. Larmore:::Harmonic is 3-Competitive for Two Servers.
+journals/tcs/Hodges95:::Wilfried Hodges:::The Meaning of Specifications I: Domains and Initial Models.
+journals/tcs/GermanoM81:::Giorgio Germano::Andrea Maggiolo-Schettini:::Sequence Recursiveness Without Cylindrification and Limited Register Machines.
+journals/tcs/Chen00:::Zhi-Zhong Chen:::Efficient Algorithms for Acyclic Colorings of Graphs.
+journals/tcs/Chen03:::Jingchao Chen:::Optimizing stable in-place merging.
+journals/tcs/CulikK86:::Karel Culik II::Juhani Karhumäki:::The Equivalence of Finite Valued Transducers (On HDT0L Languages) is Decidable.
+journals/tcs/Broy85:::Manfred Broy:::On the Herbrand-Kleene Universe for Nondeterministic Computations.
+journals/tcs/Broy86:::Manfred Broy:::A Theory for Nondeterminism, Parallelism, Communication, and Concurrency.
+journals/tcs/CulikS82:::Karel Culik II::Arto Salomaa:::On Infinite Words Obtained by Iterating Morphisms.
+journals/tcs/KatoenN00:::Joost-Pieter Katoen::Albert Nymeyer:::Pattern-matching algorithms based on term rewrite systems.
+journals/tcs/BlundoCSV96:::Carlo Blundo::Antonella Cresti::Alfredo De Santis::Ugo Vaccaro:::Fully Dynamic Secret Sharing Schemes.
+journals/tcs/KreitzW85:::Christoph Kreitz::Klaus Weihrauch:::Theory of Representations.
+journals/tcs/BrogiT95:::Antonio Brogi::Franco Turini:::Fully Abstract Composition Semantics for an Algebra of Logic Programs.
+journals/tcs/Grossi93:::Roberto Grossi:::On Finding Commong Subtrees.
+journals/tcs/Wagner87a:::Eric G. Wagner:::A Categorical Treatment of Pre- and Post-Conditions.
+journals/tcs/FischerJT83:::Patrick C. Fischer::Jiann H. Jou::Don-Min Tsou:::Succinctness in Dependency Systems.
+journals/tcs/MunroR96:::J. Ian Munro::Venkatesh Raman:::Selection from Read-Only Memory and Sorting with Minimum Data Movement.
+journals/tcs/Fitting86:::Melvin Fitting:::Partial Models and Logic Programming.
+journals/tcs/CoxP84:::Philip T. Cox::Tomasz Pietrzykowski:::A Complete, Nonredundant Algorithm for Reversed Skolemization.
+journals/tcs/Trahtman00a:::A. N. Trahtman:::Algorithms finding the order of local testability of deterministic finite automaton and estimations of the order.
+journals/tcs/ZhangOL99:::Cui Zhang::Ronald A. Olsson::Karl N. Levitt:::Formal Verification of a Programming Logic for a Distributed Programming Language.
+journals/tcs/AlagicA97:::Suad Alagic::Mara Alagic:::Order-Sorted Model Theory for Temporal Executable Specifications.
+journals/tcs/GirodiasCO97:::Pierre Girodias::Eduard Cerny::William J. Older:::Solving Linear, Min and Max Constraint Systems Using CLP Based on Relational Interval Arithmetic.
+journals/tcs/MainBH87:::Michael G. Main::Walter Bucher::David Haussler:::Applications of an Infinite Square-Free CO-CFL.
+journals/tcs/FishkinZ03:::Aleksei V. Fishkin::Guochuan Zhang:::On maximizing the throughput of multiprocessor tasks.
+journals/tcs/BennisonS78:::Victor L. Bennison::Robert I. Soare:::Some Lowness Properties and Computational Complexity Sequences.
+journals/tcs/IkedaI99:::Takahiro Ikeda::Hiroshi Imai:::Enhanced A* Algorithms for Multiple Alignments: Optimal Alignments for Several Sequences and <i>k</i>-Opt Approximate Alignments for Large Cases.
+journals/tcs/Tseytin99:::Gregory S. Tseytin:::A Formalization of Reasoning not Derived from Standard Predicate Logic.
+journals/tcs/FlajoletGD95:::Philippe Flajolet::Xavier Gourdon::Philippe Dumas:::Mellin Transforms and Asymptotics: Harmonic Sums.
+journals/tcs/DuWK98:::Xiufeng Du::Weili Wu::Dean F. Kelley:::Approximations for Subset Interconnection Designs.
+journals/tcs/IntrigilaZ99:::Benedetto Intrigila::Marisa Venturini Zilli:::Orders, Reduction Graphs and Spectra.
+journals/tcs/Weihrauch93:::Klaus Weihrauch:::Computability on Computable Metric Spaces.
+journals/tcs/Barua92:::Rana Barua:::The Hausdorff-Kuratowski Hierarchy of omega-Regular Languages and a Hierarchy of Muller Automata.
+journals/tcs/AnanichevCV03:::Dimitry S. Ananichev::Alessandra Cherubini::Mikhail V. Volkov:::Image reducing words and subgroups of free groups.
+journals/tcs/DrangmeisterKMNR98:::Kay U. Drangmeister::Sven Oliver Krumke::Madhav V. Marathe::Hartmut Noltemeier::S. S. Ravi:::Modifying Edges of a Network to Obtain Short Subgraphs.
+journals/tcs/BeinCL02:::Wolfgang W. Bein::Marek Chrobak::Lawrence L. Larmore:::The 3-server problem in the plane.
+journals/tcs/HoomanRR92:::Jozef Hooman::S. Ramesh::Willem P. de Roever:::A Compositional Axiomatization of Statecharts.
+journals/tcs/BelingM98:::Peter A. Beling::Nimrod Megiddo:::Using Fast Matrix Multiplication to Find Basic Solutions.
+journals/tcs/HofriK94:::Micha Hofri::Yaakov Kogan:::Asymptotic Analysis of Product-Form Distributions Related to Large Interconnection Networks.
+journals/tcs/Paseka99:::Jan Paseka:::Hilbert Q-Modules and Nuclear Ideals in the Category of v-Semilattices with a Duality.
+journals/tcs/GrossmanL95:::Robert L. Grossman::Richard G. Larson:::An Algebraic Approach to Hybrid Systems.
+journals/tcs/Ianni98:::Miriam Di Ianni:::Efficient Delay Routing.
+journals/tcs/MuratP02:::Cécile Murat::Vangelis Th. Paschos:::A priori optimization for the probabilistic maximum independent set problem.
+journals/tcs/Kinber83:::Efim B. Kinber:::The Inclusion Problem for some Classes of Deterministic Multitape Automata.
+journals/tcs/Plambeck92:::Thane E. Plambeck:::Daisies, Kayles, and the Silbert-Conway Decomposition in Misère Octal Games.
+journals/tcs/BlanchardM86:::François Blanchard::Servet Martínez A.:::Points d'Orbite Dense de Certains Langages de Mots Infinis.
+journals/tcs/Baratella93:::Stefano Baratella:::A Class of Programs for which SLDNF Resolution and NAF Rule are Complete.
+journals/tcs/Murakami90:::Masaki Murakami:::A Declarative Semantics of Flat Guarded Horn Clauses for Programs with Perpetual Processes.
+journals/tcs/Wyrostek86:::Piotr Wyrostek:::On the Size of Unambiguous Context-Free Grammars.
+journals/tcs/BertheT02:::Valérie Berthé::Robert Tijdeman:::Balance properties of multi-dimensional words.
+journals/tcs/NavarroOS95:::Marisa Navarro::Fernando Orejas::Ana Sánchez:::On the Correctness of Modular Systems.
+journals/tcs/DugganO02:::Dominic Duggan::John Ophel:::Open and closed scopes for constrained genericity.
+journals/tcs/BealS01:::Donald F. Beal::Martin C. Smith:::Temporal difference learning applied to game playing and the results of application to Shogi.
+journals/tcs/CohenG80:::Rina S. Cohen::Arie Y. Gold:::On the Complexity of omega-Type Turing Acceptors.
+journals/tcs/Hein92:::James Hein:::Completions of Perpetual Logic Programs.
+journals/tcs/Goto91:::Shigeki Goto:::Proof Normalization with Nonstandard Objects.
+journals/tcs/Muchnik03a:::Andrei A. Muchnik:::One application of real-valued interpretation of formal power series.
+journals/tcs/MuchnikP02:::Andrej A. Muchnik::Semen Ye. Positselsky:::Kolmogorov entropy in the context of computability theory.
+journals/tcs/MuchnikV96:::Andrei A. Muchnik::Nikolai K. Vereshchagin:::A General Method to Construct Oracles Realizing Given Relationships Between Complexity Classes.
+journals/tcs/AusiellodM85:::Giorgio Ausiello::Alessandro D'Atri::Marina Moscarini:::On the Existence of Acyclic Views in a Database Scheme.
+journals/tcs/Schmitt01:::Lothar M. Schmitt:::Theory of genetic algorithms.
+journals/tcs/Schmitt98:::Vincent Schmitt:::Stable Trace Automata vs. Full Trace Automata.
+journals/tcs/Finkel85:::Alain Finkel:::Une Généralisation des Théorème de Higman et de Simon aux Mots Infinis.
+journals/tcs/Col02:::Marie-Andrée Jacob-Da Col:::About local configurations in arithmetic planes.
+journals/tcs/LawsonL03:::Jimmie D. Lawson::Bin Lu:::Riemann and Edalat integration on domains.
+journals/tcs/BezrukovE03:::Sergei L. Bezrukov::Robert Elsässer:::Edge-isoperimetric problems for cartesian powers of regular graphs.
+journals/tcs/Pardo01:::Alberto Pardo:::Fusion of recursive programs with computational effects.
+journals/tcs/DuK98:::Ding-Zhu Du::Ker-I Ko:::In Memoriam Ronald V. Book.
+journals/tcs/BellinS94:::Gianluigi Bellin::Philip J. Scott:::On the pi-Calculus and Linear Logic.
+journals/tcs/HeK99:::Jun He::Lishan Kang:::On the Convergence Rates of Genetic Algorithms.
+journals/tcs/Hofbauer92:::Dieter Hofbauer:::Termination Proofs by Multiset Path Orderings Imply Primitive Recursive Derivation Lengths.
+journals/tcs/Kim90:::Changwook Kim:::Complexity and Decidability for Restricted Classes of Picture Languages.
+journals/tcs/KozenZ94:::Dexter Kozen::Shmuel Zaks:::Optimal Bounds for the Change-Making Problem.
+journals/tcs/LiL01:::Hao Li::Jianping Li:::Independent triangles covering given vertices of a graph.
+journals/tcs/Holub01:::S. Stepán Holub:::Local and global cyclicity in free semigroups.
+journals/tcs/GoldschlagerP86:::Leslie M. Goldschlager::Ian Parberry:::On the Construction of Parallel Computers from Various Bases of Boolean Functions.
+journals/tcs/dAmoreL94:::Fabrizio d'Amore::Vincenzo Liberatore:::The List Update Problem and the Retrieval of Sets.
+journals/tcs/Wang00a:::Biing-Feng Wang:::Tight bounds on the solutions of multidimensional divide-and-conquer maximin recurrences.
+journals/tcs/Wang98a:::Biing-Feng Wang:::Simulating the CRCW PRAM on Reconfigurable Networks.
+journals/tcs/Perrier98:::Guy Perrier:::Corrigendum to Galmiche's and Perrier's ``On Proof Normalization in Linear Logic''.
+journals/tcs/Perrier99:::Guy Perrier:::A PSPACE-complete Fragment of Second-order Linear Logic.
+journals/tcs/Huet75:::Gérard P. Huet:::A Unification Algorithm for Typed lambda-Calculus.
+journals/tcs/Mossakowski02:::Till Mossakowski:::Relating CASL with other specification languages: the institution level.
+journals/tcs/BestD87:::Eike Best::Raymond R. Devillers:::Sequential and Concurrent Behaviour in Petri Net Theory.
+journals/tcs/PijlsB01:::Wim Pijls::Arie de Bruin:::Game tree algorithms and solution trees.
+journals/tcs/HotzP96:::Günter Hotz::Gisela Pitsch:::On Parsing Coupled-Context-Free Languages.
+journals/tcs/MannaS78:::Zohar Manna::Adi Shamir:::The Convergence of Functions to Fixedpoints of Recursive Definitions.
+journals/tcs/Wan98:::Peng-Jun Wan:::TWDM Multichannel Lightwave Hypercube Networks.
+journals/tcs/DattasharmaK95:::Abhi Dattasharma::S. Sathiya Keerthi:::An Augmented Voronoi Roadmap for 3D Translational Motion Planning for a Convex Polyhedron Moving Amidst Convex Polyhedral Obstacles.
+journals/tcs/JanssenN01:::Jeannette Janssen::Lata Narayanan:::Approximation algorithms for channel assignment with constraints.
+journals/tcs/Yap83:::Chee-Keng Yap:::Some Consequences of Non-Uniform Conditions on Uniform Classes.
+journals/tcs/Yen97:::Hsu-Chun Yen:::On Reachability Equivalence for BPP-Nets.
+journals/tcs/YiX93:::Bo Yi::Jiafu Xu:::Analogy Calculus.
+journals/tcs/Zak03:::Stasys Jukna::Stanislav Zák:::On uncertainty versus size in branching programs.
+journals/tcs/Hebrard91:::Jean-Jacques Hébrard:::An Algorithm for Distinguishing Efficiently Bit-Strings by their Subsequences.
+journals/tcs/Michel91:::Pascal Michel:::An NP-Complete Language Accepted in Linear Time by a One-Tape Turing Machine.
+journals/tcs/RaihaU81:::Kari-Jouko Räihä::Esko Ukkonen:::The Shortest Common Supersequence Problem over Binary Alphabet is NP-Complete.
+journals/tcs/KiwiNTC94:::Marcos A. Kiwi::René Ndoundam::Maurice Tchuente::Eric Goles Ch.:::No Polynomial Bound for the Period of the Parallel Chip Firing Game on Graphs.
+journals/tcs/AvenhausM84:::Jürgen Avenhaus::Klaus Madlener:::The Nielsen Reduction and P-Complete Problems in Free Groups.
+journals/tcs/Benoit85:::Christophe Benoit:::Axiomatisation des Tests.
+journals/tcs/Karhumaki77:::Juhani Karhumäki:::Remarks on Commutative <i>N</i> -Rational Series.
+journals/tcs/Karhumaki79:::Juhani Karhumäki:::On Commutative DT0L Systems.
+journals/tcs/KimS87:::Changwook Kim::Ivan Hal Sudborough:::The Membership and Equivalence Problems for Picture Languages.
+journals/tcs/King88:::K. N. King:::Alternating Multihead Finite Automata.
+journals/tcs/LamP03:::Fumei Lam::Lior Pachter:::Forcing numbers of stop signs.
+journals/tcs/Moschovakis03:::Yiannis N. Moschovakis:::On primitive recursive algorithms and the greatest common divisor function.
+journals/tcs/Fernandez-BacaS97:::David Fernández-Baca::Giora Slutzki:::Linear-Time Algorithms for Parametric Minimum Spanning Tree Problems on Planar Graphs.
+journals/tcs/Peleg87:::David Peleg:::Concurrent Program Schemes and Their Logics.
+journals/tcs/LevV83:::G. Lev::Leslie G. Valiant:::Size Bounds for Superconcentrators.
+journals/tcs/Levy76:::Jean-Jacques Lévy:::An Algebraic Interpretation of the <i> lambda beta </i> K-Calculus; and an Application of a Labelled <i> lambda </i> -Calculus.
+journals/tcs/Krob91:::Daniel Krob:::Some Examples of Formal Series Used in Non-Commutative Algebra.
+journals/tcs/EgeciogluK94:::Ömer Egecioglu::Çetin Kaya Koç:::Exponentiation Using Canonical Recoding.
+journals/tcs/FerreiraR96:::Afonso Ferreira::José D. P. Rolim:::Foreword to the Special Issue on Parallelism.
+journals/tcs/Weber94:::Andreas Weber:::Finite-Valued Distance Automata.
+journals/tcs/LiuW98:::Xinxin Liu::David Walker:::Partial Confluence of Proceses and Systems of Objects.
+journals/tcs/Maon85:::Yael Maon:::On the Equivalence Problem of Compositions of Morphisms and Inverse Morphisms on Context-Free Languages.
+journals/tcs/Petit90:::Antoine Petit:::Distribution and Synchronized Automata.
+journals/tcs/DowneyFR98:::Rodney G. Downey::Michael R. Fellows::Kenneth W. Regan:::Parameterized Circuit Complexity and the W Hierarchy.
+journals/tcs/DelestF92:::Marie-Pierre Delest::J. M. Fedou:::Attibute Grammars are Useful for Combinatorics.
+journals/tcs/Meer00:::Klaus Meer:::Counting problems over the reals.
+journals/tcs/OttoND98:::Friedrich Otto::Paliath Narendran::Daniel J. Dougherty:::Equational Unification, Word Unification, and 2nd-Order Equational Unification.
+journals/tcs/RosenbergSS80:::Arnold L. Rosenberg::Larry J. Stockmeyer::Lawrence Snyder:::Uniform Data Encodings.
+journals/tcs/MarekT98:::V. Wiktor Marek::Miroslaw Truszczynski:::Revision Programming.
+journals/tcs/Luca02:::Aldo de Luca:::Some combinatorial results on Bernoulli sets and codes.
+journals/tcs/BloomT85:::Stephen L. Bloom::Douglas R. Troeger:::A Logical Characterization of Observation Equivalence.
+journals/tcs/Malacaria95:::Pasquale Malacaria:::Studying Equivalences of Transition Systems with Algebraic Tools.
+journals/tcs/Senizergues90a:::Géraud Sénizergues:::Some Decision Problems about Controlled Rewriting Systems.
+journals/tcs/DeselNR96:::Jörg Desel::K.-P. Neuendorf::M.-D. Radola:::Proving Nonreachability by Modulo-Invariants.
+journals/tcs/German92:::Steven M. German:::Semantics and Reasoning with Free Procedures.
+journals/tcs/Mihalache99:::Valeria Mihalache:::Decidability Problems in Grammar Systems.
+journals/tcs/Martin94:::Bruno Martin:::A Universal Cellular Automaton in Quasi-Linear Time and its S-m-n Form.
+journals/tcs/Huhne93:::Martin Hühne:::On the Power of Several Queues.

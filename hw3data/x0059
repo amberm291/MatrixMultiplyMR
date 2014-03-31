@@ -1,0 +1,200 @@
+conf/icdt/Hagedoorn03:::Michiel Hagedoorn:::Nearest Neighbors Can Be Found Efficiently If the Dimension Is Small Relative to the Input Size.
+conf/icdt/KuijpersB99:::Bart Kuijpers::Jan Van den Bussche:::On Capturing First-Order Topological Properties of Planar Spatial Databases.
+conf/icdt/SinhaBC01:::Rakesh K. Sinha::Randeep Bhatia::Chung-Min Chen:::Asymptotically Optimal Declustering Schemes for Range Queries.
+conf/icdt/BusscheG92:::Jan Van den Bussche::Dirk Van Gucht:::A Hierarchy of Faithful Set Creation in Pure OODB's.
+conf/icdt/GuptaM99:::Himanshu Gupta::Inderpal Singh Mumick:::Selection of Views to Materialize Under a Maintenance Cost Constraint.
+conf/icdt/DongS95:::Guozhu Dong::Jianwen Su:::Increment Boundedness and Nonrecursive Incremental Evaluation of Datalog Queries.
+conf/icdt/AbiteboulG92:::Serge Abiteboul::Allen Van Gelder:::Optimizing Active Databases using the Split Technique.
+conf/icdt/AggarwalHK01:::Charu C. Aggarwal::Alexander Hinneburg::Daniel A. Keim:::On the Surprising Behavior of Distance Metrics in High Dimensional Spaces.
+conf/icdt/Fagin90:::Ronald Fagin:::Finite-Model Theory - a Personal Perspective.
+conf/icdt/SaccaZ86:::Domenico Saccà::Carlo Zaniolo:::The Generalized Counting Method for Recursive Logic Queries.
+conf/icdt/MiloS99:::Tova Milo::Dan Suciu:::Index Structures for Path Expressions.
+conf/icdt/BugliesiJ95:::Michele Bugliesi::Hasan M. Jamil:::A Stable Model Semantics for Behavioral Inheritance in Deductive Object Oriented Languages.
+conf/icdt/Suciu95:::Dan Suciu:::Domain-Independent Queries on Databases with External Functions.
+conf/icdt/CaldersP01:::Toon Calders::Jan Paredaens:::Axiomatization of Frequent Sets.
+conf/icdt/Ioannidis03:::Yannis E. Ioannidis:::Approximations in Database Systems.
+conf/icdt/DemetrovicsKMST95:::János Demetrovics::Gyula O. H. Katona::Dezsö Miklós::Oleg Seleznjev::Bernhard Thalheim:::The Average Length of Keys and Functional Dependencies in (Random) Databases.
+conf/icdt/MoerkotteK88:::Guido Moerkotte::Stefan Karl:::Efficient Consistency Control in Deductive Databases.
+conf/icdt/BaileyDR97:::James Bailey::Guozhu Dong::Kotagiri Ramamohanarao:::Structural Issues in Active Rule Systems.
+conf/icdt/BeyerGRS99:::Kevin S. Beyer::Jonathan Goldstein::Raghu Ramakrishnan::Uri Shaft:::When Is ''Nearest Neighbor'' Meaningful?
+conf/icdt/FingerG92:::Marcelo Finger::Dov M. Gabbay:::Updating Atomic Information in Labelled Database Systems.
+conf/icdt/PangRD99:::Chaoyi Pang::Kotagiri Ramamohanarao::Guozhu Dong:::Incremental <i>FO</i>(+, &lt;) Maintenance of All-Pairs Shortest Paths for Undirected Graphs after Insertions and Deletions.
+conf/icdt/ScheweSW92:::Klaus-Dieter Schewe::Joachim W. Schmidt::Ingrid Wetzel:::Identification, Genericity and Consistency in Object-Oriented Databases.
+conf/ices/LangeheineBFMS01:::Jörg Langeheine::Joachim Becker::Simon Fölling::Karlheinz Meier::Johannes Schemmel:::Initial Studies of a New VLSI Field Programmable Transistor Array.
+conf/ices/HamiltonTT00:::Alister Hamilton::Peter Thomson::Morgan Tamplin:::Experiments in Evolvable Filter Design Using Pulse Based Programmable Analogue VLSI Models.
+conf/ices/LeungLC01:::Kwong-Sak Leung::Kin-Hong Lee::Sin Man Cheang:::Balancing Samples' Contributions on GA Learning.
+conf/ices/Kitano98:::Hiroaki Kitano:::Building Complex Systems Using Developmental Process: An Engineering Approach.
+conf/ices/Jimenez-Morales00:::Francisco Jiménez-Morales:::The Evolution of 3-d C. A. to Perform a Collective Behaviour Task.
+conf/ices/GreenstedT03:::Andrew J. Greensted::Andrew M. Tyrrell:::Fault Tolerance via Endocrinologic Based Communication for Multiprocessor Systems.
+conf/ices/YaoH96:::Xin Yao::Tetsuya Higuchi:::Promises and Challenges of Evolvable Hardware.
+conf/ices/HiguchiIKIHFM95:::Tetsuya Higuchi::Masaya Iwata::Isamu Kajitani::Hitoshi Iba::Yuji Hirao::Tatsumi Furuya::Bernard Manderick:::Evolvable Hardware and Its Applications to Pattern Recognition and Fault-Tolerant Systems.
+conf/ices/HaddowTR01:::Pauline C. Haddow::Gunnar Tufte::Piet van Remortel:::Shrinking the Genotype: L-systems for EHW?
+conf/ices/ZebulumPV98:::Ricardo Salem Zebulum::Marco Aurélio Cavalcanti Pacheco::Marley B. R. Vellasco:::Analog Circuits Evolution in Extrinsic and Intrinsic Modes.
+conf/ices/GarvieT03:::Miguel Garvie::Adrian Thompson:::Evolution of Self-diagnosing Hardware.
+conf/ices/MulawkaO98:::Jan J. Mulawka::Magdalena J. Ocwieja:::Molecular Inference via Unidirectional Chemical Reactions.
+conf/ices/Sanchez95:::Eduardo Sanchez:::Field Programmable Gate Array (FPGA) Circuits.
+conf/ices/MilletH00:::Philippe Millet::Jean-Claude Heudin:::Comparison between Three Heuristic Algorithms to Repair a Large-Scale MIMD Computer.
+conf/ices/MorishitaT96:::Takayuki Morishita::Iwao Teramoto:::Architecture of Cell Array Neuro-Processor.
+conf/ices/Tomassini95:::Marco Tomassini:::Evolutionary Algorithms.
+conf/ices/BradleyT00:::D. W. Bradley::Andrew M. Tyrrell:::Immunotronics: Hardware Fault Tolerance Inspired by the Immune System.
+conf/ices/HornbyTHFP00:::Gregory Hornby::Seiichi Takamura::Osamu Hanagata::Masahiro Fujita::Jordan B. Pollack:::Evolution of Controllers from a High-Level Simulator to a High DOF Robot.
+conf/icga/HuynenH89:::Martijn A. Huynen::Paulien Hogeweg:::Genetic Algorithms and Information Accumulation during the Evolution of Gene Regulation.
+conf/icga/Englander85:::Arnold C. Englander:::Machine Learning of Visual Recognition Using Genetic Algorithms.
+conf/icga/Calloway91:::David L. Calloway:::Using a Genetic Algorithm to Design Binary Phase-Only Filters for Pattern Recognition.
+conf/icga/Jong87:::Kenneth A. De Jong:::On Using Genetic Algorithms to Search Program Spaces.
+conf/icga/ThangiahVG93:::Sam R. Thangiah::Rajini Vinayagamoorty::Ananda V. Gubbi:::Vehicle Routing and Time Deadlines Using Genetic and Local Algorithms.
+conf/icga/Rogers95:::David Rogers:::Development of the Genetic Function Approximation Algorithm.
+conf/icga/Voget95:::Stefan Voget:::Epistasis in Periodic Programs.
+conf/icga/VoseL91:::Michael D. Vose::Gunar E. Liepins:::Schema Disruption.
+conf/icga/IshibuchiMT97:::Hisao Ishibuchi::Tadahiko Murata::Shigemitsu Tomioka:::Effectiveness of Genetic Local Search Algorithms.
+conf/icga/FedermanD97:::Francine Federman::Susan Fife Dorchak:::Information Theory and NEXTPITCH: A Learning Classifier System.
+conf/icga/Markus93:::András Márkus:::Dual Insights into Genetic Algorithms.
+conf/icga/OnoK97:::Isao Ono::Shigenobu Kobayashi:::A Real Coded Genetic Algorithm for Function Optimization Using Unimodal Normal Distributed Crossover.
+conf/icga/Schaffer85:::J. David Schaffer:::Learning Multiclass Pattern Discrimination.
+conf/icga/CarseFM95:::Brian Carse::Terence C. Fogarty::Alistair Munro:::Adaptive Distributed Routing Using Evolutionary Fuzzy Control.
+conf/icga/WhitleyGP95:::L. Darrell Whitley::Frédéric Gruau::Larry D. Pyeatt:::Cellular Encoding Applied to Neurocontrol.
+conf/icga/WhitleyMF91:::L. Darrell Whitley::Keith E. Mathias::Patrick A. Fitzhorn:::Delta Coding: An Iterative Search Strategy for Genetic Algorithms.
+conf/icga/Antonisse89:::Jim Antonisse:::A New Interpretation of Schema Notation that Overtums the Binary Encoding Constraint.
+conf/icga/Feldman93:::David S. Feldman:::Fuzzy Network Synthesis with Genetic Algorithms.
+conf/icga/MareskyDGAB95:::Jonathan Maresky::Yuval Davidor::Daniel Gitler::Gad Aharoni::Amnon Barak:::Selectively Destructive Re-start.
+conf/icga/Haynes97:::Thomas Haynes:::Phenotypical Building Blocks for Genetic Programming.
+conf/icga/SyswerdaP91:::Gilbert Syswerda::Jeff Palmucci:::The Application of Genetic Algorithms to Resource Scheduling.
+conf/icga/Handley93:::Simon Handley:::Automated Learning of a Detector for alpha-Helices in Protein Sequences via Genetic Programming.
+conf/icga/EshelmanS91:::Larry J. Eshelman::J. David Schaffer:::Preventing Premature Convergence in Genetic Algorithms by Preventing Incest.
+conf/icga/Tanese87:::Reiko Tanese:::Parallel Genetic Algorithms for a Hypercube.
+conf/icga/SchwehmO95:::Markus Schwehm::Alexander Ost:::Inference of Stochastic Regular Grammars by Massively Parallel Genetic Algorithms.
+conf/icga/SpiessensM91:::Piet Spiessens::Bernard Manderick:::A Massively Parallel Genetic Algorithm: Implementation and First Analysis.
+conf/icga/VavakJF97:::Frank Vavak::Ken Jukes::Terence C. Fogarty:::Adaptive Combustion Balancing in Multiple Burner Boiler Using a Genetic Algorithm with Variable Range of Local Search.
+conf/icga/StarkweatherMMWW91:::Timothy Starkweather::S. McDaniel::Keith E. Mathias::L. Darrell Whitley::C. Whitley:::A Comparison of Genetic Sequencing Operators.
+conf/icga/Janikow95:::Cezary Z. Janikow:::A Genetic Algorithm for Optimizing Fuzzy Decision Trees.
+conf/icga/SakamotoG97:::Yuji Sakamoto::David E. Goldberg:::Takeover Time in a Noisy Environment.
+conf/icga/Baluja93:::Shumeet Baluja:::Structure and Performance of Fine-Grain Parallelism in Genetic Search.
+conf/icga/MeysenburgF97:::Mark M. Meysenburg::James A. Foster:::The Quality of Pseudo-Random Number Generations and Simple Genetic Algorithm Performance.
+conf/icga/ManderickWS91:::Bernard Manderick::Mark K. de Weger::Piet Spiessens:::The Genetic Algorithm and the Structure of the Fitness Landscape.
+conf/icga/JanikowM91:::Cezary Z. Janikow::Zbigniew Michalewicz:::An Experimental Comparison of Binary and Floating Point Representations in Genetic Algorithms.
+conf/icga/RothL91:::Gerhard Roth::Martin D. Levine:::A Genetic Algorithm for Primitive Extraction.
+conf/icga/KarguptaS97:::Hillol Kargupta::Brian Stafford:::DNA To Protein: Transformations and Their Possible Role in Linkage Learning.
+conf/icga/PowellS93:::David Powell::Michael M. Skolnick:::Using Genetic Algorithms in Engineering Design Optimization with Non-Linear Constraints.
+conf/icga/Collins97:::Trevor D. Collins:::Using Software Visualisation Technology to Help Evolutionary Algorithm Users Validate Their Solutions.
+conf/icga/LouisR93:::Sushil J. Louis::Gregory J. E. Rawlins:::Pareto OptimalityGA-Easiness and Deception (Extended Abstract).
+conf/icga/DunayP95:::Bertrand Daniel Dunay::Frederick E. Petry:::Solving Complex Problems with Genetic Algorithms.
+conf/icga/Mason91:::Andrew J. Mason:::Partition Coefficients, Static Deception and Deceptive Problems for Non-Binary Alphabets.
+conf/icga/CrawfordW95:::Kelly D. Crawford::Roger L. Wainwright:::Applying Genetic Algorithms to Outlier Detection.
+conf/icga/Goldberg85:::David E. Goldberg:::Genetic Algorithms and Rules Learning in Dynamic System Control.
+conf/icga/GrefenstetteGRG85:::John J. Grefenstette::Rajeev Gopal::Brian J. Rosmaita::Dirk Van Gucht:::Genetic Algorithms for the Traveling Salesman Problem.
+conf/icga/CompianiMSS89:::Mario Compiani::Daniele Montanari::R. Serra::P. Simonini:::Asymptotic Dynamics of Classifier Systems.
+conf/icga/Oosthuizen89:::G. Deon Oosthuizen:::Machine Learning: A Mathematical Framework for Neural NetworkSymbolic and Genetics-Based Learning.
+conf/icga/ToddS97:::David S. Todd::Pratyush Sen:::A Multiple Criteria Genetic Algorithm for Containership Loading.
+conf/icga/OrvoshD93:::David Orvosh::Lawrence Davis:::Shall We Repair? Genetic AlgorithmsCombinatorial Optimizationand Feasibility Constraints.
+conf/icga/BlantonW93:::Joe L. Blanton Jr.::Roger L. Wainwright:::Multiple Vehicle Routing with Time and Capacity Constraints Using Genetic Algorithms.
+conf/icga/SrinivasP93:::M. Srinivas::Lalit M. Patnaik:::Binomially Distributed Populations for Modelling GAs.
+conf/icga/MaruyamaHK93:::Tsutomu Maruyama::Tetsuya Hirose::Akihiko Konagaya:::A Fine-Grained Parallel Genetic Algorithm for Distributed Parallel Systems.
+conf/icfp/HarperP00:::Robert Harper::Benjamin C. Pierce:::Advanced module systems: a guide for the perplexed (abstract of invited talk).
+conf/icfp/ZdancewicGM99:::Steve Zdancewic::Dan Grossman::J. Gregory Morrisett:::Principals in Programming Languages: A Syntactic Proof Technique.
+conf/icfp/KfouryMTW99:::A. J. Kfoury::Harry G. Mairson::Franklyn A. Turbak::J. B. Wells:::Relating Typability and Expressiveness in Finite-Rank Intersection Type Systems (Extended Abstract).
+conf/icfp/Shao97:::Zhong Shao:::Flexible Representation Analysis.
+conf/icfp/Howard96:::Brian T. Howard:::Inductive, Coinductive, and Pointed Types.
+conf/icfp/Yang98:::Zhe Yang:::Encoding Types in ML-Like Languages.
+conf/icfp/Turbak96:::Franklyn A. Turbak:::First-Class Synchronization Barriers.
+conf/icfp/LaunchburyLC99:::John Launchbury::Jeffrey R. Lewis::Byron Cook:::On Embedding a Microarchitectural Design Language within Haskell.
+conf/icfp/HughesP99:::John Hughes::Lars Pareto:::Recursion and Dynamic Data-structures in Bounded Space: Towards Embedded ML Programming.
+conf/icfp/FindlerF98:::Robert Bruce Findler::Matthew Flatt:::Modular Object-Oriented Programming with Units and Mixins.
+conf/icfp/Nilsson99:::Henrik Nilsson:::Tracing Piece by Piece: Affordable Debugging for Lazy Functional Languages.
+conf/icfp/CraryW99:::Karl Crary::Stephanie Weirich:::Flexible Type Analysis.
+conf/icfp/Ashley97:::J. Michael Ashley:::The Effectiveness of Flow Analysis for Inlining.
+conf/icfp/Lassila97:::Eero Lassila:::A Functional Macro Expansion System for Optimizing Code Generation: Gaining Context-Sensitivity without Losing Confluence.
+conf/icfp/TrifonovSS00:::Valery Trifonov::Bratin Saha::Zhong Shao:::Fully reflexive intensional type analysis.
+conf/icfp/Okasaki96:::Chris Okasaki:::The Role of Lazy Evaluation in Amortized Data Structures.
+conf/icfp/EdalatPS98:::Abbas Edalat::Peter John Potts::Philipp Sünderhauf:::Lazy Computation with Exact Real Numbers.
+conf/icfp/QueinnecR96:::Christian Queinnec::David De Roure:::Sharing Code through First-class Environments.
+conf/icfp/WalkerW01:::David Walker::Kevin Watkins:::On Regions and Linear Types.
+conf/icfp/FlattFKF99:::Matthew Flatt::Robert Bruce Findler::Shriram Krishnamurthi::Matthias Felleisen:::Programming Languages as Operating Systems (or Revenge of the Son of the Lisp Machine).
+conf/icfp/McAdam97:::Bruce J. McAdam:::BigTypes in ML.
+conf/icfp/Dornan97:::Chris Dornan:::Affordable Dynamic Types.
+conf/icfp/SkalkaS00:::Christian Skalka::Scott F. Smith:::Static enforcement of security with types.
+conf/icfp/GostanzaPN96:::Pedro Palao Gostanza::Ricardo Pena::Manuel Núñez:::A New Look to Pattern Matching in Abstract Data Types.
+conf/icgi/Belz02:::Anja Belz:::PCFG Learning by Nonterminal Partition Search.
+conf/icgi/CasacubertaH00:::Francisco Casacuberta::Colin De La Higuera:::Computational Complexity of Problems on Probabilistic Grammars and Transducers.
+conf/icgi/Oncina98:::José Oncina:::The Data Driven Approach Applied to the OSTIA Algorithm.
+conf/icgi/Giordano94:::Jean-Yves Giordano:::Inference of Context-Free Grammars by Enumeration: Structural Containment as an Ordering Bias.
+conf/icgi/JardinoA94:::Michèle Jardino::Gilles Adda:::Automatic Determination of a Stochastic Bi-Gram Class Language Model.
+conf/icgi/EmeraldST00:::J. D. Emerald::K. G. Subramanian::D. G. Thomas:::Inferring Subclasses of Contextual Languages.
+conf/icgi/StephanT00:::Frank Stephan::Sebastiaan Terwijn:::Counting Extensional Differences in BC-Learning.
+conf/icgi/DenisLT02:::François Denis::Aurélien Lemay::Alain Terlutte:::Some Classes of Regular Languages Identifiable in the Limit from Positive Data.
+conf/icgi/SempereF96:::Jose M. Sempere::Antonio Fos:::Learning linear grammars from structural information.
+conf/icgi/YoungS94:::S. J. Young::H.-H. Shih:::Computer Assisted Grammar Construction.
+conf/icgi/DupontC98:::Pierre Dupont::Lin Chase:::Using Symbol Clustering to Improve Probabilistic Automaton Inference.
+conf/icgi/ParekhH00:::Rajesh Parekh::Vasant Honavar:::On the Relationship between Models for Learning in Helpful Environments.
+conf/icgi/Casacuberta94:::Francisco Casacuberta:::Statistical Estimation of Stochastic Context-Free Grammars Using the Inside-Outside Algorithm and a Transformation on Grammars.
+conf/icgi/Blasig96:::Reinhard Blasig:::Discrete sequence prediction with commented Markov models.
+conf/icip/AkutsuTH95:::Akihito Akutsu::Yoshinobu Tonomura::H. Hamada:::VideoStyler: multi-dimensional video computing for eloquent media interface.
+conf/icip/ScheundersB97:::Paul Scheunders::Steve De Backer:::Joint Quantization and Error-Diffusion of Color Images Using Competitive Learning.
+conf/icip/BellersH00:::E. B. Bellers::G. de Haan:::Towards an Optimal Television Display Format.
+conf/icip/StrobelMM98:::Norbert Strobel::Sanjit K. Mitra::B. S. Manjunath:::Reversible Wavelet and Spectral Transforms for Lossless Compression of Color Images.
+conf/icip/CaoC00:::Lei Cao::Chang Wen Chen:::A Novel Product Coding and Decoding Scheme for Wireless Image Transmission.
+conf/icip/BluU97:::Thierry Blu::Michael Unser:::Quantitative L2 Error Analysis for Interpolation Methods and Wavelt Expansions.
+conf/icip/LecornuJR94:::Laurent Lecornu::Jean-José Jacq::Christian Roux:::Simultaneous Tracking of the Two Edges of Linear Structures.
+conf/icip/AbikoK99:::Toshimizu Abiko::Masayuki Kawamata:::Ifs Coding of Non-Homogeneous Fractal Images Using Grobner Bases.
+conf/icip/Hioki00:::Hirohisa Hioki:::Adaptive Light Projection and Highlight Analysis Method for Measuring Three-Dimensional Scene.
+conf/icip/GrossD95:::Mark D. Gross::Ellen Yi-Luen Do:::Diagram query and image retrieval in design.
+conf/icip/Lucchese00:::Luca Lucchese:::A New Method for Perspective View Registration.
+conf/icip/DasA95:::M. Das::J. Anand:::Robust edge detection in noisy images using an adaptive stochastic gradient technique.
+conf/icip/PattiST94:::Andrew J. Patti::M. Ibrahim Sezan::A. Murat Tekalp:::High-Resolution Image Reconstructionfrom a Low-Resolution Image Sequence in the Presence of Time-Varying Motion Blur.
+conf/icip/ChenDL00:::Ming Chen::Xiaoqing Ding::Jian Liang:::Analysis, Understanding and Representation of Chinese Newspaper with Complex Layout.
+conf/icip/HarperR00:::Peter Harper::Richard B. Reilly:::Color Based Video Segmentation Using Level Sets.
+conf/icip/ConnollyL97:::Thomas J. Connolly::Richard G. Lane:::Gradient Methods for Superresolution.
+conf/icip/ConnollyL98:::Thomas J. Connolly::Richard G. Lane:::Constrained Regularization Methods for Superresolution.
+conf/icip/YangHTN00:::Seungjoon Yang::Yu Hen Hu::Damon L. Tull::Truong Q. Nguyen:::Maximum Likelihood Parameter Estimation for Image Ringing Artifact Removal.
+conf/icip/RackyP99:::Jens Racky::Madhukar Pandit:::Active Illumination for the Segmentation of Surface Deformations.
+conf/icip/BasuC94:::Sankar Basu::Han-Mook Choi:::Multidimensional Causal, Stable, Perfect Reconstruction Filter Banks.
+conf/icip/RuttimannRHTU95:::U. E. Ruttimann::N. F. Ramsey::D. W. Hommer::Philippe Thévenaz::Chulhee Lee::Michael Unser:::Analysis of functional magnetic resonance images by wavelet decomposition.
+conf/icip/KundurH97:::Deepa Kundur::D. Hatzinakos:::A Robust Digital Image Watermarking Scheme Using the Wavelet-Based Fusion.
+conf/icip/AltunbasakOF97:::Yucel Altunbasak::Remzi Öten::Rui J. P. deFigueiredo:::Simultaneous Object Segmentation, Multiple Object Tracking and Alpha Map Generation.
+conf/icip/KapoutsisVP98:::C. A. Kapoutsis::C. P. Vavoulidis::Ioannis Pitas:::Morphological Techniques in the Iterative Closest Point Algorithm.
+conf/icip/DufourM98:::Roger M. Dufour::Eric L. Miller:::Image Restoration with 1/f-Type Fractal Models and Statistical Estimation of the ModelsParameters.
+conf/icip/ZhangHRBP94:::Xining Zhang::Robert M. Haralick::Visvanathan Ramesh::Anand S. Bedekar::Ihsin T. Phillips:::A Bayesian Corner Detector.
+conf/icip/Guillemaud98:::Régis Guillemaud:::Uniformity Correction with Homomorphic Filtering on Region of Interest.
+conf/icip/PeronaT94:::Pietro Perona::Marco Tartagni:::Diffusion Networks for On-Chip Image Contrast Normalization.
+conf/icip/KubotaKA99:::Akira Kubota::Kazuya Kodama::Kiyoharu Aizawa:::Registration and Blur Estimation Methods for Multiple Differently Focused Images.
+conf/icip/Siebert98:::Andreas Siebert:::A Linear Shift Invariant Multiscale Transform.
+conf/icip/BeckD94:::Steven D. Beck::Larry M. Deuser:::Automatic Classification of Acoustic Sequences by Multiresolution Image Processing and Neural Networks.
+conf/icip/Hero99:::Alfred O. Hero III:::On the Problem of Granulometry for a Degraded Boolean Image Model.
+conf/icip/SappaGV00:::Angel Domingo Sappa::Miguel Angel García::Boris Xavier Vintimilla:::Geometric and Topological Lossy Compression of Dense Range Images.
+conf/icip/MorikawaO00:::Kotoko Morikawa::Koichi Ogawa:::Comparative Study on Statistical Image Reconstruction Combined with Modification of the Number of Projections.
+conf/icip/HoFW98:::Terrence T. Ho::Paul W. Fieguth::Alan S. Willsky:::Computationally Efficient Multiscale Estimation of Large-Scale Dynamic Systems.
+conf/icip/Eom00:::Kie-Bum Eom:::Contour Analysis Using Time-Varying Autoregressive Model.
+conf/icip/ChiouH94:::Greg I. Chiou::Jenq-Neng Hwang:::Image Sequence Classification Using a Neural Network Based Active Contour Model and a Hidden Markov Model.
+conf/icip/WilsonMCK98:::Roland Wilson::Peter Meulemans::Andrew Calway::Stefan Krüger:::Image Sequence Analysis and Segmentation using G-blobs.
+conf/icip/LiO00:::Xin Li::Michael T. Orchard:::New Edge Directed Interpolation.
+conf/icip/HuWC94:::Jian-Hong Hu::Yao Wang::Patrick Cahill:::Segmentation Based Linear Predictive Coding of Mulitspectral Images.
+conf/icip/HuZK99:::Po-Chin Hu::Zhi-Li Zhang::Mostafa Kaveh:::A Framework for Proxy-Based Receiver Adaptation for Layered Video Transmission in Multicast Networks.
+conf/icip/WangB94:::Han Wang::Michael Brady:::A Practical Solution to Corner Detection.
+conf/icip/Ohm94:::Jens-Rainer Ohm:::Motion-Compensated 3-D Subband Coding with Multiresolution Representation of Motion Parameters.
+conf/icip/SuG99:::Jonathan K. Su::Bernd Girod:::Power Spectrum Condition for Energy-Efficient Watermarking.
+conf/icip/KenmochiKI99:::Yukiko Kenmochi::Kazunori Kotani::Atsushi Imiya:::Marching Cubes Method with Connectivity.
+conf/icip/Wei99:::Jie Wei:::On Illumination Invariant Image Indexing from Compressed Domain Using XYX-Luv Transform.
+conf/icip/WuD94:::Chi-hsin Wu::Peter C. Doerschuk:::Bayesian Spatial Classifiers Based on Tree Approximations to Markov Random Fields.
+conf/icip/Xia94:::Franck Xia:::Knowledge-Based Sub-Pattern Segmentation: Decomposition of Chinese Characters.
+conf/icip/BonnaudL97:::L. Bonnaud::Claude Labit:::Multiple Occluding Objects Tracking Using a Non-Redundant Boundary-Based Representation for Image Sequence Interpolation After Decoding.
+conf/icip/JooB95:::Kyung Sub Joo::Tamal Bose:::Two-dimensional periodic digital filters.
+conf/icip/Llados-BernausS98:::Ramon Llados-Bernaus::Robert L. Stevenson:::Computationally Efficient Fixed-Length Entropy Codec for Robust Video Compression.
+conf/icip/KimB00:::Hae Yong Kim::Paulo S. L. M. Barreto:::Fast Binary Image Resolution Increasing by K-Nearest Neighbor Learning.
+conf/icip/LaiC99:::Jim Z. C. Lai::Chia-Chi Chen:::Color Image Halftoning with the Dot Overlap Printer Model.
+conf/icip/LaiF95:::George C. Lai::Rui J. P. deFigueiredo:::Image interpretation using contextual feedback.
+conf/icip/LaiZ99:::Pak-Cheung Lai::Bing Zeng:::Threshold Pattern Filters for Image Enhancement.
+conf/icip/DintenDK94:::Jean-Marc Dinten::Pascal Dziopa::Anne Koenig:::X-Rays Image Analysis for Defects Detection and Characterization in Metallic Samples.
+conf/icip/KocL94:::Ut-Va Koc::K. J. Ray Liu:::Discrete-Cosine/Sine-Transform Based Motion Estimation.
+conf/icip/LeeD94:::Jungwoo Lee::Bradley W. Dickinson:::Joint Optimization of Frame Type Selection and Bit Allocation for MPEG Video Encoders.
+conf/icip/LeeZ99:::Chi-Man Lee::Bing Zeng:::A Novel Interpolation Scheme for Rectangularly-Subsampled Images.
+conf/icip/Boccignone97:::Giuseppe Boccignone:::A Multiscale Contrast Enhancement Method.
+conf/icip/LiK97a:::Jiankun Li::C. C. Jay Kuo:::Embedded Coding of 3D Graphic Models.
+conf/icip/LiWZ99:::Shen Li::Wei-Pu Xuhui Wang::Nan-Ning Zheng:::A Novel Fast Motion Estimation Method Based on Genetic Algorithm.
+conf/icip/FerreiraM00:::Vital C. Ferreira::Nelson D. A. Mascarenhas:::Analysis of the Robustness of Iterative Restoration Methods with Respect to Variations of the Point Spread Function.
+conf/icip/FerreiraU95:::Afonso Ferreira::Stéphane Ubeda:::Parallel complexity of the medial axis computation.
+conf/icip/MaLH99:::Bing Ma::Sridhar Lakshmanan::Alfred O. Hero III:::Road and Lane Edge Detection with Multisensor Fusion Methods.
+conf/icip/LimH99:::Dong-Keun Lim::Yo-Sung Ho:::Image Segmentation Using Hierachical Meshes.
+conf/icip/LiuD97:::Sheng Liu::Edward J. Delp:::Multiresolution Detection of Stellate Lesions in Mammograms.
+conf/icip/LiuK00:::Zhen Liu::Lina J. Karam:::An Efficient Embedded Zerotree Wavelet Image Codec Based on Intraband Partitioning.
+conf/icip/Kuhn00:::Peter M. Kuhn:::Camera Motion Estimation Using Feature Points in MPEG Compressed Domain.
+conf/icip/SalembierS97:::P. Salembier::Henri Sanson:::Robust Motion Estimation Using Connected Operators.
+conf/icip/Hsieh95:::Jiang Hsieh:::A 2pi interpolative algorithm for helical computed tomography.

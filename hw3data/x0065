@@ -1,0 +1,200 @@
+conf/icpr/WilliamsB00:::John A. Williams::Mohammed Bennamoun:::Evaluation of a Novel Multiple Point Set Registration Algorithm.
+conf/icpr/DahmenKGN00:::Jörg Dahmen::Daniel Keysers::Mark Oliver Güld::Hermann Ney:::Invariant Image Object Recognition Using Mixture Densities.
+conf/icpr/WalterA00:::Jörg A. Walter::Bert Arnrich:::Gabor Filters for Object Localization and Robot Grasping.
+conf/icpr/MossH00:::Simon Moss::Edwin R. Hancock:::Alignment and Correspondence Using Markov Chain Monte Carlo.
+conf/icpr/PuigTN00:::Anna Puig::Dani Tost::Isabel Navazo:::Features Detection and Navigation on Neurovascular Trees.
+conf/icpr/FredL00:::Ana L. N. Fred::José M. N. Leitão:::Clustering Under a Hypothesis of Smooth Dissimilarity Increments.
+conf/icpr/Boujemaa00:::Nozha Boujemaa:::On Competitive Unsupervised Clustering.
+conf/icpr/KumarSR00:::Pankaj Kumar::Kuntal Sengupta::Surendra Ranganath:::Real Time Detection and Recognition of Human Profiles Using Inexpensive Desktop Cameras.
+conf/icpr/SherrahG00:::Jamie Sherrah::Shaogang Gong:::VIGOUR: A System for Tracking and Recognition of Multiple People and their Activities.
+conf/icpr/dOrnellas00:::Marcos Cordeiro d'Ornellas:::A Multi-Scale Gradient Approach for Color-Based Morphological Segmentation.
+conf/icpr/SanfeliuAS00:::Alberto Sanfeliu::René Alquézar::Francesc Serratosa:::Clustering of Attributed Graphs and Unsupervised Synthesis of Function-Described Graphs.
+conf/icpr/SorianoMHL00:::Maricor Soriano::Birgitta Martinkauppi::Sami Huovinen::Mika Laaksonen:::Skin Detection in Video under Changing Illumination Conditions.
+conf/icpr/KwanCG00:::F. Y. Kwan::K. C. Cheung::I. Gibson:::Automatic Extraction of Bone Boundaries from CT Scans Using an Intelligence-Based Approach.
+conf/icpr/TanakaTK00:::Norihiro Tanaka::Shoji Tominaga::Toshiyuki Kawai:::Estimation of the Torrance-Sparrow Reflection Model from a Single Multi-Band Image.
+conf/icpr/XiongC00:::Xuejian Xiong::Kap Luk Chan:::Towards An Unsupervised Optimal Fuzzy Clustering Algorithm for Image Database Organization.
+conf/icpr/SanchezM00:::A. J. Sánchez::J. A. Marchant:::Fusing 3D Information for Crop/Weeds Classification.
+conf/icpr/NodaK00:::Hideki Noda::Eiji Kawaguchi:::Adaptive Speaker Identification Using Sequential Probability Ratio Test.
+conf/icpr/KashinoKM00:::Kunio Kashino::Takayuki Kurozumi::Hiroshi Murase:::Feature Fluctuation Absorption for a Quick Audio Retrieval from Long Recordings.
+conf/icpr/GomezSM00:::G. Gómez::Luis Enrique Sucar::José L. Marroquín:::Probabilistic Estimation of Local Scale.
+conf/icpr/BigorgneAD00:::Erwan Bigorgne::Catherine Achard::Jean Devars:::An Invariant Local Vector for Content-Based Image Retrieval.
+conf/icpr/AbeM00:::Toru Abe::Yuki Matsuzawa:::Multiple Active Contour Models with Application to Region Extraction.
+conf/icra/NenchevTU99:::Dragomir N. Nenchev::Yuichi Tsumaki::Masaru Uchiyama:::Real-Time Motion Control in the Neighborhood of Singularities: A Comparative Study Between the SC and the DLS Method.
+conf/icra/BorgstadtF00:::Justin A. Borgstadt::Nicola J. Ferrier:::Interception of a Projectile Using a Human Vision-Based Strategy.
+conf/icra/WilliamsDD02:::Stefan B. Williams::Gamini Dissanayake::Hugh F. Durrant-Whyte:::Towards Multi-Vehicle Simultaneous Localisation and Mapping.
+conf/icra/NelsonK94:::Bradley J. Nelson::Pradeep K. Khosla:::Integrating Sensor Placement and Visual Tracking Strategies.
+conf/icra/OgataS99:::Tetsuya Ogata::Shigeki Sugano:::Emotional Communication Between Humans and the Autonomous Robot Which Has the Emotion Model.
+conf/icra/MillerCF99:::Brian E. Miller::J. Edward Colgate::Randy Freeman:::Passive Implementations for a Class of Static Nonlinear Environments in Haptic Display.
+conf/icra/CaoK98:::Meifen Cao::Atsuo Kawamura:::A Design Method of Neural Oscillatory Networks for Generation of Humanoid Biped Walking Patterns.
+conf/icra/YesinNPVK00:::Kemal Berk Yesin::Bradley J. Nelson::Nikolaos Papanikolopoulos::Richard M. Voyles::Donald Krantz:::Active Video System for a Miniature Reconnaissance Robot.
+conf/icra/BernabeuT00:::Enrique J. Bernabeu::Josep Tornero:::Real-Time Generation of Collision-Free Paths for a Mobile Sphere.
+conf/icra/SongXNY98:::Jingyan Song::Yangsheng Xu::Michael C. Nechyba::YeungYam:::Two Performances Measures for Evaluating Human Control Strategy.
+conf/icra/GuanZ00:::Yisheng Guan::Hong Zhang:::Kinematic Graspability of a 2D Multifingered Hand.
+conf/icra/KawaiY01:::Masayuki Kawai::Tsuneo Yoshikawa:::A New Haptic Interface Device Capable of Continuous-Time Impedance Display within Sampling-Period: Application to Hard Surface Display.
+conf/icra/HagenK02:::Stephan ten Hagen::Ben J. A. Kröse:::Trajectory Reconstruction for Self-Localization and Map Building.
+conf/icra/LeeLSKKRB99:::Sukhan Lee::Jae-Won Lee::Dongmok Shin::Woong Kwon::Dong Yoon Kim::Kyoung Sig Roh::Kwang S. Boo:::Estimation of Vehicle Pose and Road Curvature Based on Perception-Net.
+conf/icra/MunozG98:::Antonio J. Muñoz::Javier Gonzalez:::Dimensional Landmark-Based Position Estimation from a Single Image.
+conf/icra/FischerSH98:::Max Fischer::P. Patrick van der Smagt::Gerd Hirzinger:::Learning Techniques in a Dataglove Based Telemanipulation System for the DLR Hand.
+conf/icra/InamuraNET01:::Tetsunari Inamura::Yoshihiko Nakamura::Hideaki Ezaki::Iwaki Toshima:::Imitation and Primitive Symbol Acquisition of Humanoids by the Integrated Mimesis Loop.
+conf/icra/ChenC02a:::Ju-Kau Chen::Allan Chen:::ATS Advanced Planning and Scheduling System.
+conf/icra/RobertsDCSWC00:::Jonathan M. Roberts::Elliot S. Duff::Peter I. Corke::Pavan Sikka::Graeme J. Winstanley::Jock Cunningham:::Autonomous Control of Underground Mining Vehicles using Reactive Navigation.
+conf/icra/ChenM00a:::Yixin Chen::John E. McInroy:::Identification and Decoupling Control of Flexure Jointed Hexapods.
+conf/icra/HooverO99:::Adam Hoover::Bent David Olsen:::A Real-Time Occupancy Map from Multiple Video Streams.
+conf/icra/SchmoeckelW01:::Ferdinand Schmoeckel::Heinz Wörn:::Remotely Controllable Mobile Microrobots Acting as Nano Positioners and Intelligent Tweezers in Scanning Electron Microscopes (SEMs).
+conf/icra/MezouarRGC02:::Youcef Mezouar::Anthony Remazeilles::Patrick Gros::François Chaumette:::Images Interpolation for Image-Based Control under Large Displacement.
+conf/icra/MaedaTHA01:::Yusuke Maeda::Atsushi Takahashi::Takayuki Hara::Tamio Arai:::Human-Robot Cooperation with Mechanical Interaction Based on Rhythm Entrainment -Realization of Cooperative Rope Turning.
+conf/icra/YamaneOKN98:::Katsu Yamane::Masafumi Okada::N. Komine::Yoshihiko Nakamura:::Parallel Dynamics Computation and H-infinity Acceleration Control of Parallel Manipulators for Acceleration Display.
+conf/icra/RidaoGAC01:::Pere Ridao::Joan Batlle Grabulosa::Josep Amat::Marc Carreras:::A Distributed Environment for Virtual and/or Real Experiments for Underwater Robots.
+conf/icra/JenkinMTD93:::Michael Jenkin::Evangelos E. Milios::John K. Tsotsos::Brian Down:::A Binocular Robotic Head System with Torsional Eye Movements.
+conf/icra/FoxBTC98:::Dieter Fox::Wolfram Burgard::Sebastian Thrun::Armin B. Cremers:::A Hybrid Collision Avoidance Method for Mobile Robots.
+conf/icra/Russell99:::R. Andrew Russell:::Ant Trails -- An Example for Robots to Follow?.
+conf/icra/HaliyoRR02:::D. Sinan Haliyo::Yves Rollot::Stephane Régnier:::Manipulation of Micro-Objects using Adhesion Forces and Dynamical Effects.
+conf/icra/SinghPWY00:::Hanumant Singh::Oscar Pizarro::Louis L. Whitcomb::Dana Yoerger:::In-Situ Attitude Calibration for High Resolution Bathymetric Surveys with Underwater Robotic Vehicles.
+conf/icra/BicchiM00:::Antonio Bicchi::Alessia Marigo:::Rolling Contacts and Dexterous Manipulation.
+conf/icra/SinghSGS94:::Leena Singh::Andrew Silverthorne::Susan Gottschlich::Harry E. Stephanou:::Variably-Autonomous Manipulation.
+conf/icra/HiroseTY01:::Shigeo Hirose::Hideyuki Tsukagoshi::Kan Yoneda:::Normalized Energy Stability Margin and its Contour of Walking Vehicles on Rough Terrain.
+conf/icra/MinguezMSA01:::Javier Minguez::Luis Montano::Thierry Siméon::Rachid Alami:::Global Nearness Diagram Navigation (GND).
+conf/icra/BejiAP98:::L. Beji::A. Abichou::M. Pascal:::Tracking Control of a Parallel Robot in the Task Space.
+conf/icra/MosemannBWS00:::Heiko Mosemann::T. Bierwirth::Friedrich M. Wahl::Sascha Stoeter:::Generating Polyhedral Convex Cones from Contact Graphs for the Identification of Assembly Process States.
+conf/icra/MitsudaKWK02:::Takashi Mitsuda::Sachiko Kuge::Masato Wakabayashi::Sadao Kawamura:::Haptic Displays Implemented by Controllable Passive Elements.
+conf/icra/Zhuang94:::Hanqi Zhuang:::A Self-Calibration Approach to Extrinsic Parameter Estimation of Stereo Cameras.
+conf/icra/NahviHH94:::Ali Nahvi::John M. Hollerbach::Vincent Hayward:::Calibration of a Parallel Robot Using Multiple Kinematic Closed Loops.
+conf/icra/StilwellB94:::Daniel J. Stilwell::John S. Bay:::Optimal Control for Cooperating Mobile Robots Bearing a Common Load.
+conf/icra/MiyaguchiI94:::H. Miyaguchi::K. Iwama:::A Strategy of Assembly Task Execution in the Presence of Uncertainties.
+conf/icra/YamamotoF02:::Yoshio Yamamoto::Shinsuke Fukuda:::Trajectory Planning of Multiple Mobile Manipulators with Collision Avoidance Capability.
+conf/icra/YamamotoY99:::Yoshio Yamamoto::Xiaoping Yun:::Unified Analysis on Mobility and Manipulability of Mobile Manipulators.
+conf/icra/Omata98:::Toru Omata:::Learning with Assistance based on Evolutionary Computation.
+conf/icra/HanV98:::Kwun Han::Manuela M. Veloso:::Reactive Visual Control of Multiple Non-Holonomic Robotic Agents.
+conf/icra/JeongKK98:::Jae-Won Jeong::Soo-Hyun Kim::Yoon-Keun Kwak:::Design and Kinematic Analysis of the Wire Parallel Mechanism for a Robot Pose Measurement.
+conf/icra/PonceSBM93:::Jean Ponce::Steve Sullivan::Jean-Daniel Boissonnat::Jean-Pierre Merlet:::On Characterizing and Computing Three- and Four-Finger Force-Closure Grasps of Polyhedral Objects.
+conf/icra/MessinaR98:::L. C. P. Messina::Ney Robinson S. dos Reis:::Undersea Robotics Activities in a Petroleum Company Research Center.
+conf/icra/JiD01:::Qiang Ji::Songtao Dai:::A New Technique for Camera Self-Calibration.
+conf/icra/Kim93:::Won S. Kim:::Graphical Operator Interface for Space Telerobotics.
+conf/icra/LiY99:::Tsai-Yen Li::Tzong-Hann Yu:::Planning Tracking Motions for an Intelligent Virtual Camera.
+conf/icra/Liu01:::Guangjun Liu:::Decomposition-Based Friction Compensation Using a Parameter Linearization Approach.
+conf/icra/KuniyoshiKRSIK94:::Yasuo Kuniyoshi::Nobuyuki Kita::Sebastien Rougeaux::Shigeyuki Sakane::Masaru Ishii::Masayoshi Kakikura:::Cooperation by Observation - The Framework and Basic Task Patterns.
+conf/icra/HuYC02:::Eric Hu::Simon X. Yang::David K. Y. Chiu:::A Non-Time Based Tracking Controller for Multiple Nonholonomic Mobile Robots.
+conf/icra/LuS00:::Ziyi Lu::Bertram Emil Shi:::Visual Tracking with Subpixel Resolution using an Analog VLSI Computational Sensor.
+conf/icra/WangC00:::Yunfeng Wang::Gregory S. Chirikjian:::A New Potential Field Method for Robot Path Planning.
+conf/icra/WangK00:::Geng Wang::Imin Kao:::Intelligent Soft Contact Surface Technology with MEMS in Robotic and Human Augmented Systems.
+conf/icra/WangR93:::Fei-Yue Wang::Jeffery L. Russell:::Minimum-Weight Robot Arm for a Specified Fundamental Frequency.
+conf/icra/PrevasUEK02:::Konstantine C. Prevas::Cem Ünsal::Mehmet Önder Efe::Pradeep K. Khosla:::A Hierarchical Motion Planning Strategy for a Uniform Self-Reconfigurable Modular Robotic System.
+conf/icra/WardZ98:::Koren Ward::Alexander Zelinsky:::Acquiring Mobile Robot Behaviors by Learning Trajectory Velocities with Multiple FAM Matrices.
+conf/icra/MichelmanA94:::Paul Michelman::Peter K. Allen:::Forming Complex Dextrous Manipulations from Task Primitives.
+conf/icra/TakanobuMTOO00:::Hideaki Takanobu::Takeo Maruyama::Atsuo Takanishi::Kayoko Ohtsuki::Masatoshi Ohnishi:::Mouth Opening and Closing Training with 6-DOF Parallel Robot.
+conf/icra/RamirezZ00:::Gabriel Ramírez::Saïd Zeghloul:::A New Local Path Planner for Nonholonomic Mobile Robot Navigation in Cluttered Environments.
+conf/icra/XuY02:::Heting Xu::Simon X. Yang:::Real-Time Collision-Free Motion Planning of Nonholonomic Robots using a Neural Dynamics Based Approach.
+conf/icra/Yim94:::Mark Yim:::New Locomotion Gaits.
+conf/icra/KimF99:::Kyunghwan Kim::Nicola J. Ferrier:::Distributed Control Scheme for Motor Networks with Communication-Constrained Channels.
+conf/icra/KimL01:::Won Kim::Ju-Jang Lee:::Visual Tracking using Snake for Object's Discrete Motion.
+conf/icra/KimZ98:::Kab I. Kim::Yuan F. Zheng:::Human-Robot Coordination with Rotational Motion.
+conf/icra/ForetXF00:::Jerome Foret::Ming Xie::Jean-Guy Fontaine:::Bordered Matrix for Singularity Robust Inverse Kinematics: A Methodological Aspect.
+conf/icra/ChittaO02:::Sachin Chitta::James P. Ostrowski:::Motion Planning for Heterogeneous Modular Mobile Systems.
+conf/icra/Lee02a:::Ti-Chung Lee:::Practical Stabilization for Nonholonomic Chained Systems with Fast Convergence, Pole-Placement and Robustness.
+conf/icra/LeeA94:::Sooyong Lee::Haruhiko Asada:::Assembly of Parts with Irregular Surfaces Using Active Force Sensing.
+conf/icra/LeeK94:::Sukhan Lee::Sungbok Kim:::Kinematic Feature Analysis of Parallel Manipulator Systems.
+conf/icra/LeeL00:::Jae-Won Lee::Sukhan Lee:::A New Data Fusion Method and its Application to State Estimation of Nonlinear Dynamic Systems.
+conf/icra/LeeR99:::Sukhan Lee::Sookwang Ro:::Self-Calibration of Eye-Hand System Based on Geometric Method with Perception Net.
+conf/icra/GodboleSG00:::Datta N. Godbole::Tariq Samad::Vipin Gopal:::Active Multi-Model Control for Dynamic Maneuver Optimization of Unmanned Air Vehicles.
+conf/icra/LeeY98:::Sukhan Lee::Chunsik Yi:::An Analytic Approach to Assemblability Analysis.
+conf/icra/GiengerLP00:::Michael Gienger::Klaus Löffler::Friedrich Pfeiffer:::A Biped Robot that Jogs.
+conf/icra/LargeSLG00:::Fred Large::Sepanta Sekhavat::Christian Laugier::Eric Gauthier:::Towards Robust Sensor-Based Maneuvers for a Car-Like Vehicle.
+conf/icra/LiZC99:::Chun Li::Zhiqiang Zheng::Wensen Chang:::A Decentralized Approach to the Conflict-Free Motion Planning for Multiple Mobile Robots.
+conf/icra/LinG00:::Sheng Lin::Andrew A. Goldenberg:::Robust Damping Control of Wheeled Mobile Robots.
+conf/icra/CannyG94:::John F. Canny::Kenneth Y. Goldberg:::"RISC" for Industrial Robotics: Recent Results and Open Problems.
+conf/icra/YazarelCL02:::H. Yazarel::Chien C. Cheah::H. C. Liaw:::Adaptive SP-D Control of Robots with Structural Uncertainty in Gravity Regressor Matrix: Theory and Experiment.
+conf/icra/LilienthalZWW01:::Achim Lilienthal::Andreas Zell::Michael Wandel::Udo Weimar:::Sensing Odour Sources in Indoor Environments Without a Constant Airflow by a Mobile Robot.
+conf/icra/DrocourtDMC02:::Cyril Drocourt::Laurent Delahoche::Bruno Marhic::Arnaud Clerentin:::Simultaneous Localization and Map Construction Method using Omnidirectional Stereoscopic Information.
+conf/icra/AghiliBH01:::Farhad Aghili::Martin Buehler::John M. Hollerbach:::Quadratic Programming in Control of Brushless Motors.
+conf/icra/Hsieh02:::Fu-Shiung Hsieh:::Optimal Deadlock Avoidance Policy for Reentrant Work Flows.
+conf/icra/TadokoroFFKKTO98:::Satoshi Tadokoro::Satoshi Fuji::Mitsuaki Fushimi::Ryu Kanno::Tetsuya Kimura::Toshi Takamori::Keisuke Oguro:::Development of a Distributed Actuation Device Consisting of Soft Gel Actuator Elements.
+conf/icra/GuilloG00:::Eric Guillo::Maxime Gautier:::Dynamic Modeling and Identification of Earthmoving Engines without Kinematic Constraints: Application to the Compactor.
+conf/icra/KoseckaB94:::Jana Kosecka::Luca Bogoni:::Application of Discrete Events Systems for Modeling and Controlling Robotic Agents.
+conf/icra/MoonLK01:::Chanwoo Moon::Beom Hee Lee::M. S. Kim:::PLC Based Coordination Schemes for a Multi-robot System.
+conf/icra/KoseckaZ02:::Jana Kosecka::Wei Zhang:::Efficient Computation of Vanishing Points.
+conf/icra/CarlisleGRW94:::Brian Carlisle::Kenneth Y. Goldberg::Anil S. Rao::Jeff Wiegley:::A Pivoting Gripper for Feeding Industrial Parts.
+conf/icra/LuoT02:::Ren C. Luo::Jyh Hwa Chou:::Investigation of a Linear 2-D Planar Motor Based Rapid Tooling System.
+conf/icra/GrupenH93:::Roderic A. Grupen::Manfred Huber:::2-D Contact Detection and Localization Using Proprioceptive Information.
+conf/icra/RedonKC02:::Stephane Redon::Abderrahmane Kheddar::Sabine Coquillart:::Gauss' Least Constraints Principle and Rigid Body Simulations.
+conf/icra/PinoBF99:::L. Pino::F. Bennis::C. Fortin:::The Use of Kinematic Model to Analyze Positional Tolerances in Assemblies.
+conf/icra/HwangWBCSH94:::James Hwang::Eugene Wu::Alan Bell::Andy Cordell::LeBarian Stokes::Scott Hankins:::Design of a SPDM-Like Robotic Manipulator System for Space Station on Orbit Replaceable Unit Ground Testing - An Overview of the System Architecture.
+conf/icra/Huang01:::Wesley H. Huang:::Optimal Line-sweep-based Decompositions for Coverage Algorithms.
+conf/icra/WangBD94:::J. Wang::W. N. Bailey::S. J. Dodds:::A New Sliding Mode Approach to the Robust Control of Robotic Manipulators with Dynamic Uncertainties.
+conf/icra/ChaudhuryM93:::K. Chaudhury::R. Mehrotra:::Optical Flow from an Extended Frame Sequence.
+conf/icra/CheahKAL99:::Chien C. Cheah::Sadao Kawamura::Suguru Arimoto::K. Lee:::PID Control of Robotic Manipulator with Uncertain Jacobian Matrix.
+conf/icra/WangSQ98:::Xiao-gang Wang::Helen C. Shen::Wen-Han Qian:::A Hypothesis Testing Method for Multisensory Data Fusion.
+conf/icra/FasoulasD02:::John Fasoulas::Zoe Doulgeri:::Object Stable Grasping Control by Dual Robotic Fingers with Soft Rolling Contacts.
+conf/icra/LiuWWYL01:::G. F. Liu::Y. L. Wu::X. Z. Wu::Y. K. Yiu::Z. X. Li:::Analysis and Control of Redundant Parallel Manipulators.
+conf/icra/HungO01:::Min-Hsiung Hung::David E. Orin:::Dynamic Simulation of Actively-Coordinated Wheeled Vehicle Systems on Uneven Terrain.
+conf/icra/Caine94:::Michael Caine:::The Design of Shape Interactions Using Motion Constraints.
+conf/icra/ZanganehH98:::Kourosh E. Zanganeh::Peter C. Hughes:::Fast Estimation of the Kinematics of Parallel Modules of a Variable-Geometry-Truss Manipulator Using Neural Networks.
+conf/icra/PichlerVAMH02:::Andreas Pichler::Markus Vincze::Henrik Andersen::Ole Lehrmann Madsen::Kurt Häusler:::A Method for Automatic Spray Painting of Unknown Parts.
+conf/icra/PollardB00:::Nancy S. Pollard::Fareed Behmaram-Mosavat:::Force-Based Motion Editing for Locomotion Tasks.
+conf/icra/JarrahA99:::M. A. Jarrah::Omar M. Al-Jarrah:::Position Control of a Robot Manipulator Using Continuous Gain Scheduling.
+conf/icra/J?gersand99:::Martin J?gersand:::Image Based Predictive Display for Tele-Manipulation.
+conf/icra/JainR00:::Abhinandan Jain::Guillermo Rodriguez:::Computational Robot Dynamics Using Spatial Operators.
+conf/icra/JainR93:::Alhinandan Jain::Guillermo Rodriguez:::Decoupled Dynamics of Space Manipulators.
+conf/icra/CasalinoABM01:::Giuseppe Casalino::Damiano Angeletti::Tommaso Bozzo::Giacomo Marani:::Dexterous Underwater Object Manipulation via Multirobot Cooperating Systems.
+conf/icra/SchultzA98:::Alan C. Schultz::William Adams:::Continuous Localization Using Evidence Grids.
+conf/icra/SekhavatHR01:::Sepanta Sekhavat::Jorge Hermosillo::Pierre Rouchon:::Motion planning for a Bi-steerable Car.
+conf/icra/CelinskiM99a:::Tomasz Celinski::Brenan J. McCarragher:::Improving Sensory Perception Through Predictive Correction of Monitoring Errors.
+conf/icra/AignerM98:::Peter Aigner::Brenan J. McCarragher:::Shared Control Framework Applied to a Robotic Aid for the Blind.
+conf/icra/ShovalZG98:::Shraga Shoval::J. P. Zyburt::D. W. Grimaudo:::Robot Driver for Guidance of Automatic Durability Road (ADR) Test Vehicles.
+conf/icra/EverettD98:::S. E. Everett::Rajiv V. Dubey:::Human-Machine Cooperative Telerobotics Using Uncertain Sensor or Model Data.
+conf/icra/RaoG93:::Anil S. Rao::Kenneth Y. Goldberg:::Placing Registration Marks.
+conf/icra/OBrienW99:::John O'Brien::John T. Wen:::Redundant Actuation for Improving Kinematic Manipulability.
+conf/icra/DoitsidisVT02:::L. Doitsidis::Kimon P. Valavanis::Nikos Tsourveloudis:::Fuzzy Logic Based Autonomous Skid Steering Vehicle Navigation.
+conf/icra/SouissiK93:::R. Souissi::Antti J. Koivo:::Modelling and Control of Two Co-Operating Planar Cranes.
+conf/icra/Shimojo94:::Makoto Shimojo:::Spatial Filtering Characteristic of Elastic Cover for Tactile Sensor.
+conf/icra/KanekoHT00:::Makoto Kaneko::Kensuke Harada::Toshio Tsuji:::A Sufficient Condition for Manipulation of Envelope Family.
+conf/icra/KikuchiTK98:::Jun Kikuchi::Koji Takeo::Kazuhiro Kosuge:::Teleoperation System Via Computer Network for Dynamic Environment.
+conf/icra/BataviaS01:::Parag H. Batavia::Sanjiv Singh:::Obstacle Detection Using Adaptive Color Segmentation and Color Stereo Homography.
+conf/icra/BataviaS02:::Parag H. Batavia::Sanjiv Singh:::Obstacle Detection in Smooth High Curvature Terrain.
+conf/icra/ButtazzoN93:::Giorgio C. Buttazzo::Marco Di Natale:::HARTIK: A Hard Real-Time Kernel for Programming Robot Tasks with Explicit Time Constraints and Guaranteed Execution.
+conf/icra/TanX01:::Jindong Tan::Ning Xi:::Unified Model Approach for Planning and Control of Mobile Manipulators.
+conf/icra/RyuP01:::Se-Hee Ryu::Jahng-Hyon Park:::Fuzzy Logic Based Tuning of Sliding Mode Controller for Robot Trajectory Control.
+conf/icra/AhrensMP98:::Markus Ahrens::Vishal Mallick::Karl Parfrey:::Robotic based Thermoplastic Fibre Placement Process.
+conf/icra/BadescuMM02:::Mircea Badescu::Jeremy Morman::Constantinos Mavroidis:::Workspace Optimization of 3-UPU Parallel Platforms with Joint Constraints.
+conf/icra/Lenarcic98:::Jadran Lenarcic:::Alternative Computational Scheme of Manipulator Inverse Kinematics.
+conf/icra/BarthBESF00:::Michael Barth::Tim Burkert::Christof Eberst::Norbert O. Stöffler::Georg Färber:::Photo-Realistic Scene Prediction of Partially Unknown Environments for the Compensation of Time Delays in Telepresence Applications.
+conf/icra/PeremansWH98:::Herbert Peremans::A. Walker::John Hallam:::3D Object Localisation with a Binaural Sonarhead, Inspirations from Biology.
+conf/icra/HayesD02:::Adam T. Hayes::Parsa Dormiani-Tabatabaei:::Self-Organized Flocking with Agent Failure: Off-Line Optimization and Demonstration with Real Robots.
+conf/icra/CurranK93:::A. Curran::Kostas J. Kyriakopoulos:::Sensor-Based Self-Localization for Wheeled Mobile Robots.
+conf/icra/NakaiTUYOOOSAMBOTTYT98:::Hiroaki Nakai::Yasuhiro Taniguchi::Michihiro Uenohara::Takashi Yoshimi::Hideki Ogawa::Fumio Ozaki::Junji Oaki::Hirokazu Sato::Yukio Asari::Katsuhiro Maeda::Hiroyuki Banba::Toshi Okada::Kyoichi Tatsuno::Eiji Tanaka::Osamu Yamaguchi::Mitsuyoshi Tachimori:::A Volleyball Playing Robot.
+conf/icra/AsadaTH00:::Minoru Asada::Takamaro Tanaka::Koh Hosoda:::Adaptive Binocular Visual Servoing for Independently Moving Target Tracking.
+conf/icra/GuptaPB98:::S. K. Gupta::Christiaan J. J. Paredis::P. F. Brown:::Micro Planning for Mechanical Assembly Operations.
+conf/icra/KouikoglouP00:::Vassilis S. Kouikoglou::Yannis A. Phillis:::Design of Product Specifications and Control Policies in a Single-Stage Production System.
+conf/icra/LuckLR98:::Jason P. Luck::Charles Q. Little::Randy S. Roberts:::A Human Supervisory Approach to Modeling Industrial Scenes Using Geometric Primitives.
+conf/icra/Wang99:::Michael Yu Wang:::Automated Fixture Layout Design for 3D Workpieces.
+conf/icra/KimKZSS00:::Dong-Jun Kim::Kab-Il Kim::Yuan F. Zheng::Zengqi Sun::Fuchun Sun:::Design of Small Power Biped Robot by Load Sharing of Walking Gait.
+conf/icra/YashimaY02:::Masahito Yashima::Hideya Yamaguchi:::Dynamic Motion Planning Whole Arm Grasp Systems Based on Switching Contact Modes.
+conf/icra/HashimotoN00:::Koichi Hashimoto::Toshiro Noritsugu:::Potential Switching Control in Visual Servo.
+conf/icra/OelenBNW94:::Wilco Oelen::Harry Berghuis::Henk Nijmeijer::Carlos Canudas de Wit:::Implementation of a Hybrid Stabilizing Controller on a Mobile Robot with Two Degrees of Freedom.
+conf/icra/ChoiL01:::Sung Yug Choi::Jang Myung Lee:::Optimal Moving Windows for Real-Time Road Image Processing.
+conf/icra/Schweiger94:::Johann Schweiger:::Facilitating Teamwork of Autonomous Systems with a Distributed Real-Time Knowledge Base.
+conf/icra/WonLM00:::Jey Won::Kathryn J. De Laurentis::Constantinos Mavroidis:::Rapid Prototyping of Robotic Systems.
+conf/icra/ChuGL99:::Y. X. Chu::J. B. Gou::Z. X. Li:::A Geometric Algorithm for Hybrid Localization/Inspection/Machinability Problem.
+conf/icra/WongO93:::Ho Cheung Wong::David E. Orin:::Dynamic Control of a Quaduped Standing Jump.
+conf/icra/SimeonLL98:::Thierry Siméon::Stephane Leroy::Jean-Paul Laumond:::A Collision Checker for Car-Like Robots Coordination.
+conf/icra/VergauwenPG01:::Maarten Vergauwen::Marc Pollefeys::Luc J. Van Gool:::Calibration and 3D Measurement from Martian Terrain Images.
+conf/icra/StramigioliB00:::Stefano Stramigioli::Herman Bruyninckx:::Nonintrinsicity of References in Rigid Body Motions.
+conf/icra/IagnemmaGD99:::Karl Iagnemma::Frank Génot::Steven Dubowsky:::Rapid Physics-Based Rough-Terrain Rover Planning with Sensor and Control Uncertainty.
+conf/icra/KobayashiAHMIKK02:::Hiroshi Kobayashi::Jun Aoki::Harumi Hosono::Taisuke Matsushita::Yusuke Ishida::Koki Kikuchi::Mitsuhiro Koseki:::Concept of Wear-Type Muscular Support Apparatus (Muscle Suit).
+conf/icra/YiCT01:::Byung-Ju Yi::Daniel J. Cox::Delbert Tesar:::Analysis and Design Criteria for a Redundantly Actuated 4-Legged Six Degree-of-Freedom Parallel Manipulator.
+conf/icra/RiouxBBGBG00:::Marc Rioux::François Blais::J.-Angelo Beraldin::Guy Godin::Pierre Boulanger::Michael A. Greenspan:::Beyond Range Sensing: XYZ-RGB Digitizing and Modeling.
+conf/icra/HougenBBBDGFKLMNPRSVY00:::Dean F. Hougen::Saifallah Benjaafar::Jordan Bonney::John Budenske::Mark Dvorak::Maria L. Gini::Howard French::Donald G. Krantz::Perry Y. Li::Fred Malver::Bradley J. Nelson::Nikolaos Papanikolopoulos::Paul E. Rybski::Sascha Stoeter::Richard M. Voyles::Kemal Berk Yesin:::A Miniature Robotic System for Reconnaissance and Surveillance.
+conf/icra/SarkarP99:::Nilanjan Sarkar::Tarun Kanti Podder:::Motion Coordination of Underwater Vehicle-Manipulator Systems Subject to Drag Optimization.
+conf/icra/RoyBFT99:::Nicholas Roy::Wolfram Burgard::Dieter Fox::Sebastian Thrun:::Coastal Navigation: Mobile Robot Navigation with Uncertainty in Dynamic Environments.
+conf/icra/MartensN94:::John D. Martens::Wyatt S. Newman:::Stabilization of a Mobile Robot Climbing Stairs.
+conf/icra/QianS02:::Jiang Qian::Jianbo Su:::Online Estimation of Image Jacobian Matrix by Kalman-Bucy Filter for Uncalibrated Stereo Vision Feedback.
+conf/icra/FujimotoH01:::Hiroshi Fujimoto::Yoichi Hori:::Visual Servoing Based on Multirate Sampling Control - Application of Perfect Disturbance Rejection Control.
+conf/icra/DaleA01:::Lucia K. Dale::Nancy M. Amato:::Probabilistic Roadmaps - Putting It All Together.
+conf/icra/TannerK01:::Herbert G. Tanner::Kostas J. Kyriakopoulos:::Position and Force Control by Reaction Compensation.
+conf/icra/NoborioNK02:::Hiroshi Noborio::Seigo Naito::Daisuke Kawata:::A Comparative Study of Modified Best-First and Randomized Algorithms for Image-Based Path-Planning.
+conf/icra/BranickyCQ00:::Michael S. Branicky::Greg C. Causey::Roger D. Quinn:::Modeling and Throughput Prediction for Flexible Parts Feeders.
+conf/icra/MoritaKFM01:::Hideyuki Morita::Guiryong Kwon::Toshio Fukuda::Hideo Matsuura:::Tactile Display which Presensts Shear Deformation on Human Finger.
+conf/icra/BaeKKKLP01:::Byunghoon Bae::Nakhoon Kim::Hongseok Kee::Seonho Kim::Yeon Lee::Kyihwan Park:::Design and Analysis of an Electromagnetically Driven Valve for a Glaucoma Implant.
+conf/icra/KangG93:::Dukhyun Kang::Kenneth Y. Goldberg:::Grasp Recognition Strategies from Empirical Models.
+conf/icra/FioriniCTBP00:::Paolo Fiorini::Gene Chalfant::Yuichi Tsumaki::Enrico Di Bernardo::Pietro Perona:::An Intelligent Vision-Only Operator Interface for Dexterous Robots.
+conf/icra/Xiong93:::Y. L. Xiong:::The Theory and Methodology for Concurrent Design and Planning of Reconfiguration Fixture.
+conf/icra/HoegSBG00:::H. D. Hoeg::A. Brett Slatkin::Joel W. Burdick::Warren Grundfest:::Biomechanical Modeling of the Small Intestine as Required for the Design and Operation of a Robotic Endoscope.

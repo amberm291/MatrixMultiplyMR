@@ -1,0 +1,200 @@
+conf/ams/WershofenG96:::Klaus Peter Wershofen::Volker Graefe:::Situationserkennung als Grundlage der Verhaltenssteuerung eines mobilen Roboters.
+conf/ams/ZhangBK99:::Jianwei Zhang::G. Brinkschröder::Alois Knoll:::Visuelles Reinforcement-Lernen zur Feinpositionierung eines Roboterarms über kompakte Zustandskodierung.
+conf/ams/RuppCU97:::Torsten Rupp::Thomas Cord::Alfred Ulrich:::Automatisierungstechniken und Roboter im Straßenbau.
+conf/ams/Wichert01:::Georg von Wichert:::Simultaneous Segmentation, Object Recognition, 3D Localization and Tracking Using Stereo.
+conf/ams/Wichert97:::Georg von Wichert:::VISMOB: Aufbau und Nutzung selbstorganisierender, bildbasierter Umweltrepräsentationen für mobile Roboter.
+conf/ams/Jager01:::Markus Jäger:::Collision Avoidance for Cooperating Cleaning Robots.
+conf/ams/WildermuthS00:::Dennis Wildermuth::Frank E. Schneider:::Erzeugung eines gemeinsamen Kooridinatensystems für eine Gruppe von Robotern auf der Basis von Bildverarbeitung.
+conf/ams/KohlheppF01:::Peter Kohlhepp::Daniel Fischer:::3D-Kartierung durch fortlaufende Registrierung und Verschmelzung hochgradig reduzierter Teilkarten.
+conf/ams/FreseHBH99:::U. Frese::M. Hörmann::B. Bäuml::Gerd Hirzinger:::Global konsistente visuelle Lokalisation ohne vorgegebene Karte.
+conf/ams/WornB99:::Heinz Wörn::Axel Bürkle:::Kamera-basiertes Sensorsystem eines mobilen Mikroroboters.
+conf/ams/StoeterRGHP00:::Sascha Stoeter::Paul E. Rybski::Maria L. Gini::Dean F. Hougen::Nikolaos Papanikolopoulos:::Verteilte Steuerung heterogener Mobiler Roboter.
+conf/ams/SchollBWD98:::Kai-Ulrich Scholl::Karsten Berns::A. Wick::Rüdiger Dillmann:::Autonomer Kanalroboter zur Inspektion von Abwasserkanälen: Mechanik - Rechnerarchitektur - Steuerung.
+conf/ams/KruseGW95:::E. Kruse::Ralf Gutsche::Friedrich M. Wahl:::Inkrementelle sensorbasierte Erzeugung eines Umweltmodelles mit Hilfe von Bewertungsfunktionen im Konfigurationsraum.
+conf/ams/KruseGW97:::E. Kruse::Ralf Gutsche::Friedrich M. Wahl:::Sensorgestützte Erfassung des vorherrschenden Hindernisverhaltens zur Verbesserung der Bewegungsplanung.
+conf/ams/LangG98:::Oliver Lang::Axel Gräser:::Regelung eines teilautonomen Roboters mittels Zoomkamera.
+conf/ams/Rofer01:::Thomas Röfer:::Konsistente Karten aus Laserscans.
+conf/ams/EhrDV99:::Markus von Ehr::Rüdiger Dillmann::Stefan Vogt:::Planung von Meßpositionen zur automatischen und autonomen Oberflächenvermessung.
+conf/ams/ForsterP95:::Steffen Förster::Kornelia Peters:::Sprachliche Steuerung behaviororientierter Systeme.
+conf/ams/SchmittBLLK99:::Michael Schmitt::Jörg Brodersen::Georg Lietz::Frank Lomberg::Karl-Friedrich Kraiss:::Kamerabasierte 3D-Rekonstruktion der Einsatzumgebung eines mobilen Roboters.
+conf/ams/TarinBTH99:::Cristina Tarín::Hermann Brugger::Bernd Tibken::Eberhard P. Hofer:::Optimal Control for a Synchronous Driven Unicycle-Like Autonomous Mobile Robot.
+conf/ams/HenrichG98:::Dominik Henrich::René Graf:::Flächendeckende Bahnplanung in vollständig, teilweise oder nicht bekannten Umgebungen.
+conf/ams/LeefkenSS01:::Iris Leefken::Axel Steinhage::Werner von Seelen:::Generating Complex Driving Behavior by Means of Neural Fields.
+conf/ams/RuppC96:::Torsten Rupp::Thomas Cord:::Kollisionsvermeidung mobiler autonomer Roboter durch koordinierte sensorgeführte Manöver.
+conf/ams/SchraftTJG00:::Rolf Dieter Schraft::A. Traub::D. John::B. Graf:::PolarBug - ein effizierter Algorithmus zur reaktiven Hindernisumfahrung im Dauereinsatz.
+conf/ams/PritschowKDL95:::Günter Pritschow::J. Kurz::M. Dalacker::A. Lußmann:::Mobile Mauerroboter für den Baustelleneinsatz: Programmierung, Wirtschaftlichkeit und erste experimentelle Ergebnisse.
+conf/ams/Soika96:::Martin Soika:::Gitterkartenbasierte Fehlererkennung und Kalibrierung für Umgebungsensoren autonomer mobiler Systeme (AMS).
+conf/ams/MusialBH00:::Marek Musial::Uwe Wolfgang Brandenburg::Günter Hommel:::MARVINs Sieg im "Millennial Event" - Erfolg durch minimale Lösungen.
+conf/ams/WalthelmKM99:::Axel Walthelm::Ralf Kluthe::Amir Madany Mamlouk:::Ein 3D Weltmodell zur teilaktiven Positionsverfolgung in komplexen dynamischen Umgebungen.
+conf/ams/SandlerFG96:::M. Sandler::M. Faul::Ernst Dieter Gilles:::Ein integriertes Navigationssystem zur Ortung und Führung von Flächenpeilschiffen auf Binnenwasserstraßen.
+conf/ams/FeyrerSZ99:::Stefan Feyrer::Oliver Schimmel::Andreas Zell:::Dreidimensionale Umgebungsmodellierung durch monokulare Exploration mit einem mobilen Roboter.
+conf/ams/HauckPRSF99:::Alexa Hauck::Georg Passig::Johanna Rüttinger::Michael Sorg::Georg Färber:::Biologically Motivated Hand-Eye Coordination for the Autonomous Graspin of Unknown Objects.
+conf/ams/GrafED98:::René Graf::Markus von Ehr::Rüdiger Dillmann:::Automatische Vermessung großer Objekte mittels eines mobilen Roboters.
+conf/ams/BurgardCFHLSST98:::Wolfram Burgard::Armin B. Cremers::Dieter Fox::Dirk Hähnel::Gerhard Lakemeyer::Dirk Schulz::Walter Steiner::Sebastian Thrun:::The Museum Tour-Guide Robot RHINO.
+conf/ams/PritschowD98:::Günter Pritschow::P. Demel:::Umgebungsmodellierung und Positionsbestimmung mit Geradengittern für mobile Roboter.
+conf/ams/EtteltS97:::E. Ettelt::Günther Schmidt:::Videobasierte Objekterkennung mittels musterbaumgestützter Kreuzkorrelation.
+conf/ams/PiriyakumarL98:::Douglas Antony Louis Piriyakumar::Paul Levi:::An Efficient Parallel Algorithm for Optimum Path Finding in Fixed Industry Oriented Scenarios by Mobile Robots.
+conf/ams/PaulyFPB99:::Michael Pauly::Marion Finke::Liliane Peters::Klaus Beck:::Echtzeitfähige Positionskorrektur auf Basis natürlicher Landmarken.
+conf/amt/Law01:::Tak-Ming Law:::Fair Play Protocol.
+conf/amt/TavaresAF01:::Tatiana A. Tavares::A. S. Araújo::Guido Lemos de Souza Filho:::ICSPACE - An Internet Cultural Space.
+conf/amt/Ishida01:::Toru Ishida:::Digital City: Bridging Technologies and Humans.
+conf/amt/El-Bakry01:::Hazem El-Bakry:::Fast Face Detection Using Neural Networks and Image Decomposition.
+conf/amt/TakahashiY01:::Hiroto Takahashi::Yasuo Yonezawa:::Congestion Prospect of Network Traffics by Fluctuation of Internet Transmission Time.
+conf/amt/Khatib01:::Oussama Khatib:::Digital Interactivity: Human-Centered Robotics, Haptics, and Simulation.
+conf/amt/KataiTK01:::Osamu Katai::Kentaro Toda::Hiroshi Kawakami:::Decentralized Control of Multi-agent Systems Based on Modal Logics and Extended Higher Order Petri Nets.
+conf/amt/WangCHW01:::Shangfei Wang::Enhong Chen::Jing Hu::Xufa Wang:::Kansei-Oriented Image Retrieval.
+conf/bda/Ceri99:::Stefano Ceri:::Model and Tools for Design of Data-Intensive Web Applications.
+conf/bda/PasquierBTL99:::Nicolas Pasquier::Yves Bastide::Rafik Taouil::Lotfi Lakhal:::Closed Set Based Discovery of Small Covers for Association Rules.
+conf/bda/BidoitA99:::Nicole Bidoit::Sandra de Amo:::Langages de requêtes temporels: passé relatif versus passé absolu.
+conf/bda/GrumbachRS99:::Stéphane Grumbach::Philippe Rigaux::Luc Segoufin:::Modeling and Querying Interpolated Spatial Data.
+conf/bda/BidoitMY99:::Nicole Bidoit::Sofian Maabout::Mourad Ykhlef:::Un langage imbriqué pour l'interrogation et l'intégration de données semistructurées.
+conf/ann/HudsonP95:::Patrick T. W. Hudson::Eric O. Postma:::Choosing and Using an Neural Net.
+conf/apl/Benkard87a:::J. Philip Benkard:::Implications of APL2 grammar.
+conf/apl/Chen93:::Tien Chi Chen:::SCARFS, an Efficient Polynomial Zero-Finder System.
+conf/apl/Barghoorn96:::Martin Barghoorn:::Cross-Tabulation Algorithms.
+conf/apl/Spunde94:::Walter G. Spunde:::The Impact of APL on First Year Mathematics.
+conf/apl/Rutiser90:::William A. Rutiser:::Object-Oriented Programming of X Window System Graphical User Interfaces.
+conf/apl/Benkhard91:::J. Phillip Benkhard:::A Dance of Rounds.
+conf/apl/Polivka90:::Raymond P. Polivka:::Reading to Write.
+conf/apl/Hui99:::Roger K. W. Hui:::Sparse arrays in J.
+conf/apl/HuiI97:::Roger K. W. Hui::Kenneth E. Iverson:::Mathematical roots of J.
+conf/apl/Potyok88:::R. L. Potyok:::Network Shared Variable Processor.
+conf/apl/DriscollO87:::Graham C. Driscoll::Donald L. Orth:::APL-compilation - where does the time come from?
+conf/apl/Lonn90:::Sven Gunnar Lönn:::DEMOS - a PC-System for Population Projections for Small Areas.
+conf/apl/More93:::Trenchard More Jr.:::Transfinite Nesting in Array-Theoretic Figures, Changes, Rigs, and Arms, Part I.
+conf/apl/Levine93:::Richard M. Levine:::Recent Work on the Toronto Toolkit.
+conf/apl/Deerhake87:::Stephen Deerhake:::Application screen management: an APL2 approach.
+conf/apl/Brown89:::R. Brown:::APL at the Crossroads.
+conf/apl/Mansour89:::Stephen M. Mansour:::Techniques for Avoiding Conditional Execute in APL2.
+conf/apl/Mansour97:::Stephen M. Mansour:::How to write an APL utility function.
+conf/apl/SurkanC97:::Alvin J. Surkan::Colin Campbell:::A constructive algorithm for neural networks that generalize.
+conf/apl/TolletH92:::Gustav Tollet::Peter M. Harrison:::A Bézier Curve Builder Implemented in APL2.
+conf/apl/Iversen90:::Torben Iversen:::APL for Economic and Management Control in KTAS.
+conf/apl/GusevP94:::Dmitri Gusev::Igor Pospelov:::New Development of APL Technology of Modelling: APL*Plus + C++ Compiler.
+conf/apl/PromiselM90:::Steven I. Promisel::James V. Merrill:::Managing a Diamond Jewelry Manufacturing Business Using APL.
+conf/apl/Jennings92:::Evan Jennings:::An Object-Oriented APL2 Expert.
+conf/apl/Geyer-Schulz95:::Andreas Geyer-Schulz:::Holland Classifier Systems.
+conf/apl/Selby02:::David Selby:::Jottings from the business intelligence jungle.
+conf/apl/Selby93:::David Selby:::Extending APL2 to Include Program Control Structures.
+conf/apl/Weigang91:::Jim Weigang:::The User Command Processor.
+conf/apl/Willhoft93:::Robert G. Willhoft:::Structured APL: A Proposal for Block Structured Control Flow in APL.
+conf/apl/Petocz88:::P. Petocz:::Iterative Scaling of Marks Using APL - a Case Study.
+conf/apl/Thomson93:::Norman D. Thomson:::Understanding ANOVA the APL way.
+conf/apl/Smith91:::Adrian Smith:::Supply-Chain Management at Rowntree: Critical Success Factors for APL.
+conf/apl/Bowman94:::Dick Bowman:::A New Graphical User Interface Proposal for APL.
+conf/apl/Meyer90:::Ole M. Meyer:::An Insurance Simulation Model.
+conf/apl/Reiter95:::Clifford A. Reiter:::Infix, Cut and Finite Automata.
+conf/apl/Surkan92:::Alvin J. Surkan:::WSDM: Weighted Sparse Distributed Memory Prototype Expressed in APL.
+conf/apl/Girardot90:::Jean-Jacques Girardot:::The A+ Programming Language, a Different APL.
+conf/apl/AnsellA93:::Jake Ansell::Mulhim Al-Doori:::ARDA: Expert System for Reliability Data Analysis.
+conf/apl/Sykes94:::Alan M. Sykes:::Analysing Time-Series in APL.
+conf/apl/Sykes95:::Alan M. Sykes:::Doing ANOVA Calculations on the Computer.
+conf/apl/GjerlovM96:::Per Gjerløv::Izabela Meisel:::Song of the Whale: Parallel Processing Using APL2.
+conf/apl/Alfonseca90a:::Manuel Alfonseca:::Object Oriented Programming (Tutorial).
+conf/apn/ScheschonkT94:::Gert Scheschonk::Michael Timpe:::Simulation and Analysis of a Document Storage System.
+conf/apn/FinkelR87:::Alain Finkel::Louis E. Rosier:::A Survey on the Decidability Questions for Classes of FIFO Nets.
+conf/apn/GoltzRT81:::Ursula Goltz::Wolfgang Reisig::P. S. Thiagarajan:::Two Alterative Definitions of Synchronic Distance.
+conf/apn/Makela03:::Marko Mäkelä:::Model Checking Safety Properties in Modular High-Level Nets.
+conf/apn/CortadellaKKLY00:::Jordi Cortadella::Michael Kishinevsky::Alex Kondratyev::Luciano Lavagno::Alexandre Yakovlev:::Hardware and Petri Nets: Application to Asynchronous Circuit Design.
+conf/apn/Schmidt00:::Karsten Schmidt:::LoLA: A Low Level Analyser.
+conf/apn/Schmidt97:::Karsten Schmidt:::Siphons, Traps and High-Level Nets with Infinite Color Domains.
+conf/apn/Chiola98:::Giovanni Chiola:::Manual and Automatic Exploitation of Symmetries in SPN Models.
+conf/apn/GruhnW01:::Volker Gruhn::Ursula Wellen:::Process Landscaping: Modelling Distributed Processes and Proving Properties of Distributed Process Models.
+conf/apn/TeruelCCS92:::Enrique Teruel::Piotr Chrzastowski-Wachtel::José Manuel Colom::Manuel Silva:::On Weighted T-Systems.
+conf/apn/LiW91:::Yao Li::C. Murray Woodside:::Iterative Decomposition and Aggregation of Stochastic Marked Graph Petri Nets.
+conf/apn/Souissi90:::Younes Souissi:::On liveness preservation by composition of nets via a set of places.
+conf/apn/Souissi91:::Younes Souissi:::Deterministic Systems of Sequential Processes: a class of structured Petri nets.
+conf/apn/BoudolRS85:::Gérard Boudol::Gérard Roucairol::Robert de Simone:::Petri nets and algebraic calculi of processes.
+conf/apn/BillingtonCHKKPPSW03:::Jonathan Billington::Søren Christensen::Kees M. van Hee::Ekkart Kindler::Olaf Kummer::Laure Petrucci::Reinier Post::Christian Stehno::Michael Weber:::The Petri Net Markup Language: Concepts, Technology, and Tools.
+conf/apn/Ciardo94:::Gianfranco Ciardo:::Petri Nets with Marking-Dependent Ar Cardinality: Properties and Analysis.
+conf/apn/LiuB02:::Lin Liu::Jonathan Billington:::Tackling the Infinite State Space of a Multimedia Control Protocol Service Specification.
+conf/apn/Kyng82:::Morten Kyng:::Specification and Verification of Networks in a Petri Net Based Language.
+conf/apn/PinciS90:::Valerio O. Pinci::Robert M. Shapiro:::An integrated software development methodology based on hierarchical colored Petri Nets.
+conf/apn/Valmari96:::Antti Valmari:::Compositionality in State Space Verification Methods.
+conf/apn/Marsan88:::Marco Ajmone Marsan:::Stochastic Petri nets: an elementary introduction.
+conf/apn/IlieR93:::Jean Michel Ilié::Omar Rojas:::On Well-Formed Nets and Optimizations in Enabling Tests.
+conf/apn/LewisL01:::Glenn Lewis::Charles Lakos:::Incremental State Space Construction for Coloured Petri Nets.
+conf/apn/Valk98:::Rüdiger Valk:::Petri Nets as Token Objects: An Introduction to Elementary Object Nets.
+conf/apn/Tiusanen94:::Mikko Tiusanen:::Symbolic, Symmetry, and Stubborn Set Searches.
+conf/apn/Carstensen90:::Heino Carstensen:::The complexity of testing the equivalence of transition sequences.
+conf/apn/SundaramN93:::C. R. M. Sundaram::Y. Narahari:::Analysis of Dynamic Load Balancing Strategies Using a Combination of Stochastic Petri Nets and Queueing Networks.
+conf/apn/FleischhackG98:::Hans Fleischhack::Bernd Grahlmann:::A Compositional Petri Net Semantics for SDL.
+conf/apn/BastidePSLN99:::Rémi Bastide::Philippe A. Palanque::Ousmane Sy::Duc-Hoa Le::David Navarre:::Petri Net Based Behavioural Specification of CORBA Systems.
+conf/apn/Arnold98:::André Arnold:::Synchronized Products of Transition Systems and Their Analysis.
+conf/apn/Czaja85:::Ludwik Czaja:::Making nets abstract and structures.
+conf/apn/Devillers93:::Raymond R. Devillers:::Construction of S-invariants and S-components for Refined Petri Boxes.
+conf/apn/Knaup96:::Werner Knaup:::A New Iterative Numerical Solution Algorithm for a Class of Stochastic Petri Nets.
+conf/apn/BadouelBD01:::Eric Badouel::Marek A. Bednarczyk::Philippe Darondeau:::Generalized Automata and Their Net Representations.
+conf/apn/Pietkiewicz-Koutny97:::Marta Pietkiewicz-Koutny:::Transition Systems of Elementary Net Systems with Inhibitor Arcs.
+conf/apn/GoltzC85:::Ursula Goltz::Yuan Chong-Yi:::Synchronic structure - a tutorial.
+conf/apn/GoltzR84:::Ursula Goltz::Wolfgang Reisig:::CSP-programs with individual tokens.
+conf/apn/CheungL99:::To-Yat Cheung::Yiqin Lu:::Five Classes of Invariant-Preserving Transformations on Colored Petri Nets.
+conf/apn/BednarczykB01:::Marek A. Bednarczyk::Andrzej M. Borzyszkowski:::On Concurrent Realization of Reactive Systems and Their Morphisms.
+conf/apn/RichterV85:::Gernot Richter::Klaus Voss:::Towards a comprehensive office model integrating information and resources.
+conf/apn/Plunnecke84:::Helmut Plünnecke:::K-density, N-density and finiteness properties.
+conf/apn/Fleischhack92:::Hans Fleischhack:::P-Superfairness in Nets.
+conf/apn/BadouelC03:::Eric Badouel::Jules Chenou:::Nets Enriched over Closed Monoidal Structures.
+conf/apn/BarkaouiCD95:::Kamel Barkaoui::Jean-Michel Couvreur::Claude Dutheillet:::On Liveness in Extended non Self-Controlling Nets.
+conf/apn/CzajaGG92:::Ingo Czaja::Rob J. van Glabbeek::Ursula Goltz:::Interleaving semantics and action refinement with atomic choice.
+conf/apn/CabacMR03:::Lawrence Cabac::Daniel Moldt::Heiko Rölke:::A Proposal for Structuring Petri Net-Based Agent Interaction Protocols.
+conf/apn/Smith90:::Einar Smith:::On net systems generated by process foldings.
+conf/apn/Smith91:::Einar Smith:::Comparability Orders and Measurement.
+conf/apn/EsparzaS89a:::Javier Esparza::Manuel Silva:::On the analysis and synthesis of free choice systems.
+conf/apn/CindioMPS82:::Fiorella de Cindio::Giorgio De Michelis::Lucia Pomello::Carla Simone:::Equivalence Notions for Concurrent Systems.
+conf/apn/Reisig81:::Wolfgang Reisig:::Overview.
+conf/apn/Reisig86:::Wolfgang Reisig:::A strong part of concurrency.
+conf/apn/Kindler02:::Ekkart Kindler:::Petri Nets, Situations, and Automata.
+conf/apn/Molla-HosseiniKRP95:::M. Molla-Hosseini::R. M. Kerr::R. B. Randall::R. B. Platfoot:::An Inspection Model with Minimal and Major Maintenance for a Flexible Manufacturing Cell using Generalized Stochastic Petri Nets.
+conf/apn/SchnoebelenS00:::Ph. Schnoebelen::Natalia Sidorova:::Bisimulation and the Reduction of Petri Nets.
+conf/apn/Koseska-ToszewaM87:::Violetta Koseska-Toszewa::Antoni W. Mazurkiewicz:::Net Representation of Sentences in Natural Languages.
+conf/apn/BattistonCM87:::Eugenio Battiston::Fiorella de Cindio::Giancarlo Mauri:::OBJSA Nets: a Class of High- level Nets Having Objects as Domains.
+conf/apn/AnglanoP94:::Cosimo Anglano::Luigi Portinale:::B-W Analysis: A Backward Reachability Analysis for Diagnostic Problem Solving Suitable to Parallel Implementation.
+conf/apn/HaddadG86:::Serge Haddad::Claude Girault:::Algebraic structure of flows of a regular coloured net.
+conf/apn/StehrMO01:::Mark-Oliver Stehr::José Meseguer::Peter Csaba Ölveczky:::Rewriting Logic as a Unifying Framework for Petri Nets.
+conf/apn/Varpaaniemi98:::Kimmo Varpaaniemi:::On Stubborn Sets in the Verification of Linear Time Temporal Properties.
+conf/apn/Jensen84:::Kurt Jensen:::The design of a program package for an introductory Petri net course.
+conf/apn/Reisig81a:::Wolfgang Reisig:::Recursive Nets.
+conf/apn/KlaudelP01:::Hanna Klaudel::Franck Pommereau:::A Concurrent Semantics of Static Exceptions in a Parallel Programming Language.
+conf/apn/Muller81a:::Horst Müller:::Correctness Proof for the Alternating Bit Protocol by Assertion Systems.
+conf/asc/ZhouLL00:::Z. Zhou::H. Liu::S. Li:::Rule Mining via Learning Belief Networks.
+conf/asc/Karamouzis00:::Stamos T. Karamouzis:::Using Analogues to Predict Student's Performance.
+conf/asc/OpitzBPM00:::David W. Opitz::Subhash C. Basak::G. Prabu::Denise Mills:::Hazard Assessment Modeling: A Hierarchical QSAR Approach.
+conf/asc/HassanP00:::A. B. Hassan::D. T. Pham:::Genetic Algorithm Approach for the Allocation of Inspection Stations.
+conf/asc/IvanescuVSI00:::Mircea Ivanescu::M. Vinatoru::Viorel Stoian::E. Iancu:::Robotic Arm Control in Fault Conditions.
+conf/asc/ZiviCD00:::E. Zivi::J. Cerrito::D. Doney:::Neural Network Fault Tolerant Estimation of an Integrated Power System.
+conf/asc/KimLJKP00:::Yoonha H. Kim::D. S. Lee::M. G. Joo::T. Kang::K. N. Paek:::POSCO's Twin-Roll Strip Caster and its Control.
+conf/asc/SugiantoE00:::Ly Fie Sugianto::D. Elliott:::Deploying E-Commerce Enabling Technology using an Advisory System.
+conf/asc/PlessLS00:::Daniel Pless::George F. Luger::Carl R. Stern:::A New Object-Oriented Stochastic Modeling Language.
+conf/asc/KatayamaI00:::Hitoshi Katayama::Akira Ichikawa:::H Control for Fuzzy Systems with Uncertainty.
+conf/asc/GilHDD00:::P. Gil::J. Henriques::A. Dourado::H. Duarte-Ramos:::Extended Neural Model Predictive Control of Non-Linear Systems.
+conf/asc/ChungPKY00:::Y. Chung::J. Park::Hyuk-Chul Kwon::Ae-sun Yoon:::An Improved Korean Morphological Analyzer.
+conf/asm/GawanmehTW03:::Amjad Gawanmeh::Sofiène Tahar::Kirsten Winter:::Interfacing ASM with the MDG Tool.
+conf/asm/Shankar00:::Natarajan Shankar:::Symbolic Analysis of Transition Systems.
+conf/asm/RomanP03:::Gruia-Catalin Roman::Jamie Payton:::Mobile UNITY Schemas for Agent Coordination.
+conf/asm/Castillo98:::Giuseppe Del Castillo:::The ASM Workbench: an Open and Extensible Tool Environment for Abstract State Machines.
+conf/asm/KalinovKPPS03:::Alexey Kalinov::Alexander Kossatchev::Alexandre Petrenko::Mikhail Posypkin::Vladimir Shishkov:::Using ASM Specifications for Compiler Testing.
+conf/asm/Anlauff00:::Matthias Anlauff:::XASM - An Extensible, Component-Based ASM Language.
+conf/asm/BolognesiB03:::Tommaso Bolognesi::Egon Börger:::Abstract State Processes.
+conf/ats/TsunoyamaUK97:::Masahiro Tsunoyama::Masahiko Uenoyama::Tatsuya Kabasawa:::A concurrent fault-detection scheme for FFT processors.
+conf/ats/NikawaI97:::Kiyoshi Nikawa::Shoji Inoue:::New Capabilities of OBIRCH Method for Fault Localization and Defect Detection.
+conf/ats/GuoRP01:::Ruifeng Guo::Sudhakar M. Reddy::Irith Pomeranz:::On Improving a Fault Simulation Based Test Generator for Synchronous Sequential Circuits.
+conf/ats/HahnHK95:::Winfried Hahn::A. Hagerer::R. Kandlbinder:::Hardware-accelerated concurrent fault simulation: eventflow computing versus dataflow computing.
+conf/ats/MiaoGL99:::Huaikou Miao::Xiaolei Gao::Ling Liu:::An Approach to Testing the Nonexistence of Initial State in Z Specifications.
+conf/ats/StroobandtC96:::Dirk Stroobandt::Jan Van Campenhout:::Hierarchical Test Generation with Built-In Fault Diagnosis.
+conf/ats/KimK02:::Hong-Sik Kim::Sungho Kang:::DPSC SRAM Transparent Test Algorithm.
+conf/ats/LiMF00:::Xiaowei Li::Toshimitsu Masuzawa::Hideo Fujiwara:::Strong self-testability for data paths high-level synthesis.
+conf/ats/Huang02:::Shi-Yu Huang:::Diagnosis Of Byzantine Open-Segment Faults.
+conf/ats/WangTJ01:::C.-Y. Wang::Shing-Wu Tung::Jing-Yang Jou:::An Improved AVPG Algorithm for SoC Design Verification Using Port Order Fault Model.
+conf/ats/MichinishiYOIF97:::Hiroyuki Michinishi::Tokumi Yokohira::Takuji Okamoto::Tomoo Inoue::Hideo Fujiwara:::Testing for the programming circuit of LUT-based FPGAs.
+conf/ats/KeshkKM99:::Arabi Keshk::Kozo Kinoshita::Yukiya Miura:::Procedure to Overcome the Byzantine General's Problem for Bridging Faults in CMOS Circuits.
+conf/ats/YotsuyanagiHHT01:::Hiroyuki Yotsuyanagi::Shinsuke Hata::Masaki Hashizume::Takeomi Tamesada:::Sequential Redundancy Removal Using Test Generation and Multiple Unreachable States.
+conf/ats/HirayamaOYMK00:::Masayuki Hirayama::Jiro Okayasu::Tetsuya Yamamoto::Osamu Mizuno::Tohru Kikuno:::Generating test items for checking illegal behaviors in software testing.
+conf/ats/YoshidaW02:::Takaki Yoshida::Masafumi Watari:::MD-SCAN Method for Low Power Scan Testing.
+conf/ats/SuCL99:::Chauchin Su::Yue-Tsang Chen::Chung-Len Lee:::Analog Metrology and Stimulus Selection in a Noisy Environment.
+conf/ats/MayerS98:::Frank Mayer::Albrecht P. Stroele:::Configuring Arithmetic Pattern Generators and Response Compactors from the RT-Modules of a Circuit.
+conf/ats/Cheng00:::Wu-Tung Cheng:::Current status and future trend on CAD tools for VLSI testing Wu-Tung Cheng.
+conf/ats/Yano95:::Seiken Yano:::Unified scan design with scannable memory arrays.
+conf/ats/PerbostLL97:::Marc Perbost::Ludovic Le Lan::Christian Landrault:::Automatic Testability Analysis of Boards and MCMs at Chip Level.
+conf/ats/HanaiYMYF01:::Hisayoshi Hanai::Shinji Yamada::Hisaya Mori::Eisaku Yamashita::Teruhiko Funakura:::Built-out Self-Test (BOST) for Analog Circuits in a System LSI: Test Solution to Reduce Test Costs.
+conf/ats/Hirase01:::Junichi Hirase:::Test Time Reduction through Minimum Execution of Tester-Hardware Setting Instructions.
+conf/ats/Hirase98:::Junichi Hirase:::Economical Importance of the Maximum Chip Area.

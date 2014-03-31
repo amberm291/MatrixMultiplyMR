@@ -1,0 +1,200 @@
+conf/colt/Ben-DavidG95:::Shai Ben-David::Leonid Gurvits:::A Note on VC-Dimension and Measures of Sets of Reals.
+conf/colt/Ben-DavidL93:::Shai Ben-David::Michael Lindenbaum:::Localization vs. Identification of Semi-Algebraic Sets.
+conf/colt/Cohen96:::William W. Cohen:::The Dual DFA Learning Problem: Hardness Results for Programming by Demonstration and Learning First-Order Representations (Extended Abstract).
+conf/colt/Cover91:::Thomas M. Cover:::Learning and Generalization.(Abstract).
+conf/colt/CrammerS01:::Koby Crammer::Yoram Singer:::Ultraconservative Online Algorithms for Multiclass Problems.
+conf/colt/Yokomori91:::Takashi Yokomori:::Polynomial-Time Learning of Very Simple Grammars from Positive Data.
+conf/colt/SlamanS91:::Theodore A. Slaman::Robert Solovay:::When Oracles Do Not Help.
+conf/colt/Laird88:::Philip D. Laird:::Efficient Unsupervised Learning.
+conf/colt/Hoffgen93:::Klaus-Uwe Höffgen:::Learning and Robust Learning of Product Distributions.
+conf/colt/Lewis96:::David D. Lewis:::Challenges in Machine Learning for Text Classification.
+conf/colt/KabashimaS93:::Yoshiyuki Kabashima::Shigeru Shinomoto:::Acceleration of Learning in Binary Choice Problems.
+conf/colt/Nakamura99:::Atsuyoshi Nakamura:::Learning Specialist Decision Lists.
+conf/colt/KulkarniZ93:::Sanjeev R. Kulkarni::Ofer Zeitouni:::On Probably Correct Classification of Concepts.
+conf/colt/Bartlett93:::Peter L. Bartlett:::Lower Bounds on the Vapnik-Chervonenkis Dimension of Multi-Layer Threshold Networks.
+conf/colt/KearnsS00:::Michael J. Kearns::Satinder P. Singh:::Bias-Variance Error Bounds for Temporal Difference Updates.
+conf/colt/KearnsS90:::Michael J. Kearns::Robert E. Schapire:::Efficient Distribution-Free Learning of Probabilistic Concepts (Abstract).
+conf/colt/Mendelson01a:::Shahar Mendelson:::Learning Relatively Small Classes.
+conf/colt/DecaturG95:::Scott E. Decatur::Rosario Gennaro:::On Learning from Noisy and Incomplete Examples.
+conf/colt/Cesa-BianchiCG02:::Nicolò Cesa-Bianchi::Alex Conconi::Claudio Gentile:::A Second-Order Perceptron Algorithm.
+conf/colt/Stork01:::David G. Stork:::Toward a Computational Theory of Data Acquisition and Truthing.
+conf/colt/CortesHM03:::Corinna Cortes::Patrick Haffner::Mehryar Mohri:::Positive Definite Rational Kernels.
+conf/colt/LeslieK03:::Christina Leslie::Rui Kuang:::Fast Kernels for Inexact String Matching.
+conf/colt/MansourM00:::Yishay Mansour::David A. McAllester:::Generalization Bounds for Decision Trees.
+conf/colt/FungMS03:::Glenn Fung::O. L. Mangasarian::Jude W. Shavlik:::Knowledge-Based Nonlinear Kernel Classifiers.
+conf/colt/KlivansS03:::Adam Klivans::Amir Shpilka:::Learning Arithmetic Circuits via Partial Derivatives.
+conf/colt/GoldmanW93:::Sally A. Goldman::Manfred K. Warmuth:::Learning Binary Relations Using Weighted Majority Voting.
+conf/colt/KinberPSW99:::Efim B. Kinber::Christophe Papazian::Carl H. Smith::Rolf Wiehagen:::On the Intrinsic Complexity of Learning Recursive Functions.
+conf/colt/KurtzS89:::Stuart A. Kurtz::Carl H. Smith:::On the Role of Search for Learning.
+conf/colt/AntosL96:::András Antos::Gábor Lugosi:::Strong Minimax Lower Bounds for Learning.
+conf/colt/Kannan93:::Sampath Kannan:::On the Query Complexity of Learning.
+conf/colt/Bylander94:::Tom Bylander:::Learning Linear Threshold Functions in the Presence of Classification Noise.
+conf/colt/AngluinFP90:::Dana Angluin::Michael Frazier::Leonard Pitt:::Learning Conjunctions of Horn Clauses (Abstract).
+conf/ddss/FuginiM84:::Maria Grazia Fugini::Giancarlo Martella:::Conceptual Modelling of Security Information in Distributed Database Systems.
+conf/ddss/Valduriez84:::Patrick Valduriez:::Report on Special Systems Session.
+conf/ddss/GardarinSV84:::Georges Gardarin::Eric Simon::Lionel Verlaine:::Temporal View: A Tool for Real Time Distributed Data Bases.
+conf/cost/LeopoldH96:::Helmut Leopold::Richard Hirn:::The Bookshop Project: An Austrian Interactive Multimedia Application Case Study.
+conf/cost/ChoFSW95:::H. S. Cho::M. R. Fry::Aruna Seneviratne::Varuni Witana:::Towards a Hybrid Scheme for Application Adaptivity.
+conf/cost/RezendeFMH95:::José Rezende::Serge Fdida::Andreas Mauthe::David Hutchison:::M-Connection Service: A Multicast Service for Distributed Multimedia Applications.
+conf/cost/LogeGH94:::Christophe Loge::Valérie Gay::Eric Horlait:::Computational Components for Synchronous Cooperation on Multimedia Information.
+conf/cost/SzyperskiV94:::Clemens A. Szyperski::Giorgio Ventre:::Efficient Support for Multiparty Communication.
+conf/deon/Brown96:::Mark A. Brown:::Doing as We Ought: Towards a Logic of Simply Dischargeable Obligations.
+conf/dexa/TamazalitO99:::Dalila Tamzalit::Chabane Oussalah:::Instances Evolution Vs Classes Evolution.
+conf/dexa/Ng00:::Wilfred Ng:::Using an Ordered Key Attribute in Database Design.
+conf/dexa/RajuganCDF03:::Rajagopal Rajugan::Elizabeth Chang::Tharam S. Dillon::Ling Feng:::XML Views: Part 1.
+conf/dexa/SignoreB90:::Oreste Signore::Rigoletto Bartoli:::Implementation of a historical/geographical database with support of imprecise dates.
+conf/dexa/FourelMB98:::Franck Fourel::Philippe Mulhem::Marie-France Bruandet:::A Generic Framework for Structured Document Access.
+conf/dexa/BlesaV92:::Pedro Blesa::R. J. Vidal:::A Performance Comparison for Priority-Based Protocols in Real-Time Databases.
+conf/dexa/MunozG93:::José Félix Muñoz::Fernando Galindo:::Matrim, an expert system on marital law.
+conf/dexa/BaazQ91:::Matthias Baaz::Gerald Quirchmayr:::A Formal Model for the Support of Analogical Reasoning in Legal Expert Systems.
+conf/dexa/PalomarMP91:::Manuel Palomar::Lidia Moreno::Amparo Pascual:::Semantic Interpretation of Natural Language im PROLOG: Logical Forms.
+conf/dexa/ZhangHL01:::Ji Zhang::Wynne Hsu::Mong-Li Lee:::An Information-Driven Framework for Image Mining.
+conf/dexa/KappelKR01:::Gerti Kappel::Gerhard Kramler::Werner Retschitzegger:::TriGS Debugger - A Tool for Debugging Active Database Behavior.
+conf/dexa/VossoughG02:::hsan Vossough::Janusz R. Getta:::Processing of Continuous Queries over Unlimited Data Streams.
+conf/dexa/GrossmanD92:::David A. Grossman::James R. Driscoll:::Structuring Text within a Relational System.
+conf/dexa/SeoLMCLH97:::Dong-Yal Seo::Dong-Ha Lee::Kang-Sik Moon::Jisook Chang::Jeon-Young Lee::Chang-You Han:::Schemaless Representation of Semistructured Data and Schema Construction.
+conf/dexa/HajjiT02:::Hicham Hajji::Evimaria Terzi:::A Framework for Reasoning on Objects with Geometric Constraints.
+conf/dexa/FryW03:::Andrew G. Fry::Hugh E. Williams:::Comparing the Overhead Requirements of Database Transaction Models.
+conf/dexa/Chu93:::Wesley W. Chu:::CoBase: A Cooperative Query Answering Facility for Database Systems.
+conf/dexa/DuI95:::Xiaoyong Du::Naohiro Ishii:::An Algebraic Rewriting Theorem of Multiple Linear Recursions and Its Applications
+conf/dexa/HeD03:::Zhen He::Jérôme Darmont:::DOEF: A Dynamic Object Evaluation Framework.
+conf/dexa/KoL01:::Su-Jeong Ko::Jung-Hyun Lee:::Feature Selection Using Association Word Mining for Classification.
+conf/dexa/LiW94:::Chih-kuang Li::Shiwei Wang:::Efficient Storage Structures for Temporal Object-Oriented Databases.
+conf/dexa/Liu02:::Mengchi Liu:::Capturing Semantics in HTML Documents.
+conf/dexa/DarmontAG95:::Jérôme Darmont::Ammar Attoui::Michel Gourgand:::Performance Evaluation for Clustering Algorithms in Object-Oriented Databases
+conf/dexa/RobinsonL00:::Jerome Robinson::Barry G. T. Lowden:::Extending the Re-use of Query Results at Remote Client Sites.
+conf/dexa/KorvinQH95:::André de Korvin::Gerald Quirchmayr::S. Hashemi:::A Fuzzy Model of Managerial Decision Making Incorporating Risk and Ambiguity Aversion
+conf/dexa/PramudionoK03:::Iko Pramudiono::Masaru Kitsuregawa:::Tree Structure Based Parallel Frequent Pattern Mining on PC Cluster.
+conf/dexa/BruzaW90:::Peter Bruza::Theo P. van der Weide:::Two Level Hypermedia An Improved Architecture for Hypertext.
+conf/dexa/KimC95:::Jeong-Ki Kim::Jae-Woo Chang:::A New Dynamic Signature File Method in Parallel Processing Environment
+conf/dexa/KimC99:::Jeong-Ki Kim::Jae-Woo Chang:::VPSF: A Parallel Signature File Technique Using Vertical Partitioning and Extendable Hashing.
+conf/dexa/JunY95:::Yong S. Jun::Suk I. Yoo:::Design and Implementation of the spareC++ OODBPL
+conf/dexa/LiLL00:::Hua-Gang Li::Tok Wang Ling::Sin Yeung Lee:::Range-Max/Min Query in OLAP Data Cube.
+conf/dexa/LiuC96:::Hong-Cheu Liu::Chaiyaporn Chirathamjaree:::An Efficient Join for Nested Relational Databases.
+conf/dexa/YoussefR95:::M. W. Youssef::Norman Revell:::A Measure for Measure
+conf/dexa/HaraKW91:::Yoshinori Hara::Arthur M. Keller::Gio Wiederhold:::Relationship Abstractions for an Effective Hypertext Design: Augmentation and Globalization.
+conf/dexa/ChoiSH99:::Jin-oh Choi::Young Sang Shin::Bonghee Hong:::Update Propagation of Replicated Data in Distributed Spatial Databases.
+conf/dexa/Yi-fenMF92:::Zhu Yi-fen::Li Mei::Chen Fu-an:::PI-DDBS: A Deductive Data Base System Based on C-PROLOG and INGRES.
+conf/dexa/Lockemann92:::Peter C. Lockemann:::Object-Oriented Databases and Deductive Databases: Systems Without Market? Market Without Systems?
+conf/dexa/OuLD02:::Dong-Xiu Ou::Kam-yiu Lam::De-Cun Dong:::An Adaptive Direction-Based Location Update Scheme for Next Generation PCS Networks.
+conf/dexa/CaronCD00:::Olivier Caron::Bernard Carré::Laurent Debrauwer:::Contextualization of OODB Schemas in CROME.
+conf/dexa/MerklVK90:::Dieter Merkl::Stefan Vieweg::Ajrapet Karapetjan:::KELP: A Hypertext oriented User-Interface for an Intelligent Legal Fulltext Information Retrieval System.
+conf/dexa/CicekliY00:::Nihan Kesim Cicekli::Yakup Yildirim:::Formalizing Workflows Using the Event Calculus.
+conf/dexa/SamosSSB98:::José Samos::Fèlix Saltor::Jaume Sistac::Agustí Bardés:::Database Architecture for Data Warehousing: An Evolutionary Approach.
+conf/dexa/FrenkelAEH01:::Anne Frenkel::Hamideh Afsarmanesh::G. Eijkel::Louis O. Hertzberger:::Information Management for Material Science Applications in a Virtual Laboratory.
+conf/dexa/LowdenR02:::Barry G. T. Lowden::Jerome Robinson:::Constructing Inter-relational Rules for Semantic Query Optimisation.
+conf/dexa/LowdenR99:::Barry G. T. Lowden::Jerome Robinson:::A Fast Method for Ensuring the Consistence of Integrity Constraints.
+conf/dexa/FleuryDBP95:::Laurent Fleury::Chabane Djeraba::Henri Briand::Jacques Philippe:::Rule Evaluations in a KDD System
+conf/dexa/SekineNKK92:::Jun Sekine::Masaru Nakagawa::Haruo Kimoto::Kiyoshi Kurokawa:::A Standard Naming Method of Data Elements Using a Semantic Dictionary.
+conf/dexa/BaazGQV93:::Matthias Baaz::Fernando Galindo::Gerald Quirchmayr::Manuel Vázqez:::The Application of Kripke-Type Structures to Regional Development Programs.
+conf/dexa/ChenH94:::Yangjun Chen::Theo Härder:::On the Optimal Top-down Evaluation of Recursive Queries.
+conf/dexa/MontoyoPR01:::Andrés Montoyo::Manuel Palomar::German Rigau:::Interface for WordNet Enrichment with Classification Systems.
+conf/dexa/Wang00:::T. I. Wang:::A Mobile Agent Carrier Environment for Mobile Information Retrieval.
+conf/dexa/BrunoMM99:::Emmanuel Bruno::Jacques Le Maitre::Elisabeth Murisasco:::Controlled Hypertextual Navigation in the SgmlQL Language.
+conf/dexa/YeLW02:::D. Y. Ye::M. C. Lee::T. I. Wang:::Mobile Agents for Distributed Transactions of a Distributed Heterogeneous Database System.
+conf/dexa/YipK99:::Chi Lap Yip::Ben Kao:::A Study of Musical Features for Melody Databases.
+conf/dexa/RoddickMM99:::John F. Roddick::Mukesh K. Mohania::Sanjay Kumar Madria:::Methods and Interpretation of Database Summarisation.
+conf/dexa/KoubaMM00:::Zdenek Kouba::Kamil Matousek::Petr Miksovský:::On Data Warehouse and GIS Integration.
+conf/dexa/Kamel94:::Magdi N. Kamel:::A Prototype Rule-Based Front End System for Integrity Enforcement in Relational Databases: An Application to the Naval Aircraft Flight Records Database.
+conf/dexa/TashiroOKNYM92:::Hideo Tashiro::Naoto Ohki::R. Kamekura::N. Nomura::Teruo Yokoyama::Yutaka Matsushita:::A Fuzzy Database System Considering Each User's Subjectivity.
+conf/dexa/YooLCK94:::Jae Soo Yoo::Yoon-Joon Lee::Jae-Woo Chang::Myoung-Ho Kim:::The HS File: A New Dynamic Signature File Method for Efficient Information Retrieval.
+conf/dexa/DesmaraisL91:::Michel Desmarais::Alain Leblanc:::A Meteorological Database for Numerical and Non-Numerical Processing.
+conf/dexa/SpechtEKP00:::Günther Specht::Patrick Freiherr Harsdorf von Enderndorf::Thomas Kahabka::Franz Peterander:::Awareness in Interactive Database Applications.
+conf/dexa/KrohaB02:::Petr Kroha::Sven Bürgel:::Using Adaptive Programming in Legal Advisory Systems.
+conf/dexa/PalopoliSTU00:::Luigi Palopoli::Domenico Saccà::Giorgio Terracina::Domenico Ursino:::Semi-automatic Extraction of Hyponymies and Overlappings from Heterogeneous Database Schemes.
+conf/dexa/FullerKSTWZ91:::Michael Fuller::Alan J. Kent::Ron Sacks-Davis::James A. Thom::Ross Wilkinson::Justin Zobel:::Querying in a Large Hyperbase.
+conf/dexa/SkamotoU94:::Norihiro Skamoto::Kazuo Ushijima:::Designing and Integrating Human Genome Databases with Object-Oriented Technology.
+conf/dexa/BellaviaMR95:::Giuseppe Bellavia::Dario Maio::Stefano Rizzi:::An SQL Extension Supporting User Viewpoints
+conf/dexa/BuccafurriLPR95:::Francesco Buccafurri::Nicola Leone::Luigi Palopoli::Pasquale Rullo:::Disjunctive Ordered Logic
+conf/dexa/LamKTL99:::Kam-yiu Lam::Tei-Wei Kuo::Wai-Hung Tsang::Gary C. K. Law:::Transaction Shipping Approach for Mobile Distributed Real-Time Databases.
+conf/dexa/PrekasLRGSB99:::Nikos Prekas::Pericles Loucopoulos::Colette Rolland::Georges Grosz::Farida Semmak::Danny Brash:::Developing Patterns as a Mechanism for Assisting the Management of Knowledge in the Context of Conducting Organisational Change.
+conf/dexa/LeeHK01:::Sang Ho Lee::Jin Seon Hong::Larry Kerschberg:::A Popularity-Driven Caching Scheme for Meta-search Engines: An Empirical Study.
+conf/dexa/LeeKC99:::Chiang Lee::Chih-Horng Ke::Chao-Chun Chen:::Tracking Mobile Users Utilizing Their Frequently Visited Locations.
+conf/dexa/LeeKK00:::Sang Ho Lee::Sung Jin Kim::Won Kim:::The BORD Benchmark for Object-Relational Databases.
+conf/dexa/Zarri90:::Gian Piero Zarri:::A Proposal for Integrating Artificial Intelligence and Database Techniques.
+conf/dexa/PerichJYF03:::Filip Perich::Anupam Joshi::Yelena Yesha::Timothy W. Finin:::Neighborhood-Consistent Transaction Management for Pervasive Computing Environments.
+conf/dexa/LandesS94:::Dieter Landes::Rudi Studer:::Mechanisms for Structuring Knowledge-Based Systems.
+conf/dexa/ShinC96:::Hakgene Shin::Jae-Woo Chang:::Signatures of Complex Objects for Query Processing in OODB.
+conf/dexa/RezendeH95:::Fernando de Ferreira Rezende::Theo Härder:::Concurrency Control in Nested Transactions with Enhanced Lock Models for KBMSs
+conf/dexa/Kumar94:::Akhil Kumar:::A Study of Spatial Clustering techniques.
+conf/dexa/BasuRA90:::Amit Basu::L. Ramkumar::Fredric D. Abramson:::An Expert System for Legal Case Research Support.
+conf/dexa/Debenham92:::John K. Debenham:::Modelling Knowledge Systems.
+conf/dexa/Debenham99:::John K. Debenham:::An Adaptive, Maintable, Extensible Process Agent.
+conf/dexa/VardeR02:::Aparna S. Varde::Elke A. Rundensteiner:::MEDWRAP: Consistent View Maintenance over Distributed Multi-relation Sources.
+conf/dexa/ChuangP01:::Wesley T. Chuang::Douglas Stott Parker Jr.:::Pyramidal Digest: An Efficient Model for Abstracting Text Databases.
+conf/dexa/BentayebL98:::Fadila Bentayeb::Dominique Laurent:::View Updates Translations in Relational Databases.
+conf/dexa/Battle96:::Steven A. Battle:::Establishing Arc Consistency for Multiple Database Views.
+conf/dexa/VossosZ92:::George Vossos::John Zeleznikow:::Improving Automated Litigation Support by Supplementing Rule-Based Reasoning with Case-Based Reasoning.
+conf/dexa/Lamersdorf90:::Winfried Lamersdorf:::Data-Intensive Applications in Open Networks: Extending the Modelling, Programming and Communication Support.
+conf/dexa/GrefenFA92:::Paul W. P. J. Grefen::Jan Flokstra::Peter M. G. Apers:::Performance Evaluation of Integrity Control in a Parallel Main-Memory Database System.
+conf/dexa/LeeHKKKL02:::Wookey Lee::Yonghun Hwang::Suk-Ho Kang::Sanggeun Kim::Changmin Kim::Yunsun Lee:::Self-maintainable Data Warehouse Views Using Differential Files.
+conf/dexa/RykowskiW00:::Jarogniew Rykowski::Waldemar Wieczerzycki:::Generic Architecture of Web Servers Supporting Cooperative Work.
+conf/dexa/OrgunW92:::Mehmet A. Orgun::William W. Wadge:::A Relational Algebra as a Query Language for Temporal DATALOG.
+conf/dexa/Eaglestone95:::Barry Eaglestone:::Composition Tools Integration with a Music Database System
+conf/dexa/RotterdamDHB93:::Ernest Rotterdam::Sieger van Denneheuvel::Pim Hennis::Peter van Emde Boas:::Resolution of Constraint Inconsistency with the Aim to Provide Support in Anaesthesia.
+conf/dexa/WiniwarterK97:::Werner Winiwarter::Yahiko Kambayashi:::A Machine Learning Workbench in a DOOD Framework.
+conf/dexa/ShibataK98:::Tatsuya Shibata::Toshikazu Kato:::General Model of Subjective Interpretation for Street Landscape Image.
+conf/dexa/DjerabaHD93:::Chabane Djeraba::A. Ait Hssain::B. Descotes-Genon:::Composition and Dependency Relationships in Production Information System Design.
+conf/dexa/BrescianiNP00:::Paolo Bresciani::Michele Nori::Nicola Pedot:::A Knowledge Based Paradigm for Querying Databases.
+conf/dexa/CastellanosSG94:::Malú Castellanos::Fèlix Saltor::Manuel García-Solaco:::Semantically Enriching Relational Databases into an Object Oriented Semantic Model.
+conf/dexa/WeipplE00:::Edgar Weippl::Wolfgang Eßmayr:::Fine Grained Replication in Distributed Databases: A Taxonomy and Practical Considerations.
+conf/dexa/NaqviI93:::Waseem Naqvi::Mohamed T. Ibrahim:::REFLEX Active Database Model: Application of Petri-Nets.
+conf/dexa/BodeCFL90:::Thomas Bode::Armin B. Cremers::Jürgen Freitag::Thomas Lemke:::Coupling the Complex-Relational Data Base CoReDB with the Object Management System OMS.
+conf/dexa/GottlobLS99:::Georg Gottlob::Nicola Leone::Francesco Scarcello:::On Tractable Queries and Constraints.
+conf/dexa/BamhaBH99:::M. Bamha::Fadila Bentayeb::Gaétan Hains:::An Efficient Scalable Parallel View Maintenance Algorithm for Shared Nothing Multi-processor Machines.
+conf/dexa/BuddrusGL97:::Frank Buddrus::Heino Gärtner::Sven-Eric Lautemann:::First Steps to a Formal Framework for Multilevel Database Modifications.
+conf/dexa/Gelbukh00:::Alexander F. Gelbukh:::Lazy Query Enrichment: A Method for Indexing Large Specialized Document Bases with Morphology and Concept Hierarchy.
+conf/dexa/SrinivasaWR01:::Rashmi Srinivasa::Craig Williams::Paul F. Reynolds Jr.:::A New Look at Timestamp Ordering Concurrency Control.
+conf/dexa/OzkanDE95:::Cetin Ozkan::Asuman Dogac::Cem Evrendilek:::A Heuristic Approach for Optimization of Path Expressions
+conf/dexa/MatsumotoSU00:::Koichi Matsumoto::Kazutoshi Sumiya::Kuniaki Uehara:::A Multi-channel Dissemination System Based on Time-Series Clustering Mechanism for On-Line News Articles.
+conf/dexa/BellatrecheKB98:::Ladjel Bellatreche::Kamalakar Karlapalem::Gopal K. Basak:::Query-Driven Horizontal Class Partitioning for Object-Oriented Databases.
+conf/dexa/GrigoriCG01:::Daniela Grigori::François Charoy::Claude Godart:::Anticipation to Enhance Flexibility of Workflow Execution.
+conf/dexa/LopezMOT00:::Javier Lopez::Antonio Mana::Juan J. Ortega::José M. Troya:::Distributed Storage and Revocation in Digital Certificate Databases.
+conf/dexa/HawryszkiewyczD98:::Igor Hawryszkiewycz::John K. Debenham:::A Workflow System Based on Agents.
+conf/dexa/PlodzienS01:::Jacek Plodzien::Kazimierz Subieta:::Applying Low-Level Query Optimization Techniques by Rewriting.
+conf/dexa/BenattouL97:::Mohammed Benattou::Lotfi Lakhal:::Incremental Inheritance Model for an OODBMS.
+conf/dexa/SumiyaNT98:::Kazutoshi Sumiya::Reiko Noda::Katsumi Tanaka:::Hypermedia Broadcasting with Temporal Links.
+conf/dexa/HahnK94:::Udo Hahn::Manfred Klenner:::Tracking the Evolution of Concepts in Dynamic Worlds.
+conf/dexa/CallanCH92:::James P. Callan::W. Bruce Croft::Stephen M. Harding:::The INQUERY Retrieval System.
+conf/dexa/KouloumdjianT97:::Jacques Kouloumdjian::Farouk Toumani:::Relational Database Engineering and Terminological Reasoning.
+conf/dexa/PerezCL02:::Juan Manuel Pérez::María José Aramburu Cabo::Rafael Berlanga Llavori:::XRL: A XML-Based Query Language for Advanced Services in Digital Libraries.
+conf/dexa/GardarinV90:::Georges Gardarin::Patrick Valduriez:::ESQL: An Extended SQL with Object and Deductive Capabilities.
+conf/dexa/SiebesVK92:::Arno Siebes::M. H. van der Voort::Martin L. Kersten:::Towards a design theory for Database triggers.
+conf/dexa/CoenenBBSD96:::Frans Coenen::Bridget Beattie::Trevor J. M. Bench-Capon::Michael J. R. Shave::B. M. Diaz:::An Ontology for Linear Spatial Reasoning.
+conf/dexa/PiattiniM00:::Mario Piattini::Antonio Martínez:::Measuring for Database Programs Maintainability.
+conf/dgci/CouprieB00:::Michel Couprie::Gilles Bertrand:::Tesselations by Connection in Orders.
+conf/dgci/dAndreaF97:::Gilles d'Andréa::Christophe Fiorio:::Maximal Superpositions of Grids and an Application.
+conf/dgci/BraquelaireP00:::Achille J.-P. Braquelaire::Arnault Pousset:::Euclidean Nets: An Automatic and Reversible Geometric Smoothing of Discrete 3D Object Boundaries.
+conf/dgci/BurguetM00:::Jasmine Burguet::Rémy Malgouyres:::Strong Thinning and Polyhedrization of the Surface of a Voxel Object.
+conf/dgci/BurguetM02:::Jasmine Burguet::Rémy Malgouyres:::Multi-scale Discrete Surfaces.
+conf/dgci/Kovalevsky97:::Vladimir Kovalevsky:::Applications of Digital Straight Segments to Economical Image Encoding.
+conf/dgci/LohouB02:::Christophe Lohou::Gilles Bertrand:::A New 3D 6-Subiteration Thinning Algorithm Based on P-Simple Points.
+conf/dgci/VittoneC97:::Joëlle Vittone::Jean-Marc Chassery:::Coexistence of Tricubes in Digital Naive Plane.
+conf/dgci/AyalaDFQ99:::Rafael Ayala::Eladio Domínguez::Angel R. Francés::Antonio Quintero:::A Digital Lighting Function for Strong 26-Surfaces.
+conf/dgci/AktoufBP96:::Zouina Aktouf::Gilles Bertrand::Laurent Perroton:::A three-dimensional holes closing algorithm.
+conf/dgci/AveneauAM99:::Lilian Aveneau::Eric Andres::Michel Mériaux:::The Discrete Tube: A Spatial Acceleration Technique for Efficient Diffraction Computation.
+conf/dgci/Andres02:::Eric Andres:::Defining Discrete Objects for Polygonalization: The Standard Model.
+conf/dgci/PalagyiK99:::Kálmán Palágyi::Attila Kuba:::Directional 3D Thinning Using 8 Subiterations.
+conf/dgci/Soille00:::Pierre Soille:::Morphological Operators with Discrete Line Segments.
+conf/dgci/Soille02:::Pierre Soille:::Advances in the Analysis of Topographic Features on Discrete Images.
+conf/dgci/FreyB96:::Pascal J. Frey::Houman Borouchaki:::Finite element meshes by means of voxels.
+conf/dgci/Kiselman00:::Christer O. Kiselman:::Digital Jordan Curve Theorems.
+conf/dgci/BertrandDF00:::Yves Bertrand::Guillaume Damiand::Christophe Fiorio:::Topological Encoding of 3D Segmented Images.
+conf/dgci/BrimkovB99:::Valentin E. Brimkov::Reneta P. Barneva:::Graceful Planes and Thin Tunnel-Free Meshes.
+conf/cqre/Howgrave-GrahamS99:::Nick Howgrave-Graham::Jean-Pierre Seifert:::Extending Wiener's Attack in the Presence of Many Decrypting Exponents.
+conf/cqre/Sako99:::Kazue Sako:::Implementation of a Digital Lottery Server on WWW.
+conf/cqre/RubiaCM99:::Montse Rubia::Juan Carlos Cruellas::Manuel Medina:::The DEDICA Project: The Solution to the Interoperability Problems between the X.509 and EDIFACT Public Key Infrastructures.
+conf/cqre/GuptaMGKW99:::Sarbari Gupta::Jerry Mulvenna::Srinivas Ganta::Larry Keys::Dale Walters:::Interoperability Characteristics of S/MIME Products.
+conf/cris/StamperAB88:::Ronald K. Stamper::Karl Althans::James Backhouse:::Measur: Method For Eliciting, Analysing and Specifying User Requirements.
+conf/cris/DuboisHLPRW86:::Eric Dubois::Jacques Hagelstein::Eugene Lahou::Frank Ponsaert::André Rifaut::Fiona Williams:::The ERAE Model: A Case Study.
+conf/cris/Preeyanont-Takahashi88:::Somjaree Preeyanont-Takahashi:::SIM: A Methodology for Systematic and Interactive Modelling between User and Analyst.
+conf/cscw/StreitzGHH94:::Norbert A. Streitz::Jörg Geißler::Jörg M. Haake::Jeroen Hol:::DOLPHIN: Integrated Meeting Support Across Local and Remote Desktop Environments and LiveBoards.
+conf/cscw/Rodden96:::Tom Rodden:::Populating the Application: A Model of Awareness for Cooperative Applications.
+conf/cscw/MorikawaM98:::Osamu Morikawa::Takanori Maesako:::HyperMirror: Toward Pleasant-to-Use Video Mediated Communication System.
+conf/cscw/FinholtOO96:::Thomas A. Finholt::Gary M. Olson::Judith S. Olson:::Behavioral Evaluation of CSCW Technologies (Tutorial).
+conf/cscw/GrinterASTWH02:::Rebecca E. Grinter::Paul M. Aoki::Margaret H. Szymanski::James D. Thornton::Allison Woodruff::Amy Hurst:::Revisiting the visit: : understanding how technology can shape the museum visit.
+conf/cscw/Root88:::Robert W. Root:::Design of a Multi-Media Vehicle for Social Browsing.
+conf/cscw/Tuikka02:::Tuomo Tuikka:::Remote concept design from an activity theory perspective.
+conf/cscw/Bharwani96:::Seraj Bharwani:::The MIT Design Studio of the Future: Virtual Design Review (Video Program).
+conf/cscw/SunE98:::Chengzheng Sun::Clarence A. Ellis:::Operational Transformation in Real-Time Group Editors: Issues, Algorithms, and Achievements.
+conf/cscw/MoranCHKMM96:::Thomas P. Moran::Patrick Chiu::Steve R. Harrison::Gordon Kurtenbach::Scott L. Minneman::William van Melle:::Evolutionary Engagement in an Ongoing Collaborative Work Process: A Case Study.

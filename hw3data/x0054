@@ -1,0 +1,200 @@
+conf/fpga/CongLL02:::Jason Cong::Yizhou Lin::Wangning Long:::SPFD-based global rewiring.
+conf/fpga/CongWD99:::Jason Cong::Chang Wu::Yuzheng Ding:::Cut Ranking and Pruning: Enabling a General and Efficient FPGA Mapping Solution.
+conf/fpga/MosanyaS99:::Emeka Mosanya::Eduardo Sanchez:::A FPGA-Based Hardware Implementation of Generalized Profile Search Using Online Arithmetic.
+conf/fpga/PhillipsH02:::Shawn Phillips::Scott Hauck:::Automatic layout of domain-specific reconfigurable subsystems for system-on-a-chip.
+conf/fpga/ChanS00:::Pak K. Chan::Martine D. F. Schlag:::New parallelization and convergence results for NC: a negotiation-based FPGA router.
+conf/fpga/DandalisP01:::Andreas Dandalis::Viktor K. Prasanna:::Configuration compression for FPGA-based embedded systems.
+conf/fpga/ComptonH03:::Katherine Compton::Scott Hauck:::Track placement: orchestrating routing structures to maximize routability.
+conf/fpga/TsutsuiM97:::Akihiro Tsutsui::Toshiaki Miyazaki:::YARDS: FPGA/MPU Hybrid Architecture for Telecommunication Data Processing.
+conf/fpga/BanerjeeSUHNKBPTA03:::Prithviraj Banerjee::V. Saxena::J. Uribe::Malay Haldar::Anshuman Nayak::Victor Kim::Debabrata Bagchi::Satrajit Pal::Nikhil Tripathi::R. Anderson:::Making area-performance tradeoffs at the high level using the AccelFPGA compiler for FPGAs.
+conf/fpga/ChiricescuV98:::Silviu M. S. A. Chiricescu::Mankuan Michael Vai:::Design of a Three-Dimensional FPGA for Reconfigurable Computing Machines (Abstract).
+conf/fpga/RouvroySQL03:::Gael Rouvroy::Francois-Xavier Standaert::Jean-Jacques Quisquater::Jean-Didier Legat:::Design strategies and modified descriptions to optimize cipher FPGA implementations: fast and compact results for DES and triple-DES.
+conf/fpga/MosanyaPS98:::Emeka Mosanya::Jean-Michel Puiatti::Eduardo Sanchez:::Hardware Implementation of Generalized Profile Search on the GENSTROM Machine (Abstract).
+conf/fpga/EmmertB99:::John M. Emmert::Dinesh Bhatia:::A Methodology for Fast FPGA Floorplanning.
+conf/fpga/WeissKKR98:::Karlheinz Weiß::Ronny Kistner::Arno Kunzmann::Wolfgang Rosenstiel:::Advantages of the XC6000 Architecture for Embedded System Design (Abstract).
+conf/fpga/OchottaCEHJLLNNPWZN98:::Emil S. Ochotta::Patrick J. Crotty::Charles R. Erickson::Chih-Tsung Huang::Rajeev Jayaraman::Richard C. Li::Joseph D. Linoff::Luan Ngo::Hy V. Nguyen::Kerry M. Pierce::Douglas P. Wieland::Jennifer Zhuang::Scott S. Nance:::A Novel Predictable Segmented FPGA Routing Architecture.
+conf/fpga/LombardiACH96:::Fabrizio Lombardi::David Ashen::Xiao-Tao Chen::Wei-Kang Huang:::Diagnosing Programmable Interconnect Systems for FPGAs.
+conf/fpga/TsuMJHWTRVWD99:::William Tsu::Kip Macy::Atul Joshi::Randy Huang::Norman Walker::Tony Tung::Omid Rowhani::George Varghese::John Wawrzynek::André DeHon:::HSRA: High-Speed, Hierarchical Synchroous Reconfigurable Array.
+conf/fpga/MulpuriH01:::Chandra Mulpuri::Scott Hauck:::Runtime and quality tradeoffs in FPGA placement and routing.
+conf/fpga/SrinivasanV99:::Vinoo Srinivasan::Ranga Vemuri:::Throughput Optimization with Design Space Exploration During Partitioning for Multi-FPGA Architectures.
+conf/fpga/RoseKMSVT98:::Jonathan Rose::Sinan Kaptanoglu::Clive McCarthy::Rob Smith::Sandip Vij::Steve Taylor:::Constraints from Hell: How to Tell Makes a Good FPGA (Panel).
+conf/fpga/WiltonRV97:::Steven J. E. Wilton::Jonathan Rose::Zvonko G. Vranesic:::Memory-to-Memory Connection Structures in FPGAs with Embedded Memory Arrays.
+conf/fpga/LecerfVOA99:::A. Lecerf::F. Vachon::D. Ouellet::Miguel Arias-Estrada:::FPGA Based Computer Vision Camera.
+conf/fpga/FornaciariPR00:::William Fornaciari::Vincenzo Piuri::Luigi Ripamonti:::Virtualization of FPGA via segmentation (poster abstract).
+conf/fpga/AmersonCCKSA96:::Rick Amerson::Richard J. Carter::W. Bruce Culbertson::Philip Kuekes::Greg Snider::Lyle Albertson:::Plasma: An FPGA for Million Gate Systems.
+conf/fple/Karczmarczuk95:::Jerzy Karczmarczuk:::Functional Programming and Mathematical Objects.
+conf/fple/NunezPP95:::Manuel Núñez::Pedro Palao::Ricardo Pena:::A Second Year Course on Data Structures Based on Functional Programming.
+conf/fple/JarvisPM95:::Stephen A. Jarvis::Sanjay Poria::Richard G. Morgan:::Understanding LOLITA: Experiences in Teaching Large Scale Functional Programming.
+conf/fple/Fokker95:::Jeroen Fokker:::Explaining Algebraic Theory with Functional Programs.
+conf/fqas/CarpinetoR98:::Claudio Carpineto::Giovanni Romano:::Effective Reformulation of Boolean Queries with Concept Lattices.
+conf/fqas/Martin-BautistaSVL00:::Maria J. Martín-Bautista::Daniel Sánchez::María Amparo Vila Miranda::Henrik Legind Larsen:::Measuring Effectiveness in Fuzzy Information Retrieval.
+conf/fqas/EiterLMPS98:::Thomas Eiter::Nicola Leone::Cristinel Mateis::Gerald Pfeifer::Francesco Scarcello:::Progress Report on the Disjunctive Deductive Database System <tt>dlv</tt>.
+conf/fqas/MotroR98:::Amihai Motro::Igor Rakov:::Estimating the Quality of Databases.
+conf/fqas/WeiC00:::Qiang Wei::Guoqing Chen:::Association Rules with Opposite Items in Large Categorical Databases.
+conf/fqas/AkrivasWSK02:::Giorgos Akrivas::Manolis Wallace::Giorgos B. Stamou::Stefanos D. Kollias:::Context - Sensitive Query Expansion Based on Fuzzy Clustering of Index Terms.
+conf/fqas/AbdennadherC00:::Slim Abdennadher::Henning Christiansen:::An Experimental CLP Platform for Integrity Constraints and Abduction.
+conf/fqas/QuaresmaR00:::Paulo Quaresma::Irene Pimenta Rodrigues:::A Dialogue Manager for a WWW-Based Information Retrieval System.
+conf/fqas/KopruluCY02:::Mesru Köprülü::Nihan Kesim Cicekli::Adnan Yazici:::Spatio-Temporal Querying in Video Databases.
+conf/fqas/ChountasPAKE02:::Panagiotis Chountas::Ilias Petrounias::Krassimir T. Atanassov::Vassilis Kodogiannis::Elia El-Darzi:::Representation &amp; Querying of Temporal Conflict.
+conf/fqas/BoscLP00:::Patrick Bosc::Ludovic Lietard::Olivier Pivert:::About Ill-Known Data and Equi-Join Operations.
+conf/fqas/SaeedD00:::Khalid Saeed::Agnieszka Dardzinska:::Cursive Letters Language Processing: Muqla Model and Toeplitz Matrices Approach.
+conf/fqas/OrgunL98:::Mehmet A. Orgun::Chuchang Liu:::Querying Clocked Databases.
+conf/fqas/BoulicautBJ00:::Jean-François Boulicaut::Artur Bykowski::Baptiste Jeudy:::Towards the Tractable Discovery of Association Rules with Negations.
+conf/fqas/BarklundDCL96:::Jonas Barklund::Pierangelo Dell'Acqua::Stefania Costantini::Gaetano Aurelio Lanzarone:::Multiple Metareasoning Agents for Flexible Query-Answering Systems.
+conf/fqas/Motro94:::Amihai Motro:::Cooperative Database Systems.
+conf/fqas/DelgadoMSSM02:::Miguel Delgado::Maria J. Martín-Bautista::Daniel Sánchez::José M. Serrano::María Amparo Vila Miranda:::Association Rule Extraction for Text Mining.
+conf/fqas/BertossiCCG02:::Leopoldo E. Bertossi::Jan Chomicki::Alvaro Cortés::Claudio Gutiérrez:::Consistent Answers from Integrated Data Sources.
+conf/fqas/Villadsen02:::Jørgen Villadsen:::Paraconsistent Query Answering Systems.
+conf/fqas/AguiarB00:::Fernando Aguiar::Michel Beigbeder:::Discovering the Context of WWW Pages to Improve the Effectiveness of Local Search Engines.
+conf/fskd/LeungFL02:::Antonio Leung::Simon Fong::Edison Lai:::Mining Operational Data for Improving GSM Network Performance.
+conf/fskd/WangAS02:::Xiaozhe Wang::Ajith Abraham::Kate A. Smith:::Soft Computing Paradigms for Web Access Pattern Analysis.
+conf/fskd/IsmailAAA02:::Razidah Ismail::Tahir Ahmad::Shamsuddin Ahmad::Rashdi Shah Ahmad:::Determination of Parameters for Multivariable Control Systems using Fuzzy Algorithmic Approach.
+conf/fskd/ShardaGT02:::Hema Sharda::Sushant Goel::David Taniar:::Classification of Transaction Processing in Parallel Database System.
+conf/fskd/BamdaraPR02:::G. Bamdara::S. Pathirana::R. Ranawana:::Use of Fuzzy Feature Description to Recognize Handwritten Alphanumeric Characters.
+conf/fskd/GuglielmannI02:::Raffaella Guglielmann::Liliana Ironi:::Strategies for Improving Neuro-Fuzzy.
+conf/fskd/SzlenkH02:::Marcin Szlenk::Wladyslaw Homenda:::A Practical Approach to the Chord Analysis in the Acoustical Recognition Process.
+conf/fskd/YoshidaYNK02:::Yuji Yoshida::Masami Yasuda::Jun-ichi Nakagami::Masami Kurano:::Pricing of American Put Option with Uncertainty of Stock Prices by Weighting Functions.
+conf/fskd/DuboisQ02:::Vincent Dubois::Mohamed Quafafou:::Rough Version Spaces for Text Mining.
+conf/fskd/DoanH02:::Son Doan::Susumu Horiguchi:::A New Text Representation Method using Fussy Concepts in Text Categorization.
+conf/fskd/LeeHL02:::Gi-Bum Lee::ZanDong Han::Jin S. Lee:::The U-Circuit Structure in Ordinary Peri Net.
+conf/fskd/LeePC02:::Chang-Shing Lee::Chen-yu Pan::Meng-Ju Chang:::A Fuzzy Decision Agent for Meeting Scheduling Supported System.
+conf/fskd/PengBH02:::Jing Peng::Bikramjit Banerjee::Douglas Heisterkamp:::Kernel Index for Relevance feedback Retrieval.
+conf/fskd/CornelisCK02:::Chris Cornelis::Martine De Cock::Etienne E. Kerre:::Linguistic Hedges in an Intuitionistic Fuzzy Setting.
+conf/fskd/WilsonS02:::Campbell Wilson::Bala Srinivasan:::Multiple Feature Relevance Feedback in Content Based Image Retrieval using Probabilistic Inference Networks.
+conf/fskd/YuZZC02:::Yongquan Yu::Bi Zeng::Guokun Zhong::Xianchu Chen:::A New Method to Modify Fuzzy Contorl Rules: Rules-Table Rotating.
+conf/fskd/SrisutapanK02:::Jun Srisutapan::Boonserm Kijsirikul:::Fuzzy Logic and Genetic Algorithm for Optimizing the Approximate Match of Rules based on Backpropagation Neural Networks.
+conf/fskd/NowickiR02:::Robert Nowicki::Leszek Rutkowski:::Rough-Neuro-Fuzzy System for Classification.
+conf/fskd/NakashimaAI02:::Tomoharu Nakashima::Takanobu Ariyama::Hisao Ishibuchi:::On-Line Learning of a Fuzzy System for a Future Market.
+conf/ftdc/Bernstein86:::Philip A. Bernstein:::The Sequoia System.
+conf/ftcs/BaoI96:::Feng Bao::Yoshihide Igarashi:::Reliable Broadcasting in Product Networks with Byzantine Faults.
+conf/ftcs/Poledna95:::Stefan Poledna:::Fault Tolerance in Safety Critical Automotive Applications: Cost of Agreement as a Limiting Factor.
+conf/ftcs/Chen96:::C. L. Chen:::Symbol Error Correctin Codes for Memory Applications.
+conf/ftcs/StottHRI97:::David T. Stott::Mei-Chen Hsueh::Greg Ries::Ravishankar K. Iyer:::Dependability Analysis of a Commercial High-Speed Network.
+conf/ftcs/PopovS98:::Peter T. Popov::Lorenzo Strigini:::Conceptual Models for the Reliability of Diverse Systems - New Results.
+conf/ftcs/AzaguryDGMS94:::Alain Azagury::Danny Dolev::Gera Goft::John M. Marberg::Julian Satran:::Highly Available Cluster: A Case Study.
+conf/ftcs/Redinbo92:::G. Robert Redinbo:::Protecting Processing Elements in Communication Satellites.
+conf/ftcs/RobinsonS92:::Scott H. Robinson::John Paul Shen:::Direct Methods for Synthesis of Self-Monitoring State Machines.
+conf/ftcs/EchtleC91:::Klaus Echtle::Y. Chen:::Evaluation of Deterministic Fault Injection for Fault-Tolerant Protocol Testing.
+conf/ftcs/Koch93:::Henning Koch:::An Efficient Replication Protocol Exploiting Logical Tree Structures.
+conf/ftcs/LeeP91:::J. Lee::Janak H. Patel:::An Architectural Level Test Generator for a Hierarchical Design Environment.
+conf/ftcs/Powell92:::David Powell:::Failure Mode Assumptions and Assumption Coverage.
+conf/ftcs/SullivanDC99:::Kevin J. Sullivan::Joanne Bechta Dugan::David Coppit:::The Galileo Fault Tree Analysis Tool.
+conf/ftcs/WangHF93:::Yi-Min Wang::Yennun Huang::W. Kent Fuchs:::Progressive Retry for Software Error Recovery in Distributed Systems.
+conf/ftcs/RaghavendraYT92:::C. S. Raghavendra::Pei-Ji Yang::Sing-Ban Tien:::Free Dimensions - An Effective Approach to Achieving Fault Tolerance in Hypercubes.
+conf/ftcs/ShehadyS97:::Richard K. Shehady::Daniel P. Siewiorek:::A Methodology to Automate User Interface Testing Using Variable Finite State Machines.
+conf/ftcs/PeercyB95:::Michael Peercy::Prithviraj Banerjee:::Software Schemes of Reconfiguration and Recovery in Distributed Memory Multicomputers Using the Actor Model.
+conf/ftcs/Gaisler97:::Jiri Gaisler:::Evaluation of a 32-bit Microprocessor with Built-in Concurrent Error-Detection.
+conf/ftcs/SsuF98:::Kuo-Feng Ssu::W. Kent Fuchs:::PREACHES - Portable Recovery and Checkpointing in Heterogeneous Systems.
+conf/ftcs/ChenG91:::C. L. Chen::L. E. Grosbach:::Fault-Tolerant Memory Design in the IBM Application System/400.
+conf/ftcs/VardanegaDCMMA95:::Tullio Vardanega::P. David::J.-F. Chane::W. Mader::R. Messaros::Jean Arlat:::On the Development of Fault-Tolerant On-Board Control Software and its Evaluation by Fault Injection.
+conf/ftcs/JanssensF93:::Bob Janssens::W. Kent Fuchs:::Relaxing Consistency in Recoverable Distributed Shared Memory.
+conf/ftcs/PrataS99:::Paula Prata::João Gabriel Silva:::Algorithm Based Fault Tolerance versus Result-Checking for Matrix Computations.
+conf/ftcs/LiggesmeyerR98:::Peter Liggesmeyer::Martin Rothfelder:::Improving System Reliability with Automatic Fault Tree Generation.
+conf/ftcs/NicolaHS92:::Victor F. Nicola::Philip Heidelberger::Perwez Shahabuddin:::Uniformization and Exponential Transformation: Techniques for Fast Simulation of Highly Dependable Non-Markovian Systems.
+conf/ftcs/KanekawaMISMY98:::Nobuyasu Kanekawa::Takayuki Meguro::Kyosuke Isono::Yosuke Shima::Naoto Miyazaki::Shinichiro Yamaguchi:::Fault Detection and Recovery Coverage Improvement by Clock Synchronized Duplicated Systems with Optimal Time Diversity.
+conf/ftcs/BrightS94:::Jonathan D. Bright::Gregory F. Sullivan:::Checking Mergeable Priority Queues.
+conf/ftcs/HorstJL93:::Robert W. Horst::Doug Jewett::Daniel Lenoski:::The Risk of Data Corruption in Microprocessor-based Systems.
+conf/ftcs/ChaRCPI93:::Hungse Cha::Elizabeth M. Rudnick::Gwan S. Choi::Janak H. Patel::Ravishankar K. Iyer:::A Fast and Accurate Gate-Level Transient Fault Simulation Environment.
+conf/ftcs/FengML99:::Wenyi Feng::Fred J. Meyer::Fabrizio Lombardi:::Two-Step Algorithms for Maximal Diagnosis of Wiring Interconnects.
+conf/ftcs/BuhrmanGH95:::Harry Buhrman::Juan A. Garay::Jaap-Henk Hoepman:::Optimal Resiliency against Mobile Faults.
+conf/ftcs/LeePI96:::Inhwan Lee::Gilbert Pitt::Ravishankar K. Iyer:::Efficient Service of Rediscovered Software Problems.
+conf/ftcs/KroppKS98:::Nathan P. Kropp::Philip J. Koopman Jr.::Daniel P. Siewiorek:::Automated Robustness Testing of Off-the-Shelf Software Components.
+conf/ftcs/HickeyR99:::Takako M. Hickey::Robbert van Renesse:::An Execution Service for a Partitionable Low Bandwidth Network.
+conf/ftcs/FujiwaraK93:::Eiji Fujiwara::Masato Kitakami:::A Class of Error Locating Codes for Byte-Organized Memory Systems.
+conf/ftcs/ZorianI93:::Yervant Zorian::André Ivanov:::Programmable Space Compaction for BIST.
+conf/ftcs/AcevedoBERS96:::B. Acevedo::L. Bahler::E. N. Elnozahy::V. Ratan::M. E. Segal:::Highly Available Directory Services in DCE.
+conf/ftcs/SlyeE96:::J. Hamilton Slye::E. N. Elnozahy:::Supporting Nondeterministic Execution in Fault-Tolerant Systems.
+conf/ftcs/BowenP91:::Nicholas S. Bowen::Dhiraj K. Pradhan:::Program Fault Tolerance Based on Memory Access Behavior.
+conf/ftcs/FujinoF92:::Takayuli Fujino::Hideo Fujiwara:::An Efficient Test Generation Algorithm Based on Search State Dominance.
+conf/ftcs/KantawalaT93:::Kamal Kantawala::D. L. Tao:::Designing Concurrent Checking Sorting Networks.
+conf/ftcs/MishraB99:::Amitabh Mishra::Prithviraj Banerjee:::An Algorithm Based Error Detection Scheme for the Multigrid Algorithm.
+conf/ftcs/HamdaouiR94:::Moncef Hamdaoui::Parameswaran Ramanathan:::A Service Policy for Real-Time Customers with (<i>m, k, </i>)-Firm Deadlines.
+conf/ftcs/Nicolaidis93:::Michael Nicolaidis:::Efficient Implementations of Self-Checking Adders and ALUs.
+conf/ftcs/PlankKD95:::James S. Plank::Youngbae Kim::Jack Dongarra:::Algorithm-Based Diskless Checkpointing for Fault Tolerant Matrix Operations.
+conf/ftcs/Morinaga00:::Satoshi Morinaga:::A General Model for Reliability Maximization Problem Under Given Redundancy.
+conf/ftcs/KermarrecCGMP95:::Anne-Marie Kermarrec::Gilbert Cabillic::Alain Gefflaut::Christine Morin::Isabelle Puaut:::A Recoverable Distributed Shared Memory Integrating Coherence and Recoverability.
+conf/ftcs/SungR92:::Jamlung Sung::G. Robert Redinbo:::Protecting Practical FFT Implementations that Share Common Processing Elements.
+conf/ftcs/Bou-GhazaleM92:::Silvio Bou-Ghazale::Peter N. Marinos:::Testing with Correlated Test Vectors.
+conf/ftcs/EychenneBJK93:::Yves Eychenne::Michel Simatic::Christophe Baradel::Laurent Junot::Bruno Kohen:::The Use of Object Groups to Implement Dependability in a Process Control Supervision System.
+conf/ftcs/MishraFX99:::Shivakant Mishra::Lan Fei::Guming Xing:::Design, Implementation and Performance Evaluation of a CORBA Group Communication Service.
+conf/ftcs/HuangK93:::Yennun Huang::Chandra M. R. Kintala:::Software Implemented Fault Tolerance Technologies and Experience.
+conf/ftcs/TzengC91:::Nian-Feng Tzeng::Po-Jen Chuang:::Fault-Tolerant Gamma Interconnection Networks.
+conf/ftcs/SinghK92:::Adit D. Singh::C. M. Krishna:::Chip Test Optimization Using Defect Clustering Information.
+conf/ftcs/JennAROK94:::Eric Jenn::Jean Arlat::Marcus Rimén::Joakim Ohlsson::Johan Karlsson:::Fault Injection into VHDL Models: The MEFISTO Tool.
+conf/gldv/Wagner95a:::Roland W. Wagner:::Zum Computereinsatz in der Sprecherziehung - Bedarf und Möglichkeiten.
+conf/gldv/Nubel93:::Rita Nübel:::Möglichkeiten zur Evaluierung eines kommerziellen MÜ-Systems: Erfahrungsbericht aus computer linguistischer Sicht.
+conf/gldv/BerglerP89:::Sabine Bergler::James Pustejovsky:::Temporal Reasoning from Lexical Semantics.
+conf/gldv/Wagner95:::Ralph Wagner:::Korpusbasierte Konstruktion unscharfer Einheiten - Revision und Modifikation Harris'scher Verfahren.
+conf/gldv/Lass97:::Jan Lass:::Terminologiedatenbank T42.
+conf/gldv/Weber83:::Heinz J. Weber:::Ein dreistufiges Lexikonsystem.
+conf/gldv/Weber93:::Nico Weber:::Computergestützte Analyse von Definitionstexten in einem deutschen Wörterbuch.
+conf/gldv/SehnertE01:::Kerstin Sehnert::Fred Englert:::Prädiktion von Intonationsverläufen durch "Unit Selection".
+conf/gldv/GeislerSK87:::Hans Geisler::Klaus G. Schweisthal::Kurt Kotten:::Velare a-Realisationen im Bairischen.
+conf/gldv/Wothke93:::Klaus Wothke:::Statistisch basiertes Wortklassentagging von deutschen Textkorpora. Einige Experimente.
+conf/gldv/Rosner86:::Dietmar Rösner:::Von Titeln zu Texten. Zur Entwicklung des Textgenerators SEMTEX.
+conf/gldv/Willee93:::Gerd Willée:::Erfahrungen mit morphologischem Tagging am Beispiel des LIMAS-Korpus.
+conf/gldv/Mertens97:::Andreas Mertens:::Robustes Parsing mit Wortagenten.
+conf/gldv/Fehrle89:::Thomas Fehrle:::Eine menüorientierte Klärungskomponente für ein natürlichsprachliches Auskunftssystem.
+conf/gldv/MarschallS87:::Ernst Marschall::Otto Schmidbauer:::Berücksichtigung von akustisch-phonetischen Ambiguitäten bei einer bottom-up Worthypothesen-Generierung.
+conf/gldv/Hitzenberger83:::Ludwig Hitzenberger:::Möglichkeiten bei der Anwendung phonologischer Verfahren bei der Namenssuche in Datenbanken.
+conf/gldv/Hitzenberger87:::Ludwig Hitzenberger:::Das Projekt FACID (Fachsprachliches Corpus informationsabfragender Dialoge).
+conf/gldv/Mayer89:::Renate Mayer:::Benutzerschnittstelle für eine Terminologiedatenbank.
+conf/gldv/SchmidLSHM01:::Tanja Schmid::Anke Lüdeling::Bettina Säuberlich::Ulrich Heid::Bernd Möbius:::DeKo - Ein System zur Analyse komplexer Wörter.
+conf/gldv/Kubler01:::Sandra Kübler:::Braucht Nominalphrasenerkennung linguistisches Wissen?
+conf/gldv/Thurmair87:::Gregor Thurmair:::Der Einsatz semantischer Verfahren in sprachverstehenden Systemen.
+conf/gldv/Hanrieder95:::Gerhard Hanrieder:::Kognitiv adäquates Parsing mit LAUG.
+conf/gldv/KasparLW87:::B. Kaspar::B. Lochschmidt::H. Wolf:::Spracherkennung und -synthese in der Telekommunikation.
+conf/gldv/Ruggeberg86:::Helga Rüggeberg:::Die GPSG mit ihrer neuen Theorie der FOOT-Merkmale angewandt auf einige Fälle des Spanischen.
+conf/gldv/HeyerW97:::Gerhard Heyer::Christian Wolff:::Einleitung.
+conf/hase/CailliauB99:::Damien Cailliau::Remy Bellenger:::The CorotInstrument's Software: Towards Intrinsically Reconfigurable Real-Time Embedded Processing Software in Space-Born Instruments.
+conf/hase/Ahn96:::Sanghyun Ahn:::Real-time multicast connection establishment over ATM networks.
+conf/hase/Yeh98:::Y. C. (Bob) Yeh:::Design Considerations in Boeing 777 Fly-By-Wire Computers.
+conf/hase/IyerKWB98:::Ravishankar K. Iyer::Zbigniew Kalbarczyk::Keith Whisnant::Saurabh Bagchi:::A Flexible Software Architecture for High Availability Computing.
+conf/hase/HechtHW97:::Herbert Hecht::Myron Hecht::Dolores R. Wallace:::Toward More Effective Testing for High-Assurance Systems.
+conf/hase/PichaiU96:::Ramkumar V. Pichai::Joseph E. Urban:::A technique for validating Booch object-oriented designs from extensions to the Descartes specification language.
+conf/hase/LatellaM01:::Diego Latella::Mieke Massink:::A Formal Testing Framework for UML Statechart Diagrams Behaviours: From Theory to Automatic Verification.
+conf/hase/Castor96:::Virginia L. Castor:::The Department of Defense Science and Technology (S&amp;T) Program.
+conf/hase/SubramanianRT98:::Satish Subramanian::Sanjai Rayadurgam::Wei-Tek Tsai:::Design for Constraint Violation Detection in Safety-Critical Systems.
+conf/hase/WoitM98:::Denise M. Woit::David V. Mason:::Software Component Independence.
+conf/hase/Raynal97:::Michel Raynal:::A Case Study of Agreement Problems in Distributed Systems: Non-Blocking Atomic Commitment.
+conf/hase/YenCC99:::I-Ling Yen::Biao Chen::Ing-Ray Chen:::Real-Time Atomic Transaction Processing Using Multi-Invariant Data Structure.
+conf/hase/AlkhalifaN97:::Z. Alkhalifa::V. S. S. Nair:::Design of a Portable Control-Flow Checking Technique.
+conf/hase/Sedigh-AliGP02:::Sabra Sedigh-Ali::Arif Ghafoor::Raymond A. Paul:::Metrics-Based Framework for Decision Making in COTS-Based Software Systems.
+conf/hase/TaiCA99:::Ann T. Tai::Savio N. Chau::Leon Alkalai:::COTS-Based Fault Tolerance in Deep Space: Qualitative and Quantitative Analyses of a Bus Network Architecture.
+conf/hase/HooverHKT99:::Carol L. Hoover::Jeffery P. Hansen::Philip Koopman::Sandeep Tamboli:::The Amaranth Framework: Probabilistic, Utility-Based Quality of Service Management for High-Assurance Computing.
+conf/hase/WinterB96:::Victor L. Winter::James M. Boyle:::Proving refinement transformations for deriving high-assurance software.
+conf/hase/BernatMP97:::Guillem Bernat::Jose Miro-Julia::Julian Proenza:::A Technique to Analyze the Tolerance to Transient Overloads of a Fault-Tolerant Real-Time System.
+conf/hase/KhoshgoftaarABHT96:::Taghi M. Khoshgoftaar::Edward B. Allen::Lofton A. Bullard::Robert Halstead::Gary P. Trio:::A tree-based classification model for analysis of a military software system.
+conf/hase/KhoshgoftaarAHTF97:::Taghi M. Khoshgoftaar::Edward B. Allen::Robert Halstead::Gary P. Trio::Ronald M. Flass:::Process Measures for Predicting Software Quality.
+conf/hcat/BrzozowskiE00:::Janusz A. Brzozowski::Zoltán Ésik:::Hazard Algebras (Extended Abstract).
+conf/hcat/Hopcroft00:::John E. Hopcroft:::Automata Theory: Its Past and Future.
+conf/hccl/BeckwithBC02:::Laura Beckwith::Margaret M. Burnett::Curtis R. Cook:::Reasoning about Many-to-Many Requirement Relationships in Spreadsheets.
+conf/hccl/BottoniCLP02:::Paolo Bottoni::Maria Francesca Costabile::Stefano Levialdi::Antonio Piccinno:::Towards Formal Measures of Usability for Visual Interactive Systems.
+conf/hccl/GestwickiJ02:::Paul Gestwicki::Bharat Jayaraman:::Interactive Visualization of Java Programs.
+conf/hccl/BanyasadC02a:::Omid Banyasad::Philip T. Cox:::Defining Behaviours for Solids in a Visual Design Environment.
+conf/hccl/PaneMM02:::John F. Pane::Brad A. Myers::Leah B. Miller:::Using HCI Techniques to Design a More Usable Programming System.
+conf/gpce/WangM03:::Zhenghao Wang::Richard R. Muntz:::On Stage Ordering in Staged Computation.
+conf/gpce/Dincklage03:::Daniel von Dincklage:::Making Patterns Explicit with Metaprogramming.
+conf/gpce/JarviWL03:::Jaakko Järvi::Jeremiah Willcock::Andrew Lumsdaine:::Concept-Controlled Polymorphism.
+conf/gpce/Danvy03:::Olivier Danvy:::A Journey from Interpreters to Compilers and Virtual Machines.
+conf/gpce/ConselHRSYP03:::Charles Consel::Hedi Hamdi::Laurent Réveillère::Lenin Singaravelu::Haiyan Yu::Calton Pu:::Spidle: A DSL Approach to Specifying Streaming Applications.
+conf/gpce/CzarneckiBUE02:::Krzysztof Czarnecki::Thomas Bednasch::Peter Unger::Ulrich W. Eisenecker:::Generative Programming for Embedded Software: An Industrial Experience Report.
+conf/gpce/PintoFT03:::Mónica Pinto::Lidia Fuentes::José M. Troya:::DAOP-ADL: An Architecture Description Language for Dynamic Component and Aspect-Based Development.
+conf/gpce/Kastner03:::Daniel Kästner:::TDL: A Hardware Description Language for Retargetable Postpass Optimizations and Analyses.
+conf/grec/CesariniGMS95:::Francesca Cesarini::Marco Gori::Simone Marinai::Giovanni Soda:::A Hybrid System for Locating and Recognizing Low Level Graphic Items.
+conf/grec/LiuD97:::Liu Wenyin::Dov Dori:::Genericity in Graphics Recognition Algorithms.
+conf/grec/StuckelbergD99:::Marc Vuilleumier Stückelberg::David S. Doermann:::Model-Based Graphics Recognition.
+conf/grec/HartogHGO99:::Jurgen den Hartog::Bernardus T. Holtrop::Marlies E. de Gunst::Ernst-Peter Oosterbroek:::Interpretation of Geographic Vector-Data in Practice.
+conf/grec/HilaireT01:::Xavier Hilaire::Karl Tombre:::Improving the Accuracy of Skeleton-Based Vectorization.
+conf/grec/BlosteinLRZ01:::Dorothea Blostein::Edward Lank::Arlis Rose::Richard Zanibbi:::User Interfaces for On-Line Diagram Recognition.
+conf/grec/SanchezLT01:::Gemma Sánchez::Josep Lladós::Karl Tombre:::An Error-Correction Graph Grammar to Recognize Texture Symbols.
+conf/grec/WenyinD97:::Liu Wenyin::Dov Dori:::A Proposed Scheme for Performance Evaluation of Graphics/Text Separation Algorithms.
+conf/grec/AnquetilCD99:::Éric Anquetil::Bertrand Coüasnon::Frédéric Dambreville:::A Symbol Classifier Able to Reject Wrong Shapes for Document Recognition Systems.
+conf/grec/NagySSFGKLSSX97:::George Nagy::Ashok Samal::Sharad C. Seth::T. Fisher::E. Guthmann::K. Kalafala::L. Li::Prateek Sarkar::S. Sivasubramaniam::Yihong Xu:::A Prototype for Adaptive Association of Street Names with Streets on Maps.
+conf/grec/Ah-Soon97:::Christian Ah-Soon:::A Constraint Network for Symbol Detection in Architectural Drawings.
+conf/grec/LevachkineVAK01:::Serguei Levachkine::Aurelio Velázquez::Victor Alexandrov::Mikhail Kharinov:::Semantic Analysis and Recognition of Raster-Scanned Color Cartographic Images.
+conf/grec/AgamD97:::Gady Agam::Its'hak Dinstein:::Directional Decomposition of Line-Drawing Images Based on Regulated Morphological Operations.
+conf/grec/LanzaMLAC01:::Antonietta Lanza::Donato Malerba::Francesca A. Lisi::Annalisa Appice::Michelangelo Ceci:::Generating Logic Descriptions for the Automated Interpretation of Topographic Maps.
+conf/grid/WeissmanS01:::Jon B. Weissman::Pramod Srinivasan:::Ensemble Scheduling: Resource Co-Allocation on the Computational Grid.
+conf/grid/ApolloniaGG00:::Gaëtan Scotto di Apollonia::Christophe Gransart::Jean-Marc Geib:::FOCALE: Towards a Grid View of Large Scale Computation Components.
+conf/grid/DenisPP01:::Alexandre Denis::Christian Pérez::Thierry Priol:::Towards High Performance CORBA and MPI Middlewares for Grid Computing.

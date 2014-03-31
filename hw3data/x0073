@@ -1,0 +1,200 @@
+conf/ipps/SeredynskiZ02:::Franciszek Seredynski::Albert Y. Zomaya:::Parallel and Distributed Computing with Coevolutionary Algorithms.
+conf/ipps/DaiG91:::Kechang Dai::Wolfgang K. Giloi:::Confining Imperative Languages for Parallel Processing.
+conf/ipps/BeazleyLGT94:::David M. Beazley::Peter S. Lomdahl::Niels Grønbech-Jensen::Pablo Tamayo:::A High Performance Communications and Memory Caching Scheme for Molecular Dynamics on the CM-5.
+conf/ipps/KapoorSB94:::Ashish Kapoor::Heiko Schröder::Bryan Beresford-Smith:::Deterministic Permutation Routing on a Reconfigurable Mesh.
+conf/ipps/DasC92:::Sajal K. Das::Calvin Ching-Yuen Chen:::A New Parallel Algorithm for Breadth-First Search on Interval Graphs.
+conf/ipps/DasY91:::Sajal K. Das::Cui-Qing Yang:::Performance of Parallel Spanning Tree Algorithms on Linear Arrays of Transputers and Unix Systems.
+conf/ipps/ChenSR02:::Yuan Chen::Karsten Schwan::David W. Rosen:::Java Mirrors: Building Blocks for Remote Interaction.
+conf/ipps/TakataKHY02:::Ryo Takata::Kenji Kise::Hiroki Honda::Toshitsugu Yuba:::DEM-1: A Particle Simulation Machine for Efficient Short-Range Interaction Computations.
+conf/ipps/DouJWSZ03:::Wen Dou::Yan Jia::Huai Ming Wang::Wen Qiang Song::Peng Zou:::A P2P Approach for Global Computing.
+conf/ipps/SenarRCL98:::Miquel A. Senar::Ana Ripoll::Ana Cortés::Emilio Luque:::Clustering and Reassignment-Based Mapping Strategy for Message Passing Architectures.
+conf/ipps/BarbuchaJRF01:::Dariusz Barbucha::Piotr Jedrzejowicz::Ewa Ratajczak::Marcin Forkiewicz:::Population Learning Algorithm Versus Evolutionary Computation.
+conf/ipps/ParkLC01:::Seong-Ho Park::Eun-Ji Lim::Ki-Dong Chung:::Popularity-based Partial Caching for VOD Systems using a Proxy Server.
+conf/ipps/ParkSM97:::Gyung-Leen Park::Behrooz Shirazi::Jeff Marquis:::DFRN: A New Approach for Duplication Based Scheduling for Distributed Memory Multiprocessor Systems.
+conf/ipps/FanB01:::Chenggong Charles Fan::Jehoshua Bruck:::The Raincore Distributed Session Service for Networking Elements.
+conf/ipps/Pietracaprina98:::Andrea Pietracaprina:::Deterministic Routing of h-relations on the Multibutterfly.
+conf/ipps/OuaissGSKV98:::Iyad Ouaiss::Sriram Govindarajan::Vinoo Srinivasan::Meenakshi Kaul::Ranga Vemuri:::An Integrated Partitioning and Synthesis System for Dynamically Reconfigurable Multi-FPGA Architectures.
+conf/ipps/HeHW01:::Xiangjian He::Tom Hintz::Qiang Wu:::A Skeleton Algorithm on Clusters for Image Edge Detection.
+conf/ipps/KatangurPF02:::Ajay K. Katangur::Yi Pan::Martin D. Fraser:::Message Routing and Scheduling in Optical Multistage Networks Using Simulated Annealing.
+conf/ipps/Dai93:::H. K. Dai:::On Synchronous Strictly Non-Blocking Concentrators and Generalized-Concentrators.
+conf/ipps/DuZ99:::Xing Du::Xiaodong Zhang:::The Impact of Memory Hierarchies on Cluster Computing.
+conf/ipps/ParkT91:::Sung-Woo Park::Wei Kang Tsai:::Distributed Hierarchical Optimal Routing Using Aggregation/Disaggergation and Decomposition/Composition Techniques.
+conf/ipps/ChaumetteU01:::Serge Chaumette::Asier Ugarte:::A formal model of the java multi-threading system and its validation on a known problem.
+conf/ipps/BellB03:::Christian Bell::Dan Bonachea:::A New DMA Registration Strategy for Pinning-Based High Performance Networks.
+conf/ipps/RohCPP01:::Yangwoo Roh::JaeWoong Chung::Cheol Ho Park::Daeyeon Park:::Efficient Fine-Grain Sharing Support for Software DSMs Through Segmentation.
+conf/ipps/Hsu91:::Chiun-Chieh Hsu:::Scheduling and Optimization for Multiprocessor Systems.
+conf/ipps/PavelA96:::Sandy Pavel::Selim G. Akl:::Efficient Algorithms for the Hough Transform on Arrays with Reconfigurable Optical Buses.
+conf/ipps/Kim99:::Kichul Kim:::Shuffle Memory System.
+conf/ipps/Lee02:::Craig A. Lee:::Message from the HCW Program Chair.
+conf/ipps/Lee95:::Gyungho Lee:::An assessment of COMA multiprocessors.
+conf/ipps/LiJ91:::Juan Li::Leah H. Jamieson:::A System for Algorithm-Architecture Mapping Based on Dependence Graph Matching and Hypergraphs.
+conf/ipps/BrudaA99:::Stefan D. Bruda::Selim G. Akl:::The Characterization of Data-Accumulating Algorithms.
+conf/ipps/NiB01:::Nan Ni::Laxmi N. Bhuyan:::Fair Scheduling for Input Buffered Switches.
+conf/ipps/GuitartMTA03:::Jordi Guitart::Xavier Martorell::Jordi Torres::Eduard Ayguadé:::Application/Kernel Cooperation Towards the Efficient Execution of Shared-Memory Parallel Java Codes.
+conf/ipps/ThulasiramLNDG01:::Ruppa K. Thulasiram::Lubomir Litov::Hassan Nojumi::Christopher T. Downing::Guang R. Gao:::Multithreaded Algorithms for Pricing a Class of Complex Options.
+conf/ipps/DattaOS00:::Amitava Datta::Robyn A. Owens::Subbiah Soundaralakshmi:::Fast Sorting on a Linear Array with a Reconfigurable Pipelined Bus System.
+conf/ipps/BishopOI98:::Benjamin Bishop::Robert Michael Owens::Mary Jane Irwin:::Aggressive Dynamic Execution of Multimedia Kernel Traces.
+conf/ipps/Skillicorn02:::David B. Skillicorn:::The Case for Datacentric Grids.
+conf/ipps/VenkatramaniPD96:::Anjan K. Venkatramani::Timothy Mark Pinkston::José Duato:::Generalized Theory for Deadlock-Free Adaptive Wormhole Routing and its Application to Disha Concurrent.
+conf/ipps/VetterDK93:::Ronald J. Vetter::David Hung-Chang Du::Alan E. Klietz:::The CM-2 Data Transportation Problem.
+conf/ipps/Gonzalez01:::Teofilo F. Gonzalez:::Gossiping in the Multicasting Communication Environment.
+conf/ipps/SuW99:::Te-Chou Su::Ia-Shung Wang:::On-Demand Multicast Routing Scheme and its Algorithms.
+conf/ipps/Keleher98:::Peter J. Keleher:::Update Protocols and Iterative Scientific Applications.
+conf/ipps/BhattJSBW95:::Devesh Bhatt::Rakesh Jha::Todd Steeves::Rashmi Bhatt::David Wills:::SPI: an instrumentation development environment for parallel/distributed systems.
+conf/ipps/SrinivasanHAB03:::Anand Srinivasan::Philip Holman::James H. Anderson::Sanjoy K. Baruah:::The Case for Fair Multiprocessor Scheduling.
+conf/ipps/Campbell98:::Marc E. Campbell:::Evaluating ASIC, DSP, and RISC Architectures for Embedded Applications.
+conf/ipps/YuL91:::Albert Chuang-shi Yu::Kwei-Jay Lin:::Scheduling Parallelizable Imprecise Computations on Multiprocessors.
+conf/ipps/CarinoB02:::Ricolindo Cariño::Ioana Banicescu:::Dynamic Scheduling Parallel Loops with Variable Iterate Execution Times.
+conf/ipps/BanusAL03:::Josep M Banús::Alex Arenas::Jesús Labarta:::Dual Priority Algorithm to Schedule Real-Time Tasks in a Shared Memory Multiprocessor.
+conf/ipps/FernandezGD01:::Joaquin Fernández::José M. García::José Duato:::A New Approach to Provide Real-Time Services on High-Speed Local Area Networks.
+conf/ipps/WasiewiczBMW99:::Piotr Wasiewicz::Piotr Borsuk::Jan J. Mulawka::Piotr Weglenski:::Implementation of Data Flow Logical Operation via Self-Assembly of DNA.
+conf/ipps/KurzyniecWS03:::Dawid Kurzyniec::Tomasz Wrzosek::Vaidy S. Sunderam:::Heterogeneous Access to Service-Based Distributed Computing: The RMIX Approach.
+conf/ipps/KimC94:::Hong K. Kim::Soon Myoung Chung:::Parallel Logic Simulation Using Time Warp on Shared-Memory Multiprocessors.
+conf/ipps/RajanD99:::Kumar Rajan::Narsingh Deo:::A Parallel Algorithm for Bound-Smoothing.
+conf/ipps/JunM00:::Yong-Kee Jun::Charles E. McDowell:::Scalable Monitoring Technique for Detecting Races in Parallel Programs.
+conf/ipps/HomerP95:::Steven Homer::Marcus Peinado:::A highly parallel algorithm to approximate MaxCut on distributed memory architectures.
+conf/ipps/LeeR00:::Dong-Woo Lee::R. S. Ramakrishna:::VisOK: A Flexible Visualization System for Distributed Java Object Application.
+conf/ipps/BeaumontBR02:::Olivier Beaumont::Vincent Boudet::Yves Robert:::A Realistic Model and an Efficient Heuristic for Scheduling with Heterogeneous Processors.
+conf/ipps/LiJA03:::Xiaogang Li::Ruoming Jin::Gagan Agrawal:::A Compilation Framework for Distributed Memory Parallelization of Data Mining Algorithms.
+conf/ipps/ZhouSEC01:::Dong Zhou::Karsten Schwan::Greg Eisenhauer::Yuan Chen:::JECho: Supporting Distributed High Performance Applications with Java Event Channels.
+conf/ipps/LimY00:::Hock-Beng Lim::Pen-Chung Yew:::Efficient Integration of Compiler-Directed Cache Coherence and Data Prefetching.
+conf/ipps/LiuH01:::Haiming Liu::Weiwu Hu:::A Comparison of Two Strategies of Dynamic Data Prefetching in Software DSM.
+conf/ipps/TabircaTFY03:::Sabin Tabirca::Tatiana Tabirca::Len Freeman::Laurence Tianruo Yang:::Static Workload Balance Scheduling; Continuous Case.
+conf/ipps/RamakrishnanS00:::Vara Ramakrishnan::Isaac D. Scherson:::Executing Communication-Intensive Irregular Programs Efficiently.
+conf/ipps/BrobergLG98:::Magnus Broberg::Lars Lundberg::Håkan Grahn:::VPPB - A Visualization and Performance Prediction Tool for Multithreaded Solaris Programs.
+conf/ipps/MoonUS95:::Bongki Moon::Mustafa Uysal::Joel H. Saltz:::Index translation schemes for adaptive computations on distributed memory multicomputers.
+conf/ipps/WengC02:::Tien-hsiung Weng::Barbara M. Chapman:::Implementing OpenMP Using Dataflow Execution Model for Data Locality and Efficient Parallel Execution.
+conf/ipps/EvripidouG91:::Paraskevas Evripidou::Jean-Luc Gaudiot:::Input/Output Operations for Hybrid Data-Flow/Control-Flow Systems.
+conf/ipps/IbrahimB01:::Khaled Z. Ibrahim::Gregory T. Byrd:::On the Exploitation of Value Predication and Producer Identification to Reduce Barrier Synchronization Time.
+conf/ipps/BenknerB01:::Siegfried Benkner::Thomas Brandes:::High-Level Data Mapping for Clusters of SMPs.
+conf/ipps/MooreN96:::Sherry Moore::Lionel M. Ni:::The Effects of Network Contention on Processor Allocation Strategies.
+conf/ipps/ClementSJ99:::Mark J. Clement::Quinn Snell::Glenn Judd:::High Performance Computing for the Masses.
+conf/ipps/RamanV95:::Rajeev Raman::Uzi Vishkin:::Parallel algorithms for database operations and a database operation for parallel algorithms.
+conf/ipps/PlankBDWC03:::James S. Plank::Micah Beck::Jack Dongarra::Richard Wolski::Henri Casanova:::Optimizing Performance and Reliability in Distributed Computing Systems through Wide Spectrum Storage.
+conf/ipps/Hariri02:::Salim Hariri:::Workshop Description and Introduction.
+conf/ipps/ShavitL00:::Nir Shavit::Itay Lotan:::Skiplist-Based Concurrent Priority Queues.
+conf/ipps/AbtsSL03:::Dennis Abts::Steve Scott::David J. Lilja:::So Many States, So Little Time: Verifying Memory Coherence in the Cray X1.
+conf/ipps/AliabadiJBSZ01:::Shahrouz Aliabadi::Andrew Johnson::Charlie Berger::Jane Smith::Bruce Zellars:::High Performance Computing in Coastal and Hydraulic Applications.
+conf/ipps/MelabTP99:::Nordine Melab::El-Ghazali Talbi::Serge G. Petiton:::A Parallel Adaptive version of the Block-based Gauss-Jordan Algorithm.
+conf/ipps/CangW98:::Songluan Cang::Jie Wu:::Minimizing Total Communication Distance of Time-Step Optimal Broadcast in Mesh Networks.
+conf/ipps/Ramakrishnan01:::Sub Ramakrishnan:::Java Based E-Commerce middleware.
+conf/ipps/Hwang97:::Rong-Yuh Hwang:::An Efficient Technique of Instruction Scheduling on a Superscalar-Based Mulprocessor.
+conf/ipps/BischofEE99:::Stefan Bischof::Ralf Ebner::Thomas Erlebach:::Parallel Load Balancing for Problems with Good Bisectors.
+conf/ipps/CorbalanL01:::Julita Corbalán::Jesús Labarta:::Improving Processor Allocation through Run-Time Measured Efficiency.
+conf/ipps/Qiao01:::Xiangzhen Qiao:::Performance Improvement for Applications on Parallel Computers.
+conf/ipps/DubnickiIFL96:::Cezary Dubnicki::Liviu Iftode::Edward W. Felten::Kai Li:::Software Support for Virtual Memory-Mapped Communication.
+conf/ipps/TaijiMES94:::Makoto Taiji::Junichiro Makino::Toshikazu Ebisuzaki::Daiichiro Sugimoto:::GRAPE-4: A Teraflops Massively Parallel Special-Purpose Computer System for Astrophysical itN-body Simulations.
+conf/ipps/Niehaus99:::Douglas Niehaus:::Improving Support for Multimedia System Experimentation and Development.
+conf/ipps/CatalyurekSFKS02:::Ümit V. Çatalyürek::Eric Stahlberg::Renato Ferreira::Tahsin M. Kurç::Joel H. Saltz:::Improving Performance of Multiple Sequence Alignment Analysis in Multi-Client Environments.
+conf/ipps/Massingill98:::Berna L. Massingill:::Experiments with Program Parallelization Using Archetypes and Stepwise Refinement.
+conf/ipps/Bahsoun00:::Jean Paul Bahsoun:::Tutorial 2: A Foundation for Composing Concurrent Objects.
+conf/ipps/BourgeoisT00a:::Anu G. Bourgeois::Jerry L. Trahan:::Relating Two-Dimensional Reconfigurable Meshes with Optically Pipelined Buses.
+conf/ipps/SubramanianRW00:::Swaminathan Subramanian::Dhananjai Madhava Rao::Philip A. Wilsey:::Study of a Multilevel Approach to Partitioning for Parallel Logic Simulation.
+conf/ipps/Shih97:::Jau-Der Shih:::Adaptive Fault-Tolerant Wormhole Routing Algorithms for Hypercube and Mesh Interconnection.
+conf/ipps/StaggHS00:::Alan Stagg::Jackie Hallberg::Joseph Schmidt:::A Parallel, Adaptive Refinement Scheme for Tetrahedral and Triangular Grids.
+conf/ipps/NakanoO96:::Koji Nakano::Stephan Olariu:::An Optimal Algorithm for the Angle-Restricted All Nearest Neighbor Problem on the Reconfigurable.
+conf/ipps/Sobe01:::Peter Sobe:::Concurrent Updates on Striped Data Streams in Clustered Server Systems.
+conf/ipps/Sobe02:::Peter Sobe:::Checking a Non-Byzantine FT Scheme against Byzantine Faults.
+conf/ipps/Arafeh02:::Bassel R. Arafeh:::Clustering Algorithm for Scheduling Parallel Programs on NOWs with Synchronization Requirements at the Application Level.
+conf/ipps/LiewOCC01:::E. W. K. Liew::B. C. O'Neill::S. Clark::A. Cawley:::Porting Transputer Application to Multi-processors StrongARM System.
+conf/ipps/KeleherT97:::Peter J. Keleher::Chau-Wen Tseng:::Enhancing Software DSM for Compiler-Parallelized Applications.
+conf/ipps/JeonK02:::Minsoo Jeon::Dongseung Kim:::Load-Balanced Parallel Merge Sort on Distributed Memory Parallel Computers.
+conf/ipps/KalyanaramanAK02:::Anantharaman Kalyanaraman::Srinivas Aluru::Suresh C. Kothari:::Parallel EST Clustering.
+conf/ipps/GuanMU95:::Xiaojun Guan::Richard J. Mural::Edward C. Uberbacher:::Sequence comparison on a cluster of workstations using the PVM system.
+conf/ipps/FrankeMP99:::Hubertus Franke::José E. Moreira::Pratap Pattnaik:::Process Tracking for Parallel Job Control.
+conf/ipps/GuanTB93:::Wei-Jing Guan::Wei K. Tsai::Douglas M. Blough:::An Analytical Model for Wormhole Routing in Multicomputer Interconnection Networks.
+conf/ipps/DekelH93:::Eliezer Dekel::Jie Hu:::Parallel Dynamic st-numbering and Applications.
+conf/ipps/JiMZB03:::Yongchang Ji::Dan C. Marinescu::Wei Zhang::Timothy S. Baker:::Orientation Refinement of Virus Structures with Unknown Symmetry.
+conf/ipps/PongD96:::Fong Pong::Michel Dubois:::Formal Verification of Delayed Consistency Protocols.
+conf/ipps/GeorgeSTT01:::Alan D. George::K. Sistla::Robert W. Todd::R. Tilak:::Performance Analysis of Flat and Layered Gossip Services for Failure Detection and Consensus in Scalable Heterogeneous Clusters.
+conf/ipps/KothariCDMBLGB02:::Suraj C. Kothari::Jaekyu Cho::Yunbo Deng::Simanta Mitra::Xindi Bian::Ruby Leung::Steven J. Ghan::Alfred J. Bourgeois:::Software Tools and Parallel Computing for Numerical Weather Prediction Models.
+conf/ipps/XingZWL02:::Chunxiao Xing::Lizhu Zhou::Kaihua Wu::Guilin Liu:::Research and Implementation of Tsinghua Architecture Digital Library.
+conf/ipps/ChoiY96:::Lynn Choi::Pen-Chung Yew:::Eliminating Stale Data References through Array Data-Flow Analysis.
+conf/ipps/ShinanoFIH98:::Yuji Shinano::Tetsuya Fujie::Yoshiko Ikebe::Ryuichi Hirabayashi:::Solving the Maximum Clique Problem Using PUBB.
+conf/ipps/MilojicicBS95:::Dejan S. Milojicic::David L. Black::Steven J. Sears:::Operating system support for concurrent remote task creation.
+conf/ipps/NeogiW95:::Raja Neogi::Meghanad D. Wagh:::Parallel processing algorithms and architecture for multimedia on-demand servers.
+conf/ipps/PradoHE00:::Hércules Antonio do Prado::Stephen C. Hirtle::Paulo Martins Engel:::Scalable Model for Extensional and Intensional Descriptions of Unclassified Data.
+conf/ipps/JinBM02:::Mingxian Jin::Johnnie W. Baker::Will C. Meilander:::The Power of SIMDs in Real-Time Scheduling.
+conf/ipps/YehP01:::Chi-Hsiang Yeh::Behrooz Parhami:::On the VLSI Area and Bisection Width of Star Graphs and Hierarchical Cubic Networks.
+conf/ipps/JacksonJS01:::David B. Jackson::Heather L. Jackson::Quinn Snell:::Simulation Based HPC Workload Analysis.
+conf/ipps/ActonN93:::Donald Acton::Gerald W. Neufeld:::Class and User Based Parallelsim in Raven.
+conf/ipps/BucurE03:::Anca I. D. Bucur::Dick H. J. Epema:::The Maximal Utilization of Processor Co-Allocation in Multicluster Systems.
+conf/ipps/SoulaimaniWAA01:::A. Soulaïmani::T. Wong::Y. Azami::A. Ben El Haj Ali:::An Object-Oriented Approach for PC Clusters.
+conf/ipps/YanWLG01:::Hongfei Yan::Jianyong Wang::Xiaoming Li::Lin Guo:::Architectural Design and Evaluation of an Efficient Web-crawling System.
+conf/ipps/AnnaratoneOL94:::Marco Annaratone::Carl D. Offner::David B. Loveman:::Digital Equipment Corporation High Performance Fortran on Workstation Farms.
+conf/ipps/CirneM99:::Walfredo Cirne::Keith Marzullo:::The Computational Co-op: Gathering Clusters into a Metacomputer.
+conf/ipps/YangFS03:::Lingyun Yang::Ian T. Foster::Jennifer M. Schopf:::Homeostatic and Tendency-Based CPU Load Predictions.
+conf/ipps/SkeieLT02:::Tor Skeie::Olav Lysne::Ingebjørg Theiss:::Layered Shortest Path (LASH) Routing in Irregular System Area Networks.
+conf/ipps/YangRR02:::Laurence Tianruo Yang::Thomas Rauber::Gudula Rünger:::Workshop Introduction.
+conf/ipps/FernandesK94:::Ronald Fernandes::Arkady Kanevsky:::Generalized Ring Interconnection Networks.
+conf/ipps/AndresenYWP97:::Daniel Andresen::Tao Yang::David Watson::Athanassios S. Poulakidas:::Dynamic Processor Scheduling with Client Resources for Fast Multi-Resolution WWW Image Browsing.
+conf/ipps/RoyoGV98:::Dolors Royo::Antonio González::Miguel Valero-Garcia:::Jacobi Orderings for Multi-Port Hypercubes.
+conf/ipps/RamanujamV95:::J. Ramanujam::S. Vasanthakumar:::Statement-level independent partitioning of uniform recurrences.
+conf/ipps/ChaverPPT02:::Daniel Chaver::Manuel Prieto::Luis Piñuel::Francisco Tirado:::Parallel Wavelet Transform for Large Scale Image Processing.
+conf/ipps/NilsenP98:::Per Kristian Nilsen::Nicolas Prcovic:::Parallel Optimisation in the SCOOP Library.
+conf/ipps/BoeresNR99:::Cristina Boeres::Aline Nascimento::Vinod E. F. Rebello:::Towards an Effective Task Clustering Heuristic for LogP Machines.
+conf/ipps/GovindanF94:::Vasudha Govindan::Mark A. Franklin:::Effect of Control Parameters on Dynamic Load Balancing.
+conf/ipps/BakhouyaGK02:::M. Bakhouya::Jaafar Gaber::Abder Koukam:::A Middleware for Large Scale Networks Inspired by the Immune System.
+conf/ipps/YangD92:::Myung K. Yang::Chita R. Das:::Analytical Modeling of a Parallel Branch-and-Bound Algorithm on MIN-Based Multiprocessors.
+conf/ipps/KandemirBCRS98:::Mahmut T. Kandemir::Prithviraj Banerjee::Alok N. Choudhary::J. Ramanujam::Nagaraj Shenoy:::A Generalized Framework for Global Communication Optimization.
+conf/ipps/BuntinasPS01a:::Darius Buntinas::Dhabaleswar K. Panda::P. Sadayappan:::Performance Benefits of NIC-Based Barrier on Myrinet/GM.
+conf/ipps/SchergerPB03:::M. Scherger::J. Potter::J. Baker:::An Object Oriented Framework for an Associative Model of Parallel Computation.
+conf/ipps/BaderA02:::David A. Bader::Srinivas Aluru:::Workshop Introduction.
+conf/ipps/DenisPPR03:::Alexandre Denis::Christian Pérez::Thierry Priol::André Ribes:::Padico: A Component-Based Software Infrastructure for Grid Computing.
+conf/ipps/TuzikovMM95:::Alexander Tuzikov::Mikhail Makhaniok::Reinhard Männer:::Bicriterion scheduling of identical processing time jobs by uniform processors.
+conf/ipps/ArnauM03:::Vicente Arnau::Ignacio Marín:::A Fast Algorithm for the Exhaustive Analysis of 12-Nucleotide-Long DNA Sequences. Applications to Human Genomics.
+conf/ipps/ThornburgC94:::Mike Thornburg::Steve Casselman:::Virtual Computer Corporation : Transformable Computers.
+conf/ipps/PlaleS01:::Beth Plale::Karsten Schwan:::Optimizations Enabled by Relational Data Model View to Querying Data Streams.
+conf/ipps/WorringenGR02:::Joachim Worringen::Andreas Gäer::Frank Reker:::Exploiting Transparent Remote Memory Access for Non-Contiguous- and One-Sided-Communication.
+conf/ipps/ChakrabartiB99:::Dhruva R. Chakrabarti::Prithviraj Banerjee:::A Novel Compilation Framework for Supporting Semi-Regular Distributions in Hybrid Applications.
+conf/ipps/DijkG92:::G. J. W. van Dijk::M. J. van Gils:::Efficient Process Migration in the EMPS Multiprocessor System.
+conf/ipps/YehPV99:::Chi-Hsiang Yeh::Behrooz Parhami::Emmanouel A. Varvarigos:::The Recursive Grid Layout Scheme for VLSI Layout of Hierarchical Networks.
+conf/ipps/KerbysonHW03:::Darren J. Kerbyson::Adolfy Hoisie::Harvey J. Wasserman:::A Comparison between the Earth Simulator and AlphaServer Systems Using Predictive Application Performance Models.
+conf/ipps/HansenLR01:::Jeffery P. Hansen::John P. Lehoczky::Ragunathan Rajkumar:::Optimization of Quality of Service in Dynamic Systems.
+conf/ipps/Schikuta03:::Erich Schikuta:::Performance Modeling of the Grace Hash Join on Cluster Architectures.
+conf/ipps/DingF96:::Hong Q. Ding::Robert D. Ferraro:::An Element-Based Concurrent Partitioner for Unstructured Finite Element Meshes.
+conf/ipps/DingK00:::Chen Ding::Ken Kennedy:::The Memory Bandwidth Bottleneck and its Amelioration by a Compiler.
+conf/ipps/KurzyniecWSS03:::Dawid Kurzyniec::Tomasz Wrzosek::Vaidy S. Sunderam::Aleksander Slominski:::RMIX: A Multiprotocol RMI Framework for Java.
+conf/ipps/NicolescuJ01:::Cristina Nicolescu::Pieter Jonker:::EASY PIPE: An ``EASY to use'' Parallel Image processing Environment based on algorithmic skelekons.
+conf/ipps/AbdeddaimKM03:::Yasmina Abdeddaïm::Abdelkarim Kerbaa::Oded Maler:::Task Graph Scheduling Using Timed Automata.
+conf/ipps/ClearwaterK02:::Scott H. Clearwater::Stephen D. Kleban:::ASCI Queuing Systems: Overview and Comparisons.
+conf/ipps/CostanzoIR03:::Carlo Costanzo::Giancarlo Iannizzotto::Francesco La Rosa:::VirtualBoard: Real-Time Visual Gesture Recognition for Natural Human-Computer Interaction.
+conf/ipps/LumettaC98:::Steven Lumetta::David E. Culler:::Managing Concurrent Access for Shared Memory Active Messages.
+conf/ipps/BagchiSH94:::Anindo Bagchi::Edward F. Schmeichel::S. Louis Hakimi:::Gossiping with Multiple Sends and Receives.
+conf/ipps/JayasimhaM92:::D. N. Jayasimha::Jeff D. Martens:::Some Architectural and Compilation Issues in the Design of Hierarchical Shared-Memory Multiprocessors.
+conf/ipps/GuptaS93:::Vipul Gupta::Eugen Schenfeld:::A Heuristic Approach for Embedding Communication Patterns in an Interconnection Cached Parallel Processing Network.
+conf/ipps/GuptaW92:::Ajay Gupta::Hong Wang:::Generalized Compressed Tree Machines.
+conf/ipps/BanderoTZ98:::Gerardo Bandero::Pablo P. Trabado::Emilio L. Zapata:::Local Enumeration Techniques for Sparse Algorithms.
+conf/ipps/BruckDHOS95:::Jehoshua Bruck::Danny Dolev::Ching-Tien Ho::Rimon Orni::H. Raymond Strong:::PCODE: an efficient and reliable collective communication protocol for unreliable broadcast domain.
+conf/ipps/BraunSM02:::Tracy D. Braun::Howard Jay Siegel::Anthony A. Maciejewski:::Static Mapping Heuristics for Tasks with Dependencies, Priorities, Deadlines, and Multiple Versions in Heterogeneous Environments.
+conf/ipps/BeckerMP91:::Jeffrey C. Becker::Charles U. Martel::Arvin Park:::General Asynchrony Is Not Expensive for PRAMs.
+conf/ipps/RibeiroSM98:::José R. P. Ribeiro::Nilton C. da Silva::Célio Estevan Morón:::A Visual Environment for the Development of Parallel Real-Time Programs.
+conf/ipps/FengCB01:::GuoZhen Feng::Xueqi Cheng::Shuo Bai:::SainSE: An Intelligent Search Engine Based on WWW Structure Analysis.
+conf/ipps/LiaoOR96:::Wei-keng Liao::Chao-wei Ou::Sanjay Ranka:::Dynamic Alignment and Distribution of Irregularly Coupled Data Arrays for Scalable Parallelization of Particle-in-Cell Problems.
+conf/ipps/LattC03:::Jonas Lätt::Bastien Chopard:::An Implicitly Parallel Object-Oriented Matrix Library and its Application to Medical Physics.
+conf/ipps/OuaissV01:::Iyad Ouaiss::Ranga Vemuri:::Global memory mapping for FPGA-based reconfigurable systems.
+conf/ipps/Wonnacott00:::David Wonnacott:::Using Time Skewing to Eliminate Idle Time due to Memory Bandwidth and Network Limitations.
+conf/ipps/BuschM98:::Costas Busch::Marios Mavronicolas:::An Efficient Counting Network.
+conf/ipps/SchauserS95:::Klaus E. Schauser::Chris J. Scheiman:::Experience with active messages on the Meiko CS-2.
+conf/ipps/HaumacherMRT03:::Bernhard Haumacher::Thomas Moschny::Jürgen Reuter::Walter F. Tichy:::Transparent Distributed Threads for Java.
+conf/ipps/Jennings92:::Glenn Jennings:::A Functional Execution Model for a Non-Dataflow Tagged Token Architecture.
+conf/ipps/PurakayasthaEKNB95:::Apratim Purakayastha::Carla Schlatter Ellis::David Kotz::Nils Nieuwejaar::Michael L. Best:::Characterizing parallel file-access patterns on a large-scale multiprocessor.
+conf/ipps/PuenteGBV03:::Valentin Puente::José A. Gregorio::Ramón Beivide::F. Vallejo:::A Low Cost Fault Tolerant Packet Routing for Parallel Computers.
+conf/ipps/LarioGPT02:::R. Lario::C. García::Manuel Prieto::Francisco Tirado:::A Parallel Cloth Simulator Using Multilevel Algorithms.
+conf/ipps/BeaumontBRR00:::Olivier Beaumont::Vincent Boudet::Fabrice Rastello::Yves Robert:::Load Balancing Strategies for Dense Linear Algebra Kernels on Heterogeneous Two-Dimensional Grids.
+conf/ipps/ChaudhryB91:::G. M. Chaudhry::J. S. Bedi:::State Variable Model for a Class of Multiprocessor Systems.
+conf/ipps/HechtK02:::Diana Hecht::Constantine Katsinis:::Protocols for Fault-Tolerant Distributed-Shared-Memory on the SOME-Bus Multiprocessor Architecture.
+conf/ipps/AkogluDSSP02:::Ali Akoglu::Aravind Dasu::Arvind Sudarsanam::Mayur Srinivasan::Sethuraman Panchanathan:::Pattern Recognition Tool to Detect Reconfigurable Patterns in MPEG4 Video Processing.
+conf/ipps/ChristenHNRSSAH01:::Peter Christen::Markus Hegland::Ole Møller Nielsen::Stephen Roberts::Peter E. Strazdins::Tatiana Semenova::Irfan Altas::Timothy Hancock:::Towards a Parallel Data Mining Toolbox.
+conf/ipps/YongZ00:::Zhang Yong::Min Zhang:::A Novel Superscalar Architecture for Fast DCT Implementation.
+conf/ipps/ParkKBP00:::Neungsoo Park::Dongsoo Kang::Kiran Bondalapati::Viktor K. Prasanna:::Dynamic Data Layouts for Cache-Conscious Factorization of DFT.
+conf/ipps/LigonR93:::Walter B. Ligon III::Umakishore Ramachandran:::Simulating Interconnection Networks in RAW.
+conf/ipps/KumaranQ95:::Santhosh Kumaran::Michael J. Quinn:::Divide-and-conquer programming on MIMD computers.
+conf/ipps/GajEARTV03:::Kris Gaj::Tarek A. El-Ghazawi::Nikitas A. Alexandridis::Jacek R. Radzikowski::Mohamed Taher::Frederic Vroman:::Effective Utilization and Reconfiguration of Distributed Hardware Resources Using Job Management Systems.
+conf/ipps/InoSTH03:::Fumihiko Ino::Tomomitsu Sasaki::Akira Takeuchi::Kenichi Hagihara:::A Divided-Screenwise Hierarchical Compositing for Sort-Last Parallel Volume Rendering.
+conf/ipps/Ivanov94:::Vladimir I. Ivanov:::Performance Evaluation of Task Grain Programs.
+conf/ipps/ThakurC94:::Rajeev Thakur::Alok N. Choudhary:::All-to-All Communication on Meshes with Wormhole Routing.
+conf/ipps/KhokharL93:::Ashfaq A. Khokhar::Wei-Ming Lin:::Stereo and Image Matching on Fixed Size Linear Arrays.
+conf/ipps/FanGL94:::Cong Fan::Ajay K. Gupta::Jiuqiang Liu:::Latin Cubes and Parallel Array Access.
+conf/ipps/MaaPT92:::Yeong-Chang Maa::Dhiraj K. Pradhan::Dominique Thiébaut:::A Hierarchical Directory Scheme for Large-Scale Cache-Coherent Multipmcessors.
+conf/ipps/RoverWD93:::Diane T. Rover::Abdul Waheed::Markus Doetsch:::Advanced Methods of Performance Data Processing and Analysis.

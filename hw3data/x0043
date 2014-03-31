@@ -1,0 +1,200 @@
+conf/cccg/NickersonP00:::Bradford G. Nickerson::Yunlan Pan:::On Dynamic k-d Half-Space Range Reporting.
+conf/cccg/AndradeF01:::Diogo Vieira Andrade::Luiz Henrique de Figueiredo:::Good approximations for the relative neighbourhood graph.
+conf/cccg/Kaneko97:::Atsushi Kaneko:::A balanced partition of points in the plane and tree embedding problems.
+conf/cccg/Milenkovic93:::Victor Milenkovic:::Robust Construction of the Voronoi Diagram of a Polyhedron.
+conf/cccg/DanielsM96:::Karen L. Daniels::Victor J. Milenkovic:::Distance-based Subdivision for Translational LP Containment.
+conf/cccg/HasanRN02:::Masud Hasan::Md. Saidur Rahman::Takao Nishizeki:::A linear algorithm for compact box-drawings of trees.
+conf/ccia/GuillametV02:::David Guillamet::Jordi Vitrià:::Non-negative Matrix Factorization for Face Recognition.
+conf/ccia/PachecoET02:::Julio Pacheco::M. Teresa Escrig::Francisco Toledo:::Integrating 3D Orientation Models.
+conf/ccia/MunozFCM02:::Xavier Muñoz::Jordi Freixenet::Xavier Cufí::Joan Martí:::Region-Boundary Cooperative Image Segmentation Based on Active Regions.
+conf/cbsq/LeungL03:::Hareton K. N. Leung::Karl R. P. H. Leung:::Domain-Based COTS-Product Selection Method.
+conf/bmvc/CrossleyLTS97:::S. Crossley::A. J. Lacey::Neil A. Thacker::N. L. Seed:::Robust Stereo via Temporal Consistency.
+conf/bmvc/McFarlaneT97:::N. J. B. McFarlane::R. D. Tillett:::Fitting 3D point distribution models of fish to stereo images.
+conf/bmvc/ThackerPR96:::Neil A. Thacker::David J. Prendergast::Peter Rockett:::B-Fitting: An Estimation Technique with.
+conf/bmvc/SpierenburgH97:::J. A. Spierenburg::Dionysius P. Huijsmans:::VOICI: Video Overview for Image Cluster Indexing -- a swift browsing tool for a large digital image database using similarities.
+conf/bmvc/MaybankWS96:::Stephen J. Maybank::Anthony D. Worrall::Geoffrey D. Sullivan:::Filter for Car Tracking Based on Acceleration and Steering Angle.
+conf/bmvc/KittlerHW97:::Josef Kittler::S. A. Hojjatoleslami::Terry Windeatt:::Weighting Factors in Multiple Expert Fusion.
+conf/bmvc/PiluFF96:::Maurizio Pilu::Andrew W. Fitzgibbon::Robert B. Fisher:::Training PDMs on Models: The Case of Deformable Superellipses.
+conf/bmvc/PollardPHL98:::Stephen Pollard::Maurizio Pilu::Sean Hayes::A. Lorusso:::View Synthesis by Trinocular Edge Matching and Transfer.
+conf/bmvc/Huynh00:::D. Q. Huynh:::The Cross Ratio: A Revisit to its Probability Density Function.
+conf/bmvc/MammenCA01:::James P. Mammen::Subhasis Chaudhuri::Tushar Agrawal:::Simultaneous Tracking of Both Hands by Estimation of Erroneous Observations.
+conf/bmvc/GrantNL99:::M. G. Grant::Mark S. Nixon::Paul H. Lewis:::Finding Moving Shapes by Continuous-Model Evidence Gathering.
+conf/bmvc/ChoSO97:::Seong Ik Cho::Hideo Saito::Shinji Ozawa:::Analytical Solution of Shape from Shading Problem.
+conf/bmvc/McGunnigleC01:::Ged McGunnigle::Mike J. Chantler:::Segmentation of Rough Surfaces using Reflectance.
+conf/bmvc/Baumberg96:::Adam Baumberg:::Hierarchical Shape Fitting using an Iterated Linear Filter.
+conf/bmvc/Leavers00:::Violet F. Leavers:::Statistical Properties of the Hybrid Radon-Fourier Technique.
+conf/bmvc/RidderKD00:::Dick de Ridder::Josef Kittler::Robert P. W. Duin:::Probabilistic PCA and ICA Subspace Mixture Models for Image Segmentation.
+conf/bmvc/MurrayRT98:::David W. Murray::Ian D. Reid::Richard L. Thompson:::Real-time Visual Recovery of Pose using Line Tracking in Multiple Cameras.
+conf/bmvc/BromileyTC00:::P. Bromiley::Neil A. Thacker::Patrick Courtney:::Non-Parametric Image Subtraction using Grey Level Scattergrams.
+conf/bmvc/YoungG96:::D. Young::Alison J. Gray:::Cell Identification in Differential Interference.
+conf/bmvc/BowdenS00:::Richard Bowden::Mansoor Sarhadi:::Building Temporal Models for Gesture Recognition.
+conf/bmvc/Lhuillier98:::Maxime Lhuillier:::Efficient Dense Matching for Textured Scenes using Region Growing.
+conf/bmvc/FraileM98:::Roberto Fraile::Stephen J. Maybank:::Vehicle Trajectory Approximation and Classification.
+conf/bmvc/PetersZM99:::Gabriele Peters::Barbara Zitová::Christoph von der Malsburg:::Two Methods for Comparing Different Views of the Same Object.
+conf/bmvc/ShenPMH00:::Xinquan Shen::Phil Palmer::Philip F. McLauchlan::Adrian Hilton:::Error Propogation from Camera Motion to Epipolar Constraint.
+conf/bmvc/DeguyDB00:::Sébastien Deguy::Christophe Debain::Albert Benassi:::Classification of Texture Images using Multi-scale Statistical Estimators of Fractal Parameters.
+conf/bmvc/OKeefeA96:::S. E. M. O'Keefe::J. Austin:::Document Feature Recognition using a Mesh of Associative Memories.
+conf/bmvc/SturmM99:::Peter F. Sturm::Stephen J. Maybank:::A Method for Interactive 3D Reconstruction of Piecewise Planar Objects from Single Images.
+conf/bmvc/BeumierA98:::Charles Beumier::Marc Acheroy:::Automatic Face Authentication from 3D surface.
+conf/bmvc/GuestBM00:::Elizabeth Guest::Elizabeth Berry::David Morris:::Using the CSM Correspondence Calculation Algorithm to Quantify Differences between Surfaces.
+conf/bmvc/Freeborough97:::Peter A. Freeborough:::A Comparison of Fractal Texture Descriptors.
+conf/bmvc/KochPEG01:::C Koch::S.-B. Park::T. J. Ellis::A. Georgiadis:::Illumination technique for optical dynamic range compression and offset reduction.
+conf/bmvc/AlexanderGB99:::Daniel C. Alexander::James C. Gee::Ruzena Bajcsy:::Similarity Measures for Matching Diffusion Tensor Images.
+conf/bmvc/SuvegV01:::Ildiko Suveg::George Vosselman:::3D Building Reconstruction by Map Based Generation and Evaluation of Hypotheses.
+conf/bmvc/FranceDLD97:::I. France::A. W. G. Duller::H. F. Lamb::G. A. T. Duller:::A comparative study of approaches to automatic pollen identification.
+conf/bmvc/McKennaGR97:::Stephen J. McKenna::Shaogang Gong::Yogesh Raja:::Face Recognition in Dynamic Scenes.
+conf/bmvc/WexlerC01:::Yonatan Wexler::R. Chellappa:::View Synthesis using Convex and Visual Hulls.
+conf/bmvc/ChangGO00:::Ting-Hsun Chang::Shaogang Gong::Eng-Jon Ong:::Tracking Multiple People Under Occlusion Using Multiple Cameras.
+conf/bmvc/CootesWWT00:::Timothy F. Cootes::G. Wheeler::K. N. Walker::Christopher J. Taylor:::Coupled-View Active Appearance Models.
+conf/bmvc/Rockett99:::Peter Rockett:::The Accuracy of Sub-Pixel Localisation in the Canny Edge Detector.
+conf/bmvc/FinlaysonH97:::Graham Finlayson::Steven D. Hordley:::Selection for Gamut Mapping Colour Constancy.
+conf/bmvc/FinlaysonS01:::Graham D. Finlayson::Gerald Schaefer:::Hue that is invariant to brightness and gamma.
+conf/bmvc/JacobNB97:::Gary Jacob::Alison Noble::Andrew Blake:::Robust Contour Tracking in Echocardiographic Sequences.
+conf/bmvc/HowellB96:::A. Jonathan Howell::Hilary Buxton:::Face Recognition using Radial Basis Function Neural Networks.
+conf/cdma/KimWLL02:::Jung Gon Kim::Ting Wang::Xiaoqiang Li::Hyeon Woo Lee:::Improved Channel Re-assigning for Inter-system Handover of 1.28 Mcps TDD/CDMA for IMT-2000.
+conf/cdma/SoC02:::Jae-Woo So::Dong-Ho Cho:::Access Control Scheme Based on Preemption for Integrated Video/Data CDMA Systems.
+conf/cdma/JungCAK02:::Jin-Woo Jung::Jung-Hoon Cheon::Byung Jun Ahn::Hyun-Kook Kahng:::Improving TCP/IP Performance Using TCP Traffic Differentiated Model over Wireless Connections.
+conf/cdma/LimOP02:::Sang Hoon Lim::Se Hong Oh::Jong Soo Park:::A New Adaptive Sectorization Method to Use Maximum Capacity of Base Station in Wireless Communications.
+conf/cdma/ChoiKKC02:::Seung Sik Choi::Yong Ho Kim::Jong Seog Koh::Dong-Ho Cho:::Packet Fair Queueing Scheduling in an Integrated CDMA System Based on Channel Status Information.
+conf/cdma/ParkYKPDL02:::Hyo Soon Park::Sung Hoon Yoon::Tae Hyoun Kim::Jung Shin Park::Mi Sun Do::Jai-Yong Lee:::Vertical Handoff Procedure and Algorithm between IEEE802.11 WLAN and CDMA Cellular Network.
+conf/cfcp/HilyS94:::André Hily::Dominique Sotteau:::Communications in Bus Networks.
+conf/chdl/SchneiderKK93:::Klaus Schneider::Ramayya Kumar::Thomas Kropf:::Hardware-Verification using First Order BDDs.
+conf/chdl/GamblesW93:::J. W. Gambles::Phillip J. Windley:::Reasoning about the VHDL Standard Logic Package Signal Data Type.
+conf/chdl/KangS93:::Sungho Kang::Stephen A. Szygenda:::Automatic VHDL Model Generation System.
+conf/chdl/SutarwalaPK93:::Shailesh Sutarwala::Pierre G. Paulin::Yatish Kumar:::Insulin: An Instruction Set Simulation Environment.
+conf/ches/Wu00:::Huapeng Wu:::Montgomery Multiplier and Squarer in GF(2<sup>m</sup>).
+conf/ches/Bond01:::Mike Bond:::Attacks on Cryptoprocessor Transaction Sets.
+conf/ches/MaherR99:::David Paul Maher::Robert J. Rance:::Random Number Generators Founded on Signal and Information Theory.
+conf/ches/BaileyCESW01:::Daniel V. Bailey::Daniel Coffin::Adam Elbirt::Joseph H. Silverman::Adam D. Woodbury:::NTRU in Constrained Devices.
+conf/ches/LiardetS01:::Pierre-Yvan Liardet::Nigel P. Smart:::Preventing SPA/DPA in ECC Systems Using the Jacobi Form.
+conf/ches/HamerC99:::Ivan Hamer::Paul Chow:::DES Cracking on the Transmogrifier 2a.
+conf/ches/HoffsteinS00:::Jeffrey Hoffstein::Joseph H. Silverman:::MiniPASS: Authentication and Digital Signatures in a Constrained Environment.
+conf/ches/KuoV01:::Henry Kuo::Ingrid Verbauwhede:::Architectural Optimization for a 1.82Gbits/sec VLSI Implementation of the AES Rijndael Algorithm.
+conf/ches/DandalisPR00:::Andreas Dandalis::Viktor K. Prasanna::José D. P. Rolim:::A Comparative Study of Performance of AES Final Candidates Using FPGAs.
+conf/ches/Wolkerstorfer02:::Johannes Wolkerstorfer:::Dual-Field Arithmetic Unit for GF(p) and GF(2<sup>m</sup>).
+conf/ches/Horvath99:::Tamás Horváth:::Arithmetic Design for Permutation Groups.
+conf/ches/ItohIT03:::Kouichi Itoh::Tetsuya Izu::Masahiko Takenaka:::A Practical Countermeasure against Address-Bit Differential Power Analysis.
+conf/ches/Shamir00:::Adi Shamir:::Protecting Smart Cards from Passive Power Analysis with Detached Power Supplies.
+conf/ches/NaccacheT00:::David Naccache::Michael Tunstall:::How to Explain Side-Channel Leakage to Your Kids.
+conf/ches/Grossschadl00:::Johann Großschädl:::High-Speed RSA Hardware Based on Barret's Modular Reduction Method.
+conf/ches/ChariRR02:::Suresh Chari::Josyula R. Rao::Pankaj Rohatgi:::Template Attacks.
+conf/ches/GuraSEGGFGS02:::Nils Gura::Sheueling Chang Shantz::Hans Eberle::Sumit Gupta::Vipul Gupta::Daniel Finchelstein::Edouard Goupy::Douglas Stebila:::An End-to-End Systems Approach to Elliptic Curve Cryptography.
+conf/ches/KonstantinouSZ02:::Elisavet Konstantinou::Yannis C. Stamatiou::Christos D. Zaroliagis:::On the Efficient Generation of Elliptic Curves over Prime Fields.
+conf/ciac/Szwarcfiter03:::Jayme Luiz Szwarcfiter:::Optimal Binary Search Trees with Costs Depending on the Access Paths.
+conf/ciac/AusielloLM00:::Giorgio Ausiello::Stefano Leonardi::Alberto Marchetti-Spaccamela:::On Salesmen, Repairmen, Spiders, and Other Traveling Agents.
+conf/ciac/HemaspaandraRW97:::Lane A. Hemaspaandra::Jörg Rothe::Gerd Wechsung:::On Sets with Easy Certificates and the Existence of One-Way Permutations.
+conf/ciac/MerliniSV00:::Donatella Merlini::Renzo Sprugnoli::M. Cecilia Verri:::Modified Binary Searching for Static Tables.
+conf/ciac/Domingo97:::Carlos Domingo:::Polynominal Time Algorithms for Some Self-Duality Problems.
+conf/ciac/HankeOS97:::Sabine Hanke::Thomas Ottmann::Eljas Soisalon-Soininen:::Relaxed Balanced Red-Black Trees.
+conf/ciac/Damaschke97:::Peter Damaschke:::The Algorithmic Complexity of Chemical Threshold Testing.
+conf/ciac/Yamakami03:::Tomoyuki Yamakami:::Nearly Bounded Error Probabilistic Sets.
+conf/ciac/KoukopoulosMNS03:::Dmitrios Koukopoulos::Marios Mavronicolas::Sotiris E. Nikoletseas::Paul G. Spirakis:::The Impact of Network Structure on the Stability of Greedy Protocols.
+conf/ciac/NoilhanS00:::Fabrice Noilhan::Miklos Santha:::Semantical Counting Circuits.
+conf/ciac/BattiatoCCCH00:::Sebastiano Battiato::Domenico Cantone::Dario Catalano::Gianluca Cincotti::Micha Hofri:::An Efficient Algorithm for the Approximate Median Selection Problem.
+conf/ciac/Mundhenk94:::Martin Mundhenk:::On Self-Reducible Sets of Low Information Content.
+conf/cidr/CeriFBBATTCECG03:::Stefano Ceri::Piero Fraternali::Aldo Bongio::Stefano Butti::Roberto Acerbis::Marco Tagliasacchi::Giovanni Toffetti::Carlo Conserva::Roberto Elli::Fulvio Ciapessoni::Claudio Greppi:::Architectural Issues and Solutions in the Development of Data-Intensive Web Applications.
+conf/cikm/PissinouMP94:::Niki Pissinou::Kia Makki::E. K. Park:::Towards a Framework for Integrating Multilevel Secure Models and Temporal Data Models.
+conf/cikm/Koudas00:::Nick Koudas:::Space Efficient Bitmap Indexing.
+conf/cikm/ChenCA02:::Yangjun Chen::Duren Che::Karl Aberer:::On the efficient evaluation of relaxed queries in biological databases.
+conf/cikm/BlokHCJBA01:::Henk Ernst Blok::Djoerd Hiemstra::Sunil Choenni::Franciska de Jong::Henk M. Blanken::Peter M. G. Apers:::Predicting the Cost-Quality Trade-Off for Information Retrieval Queries: Facilitating Database Design and Query Optimization.
+conf/cikm/MakkiP95:::Kia Makki::Niki Pissinou:::Detection and Resolution of Deadlocks in Distributed Database Systems.
+conf/cikm/Hall96:::Robert J. Hall:::Infomod: A Knowledge-Based Moderator for Electronic Mail Help Lists.
+conf/cikm/HuC94:::Xiaohua Hu::Nick Cercone:::Discovery of Decision Rules in Relational Databases: A Rough Set Approach.
+conf/cikm/LiH96:::Wen-Syan Li::Richard D. Holowczak:::Constructing Information Systems Based on Schema Reuse.
+conf/cikm/ArefS94:::Walid G. Aref::Hanan Samet:::Hashing by Proximity to Process Duplicates in Spatial Databases.
+conf/cikm/GreiffMP02:::Warren R. Greiff::William T. Morgan::Jay M. Ponte:::The role of variance in term weighting for probabilistic information retrieval.
+conf/cikm/BouganimKV98:::Luc Bouganim::Olga Kapitskaia::Patrick Valduriez:::Memory-Adaptive Scheduling for Large Query Execution.
+conf/cikm/LeeC99:::Dongwon Lee::Wesley W. Chu:::Semantic Caching via Query Matching for Web Sources.
+conf/cikm/LiFK00:::Qing Li::Chi-Wai Fung::Kamalakar Karlapalem:::Structural Join Index Driven Complex Object Retrieval: Mechanisms and Selection.
+conf/cikm/LiuR94:::Hong-Cheu Liu::Kotagiri Ramamohanarao:::Algebraic Equivalences Among Nested Relational Expressions.
+conf/cikm/FarrellFS01:::Robert Farrell::Peter Fairweather::Kathleen Snyder:::Summarization of Discussion Groups.
+conf/cikm/LeeCNSM99:::Thomas Lee::Melanie Chams::Robert Nado::Michael Siegel::Stuart E. Madnick:::Information Integration with Attributio Support for Corporate Profiles.
+conf/cikm/Kerpedjiev93:::Stephan Kerpedjiev:::Model-driven Hypermedia Access to Weather Information.
+conf/cikm/LehmannC94:::Fritz Lehmann::Anthony G. Cohn:::The EGG/YOLK Reliability Hierarchy : Semantic Data Integration Using Sorts with Prototypes.
+conf/cikm/QiuL01:::Shi Guang Qiu::Tok Wang Ling:::Index Filtering and View Materialization in ROLAP Environment.
+conf/cikm/GoldsteinMCC00:::Jade Goldstein::Vibhu O. Mittal::Jaime G. Carbonell::James P. Callan:::Creating and Evaluating Multi-Document Sentence Extract Summaries.
+conf/cikm/FerhatosmanogluAA01:::Hakan Ferhatosmanoglu::Divyakant Agrawal::Amr El Abbadi:::Efficient Processing of Conical Queries.
+conf/cikm/FarahatNC02:::Ayman Farahat::Geoffrey Nunberg::Francine Chen:::AuGEAS: authoritativeness grading, estimation, and sorting.
+conf/cikm/NaqviIKV93:::Shamim A. Naqvi::Tomasz Imielinski::Madhur Kohli::Kumar V. Vadaparty:::Speculative Query Evaluation over Databases of Plans.
+conf/cikm/Wolin93:::Erica J. Wolin:::Performance Evaluation of MAX - the Maintenance Administrator Expert System.
+conf/cikm/JamilM02:::Hasan M. Jamil::Giovanni A. Modica:::An object-oriented extension of XML for autonomous web applications.
+conf/cikm/BertinoHAE00:::Elisa Bertino::Moustafa A. Hammad::Walid G. Aref::Ahmed K. Elmagarmid:::An Access Control Model for Video Database Systems.
+conf/cikm/YanF01:::Men Hin Yan::Ada Wai-Chee Fu:::Algorithm for Discovering Multivalued Dependencies.
+conf/cikm/PalopoliSU98:::Luigi Palopoli::Domenico Saccà::Domenico Ursino:::An Automatic Techniques for Detecting Type Conflicts in Database Schemes.
+conf/cikm/AnandBH95:::Sarabjot S. Anand::David A. Bell::John G. Hughes:::The Role of Domain Knowledge in Data Mining.
+conf/cikm/SoparkarKJA95:::Nandit Soparkar::Paul Krzyzanowski::H. V. Jagadish::Abhaya Asthana:::Run-Time Parallelization of Sequential Database Programs.
+conf/cikm/SoparkarLKS94:::Nandit Soparkar::Eliezer Levy::Henry F. Korth::Abraham Silberschatz:::Adaptive Commitment for Distributed Real-Time Transactions.
+conf/cikm/McCulley97:::Matthew B. McCulley:::Effective Virtual Design of Multi-Dimensional Data Models and Interfaces.
+conf/cikm/Ambrosio94:::Ana Paula Ambrosio:::Introducing Semantics in Conceptual Schema Reuse.
+conf/cikm/PitouraF98:::Evaggelia Pitoura::Ioannis Fudos:::An Efficient Hierarchical Scheme for Locating Highly Mobile Users.
+conf/cikm/BhargavaH93:::Bharat K. Bhargava::Abdelsalam Helal:::Efficient Availability Mechanisms in Distributed Databases Systems.
+conf/cikm/Al-KofahiTVTJ01:::Khalid Al-Kofahi::Alex Tyrrell::Arun Vachher::Tim Travers::Peter Jackson:::Combining Multiple Classifiers for Text Categorization.
+conf/cikm/PapakonstantinouV01:::Yannis Papakonstantinou::Vasilis Vassalos:::The Enosys Markets Data Integration Platform: Lessons from the Trenches.
+conf/cikm/DattoloG94:::Antonina Dattolo::Antonio Gisolfi:::Analytical Version Control Management in a Hypertext System.
+conf/cikm/FerhatosmanogluTAA00:::Hakan Ferhatosmanoglu::Ertem Tuncel::Divyakant Agrawal::Amr El Abbadi:::Vector Approximation based Indexing for Non-uniform High Dimensional Data Sets.
+conf/cikm/OrlandicY00:::Ratko Orlandic::Byunggu Yu:::Object and Query Transformation: Supporting Multi-Dimensional Queries through Code Reuse.
+conf/cikm/EickJ93:::Christoph F. Eick::Daw Jong:::Learning Bayesian Classification Rules through Genetic Algorithms.
+conf/cikm/SiJCO02:::Luo Si::Rong Jin::James P. Callan::Paul Ogilvie:::A language modeling framework for resource selection and results merging.
+conf/cikm/ParkKCP01:::Sanghyun Park::Sang-Wook Kim::June-Suh Cho::Sriram Padmanabhan:::Prefix-Querying: An Approach for Effective Subsequence Matching Under Time Warping in Sequence Databases.
+conf/cikm/Al-AnziS94:::Fawaz S. Al-Anzi::David L. Spooner:::Modeling Behavior, A Step Towards Defining Functionally Correct Views of Complex Objects in Concurrent Engineering.
+conf/cikm/EpterK99:::Scott Epter::Mukkai S. Krishnamoorthy:::A Multiple-Resolution Method for Edge-Centric Data Clustering.
+conf/cikm/LiuCR02:::Bin Liu::Songting Chen::Elke A. Rundensteiner:::Batch data warehouse maintenance in dynamic environments.
+conf/cikm/Baeza-YatesN97:::Ricardo A. Baeza-Yates::Gonzalo Navarro:::Block Addressing Indices for Approximate Text Retrieval.
+conf/cikm/TamzalitO99:::Dalila Tamzalit::Chabane Oussalah:::From Object Evolution to Object Emergence.
+conf/cikm/YuXEK01:::Kai Yu::Xiaowei Xu::Martin Ester::Hans-Peter Kriegel:::Selecting Relevant Instances for Efficient and Accurate Collaborative Filtering.
+conf/cikm/LinRSB96:::Ling Lin::Tore Risch::Martin Sköld::Dushan Z. Badal:::Indexing Values of Time Sequences.
+conf/cikm/LohKW00:::Woong-Kee Loh::Sang-Wook Kim::Kyu-Young Whang:::Index Interpolation: An Approach to Subsequence Matching Supporting Normalization Transform in Time-Series Databases.
+conf/cikm/GoralwallaLOS97:::Iqbal A. Goralwalla::Yuri Leontiev::M. Tamer Özsu::Duane Szafron:::Modeling Temporal Primitives: Back to Basics.
+conf/cikm/ThomasMMD93:::Joachim Thomas::Bernhard Mitschang::Nelson Mendonça Mattos::Stefan Deßloch:::Enchancing Knowledge Processing in Client/Server Environments.
+conf/cikm/FegarasLBC02:::Leonidas Fegaras::David Levine::Sujoe Bose::Vamsi Chaluvadi:::Query processing of streamed XML data.
+conf/cikm/SongP92:::Il-Yeol Song::E. K. Park:::Object-Oriented Database Design Methodologies: A Survey.
+conf/cikm/LiuYM02a:::King-Lup Liu::Clement T. Yu::Weiyi Meng:::Discovering the representative of a search engine.
+conf/cikm/ShinKC96:::Hakgene Shin::KangSeuk Kim::Jae-Woo Chang:::S-signature: A New Scheme for Efficient Query Processing of Complex Objects in OODB.
+conf/cikm/Rundensteiner93:::Elke A. Rundensteiner:::Tools for View Generation in Object-Oriented Databases.
+conf/cikm/PetrouniasL93:::Ilias Petrounias::Pericles Loucopoulos:::Development and Evaluation of an Application in a Deductive Environment.
+conf/cikm/Sussna93:::Michael Sussna:::Word Sense Disambiguation for Free-text Indexing Using a Massive Semantic Network.
+conf/cikm/CottmanORS96:::Bruce Cottman::Annrai OToole::Mark Ryland::Richard Mark Soley:::Web, Distributed Object Management, and Component Software (Panel).
+conf/cikm/AcharyaT93:::Anurag Acharya::Milind Tambe:::Collection Oriented Match.
+conf/cikm/KalogerakiGZ02:::Vana Kalogeraki::Dimitrios Gunopulos::Demetrios Zeinalipour-Yazti:::A local search mechanism for peer-to-peer networks.
+conf/cikm/SyuLD96:::Inien Syu::Sheau-Dong Lang::Narsingh Deo:::Incorporating Latent Semantic Indexing into a Neural Network Model for Information Retrieval.
+conf/cikm/BellatrecheKS00:::Ladjel Bellatreche::Kamalakar Karlapalem::Michel Schneider:::On Efficient Storage Space Distribution Among Materialized Views and Indices in Data Warehousing Environments.
+conf/cikm/DumasFS98:::Marlon Dumas::Marie-Christine Fauvet::Pierre-Claude Scholl:::Handling Temporal Grouping and Pattern-Matching Queries in a Temporal Object Model.
+conf/cikm/JeongH01:::Euna Jeong::Chun-Nan Hsu:::Induction of Integrated View for XML Data with Heterogeneous DTDs.
+conf/cikm/OsbornSM97:::Mark Osborn::Tomek Strzalkowski::Mihnea Marinescu:::Evaluating Document Retrieval in Patent Database: A Preliminary Report.
+conf/cikm/MulhemL02:::Philippe Mulhem::Joo-Hwee Lim:::Symbolic photograph content-based retrieval.
+conf/cikm/HelalKEM93:::Abdelsalam Helal::Tung-Hui Ku::Ramez Elmasri::Sourav Mukherjee:::Adaptive Transaction Scheduling.
+conf/cikm/GohMS94:::Cheng Hian Goh::Stuart E. Madnick::Michael Siegel:::Context Interchange: Overcoming the Challenges of Large-Scale Interoperable Database Systems in a Dynamic Environment.
+conf/cikm/LundquistGF97:::Carol Lundquist::David A. Grossman::Ophir Frieder:::Improving Relevance Feedback in the Vector Space Model.
+conf/cikm/AmitayP00:::Einat Amitay::Cécile Paris:::Automatically Summarising Web Sites - Is There A Way Around It?
+conf/cikm/YuXSTK02:::Kai Yu::Xiaowei Xu::Anton Schwaighofer::Volker Tresp::Hans-Peter Kriegel:::Removing redundancy and inconsistency in memory-based collaborative filtering.
+conf/cikm/ChangS99:::Conrad T. K. Chang::Bruce R. Schatz:::Performance and Implications of Semantic Indexing in a Distributed Environment.
+conf/cism/Weibel96:::Robert Weibel:::Generalization of Spatial Data: Principles and Selected Algorithms.
+conf/civr/OrriolsB02:::Xavier Orriols::Xavier Binefa:::Online Bayesian Video Summarization and Linking.
+conf/civr/WangSZ02:::Wei Wang::Yuqing Song::Aidong Zhang:::Semantics-Based Image Retrieval by Region Saliency.
+conf/civr/AlarconPC02:::Pedro A. de Alarcón::Alberto D. Pascual-Montano::José María Carazo:::Spin Images and Neural Networks for Efficient Content-Based Retrieval in 3D Object Databases.
+conf/civr/BruijnL02:::Willem de Bruijn::Michael S. Lew:::AtomsNet: Multimedia Peer2Peer File Sharing.
+conf/civr/EnserS02:::Peter Enser::Christine Sandom:::Retrieval of Archival Moving Imagery - CBIR Outside the Frame?
+conf/civr/WuLM03:::Hong Wu::Hanqing Lu::Songde Ma:::Multilevel Relevance Judgement, Loss Function, and Performance Measure in Image Retrieval.
+conf/civr/Burke02:::Mary A. Burke:::Personal Construct Theory as a Research Tool for Analysing User Perceptions of Photographs.
+conf/civr/VelivelliNH03:::Atulya Velivelli::Chong-Wah Ngo::Thomas S. Huang:::Detection of Documentary Scene Changes by Audio-Visual Fusion.
+conf/civr/SchaffalitzkyZ02:::Frederik Schaffalitzky::Andrew Zisserman:::Automated Scene Matching in Movies.
+conf/civr/QianZL03:::Fang Qian::Bo Zhang::Fuzong Lin:::Constructive Learning Algorithm-Based RBF Network for Relevance Feedback in Image Retrieval.
+conf/civr/LiuK03a:::Yan Liu::John R. Kender:::Fast Video Retrieval under Sparse Training Data.
+conf/civr/MulhemL03:::Philippe Mulhem::Joo-Hwee Lim:::Home Photo Retrieval: Time Matters.
+conf/civr/SebeLZHB03:::Nicu Sebe::Michael S. Lew::Xiang Zhou::Thomas S. Huang::Erwin M. Bakker:::The State of the Art in Image and Video Retrieval.
+conf/ckec/ManagoC91:::Michel Manago::Noël Conruyt:::Using Information Technology to Solve Real World Problems.
+conf/ckec/Strube91:::Gerhard Strube:::The Role of Cognitive Science in Knowledge Engineering.
+conf/clef/Chen01:::Aitao Chen:::Multilingual Information Retrieval Using English and Chinese Queries.
+conf/clef/KlokDB01:::Jakob Klok::Samuel Driessen::Marvin Brunner:::Some Terms Are More Interchangeable than Others.
+conf/clef/SahlgrenK01:::Magnus Sahlgren::Jussi Karlgren:::Vector-Based Semantic Analysis Using Random Indexing for Cross-Lingual Query Expansion.
+conf/clef/Martinez-SantiagoUDMV01:::Fernando Martínez-Santiago::Luis Alfonso Ureña::M. Carlos Díaz-Galiano::Maite Martín-Valdivia::Manuel García Vega:::Intelligent Information Access Systems (SINAI) at CLEF 2001: Calculating Translation Probabilities with SemCor.
+conf/clef/Peters01:::Carol Peters:::Introduction.
+conf/clef/Adriani00:::Mirna Adriani:::Ambiguity Problem in Multilingual Information Retrieval.
+conf/clef/SandersonB01:::Mark Sanderson::Zoë Bathie:::iCLEF at Sheffield.
+conf/clef/SadatMYU01:::Fatiha Sadat::Akira Maeda::Masatoshi Yoshikawa::Shunsuke Uemura:::Query Expansion Techniques for the CLEF Bilingual Track.
+conf/dagm/Haussmann79:::G. Haussmann:::Kantendetektion in granulationsverrauschten Hologrammrekonstruktionen.
+conf/dagm/Benn86:::Wolfgang Benn:::Query-by-Structure-Example: Objektorientierter Datenbankzugriff für bildbeschreibende Strukturen.
+conf/dagm/KortPS96:::A. Kort::Artur Pogoda::Volker Steinhage:::Employing Aspect Hierarchies for Building Detection in Digital Images.
+conf/dagm/GlombitzaMM95:::Gerald-P. Glombitza::Manuela Makabe::Hans-Peter Meinzer:::Gekrümmte Illusionskantenmodelle und ihre Anwendung in der bildverarbeitung.
+conf/dagm/HolderDD88:::S. Holder::Joachim Dengler::Johann Friedrich Desaga:::Lokalisation von Mikrokalzifikationen in Mammographien.
+conf/dagm/Schiele97:::Bernt Schiele:::Object Classification Based on Visual Classes.

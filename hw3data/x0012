@@ -1,0 +1,200 @@
+conf/ats/KaoWC00:::Chin-Te Kao::Sam Wu::Jwu E. Chen:::A case study of failure analysis and guardband determination for a 64M-bit DRAM.
+conf/ats/KlausG01:::Matthias Klaus::A. J. van de Goor:::Tests for Resistive and Capacitive Defects in Address Decoders.
+conf/ats/HurSLSLK96:::Y.-M. Hur::J.-H. Shin::K.-H. Lee::Y.-S. Son::I.-C. Lim::Y.-H. Kim:::Efficient Path Delay Fault Test Generation Algorithms for Weighted Random Robust Testing.
+conf/ats/HorngHC00:::Yea-Ling Horng::Jing-Reng Huang::Tsin-Yuan Chang:::A realistic fault model for flash memories.
+conf/ats/HuangJKL96:::Li-Ren Huang::Jing-Yang Jou::Sy-Yen Kuo::Wen-Bin Liao:::Easily Testable Data Path Allocation Using Input/Output Registers.
+conf/ats/HuangOCW00:::Jing-Reng Huang::Chee-Kian Ong::Kwang-Ting Cheng::Cheng-Wen Wu:::An FPGA-based re-configurable functional tester for memory chips.
+conf/ats/HuangZML97:::Wei-Kang Huang::M. Y. Zhang::Fred J. Meyer::Fabrizio Lombardi:::A XOR-Tree Based Technique for Constant Testability of Configurable FPGAs.
+conf/ats/DalmiaIT97:::Maneesha Dalmia::André Ivanov::Sassan Tabatabaei:::Power supply current monitoring techniques for testing PLLs.
+conf/ats/PomeranzR02a:::Irith Pomeranz::Sudhakar M. Reddy:::A Partitioning and Storage Based Built-In Test Pattern Generation Method for Delay Faults in Scan Circuits.
+conf/ats/PomeranzR99a:::Irith Pomeranz::Sudhakar M. Reddy:::Pattern Sensitivity: A Property to Guide Test Generation for Combinational Circuits.
+conf/ats/ChenGB00a:::Wei-Yu Chen::Sandeep K. Gupta::Melvin A. Breuer:::Test generation for crosstalk-induced faults: framework and computational result.
+conf/ats/ChenLSC95:::Jwu E. Chen::Chung-Len Lee::Wen-Zen Shen::Beyin Chen:::Fanout fault analysis for digital logic circuits.
+conf/ats/ChenSSW99:::Xinghao Chen::Tom Snethen::Joe Swenton::Ron Walther:::A Simplified Method for Testing the IBM Pipeline Partial-Scan Microprocessor.
+conf/ats/RavikumarVC99:::C. P. Ravikumar::Ashutosh Verma::Gaurav Chandra:::A Polynomial-Time Algorithm for Power Constrained Testing of Core Based Systems.
+conf/ats/YangCCHC96:::Xiaofan Yang::Tinghuai Chen::Zehan Cao::Zhongshi He::Hongqing Cao:::A New Scheme For The Fault Diagnosis Of Multiprocessor Systems.
+conf/ats/DoumarI99:::Abderrahim Doumar::Hideo Ito:::Testing the Logic Cells and Interconnect Resources for FPGAs.
+conf/ats/WangWLWTCL00:::Chih-Wea Wang::Chi-Feng Wu::Jin-Fu Li::Cheng-Wen Wu::Tony Teng::Kevin Chiu::Hsiao-Ping Lin:::A built-in self-test and self-diagnosis scheme for embedded SRAM.
+conf/ats/GizdarskiF02:::Emil Gizdarski::Hideo Fujiwara:::Fault Set Partition for Efficient Width Compression.
+conf/ats/ZengCC99:::Zhide Zeng::Jihua Chen::Hefeng Cao:::Research and Implementation of a High Speed Test Generation for Ultra Large Scale Combinational Circuits.
+conf/ats/HuertasVPRH00:::Gloria Huertas::Diego Vazquez::Eduardo J. Peralías::Adoración Rueda::José L. Huertas:::Testing mixed-signal cores: practical oscillation-based test in an analog macrocell.
+conf/ats/ChengHHYHW01:::Kuo-Liang Cheng::Chia-Ming Hsueh::Jing-Reng Huang::Jen-Chieh Yeh::Chih-Tsun Huang::Cheng-Wen Wu:::Automatic Generation of Memory Built-in Self-Test Cores for System-on-Chip.
+conf/ats/WangTWHWHLW01:::Chih-Wea Wang::Ruey-Shing Tzeng::Chi-Feng Wu::Chih-Tsun Huang::Cheng-Wen Wu::Shi-Yu Huang::Shyh-Horng Lin::Hsin-Po Wang:::A Built-in Self-Test and Self-Diagnosis Scheme for Heterogeneous SRAM Clusters.
+conf/ats/LiuMK98:::Jian Liu::Rafic Z. Makki::Ayman Kayssi:::Dynamic Power Supply Current Testing of SRAMs.
+conf/ats/LinLSC00:::Jun-Weir Lin::Chung-Len Lee::Chau Chin Su::Jwu-E. Che:::Fault diagnosis for linear analog circuits.
+conf/ats/HiraseY00:::Junichi Hirase::Shinichi Yoshimura:::Faster processing for microprocessor functional ATPG.
+conf/ats/NakanoKH98:::Sumito Nakano::Naotake Kamiura::Yutaka Hata:::Fault Tolerance of a Tree-Connected Multiprocessor System and its Arraylike Layout.
+conf/ats/HsiaoC98:::Michael S. Hsiao::Srimat T. Chakradhar:::Partitioning and Reordering Techniques for Static Test Sequence Compaction of Sequential Circuits.
+conf/ats/NandiC95:::S. Nandi::P. Pal Chaudhuri:::Theory and applications of cellular automata for synthesis of easily testable combinational logic.
+conf/ats/SuCCT97:::Chauchin Su::Yi-Ren Cheng::Yue-Tsang Chen::Shing Tenchen:::Analog signal metrology for mixed signal ICs.
+conf/ats/YokoyamaWT97:::Hiroshi Yokoyama::Xiaoqing Wen::Hideo Tamamoto:::Random Pattern Testable Design with Partial Circuit Duplication.
+conf/ats/GaitanisKP95:::Nikolaos Gaitanis::Panagiotis Kostarakis::Antonis M. Paschalis:::Totally Self Checking reconfigurable duplication system with separate internal fault indication.
+conf/ats/DateNH95:::Hiroshi Date::Michinobu Nakao::Kazumi Hatayama:::A parallel sequential test generation system DESCARTES based on real-valued logic simulation.
+conf/ats/OnoKKKS01:::Toshinobu Ono::Akira Kozawa::Takashi Kimura::Yoshihiro Konno::Koji Saga:::An Application of Partial Scan Techniques to a High-End System LSI Design.
+conf/ats/ShimizuIK01:::Kazuya Shimizu::Noriyoshi Itazaki::Kozo Kinoshita:::Built-in Self-Test for State Faults Induced by Crosstalk in Sequential Circuits.
+conf/ats/KamiuraKM00:::Naotake Kamiura::Takashi Kodera::Nobuyuki Matsui:::Fault tolerant multistage interconnection networks with widely dispersed paths.
+conf/ats/PomeranzF98:::Irith Pomeranz::W. Kent Fuchs:::A Diagnostic Test Generation Procedure for Combinational Circuits Based on Test Elimination.
+conf/ats/PomeranzR02:::Irith Pomeranz::Sudhakar M. Reddy:::Improving the Efficiency of Static Compaction Based on Chronological Order Enumeration of Test Sequences.
+conf/ats/PomeranzR97:::Irith Pomeranz::Sudhakar M. Reddy:::On the Compaction of Test Sets Produced by Genetic Optimization.
+conf/ats/HuangJ00:::D. C. Huang::W. B. Jone:::An efficient parallel transparent diagnostic BIST.
+conf/ats/Savir95a:::Jacob Savir:::Module level weighted random patterns.
+conf/ats/BayraktarogluUO98:::Ismet Bayraktaroglu::K. Udawatta::Alex Orailoglu:::An Examination of PRPG Selection Approaches for Large, Industrial Designs.
+conf/ats/IchiharaK97:::Hideyuki Ichihara::Kozo Kinoshita:::On Acceleration of Logic Circuits Optimization Using Implication Relations.
+conf/ats/HashizumeYITT00:::Masaki Hashizume::Hiroyuki Yotsuyanagi::Masahiro Ichimiya::Takeomi Tamesada::Masashi Takeda:::High speed IDDQ test and its testability for process variation.
+conf/ats/ChangZ00:::Tsin-Yuan Chang::Yervant Zorian:::SoC Testing and P1500 Standard.
+conf/ats/PangWL97:::Joseph C. W. Pang::Mike W. T. Wong::Y. S. Lee:::Design and Implementation of Strongly Code-Disjoint CMOS Built-in Intermediate Voltage Sensor for Totally Self-Checking Circuits.
+conf/avi/MiyamotoHP00:::Kenji Miyamoto::Yasunori Harada::Richard Potter:::KVispatch: A Visual Language that Rewrites Kinematic Objects in Animation.
+conf/avi/Hawryszkiewycz94:::Igor Hawryszkiewycz:::CSCW as a Basis for Interactive Design Semantics.
+conf/avi/BurnettA92:::Margaret M. Burnett::Allen L. Ambler:::Generalizing Event Detection and Response in Visual Programming Languages.
+conf/avi/FerrucciTT94:::Filomena Ferrucci::Genoveffa Tortora::Maurizio Tucci:::Semantics of Visual Languages.
+conf/avi/JainS94:::Vinit Jain::Ben Shneiderman:::Data Structures for Dynamic Queries: An Analytical and Experimental Evaluation.
+conf/avi/RosisB92:::Fiorella de Rosis::Dianne C. Berry:::User Modeling for Adaptive Presentation of Information.
+conf/avi/Beaudouin-LafonM00:::Michel Beaudouin-Lafon::Wendy E. Mackay:::Reification, Polymorphism and Reuse: Three Principles for Designing Visual Interfaces.
+conf/avi/BaldonadoWK00:::Michelle Q. Wang Baldonado::Allison Woodruff::Allan Kuchinsky:::Guidelines for Using Multiple Views in Information Visualization.
+conf/avi/GrahamKH00:::Martin Graham::Jessie B. Kennedy::Chris Hand:::A Comparision of Set-Based and Graph-Based Visualisations of Overlapping Classification Hierarchies.
+conf/avi/PolilloBBCDP94:::Roberto Polillo::Sebastiano Bagnara::Heinz-Dieter Böcker::Antonio Cantatore::Alessandro D'Atri::Paolo Paolini:::European Research in Visual Interfaces: Experiences and Perspectives (Panel).
+conf/avi/CostagliolaLO94:::Gennaro Costagliola::Andrea De Lucia::Sergio Orefice:::Towards Efficient Parsing of Diagrammatic Languages.
+conf/cad/Bo80:::Ketil Bo:::Data Base Design.
+conf/cad/Kimura92:::Fumihiko Kimura:::Future Perspective of CAD/CAM Research and Development in Japan.
+conf/cad/Bo80c:::Ketil Bo:::Choice of Turnkey System.
+conf/cad/LukasMS00:::Uwe von Lukas::Andreas Mähler::Ekkehard Scheinhof:::Kommunikation und Kooperation in der integrierten virtuellen Produktentstehung.
+conf/cad/Horbst77:::Egon Hörbst:::Technische Aspekte der Kommunikation in CAD-Systemen.
+conf/cad/MonjauSA96:::Dieter Monjau::Sören Schulze::Karlheinz Agsteiner:::High-Level Entwurf mikroelektronischer Systeme unter Verwendung von Methoden des wissensbasierten Konfigurierens.
+conf/cad/MarquardtM02:::H.-G. Marquardt::I. Meinhardt:::Product Data Management for CAD systems by using OMG standards.
+conf/cad/Riepl82:::Ch. Riepl:::Eine Methode zur dreidimensionalen geometrischen Modellierung von Gebäden.
+conf/cad/KramerW82:::F. Krämer::T. Weißbarth:::Flächenorientiertes Modellieren mit den Systemen CD/2000 und DUCT und ihre Anwendung.
+conf/cad/Philipp02:::M. Philipp:::Achieving configuration management across different life cycles in aerospace industry.
+conf/cad/Requicha80:::Aristides A. G. Requicha:::Representaiton of Rigid Solid Objects.
+conf/cad/KochW00:::Rainer Koch::Marc Wick:::Virtual Reality zur Visualisierung physikalischer Zusammenhänge - Systeme zur Auslegung und Optimierung komplexer Produkte.
+conf/cad/EmdeE80:::E. Emde::V. Erlacher:::Verknüpfung von CAD-Programmen zu einem CAD- System.
+conf/cad/RadekeS98:::Elke Radeke::L. Seifert:::GENIAL: Enabling Intelligent Access to Internal and External Engineering Information.
+conf/cad/AnderlG00:::Reiner Anderl::Robert Gräb:::Parametrik in der Integration von CAD-Systemen und mechatronischen Entwurfswerkzeugen.
+conf/cad/AnderlV02:::Reiner Anderl::S. Vettermann:::Web-Centric Information Integration.
+conf/cad/MetzlerR82:::H. Metzler::G. Reinauer:::Geometrieprobleme bei der rechnerunterstütztes Gestaltung von Glasschliffmustern.
+conf/cad/Lukas02:::Uwe von Lukas:::ASP for Engineers - Requirements and concepts.
+conf/cad/DietrichKL98:::U. Dietrich::T. Kindl::Uwe von Lukas:::Systemunterstützung für offene CA-Umgebungen - Vorraussetzung für Electronic Commerce in der Produktentwicklung.
+conf/cad/GrafBS02:::H. Graf::Gino Brunetti::André Stork:::CAD2VR or How to Efficiently Integrate VR into the Product Development Process.
+conf/cad/GermerT92:::Hans-Jürgen Germer::Dieter Trebo:::Volumenorientierte Planung und Simulation von Fertigungsabläufen.
+conf/cad/MeyerF92:::Bernd Meyer::Rainer Feldkamp:::askom - eine Methode zur Verwaltung von Konstruktionsobjekten.
+conf/cad/Drossmann80:::Volkmar Droßmann:::Steuerung der Kommunikation zwischen Benutzer, und Rechner bei interaktiven Programm-Systemen.
+conf/cad/HahnR96:::E. Hahn::S. Römer:::Adaptive Parametereinstellungen eines automatischen Zeichnungsinterpretationssystemes mittels Verknüpfung von Histogrammtechniken und Fuzzy-Logic.
+conf/cap/Weeks90:::Dennis Weeks:::Embarrassingly Parallel Algorithms for Algebraic Number Arithmetic.
+conf/cap/Kuchlin90:::Wolfgang Küchlin:::The S-Threads Environment for Parallel Symbolic Computation.
+conf/cav/BeerBL98:::Ilan Beer::Shoham Ben-David::Avner Landver:::On-the-Fly Model Checking of RCTL Formulas.
+conf/cav/Hungar93:::Hardi Hungar:::Combining Model Checking and Theorem Proving to Verify Parallel Processes.
+conf/cav/Bolignano98:::Dominique Bolignano:::Integrating Proof-Based and Model-Checking Techniques for the Formal Verification of Cryptographic Protocols.
+conf/cav/Geilen03:::Marc Geilen:::An Improved On-The-Fly Tableau Construction for a Real-Time Temporal Logic.
+conf/cav/AlurH95:::Rajeev Alur::Thomas A. Henzinger:::Local Liveness for Compositional Modeling of Fair Reactive Systems.
+conf/cav/YangSBO99:::Bwolen Yang::Reid G. Simmons::Randal E. Bryant::David R. O'Hallaron:::Optimizing Symbolic Model Checking for Constraint-Rich Models.
+conf/cav/Shankar93:::Natarajan Shankar:::Verification of Real-Time Systems Using PVS.
+conf/cav/JagadeesanPO95:::Lalita Jategaonkar Jagadeesan::Carlos Puchol::James Von Olnhausen:::Safety Property Verification of ESTEREL Programs and Applications to Telecommunications Software.
+conf/cav/Berry97:::Gérard Berry:::Boolean and 2-adic Numbers Based Techniques for Verifying Synchronous Design.
+conf/cav/AmlaEKN01:::Nina Amla::E. Allen Emerson::Robert P. Kurshan::Kedar S. Namjoshi:::Rtdt: A Front-End for Efficient Model Checking of Synchronous Timing Diagrams.
+conf/cav/BrunsG99:::Glenn Bruns::Patrice Godefroid:::Model Checking Partial State Spaces with 3-Valued Temporal Logics.
+conf/cav/Peled94:::Doron Peled:::Combining Partial Order Reductions with On-the-fly Model-Checking.
+conf/cav/HenzingerJMNSW02:::Thomas A. Henzinger::Ranjit Jhala::Rupak Majumdar::George C. Necula::Grégoire Sutre::Westley Weimer:::Temporal-Safety Proofs for Systems Code.
+conf/cav/Yodaiken90:::Victor Yodaiken:::The Algebraic Feedback Product of Automata.
+conf/cav/RamakrishnanRSDDRV00:::C. R. Ramakrishnan::I. V. Ramakrishnan::Scott A. Smolka::Yifei Dong::Xiaoqun Du::Abhik Roychoudhury::V. N. Venkatakrishnan:::XMC: A Logic-Programming-Based Verification Toolset.
+conf/cav/KupfermanPV02:::Orna Kupferman::Nir Piterman::Moshe Y. Vardi:::Model Checking Linear Properties of Prefix-Recognizable Systems.
+conf/cav/EmersonS93:::E. Allen Emerson::A. Prasad Sistla:::Symmetry and Model Checking.
+conf/cav/MerinoT96:::P. Merino::José M. Troya:::EVP: Integration of FDTs for the Analysis and Verification of Communication Protocols.
+conf/cav/BeerBGGY94:::Ilan Beer::Shoham Ben-David::Daniel Geist::Raanan Gewirtzman::Michael Yoeli:::Methodology and System for Practical Formal Verification of Reactive Hardware.
+conf/cav/CeceF97:::Gérard Cécé::Alain Finkel:::Programs with Quasi-Stable Channels are Effectively Recognizable (Extended Abstract).
+conf/cav/ChenB98:::Yirn-An Chen::Randal E. Bryant:::Verification of Floating-Point Adders.
+conf/cav/Bruns92:::Glenn Bruns:::A Case Study in Safety-Critical Design.
+conf/cav/TasiranB97:::Serdar Tasiran::Robert K. Brayton:::STARI: A Case Study in Compositional and Hierarchical Timing Verification.
+conf/cav/AbdullaBJN99:::Parosh Aziz Abdulla::Ahmed Bouajjani::Bengt Jonsson::Marcus Nilsson:::Handling Global Conditions in Parameterized System Verification.
+conf/cav/BultanGP97:::Tevfik Bultan::Richard Gerber::William Pugh:::Symbolic Model Checking of Infinite State Systems Using Presburger Arithmetic.
+conf/cav/EmersonMSS90:::E. Allen Emerson::Aloysius K. Mok::A. Prasad Sistla::Jai Srinivasan:::Quantitative Temporal Reasoning.
+conf/cav/ProbstL91:::David K. Probst::Hon F. Li:::Partial-Order Model Checking: A Guide for the Perplexed.
+conf/cav/ZhuS94:::Zheng Zhu::Carl-Johan H. Seger:::The Completeness of a Hardware Inference System.
+conf/cav/BarrettDS02:::Clark W. Barrett::David L. Dill::Aaron Stump:::Checking Satisfiability of First-Order Formulas by Incremental Translation to SAT.
+conf/cav/FernandezJJV96:::Jean-Claude Fernandez::Claude Jard::Thierry Jéron::César Viho:::Using On-The-Fly Verification Techniques for the Generation of test Suites.
+conf/cav/Wilding98:::Matthew Wilding:::A Machine-Checked Proof of the Optimality of a Real-Time Scheduling Policy.
+conf/cav/DamsGDHKP94:::Dennis Dams::Rob Gerth::Gert Döhmen::Ronald Herrmann::Peter Kelb::Hergen Pargmann:::Model Checking Using Adaptive State and Data Abstraction.
+conf/cav/BouajjaniT02:::Ahmed Bouajjani::Tayssir Touili:::Extrapolating Tree Transformations.
+conf/cav/CamposG96:::Sérgio Vale Aguiar Campos::Orna Grumberg:::Selective Quantitative Analysis and Interval Model Checking: Verifying Different Facets of a System.
+conf/cav/BevierS91:::William R. Bevier::Jørgen F. Søgaard-Andersen:::Mechanically Checked Proofs of Kernel Specification.
+conf/cav/ChakrabartiAHJM02:::Arindam Chakrabarti::Luca de Alfaro::Thomas A. Henzinger::Marcin Jurdzinski::Freddy Y. C. Mang:::Interface Compatibility Checking for Software Modules.
+conf/cav/McMillan96:::Kenneth L. McMillan:::A Conjunctively Decomposed Boolean Representation for Symbolic Model Checking.
+conf/cav/Camilleri98:::Albert John Camilleri:::A Role for Theorem Proving in Multi-Processor Design.
+conf/cav/GrumbergHS01:::Orna Grumberg::Tamir Heyman::Assaf Schuster:::Distributed Symbolic Model Checking for µ-Calculus.
+conf/cav/NalumasuGMG98:::Ratan Nalumasu::Rajnish Ghughal::Abdelillah Mokkedem::Ganesh Gopalakrishnan:::The 'Test Model-Checking' Approach to the Verification of Formal Memory Models of Multiprocessors.
+conf/cav/CyrlukMR97:::David Cyrluk::M. Oliver Möller::Harald Rueß:::An Efficient Decision Procedure for the Theory of Fixed-Sized Bit-Vectors.
+conf/cav/YonedaKM02:::Tomohiro Yoneda::Tomoya Kitai::Chris J. Myers:::Automatic Derivation of Timing Constraints by Failure Analysis.
+conf/cav/Klarlund97:::Nils Klarlund:::An <i>n</i> log <i>n</i> Algorithm for Online BDD Refinement.
+conf/cav/AlurCH93:::Rajeev Alur::Costas Courcoubetis::Thomas A. Henzinger:::Computing Accumulated Delays in Real-time Systems.
+conf/cav/AlurFH94:::Rajeev Alur::Limor Fix::Thomas A. Henzinger:::A Determinizable Class of Timed Automata.
+conf/cav/AlurGM00:::Rajeev Alur::Radu Grosu::M. McDougall:::Efficient Reachability Analysis of Hierarchical Reactive Machines.
+conf/cav/ArmoniFFGPTV03:::Roy Armoni::Limor Fix::Alon Flaisher::Orna Grumberg::Nir Piterman::Andreas Tiemeyer::Moshe Y. Vardi:::Enhanced Vacuity Detection in Linear Temporal Logic.
+conf/cav/Manna94:::Zohar Manna:::Beyond Model Checking.
+conf/cav/KupfermanV96:::Orna Kupferman::Moshe Y. Vardi:::Module Checking.
+conf/cav/Emerson95:::E. Allen Emerson:::Methods for Mu-calculus Model Checking: A Tutorial (Abstract).
+conf/cav/BerregebBR96:::Narjes Berregeb::Adel Bouhoula::Michaël Rusinowitch:::Automated Verification by Induction with Associative-Commutative Operators.
+conf/cav/Sterling91:::Colin Sterling:::Taming Infinite State Spaces.
+conf/cav/AlfaroHM00:::Luca de Alfaro::Thomas A. Henzinger::Freddy Y. C. Mang:::Detecting Errors Before Reaching Them.
+conf/cav/AbdullaABBHL99:::Parosh Aziz Abdulla::Aurore Annichini::Saddek Bensalem::Ahmed Bouajjani::Peter Habermehl::Yassine Lakhnech:::Verification of Infinite-State Systems by Combining Abstraction and Reachability Analysis.
+conf/cav/EngbergGL92:::Urban Engberg::Peter Grønning::Leslie Lamport:::Mechanical Verification of Concurrent Systems with TLA.
+conf/cav/BinghamH02:::Jesse D. Bingham::Alan J. Hu:::Semi-formal Bounded Model Checking.
+conf/cav/HardinWG98:::David Hardin::Matthew Wilding::David A. Greve:::Transforming the Theorem Prover into a Digital Design Tool: From Concept Car to Off-Road Vehicle.
+conf/cav/AndersenV95:::Henrik Reif Andersen::Bart Vergauwen:::Efficient Checking of Behavioural Relations and Modal Assertions using Fixed-Point Inversion.
+conf/cav/NamjoshiK00:::Kedar S. Namjoshi::Robert P. Kurshan:::Syntactic Program Transformations for Automatic Abstraction.
+conf/cav/NamjoshiK99:::Kedar S. Namjoshi::Robert P. Kurshan:::Efficient Analysis of Cyclic Definitions.
+conf/cav/HulgaardB95:::Henrik Hulgaard::Steven M. Burns:::Efficient Timing Analysis of a Class of Petri Nets.
+conf/cav/ChanABN97:::William Chan::Richard Anderson::Paul Beame::David Notkin:::Combining Constraint Solving and Symbolic Model Checking for a Class of a Systems with Non-linear Constraints.
+conf/cav/Kurshan94:::Robert P. Kurshan:::Models Whose Checks Don't Explode.
+conf/cav/RybinaV02:::Tatiana Rybina::Andrei Voronkov:::Using Canonical Representations of Solutions to Speed Up Infinite-State Model Checking.
+conf/cav/BerardF99:::Béatrice Bérard::Laurent Fribourg:::Automated Verification of a Parametric Real-Time Program: The ABR Conformance Protocol.
+conf/cav/HenzingerQR98:::Thomas A. Henzinger::Shaz Qadeer::Sriram K. Rajamani:::You Assume, We Guarantee: Methodology and Case Studies.
+conf/cav/BjesseLM01:::Per Bjesse::Tim Leonard::Abdel Mokkedem:::Finding Bugs in an Alpha Microprocessor Using Satisfiability Solvers.
+conf/cav/HiguchiSSFK92:::Masahiro Higuchi::Osamu Shirakawa::Hiroyuki Seki::Mamoru Fujii::Tadao Kasami:::A Verification Procedure via Invariant for Extended Communicating Finite-State Machines.
+conf/cav/LoewensteinD90:::Paul Loewenstein::David L. Dill:::Verification of a Multiprocessor Cache Protocol Using Simulation Relations and Higher-Order Logic.
+conf/cav/KurshanMOS93:::Robert P. Kurshan::Michael Merritt::Ariel Orda::Sonia R. Sachs:::A Structural Linearization Principle for Processes.
+conf/cav/KurshanMOS95:::Robert P. Kurshan::Michael Merritt::Ariel Orda::Sonia R. Sachs:::Modelling Asynchrony with a Synchronous Model.
+conf/cav/KapurS96:::Deepak Kapur::M. Subramaniam:::Mechanically Verifying a Family of Multiplier Circuits.
+conf/cav/JeronM99:::Thierry Jéron::Pierre Morel:::Test Generation Derived from Model-Checking.
+conf/cav/FeigenbaumKL91:::Joan Feigenbaum::Jeremy A. Kahn::Carsten Lund:::Complexity Results for POMSET Languages.
+conf/cav/HosabettuSG98:::Ravi Hosabettu::Mandayam K. Srivas::Ganesh Gopalakrishnan:::Decomposing the Proof of Correctness of pipelined Microprocessors.
+conf/cca/Krznaric00:::Marko Krznaric:::Computing a Required Absolute Precision from a Stream of Linear Fractional Transformations.
+conf/cca/Skordev00:::Dimiter Skordev:::Characterization of the Computable Real Numbers by Means of Primitive Recursive Functions.
+conf/ccc/DezanVQS91:::C. Dezan::Hervé Le Verge::Patrice Quinton::Yannick Saouter:::The Alpha du Centaur environment.
+conf/ccc/LaghariD91:::M. S. Laghari::F. Deravi:::Comparison of scheduling techniques for the parallel implementation of the Hough transform.
+conf/ccc/RocheteauH91:::Frédéric Rocheteau::Nicolas Halbwachs:::POLLUS: A LUSTRE based hardware design environment.
+conf/ccc/AboelazeLW91:::Mokhtar Aboelaze::De-Lei Lee::Benjamin W. Wah:::A programmable VLSI array with constant I/O pins.
+conf/ccc/AndonovG91:::Rumen Andonov::Frédéric Gruau:::A 2D toroidal systolic array for the knapsack problem.
+conf/ccc/Dongen91:::Vincent Van Dongen:::From systolic to periodic array design.
+conf/ccc/Charles91:::Henri-Pierre Charles:::Loop unrolling for processors with instruction cache.
+conf/ccl/Charatonik94:::Witold Charatonik:::Set Constraints in Some Equational Theories.
+conf/ccl/Snyder94:::Wayne Snyder:::Automated Deduction with Constraints.
+conf/cdb/GyssensVG00:::Marc Gyssens::Luc Vandeurzen::Dirk Van Gucht:::Linear-Constraint Databases.
+conf/cdb/ByonR95:::Jo-Hag Byon::Peter Z. Revesz:::DISCO: A Constraint Database System with Sets.
+conf/cdb/AfratiAK95:::Foto N. Afrati::Theodoros Andronikos::Theodoros G. Kavalieros:::On the Expressiveness of First-Order Constraint Languages.
+conf/cdb/GrumbachKS00:::Stéphane Grumbach::Gabriel M. Kuper::Jianwen Su:::Expressive Power: The Infinite Case.
+conf/cdb/Toman97:::David Toman:::Computing the Well-Founded Semantics for Constraint Extensions of Datalog.
+conf/ccs/MittalV02:::Vishal Mittal::Giovanni Vigna:::Sensor-based intrusion detection for intra-domain distance-vector routing.
+conf/ccs/WagnerS02:::David Wagner::Paolo Soto:::Mimicry attacks on host-based intrusion detection systems.
+conf/ccs/BellaPM02:::Giampaolo Bella::Lawrence C. Paulson::Fabio Massacci:::The verification of an industrial payment protocol: the SET purchase phase.
+conf/ccs/MicaliOR01:::Silvio Micali::Kazuo Ohta::Leonid Reyzin:::Accountable-subgroup multisignatures: extended abstract.
+conf/ccs/LiWM01:::Ninghui Li::William H. Winsborough::John C. Mitchell:::Distributed credential chain discovery in trust management: extended abstract.
+conf/ccs/DengZB02:::Robert H. Deng::Jianying Zhou::Feng Bao:::Defending against redirect attacks in mobile IP.
+conf/ccs/SantisCP98:::Alfredo De Santis::Giovanni Di Crescenzo::Giuseppe Persiano:::Communication-Efficient Anonymous Group Identification.
+conf/ccs/Varadharajan00:::Vijay Varadharajan:::Security enhanced mobile agents.
+conf/ccs/Perrig01:::Adrian Perrig:::The BiBa one-time signature and broadcast authentication protocol.
+conf/ccs/Axelsson99:::Stefan Axelsson:::The Base-Rate Fallacy and Its Implications for the Difficulty of Intrusion Detection.
+conf/ccs/Reiter94:::Michael K. Reiter:::Secure Agreement Protocols: Reliable and Atomic Group Multicast in Rampart.
+conf/ccs/PfitzmannW97:::Birgit Pfitzmann::Michael Waidner:::Asymmetric Fingerprinting for Larger Collusions.
+conf/ccs/CachinKLS02:::Christian Cachin::Klaus Kursawe::Anna Lysyanskaya::Reto Strobl:::Asynchronous verifiable secret sharing and proactive cryptosystems.
+conf/ccs/HerzbergJJKY97:::Amir Herzberg::Markus Jakobsson::Stanislaw Jarecki::Hugo Krawczyk::Moti Yung:::Proactive Public Key and Signature Systems.
+conf/ccs/NingCR02:::Peng Ning::Yun Cui::Douglas S. Reeves:::Constructing attack scenarios through correlation of intrusion alerts.
+conf/ccs/KiayiasY02:::Aggelos Kiayias::Moti Yung:::Breaking and Repairing Asymmetric Public-Key Traitor Tracing.
+conf/ccs/ChowEJO02:::Stanley Chow::Philip A. Eisen::Harold Johnson::Paul C. van Oorschot:::A White-Box DES Implementation for DRM Applications.
+conf/bpm/Schimm03:::Guido Schimm:::Mining Most Specific Workflow Models from Event-Based Data.
+conf/bpm/PiccinelliW03:::Giacomo Piccinelli::Scott Lane Williams:::Workflow: A Language for Composing Web Services.
+conf/bpm/Desel00:::Jörg Desel:::Validation of Process Models by Construction of Process Nets.
+conf/bpm/GlabbeekS03:::Rob J. van Glabbeek::David G. Stork:::Query Nets: Interacting Workflow Modules That Ensure Global Termination.
+conf/bpm/EllisK00:::Clarence A. Ellis::Karim Keddara:::A Workflow Change Is a Workflow.
+conf/cga/HeusingerN88:::H. Heusinger::Hartmut Noltemeier:::On Separable and Rectangular Clusterings.
+conf/cga/Hinterberger88:::Hans Hinterberger:::Using Graphical Information from a Grid File's Directory to Visualize Patterns in Cartesian Product Spaces.
+conf/cga/Buckley88:::Charles E. Buckley:::A Divide-and-Conquer Algorithm for Computing 4-Dimensional Convex Hulls.
+conf/cga/Simon91:::Klaus Simon:::A New Simple Linear Algorithm to Recognize Interval Graphs.
+conf/cga/AurenhammerSW91:::Franz Aurenhammer::Gerd Stöckl::Emo Welzl:::The Post Office Problem for Fuzzy Point Sets.

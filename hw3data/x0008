@@ -1,0 +1,200 @@
+conf/rt/HertzmannOCS02:::Aaron Hertzmann::Nuria Oliver::Brian Curless::Steven M. Seitz:::Curve Analogies.
+conf/rt/Nishita98:::Tomoyuki Nishita:::Light Scattering Models for the Realistic Rendering of Natural Scenes.
+conf/rt/StewartK98:::A. James Stewart::Tasso Karkanis:::Computing the Approximate Visibility map, with Applications to Form Factors and Discontinuity Meshing.
+conf/rt/ReinhardSH00:::Erik Reinhard::Brian E. Smits::Charles D. Hansen:::Dynamic Acceleration Structures for Interactive Ray Tracing.
+conf/rt/JonesP00:::Thouis R. Jones::Ronald N. Perry:::Antialiasing with Line Samples.
+conf/rt/WaldBSKK02:::Ingo Wald::Carsten Benthin::Philipp Slusallek::Thomas Kollig::Alexander Keller:::Interactive Global Illumination using Fast Ray Tracing.
+conf/rt/DutreBSW97:::Philip Dutré::Philippe Bekaert::Frank Suykens::Yves D. Willems:::Bidirectional Radiosity.
+conf/rt/ShirleyWHZWG95:::Peter Shirley::Bretton Wade::Philip M. Hubbard::David Zareski::Bruce Walter::Donald P. Greenberg:::Global Illumination via Density Estimation.
+conf/rt/BekaertNNSW98:::Philippe Bekaert::László Neumann::Attila Neumann::Mateu Sbert::Yves D. Willems:::Hierarchical Monte Carlo Radiosity.
+conf/rt/BesuievskyS96:::Gonzalo Besuievsky::Mateu Sbert:::The Multi-Frame Lighting Method: A Monte Carlo Based Solution for Radiosity in Dynamic Environments.
+conf/rt/MachirajuSY95:::Raghu Machiraju::J. Edward Swan II::Roni Yagel:::Spatial Domain Characterization and Control of Reconstruction Errors.
+conf/rt/Szirmay-KalosP98:::László Szirmay-Kalos::Werner Purgathofer:::Global Ray-Bundle Tracing with Hardware Acceleration.
+conf/rt/BaranoskiBS95:::Gladimir V. G. Baranoski::Randall Bramley::Peter Shirley:::Fast Radiosity Solutions for Environments with High Average Reflectance.
+conf/rt/MyszkowskiRT99:::Karol Myszkowski::Przemyslaw Rokita::Takehiro Tawara:::Perceptually-Informed Accelerated Rendering of High Quality Walkthrough Sequences.
+conf/rt/DmitrievBMS02:::Kirill Dmitriev::Stefan Brabec::Karol Myszkowski::Hans-Peter Seidel:::Interactive Global Illumination using Selective Photon Tracing.
+conf/rt/LischinskiR98:::Dani Lischinski::Ari Rappoport:::Image-Based Rendering for Non-Diffuse Synthetic Scenes.
+conf/rt/Bustillo97:::Eduardo Bustillo:::A Neuro-Evolutionary Unbiased Global Illumination Algorithm.
+conf/rt/MatusikPZNM02:::Wojciech Matusik::Hanspeter Pfister::Remo Ziegler::Addy Ngan::Leonard McMillan:::Acquisition and Rendering of Transparent and Refractive Objects.
+conf/rt/MeyerN98:::Alexandre Meyer::Fabrice Neyret:::Interactive Volumetric Textures.
+conf/rt/SanderGSH02:::Pedro V. Sander::Steven J. Gortler::John Snyder::Hugues Hoppe:::Signal-Specialized Parametrization.
+conf/rt/KautzVHS00:::Jan Kautz::Pere-Pau Vázquez::Wolfgang Heidrich::Hans-Peter Seidel:::Unified Approach to Prefiltered Environment Maps.
+conf/rt/SlusallekSSS95:::Philipp Slusallek::Michael Schröder::Marc Stamminger::Hans-Peter Seidel:::Smart Links and Efficient Reconstruction for Wavelet Radiosity.
+conf/rt/SlusallekS96:::Philipp Slusallek::Hans-Peter Seidel:::Towards an Open Rendering Kernel for Image Synthesis.
+conf/rt/HeyTP01:::Heinrich Hey::Robert F. Tobler::Werner Purgathofer:::Real-Time Occlusion Culling with a Lazy Occlusion Grid.
+conf/rz/Czap91:::Hans Czap:::Kommunikation dezentraler betrieblicher Anwendungen (Hauptvortrag).
+conf/rz/Bergmann97:::Helmut Bergmann:::Das IBM Megazentrum - Eine europäische Konsolidierung.
+conf/rz/Hain87:::Heiz G. Hain:::Rationalisierung im Outputmanagement - ein Erfahrungsbericht.
+conf/rz/Schliffer81:::Wolfgang Schliffer:::Datensicherungsmaßnahmen und Objektschutz in einem zentralen Rechenzentrum.
+conf/rz/FriedrichKS89:::Peter Friedrich::Rudolf Kruse::Werner Struckmann:::Das Salzgitter-Modell - Ein Beispiel für die Zusammenarbeit zwischen Hochschule und Industrie bei der Entwicklung komplexer Software-Systeme.
+conf/rz/Kirchhoff95:::Thomas Kirchhoff:::Externe Wartung von PC-Netzwerken.
+conf/rz/Ilten87:::David F. Ilten:::Beispiele für moderne Benutzerumgebungen durch verteilte Datenverarbeitung.
+conf/rz/Pfaffenberger75:::Hans Pfaffenberger:::Betriebsablauf in einer RZ-GMBH.
+conf/rz/Driessen75:::L. J. Driessen:::Performance Evaluation by Monitoring.
+conf/rz/BeutelspacherR89:::Albrecht Beutelspacher::Ute Rosenbaum:::Sicherer Zugang zu Betriebssystemen mit der Chip-Karte.
+conf/rz/Strugalla83:::R. Strugalla:::Konzeptionelle Überlegungen zum Thema Messen und Tunen in Großrechensystemen.
+conf/rz/Jasper77:::Erich Jasper:::Arbeitsvorbereitung als Möglichkeit zur Steigerung der Effizienz auch im Hochschulrechenzentrum.
+conf/rz/SellF95:::Wolfgang Sell::Hartmut Fichtel:::Datenservices an einem Höchstleistungsrechenzentrum.
+conf/rz/Beierle89:::Martin Beierle:::Sicherheit in UNIX.
+conf/rz/BachbauerB81:::G. Bachbauer::Freimut Bodendorf:::Unterstützung der Benutzer von Statistikpaketen, insbesondere Erleichterung der Anwendung von SPSS durch eine Methodenbankumgebung.
+conf/rz/Friedel97:::Torsten Friedel:::Leistungen innovativer Rechenzentren: Tagesaktuelle Informationen für Hotline, Telefonanlage und Telefonbuch.
+conf/rz/MunchHFKWE91:::Jochen W. Münch::Lothar Hofmann::Günther Fischer::Klaus Köhler::Jörg Weller::Lutz Emmerich:::Organisatorische Anforderungen an ein Netzmanagementsystem zur Verwaltung heterogener Netze.
+conf/rz/Schwichtenberg95:::Günter Schwichtenberg:::Rechner, Netze, Experten: die ständige Migration.
+conf/rz/Kachel87:::Ida Kachel:::Vorgehensweise bei der Rationalisierung und Automatisierung eines produktiven DV-Betriebs.
+conf/rz/Luttermann77:::H. Luttermann:::Der Service des Rechenzentrums und der Gesamtablauf der EDV-Projekte der Benutzer.
+conf/rz/Hoffmann89:::Geerd-R. Hoffmann:::ECFILE-Datenhaltung in einem verteilten Rechensystem.
+conf/rz/Schriefer81:::Dirk Schriefer:::Leistungsbewertungsstrategie für Timesharing-Systeme.
+conf/rz/Kortmann89:::Richard Kortmann:::Volltextsuche bei der Benutzerberatung.
+conf/rz/Gotze85:::W. Götze:::Praktische Back-up-Lösungen zur Sicherung der Kontinuität der Datenverarbeitung.
+conf/rz/Heigert87:::Johannes Heigert:::Das Deutsche Forschungsnetz - Konzept zur Integration schneller kommunikationsdienste.
+conf/rz/Muller85:::Berthold Müller:::Aufgaben und Organisation eines Benutzerservice-Zentrums -Erfahrungsbericht eines Information Centre-.
+conf/sp/MacKenzieR01:::Philip D. MacKenzie::Michael K. Reiter:::Networked Cryptographic Devices Resilient to Capture.
+conf/sp/ParkCS02:::Jung Min Park::Edwin K. P. Chong::Howard Jay Siegel:::Efficient Multicast Packet Authentication Using Signature Amortization.
+conf/sp/PorrasK91:::Phillip A. Porras::Richard A. Kemmerer:::Covert Flow Trees: A Technique for Identifying and Analyzing Covert Storage Channels.
+conf/sp/Gray90:::James W. Gray III:::Probabilistic Interference.
+conf/sp/Jim01:::Trevor Jim:::SD3: A Trust Management System with Certified Evaluation.
+conf/sp/Mantel01:::Heiko Mantel:::Preserving Information Flow Properties under Refinement.
+conf/sp/Benzel84:::T. V. Benzel:::Analysis of a Kernel Verification.
+conf/sp/Kuhn02:::Markus G. Kuhn:::Optical Time-Domain Eavesdropping Risks of CRT Displays.
+conf/sp/HinkeAK83:::Thomas H. Hinke::J. Althouse::Richard A. Kemmerer:::SDC Secure Release Terminal Project.
+conf/sp/DavidaDL80a:::George I. Davida::Richard A. DeMillo::Richard J. Lipton:::A System Architecture to Support a Verifiably Secure Multilevel Security System.
+conf/sp/Canny02:::John F. Canny:::Collaborative Filtering with Privacy.
+conf/sp/Jacob89:::J. Jacob:::On the Derivation of Secure Components.
+conf/sp/AgrawalKP03:::Dakshi Agrawal::Dogan Kesdogan::Stefan Penz:::Probabilistic Treatment of MIXes to Hamper Traffic Analysis.
+conf/sp/JensenMT99:::Thomas P. Jensen::Daniel Le Métayer::Tommy Thorn:::Verification of Control Flow based Security Properties.
+conf/sp/Alves-FossL91:::Jim Alves-Foss::Karl N. Levitt:::Verification of Secure Distributed Systems in Higher Order Logic: A Modular Approach Using Generic Components.
+conf/sp/LandwehrC84:::Carl E. Landwehr::John M. Carroll:::Hardware Requirements for Secure Computer Systems: A Framework.
+conf/sp/Reiss80:::Steven P. Reiss:::Practical Data-Swapping: The First Steps.
+conf/sp/PriceRW03:::David W. Price::Algis Rudys::Dan S. Wallac:::Garbage Collector Memory Accounting in Language-Based Systems.
+conf/sp/DinoltNBF84:::George W. Dinolt::Richard B. Neely::P. C. Baker::J. Freeman:::Multinet Gateway-Towards A1 Certification.
+conf/sp/Taylor84:::T. Taylor:::Comparison Paper between the Bell and LaPadula Model and the SRI Model.
+conf/sp/Denning84:::Dorothy E. Denning:::Cryptographic Checksums for Multilevel Database Security.
+conf/sp/GligorCCJJLR86:::Virgil D. Gligor::C. Sekar Chandersekaran::W. Cheng::Wen-Der Jiang::Abhai Johri::Gary L. Luckenbaugh::L. Edward Reich:::A New Security Testing Method and Its Application to the Secure Xenix Kernel.
+conf/sp/KargerH84:::Paul A. Karger::A. J. Herbert:::An Augmented Capability Architecture to Support Lattice Security and Traceability of Access.
+conf/sp/Shamir80:::Adi Shamir:::The Cryptographic Security of Compact Knapsacks (Preliminary Report).
+conf/sp/BranstadBC90:::M. Branstad::W. C. Barker::P. Cochrane:::The Role of Trust in Protected Mail.
+conf/sp/DittrichHKLMW82:::Klaus R. Dittrich::Karlheinz Hug::Peter Kammerer::Dieter Lienert::Hans Mau::Klaus Wachsmuth:::Protection in the OSKAR Operating System: Goals, Concepts, Consequences.
+conf/sp/SongWP00:::Dawn Xiaodong Song::David Wagner::Adrian Perrig:::Practical Techniques for Searches on Encrypted Data.
+conf/sp/TsaiGC87:::Chii-Ren Tsai::Virgil D. Gligor::C. Sekar Chandersekaran:::A Formal Method for the Identification of Covert Storage Channels in Source Code.
+conf/sp/Guttman87:::J. Guttman:::Information Flow and Invariance.
+conf/sp/McLean99:::John McLean:::Twenty Years of Formal Methods.
+conf/sp/TengCL90:::H. S. Teng::K. Chen::S. C. Y. Lu:::Adaptive Real-Time Anomaly Detection Using Inductively Generated Sequential Patterns.
+conf/sq/Binucci95:::Laura Binucci:::Software Quality of Use: Evaluation by MUSiC.
+conf/sq/CampanaiFV95:::Maurizio Campanai::E. Ferretti::V. Valori:::Quality Estimation of Software Applications for Banking.
+conf/uh/QuathamerWB01:::Daniel Quathamer::Marlies Winterstein::Uwe Blotevogel:::Das Berichtssystem SuperX.
+conf/um/VanLehn03:::Kurt VanLehn:::The Advantages of Explicitly Representing Problem Spaces.
+conf/um/LeshRS01:::Neal Lesh::Charles Rich::Candace L. Sidner:::Collaborating with Focused and Unfocused Users under Imperfect Communication.
+conf/um/Grimnes03:::Gunnar Astrand Grimnes:::Learning Knowledge Rich User Models from the Semantic Web.
+conf/um/McNeeLKR03:::Sean M. McNee::Shyong K. Lam::Joseph A. Konstan::John Riedl:::Interfaces for Eliciting New User Preferences in Recommender Systems.
+conf/um/KimHK01:::Sanghee Kim::Wendy Hall::Andy Keane:::Using Document Structures for Personal Ontologies and User Modeling.
+conf/um/FeinmanA03:::Alexander Feinman::Richard Alterman:::Discourse Analysis Techniques for Modeling Group Interaction.
+conf/um/RodriguezLEG01:::Manuel de Buenaga Rodríguez::Manuel J. Maña López::Alberto Díaz Esteban::Pablo Gervás Gómez-Navarro:::A User Model Based on Content Analysis for the Intelligent Personalization of a News Service.
+conf/um/Masthoff03:::Judith Masthoff:::Modeling the Multiple People That Are Me.
+conf/um/BeckJM03:::Joseph E. Beck::Peng Jia::Jack Mostow:::Assessing Student Proficiency in a Reading Tutor That Listens.
+conf/um/AbergS01:::Johan Aberg::Nahid Shahmehri:::User Modelling as an Aid for Human Web Assistants.
+conf/um/FlemingC01:::Michael Fleming::Robin Cohen:::A User Modeling Approach to Determining System Initiative in Mixed-Initiative AI Systems.
+conf/vl/BrownH91:::Marc H. Brown::John Hershberger:::Color and Sound in Algorithm Animation.
+conf/vl/AmblerGKRS97:::Allen L. Ambler::Thomas Green::Takayuki Dan Kumura::Alexander Repenning::Trevor J. Smedley:::1997 Visual Programming Challenge Summary.
+conf/vl/Kimura95:::Takayuki Dan Kimura:::Object-Oriented Dataflow.
+conf/vl/Marriott94:::Kim Marriott:::Constraint Multiset Grammars.
+conf/vl/Fry01:::Christopher Fry:::The World Wide Train Wreck: Is there light at the end of the tunnel?
+conf/vl/Holt97:::Chris M. Holt:::Alterable Visual Languages.
+conf/vl/WangA94:::Guijun Wang::Allen L. Ambler:::Applicability Checking in Visual Programming Languages.
+conf/vl/ApteK93:::Ajay Apte::Takayuki Dan Kimura:::A Comparison Study of The Pen and The Mouse in Editing Graphic Diagrams.
+conf/vl/WareF94:::Colin Ware::Glenn Franck:::Viewing a Graph in a Virtual Reality Display is Three Times as Good as 2D Diagram.
+conf/vl/Campbell02:::Jeffrey D. Campbell:::Multi-User Collaborative Visual Program Development.
+conf/vl/PuigsegurAR96:::Jordi Puigsegur::Jaume Agustí::David Stuart Robertson:::A Visual Logic Programming Language.
+conf/vl/Rogers90:::Greg Rogers:::The GRClass Visual Programming System.
+conf/vl/LeeK92:::Jintae Lee::Tosiyasu L. Kunii:::Visual Translation: From Native Language to Sign Language.
+conf/vl/Tanimoto97:::Steven L. Tanimoto:::Representation and Learnability in Visual Languages for Web-based Interpersonal Communication.
+conf/vl/Osawa00:::Noritaka Osawa:::Generation and Evaluation of Glyphs Representing Superclass-Subclass Relationships.
+conf/vl/ApperleySW01:::Mark D. Apperley::Robert Spence::Kent Wittenburg:::Selecting One from Many: The Development of a Scalable Visualization Tool.
+conf/vl/Martin01:::Ludger Martin:::Visual Development Environment Based on Component Technique.
+conf/vl/Averbukh01:::Vladimir L. Averbukh:::Toward the Conceptions of Visualization Language and Visualization Metaphor.
+conf/vl/FukunagaKP93:::Alex S. Fukunaga::Takayuki Dan Kimura::Wolfgang Pree:::Object-Oriented Development of a Data Flow Visual Language System.
+conf/vl/TatemuraSJ99:::Jun'ichi Tatemura::Simone Santini::Ramesh Jain:::Social and Content-Based Approach for Visual Recommendation of Web Graphics.
+conf/vl/Goodell01:::Howie Goodell:::End User Programming in an Industrial Research &amp; Development Group.
+conf/vl/Song92:::J. Song:::A Layout Tool for Glotos.
+conf/vl/MacNeil91:::Ron MacNeil:::Generating Multimedia Presentations Automatically using TYRO, the Constraint, Case-Based Designer's Apprentice.
+conf/vl/Tatemura97:::Jun'ichi Tatemura:::Visualizing Document Space by Force-directed Dynamic Layout.
+conf/vl/SprattA93:::Lindsey L. Spratt::Allen L. Ambler:::A Visual Logic Programming Language Based on Sets and Partitioning Constraints.
+conf/vl/CoxSGM97:::Philip T. Cox::Trevor J. Smedley::John Garden::Mark McManus:::Experiences with Visual Programming in a Specific Domain - Visual Language Challenge '96.
+conf/vl/VolbrachtSDF96:::Sabine Volbracht::Khatoun Shahrbabaki::Gitta Domik::Gregor Fels:::Perspective viewing, Anaglyph stereo or Shutter glass stereo?
+conf/vl/ChokM95:::Sitt Sen Chok::Kim Marriott:::Automatic Construction of User Interfaces from Constraint Multiset Grammars.
+conf/vl/SugiuraK95:::Atsushi Sugiura::Yoshiyuki Koseki:::Creating Database Queries by Demonstration.
+conf/vl/FahrenholtzH95:::Dietrich Fahrenholtz::Volker Haarslev:::Visualization of Strand(tm) Processes.
+conf/vl/KahnS90:::Kenneth M. Kahn::Vijay A. Saraswat:::Complete Visualizations of Concurrent Programs and their Executions.
+conf/vl/KamCH01:::Na'aman Kam::Irun R. Cohen::David Harel:::The Immune System as a Reactive System: Modeling T Cell Activation With Statecharts.
+conf/vl/ClementiniDF90:::Eliseo Clementini::Alessandro D'Atri::Paolino Di Felice:::Browsing in Geographic Databases: an Object-Oriented Approach.
+conf/vl/TakahashiMMY94:::Shin Takahashi::Ken Miyashita::Satoshi Matsuoka::Akinori Yonezawa:::A Framework for Constructing Animations via Declarative Mapping Rules.
+conf/vl/PfeifferVM00:::Joseph J. Pfeiffer Jr.::Rick L. Vinyard Jr.::Bernardo Margolis:::A Common Framework for Input, Processing, and Output in a Rule-Based Visual Language.
+conf/vl/Citrin93:::Wayne Citrin:::Requirements for Graphical Front Ends for Visual Languages.
+conf/vl/YangB94:::Sherry Yang::Margaret M. Burnett:::From Concrete Forms to Generalized Abstractions through Perspective-Oriented Analysis Of Logical Relationships.
+conf/vl/McCrickardC99:::D. Scott McCrickard::Richard Catrambone:::Beyond the Scrollbar: An Evolution and Evaluation of Alternative Navigation Techniques.
+conf/vl/BouwmanBB94:::Peter Bouwman::Hans de Bruin::Jan van den Bos:::Visually Specifying Human-Computer Dialogues in DIGIS.
+conf/vl/CorridoniBMV96:::Jacopo M. Corridoni::Alberto Del Bimbo::Silvio De Magistris::Enrico Vicario:::A Visual Language for Color-Based Painting Retrieval.
+conf/vl/FerrucciNTTV97:::Filomena Ferrucci::F. Napolitano::Genoveffa Tortora::Maurizio Tucci::Giuliana Vitiello:::An Interpreter for Diagrammatic Languages Based on SR Grammars.
+conf/vl/BeaumontJ98:::Mark Beaumont::David Jackson:::Visualizing Complex Control Flow.
+conf/vl/SugiharaYTI92:::Kazuo Sugihara::Kazunari Yamamoto::Kojui Takeda::Mitsuyuki Inaba:::Layout-by-Example: A Fuzzy Visual Language for Specifying Stereotypes of Diagram Layout.
+conf/vl/Jungert90:::Erland Jungert:::Towards a Visual Query Language for an Object Oriented Geographical Information System.
+conf/vl/BottoniTS00:::Paolo Bottoni::Gabriele Taentzer::Andy Schürr:::Efficient Parsing of Visual Languages Based on Critical Pair Analysis and Contextual Layered Graph Transformation.
+conf/vl/Pfeiffer90:::Joseph J. Pfeiffer Jr.:::Using Graph Grammars for Data Structure Manipulation.
+conf/vl/Pfeiffer95:::Joseph J. Pfeiffer Jr.:::Ludwig: Decoupling Program Representations from Processing Models.
+conf/vl/LiGAH02:::Yongqiang Li::John C. Grundy::Robert Amor::John G. Hosking:::A Data Mapping Specification Environment Using a Concrete Business Form-Based Metaphor.
+conf/vl/PeltonenS01:::Jari Peltonen::Petri Selonen:::Processing UML Models with Visual Scripts.
+conf/vl/HartmannNR01:::Werner Hartmann::Jürg Nievergelt::Raimond Reichert:::Kara, finite state machines, and the case for programming as part of general education.
+conf/vl/DenglerFM93:::Edmund Dengler::Mark Friedell::Joe Marks:::Constraint-Driven Diagram Layout.
+conf/vl/BirchmanT92:::J. J. Birchman::Steven L. Tanimoto:::An Implementation of the VIVA Visual Language on the NeXT Computer.
+conf/vl/Santucci96:::Giuseppe Santucci:::On Graph Based Interaction for Semantic Query Languages.
+conf/vl/LewickiF96:::Dave Lewicki::Gene Fisher:::VisiTile - A Visual Language Development Toolkit.
+conf/vl/AdachiKTY99:::Yoshihiro Adachi::Suguru Kobayashi::Kensei Tsuchida::Takeo Yaku:::An NCE Context-Sensitive Graph Grammar for Visual Design Languages.
+conf/vl/KadoHI92:::Motoji Kado::Masahiko Hirakawa::Tadao Ichikawa:::HI-VISUAL for Hierarchical Development of Large Programs.
+conf/vl/Raymond91:::Darrell R. Raymond:::Characterizing Visual Languages.
+conf/vl/ChampouxDH00:::Bernard Champoux::Martin David::Alain Huot:::CAILS: A Prototype for a Computer Assisted Iconic Language System.
+conf/vl/BuchnerFK97:::Jürgen Buchner::Thomas Fehnl::Thomas Kunstmann:::HotDoc - A Flexible Framework for Spatial Composition.
+conf/vl/Moten02:::Roderick Moten:::A Method for Providing Program Interoperability for End-Users.
+conf/vl/Sassin94:::Michael Sassin:::Creating User-Intended Programs with Programming by Demonstration.
+conf/vl/GilHK01:::Joseph Gil::John Howse::Stuart Kent:::Towards a Formalization of Constraint Diagrams.
+conf/vl/DjangB98:::Rebecca Walpole Djang::Margaret M. Burnett:::Similarity Inheritance: A New Model of Inheritance for Spreadsheet VPLs.
+conf/vl/KoikeY93:::Hideki Koike::Hirotaka Yoshihara:::Fractal Approaches for Visualizing Huge Hierarchies.
+conf/vl/FerrucciTTV01:::Filomena Ferrucci::Genny Tortora::Maurizio Tucci::Giuliana Vitiello:::A System for Rapid Prototyping of Visual Language Environments.
+conf/vl/Green96:::T. R. G. Green:::The Visual Vision and Human Cognition.
+conf/vl/ReisRASN02:::Carla Alessandra Lima Reis::Rodrigo Quites Reis::Marcelo M. de Abreu::Heribert Schlebbe::Daltro José Nunes:::Flexible Software Process Enactment Support in the APSEE Model.
+conf/vl/SlatteryBO99:::Diana Slattery::William Brubaker::Daniel O'Neil:::Mazes and Morphs: Modeling Meaning in Glide, a Non-Linear, Dynamic Visual Language.
+conf/vl/Masnavi90:::Siamak Masnavi:::Automatic Visualization of the Dynamic Behaviour of Programs by Animation of the Language Interpreter.
+conf/vr/BourdotT02:::Patrick Bourdot::M. Damien Touraine:::Polyvalent Display Framework to Control Virtual Navigations by 6DOF Tracking.
+conf/vr/SakaguchiFT01:::Masamichi Sakaguchi::Junji Furusho::Naoyuki Takesue:::Passive Force Display Using ER Brakes and Its Control Experiments.
+conf/vr/WanZKQ00:::Ming Wan::Nan Zhang::Arie E. Kaufman::Huamin Qu:::Interactive Stereoscopic Rendering of Voxel-based Terrain.
+conf/vr/TanikawaH01:::Tomohiro Tanikawa::Michitaka Hirose:::Building a Worldwide Photorealistic Virtual Environment by Switching between Subenvironments.
+conf/vr/StoevSS02:::Stanislav L. Stoev::Dieter Schmalstieg::Wolfgang Straßer:::The Through-the-Lens Metaphor: Taxonomy and Application.
+conf/vr/LeibeSRWKSH00:::Bastian Leibe::Thad Starner::William Ribarsky::Zachary Wartell::David M. Krum::Brad Singletary::Larry F. Hodges:::The Perceptive Workbench: Toward Spontaneous and Natural Interaction in Semi-immersive Virtual Environments.
+conf/vr/KakushoKHM00:::Koh Kakusho::Jun Kitawaki::Shiro Hagihara::Michihiko Minoh:::Adjusting the Difference between 3D Spaces in VR Systems and Human Perception through Object Manipulation.
+conf/vr/Iwata99:::Hiroo Iwata:::Walking about Virtual Environments on an Infinite Floor.
+conf/vr/KunitaOSIMT01:::Yutaka Kunita::Naoko Ogawa::Atsushi Sakuma::Masahiko Inami::Taro Maeda::Susumu Tachi:::Immersive Autostereoscopic Display for Mutual Telexistence: TWISTER I (Telexistence Wide-Angle Immersive STEReoscope Model I).
+conf/vr/AllardGLMR02:::Jérémie Allard::Valérie Gouranton::Loïck Lecointre::Emmanuel Melin::Bruno Raffin:::Net Juggler: Running VR Juggler with Multiple Displays on a Commodity Component Cluster.
+conf/vr/DeriggiKSBSK99:::Felicio Vanderlei Deriggi Jr.::Mario Massakuni Kubo::Antonio Carlos Sementille::Jose Remo Ferreira Brega::Simone Garcon dos Santos::Claudio Kirner:::CORBA Platform as Support for Distributed Virtual Environments.
+conf/vr/LecuyerCKRC00:::Anatole Lécuyer::Sabine Coquillart::Abderrahmane Kheddar::Paul Richard::Philippe Coiffet:::Pseudo-Haptic Feedback: Can Isometric Input Devices Simulate Force Feedback?
+conf/vr/NojimaSIT02:::Takuya Nojima::Dairoku Sekiguchi::Masahiko Inami::Susumu Tachi:::The SmartTool: A System for Augmented Reality of Haptics.
+conf/vr/WingraveHSMBM03:::Chadwick A. Wingrave::Deborah Hix::Dieter Schmalstieg::Blair MacIntyre::Doug A. Bowman::Mark R. Mine:::Mixed Reality: The Continuum from Virtual to Augmented Reality.
+conf/vr/SharlinFGW00:::Ehud Sharlin::Pablo Figueroa::Mark Green::Benjamin Watson:::A Wireless, Inexpensive Optical Tracker for the CAVE(tm).
+conf/vr/JaninMC93:::Adam L. Janin::David W. Mizell::Thomas P. Caudell:::Calibration of Head-Mounted Displays for Augmented Reality Applications.
+conf/vr/AskewD93:::R. Scott Askew::Myron Diftler:::Ground Control Testbed for Space Station Freedom Robot Manipulators.
+conf/vr/FeinerZCL93:::Steven Feiner::Michelle X. Zhou::Laurence A. Crutcher::Aurel A. Lazar:::A Virtual World for Network Management.
+conf/vr/LinLN00:::Ching-Rong Lin::R. Bowen Loftin::H. Roice Nelson Jr.:::Interaction with Geoscience Data in an Immersive Environment.
+conf/vr/EllisABJJ99:::Stephen R. Ellis::Bernard D. Adelstein::S. Baumeler::G. J. Jense::Richard H. Jacoby:::Sensor Spatial Distortion, Visual Latency, and Update Rate Effects on 3D Tracking in Virtual Environments.
+conf/vr/PurbrickG02:::Jim Purbrick::Chris Greenhalgh:::An Extensible Event-Based Infrastructure for Networked Virtual Worlds.
+conf/vr/PiekarskiT02:::Wayne Piekarski::Bruce H. Thomas:::Tinmith-Hand: Unified User Interface Technology for Mobile Outdoor Augmented Reality and Indoor Virtual Reality.
+conf/vr/ColgateGSS93:::J. Edward Colgate::Paul E. Grafing::Michael C. Stanley::Gerd Schenkel:::Implementation of Stiff Virtual Walls in Force-Reflecting Interfaces.
+conf/vr/JohnsonMOG99:::Andrew E. Johnson::Thomas G. Moher::Stellan Ohlsson::Mark Gillingham:::The Round Earth Project: Deep Learning in a Collaborative Virtual World.
+conf/vr/ShihJH00:::Zen-Chung Shih::Yuh-Sen Jaw::Mei-Ling Hsu:::Virtual Roller Coaster.
+conf/vr/MorishimaH93:::Shigeo Morishima::Hiroshi Harashima:::Facial Expression Synthesis Based on Natural Voice for Virtual Face-to-Face Communication with Machine.
+conf/vr/GaoBR01:::Hong Hua::Chunyu Gao::Frank Biocca::Jannick P. Rolland:::An Ultra-Light and Compact Design and Implementation of Head-Mounted Projective Displays.
+conf/vr/Maggioni93:::Christoph Maggioni:::A Novel Gestural Input Device for Virtual Reality.
+conf/vr/SatoSK01:::Yoichi Sato::Makiko Saito::Hideki Koike:::Real-Time Input of 3D Pose and Gestures of a User's Hand and Its Applications for HCI.
+conf/vr/AgusGGZZ02:::Marco Agus::Andrea Giachetti::Enrico Gobbetti::Gianluigi Zanetti::Antonio Zorcolo:::Real-Time Haptic and Visual Simulation of Bone Dissection.
+conf/wg/KreveldB89:::Marc J. van Kreveld::Mark de Berg:::Finding Squares and Rectangles in Sets of Points.
+conf/wg/ZhouKN96:::Xiao Zhou::Abul Kashem::Takao Nishizeki:::Generalized Edge-Ranking of Trees (Extended Abstract).
+conf/wg/ZiererSB86:::Hans Zierer::Gunther Schmidt::Rudolf Berghammer:::An Interactive Graphical Manipulation System for Higher Order Objects Based on Relational Algebra.
+conf/wg/Haldar93:::S. Haldar:::An `All Pairs Shortest Path' Distributed Algorithm Using 2n² Messages.
+conf/wg/HinrichsNS88:::Klaus Hinrichs::Jürg Nievergelt::Peter Schorn:::A Sweep Algorithm and its Implementation: The All-Nearest-Neighbors Problem Revisited.
+conf/wg/NatanzonSS99:::Assaf Natanzon::Ron Shamir::Roded Sharan:::Complexity Classification of Some Edge Modification Problems.

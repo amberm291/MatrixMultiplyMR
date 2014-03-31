@@ -1,0 +1,200 @@
+conf/hybrid/GokbayrakC00:::Kagan Gokbayrak::Christos G. Cassandras:::Hybrid Controllers for Hierarchically Decomposed Systems.
+conf/hybrid/SavkinEP95:::Andrey V. Savkin::Robin J. Evans::Ian R. Petersen:::A New Approach to Robust Control of Hybrid Systems.
+conf/hybrid/DimitriadisSP95:::V. D. Dimitriadis::N. Shah::Costas C. Pantelides:::Optimal Design of Hybrid Controllers for Hybrid Process Systems.
+conf/hybrid/ZefranB98:::Milos Zefran::Joel W. Burdick:::Stabilization of Systems with Changing Dynamics.
+conf/hybrid/BakBR03:::Thomas Bak::Jan Bendtsen::Anders P. Ravn:::Hybrid Control Design for a Wheeled Mobile Robot.
+conf/hybrid/AaronIM02:::Eric Aaron::Franjo Ivancic::Dimitris N. Metaxas:::Hybrid System Models of Navigation Strategies for Games and Animations.
+conf/hybrid/GaoX97:::Jianping Gao::Qiwen Xu:::Rigorous Design of a Fault Diagnosis and Isolation Algorithm.
+conf/hybrid/CuzzolaM01:::Francesco Alessandro Cuzzola::Manfred Morari:::A Generalized Approach for Analysis and Control of Discrete-Time Piecewise Affine and Hybrid Systems.
+conf/hybrid/Ferrari-TrecateS03:::Giancarlo Ferrari-Trecate::Michael Schinkel:::Conditions of Optimal Classification for Piecewise Affine Regression.
+conf/hybrid/NarasimhanB02:::Sriram Narasimhan::Gautam Biswas:::An Approach to Model-Based Diagnosis of Hybrid Systems.
+conf/hybrid/OuaknineW03:::Joël Ouaknine::James Worrell:::Universality and Language Inclusion for Open and Closed Timed Automata.
+conf/hybrid/BettL95:::Christopher J. Bett::Michael D. Lemmon:::H<sub>infinity</sub> Gain Schedule Synthesis of Supervisory Hybrid Control Systems.
+conf/hybrid/Sun98:::Ron Sun:::Supplementing Neural Reinforcement Learning with Symbolic Methods.
+conf/hybrid/DeshpandeGV96:::Akash Deshpande::Aleks Göllü::Pravin Varaiya:::SHIFT: A Formalism and a Programming Language for Dynamic Networks of Hybrid Automata.
+conf/hybrid/LiuL03:::Jie Liu::Edward A. Lee:::On the Causality of Mixed-Signal and Hybrid Models.
+conf/hybrid/Morari01:::Manfred Morari:::Control as an Embedded Technology.
+conf/hybrid/Caspi97:::Paul Caspi:::What Can We Learn from Synchronous Data-Flow Languages?
+conf/hybrid/RufK97:::Jürgen Ruf::Thomas Kropf:::A New Algorithm for Discrete Timed Symbolic Model Checking.
+conf/hybrid/CassezHR02:::Franck Cassez::Thomas A. Henzinger::Jean-François Raskin:::A Comparison of Control Problems for Timed and Hybrid Systems.
+conf/hybrid/MostermanZB97:::Pieter J. Mosterman::Feng Zhao::Gautam Biswas:::Sliding Mode Model Semantics and Simulation for Hybrid Systems.
+conf/hybrid/PennaIMMCPTZ03:::Giuseppe Della Penna::Benedetto Intrigila::Igor Melatti::Michele Minichino::Ester Ciancamerla::Andrea Parisse::Enrico Tronci::Marisa Venturini Zilli:::Automatic Verification of a Turbogas Control System with the Mur varphi Verifier.
+conf/hybrid/SharkeyZ98:::Noel E. Sharkey::Tom Ziemke:::Life, Mind, and Robots: The Ins and Outs of Embodied Cognition.
+conf/hybrid/GaoLQS03:::Yan Gao::John Lygeros::Marc Quincampoix::Nicolas Seube:::Approximate Stabilisation of Uncertain Hybrid Systems.
+conf/hybrid/KohnR97:::Wolf Kohn::Jeffrey B. Remmel:::Hybrid Dynamic Programming.
+conf/hybrid/HuuckLUEKP97:::Ralf Huuck::Yassine Lakhnech::Luis Urbina::Sebastian Engell::Stefan Kowalewski::Jörg Preußig:::Comparing Timed C/E Systems with Timed Automata (Abstract).
+conf/hybrid/Gallant98:::Stephen I. Gallant:::Context Vectors: A Step Toward a "Grand Unified Representation".
+conf/hybrid/StiverAL95:::James A. Stiver::Panos J. Antsaklis::Michael D. Lemmon:::An Invariant Based Approach to the Design of Hybrid Control Systems Containing Clocks.
+conf/hybrid/OzgunerHIR96:::Ümit Özgüner::Cem Hatipoglu::Altug Iftar::Keith Redmill:::Hybrid Control Design for a Three Vehicle Scenario Demonstration Using Overlapping Decompositions.
+conf/hybrid/BemporadM99:::Alberto Bemporad::Manfred Morari:::Verification of Hybrid Systems via Mathematical Programming.
+conf/hybrid/AlurKT99:::Rajeev Alur::Sampath Kannan::Salvatore La Torre:::Polyhedral Flows in Hybrid Automata.
+conf/hybrid/JongGHPSG03:::Hidde de Jong::Jean-Luc Gouzé::Céline Hernandez::Michel Page::Tewfik Sari::Johannes Geiselmann:::Hybrid Modeling and Simulation of Genetic Regulatory Networks: A Qualitative Approach.
+conf/hybrid/KestenMP95:::Yonit Kesten::Zohar Manna::Amir Pnueli:::Verifying Clocked Transition Systems.
+conf/hybrid/Honkela98:::Timo Honkela:::Self-Organizing Maps in Symbol Processing.
+conf/hybrid/Sangiovanni-Vincentelli00:::Alberto L. Sangiovanni-Vincentelli:::Models of Computation and Simulation of Hybrid Systems.
+conf/hybrid/BalluchiSB01:::Andrea Balluchi::Philippe Souères::Antonio Bicchi:::Hybrid Feedback Control for Path Tracking by a Bounded-Curvature Vehicle.
+conf/hybrid/Lunze00:::Jan Lunze:::Diagnosis of Quantised Systems by Means of Timed Discrete-Event Representations.
+conf/hybrid/KumarS95:::Ratnesh Kumar::Mark A. Shayman:::Supervisory Control of Real-Time Systems Using Prioritized Synchronization.
+conf/hybrid/ZhangM94:::Ying Zhang::Alan K. Mackworth:::Synthesis of Hybrid Constraint-Based Controllers.
+conf/hybrid/TomlinLS98:::Claire Tomlin::John Lygeros::Shankar Sastry:::Synthesizing Controllers for Nonlinear Hybrid Systems.
+conf/hybrid/Varaiya97:::Pravin Varaiya:::SHIFT: A Language for Simulating Interconnected Hybrid Systems (Abstract of Invited Presentation).
+conf/hybrid/BotchkarevT00:::Oleg Botchkarev::Stavros Tripakis:::Verification of Hybrid Systems with Linear Differential Inclusions Using Ellipsoidal Approximations.
+conf/hybrid/FrasconiGS98:::Paolo Frasconi::Marco Gori::Alessandro Sperduti:::Integration of Graphical Rules with Adaptive Learning of Structured Information.
+conf/hybrid/Benveniste95:::Albert Benveniste:::Compositional and Uniform Modelling of Hybrid Systems.
+conf/hybrid/HeymannLM97:::Michael Heymann::Feng Lin::George Meyer:::Control Synthesis for a Class of Hybrid Systems Subject to Configuration-Based Safety Constraints.
+conf/fractals/Dremin93:::I. M. Dremin:::Fractality and the Anomalous Dimension of Quantum Chromodynamics.
+conf/fractals/SchertzerL93:::D. Schertzer::S. Lovejoy:::Multifractal Generation of Self-Organized Criticality.
+conf/fractals/KuznetsovKS93:::A. P. Kuznetsov::S. P. Kuznetsov::I. R. Sataev:::Multi-Parameter Transition to Chaos and Fractal Nature of Critical Attractors.
+conf/fractals/PeinkeCCCHN93:::J. Peinke::B. Castaing::B. Chabaud::F. Chillà::B. Hébral::A. Naert:::On a Fractal and an Experimental Approach to Turbulence.
+conf/fractals/GauvinD93:::Raynald Gauvin::Dominique Drouin:::Fractal Analysis in Electron Microscopy.
+conf/iopads/AcharyaUBMBHSS96:::Anurag Acharya::Mustafa Uysal::Robert Bennett::Assaf Mendelson::Michael Beynon::Jeffrey K. Hollingsworth::Joel H. Saltz::Alan Sussman:::Tuning the Performance of I/O-Intensive Parallel Applications.
+conf/iopads/PurakayasthaEK96:::Apratim Purakayastha::Carla Schlatter Ellis::David Kotz:::ENWRICH a Compute-Processor Write Caching Scheme for Parallel File Systems.
+conf/iopads/NieuwejaarK96:::Nils Nieuwejaar::David Kotz:::Performance of the Gallery Parallel File System.
+conf/tableaux/Velev03:::Miroslav N. Velev:::Automatic Abstraction of Equations in a Logic of Equality.
+conf/tableaux/Ibens00:::Ortrun Ibens:::Search Space Compression in Connection Tableau Calculi Using Disjunctive Constraints.
+conf/tableaux/May97:::Wolfgang May:::Proving Correctness of Labled Transition Systems by Semantic Tableaux.
+conf/tableaux/AraiU00:::Noriko H. Arai::Alasdair Urquhart:::Local Symmetries in Propositional Logic.
+conf/tableaux/Avron03:::Arnon Avron:::Tableaux with Four Signs as a Unified Framework.
+conf/tableaux/Otten95:::Jens Otten:::A Connection Based Proof Method for Intuitionistic Logic.
+conf/tableaux/NegriP98:::Sara Negri::Jan von Plato:::From Kripke Models to Algebraic Counter-Valuations.
+conf/tableaux/HeuerdingSZ96:::Alain Heuerding::Michael Seyfried::Heinrich Zimmermann:::Efficient Loop-Check for Backward Proof Search in Some Non-classical Propositional Logics.
+conf/tableaux/HahnleMR98:::Reiner Hähnle::Neil V. Murray::Erik Rosenthal:::Some Remarks on Completeness, Connection Graph Resolution and Link Deletion.
+conf/tableaux/MayerC00:::Marta Cialdea Mayer::Serenella Cerrito:::Variants of First-Order Modal Logics.
+conf/tableaux/MayerL02:::Marta Cialdea Mayer::Carla Limongelli:::Linear Time Logic, Conditioned Models, and Planning with Incomplete Knowledge.
+conf/tableaux/Gilmore99:::Paul C. Gilmore:::Partial Functions in an Impredicative Simple Theory of Types.
+conf/tableaux/OgnjanovicUPR92:::Zoran Ognjanovic::Dragan Urosevic::Tatjana Petrovic::Zorana Ristovic:::A Tableaux Retlated Method for Modal Theorem Proving (Extended Abstract).
+conf/tableaux/KrapezKOP92:::Aleksandar Krapez::Miodrag Kapetanovic::Zoran Ognjanovic::Tatjana Petrovic:::Prover 91 - A Parallel Theorem Prover (Extended Abstract).
+conf/tableaux/Demri00:::Stéphane Demri:::Complexity of Simple Dependent Bimodal Logics.
+conf/tableaux/HabertNG02:::L. Habert::J.-M. Notin::Didier Galmiche:::LINK: A Proof Environment Based on Proof Nets.
+conf/tableaux/DAgostinoM92:::Marcello D'Agostino::Marco Mondadori:::An Improvement of Analytic Tableaux.
+conf/tableaux/Goubault-Larrecq99:::Jean Goubault-Larrecq:::A Simple Sequent System for First-Order Logic with Free Constructors.
+conf/tableaux/Coquand03:::Thierry Coquand:::Dynamical Method in Algebra: A Survey.
+conf/tableaux/Willard02:::Dan E. Willard:::Some New Exceptions for the Semantic Tableaux Version of the Second Incompleteness Theorem.
+conf/tableaux/Baumgartner98:::Peter Baumgartner:::Hyper Tableau - The Next Generation.
+conf/tableaux/LutzWZ03:::Carsten Lutz::Frank Wolter::Michael Zakharyaschev:::A Tableau Algorithm for Reasoning about Concepts and Similarity.
+conf/tableaux/Zabel92:::Nicolas Zabel:::Deciding Fragments of the First Order Logic within an Extended Tableau Method.
+conf/tableaux/CiabattoniM03:::Agata Ciabattoni::George Metcalfe:::Bounded Lukasiewicz Logics.
+conf/tableaux/FermullerL98:::Christian G. Fermüller::Herbert Langsteiner:::Tableaux for Finite-Valued Logics with Arbitrary Distribution Modalities.
+conf/tableaux/Nguyen00:::Linh Anh Nguyen:::Sequent-Like Tableau Systems with the Analytic Superformula Property for the Modal Logics KB, KDB, K5, KD5.
+conf/tableaux/MonzR99:::Christof Monz::Maarten de Rijke:::A Tableau Calculus for Pronoun Resolution.
+conf/tableaux/Becher96:::Gérard Becher:::Cyclic Connections.
+conf/iscope/SheehanMS99:::Timothy J. Sheehan::Allen D. Malony::Sameer Shende:::A Runtime Monitoring Framework for the TAU Profiling System.
+conf/iscope/SilvaMS98:::Luís Moura Silva::Paulo Martins::João Gabriel Silva:::Merging Web-Based with Cluster-Based Computing.
+conf/iscope/HumphreyRCCHMQ98:::William Humphrey::Robert Ryne::Timothy Cleland::Julian Cummings::Salman Habib::Graham Mark::Ji Qiang:::Particle Beam Dynamics Simulations Using the POOMA Framework.
+conf/iscope/GerlachSI97:::Jens Gerlach::Mitsuhisa Sato::Yutaka Ishikawa:::A Framework for Parallel Adaptive Finite Element Methods and Its Template Based Implementation in CC++.
+conf/iscope/TroyerAH98:::Matthias Troyer::Beat Ammon::Elmar Heeb:::Parallel Object Oriented Monte Carlo Simulations.
+conf/iscope/ChaudharyFW99:::Amar Chaudhary::Adrian Freed::David Wessel:::Exploiting Parallelism in Real-Time Music and Audio Applications.
+conf/isooms/MoreiraC94:::Ana M. D. Moreira::Robert G. Clark:::Rigorous Object-Oriented Analysis.
+conf/isotas/Malhotra93:::Jawahar Malhotra:::Dynamic Extensibility in a Statically-Compiled Object-Oriented Language.
+conf/isotas/HurschS96:::Walter L. Hürsch::Linda M. Seiter:::Automating the Evolution of Object-Oriented Systems.
+conf/isotas/Kiczales93:::Gregor Kiczales:::Traces (A Cut at the "Make Isn't Generic" Problem).
+conf/isotas/NakanishiA96:::Koki Nakanishi::Takashi Arano:::A Metric for Evaluating Effectiveness of Object-Oriented Interface Abstraction for Promoting Software Reuse.
+conf/isotas/Pintado93:::Xavier Pintado:::Gluons: a Support for Software Component Cooperation.
+conf/isotas/LieberherrX93:::Karl J. Lieberherr::Cun Xiao:::Minimizing Dependency on Class Structures with Adaptive Programs.
+conf/itrust/Ingram03:::David Ingram:::Trust-Based Filtering for Augmented Reality.
+conf/iwsapf/MelladoSRD00:::Julio Mellado::Manuel Sierra::Ana Romera::Juan C. Dueñas:::Railway-Control Product Families: The Alcatel TAS Platform Experience.
+conf/iwsapf/Perry00:::Dewayne E. Perry:::A Product Line Architecture for a Network Product.
+conf/iwsapf/Bockle00:::Günter Böckle:::Discussion Report ``Business'' Session.
+conf/iwsapf/KuuselaB00:::Juha Kuusela::Jan Bosch:::Summary of Product Family Concepts Session.
+conf/iwwert/Schulz90:::Klaus U. Schulz:::Makanin's Algorithm for Word Equations - Two Improvements and a Generalization.
+conf/iwwert/OhsugaS90:::Akihiko Ohsuga::Kô Sakai:::Complete Equational Unification Based on an Extension of the Knuth-Bendix Completion Procedure.
+conf/iwwert/KounalisLP91:::Emmanuel Kounalis::Denis Lugiez::Loic Pottier:::A Solution of the Complement Problem in Associative-Commutative Theories.
+conf/knowright/Cho95:::George Cho:::Access to Spatial Information: Principles, Practice and Legal Response in Australia.
+conf/knowright/Borzovs95:::Juris Borzovs:::The Problems in East European Transition from Software Copyright Ignorance to Observation: The Latvian Case.
+conf/knowright/Kirsch95:::Gregory J. Kirsch:::Software Patents and Copyrights from a Practitioner's Perspective.
+conf/knowright/SchmaranzV95:::Klaus Schmaranz::Arnould Vermeer:::Aspects of Electronic Journal Publishing.
+conf/knowright/Gendreau95:::Ysolde Gendreau:::Multimedia Challenges to Copyright.
+conf/knowright/Gaster95:::Jens L. Gaster:::Authors' Rights and Neighbouring Rights in the Information Society.
+conf/knowright/SammerA95:::Peter Sammer::Andreas Ausserhofer:::New Tools for the INternet.
+conf/la-web/FonsecaGMZ03:::Bruno M. Fonseca::Paulo Braz Golgher::Edleno Silva de Moura::Nivio Ziviani:::Using Association Rules to Discover Search Engines Related Queries.
+conf/la-web/Krsulovic-MoralesG03:::Ernesto Krsulovic-Morales::Claudio Gutiérrez:::Structuring Information on the Web from Below: The Case of Educational Organizations in Chile.
+conf/la-web/FetterlyMN03:::Dennis Fetterly::Mark Manasse::Marc Najork:::On the Evolution of Clusters of Near-Duplicate Web Pages.
+conf/la-web/ReyesM03:::José A. Aravena Reyes::Mauricio L. Aguilar Molina:::Methodological Aspects in Designing Web-Based Collaborative Systems.
+conf/aadebug/HoodJ00:::Robert Hood::Gabriele Jost:::Support for Debugging Automatically Parallelized Programs.
+conf/aadebug/RonsseBK00:::Michiel Ronsse::Koenraad De Bosschere::Jacques Chassin de Kergommeaux:::Execution replay and debugging.
+conf/aadebug/Binks93:::Dominic Binks:::Declarative Debugging of Abstract Data Types in Gödel.
+conf/aadebug/ByersEK97:::David Byers::Magnus Engström::Mariam Kamkar:::The Design of a Test Case Definition Language.
+conf/aadebug/MateisSWW00:::Cristinel Mateis::Markus Stumptner::Dominik Wieland::Franz Wotawa:::Model-Based Debugging of Java Programs.
+conf/aadebug/Ferrand93:::Gérard Ferrand:::The Notions of Symptom and Error in Declarative Diagnosis of Logic Programs.
+conf/aadebug/Fromherz93:::Markus P. J. Fromherz:::Towards Declarative Debugging of Concurrent Constraint Programs.
+conf/aadebug/Garcia-MartinM93:::Julio García-Martín::Juan José Moreno-Navarro:::Visualization as Debugging: Understanding/Debugging the Warren Abstract Machine.
+conf/aadebug/Lencevicius00:::Raimondas Lencevicius:::On-the-fly query-based debugging with examples.
+conf/deductive/HanLX93a:::Jiawei Han::Ling Liu::Zhaohui Xie:::Outline of the LogicBase Demonstration.
+conf/deductive/LivezeyS93:::Brian Livezey::Evangelos Simoudis:::A Deductive Front-End for Relational Databases.
+conf/deductive/MumickR92:::Inderpal Singh Mumick::Kenneth A. Ross:::An Architecture for Declarative Object-Oriented Databases.
+conf/deductive/Han92:::Jia Liang Han:::An Efficient Bottom-ip Evaluation for Datalog.
+conf/deductive/BryEST98:::François Bry::Norbert Eisinger::Heribert Schütz::Sunna Torge:::SIC: Satisfiability Checking for Integrity Constraints.
+conf/deductive/CiortuzJ95:::Liviu-Virgil Ciortuz::Mihaela Juganaru:::Towords a Constraint-based Implementation of F-Logic.
+conf/deductive/BadiaGG93:::Antonio Badia::Dirk Van Gucht::Marc Gyssens:::Querying with Generalized Quantifiers.
+conf/deductive/ZukowskiF96:::Ulrich Zukowski::Burkhard Freitag:::The Differential Fixpoint of General Logic Programs.
+conf/deductive/GoodmanRS93a:::Nathan Goodman::Steve Rozen::Lincoln Stein:::Requirements for a Deductive Query Language in the MapBase Genome-Mapping Database.
+conf/deductive/HacidMR97:::Mohand-Said Hacid::Patrick Marcel::Christophe Rigotti:::Extending Datalog for Ordered Multidimensional Databases.
+conf/visualization/FujishiroAT99:::Issei Fujishiro::Taeko Azuma::Yuriko Takeshima:::Automating Transfer Function Design for Comprehensible Volume Rendering Based on 3D Field Topology Analysis.
+conf/visualization/ZhouCK97:::Yong Zhou::Baoquan Chen::Arie E. Kaufman:::Multiresolution tetrahedral framework for visualizing regular volume data.
+conf/visualization/ZhangRP02:::Youwei Zhang::Robert Rohling::Dinesh K. Pai:::Direct Surface Extraction from 3D Freehand Ultrasound Images.
+conf/visualization/KanitsarTMSBCHFKWFGPG02:::Armin Kanitsar::Thomas Theußl::Lukas Mroz::Milos Srámek::Anna Vilanova Bartrolí::Balázs Csébfalvi::Jirí Hladuvka::Dominik Fleischmann::Michael Knapp::Rainer Wegenkittl::Petr Felkel::Stefan Guthe::Werner Purgathofer::Eduard Gröller:::Christmas Tree Case Study: Computed Tomography as a Tool for Mastering Complex Real World Objects with Applications in Computer Graphics.
+conf/visualization/LorensenCNAG93:::William E. Lorensen::H. Cline::C. Nafis::D. Altobelli::L. Gleason:::Enhancing Reality in the Operating Room.
+conf/visualization/HunterCCHHM97:::Carol L. Hunter::Roger Crawfis::Michael Cox::Bernd Hamann::Charles D. Hansen::Mark Miller:::Terascale visualization: approaches, pitfalls and issues (panel).
+conf/visualization/Cox90:::D. J. Cox:::Interdisciplinary Visualization: Lessons Learned at NCSA.
+conf/visualization/TricocheSH00:::Xavier Tricoche::Gerik Scheuermann::Hans Hagen:::A topology simplification method for 2D vector fields.
+conf/visualization/Hotz02:::Ingrid Hotz:::Isometric Embedding by Surface Reconstruction from Distances.
+conf/visualization/MaS92:::K. L. Ma::P. J. Smith:::Virtual Smoke: An Interactive 3-D Flow Visualization Technique.
+conf/visualization/MaZ94:::Kwan-Liu Ma::Z. C. Zheng:::3D Visualization of Unsteady 2D Airplane Wake Vortices.
+conf/visualization/WanSK02:::Ming Wan::Aamir Sadiq::Arie E. Kaufman:::Fast and Reliable Space Leaping for Interactive Volume Rendering.
+conf/visualization/Hoppe99:::Hugues Hoppe:::New Quadric Metric for Simplifying Meshes with Appearance Attributes.
+conf/visualization/DobkinPZ90:::David P. Dobkin::E. S. Panduranga::M. Zhu:::A Numerical Method for Rendering Spherical Reflections.
+conf/visualization/PascucciC02:::Valerio Pascucci::Kree Cole-McLaughlin:::Efficient Computation of the Topology of Level Set.
+conf/visualization/Pesce97:::Mark Pesce:::Dissolving Descartes: perception and the construction of reality (address).
+conf/visualization/BonneauH00:::Georges-Pierre Bonneau::Stefanie Hahmann:::Polyhedral modeling.
+conf/visualization/Levkowitz91:::Haim Levkowitz:::Color Icons: Merging Color and Texture Perception for Integrated Visualization of Multiple Parameters.
+conf/visualization/WoodBW96:::Jason Wood::Ken Brodlie::Helen Wright:::Visualization Over the World Wide Web and its Application to Environmental Data.
+conf/visualization/GregoryMELM00:::Arthur D. Gregory::Ajith Mascarenhas::Stephen A. Ehmann::Ming C. Lin::Dinesh Manocha:::Six degree-of-freedom haptic display of polygonal models.
+conf/visualization/Roth94:::Steven F. Roth:::A Visualization System on Every Desk - Keeping it Simple.
+conf/visualization/BakerCPS02:::C. A. H. Baker::M. Sheelagh T. Carpendale::Przemyslaw Prusinkiewicz::M. G. Surette:::GeneVis: Visualization Tools for Genetic Regulatory Network Dynamics.
+conf/visualization/TaoM94:::Hai Tao::Robert J. Moorhead:::Progressive Transmission of Scientific Data Using Biorthogonal Wavelet Transform.
+conf/visualization/AhrensLR00:::James P. Ahrens::Kai Li::Daniel A. Reed:::Next-generation visualization displays: the research challenges of building tiled displays (panel session).
+conf/visualization/MayerT93:::H. F. Mayer::B. Tabatabai:::Visualizing Results of Transient Flow Simulations.
+conf/visualization/FletcherR93:::Peter A. Fletcher::Philip K. Robertson:::Interactive Shading for Surface and Volume Visualization on Graphics Workstations.
+conf/visualization/WernertH99:::Eric A. Wernert::Andrew J. Hanson:::A Framework for Assisted Exploration with Collaboration.
+conf/visualization/WongB96:::Pak Chung Wong::R. Daniel Bergeron:::Multiresolution Multidimensional Wavelet Brushing.
+conf/visualization/Robertson90:::Philip K. Robertson:::A Methodology for Scientific Visualization: Choosing Representations based on Natural Scene Paradigm.
+conf/visualization/Rezk-SalamaHTE99:::Christof Rezk-Salama::Peter Hastreiter::Christian Teitzel::Thomas Ertl:::Interacitve Exploration of Volume Line Integral Convolution Based on 3D-Texture Mapping.
+conf/visualization/KaoDP01:::David T. Kao::Jennifer L. Dungan::Alex Pang:::Visualizing 2D Probability Distributions from EOS Satellite Image-Derived Data Sets: A Case Study.
+conf/visualization/YangMC00:::Chuan-Kai Yang::Tulika Mitra::Tzi-cker Chiueh:::On-the-Fly rendering of losslessly compressed irregular volume data.
+conf/visualization/HagedornRBV96:::John Hagedorn::Holly E. Rushmeier::John Blendell::Mark Vaudin:::A System for Measuring Surface Facet Orientation from Atomic Force Microscope Data.
+conf/visualization/RobbinsG00:::Kay A. Robbins::Michael Gorman:::Fast visualization methods for comparing dynamics: a case study in combustion.
+conf/visualization/HaberZDS01:::Jörg Haber::Frank Zeilfelder::Oleg Davydovy::Hans-Peter Seidel:::Smooth Approximation and Rendering of Large Scattered Data Sets.
+conf/visualization/SwanLMKUASS00:::J. Edward Swan II::Marco Lanzagorta::Doug Maxwell::Eddy Kuo::Jeff Uhlmann::Wendell Anderson::Haw-Jye Shyu::William Smith:::A computational steering system for studying microwave interactions with missile bodies.
+conf/visualization/Pagendarm93:::Hans-Georg Pagendarm:::Unsteady Phenomena, Hypersonic Flows and Co-Operative Flow Visualization.
+conf/visualization/KeimL92:::Daniel A. Keim::Vincent Y. Lum:::Visual Query Specification in a Multimedia Database System.
+conf/visualization/ElvinsN91:::T. Todd Elvins::David R. Nadeau:::NetV: An Experimental Network-Based Volume Visualization System.
+conf/visualization/RouxCDFLMP94:::Christian Roux::Jean-Louis Coatrieux::Jean-Louis Dillenseger::Elliot K. Fishman::Murray H. Loew::Hans-Peter Meinzer::Justin D. Pearlman:::Visualization in Medicine: VIRTUAL Reality or ACTUAL Reality? (Panel).
+conf/visualization/KeimAK95:::Daniel A. Keim::Mihael Ankerst::Hans-Peter Kriegel:::Recursive Pattern: A Technique for Visualizing Very Large Amounts of Data.
+conf/visualization/WilhelmsGTG96:::Jane Wilhelms::Allen Van Gelder::Paul Tarantino::Jonathan Gibbs:::Hierarchical and Parallelizable Direct Volume Rendering for Irregular and Multiple Grids.
+conf/visualization/RhyneBRPSBPJHDPT92:::Theresa-Marie Rhyne::M. Bolstad::Penny Rheingans::L. Petterson::W. Shackelford::Mike E. Botts::E. Pepke::K. W. Johnson::William L. Hibbard::Charles R. Dyer::Brian E. Paul::Lloyd Treinish:::Visualization Requirements in the Atmospheric and Environmental Sciences (Five Case Study Reports).
+conf/visualization/Fruhauf96:::Thomas Frühauf:::Raycasting Vector Fields.
+conf/visualization/McCoolHS95:::Michael D. McCool::Wolfgang Heidrich::John Stevens:::Interactive Maximum Projection Volume Rendering.
+conf/visualization/ChopraMF02:::Prashant Chopra::Joerg Meyer::Antonio Fernandez:::Immersive Volume Visualization of Seismic Simulations: A Case Study of Techniques Invented and Lessons Learned.
+conf/visualization/ItohYK96:::Takayuki Itoh::Yasushi Yamaguchi::Koji Koyamada:::Volume Thinning for Automatic Isosurface Propagation.
+conf/visualization/BrysonKG96:::Steve Bryson::David N. Kenwright::Michael J. Gerald-Yamasaki:::FEL: The Field Encapsulation Library.
+conf/visualization/HelmanH90:::James Helman::Lambertus Hesselink:::Surface Representations of Two- and Three-Dimensional Fluid Flow Topology.
+conf/visualization/Healey96:::Christopher G. Healey:::Choosing Effective Colours for Data Visualization.
+conf/visualization/Treinish98:::Lloyd Treinish:::Task-specific visualization design: a case study in operational weather forecasting.
+conf/visualization/Jankun-KellyM00:::T. J. Jankun-Kelly::Kwan-Liu Ma:::A spreadsheet interface for visualization exploration.
+conf/visualization/TheusslMG01:::Thomas Theußl::Torsten Möller::Meister Eduard Grölle:::Optimal Regular Volume Sampling.
+conf/visualization/ChapmanSWB98:::Paul Chapman::Peter Stevens::Derek Wills::Graham Brookes:::Seabed visualization.
+conf/visualization/ChenCFHL00:::Yuqun Chen::Douglas W. Clark::Adam Finkelstein::Timothy C. Housel::Kai Li:::Automatic alignment of high-resolution multi-projector display using an un-calibrated camera.
+conf/visualization/EickS92:::Stephen G. Eick::Joseph L. Steffen:::Visualizing Code Profiling Line Oriented Statistics.
+conf/visualization/Whitted98:::Turner Whitted:::Draw on the wall - Capstone Address.
+conf/visualization/ShenJ95:::Han-Wei Shen::Christopher R. Johnson:::Sweeping Simplices: A Fast Iso-Surface Extraction Algorithm for Unstructured Grids.
+conf/visualization/DevillersG00:::Olivier Devillers::Pierre-Marie Gandoin:::Geometric compression for interactive transmission.
+conf/visualization/MarschnerL94:::Stephen R. Marschner::Richard Lobb:::An Evaluation of Reconstruction Filters for Volume Rendering.
+conf/visualization/Williams92:::Peter L. Williams:::Interactive Splatting of Nonrectilinear Volumes.
+conf/visualization/PfisterLSBK00:::Hanspeter Pfister::William E. Lorensen::William J. Schroeder::Chandrajit L. Bajaj::Gordon L. Kindlmann:::The transfer function bake-off (panel session).
+conf/visualization/DooleyC90:::D. Dooley::Michael F. Cohen:::Automatic Illustration of 3D Geometric Models: Surfaces.
+conf/visualization/CarpendaleFCFF96:::M. Sheelagh T. Carpendale::Andrew Fall::David J. Cowperthwaite::Joseph Fall::F. David Fracchia:::Case Study: Visual Access for Landscape Event Based Temporal Data.
+conf/visualization/Smith96:::Alvy Ray Smith:::Keynote Address: Bringing Visualization to the User (Abstract).
+conf/visualization/BeaudoinPV96:::Luc Beaudoin::Marc-Antoine Parent::Louis C. Vroomen:::Cheops: A Compact Explorer for Complex Hierarchies.
+conf/visualization/HietalaO00:::Rami Hietala::Jarkko Oikarinen:::A visibility determination algorithm for interactive virtual endoscopy.
+conf/visualization/GerstnerP00:::Thomas Gerstner::Renato Pajarola:::Topology preserving and controlled topology simplifying multiresolution isosurface extraction.
+conf/visualization/FeibushGW99:::Eliot Feibush::Nikhil Gagvani::Daniel Williams:::Geo Spatial Visualization for Situational Awareness.

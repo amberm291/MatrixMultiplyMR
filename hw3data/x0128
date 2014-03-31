@@ -1,0 +1,200 @@
+conf/cognitive/Born01:::Rainer P. Born:::Virtual Reality: Reflections of Chances, Changes and Dangers in Communicating Knowledge with the Help of VR-Technologies.
+conf/cognitive/WalzZ01:::Steffen P. Walz::Isabel Zundel:::Madness &amp; Virtuality: An Approximation.
+conf/cognitive/SasRO01:::Corina Sas::Ronan Reilly::Gregory M. P. O'Hare:::Virtual Reality in Surgery: Between Satisfaction and Stress.
+conf/cognitive/Storer72:::Thomas Storer:::Welcome Aboard.
+conf/cognitive/Diettrich01:::Olaf Diettrich:::Virtual Reality and Cognitive Processes.
+conf/modelage/BrazierDTV97:::Frances M. T. Brazier::Barbara Dunin-Keplicz::Jan Treur::Rineke Verbrugge:::Modelling Internal Dynamic Behaviour of BDI Agents.
+conf/modelage/Dignum97:::Frank Dignum:::Social Interactions of Autonomous Agents: Private and Global Views on Communication.
+conf/modelage/MeyerS97:::John-Jules Ch. Meyer::Pierre-Yves Schobbens:::Formal Models of Agents: An Introduction.
+conf/mascots/Katoen93:::Joost-Pieter Katoen:::A Semi-Markov Model of a Home Network Access Protocol.
+conf/mascots/Xu96:::Zhichen Xu:::Simulation of Heterogeneous Networks of Workstations.
+conf/mascots/KaurMB00:::Hema Tahilramani Kaur::D. Manjunath::Sanjay K. Bose:::The Queuing Network Analysis Tool (QNAT).
+conf/mascots/NajjarLSS94:::Walid A. Najjar::Annette Lagman::Sumit Sur::Pradip K. Srimani:::Modeling Adaptive Routing in <i>k</i>-ary <i>n</i>-cube Networks.
+conf/mascots/WernerM97:::Bengt Werner::Peter S. Magnusson:::A Hybrid Simulation Approach Enabling Performance Characterization of Large Software Systems.
+conf/mascots/ZhangSC03:::Qi Zhang::Evgenia Smirni::Gianfranco Ciardo:::Profit-driven Service Differentiation in Transient Environments.
+conf/mascots/ZhangYH03:::Ming Zhang::Qing Yang::Xubin He:::SPEK: A Storage Performance Evaluation Kernel Module for Block Level Storage Systems.
+conf/mascots/KanawatiPV93a:::Basel Kanawati::Nixon Patel::Chien Vu:::Power Processor Architecture Simulation.
+conf/mascots/Roccetti93:::Marco Roccetti:::Performance Analysis of Fault-Tolerant Tree-Based VLSI Architectures.
+conf/mascots/KraimecheM02:::Belka Kraimeche::C. Mantelis:::Analysis of Interference in a Wireless Link with Frequency Hopping.
+conf/mascots/Duy94:::C. Vu Duy:::Discrete Time Open Queueing Networks with Feedback, Bulk Arrivals and Services.
+conf/mascots/WieselthierBE94:::Jeffrey E. Wieselthier::Craig M. Barnhart::Anthony Ephremides:::Modeling, Performance Evaluation, and Ordinal Optimization of Integrated Voice/Data Networks.
+conf/mascots/Hulicki97:::Zbigniew Hulicki:::A Neural Controller for Transit Node in High Speed Communication Networks.
+conf/mascots/ShahrabiOM00:::Alireza Shahrabi::Mohamed Ould-Khaoua::Lewis M. Mackenzie:::A Performance Model of Broadcast Communication in Wormhole-Routed Hypercubes.
+conf/mascots/SchafferL94:::Steven J. Schaffer::William W. LaRue:::BONeS DESIGNER: A Graphical Environment for Discrete-Event Modeling and Simulation.
+conf/mascots/ChoiMT93:::Hoon Choi::Varsha Mainkar::Kishor S. Trivedi:::Sensitivity Analysis of Deterministic and Stochastic Petri Nets.
+conf/mascots/WangWD99:::Yanping Wang::Carey L. Williamson::Julie Doerksen:::CAC Performance with Self-Similar Traffic: Simulation Study and Performance Results.
+conf/mascots/ChouGL00:::Cheng-Fu Chou::Leana Golubchik::John C. S. Lui:::A Performance Study of Dynamic Replication Techniques in Continuous Media Servers.
+conf/mascots/HuzarM95:::Zbigniew Huzar::Jan Magott:::Real-Time and Performance Evaluation Extensions of Specification Language LOTOS.
+conf/mascots/Pham00:::C. D. Pham:::Comparison of Message Aggregation Strategies for Parallel Simulations on a High Performance Cluster.
+conf/mascots/MattaS94:::Ibrahim Matta::A. Udaya Shankar:::On the Interaction between Gateway Scheduling and Routing.
+conf/mascots/AgrawalaS95:::Ashok K. Agrawala::Manas Saksena:::Multiple Times in Systems: A Perspective.
+conf/mascots/HrischukRW95:::Curtis E. Hrischuk::Jerome A. Rolia::C. Murray Woodside:::Automatic Generation of a Software Performance Model Using an Object-Oriented Prototype.
+conf/mascots/ZoranovicW99:::Milan Zoranovic::Carey L. Williamson:::Performance and Robustness Testing of Explicit-Rate ABR Flow Control Schemes.
+conf/mascots/NemawarkarG96:::Shashank S. Nemawarkar::Guang R. Gao:::Measurement and Modeling of EARTH-MANNA Multithreaded Architecture.
+conf/mascots/ChiLL02:::Chi-Hung Chi::Xiang Li::Kwok-Yan Lam:::Understanding the Object Retrieval Dependence of Web Page Access.
+conf/mascots/SwaminathanR00:::N. Swaminathan::S. V. Raghavan:::Intelligent Prefetch in WWW Using Client Behavior Characterization.
+conf/mascots/WoodwardR93:::Michael E. Woodward::Kamajith R. S. Rodrigo:::Equilibrium Point Approximations for Multiple Access Protocols with Different Customer Classes.
+conf/mascots/FourneauGS94:::Jean-Michel Fourneau::Erol Gelenbe::Rina Suros:::G-Networks with Multiple Class Negative and Positive Customers.
+conf/mascots/WuRS01:::Wei Wu::Yong Ren::Xiuming Shan:::Stability Analysis on Active Queue Management Algorithms in Routers.
+conf/mascots/GelenbeK94:::Erol Gelenbe::Rakesh Kushwaha:::Dynamic Load Balancing in Distributed Systems.
+conf/mascots/XiaoC01:::Yang Xiao::C. L. Philip Chen:::QoS for Adaptive Multimedia in Wireless/Mobile Networks.
+conf/mascots/DouceurW01:::John R. Douceur::Roger Wattenhofer:::Large-Scale Simulation of Replica Placement Algorithms for a Serverless Distributed File System.
+conf/mascots/BoukercheHJ01:::Azzedine Boukerche::Sungbum Hong::Tom Jacob:::MoSync: A Synchronization Scheme for Cellular Wireless and Mobile Multimedia Systems.
+conf/mascots/BoukercheTH02:::Azzedine Boukerche::Terry Tuck::Sungbum Hong:::A Performance Evaluation of a Temporally Correct and Optimistic Concurrency Control Protocol.
+conf/mascots/HoutzagerW03:::Gwen Houtzager::Carey L. Williamson:::A Packet-Level Simulation Study of Optimal Web Proxy Cache Placement.
+conf/mascots/AhmadWYG95:::Ishfaq Ahmad::Min-You Wu::Jaehyung Yang::Arif Ghafoor:::An Experimental Assessment of <i>Express</i> Parallel Programming Environment.
+conf/mascots/TummalaR96:::N. R. Tummala::Kay A. Robbins:::VISTA: A Configurable Visualization and Simulation Tool for ATM Switches.
+conf/mascots/LindemannS93:::Christoph Lindemann::Friedrich Schön:::Evaluating Sequential Consistency in a Virtually Shared Memory System by Deterministic and Stochastic Petri Nets.
+conf/mascots/XuRAF01:::Donghua Xu::George F. Riley::Mostafa H. Ammar::Richard Fujimoto:::Split Protocol Stack Network Simulations Using the Dynamic Simulation Backplan.
+conf/mascots/YinBB93:::Meng-Lai Yin::Douglas M. Blough::Lubomir Bic:::Incorporating Recovery in Performability Models for Multi-Computer Systems.
+conf/mascots/LatifiS95:::Shahram Latifi::Pradip K. Srimani:::Wildcard Dimensions in Augmented Star and Bubble-Sort Networks.
+conf/mascots/ShenD02:::Wentao Shen::Michael Devetsikiotis:::A Self-Sizing Framework for Adaptive Resource Allocation in Label-Switched Networks.
+conf/mascots/BradfordSU00:::Russell Bradford::Rob Simmonds::Brian Unger:::A Parallel Discrete Event IP Network Emulator.
+conf/mascots/BradfordSU01:::Russell Bradford::Rob Simmonds::Brian Unger:::Packet Reading for Network Emulation.
+conf/mascots/TanaraksiritavornM02:::Soontaree Tanaraksiritavorn::Shivakant Mishra:::Evaluation of Gossip to Build Scalable and Reliable Multicast Protocols.
+conf/mascots/ZouZA02:::Li Zou::Ellen W. Zegura::Mostafa H. Ammar:::The Effect of Peer Selection and Buffering Strategies on the Performance of Peer-to-Peer File Sharing Systems.
+conf/mascots/ArecesBR99:::Carlos Areces::Wiet Bouma::Maarten de Rijke:::Feature Interaction as a Satisfiability Problem.
+conf/mascots/GoswamiI93:::Kumar K. Goswami::Ravishankar K. Iyer:::Use of Hybrid and Hierarchical Simulation to Reduce Computation Costs.
+conf/mascots/SunBO97:::Ying Sun::Richard B. Bunt::Gregory M. Oster:::Measuring RPC Traffic in an OS/2 DCE Environment.
+conf/mascots/TriebP94:::Rainer Trieb::Ewald von Puttkamer:::The <i>3d7</i>-Simulation Environment: A Tool for Autonomous Mobile Robot Development.
+conf/mascots/BraggC94:::A. W. Bragg::Wushow Chou:::Analytic Models and Characteristics of Video Traffic in High Speed Networks.
+conf/mascots/HuangL98:::Jian Huang::David J. Lilja:::An Efficient Strategy for Developing a Simulator for a Novel Concurrent Multithreaded Processor Architecture.
+conf/mascots/McCannWOB95:::Julie A. McCann::N. J. Williams::Peter Osmon::David Bolton:::Dynamic File Migration to Support Parallel Database Systems.
+conf/mascots/MarsanS96:::Marco Ajmone Marsan::F. Saluta:::Two New Fair and Efficient Algorithms for Slot Reuse in DQDB MANs.
+conf/mascots/Katsinis98:::Constantine Katsinis:::Distributed-Shared-Memory Support on the Simultaneous Optical Multiprocessor Exchange Bus.
+conf/mascots/KariSL94:::Hannu Kari::Heikki Saikkonen::Fabrizio Lombardi:::Detecting Latent Sector Faults in Modern SCSI Disks.
+conf/mascots/AnagnostakisGR02:::Kostas G. Anagnostakis::Michael Greenwald::Raphael S. Ryger:::On the Sensitivity of Network Simulation to Topology.
+conf/eurasiaict/ArabloueiG02:::Reza Arablouei::Ayaz Ghorbani:::A New Propagation Model for Cellular Mobile Radio Communications in Urban Environments Including Tree Effects.
+conf/eurasiaict/XinogalosS02:::Stelios Xinogalos::Maya Satratzemi:::An Integrated Programming Environment for Teaching the Object-Oriented Programming Paradigm.
+conf/eurasiaict/KimY02:::Hyun-Sung Kim::Kee-Young Yoo:::Parallel Algorithm and Architecture for Public-Key Cryptosystem.
+conf/eurasiaict/MoonRC02:::Il-Young Moon::Jae-Sung Roh::Sung-Joon Cho:::Transmission Time Analysis of WAP over CDMA System Using Turbo Code Scheme.
+conf/eurasiaict/LeeKPKHY02:::Won-Jong Lee::Hyung-Rae Kim::Woo-Chan Park::Jung-Woo Kim::Tack-Don Han::Sung-Bong Yang:::A New Bandwidth Reduction Method for Distributed Rendering Systems.
+conf/eurasiaict/QuHL02:::Zhaowei Qu::Choong Seon Hong::Sungyoung Lee:::A QoS Provision Architecture for Mobile IPv6 over MPLS Using HMAT.
+conf/eurasiaict/MahbubH02:::Khaled Mahbub::M. S. J. Hashmi:::Dynamic System Simulation on the Web.
+conf/eurasiaict/JinLS02:::Xiaoming Jin::Yuchang Lu::Chunyi Shi:::Discovering Local Patterns from Multiple Temporal Sequences.
+conf/eurasiaict/SaryazdiJ02:::Saeid Saryazdi::Mostafa Jafari:::A High Performance Image Coding Using Uniform Morphological Sampling, Residues Classifying, and Vector Quantization.
+conf/eurasiaict/HaberleinG02:::Tobias Häberlein::Thomas Gantner:::Process-Oriented Interactive Simulation of Software Acquisition Projects.
+conf/eurasiaict/MarikPVR02:::Vladimír Marík::Michal Pechoucek::Jirí Vokrínek::Ales Ríha:::Application of Agent Technologies in Extended Enterprise Production Planning.
+conf/eurasiaict/NawrockiJWW02:::Jerzy R. Nawrocki::Michal Jasiñski::Bartosz Walter::Adam Wojciechowski:::Combining Extreme Programming with ISO 9000.
+conf/fuzzIEEE/GuanL01:::Sheng Uei Guan::Shanchun Li:::Task Decomposition Based on Output Parallelism.
+conf/fuzzIEEE/ChenLL01:::Guoqing Chen::De Liu::Jiexen Li:::Influence and Conditional Influence - New Interestingness Measures in Association Rule Mining.
+conf/fuzzIEEE/Nam01:::Sae Kyu Nam:::Fuzzy Time Delay Control for D. c. Servo Motor.
+conf/fuzzIEEE/WangL01:::Dai-Hua Wang::Wei-Hsin Liao:::Neural Netwrok Modeling and Controllers for Megnetorheological Fluid Dampers.
+conf/fuzzIEEE/EvsukoffBG01:::Alexandre Evsukoff::Antonia C. S. Branco::Sylvie Galichet:::Incremental Fuzzy Modeling.
+conf/fuzzIEEE/Varkonyi-KoczyT01:::Annamaria R. Várkonyi-Kóczy::Orsolya Takacs:::Anytime Extension of the Iterative Fuzzy Model Inversion.
+conf/fuzzIEEE/OosteromB01:::Marcel Oosterom::Robert Babuska:::Fuzzy Gain Scheduling for Flight Control Laws.
+conf/fuzzIEEE/HongWC01:::Tzung-Pei Hong::Tzu-Ting Wang::Been-Chian Chien:::Learning Approximate Fuzzy Rules From Training Examples.
+conf/fuzzIEEE/RojasPGGDG01:::Ignacio Rojas::Héctor Pomares::Jesús Gonzáles::P. Gloesekotter::J. Diestuhl::K. Groser:::A New Sequential Learning Algorithm Using Pseudo-gaussian Functions for Neuro-fuzzy Systems.
+conf/fuzzIEEE/WangCT01:::Ying-Chung Wang::Chiang-Ju Chien::Ching-Cheng Teng:::Takagi-Sugeno Recurrent Fuzzy Neural Networks for Identification &amp; Control of Dynamic Systems.
+conf/fuzzIEEE/WangLL01:::Chi-Hsu Wang::Han-Leih Liu::Tsunbg-Chih Lin:::Direct Adaptive Fuzzy-neural Control With State Observer &amp; Supervisory Controller for Unknown Nonlinear Dynamical Systems.
+conf/fuzzIEEE/WongLC01:::Ching-Chang Wong::Bo-Chen Lin::Chi-Tai Cheng:::Fuzzy Tracking Method With A Switching Grey Prediction for Mobile Robot.
+conf/fuzzIEEE/WuZG01:::Wei Wu::Sheng Zeng::Xianyong Gan:::Fuzzy and Neural Network control System of Inteligent RLED Arm Manipulators for Dynamic Obstables.
+conf/fuzzIEEE/DuboisEGP01:::Didier Dubois::Francesc Esteva::Lluis Godo::Henri Prade:::An Information-Based Discussion of Vagueness.
+conf/fuzzIEEE/MedasaniSO01:::Swarup Medasani::N. Srinivasa::Y. Owechko:::An On-line Method for Self Organized Learningn and Extraction of Fuzzy From High Dimensional Data.
+conf/fuzzIEEE/YiYH01:::Jianqiang Yi::Naoyoshi Yubazaki::Kaoru Hirota:::Stability Analysis of SIRMs Dynamically Connected Fuzzy Inference Model.
+conf/fuzzIEEE/Belaikov01:::Gleb Belaikov:::Methods of Construction of OWA Operations From Data.
+conf/fuzzIEEE/GoncalvesT01:::Marlene Goncalves::Leonid Tineo:::SQLF3: An Extension of SQLF With SQL Features.
+conf/fuzzIEEE/LaiLC01:::Robert Lai::Trank Li::David Chiang:::Application of Constraint-based Fuzzy Logic Controller for PH Control of a Flue Gas Desulfurization System.
+conf/fuzzIEEE/IwashitaTOS01:::Shino Iwashita::Yuuki Takeda::Takehisa Onisawa::Michio Sugeno:::Addition of Facial Expressions to Facial Caricature Drawn Using Linguistics Expressions.
+conf/fuzzIEEE/LeeLH01:::Hahn-Ming Lee::Sheng-Kang Lin::Chiung-Wei Huang:::Interactive Query Expansion Based on Fuzzy Association Thesaurus for Web Information Retrieval.
+conf/fuzzIEEE/NachtegaelWVPLK01a:::Mike Nachtegael::Dietrich Van der Weken::Dimitri Van De Ville::Wilfried Philips::Ignace Lemahieu::Etienne E. Kerre:::An Overview of Fuzzy Filters for Noise Reduction.
+conf/fuzzIEEE/WatanabeI01:::Norio Watanabe::Tadashi Imaizuimi:::Fuzzy K-Means Clustering With Crisp Regions.
+conf/fuzzIEEE/SunZWJ01:::Chengyi Sun::Jianqing Zhang::Junli Wang::Hongyan Jia:::The Influence of the Probability Density Function on Similartaxis in MEC.
+conf/fuzzIEEE/TajimaT01:::Masanori Tajima::Tomohiro Takagi:::Query Expansion Using Conceptual Fuzzy Sets For Search Engine.
+conf/fuzzIEEE/KaymakS01:::Uzay Kaymak::J. M. Sousa:::Weighting Contrainst in Fuzzy Optimization.
+conf/fuzzIEEE/PomaresRGP01:::Hector Pomares::Ignacio Rojas::Jesús Gonalez::Alberto Prieto:::A Method for Structure Identification in Complete Rule-based Fuzzy Systems.
+conf/fuzzIEEE/ChaconA01:::Mario Chacon::Luis Aguilar:::A Fuzzy Approach to Edge Level Detection.
+conf/fuzzIEEE/ParkashS01:::Om Parkash::P. K. Sharma:::Noiseless Coding Theorems Corresponding to Fuzzy Entropies.
+conf/fuzzIEEE/SunFW01:::Zhaohao Sun::Gavin Finnie::Klaus Weber:::Integration of Abductive CBR and Deductive CBR.
+conf/fuzzIEEE/Garliauskas01:::Algis Garliauskas:::Fuzzy and Chaotic Neuro-Network Modeling.
+conf/fuzzIEEE/MurakamiH01:::Masayuki Murakami::Nakaji Honda:::Fuzzy Clearance in Printed Circuit Board Designs.
+conf/fuzzIEEE/Al-DawodSKN01:::Mohammed Al-Dawod::Bijan Samali::Kenny Kwok::Fazel Naghdy:::Aplication of a Fuzzy Controller to Seismically Excited Nonlinear Buildings.
+conf/fuzzIEEE/Marin-BlazquezS01:::Javier G. Marín-Blázquez::Qiang Shen:::Linguistic Hedges on Tradezoidal Fuzzy Sets: A Revisit.
+conf/fuzzIEEE/HanSM01:::Hugang Han::Chun-Yi Su::Shuta Murakami:::Adaptive Fuzzy Control for a Class of Discrete Time Nonlinear Systems.
+conf/fuzzIEEE/TokmakciAK01:::Mahmut Tokmakci::Mustafa Alci::Recai Kilic:::A Novel Current Mode Membership Function Circuit for Mixed Signal Fuzzy Hardware.
+conf/simulationstechnik/Bell85:::Robert K. Bell:::Die Bedienstation in SPIRO.
+conf/simulationstechnik/Letters84:::Fritz Letters:::Vorstelung eines Montage-Modell-Simulators (MOMOS).
+conf/simulationstechnik/Stamerjohanns84:::P. Stamerjohanns:::Simulation des dynamischen Verhaltens eines Walzgerüstantriebs mit der Simulationssprache SCALE/F.
+conf/simulationstechnik/BellET84:::Robert K. Bell::Pervez-Walter Ernest::Ejob Tecle-ab:::Simulation, Steuerung, Zuteilung der Betriebsmittel mit SPIRD.
+conf/simulationstechnik/RennFMOE84:::W. Renn::H. M. Frauer::P. H. Müller::D. Overkamp::M. Eggstein:::Ein Simulationsmodell für die maximale Insulinstimulation.
+conf/simulationstechnik/Bentz85:::J. L. Bentz:::Multiview<sup>TM</sup> Display.
+conf/simulationstechnik/Ilic84:::Zoran V. Ilic:::SIMSTAR Application Areas Survey.
+conf/simulationstechnik/KarbaMKZA87:::Rihard Karba::A. Mrhar::F. Kozjek::Borut Zupancic::M. Atanasijevic:::System Approach in Pharmacokinetical Studies for Optimal Drugs Design.
+conf/simulationstechnik/KraftS84:::D. Kraft::H. Schubert:::Modellbildung und Simulation des DFVLR-Tieftemperaturwindkanals.
+conf/simulationstechnik/Rosenbohm84:::W. Rosenbohm:::Paketierte Sprachübertragung mit CSMA/CD-Protokollen.
+conf/simulationstechnik/PeschelMB84:::M. Peschel::W. Mende::Felix Breitenecker:::Das EVOLON-Modell für Wachstum und Struktur in ökologischen, sozio-ökonomischen und verwandten Systemen.
+conf/simulationstechnik/Hinsche88:::E. H. Hinsche:::Das Darstellungs- und Projektionssystem: Fiber Optic Helmet Mounted Display (FOHMD) - ein Novum in der computer-generierten Umfelddarstellung.
+conf/simulationstechnik/Sturmer84:::A. Stürmer:::Meß- und Auswerte-System (MAUS) und dessen Einsatz zur Bestimmung von Modellparametern zur Simulation mit dem Netzwerkanalyseprogramm SPICE.
+conf/simulationstechnik/KramerVG84:::H. Kramer::H. Vollbrecht::Jack Gorissen:::Mehrebenenmodellierung und -simulation mit SIGMUS.
+conf/simulationstechnik/RimvallC84:::Magnus Rimvall::François E. Cellier:::MIDGET - Ein flexibles, simulationstechnisches Entwicklungssystem.
+conf/simulationstechnik/Senger85:::Karl-Heinz Senger:::Einsatz von MKS-Formalismen zur KFZ-Simulation.
+conf/simulationstechnik/JedeleK85:::Peter Jedele::Haybatolah Khakzar:::Analyse nichtlinearer frequenzabhängiger Übertragungssysteme mit Volterra-Reihen und dem Simulationsprogramm SPICE.
+conf/simulationstechnik/Maschtera85:::Ulrike Maschtera:::Aggregation von Prozessen im Rahmen der konzeptionellen Modellierung diskreter Simulationssysteme.
+conf/simulationstechnik/Tettweiler82:::Wilfried Tettweiler:::MAPLIS - matrixorientierte Sprache für Planspiel und interaktive Simulation.
+conf/simulationstechnik/RegenBA85:::Franz Regen::Michael Behrens::Walter Ameling:::Simulation unterschiedlicher Verbindungsnetze im M5PS Multiprozessorsystem - Modellierung.
+conf/simulationstechnik/BehrensRA84:::Michael Behrens::Franz Regen::Walter Ameling:::Untersuchung von gekoppelten M5PS Teilsystemen mittels Simulation.
+conf/simulationstechnik/Mresse82:::M. Mresse:::Der internationale Flughafen Zürich-Kloten als Simulationsmodell.
+conf/simulationstechnik/Langer85:::Klaus-Jürgen Langer:::Das Simulationssystem SIMPLEX II: Ein Experimentiersystem mit Allgemeiner Modellbeschreibungssprache.
+conf/simulationstechnik/Langer88:::Klaus-Jürgen Langer:::Verwaltung von Experimenten und Simulationsabläufen in SIMPLEX-II.
+conf/simulationstechnik/HollingJA88:::G. H. Holling::Peter Jensch::Walter Ameling:::Vergleichende Untersuchung zur Wertebereichsbestimmung durch Simulation und statistische Verfahren.
+conf/simulationstechnik/Sdouz84:::G. Sdouz:::Simulation des Verhaltens von Brennstäben in Kernkraftwerken.
+conf/simulationstechnik/TavangarianW82:::Djamshid Tavangarian::Klaus Waldschmidt:::Interaktive graphische Simulation elektrischer Netzwerke mit dem SANDRA - Programmsystem.
+conf/simulationstechnik/Simon84:::Karl-Heinz Simon:::Zum Bedarf an Methodenvielfalt im Bereich der entscheidungsunterstützenden Simulation.
+conf/simulationstechnik/Fedra84:::Kurt Fedra:::Systemsimulation als Entscheidungshilfe im Umweltbereich.
+conf/simulationstechnik/Spiro84:::Hans Spiro:::Simulation integrierter Schaltungen durch universelle Rechnerprogramme.
+conf/simulationstechnik/GrossmannL82:::Uwe Großmann::Dietrich W. Lübbers:::Das Kapillarschlingemodell - Ein Modell zur Simulation des kombinierten GAS - und Wärmeaustausches in der äußeren Haut.
+conf/simulationstechnik/EttlP84:::Wolfgang Ettl::F. Pagler:::Prognosemodelle von Personenbeständen bei mehreren Ausscheideursachen.
+conf/simulationstechnik/WelteS87:::Y. Welte::R. Stürchler:::Neue Modellbildung eines rotordynamischen Systems mit Hilfe eines elektrischen Schaltkreises.
+conf/simulationstechnik/Sturm82:::K. H. Sturm:::Simulation von Szstemkomponenten in Realzeitsystemen.
+conf/simulationstechnik/AffeldMGM82:::Klaus Affeld::A. Mohnhaupt::D. Ganter::R. Mohnhaupt:::Simulierung von Regelungsproblemen beim Totalherzersatz mit Hilfe des Coleman-Kreislaufmodells.
+conf/simulationstechnik/Craemer87:::Diether Craemer:::BOXDYN - eine komfortable Benutzeroberfläche für das DYNAMO-System im Betriebssystem EUMEL.
+conf/simulationstechnik/CherniavskyR84:::V. S. Cherniavsky::P. Ruckmann:::Homogene Rechnende Strukturen und ihre Simulation.
+conf/simulationstechnik/KleinertW82:::Wolfgang Kleinert::E. Wittek:::Der programmierbare Logikprozessor für das hybride AUTOPATCH System an der TU Wien.
+conf/simulationstechnik/Krechel-MohrM85:::Karl-Josef Krechel-Mohr::Istvan Molnár:::Ein universelles Optimierungsmodul zur Lösung von Entscheidungsproblemen in der Simulation.
+conf/simulationstechnik/Trier85:::Reinhold Trier:::Der Simulationsrechner in der MAN Werk Nürnberg-Konfiguration, Betriebserfahrung und Folgerungen.
+conf/simulationstechnik/ZschockeGA88:::B. C. Zschocke::Reinhold Gebhardt::Walter Ameling:::Neue Ansätze zur Beschreibung und Simulation bedarfsgesteuerter Bussysteme.
+conf/simulationstechnik/KrettekN84:::O. Krettek::J. Nicolin:::Verfahrensweise und Erfassung von Randbedingungen eines nichtlinearen Rechenmodells zur Simulation des Fahrzeuglaufs.
+conf/simulationstechnik/Rychlik88:::M. Rychlik:::Expertensystemgestützte Systemidentifikation.
+conf/programmier/Grosch82:::Josef Grosch:::A Language for Set-Theoretic Concepts Implemented by Microprogrammed Associative Memory Instructions.
+conf/programmier/Hunt78:::J. G. Hunt:::An introduction to LIMP: an experimental language for the implementation of messages and processes.
+conf/programmier/Laut81:::Alfred Laut:::Developing algebraic specifications of threaded data structure implementations.
+conf/programmier/Wilner74:::W. T. Wilner:::Structured Programs, Arcadian Machines and the Burroughs B1700.
+conf/programmier/Wilhelm82:::Reinhard Wilhelm:::LL- and LR-Attributed Grammars.
+conf/programmier/Barnes74:::John G. P. Barnes:::Some Characteristics of RTL/2 and their Relevance to Process Control.
+conf/programmier/Lippe74:::Wolfram-Manfred Lippe:::Entscheidbarkeitsprobleme bei der Übersetzung von Programmen mit einparametrigen Prozeduren.
+conf/programmier/Ciesinger76:::Joachim Ciesinger:::Generating Error Recovery in a Compiler Generating System.
+conf/ecAgents/MaesNC01:::Stéphane H. Maes::Jií Navrátil::Upendra V. Chaudhari:::Conversational Speech Biometrics.
+conf/tamodia/Oestreicher02:::Lars Oestreicher:::Task Patterns for Human-Robot Interaction.
+conf/tamodia/JuvinaTIVMC02:::Ion Juvina::Stefan Trausan-Matu::Gheorghe Iosif::Gerrit C. van der Veer::Ana-Maria Marhan::Cristina Chisalita:::Analysis of Web Browsing Behavior - a great potential for psychological research.
+conf/tapsoft/Baumeister91:::Hubert Baumeister:::Unifying Initial and Loose Semantics of Parameterized Specifications in an Arbitrary Institution.
+conf/tapsoft/RushinekR85:::Avi Rushinek::Sara F. Rushinek:::EDP System Development Methodology: Auditability and Control.
+conf/tapsoft/Luo91:::Zhaohui Luo:::Program Specification and Data Refinement in Type Theory.
+conf/tapsoft/BouhoulaJM97:::Adel Bouhoula::Jean-Pierre Jouannaud::José Meseguer:::Specification and Proof in Membership Equational Logic.
+conf/tapsoft/Ortega-MallenF91:::Yolanda Ortega-Mallén::David de Frutos-Escrig:::A Complete Proof System for Timed Observations.
+conf/tapsoft/Weber91:::H. Weber:::Interactive Internetworking for Interoperating Systems (Abstract).
+conf/tapsoft/Mahr93:::Bernd Mahr:::Applications of Type Theory.
+conf/tapsoft/HeiselL97:::Maritta Heisel::Nicole Lévy:::Using LOTOS Patterns to Characterize Architectural Styles.
+conf/tapsoft/GiacaloneMP89:::Alessandro Giacalone::Prateek Mishra::Sanjiva Prasad:::FACILE: A Symmetric Integration of Concurrent and Functional Programming.
+conf/tapsoft/ClementI89:::Dominique Clément::Janet Incerpi:::Specifying the Behavior of Graphical Objects Using Esterel.
+conf/tapsoft/LevinP97:::Vladdimir Levin::Doron Peled:::Verification of Message Sequence Charts via Template Matching.
+conf/tapsoft/YonezawaM85:::Akinori Yonezawa::Yoshihiro Matsumoto:::Object Oriented Concurrent Programming and Industrial Software Production.
+conf/tapsoft/Warren87:::David H. D. Warren:::Or-Parallel Execution Models of Prolog.
+conf/tapsoft/Hennicker89:::Rolf Hennicker:::Implementation of Parameterized Observational Specifications.
+conf/tapsoft/GabbrielliL91:::Maurizio Gabbrielli::Giorgio Levi:::A Solved Form Algorithm for Ask and Tell Herbrand Constraints.
+conf/tapsoft/NielsonN95:::Hanne Riis Nielson::Flemming Nielson:::Static and Dynamic Processor Allocation for Higher-Order Concurrent Languages.
+conf/tapsoft/RichtersG97:::Mark Richters::Martin Gogolla:::A Web-based Animator for Object Specifications in a Persistent Environment.
+conf/tapsoft/IsleL85:::Rainer Isle::Klaus-Peter Löhr:::Modelling Concurrent Modules.
+conf/tapsoft/Jancar95:::Petr Jancar:::High Undecidability of Weak Bisimilarity for Petri Nets.
+conf/tapsoft/Potthoff95:::Andreas Potthoff:::First-Order Logic on Finite Trees.
+conf/tapsoft/PuelS93:::Laurence Puel::Ascánder Suárez:::Optimal Solutions to Pattern Matching Problems.
+conf/tapsoft/BidoitC85:::Michel Bidoit::Christine Choppy:::ASSPEGIQUE: An Integrated Environment for Algebraic Specifications.
+conf/tapsoft/IyerN97:::S. Purushothaman Iyer::Murali Narasimha:::Probabilistic Lossy Channel Systems.
+conf/tapsoft/Maibaum97:::T. S. E. Maibaum:::Conservative Extensions, Interpretations Between Theories and All That!
+conf/tapsoft/AstesianoC89:::Egidio Astesiano::Maura Cerioli:::On the Existence of Initial Models for Partial (Higher-Order) Conditional Specifications.
+conf/tapsoft/AstesianoC91:::Egidio Astesiano::Maura Cerioli:::Non-Strict Don't Care Algebras and Specifications.
+conf/tapsoft/AstesianoR97:::Egidio Astesiano::Gianna Reggio:::Formalism and Method.
+conf/tapsoft/CamilleriIN91:::Albert John Camilleri::Paola Inverardi::Monica Nesi:::Combining Interaction and Automation in Process Algebra Verification.
+conf/tapsoft/Sands95:::David Sands:::Proving the Correctness of Recursion-Based Automatic Program Transformations.
+conf/tapsoft/KapurNS85:::Deepak Kapur::Paliath Narendran::G. Sivakumar:::A Path Ordering for Proving Termination of Term Rewriting Systems.
+conf/tapsoft/JosephM85:::Mathai Joseph::Abha Moitra:::Algebraic Specification Of A Communication Scheduler.
+conf/tapsoft/Seidl93:::Helmut Seidl:::When Is a Functional Tree Transduction Deterministic?

@@ -1,0 +1,200 @@
+conf/uml/Morand98:::Bernard Morand:::Modeling: Is it Turning Informal into Formal?
+conf/uml/RichtersG00:::Mark Richters::Martin Gogolla:::Validating UML Models and OCL Constraints.
+conf/uml/EvansFLR98:::Andy Evans::Robert B. France::Kevin Lano::Bernhard Rumpe:::The UML as a Formal Modeling Notation.
+conf/uml/NuttgensFZ97:::Markus Nüttgens::Thomas Feld::Volker Zimmermann:::Business Process Modeling with EPC and UML: Transformation or Integration?
+conf/uml/RaczK99:::Ferenc Racz::Kai Koskimies:::Tool-Supported Compressing of UML Class Diagrams.
+conf/uml/KhrissEK98:::Isïl Khriss::Mohammed Elkoutbi::Rudolf K. Keller:::Automating the Synthesis of UML StateChart Diagrams from Multiple Collaboration Diagrams.
+conf/uml/PetreBP99:::Luigia Petre::Ralph-Johan Back::Ivan Paltor:::Analysing UML Use Cases as Contracts.
+conf/uml/KentH99:::Stuart Kent::John Howse:::Mixing Visual and Textual Constraint Languages.
+conf/uml/KleppeW00:::Anneke Kleppe::Jos Warmer:::Extending OCL to include Actions.
+conf/uml/Kahkipuro99:::Pekka Kahkipuro:::UML Based Performance Modeling Framework for Object-Oriented Distributed Systems.
+conf/uml/GogollaR98:::Martin Gogolla::Mark Richters:::Transformation Rules for UML Class Diagrams.
+conf/uml/OvergaardP98:::Gunnar Övergaard::Karin Palmkvist:::A Formal Approach to Use Cases and Their Relationships.
+conf/uml/ArnoldP98:::Florian Arnold::Gerd Podehl:::Best of Both Worlds - A Mapping from EXPRESS-G to UML.
+conf/uml/DemeyerDT99:::Serge Demeyer::Stephane Ducasse::Sander Tichelaar:::Why Unified is not Universal? UML Shortcomings for Coping with Round-trip Engineering.
+conf/uml/WeisBGP01:::Torben Weis::Christian Becker::Kurt Geihs::Noël Plouzeau:::A UML Meta-model for Contract Aware Components.
+conf/uml/HausmannKS01:::Jan Hendrik Hausmann::Jochen Malte Küster::Stefan Sauer:::Identifying Semantic Dimensions of (UML) Sequence Diagrams.
+conf/uml/DijkmanPJ01:::Remco M. Dijkman::Luís Ferreira Pires::Stef Joosten:::Calculating with Concepts: a Technique for the Development of Business Process Support.
+conf/uml/KorthausK98:::Axel Korthaus::Stefan Kuhlins:::BOOSTER Process. A Software Development Process Model Integrating Business Object Technology and UML.
+conf/uml/SilvaP00:::Paulo Pinheiro da Silva::Norman W. Paton:::UMLi: The Unified Modeling Language for Interactive Applications.
+conf/uml/EngelsHK01:::Gregor Engels::Reiko Heckel::Jochen Malte Küster:::Rule-Based Specification of Behavioral Consistency Based on the UML Meta-model.
+conf/uml/BernerGJ99:::Stefan Berner::Martin Glinz::Stefan Joos:::A Classification of Stereotypes for Object-Oriented Modeling Languages.
+conf/vdb/GaoL02:::Yongsheng Gao::Maylor K. H. Leung:::Multi-View Combined Visual Similarity Retrieval For Face Database.
+conf/vdb/Cha02:::Guang-Ho Cha:::High-dimensional Image Indexing Based on Adaptive Partitioning and Vector Approximation.
+conf/vdb/BurgerKS91:::Albert Burger::Vijay Kumar::Patricia Simpson:::An Integrated Data Structure with Multiple Access Paths.
+conf/vdb/ChakravarthyY02:::Sharma Chakravarthy::Seokwon Yang:::Architecture and Implementation of an Interactive Tool for the Design and Visualization of Active Capability.
+conf/vdb/KangL95:::Myeong-A Kang::Ki-Joune Li:::Query Processing Methods for Connectivity Search in Visual Databases Using R+-tree.
+conf/vdb/LeeTK02:::Ryong Lee::Hiroki Takakura::Yahiko Kambayashi:::Visual Query Processing for GIS with Web Contents.
+conf/vdb/WolberSC02:::David Wolber::Yingfeng Su::Yih-Tsung Chiang:::Designing Dynamic Web Pages in the WYSIWYG Interface.
+conf/vdb/RabittiS89:::Fausto Rabitti::Peter L. Stanchev:::GRIM_DBMS: a GRaphical IMage DataBase Management System.
+conf/vdb/SawyerCMS95:::Peter Sawyer::Andy Colebourne::John A. Mariani::Ian Sommerville:::Database Object Display Definition and Management with Moggetto.
+conf/vdb/MuraoAO00:::Michihiro Murao::Masatoshi Arikawa::Koji Okamura:::Networked Augmented Spatial Hypermedia System on Internet.
+conf/vdb/CostagliolaTC91:::Gennaro Costagliola::Maurizio Tucci::Shi-Kuo Chang:::Representing and Retrieving Symbolic Pictures by Spatial Relations.
+conf/vdb/SongWZ02:::Yuqing Song::Wei Wang::Aidong Zhang:::Automatic Annotation and Retrieval of Images.
+conf/vdb/SignerNGH02:::Beat Signer::Moira C. Norrie::Peter Geissbuehler::Daniel Heiniger:::Aural Interfaces to Databases Based on VoiceXML.
+conf/vdb/Chizhevich91:::V. P. Chizhevich:::Raster Images and their Sv-Descriptions. Direct and Inverse Transformations.
+conf/vdb/SchekSW02:::Hans-Jörg Schek::Heiko Schuldt::Roger Weber:::Hyperdatabases: Infrastructure for the Information Space.
+conf/vdb/Abel02:::David J. Abel:::Federated Information Systems for Communities.
+conf/vdb/YajimaNT02:::Chikashi Yajima::Yoshihiro Nakanishi::Katsumi Tanaka:::Querying Video Data by Spatio-Temporal Relationships of Moving Object Traces.
+conf/usm/RudkinS00:::Steve Rudkin::Alan Smith:::A Scheme for Component Based Service Deployment.
+conf/uss/FeamsterBHBK02:::Nick Feamster::Magdalena Balazinska::Greg Harfst::Hari Balakrishnan::David Karger:::Infranet: Circumventing Web Censorship and Surveillance.
+conf/uss/YeS02:::Zishuang (Eileen) Ye::Sean Smith:::Trusted Paths for Browsers.
+conf/uss/MartinS02:::David Martin::Andrew Schulman:::Deanonymizing Users of the SafeWeb Anonymizing Service.
+conf/vis/PfitzmannW91a:::Birgit Pfitzmann::Michael Waidner:::Unbedingte Unbeobachtbarkeit mit kryprographischer Robustheit.
+conf/vis/BauspiessHS93:::Fritz Bauspieß::Patrick Horster::Steffen Stempel:::Netzwerksicherheit durch selektiven Pakettransport.
+conf/vis/Jacobs95:::R. Jacobs:::Systemverwaltung und Irrelevanzstrategien für die Sicherheitsstrategie der chinesischen Mauer.
+conf/vis/Caronni95:::Germano Caronni:::Assuring Ownership Rights for Digital Images.
+conf/vis/Rapp93:::Friedrich Rapp:::Zur Verantwortung der Experten.
+conf/vis/Horster93:::Patrick Horster:::Selbstmodifizierende Verbindungsnetzwerke.
+conf/vis/Ducker93:::Heidrun Dücker:::Ergebnisvalidierung und nebenläufige Hardwarefehlererkennung mittels systematisch erzeugter Diversität.
+conf/vis/Bruggemann93:::Hans Hermann Brüggemann:::Prioritäten für eine verteilte, objekt-orientierte Zugriffskontrolle.
+conf/vis/Biskup91:::Joachim Biskup:::Sicherheit in Informationssystemen - Gewährleistung und Begrenzung des Informationsflusses.
+conf/vis/Hohlfeld91:::Bernhard Hohlfeld:::Werkzeuggestützter Nachweis von Verläßlichkeitseigenschaften.
+conf/vis/HammerPR91:::Volker Hammer::Ulrich Pordesch::Alexander Roßnagel:::Freiheit oder Sicherheit - Ein Widerspruch Informationstechnischer Vernetzung?
+conf/vis/HalangK93:::Wolfgang A. Halang::Bernd J. Krämer:::Graphische Entwicklung sicherheitstechnisch abnehmbarer Software für die Prozeßautomatisierung.
+conf/waa/Law01:::Tak Ming Law:::Some Experiment Results on Feature Analyses of Stroke Sequence Free Matching Algorithms for On-Line Chinese Character Recognition.
+conf/waa/BoyingSZ01:::Wu Boying::Liu Shaohui::Deng Zhongxing:::Computations of Inverse Problem by Using Wavelet in Multi-layer Soil.
+conf/waa/Wickerhauser01:::M. Victor Wickerhauser:::Singularity Detection from Autocovariance via Wavelet Packets.
+conf/waa/LingT01b:::Wing-kuen Ling::Peter Kwong-Shun Tam:::Realization of Perfect Reconstruction Non-uniform Filter Banks via a Tree Structure.
+conf/wae/SchwerdtSMJ98:::Jörg Schwerdt::Michiel H. M. Smid::Jayanth Majhi::Ravi Janardan:::Computing the Width of a Three-Dimensional Point Set: An Experimental Study.
+conf/wae/ChatzigiannakisNS00:::Ioannis Chatzigiannakis::Sotiris E. Nikoletseas::Paul G. Spirakis:::Analysis and Experimental Evaluation of an Innovative and Efficient Routing Protocol for Ad-hoc Mobile Networks.
+conf/wae/SandersF00:::Peter Sanders::Rudolf Fleischer:::Asymptotic Complexity from Experiments? A Case Study for Randomized Algorithms.
+conf/wae/KavvadiasS99:::Dimitris J. Kavvadias::Elias C. Stavropoulos:::Evaluation of an Algorithm for the Transversal Hypergraph Problem.
+conf/wae/HusonNRWY98:::Daniel H. Huson::Scott Nettles::Kenneth Rice::Tandy Warnow::Shibu Yooseph:::Hybrid Tree Reconstruction Methods.
+conf/wae/BergDKOSV98:::Mark de Berg::Haggai David::Matthew J. Katz::Mark H. Overmars::A. Frank van der Stappen::Jules Vleugels:::Guarding Scenes against Invasive Hypercubes.
+conf/wae/BrengelCFM99:::Klaus Brengel::Andreas Crauser::Paolo Ferragina::Ulrich Meyer:::An Experimental Study of Priority Queues in External Memory.
+conf/wae/BoghossianKL99:::Nicolas Boghossian::Oliver Kohlbacher::Hans-Peter Lenhof:::BALL: Biochemical Algorithms Library.
+conf/wae/LassousG00:::Isabelle Guérin Lassous::Jens Gustedt:::Portable List Ranking: An Experimental Study.
+conf/wae/WeiheW98:::Karsten Weihe::Thomas Willhalm:::Why CAD Data Repair Requires Discrete Algorithmic Techniques.
+conf/wae/WerneckSC99:::Renato Fonseca F. Werneck::João C. Setubal::Arlindo F. da Conceição:::Finding Minimum Congestion Spanning Trees.
+conf/wan/BennerQQ98:::Peter Benner::Enrique S. Quintana-Ortí::Gregorio Quintana-Ortí:::A Portable Subroutine Library for Solving Linear Control Problems on Distributed Memory Computers.
+conf/wan/Plagemann98:::Thomas Plagemann:::Gigabit Networking in Norway Infrastructure, Applications and Projects.
+conf/vmv/ChenWM00:::Hui Chen::Wenping Wang::Ralph R. Martin:::Building Panoramas from Photographs Taken with an Uncalibrated Hand-Held Camera.
+conf/vmv/RamanathanSG00:::Prashant Ramanathan::Eckehard G. Steinbach::Bernd Girod:::Silhouette-Based Multiple-View Camera Calibration.
+conf/vmv/Pinz01:::Axel Pinz:::Consistent Visual Information Processing Applied to Object Recognition Landmark Definition and Real-Time Tracking.
+conf/vmv/Whitaker01:::Ross T. Whitaker:::Maximum Likelihood Surface Estimation.
+conf/vmv/Jones01:::Mark W. Jones:::Facial Reconstruction Using Volumetric Data.
+conf/vmv/SteinbachEG01:::Eckehard G. Steinbach::Peter Eisert::Bernd Girod:::Model-based 3-D Shape and Motion Estimation Using Sliding Textures.
+conf/vmv/Scopigno00:::Roberto Scopigno:::3D Scanning Cultural Heritage Artifacts: Potentialities and Issues.
+conf/vmv/WeiskopfHE01:::Daniel Weiskopf::Matthias Hopf::Thomas Ertl:::Hardware-Accelerated Visualization of Time-Varying 2D and 3D Vector Fields by Texture Advection via Programmable Per-Pixel Operations.
+conf/vmv/HillerDK01:::Stefan Hiller::Oliver Deussen::Alexander Keller:::Tiled Blue Noise Samples.
+conf/vmv/BruynsWMS01:::Cynthia Bruyns::Simon Wildermuth::Kevin Montgomery::Steven Senger:::Active Areas: On Interaction in a Virtual Environment.
+conf/vmv/MeissnerBMHE01:::Michael Meißner::Dirk Bartz::Gordon Müller::Tobias Hüttner::Jens Einighammer:::Generation of Decomposition Hierarchies for Efficient Occlusion Culling of Large Polygonal Models.
+conf/wea/Hoefer03:::Martin Hoefer:::Experimental Comparison of Heuristic and Approximation Algorithms for Uncapacitated Facility Location.
+conf/wea/MastrolilliB03:::Monaldo Mastrolilli::Leonora Bianchi:::Core Instances for Testing: A Case Study.
+conf/wea/AlthausPD03:::Ernst Althaus::Tobias Polzin::Siavash Vahdati Daneshmand:::Improving Linear Programming Approaches for the Steiner Tree Problem.
+conf/wea/Freivalds03:::Karlis Freivalds:::A Nondifferentiable Optimization Approach to Ratio-Cut Partitioning.
+conf/wea/HallT03:::Alexander Hall::Hanjo Täubig:::Comparing Push- and Pull-Based Broadcasting.
+conf/wfe/InamotoK89:::Naota Inamoto::Tosiyasu L. Kunii:::A Graph-Based Visual Tool for Workstations.
+conf/wfe/Smith89:::S. Smith:::An Auditory Display for Exploratory Visualization of Multidimensional Data.
+conf/wes/TutE02:::Moe Thandar Tut::David Edmond:::The Use of Patterns in Service Composition.
+conf/wes/BernsteinK02:::Abraham Bernstein::Mark Klein:::Discovering Services: Towards High-Precision Service Retrieval.
+conf/wia/GlennG96:::James Glenn::William I. Gasarch:::Implementing WS1S via Finite Automata.
+conf/wia/GlennG97:::James Glenn::William I. Gasarch:::Implementing WS1S via Finite Automata: Performance Issues.
+conf/wia/MiyamotoITS03:::Satoru Miyamoto::Shunsuke Inenaga::Masayuki Takeda::Ayumi Shinohara:::Ternary Directed Acyclic Word Graphs.
+conf/wia/PrestonK03:::Nathan Preston::Mukkai S. Krishnamoorthy:::AVA: An Applet for Visualizing FRACTRAN and Other Automata.
+conf/wia/BoneDGM96:::Romuald Boné::Christophe Daguin::Antoine Georgevail::Denis Maurel:::Time Series Forecasting by Finite-State Automata.
+conf/wia/Karttunen00:::Lauri Karttunen:::Applications of Finite-State Transducers in Natural Language Processing.
+conf/wia/Castano03:::José M. Castaño:::LR Parsing for Global Index Languages (GILs).
+conf/wia/BiehlKR96:::Morten Biehl::Nils Klarlund::Theis Rauhe:::Algorithms for Guided Tree Automata.
+conf/wia/Kiraz99:::George Anton Kiraz:::Compressed Storage of Sparse Finite-State Transducers.
+conf/wia/RavikumarX96:::Bala Ravikumar::X. Xiong:::Implementing Sequential and Parallel Programs for the Homing Sequence Problem.
+conf/wia/Velinov98:::Yuri Velinov:::On the Syntax, Semantics, and Implementation of a Graph-Based Computational Environment.
+conf/wia/PontyZC96:::Jean-Luc Ponty::Djelloul Ziadi::Jean-Marc Champarnaud:::A New Quadratic Algorithm to Convert a Regular Expression into an Automaton.
+conf/wia/Nykanen98:::Matti Nykänen:::Using Acceptors as Transducers.
+conf/wia/ChamparnaudZ00:::Jean-Marc Champarnaud::Djelloul Ziadi:::New Finite Automaton Constructions Based on Canonical Derivatives.
+conf/wia/MaurelPR98:::Denis Maurel::Brigitte Le Pévédic::Olivier Rousseau:::The Syntactic Prediction with Token Automata: Application to HandiAS System.
+conf/wia/ChamparnaudLOZ03:::Jean-Marc Champarnaud::Éric Laugerotte::Faissal Ouardi::Djelloul Ziadi:::From Regular Weighted Expressions to Finite Automata.
+conf/wia/FarreG00:::Jacques Farré::José Fortes Gálvez:::A Basis for Looping Extensions to Discriminating-Reverse Parsing.
+conf/wis/HinQ02:::Hinny Kong Pe Hin::Wei Qiang:::Agent-Based E-Commerce through Mobile Devices.
+conf/wis/Lujan-Mora02:::Sergio Luján-Mora:::Delivering location-based services using GIS, WAP, and the Web: two applications.
+conf/wis/UedaAYU02:::Takamasa Ueda::Toshiyuki Amagasa::Masatoshi Yoshikawa::Shunsuke Uemura:::Digest Creation of Video Data Recorded by Wearable Cameras Using Locational and Geographical Information.
+conf/vvs/MeissnerHBMC00:::Michael Meißner::Jian Huang::Dirk Bartz::Klaus Mueller::Roger Crawfis:::A practical evaluation of popular volume rendering algorithms.
+conf/vvs/WeilerWHZE00:::Manfred Weiler::Rüdiger Westermann::Charles D. Hansen::Kurt Zimmerman::Thomas Ertl:::Level-of-detail volume rendering via 3D textures.
+conf/vvs/KindlmannD98:::Gordon L. Kindlmann::James W. Durkin:::Semi-Automatic Generation of Transfer Functions for Direct Volume Rendering.
+conf/vvs/TheusslHG00:::Thomas Theußl::Helwig Hauser::Eduard Gröller:::Mastering windows: improving reconstruction.
+conf/vvs/Nadeau00:::David R. Nadeau:::Volume scene graphs.
+conf/vvs/FangL00:::Shiaofen Fang::Duoduo Liao:::Fast CSG voxelization by frame buffer pixel mapping.
+conf/vvs/SobierajskiK95:::Lisa M. Sobierajski::Arie E. Kaufman:::Volumetric Ray Tracing.
+conf/vvs/MollerMMY96:::Torsten Möller::Raghu Machiraju::Klaus Mueller::Roni Yagel:::Classification and Local Error Estimation of Interpolation and Derivative Filters for Volume Rendering.
+conf/vvs/NingH92:::Paul Ning::Lambertus Hesselink:::Vector Quantization for Volume Rendering.
+conf/vvs/FowlerY95:::James E. Fowler::Roni Yagel:::Lossless Compression of Volume Data.
+conf/vvs/SanchezC98:::Ricardo Sánchez::Marcelo Carvajal:::Wavelet Based Adaptive Interpolation for Volume Rendering.
+conf/wmc/TeutebergHK03:::Frank Teuteberg::Jens Hilker::Karl Kurbel:::Anwendungsschwerpunkte im Mobile Enterprise Resource Planning.
+conf/wlp/GrossM94:::Roman Gross::Robert W. Marti:::DeCoR a Deductive Constraint Database System.
+conf/wlp/Bry94:::François Bry:::Logikprogrammierung ohne Modelltheorie?
+conf/wlp/EglyEKTW00:::Uwe Egly::Thomas Eiter::Volker Klotz::Hans Tompits::Stefan Woltran:::Experimental Evaluation of the Disjunctive Logic Programming Module of the System QUIP.
+conf/wlp/Pearce00:::David Pearce:::Equilibrium Logic: An Extension of Answer Set Programming for Nonmonotonic Reasoning.
+conf/wlp/Pearce94:::David Pearce:::Some General Properies of Answer Set Inference for Extended Disjunctive Logic Programs.
+conf/wlp/RingwelskiS00:::Georg Ringwelski::Hans Schlenker:::Type Inference in CHR Programs for the Composition of Constraint Systems.
+conf/wlp/Thielscher93:::Michael Thielscher:::SLDENF-Resolution.
+conf/wlp/BoulangerFGGJNSW97:::Dmitri Boulanger::Andreas Fordan::Ulrich Geske::Hans-Joachim Goltz::Ulrich John::Alexander Nareyek::André Schiemann::Armin Wolf:::Constraint-basierte Planung und Konfiguration (system description).
+conf/wlp/Bonzon00a:::Pierre E. Bonzon:::Deliberation Through Reflection.
+conf/wlp/OpalkaR95:::Annette Opalka::Ingo Raasch:::Program Transformations for Constraint-Based Grammar Formalism.
+conf/wlp/EiterL95:::Thomas Eiter::Nicola Leone:::On Modularity Properties of Partial Semantics for Disjunctive Logic Programs.
+conf/wlp/ZukowskiF97:::Ulrich Zukowski::Burkhard Freitag:::An Overview of the LOLA System (system description).
+conf/wlp/Borger93:::Egon Börger:::Evolving Algebras for Specification of Logic Programming Systems.
+conf/wlp/PigeotR97:::Iris Pigeot::Ursula Robers:::The Use of Inductive Logic Programming for the Developement of the Statistical Software Tool CORA (system description).
+conf/wlp/Furbach95:::Ulrich Furbach:::From Theorem Proving to Logic Programming.
+conf/wlp/BrassD94:::Stefan Brass::Jürgen Dix:::A Characterization of the Stable Semantics by Partial Evaluation.
+conf/wlp/Hanus00:::Michael Hanus:::TkCurry: A Declarative Approach to GUI Programming.
+conf/wlp/Hanus97:::Michael Hanus:::Curry: A Multi-Paradigm Declarative Language (system description).
+conf/wlp/Bsaies94:::Khaled Bsaïes:::Discovering "Eureka Steps" in Transforming Logic Programs.
+conf/wlp/MullerW95:::Tobias Müller::Jörg Würtz:::Constructive Disjunction in Oz.
+conf/wmp/NovalPS02:::Delia Balbontín Noval::Mario J. Pérez-Jiménez::Fernando Sancho-Caparrini:::A MzScheme Implementation of Transition P Systems.
+conf/wmp/KudlekM00:::Manfred Kudlek::Victor Mitrana:::Normal Forms of Grammars, Finite Automata, Abstract Families, and Closure Properties of Multiset Languages.
+conf/wmp/MadhuK02:::Mutyam Madhu::Kamala Krithivasan:::A Survey of Some Variants of P Systems.
+conf/wsc/DavisFOP00:::Paul C. Davis::Paul A. Fishwick::C. Michael Overstreet::C. Dennis Pegden:::Model composability as a research investment: responses to the featured paper.
+conf/wsc/RamisPB01:::Francisco J. Ramis::Jorge L. Palma::Felipe F. Baesler:::The use of simulation for process improvement at an ambulatory surgery center.
+conf/wsc/SchaeferW00:::Lisa A. Schaefer::Philip M. Wolfe:::Java applications: issues in Java-based continuous time step physical modelling.
+conf/wsc/PardueCC95:::J. Harold Pardue::Thomas D. Clark Jr.::Armand B. Cognetta Jr.:::A Systems Analysis and Model of Real-Time Skin Cancer Treatment.
+conf/wsc/Hicks99:::Donald A. Hicks:::A four step methodology for using simulation and optimization technologies in strategic supply chain planning.
+conf/wsc/Hieta98:::Saku Hieta:::Supply Chain Simulation with LOGSIM-simulator.
+conf/wsc/MillerGT98:::John A. Miller::Youngfu Ge::Junxin Tao:::Component-based Simulation Environments: JSIM as a Case Study Using Java Beans.
+conf/wsc/HillF94:::Stacy D. Hill::Michael C. Fu:::Simulation optimization via simultaneous perturbation stochastic approximation.
+conf/wsc/Chen95:::Chun-Hung Chen:::A Hybrid Approach of the Standard Clock Method and Event Scheduling Approach for General Discrete Event Simulation.
+conf/wsc/Buss96:::Arnold H. Buss:::Modeling with Event Graphs.
+conf/wsc/ShaverAKW94:::Steven R. Shaver::Lorna L. Armacost::Heidi S. Konynenbelt::Robert R. Wehrman:::Hanford solid waste management system simulation.
+conf/wsc/Clay00:::Gregory R. Clay:::Venture launch: use of simulation to support strategic operational decisions.
+conf/wsc/Dean00:::Tony Dean:::Advances in modeling and analysis: a method for achieving stable distributions of wireless mobile location in motion simulations.
+conf/wsc/BrownP00:::Nancy Brown::Steve Powers:::Simulation in a box: a generic reusable maintenance model.
+conf/wsc/Banks01:::Jerry Banks:::Panel: future of simulation: panel session: the future of simulation.
+conf/wsc/ParkLK94:::Hyu Chan Park::Wan Bok Lee::Tag Gon Kim:::A relational algebraic framework for models management.
+conf/wsc/ParkMM98:::Young H. Park::Jack E. Matson::David M. Miller:::Simulation and Analysis of the Mercedes-Benz all Activity Vehicle (AAV) Production Facility.
+conf/wsc/GeistW00:::Robert Geist::James Westall:::Practical aspects of simulating systems having arrival processes with long-range dependence.
+conf/wsc/GrabauP00:::Mark R. Grabau::Michael D. Payne:::Predicting enemy force closure with simulation.
+conf/wsc/SwisherHJS00:::James R. Swisher::Paul Hyden::Sheldon H. Jacobson::Lee Schruben:::Simulation optimization: a survey of simulation optimization techniques and procedures.
+conf/wsc/FlattoG00:::Jerry Flatto::L. Leslie Gardner:::Financial decision-making: using information generated by a discrete event simulation to evaluate real options in a research and development environment.
+conf/wsc/SandellS96:::Raka Sandell::Krishna Srinivasan:::Evaluation of Lot Release Policies for Semiconductor Manufacturing Systems.
+conf/wsc/Chick97a:::Stephen E. Chick:::Selecting the Best System: A Decision-Theoretic Approach.
+conf/wsc/PageS98:::Ernest H. Page::Roger Smith:::Introduction to Military Training Simulation: A Guide for Discrete Event Simulationists.
+conf/wsc/FieldsDT00:::Jeff Fields::Dennis Davis::Alfred Taylor:::Simulation of the remote unit assembly and test: a case study.
+conf/wsc/SalisburySB95:::Marnie R. Salisbury::David W. Seidel::Lashon B. Booker:::A Brief Review of the Command Forces (CFOR) Program.
+conf/wsc/Murphy00:::Brandee L. Murphy:::High resolution satellite communication simulation.
+conf/wsc/WilsonBSK00:::Linda F. Wilson::Daniel Burroughs::Jeanne Sucharitaves::Anush Kumar:::An agent-based framework for linking distributed simulations.
+conf/wsc/Raatikainen92:::Kimmo E. E. Raatikainen:::Run Length Control Using Parallel Spectral Method.
+conf/wsc/HumphreyW98:::David G. Humphrey::James R. Wilson:::A Revised Simplex Search Procedure for Stochastic Simulation Response-surface Optimization.
+conf/wsc/DomaschkeBRL98:::Joerg Domaschke::Steven Brown::Jennifer Robinson::Franz Leibl:::Effective Implementation of Cycle Time Reduction Strategies for Semiconductor Back-end Manufacturing.
+conf/wsc/AguilarRP99:::Marc Aguilar::Tankred Rautert::Alexander J. G. Pater:::Business process simulation: a fundamental step supporting process centered management.
+conf/wsc/FuH92:::Michael C. Fu::Kevin J. Healy:::Simulation Optimization of (s, S) Inventory Systems.
+conf/wsc/HammondM95:::Donald Hammond::Sathi Mahesh:::A Simulation and Analysis of Bank Teller Manning.
+conf/wsc/JoM00:::Kenneth Y. Jo::Christopher Munk:::Simulation methods for analysis of traffic processes in ATM networks.
+conf/wsc/NeddermeijerOPD00:::H. Gonda Neddermeijer::Gerrit J. van Oortmarssen::Nanda Piersma::Rommert Dekker:::A framework for Response Surface Methodology for simulation optimization.
+conf/wsc/WangH97:::Paul T. R. Wang::Yoon K. Hong:::Collision Awareness Multiple Access Networks Performance Optimization.
+conf/wsc/Klingener95:::J. Frederick Klingener:::Combined Discrete-Continuous Simulation Models in ProModel for Windows.
+conf/wsc/ZayedH00:::Tarek M. Zayed::Daniel W. Halpin:::Construction engineering I: simulation as a tool for resource management.
+conf/wsc/ZayedH01:::Tarek M. Zayed::Daniel W. Halpin:::Construction I: simulation of bored pile construction.
+conf/wsc/Shi00:::Jonathan Jingsheng Shi:::Construction engineering III: object-oriented technology for enhancing activity-based modeling functionality.
+conf/wsc/RobinsonS98:::Stewart Robinson::Mark D. Stanger:::Developing a Simulation Strategy for British Airways OR.
+conf/wsc/GarvelsK98:::Marnix J. J. Garvels::Dirk P. Kroese:::A Comparison of RESTART Implementations.
+conf/wsc/IrizarryKLSW00:::Maria de los A. Irizarry::Michael E. Kuhl::Emily K. Lada::Sriram Subramanian::James R. Wilson:::Analyzing transformation-based simulation metamodels.
+conf/wsc/Rogers97:::Ralph V. Rogers:::What Makes a Modeling and Simulation Professional?: the Consensus View from one Workshop.
+conf/wsc/King95:::Cliff B. King:::Creating Simulation Runtimes for Profit.
+conf/wsc/Benson96:::Deborah Benson:::Simulation Modeling and Optimization Using ProModel.
+conf/wsc/ParsonsS00:::David J. Parsons::Andrew J. Siprelle:::A supply chain case study of a food manufacturing merger.
+conf/wsc/LiuI92:::Liang Y. Liu::Photios G. Ioannou:::Graphical Object-Oriented Discrete-Event Simulation System.
+conf/wsc/PremoreN97:::Brian J. Premore::David M. Nicol:::Parallel Simulation of TCP/IP Using TeD.
+conf/wsc/Binun96:::Maya Binun:::Business Process Modeling with SIMPROCESS.
+conf/wsc/MooreB97:::Kendra E. Moore::John E. Brennan:::ALPHA/Sim Simulation Software Tutorial.
+conf/wsc/GlassermanS01:::Paul Glasserman::Jeremy Staum:::Simulation in financial engineering: stopping simulated paths early.
+conf/wsc/Hugan94:::Joseph Hugan:::Quest - queueing event simulation tool.

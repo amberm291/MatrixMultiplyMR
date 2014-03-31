@@ -1,0 +1,200 @@
+conf/sigmetrics/HarinarayanK91:::Venkatesh Harinarayan::Leonard Kleinrock:::Load Sharing In Limited Access Distributed Systems.
+conf/sigmetrics/Hellerstein89:::Joseph L. Hellerstein:::A Statistical Approach to Diagnosing Intermittent Performance-Problems Using Monotone Relationships.
+conf/sigmetrics/Hellerstein94:::Joseph L. Hellerstein:::A Comparison of Techniques for Diagnosing Performance Problems In Information Systems.
+conf/sigmetrics/LazowskaZ81:::Edward D. Lazowska::John Zahorjan:::Analytic Modelling of Disk I/O Subsystems: A Tutorial.
+conf/woodpecker/NaumenkoWGF01:::Andrey Naumenko::Alain Wegmann::Guy Genilloud::William F. Frank:::Proposal for a formal foundation of RM-ODP concepts.
+conf/oographics/ChenTT91:::Shenchang Eric Chen::Kenneth Turkowski::Douglass Turner:::An Object-Oriented Testbed for Global Illumination.
+conf/oographics/FinneJ95:::Sigbjorn Finne::Simon L. Peyton Jones:::Composing Haggis.
+conf/oographics/Jasper91:::Heinrich Jasper:::Extending an Advanced Logic Programming Environment by an Object-Oriented User Interface Management System.
+conf/oographics/EgbertH94:::Parris K. Egbert::Travis L. Hilton:::Mixed Programming Paradigms in Computer Graphics.
+conf/oographics/Wisskirchen92:::Peter Wißkirchen:::The PREMO Framework: Object-Oriented Issues.
+conf/oographics/ConnerD92:::D. Brookshire Conner::Andries van Dam:::Sharing Between Graphical Objects Using Delegation.
+conf/inetbib/HobohmT97:::Hans-Christoph Hobohm::Beate Tröger:::Vorwort.
+conf/inetbib/Ecker97:::Reihard Ecker:::European Copyright User Platform, ECUP und ECUP+.
+conf/inetbib/Larbey97:::David W. Larbey:::Electronic Document Delivery in the UK with Particular Reference to the Electronic Libraries Programme and the EDDIS Project.
+conf/inetbib/Summann97:::Friedrich Summann:::Dokumentlieferdienste in der UB Bielefeld.
+conf/inetbib/Troger97:::Beate Tröger:::Bibliotheken erschließen das Netz - bibliothekarische Kooperation zur elektronischen Informationsversorgung von Forschung und Lehre in NRW: das Projekt IBIS.
+conf/infocom/Wu83:::Yen-Yi Wu:::Performance of File Directory Systems on a Network with Redundant Data Bases.
+conf/infocom/MacKenzieW03:::Allen MacKenzie::Stephen Wicker:::Stability of Multipacket Slotted Aloha with Selfish Users and Perfect Information.
+conf/infocom/Schuba97:::Marko Schuba:::A Performance Evaluation of Connectionless Overlay Networks for ATM.
+conf/infocom/Stavrakakis90:::Ioannis Stavrakakis:::Analysis of a Class of Star-Interconnected Networks.
+conf/infocom/AkarM03:::Mehmet Akar::Urbashi Mitra:::Joint power and handoff control using a hybrid systems framework.
+conf/infocom/NuggehalliSR02:::Pavan Nuggehalli::Vikram Srinivasan::Ramesh R. Rao:::Delay Constrained Energy Efficient Transmission Strategies for Wireless Devices.
+conf/infocom/ChoL94:::You Ze Cho::Alberto Leon-Garcia:::Performance of Burst-Level Bandwidth Reservation in ATM LANs.
+conf/infocom/BuxG84:::Werner Bux::Davide Grillo:::End-To-End Performance in Local-Area Networks of Interconnected Token Rings.
+conf/infocom/FortzT00:::Bernard Fortz::Mikkel Thorup:::Internet Traffic Engineering by Optimizing OSPF Weights.
+conf/infocom/GuhaM96:::Biswaroop Guha::Biswanath Mukherjee:::Network Security via Reverse Engineering of TCP Code: Vulnerability Analysis and Proposed Solutions.
+conf/infocom/RufinoV92:::José Rufino::Paulo Verissimo:::A Study on the Inaccessibility Characteristics of ISO 8802/4 Token-Bus LANs.
+conf/infocom/MyersCHXZZ01:::Andy Myers::John Chuang::Urs Hengartner::Yinglian Xie::Weiqiang Zhuang::Hui Zhang:::A Secure, Publisher-Centric Web Caching Infrastructure.
+conf/infocom/VicisanoRC98:::Lorenzo Vicisano::Luigi Rizzo::Jon Crowcroft:::TCP-Like Congestion Control for Layered Multicast Data Transfer.
+conf/infocom/LeonardiMMN02:::Emilio Leonardi::Marco Mellia::Marco Ajmone Marsan::Fabio Neri:::On the Throughput Achievable by Isolated and Interconnected Input-Queueing Switches under Multiclass Traffic.
+conf/infocom/ChenLT92:::Wen-Tsuen Chen::Huai-Jen Liu::Yeong-Tsong Tsay:::A High-Throughput Cell Scheduling Algorithm for Delay-Sensitive Traffic in Broadband Switching Systems.
+conf/infocom/ChengA92:::Xian Cheng::Ian F. Akyildiz:::A Finite Buffer Two Class Queue with Different Scheduling and Push-Out Schemes.
+conf/infocom/ZhangYM97:::Hongyi Zhang::Oliver W. W. Yang::H. T. Mouftah:::Design of Robust Congestion Controllers for ATM Networks.
+conf/infocom/Baker83:::Dennis J. Baker:::Distributed Control of Broadcast Radio Networks with Changing Topologies.
+conf/infocom/KulkarniGC94:::Vidyadhar G. Kulkarni::Levent Gün::Phillip F. Chimento Jr.:::Effective Bandwidth Vector for Two-Priority ATM Traffic.
+conf/infocom/HahneM91:::Ellen L. Hahne::Nicholas F. Maxemchuk:::Fair Access of Multi-Priority Traffic to Distributed-Queue Dual-Bus Networks.
+conf/infocom/IoannidisGA03:::Ioannis Ioannidis::Ananth Grama::Mikhail J. Atallah:::Adaptive Data Structures for IP Lookups.
+conf/infocom/Ammar94:::Mostafa H. Ammar:::Probabilistic Multicast: Generalizing the Multicast Paradigm to Improve Scalability.
+conf/infocom/ErgunMSSS01:::Funda Ergün::Suvo Mittra::Süleyman Cenk Sahinalp::Jonathan Sharp::Rakesh K. Sinha:::A Dynamic Lookup Scheme for Bursty Access Patterns.
+conf/infocom/FooR95:::Eugene M. Foo::Thomas G. Robertazzi:::A Distributed Global Queue Transmission Strategy for a WDM Optical Fiber Network.
+conf/infocom/PavanBD93:::Allalaghatta Pavan::Sourav Bhattacharya::David Hung-Chang Du:::Reverse Channel Augmented Multihop Lightwave Networks.
+conf/infocom/ChawatheMB00:::Yatin Chawathe::Steven McCanne::Eric A. Brewer:::RMX: Reliable Multicast for Heterogeneous Networks.
+conf/infocom/FuMT03:::Alvin Fu::Eytan Modiano::John N. Tsitsiklis:::Optimal Energy Allocation for Delay-Constrained Data Transmission over a Time-Varying Channel.
+conf/infocom/ToddKBS91:::Terence D. Todd::Zahid Khurshid::Allan M. Bignell::Soori Sivakumaran:::Photonic Multihop Bus Networks.
+conf/infocom/GencataM02:::Aysegul Gencata::Biswanath Mukherjee:::Virtual-Topology Adaptation for WDM Mesh Networks Under Dynamic Traffic.
+conf/infocom/RamamurthyR97:::Gopalakrishnan Ramamurthy::Qiang Ren:::Multi-Class Connection Admission Control Policy for High Speed ATM Switches.
+conf/infocom/JudgeA02:::Paul Judge::Mostafa H. Ammar:::Gothic: A Group Access Control Architecture for Secure Multicast and Anycast.
+conf/infocom/KozatT03:::Ulas Kozat::Leandros Tassiulas:::Network Layer Support for Service Discovery in Mobile Ad Hoc Networks.
+conf/infocom/CaoAXQ03:::Xiaojun Cao::Vishal Anand::Yizhi Xiong::Chunming Qiao:::Performance Evaluation of Wavelength Band Switching in Multi-fiber All-Optical Networks.
+conf/infocom/WanAF02:::Peng-Jun Wan::Khaled M. Alzoubi::Ophir Frieder:::Distributed Construction of Connected Dominating Set in Wireless Ad Hoc Networks.
+conf/infocom/LaA00:::Richard J. La::Venkat Anantharam:::Charge-Sensitive TCP and Rate Control in the Internet.
+conf/infocom/LiG92:::Bo Li::Aura Ganz:::Virtual Topologies for WDM Star LANs - The Regular Structures Approach.
+conf/infocom/LiH94:::San-qi Li::Chia-lin Hwang:::On Input State Space Reduction and Buffer Noneffective Region.
+conf/infocom/MaC84:::Y.-W. Ma::C. M. Chen:::The Application of the Random Graph Model for the Reliability Analysis of Dynamic Computer Networks.
+conf/infocom/Mah97:::Bruce A. Mah:::An Empirical Model of HTTP Network Traffic.
+conf/infocom/StephensZ98:::Donpaul C. Stephens::Hui Zhang:::Implementing Distributed Packet Fair Queueing in a Scalable Switch Architecture.
+conf/infocom/EliazovRWL90:::T. E. Eliazov::V. Ramaswami::Walter Willinger::Guy Latouche:::Performance of an ATM Switch: Simulation Study.
+conf/infocom/WangH00:::Bin Wang::Jennifer C. Hou:::QoS-Based Multicast Routing for Distributing Layered Video to Heterogeneous Receivers in Rate-based Networks.
+conf/infocom/WangY02:::Xiaodong Wang::Zigang Yang:::Joint Mobility Tracking and Hard Handoff in Cellular Networks via Sequential Monte Carlo Fitlering.
+conf/infocom/BaccelliBT02:::François Baccelli::Bartlomiej Blaszczyszyn::Florent Tournois:::Spatial Averages of Downlink Coverage Characteristics in CDMA Networks.
+conf/infocom/EleftheriadisPA95:::Alexandros Eleftheriadis::Sassan Pejhan::Dimitris Anastassiou:::Address Management and Connection Control for Multicast Communication Applications.
+conf/infocom/Son89:::Sang Hyuk Son:::A Resilient Replication Method in Distributed Database Systems.
+conf/infocom/TinnakornsrisuphapM03:::Peerapol Tinnakornsrisuphap::Armand M. Makowski:::Limit Behavior of ECN/RED Gateways Under a Large Number of TCP Flows.
+conf/infocom/BuddhikotCHLMS03:::Milind M. Buddhikot::Girish P. Chandranmenon::Seung-Jae Han::Yui-Wah Lee::Scott Miller::Luca Salgarelli:::Integration of 802.11 and Third-Generation Wireless Data Networks.
+conf/infocom/ToL98:::Philip P. To::Tony T. Lee:::The Multi-Directional Shuffle-Exchange Network: A Novel Topology for Regular Network Architectures.
+conf/infocom/XuG02:::Ying Xu::Roch Guérin:::Individual QoS versus Aggregate QoS: A Loss Performance Study.
+conf/infocom/NebatS02:::Yoav Nebat::Moshe Sidi:::Resequencing Considerations in Parallel Downloads.
+conf/infocom/YuL96:::Oliver T. W. Yu::Victor C. M. Leung:::Signaling Network Architecture and Transaction Protocols to Support Realtime Connection Rerouting in ATM/B-ISDNs.
+conf/infocom/JooM98:::Youngmi Joo::Nick McKeown:::Doubling Memory Bandwidth for Network Buffers.
+conf/infocom/MarasliAC96:::Rahmi Marasli::Paul D. Amer::Phillip T. Conrad:::Retransmission-Based Partially Reliable Transport Service: An Analytic Model.
+conf/infocom/KwonTP93:::Hyeog-In Kwon::Arnon Tubtiang::Guy Pujolle:::A Simple Flow Control Mechanism in ATM Network with End-to-End Transport.
+conf/infocom/PehaT91:::Jon M. Peha::Fouad A. Tobagi:::A Cost-Based Scheduling Algorithm to Support Integrated Services.
+conf/infocom/LauL93:::Wing-cheong Lau::San-qi Li:::Traffic Analysis in Large-Scale High-Speed Integrated Networks: Validation of Nodal Decomposition Approach.
+conf/infocom/LawS03:::Ching Law::Kai-Yeung Siu:::Distributed Construction of Random Expander Networks.
+conf/infocom/Lee95a:::Duan-Shin Lee:::A Generalized Non-Preemptive Priority Queue.
+conf/infocom/LeeL92:::Tsern-Huei Lee::Shun-Jee Liu:::A Fair High-Speed Copy Network for Multicast Packet Switch.
+conf/infocom/LiCW02:::Xiang-Yang Li::Gruia Calinescu::Peng-Jun Wan:::Distributed Construction of Planar Spanner and Routing for Ad Hoc Wireless Networks.
+conf/infocom/LiHS03:::Ning Li::Jennifer C. Hou::Lui Sha:::Design and Analysis of an MST-Based Topology Control Algorithm.
+conf/infocom/LiSC99:::Junyi Li::Ness B. Shroff::Edwin K. P. Chong:::A Static Power Control Scheme for Wireless Cellular Networks.
+conf/infocom/LinY89:::Frank Yeong-Sung Lin::James R. Yee:::A Distributed Routing Algorithm for Virtual Circuit Data Networks.
+conf/infocom/HongLP98:::Sung-Pil Hong::Heesang Lee::Bum Hwan Park:::An Efficient Multicast Routing Algorithm for Delay-Sensitive Applications with Dynamic Membership.
+conf/infocom/LowV93:::Steven H. Low::Pravin Varaiya:::Stability of a Class of Dynamic Routing Protocols (IGRP).
+conf/infocom/LowV94:::Steven H. Low::Pravin Varaiya:::An Algorithm for Optimal Service Provisioning using Resource Pricing.
+conf/infocom/OgierPK96:::Richard G. Ogier::Nina Taft Plotkin::Irfan Khan:::Neural Network Methods with Traffic Descriptor Compression for Call Admission Control.
+conf/infocom/MandjesSM02:::Michel Mandjes::Werner R. W. Scheinhardt::Debasis Mitra:::Simple models of network access, with applications to the design of joint rate and admission control.
+conf/infocom/MarcoP94:::Martino De Marco::Achille Pattavina:::Distributed Routing Protocols for ATM Extended Banyan Networks.
+conf/infocom/MoonST99:::Sue B. Moon::Paul Skelly::Donald F. Towsley:::Estimation and Removal of Clock Skew from Network Delay Measurements.
+conf/infocom/BirkK98:::Yitzhak Birk::Yaron Keren:::Judicious Use of Redundant Transmissions Multi-Channel ALOHA Networks with Deadlines.
+conf/infocom/RohrsB97:::Charles E. Rohrs::Randall A. Berry:::A Linear Control Approach to Explicit Rate Feedback in ATM Networks.
+conf/infocom/BandyopadhyayC03:::Seema Bandyopadhyay::Edward J. Coyle:::An Energy Efficient Hierarchical Clustering Algorithm for Wireless Sensor Networks.
+conf/infocom/HuaSW97:::Kien A. Hua::Simon Sheu::James Ze Wang:::Earthworm: A Network Memory Management Technique for Large-Scale Distributed Multimedia Applications.
+conf/infocom/Golestani90:::S. Jamaloddin Golestani:::Congestion-Free Transmission of Real-Time Traffic in Packet Networks.
+conf/infocom/VecianaCW94:::Gustavo de Veciana::Costas Courcoubetis::Jean C. Walrand:::Decoupling Bandwidths for Networks: A Decomposition Approach to Resource Management.
+conf/infocom/WangDW02:::Walter Wang::Libin Dong::Wayne Wolf:::A Distributed Switch Architecture with Dynamic Load-balancing and Parallel Input-Queued Crossbars for Terabit Switch Fabrics.
+conf/infocom/WangTB96:::Wei-Ping Wang::David Tipper::Sujata Banerjee:::A Simple Approximation for Modeling Nonstationary Queues.
+conf/infocom/MuralidharS84:::K. H. Muralidhar::Malur K. Sundareshan:::Adaptive Routing and Flow Control in Large Communication Networks: A Hierarchical Scheme for Multiobjective Optimization.
+conf/infocom/WangWZ01:::Yufei Wang::Zheng Wang::Leah Zhang:::Internet Traffic Engineering without Full Mesh Overlaying.
+conf/infocom/WangZS02:::Haining Wang::Danlu Zhang::Kang G. Shin:::Detecting SYN Flooding Attacks.
+conf/infocom/AgapieS01:::Mircea Agapie::Khosrow Sohraby:::Algorithmic Solution to Second-order Fluid Flow.
+conf/infocom/OhOW00:::Seong-Jun Oh::Tava Lennon Olsen::Kimberly M. Wasserman:::Distributed Power Control and Spreading Gain Allocation in CDMA Data Networks.
+conf/infocom/BrassilLMO94:::Jack Brassil::Steven H. Low::Nicholas F. Maxemchuk::Lawrence O'Gorman:::Electronic Marketing and Identification Techniques to Discourage Document Copying.
+conf/infocom/CaoWZ00:::Zhiruo Cao::Zheng Wang::Ellen W. Zegura:::Performance of Hashing-Based Schemes for Internet Load Balancing.
+conf/infocom/WongKM00:::Tina Wong::Randy H. Katz::Steven McCanne:::An Evaluation on Using Preference Clustering in Large-Scale Multicast Applications.
+conf/infocom/ByersLM99:::John W. Byers::Michael Luby::Michael Mitzenmacher:::Accessing Multiple Mirror Sites in Parallel: Using Tornado Codes to Speed Up Downloads.
+conf/infocom/AgrawalaS92:::Ashok K. Agrawala::Dheeraj Sanghi:::Design and Evaluation of an Adaptive Flow Control Scheme.
+conf/infocom/LevyMG00:::Hanoch Levy::Tsippy Mendelson::Gilad Goren:::Optimal Use of Virtual Paths for Connection Setup Reduction: The Single Link Problem.
+conf/infocom/PrabhakarUG01:::Balaji Prabhakar::Elif Uysal-Biyikoglu::Abbas El Gamal:::Energy-efficient Transmission over a Wireless Link via Lazy Packet Scheduling.
+conf/infocom/LakshmanMR97:::T. V. Lakshman::Partho Pratim Mishra::K. K. Ramakrishnan:::Transporting Compressed Video over ATM Networks with Explicit Rate Feedback Control.
+conf/infocom/BenkiranDKT89:::Amine Benkiran::Gérard Durand::Rolf Kraemer::Munir Tag:::A Communication System Architecture for the Office.
+conf/infocom/SubramaniamAS96:::Suresh Subramaniam::Murat Azizoglu::Arun K. Somani:::Connectivity and Sparse Wavelength Conversion in Wavelength-Routing Networks.
+conf/infocom/SubramaniamAS98:::Suresh Subramaniam::Murat Azizoglu::Arun K. Somani:::On the Optimal Placement of Wavelength Converters in Wavelength-Routed Networks.
+conf/infocom/Bar-NoyKS94:::Amotz Bar-Noy::Ilan Kessler::Moshe Sidi:::Mobile Users: To Uptdate or not to Update?
+conf/infocom/SenH96:::Arunabha Sen::Mark L. Huson:::A New Model for Scheduling Packet Radio Networks.
+conf/infocom/ChandraFKS97:::Prashant R. Chandra::Allan Fisher::Corey Kosak::Peter Steenkiste:::Experimental Evaluation of ATM Congestion Control Mechanisms.
+conf/infocom/BejeranoCN00:::Yigal Bejerano::Israel Cidon::Joseph Naor:::Efficient Handoff Rerouting Algorithms: A Competitive On-Line Algorithmic Approach.
+conf/infocom/TanY89:::Harry H. Tan::Tsun-Yee Yan:::A New Free-Access Collision Resolution Algorithm Based Connection Request Procedure for Land Mobile Satellite Systems.
+conf/infocom/Tang94:::K. Wendy Tang:::CayleyNet: A Multihop WDM-Based Lightwave Network.
+conf/infocom/SohR91:::Sieteng Soh::Suresh Rai:::Experimental Results on Preprocessing of Path/Cut Terms in Sum of Disjoint Products Technique.
+conf/infocom/ChanG96:::W. C. Chan::Evaggelos Geraniotis:::Near-Optimal Bandwidth Allocation for Multi-Media Virtual Circuit Switched Networks.
+conf/infocom/NishikidoOH92:::Jun Nishikido::Masayuki Okuno::Akira Himeno:::Optical Routing Control Using Coherent Pattern-Matching Circuit for Photonic Self-Routing Switch.
+conf/infocom/KeslassyM02:::Isaac Keslassy::Nick McKeown:::Maintaining Packet Order In Two-stage Switches.
+conf/infocom/ChenS96:::Geping Chen::Ioannis Stavrakakis:::ATM Traffic Management with Diversified Loss and Delay Requirements.
+conf/infocom/KrupczakAC96:::Bobby Krupczak::Mostafa H. Ammar::Kenneth L. Calvert:::Multi-Subsystem Protocol Architectures: Motivation and Experience with an Adapter-Based Approach.
+conf/infocom/ToddGB95:::Terence D. Todd::Adrian Grah::Oliver Barkovic:::Optical Local Area Networks (LANS) Using Wavelength-Selective Couplers.
+conf/infocom/CoppoDM92:::Paolo Coppo::Matteo D'Ambrosio::Riccardo Melen:::Optimal Cost/Performance Design of ATM Switches.
+conf/infocom/ChoiD02:::Wook Choi::Sajal K. Das:::A Proxy Based Indirect Routing Scheme for Ad Hoc Wireless Networks.
+conf/infocom/ChouL91:::Arr-Mien Chou::Victor O. K. Li:::Fair Spatial TDMA Channel Access Protocols for Multihop Radio Networks.
+conf/infocom/LazarOP95:::Aurel A. Lazar::Ariel Orda::Dimitrios E. Pendarakis:::Virtual Path Bandwidth Allocation in Multi-User Networks.
+conf/infocom/Pattavina90:::Achille Pattavina:::Design and Performance Evaluation of a Packet Switch for Broadband Central Offices.
+conf/infocom/CaceresDF02:::Ramón Cáceres::Nick G. Duffield::Timur Friedman:::Impromptu Measurement Infrastructures using RTP.
+conf/infocom/WangYFZF00:::Phil Wang::Yechiam Yemini::Danilo Florissi::John A. Zinky::Patricia Florissi:::Experimental QoS Performances of Multimedia Applications.
+conf/infocom/WooG94:::Miae Woo::Arif Ghafoor:::Multichannel Scheduling for Communication of Pre-orchestrated Multimedia Information.
+conf/infocom/WooL98:::Thomas Y. C. Woo::Simon S. Lam:::Designing a Distributed Authorization Service.
+conf/infocom/CieslakFSVWL89:::Randall A. Cieslak::Ayman Fawaz::Sonia Sachs::Pravin Varaiya::Jean C. Walrand::Albert Li:::The Programmable Network Prototyping System.
+conf/infocom/HicksMAGN99:::Michael W. Hicks::Jonathan T. Moore::D. Scott Alexander::Carl A. Gunter::Scott Nettles:::PLANet: An Active Internetwork.
+conf/infocom/FergusonNY89:::Donald F. Ferguson::Christos Nikolau::Yechiam Yemini:::An Economy for Flow Control in Computer Networks.
+conf/infocom/ShierBJL90:::D. R. Shier::E. Bibelnieks::J. P. Jarvis::J. R. Lakin:::Algorithms for Approximating the Performance of Multimode Systems.
+conf/infocom/GaneshLS01:::Ayalvadi J. Ganesh::Koenraad Laevens::Richard Steinberg:::Congestion Pricing and User Adaptation.
+conf/infocom/SivaramanR97:::Vijay Sivaraman::George N. Rouskas:::HiPeR-<i>l</i>: High Performance Reservation Protocol with <i>l</i>ook-Ahead for Broadcast WDM Networks.
+conf/infocom/YamamotoKTI97:::Miki Yamamoto::James F. Kurose::Donald F. Towsley::Hiromasa Ikeda:::A Delay Analysis of Sender-Initiated and Receiver-Initiated Reliable Multicast Protocols.
+conf/infocom/QiuPV01:::Lili Qiu::Venkata N. Padmanabhan::Geoffrey M. Voelker:::On the Placement of Web Server Replicas.
+conf/infocom/OliverB99:::Miquel Oliver::Joan Borràs:::Performance Evaluation of Variable Reservation Policies for Hand-Off Prioritization in Mobile Networks.
+conf/infocom/KumaranMMS00:::Krishnan Kumaran::Geoffrey Margrave::Debasis Mitra::Keith R. Stanley:::Novel Techniques for Design and Control of Generalized Processor Sharing Schedulers for Multiple QoS Classes.
+conf/infocom/Turner94:::Jonathan S. Turner:::An Optimal Non-blocking Multicast Virtual Circuit Switch.
+conf/infocom/SharifAP02:::Sadia Sharif::Adnan Aziz::Amit Prakash:::An O(log<sup>2</sup> <i>N</i>) parallel algorithm for output queuing.
+conf/infocom/FeeneyN01:::Laura Marie Feeney::Martin Nilsson:::Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment.
+conf/infocom/BreslauCFPS99:::Lee Breslau::Pei Cao::Li Fan::Graham Phillips::Scott Shenker:::Web Caching and Zipf-like Distributions: Evidence and Implications.
+conf/infocom/Hoschka93:::Philipp Hoschka:::Towards Tailoring Protocols to Application Specific Requirements.
+conf/infocom/SridharanGD03:::Ashwin Sridharan::Roch Guérin::Christophe Diot:::Achieving Near-Optimal Traffic Engineering Solutions for Current OSPF/IS-IS Networks.
+conf/infocom/YangH94:::Chung-Chuang Yang::Jau-Hsiung Huang:::A Real-Time Synchronization Model and Transport Protocol for Multimedia Applications.
+conf/infocom/Bar-DavidPR89:::Israel Bar-David::E. Plotnik::Raphael Rom:::An Efficient Multiple-Access Method for the Binary Adder Channel.
+conf/infocom/Kroner90:::Hans Kröner:::Comparative Performance Study of Space Priority Mechanisms for ATM Networks.
+conf/infocom/BonomiMP92:::Flavio Bonomi::Sergio Montagna::Roberto Paglino:::Busy Period Analysis for an ATM Switching Element Output Line.
+conf/infocom/LiebeherrS98:::Jörg Liebeherr::Bhupinder Singh Sethi:::A Scalable Control Topology for Multicast Communications.
+conf/infocom/KrunzSH95:::Marwan Krunz::Ron Sass::Herman D. Hughes:::Statistical Characteristics and Multiplexing of MPEG Streams.
+conf/infocom/YaronS93:::Opher Yaron::Moshe Sidi:::Calculating Performance Bounds in Communication Networks.
+conf/infocom/Maglaris84:::Basil S. Maglaris:::An Optimal Local Policy for Two-Level Adaptive Routing in Computer Networks.
+conf/infocom/BorellaM95:::Michael S. Borella::Biswanath Mukherjee:::Efficient Scheduling of Nonuniform Packet Traffic in a WDM/TDM Local Lightwave Network with Arbitrary Transceiver Tuning Latencies.
+conf/infocom/CardwellSA00:::Neal Cardwell::Stefan Savage::Thomas E. Anderson:::Modeling TCP Latency.
+conf/infocom/WhitingB98:::Phil Whiting::Sem C. Borst:::Performance Bounds for Dynamic Channel Assignment Schemes Operating under Varying Re-Use Constraints.
+conf/infocom/YajnikMKT99:::Maya Yajnik::Sue B. Moon::James F. Kurose::Donald F. Towsley:::Measurement and Modeling of the Temporal Dependence in Packet Loss.
+conf/infocom/TalukdarBA97:::Anup Kumar Talukdar::B. R. Badrinath::Arup Acharya:::On Accommodating Mobile Hosts in an Integrated Services Packet Network.
+conf/infocom/MyersDZ99:::Andy Myers::Peter A. Dinda::Hui Zhang:::Performance Characteristics of Mirror Servers on the Internet.
+conf/infocom/KimWL91:::Hyong S. Kim::Indra Widjaja::Alberto Leon-Garcia:::Performance of Output-Buffered Banyan Networks with Arbitrary Buffer Sizes.
+conf/infocom/BejeranoR03:::Yigal Bejerano::Rajeev Rastogi:::Robust Monitoring of Link Delays and Faults in IP Networks.
+conf/infocom/RasheedL96:::Yasser Rasheed::Alberto Leon-Garcia:::AAL1 with FEC for the Transport of CBR MPEG2 Video over ATM Networks.
+conf/infocom/MannersaloN02:::Petteri Mannersalo::Ilkka Norros:::GPS schedulers and Gaussian traffic.
+conf/infocom/KrunzM98:::Marwan Krunz::Armand M. Makowski:::A Source Model for VBR Video Traffic Based on M/G/infinity Input Processes.
+conf/infocom/BalaSB91:::Krishna Bala::Thomas E. Stern::Kavita Bala:::Algorithms for Routing in a Linear Lightwave Network.
+conf/infocom/KolarovH95:::Aleksandar Kolarov::Joseph Y. Hui:::Least Cost Routing in Multi-Service Networks: Part 2.
+conf/infocom/LiangH00:::Ben Liang::Zygmunt J. Haas:::Virtual Backbone Generation and Maintenance in Ad Hoc Network Mobility Management.
+conf/infocom/EstrinO91:::Deborah Estrin::Katia Obraczka:::Connectivity Database Overhead for Inter-Domain Policy Routing.
+conf/infocom/VuongC84:::Son T. Vuong::Donald D. Cowan:::UNISPEX - A Unified Model for Protocol Specification and Verification.
+conf/infocom/Saito99:::Hiroshi Saito:::Performance Evaluation and Dimensioning for AAL2CLAD.
+conf/infocom/KabatepeV94:::Mete Kabatepe::Kenneth S. Vastola:::Bandwidth Allocation in Fair Distributed Queue (FDQ) Networks.
+conf/infocom/El-GendyS02:::Mohamed A. El-Gendy::Kang G. Shin:::Equation-Based Packet Marking for Assured Forwarding Services.
+conf/infocom/ZeguraCB96:::Ellen W. Zegura::Kenneth L. Calvert::Samrat Bhattacharjee:::How to Model an Internetwork.
+conf/infocom/LeeMS02:::Jangwon Lee::Ravi Mazumdar::Ness B. Shroff:::Downlink Power Allocation for Multi-class CDMA Wireless Networks.
+conf/infocom/SantosOA89:::Jorge Santos::Javier Orozco::Omar Alimenti:::Performance Evaluation of Standard LAN Protocols in Time-Constrained Environments.
+conf/infocom/CourcoubetisDS99:::Costas Courcoubetis::Antonis Dimakis::George D. Stamoulis:::Traffic Equivalence and Substitution in a Multiplexer.
+conf/infocom/ParekhG92:::Abhay K. Parekh::Robert G. Gallager:::A Generalized Processor Sharing Approach to Flow Control in Integrated Services Networks - The Single Node Case.
+conf/infocom/GarrettL90:::Mark W. Garrett::San-qi Li:::A Study of Slot Reuse in Dual Bus Multiple Access Networks.
+conf/infocom/RexfordGB96:::Jennifer Rexford::Albert G. Greenberg::Flavio Bonomi:::Hardware-Efficient Fair Queueing Architectures for High-Speed Networks.
+conf/infocom/TassiulasS02:::Leandros Tassiulas::Saswati Sarkar:::Maxmin fair scheduling in wireless networks.
+conf/infocom/Siebenhaar95:::Rainer Siebenhaar:::Multiservice Call Blocking Approximations for Virtual Path Based ATM Networks with CBR and VBR Traffic.
+conf/infocom/ShroffS94:::Ness B. Shroff::Mischa Schwartz:::Video Modeling within Networks using Deterministic Smoothing at the Source.
+conf/infocom/GopalK89:::Prabandham M. Gopal::Bharath K. Kadaba:::Analysis of a Class of Distributed Directory Algorithms.
+conf/infocom/KumaranM01:::Krishnan Kumaran::Michel Mandjes:::Multiplexing Regulated Traffic Streams: Design and Performance.
+conf/infocom/KodialamL01a:::Murali S. Kodialam::T. V. Lakshman:::Dynamic Routing of Locally Restorable Bandwidth Guaranteed Tunnels Using Aggregated Link Usage Information.
+conf/infocom/ZellF91:::Bill Zell::Peter C. Fetterolf:::An Approach to Generating Network Requirements.
+conf/infocom/LinC94a:::Tsau Young Lin::Y. C. Chen:::A Congestion Control Approach for LAN/MAN Interconnection via ATM.
+conf/infocom/GerstelLS99:::Ornan Ori Gerstel::Philip Lin::Galen H. Sasaki:::Combined WDM and SONET Network Design.
+conf/infocom/LinS90a:::Arthur Y. M. Lin::John A. Silvester:::Fixed-Node Routing Architecture and Its Performance in ATM Networks.
+conf/infocom/GerstelRS97:::Ornan Ori Gerstel::Rajiv Ramaswami::Galen H. Sasaki:::Fault Tolerant Multiwavelength Optical Rings with Limited Wavelenght Conversion.
+conf/infocom/MichelNRZ00:::B. Scott Michel::Konstantinos Nikoloudakis::Peter L. Reiher::Lixia Zhang:::URL Forwarding and Compression in Adaptive Web Caching.
+conf/infocom/Sreenan94:::Cormac J. Sreenan:::A Service Oriented Approach to Continuous Media Synchronization.
+conf/infocom/LiuLJ94:::Guoping Liu::Kyungsook Y. Lee::Harry F. Jordan:::Time Division Multiplexed de Bruijn Network and ShuffleNet for Optical Communications.
+conf/infocom/CorteLS95:::Aurelio La Corte::Alfio Lombardo::Giovanni Schembra:::Modeling Superposition of ON-OFF Correlated Traffic Sources in Multimedia Applications.
+conf/infocom/CorteLS96:::Aurelio La Corte::Alfio Lombardo::Giovanni Schembra:::Skew Performance Evaluation in an ATM Multimedia Multiplexer.
+conf/infocom/ElbyA93:::Stuart D. Elby::Anthony S. Acampora:::Wavelength-Based Cell Switching in ATM Multihop Optical Networks.

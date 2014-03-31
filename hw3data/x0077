@@ -1,0 +1,200 @@
+conf/iwvf/ImiyaK01:::Atsushi Imiya::Kazuhiko Kawamoto:::Shape Reconstruction from an Image Sequence.
+conf/iwvf/BorgeforsS01:::Gunilla Borgefors::Stina Svensson:::Optimal Local Distances for Distance Transforms in 3D Using an Extended Neighbourhood.
+conf/iwvf/NagyZFLNK01:::George Nagy::Tong Zhang::W. R. Franklin::Eric Landis::Edwin Nagy::Denis T. Keane:::Volume and Surface Area Distributions of Cracks in Concrete.
+conf/iwvf/Bruckstein01:::Alfred M. Bruckstein:::Invariant Recognition and Processing of Planar Shapes.
+conf/iwvf/NavaF01:::Fernando Pérez Nava::Antonio Falcón-Martel:::Dynamic Models for Wavelet Representations of Shape.
+conf/iwvf/NystromBS01:::Ingela Nyström::Gabriella Sanniti di Baja::Stina Svensson:::Curve Skeletonization by Junction Detection in Surface Skeletons.
+conf/iwvf/LeymarieK01:::Frederic F. Leymarie::Benjamin B. Kimia:::The Shock Scaffold for Representing 3D Shape.
+conf/jmlc/Frey03:::Thomas M. Frey:::Architectural Aspects of a Thread-Safe Graphical Component System Based on Aos.
+conf/jmlc/Wirth03:::Niklaus Wirth:::The Essence of Programming Languages.
+conf/jmlc/HirnschrottKS03:::Ulrich Hirnschrott::Andreas Krall::Bernhard Scholz:::Graph Coloring vs. Optimal Register Allocation for Optimizing Compilers.
+conf/jmlc/Weck97:::Wolfgang Weck:::An Abstract Data Type for Freezable Lists and DAGs.
+conf/jmlc/Lalis00:::Spyros Lalis:::A Design Pattern and Programming Framework for Interactive Metacomputing.
+conf/jmlc/Knasmuller00:::Markus Knasmüller:::On Adding a Query Language to a Persistent Object System.
+conf/jmlc/Eisenecker97:::Ulrich W. Eisenecker:::Generative Programming (GP) with C++.
+conf/jmlc/BlumlingerDHZ03:::Karl Blümlinger::Christof Dallermassl::Heimo Haub::Philipp Zambelli:::Object Life-Cycle Management in a Highly Flexible Middleware System.
+conf/jmlc/Steindl97:::Christoph Steindl:::Reflection in Oberon.
+conf/jmlc/Gough97:::K. John Gough:::Multi-language, Multi-target Compiler Development: Evolution of the Gardens Point Compiler Project.
+conf/kcap/MeraliD01:::Yasmin Merali::John Davies:::Knowledge capture and utilization in virtual communities.
+conf/kcap/VegaCFG01:::Julio César Arpírez Vega::Óscar Corcho::Mariano Fernández-López::Asunción Gómez-Pérez:::WebODE: a scalable workbench for ontological engineering.
+conf/kcap/GarlandRR01:::Andrew Garland::Kathy Ryall::Charles Rich:::Learning hierarchical task models by defining and refining examples.
+conf/kcap/ClarkTBPCRTMGHR01:::Peter Clark::John Thompson::Ken Barker::Bruce Porter::Vinay K. Chaudhri::Andres Rodriguez::Jérôme Thoméré::Sunil Mishra::Yolanda Gil::Patrick J. Hayes::Thomas Reichherzer:::Knowledge entry as the graphical assembly of components.
+conf/kcap/RectorWRR01:::Alan L. Rector::Chris Wroe::Jeremy Rogers::Angus Roberts:::Untangling taxonomies and relationships: personal and practical problems in loosely coupled development of large ontologies.
+conf/kcap/MiddletonRS01:::Stuart E. Middleton::David De Roure::Nigel Shadbolt:::Capturing knowledge of user preferences: ontologies in recommender systems.
+conf/kbse/RoachB02:::Steve Roach::Jeffrey Van Baalen:::Experience Report on Automated Procedure Construction for Deductive Synthesis.
+conf/kbse/MorzentiPM98:::Angelo Morzenti::Pierluigi San Pietro::Sandro Morasca:::A Tool for Automated System Analysis based on Modular Specifications.
+conf/kbse/YeF01:::Yunwen Ye::Gerhard Fischer:::Context-Aware Browsing of Large Component Repositories.
+conf/kbse/Liao91:::Yingsha Liao:::Requirement Directed Automatic Instrumentation Generation for Program Monitoring and Measuring.
+conf/kbse/Welty97:::Christopher A. Welty:::Augmenting Abstract Syntax Trees for Program Understanding.
+conf/kbse/KraanB95:::Ina Kraan::Peter Baumann:::Logical Frameworks as a Basis for Verification Tools: A Case Study.
+conf/kbse/BoseM99:::Prasanta K. Bose::Mark G. Matthews:::NAVCo: Negotiation-based Adaptive View Coordination.
+conf/kbse/TanL02:::Hee Beng Kuan Tan::Weihong Li:::Systematic Bridging the Gap between Requirements and OO Design.
+conf/kbse/HallinGB01:::Michael Hallin::Paul Grünbacher::Stefan Biffl:::Tailoring a COTS Group Support System for Software Requirements Inspection.
+conf/kbse/GirgensohnRS94:::Andreas Girgensohn::David F. Redmiles::Frank M. Shipman III:::Agent-Based Support for Communication Between Developers and Users in Software Design.
+conf/kbse/KetfiBC02:::Abdelmadjid Ketfi::Noureddine Belkhatir::Pierre-Yves Cunin:::Adapting Applications on the Fly.
+conf/kbse/El-FakihYBH00:::Khaled El-Fakih::Hirozumi Yamaguchi::Gregor von Bochmann::Teruo Higashino:::Automatic Derivation of Petri Net Based Distributed Specification with Optimal Allocation of Resources.
+conf/kbse/LindenV95:::Greger Lindén::A. Inkeri Verkamo:::An Interface Between Different Software Development Environments.
+conf/kbse/Stirewalt99:::Kurt Stirewalt:::Separating Concerns in Direct Manipulation User Interfaces.
+conf/kbse/ChilenskiN94:::John Chilenski::Philip Newcomb:::Formal Specification Tools for Test Coverage Analysis.
+conf/kbse/StarkI99:::Jamie Stark::Andrew Ireland:::Towards Automatic Imperative Program Synthesis Through Proof Planning.
+conf/kbse/MaidenS91:::Neil A. M. Maiden::Alistair G. Sutcliffe:::Analogical Matching for Specification Reuse.
+conf/kbse/PenixBA95:::John Penix::Phillip Baraona::Perry Alexander:::Classification and Retrieval of Reusable Components Using Semantic Features.
+conf/kbse/HeinemanKBB91:::George T. Heineman::Gail E. Kaiser::Naser S. Barghouti::Israel Ben-Shaul:::Rule Chaining in MARVEL: Dynamic Binding of Parameters.
+conf/kbse/HutterS01:::Dieter Hutter::Axel Schairer:::Towards an Evolutionary Formal Software Development.
+conf/kbse/Krustev99:::Dimitur Nikolaev Krustev:::Software Test Generation Using Refinement Types.
+conf/kbse/BaudryFJT02:::Benoit Baudry::Franck Fleurey::Jean-Marc Jézéquel::Yves Le Traon:::Automatic Test Cases Optimization Using a Bacteriological Adaptation Model: Application to .NET Component.
+conf/kbse/McCluskeyW98:::T. L. McCluskey::Margaret Mary West:::Towards the Automated Debugging and Maintenance of Logic-based Requirements Models.
+conf/kbse/LongHS01:::Brad Long::Daniel Hoffman::Paul A. Strooper:::A Concurrency Test Tool for Java Monitors.
+conf/kbse/BlackOY00:::Paul E. Black::Vadim Okun::Yaacov Yesha:::Mutation Operators for Specifications.
+conf/kbse/RosuW02:::Grigore Rosu::Jon Whittle:::Towards Certifying Domain-Specific Properties of Synthesized Code.
+conf/kbse/GannodCC98:::Gerald C. Gannod::Yonghao Chen::Betty H. C. Cheng:::An Automated Approach for Supporting Software Reuse via Reverse Engineering.
+conf/kbse/Madachy94:::Raymond J. Madachy:::Knowledge-Based Risk Assessment and Cost Estimation.
+conf/kbse/LowryL95:::David D. Lowry::Michael R. Lowry:::Legal Issues on Knowledge-Based Software Engineering.
+conf/kbse/RoscaGWRMF95:::Daniela Rosca::Sol J. Greenspan::J. Christian Wild::Howard B. Reubenstein::Kurt Maly::Mark Feblowitz:::Application of a Decision Support Mechanism to the Business Rules Lifecycle.
+conf/kbse/TerveenS94:::Loren G. Terveen::Peter G. Selfridge:::Intelligent Assistance for Software Construction: A Case Study.
+conf/kbse/OHalloranS99:::Colin O'Halloran::A. Smith:::Verification of Picture Generated Code.
+conf/kbse/Pecheur97:::Charles Pecheur:::Specification and Verification of the Co4 Distributed Knowledge System using LOTOS.
+conf/kbse/Walenstein98:::Andrew Walenstein:::Developing the Designer's Toolkit with Software Comprehension Models.
+conf/kbse/BastenB01:::Twan Basten::Dragan Bosnacki:::Enhancing Partial-Order Reduction via Process Clustering.
+conf/kbse/SassoB95:::William C. Sasso::Kevin Benner:::An Empirical Evaluation of KBSA Technology.
+conf/kbse/BousquetZ99:::Lydie du Bousquet::N. Zuanon:::An Overview of Lutess: A Specification-based Tool for Testing Synchronous Software.
+conf/kbse/CabralD91:::Gui Cabral::Michael DeBellis:::Domain-Specific Representations in the KBSA Concept Demo.
+conf/kbse/Dimitrakos98:::Theodosis Dimitrakos:::Parameterising (Algebraic) Specifications on Diagrams.
+conf/jsai/Okada01:::Takashi Okada:::Medical Knowledge Discovery on the Meningoencephalitis Diagnosis Studied by the Cascade Model.
+conf/jsai/LinL01:::Tsau Young Lin::Eric Louie:::Association Rules in Semantically Rich Relations: Granular Computing Approach.
+conf/jsai/Washio01:::Takashi Washio:::JSAI KDD Challenge 2001: JKDD01.
+conf/jsai/Ohsawa01:::Yukio Ohsawa:::The Scope of Chance Discovery.
+conf/jsai/NguyenSS01:::Hung Son Nguyen::Andrzej Skowron::Marcin S. Szczuka:::Analysis of Image Sequences for the Unmanned Aerial Vehicle.
+conf/jsai/HatazawaAKTY01:::Hiromitsu Hatazawa::Hidenao Abe::Mao Komori::Yoshiaki Tachibana::Takahira Yamaguchi:::Knowledge Discovery Support from a Meningoencephalitis Dataset Using an Automatic Composition Tool for Inductive Applications.
+conf/jsai/Nguyen01:::Ngoc Thanh Nguyen:::Susceptibility to Consensus of Conflict Profiles.
+conf/jsai/KurahashiT01:::Setsuya Kurahashi::Takao Terano:::Analyzing Norm Emergence in Communal Sharing via Agent-Based Simulation.
+conf/jsai/MuraiNS01:::Tetsuya Murai::Michinori Nakata::Yoshiharu Sato:::A Note on Filtration and Granular Reasoning.
+conf/jsai/Kanasugi01:::Akinori Kanasugi:::A Design of Architecture for Rough Set Processor.
+conf/kivs/Perkins99:::Charles E. Perkins:::Current Status of Mobile Internet Communication and Services (Abstract).
+conf/kivs/HeidtmannKSWZ01:::Klaus D. Heidtmann::J. Kerse::T. Suchanek::Bernd E. Wolfinger::Martin Zaddach:::Fehlertolerante Videokommunikation über verlustbehaftete Paketvermittlungsnetze.
+conf/kivs/Schindler83:::Sigram Schindler:::Die Anwendungsbereiche der neuen Iso-Standards der Kommunikationstechnik und Büroautomation - Zeitpläne, Wechselwirkungen, Perspektiven.
+conf/kivs/BrucknerM83:::Georg Bruckner::Herbert Motschnig:::Spezifikation von Datenkommunikationsprotokollen mittels der Datenflusssprache EDDA.
+conf/kivs/ZitterbartST93:::Martina Zitterbart::Burkhard Stiller::Ahmed N. Tantawy:::Application-Driven Flexible Protocol Configuration.
+conf/kivs/Hinz01:::Ralf Hinz:::Verteilte Kommunikation in der Praxis: Ein neuer Verkehrstelematik-Dienst "Parken und Leiten".
+conf/kivs/HartensteinSKKN01:::Hannes Hartenstein::Andreas Schrader::Andreas Kassler::Michael Krautgärtner::Christoph Niedermeier:::High Quality Mobile Communication.
+conf/kivs/Hultzsch99:::Hagen Hultzsch:::Neue Herausforderungen in den TIMES-Märkten (Zusammenfassung).
+conf/kivs/Schragl83:::Rudolf Schragl:::Fundamental Aspects for the Definition of Protocols.
+conf/kivs/Heidtmann87:::Klaus D. Heidtmann:::Hierarchische Ringnetzarchitekturen.
+conf/kivs/SchindlerAFSS79:::Sigram Schindler::D. Altenkrüger::U. Flasche::J. Schulze::M. Steinacker:::The OSA Project - Design and Formal Specification of an X.25 Based Open Transport Layer and its Protocols.
+conf/kivs/Egloff85:::Peter Egloff:::Die Graphischen Protokolle im Deutschen Forschungsnetz DFN.
+conf/kivs/HorakT97:::Monika Horak::Markus Trommer:::Dynamisches Sicherheitmanagement mit Hilfe regelbasierter Vorverarbeitungsprozesse.
+conf/kivs/Gonschorek79:::Jörg Gonschorek:::Die Architektur des Siemens Datenverarbeitungssystems TRANSDATA im Vergleich zum ISO-Referenz-Modell.
+conf/kivs/Wirag99:::Stefan Wirag:::Adaptive Scheduling of Multimedia Documents.
+conf/kivs/FreytagSZ89:::Claus Freytag::Martin Suhrmann::Wolfgang Zimmer:::Virtual Circuit Switching.
+conf/kivs/SchleisiekHWT87:::Klaus-Peter Schleisiek::Reinhold Haux::Alfred Winter::Thomas Tolxdorff:::Integration der heterogenen Anwendersysteme im Klinikum der RWTH Aachen mit Hilfe eines lokalen Netzes und eines Datenbank-Rechners.
+conf/kivs/Eberspacher93:::Markus Eberspächer:::Approximative Analyse der Transferzeit in ATM-Netzen.
+conf/kivs/Handler76:::Wolfgang Händler:::Rechnerverbund: Motivation, Möglichkeiten und Gefahren.
+conf/kivs/Forster87:::Cora Förster:::Task Setup Service for Distributed Systems.
+conf/kivs/Kleinke83:::G. Kleinke:::Das diensteintegrierende digitale Fernmeldenetz (ISDN) - Ein neues Leistungsangebot der Kommunikationstechnik.
+conf/kivs/Pawlita91:::Peter F. Pawlita:::Computergestütztes Telefonieren- ein aussichtsreiches Konzept verteilter DVA-PBX-Systeme.
+conf/kivs/BullingerFHZ84:::Hans-Jörg Bullinger::Klaus-Peter Fähnrich::Karl-Heinz Hanne::Jürgen Ziegler:::Benutzerschnittstellen an multifunktionalen Büroarbeitsplätzen.
+conf/kivs/Rupprecht89:::Gabriele Rupprecht:::Modellierung und Leistungsuntersuchung von LDDI und FDDI.
+conf/kivs/BoellE79:::Hans-Peter Boell::Georg Ebert:::Vergleich der Struktur des CDAEG-Netzes mit dem ISO-Referenzmodell.
+conf/kivs/Popescu-ZeletinW83:::Radu Popescu-Zeletin::Herbert Weber:::Logical Architecture for D-DBMS in the ISO/OSI Framework.
+conf/kivs/NochtaABFA01:::Z. Nochta::G. Augustin::M. Becker::M. Friedmann::Sebastian Abeck:::Sicherheitskonzept für eine durch Kunden steuerbare Dienstmanagement-Architektur.
+conf/kivs/BohnSW91:::Volker Bohn::Ruth Scheel::Brian Worden:::Rechnergestützte Administration von heterogenen Netzen-Eine Anforderungsanalyse.
+conf/kivs/Zeltwanger87:::Herbert Zeltwanger:::MAP als Rückgrat in der Fertigungsindustrie für den Verbund von Systemen mit verschiedener Architektur.
+conf/kivs/DonnerH85:::Herbert Donner::Ulrich Hartmann:::SIEMENS-Architektur offener Netze für die Bürokommunikation.
+conf/kivs/Rothermel85:::Kurt Rothermel:::Communication Support for Distributed Database Systems.
+conf/kivs/Pujolle83:::Guy Pujolle:::An Architecture for Digital Network Service Integration.
+conf/kivs/Mitschele-ThielK95:::Andreas Mitschele-Thiel::Bernd Kolodziejczyk:::Die Realisierung der Manufacturing Message Specification mit der DSPL-Entwicklungsumgebung.
+conf/kivs/HellmichW89:::Th. Hellmich::Bernhard Walke:::An Integrated Services Management Protocol for a Short-Range Mobile Radio Network Using Multiple Access.
+conf/kivs/Hofmann93:::Bernd Hofmann:::Integration von Darstellungs- und Kommunikationssteuerungsschicht in Estelle.
+conf/kivs/HubelKS91:::Christoph Hübel::Wolfgang Käfer::Bernd Sutter:::Ein Client/Server-System als Basiskomponente für ein kooperierendes Datenbanksystem.
+conf/kivs/Wosnitza83:::Lothar Wosnitza:::Abstrakte Datentypen als Grundlage für OSI-Spezifikationen.
+conf/kivs/Suppan-Borowka87:::Jürgen Suppan-Borowka:::Ein neues, hybrides Medienzugangsverfahren zur Verbesserung des Leistungsverhaltens des MAP-Backbones.
+conf/kivs/ZhouZ87:::Songnian Zhou::Roberto Zicari:::Object Management in Local Distributed Systems.
+conf/kivs/Kubitz81:::M. Kubitz:::HERMES Datenkommunikationssytem für die Europäischen Bahnen.
+conf/kivs/FeilS01:::Volker Feil::Matthias Stümpfle:::Management-Aufgaben bei komponentenbasierten verteilten Systemen im Fahrzeug-Telematikbereich.
+conf/kivs/Nussler89:::Klaus E. Nüßler:::Planning and Performance of the DATEX-P Network.
+conf/kivs/BullingerF85:::Hans-Jörg Bullinger::Klaus-Peter Fähnrich:::Perspektiven des Einsatzes und der Entwicklung integrierter Bürosysteme.
+conf/kivs/Stumpfle95:::Matthias Stümpfle:::Beschreibung von Kommunikationsszenarien in heterogenen automativen Systemen.
+conf/kivs/MalowaniecS89:::K. T. Malowaniec::R. Spurk:::Das verteilte 'Polyknoten'-System POOL.
+conf/kivs/Abendroth01:::Dirk Abendroth:::Service Separation and QoS in ATM Networks: The RCC+ Multiplexer.
+conf/kivs/HubnerR93:::Uwe Hübner::Frank Richter:::Charakteristika neuer E-Mail-Dienste und -Architekturen.
+conf/kivs/THooft89:::Guy A. T'Hooft:::Four Operators to Express Time Constraints in a Process Algebra.
+conf/kivs/Hogrefe91:::Dieter Hogrefe:::Konformitätstesten basierend auf formalen Spezifikationen.
+conf/kivs/Svobodova85:::Liba Svobodova:::Client/Server Model of Distributed Processing.
+conf/kivs/Davids95:::Peter Davids:::Transportprotokolle für Client-Server Applikationen - Vergleichende Messungen mit TCP und XTP.
+conf/kivs/DiersteinGGV76:::Rüdiger Dierstein::Johannes Gersing::Gerhard Glas::Fernando Vildosola:::Ein Betriebssystem mit Ringstruktur für Kommunikationsrechner in Rechnernetzen.
+conf/kivs/Sausen87:::Frank Sausen:::Das ISO-Transportprotokoll in Systemen mit Satelitenkanälen.
+conf/kivs/Gliss87:::Hans Gliss:::Chancen, Risiken und Einwirkungsmöglichkeiten auf die Entwicklung.
+conf/kivs/Hanle76:::Jürgen Hänle:::Simulation of the Protocols of the GMD-Net.
+conf/kivs/Hughes87:::Larry Hughes:::Multicast Gateway Design Considerations.
+conf/kivs/Jessen89:::Eike Jessen:::Verteilte DV-Versorgung für Forschung und Lehre.
+conf/kivs/RudolfRI97:::Steffen Rudolf::Klaus Richter::Klaus Irmscher:::Temporäre Einbindung mobiler Clienten und Optimierung der Dienstauswahl in einem verteilten System.
+conf/lacl/Ogata98:::Norihiro Ogata:::A Revision System of Circular Objects and Its Applications to Dynamic Semantics of Dialogues.
+conf/lacl/StolzenburgHKV96:::Frieder Stolzenburg::Stephan Höhne::Ulrich Koch::Martin Volk:::Constraint Logic Programming for Computational Linguistics.
+conf/lacl/Rogers96:::James Rogers:::Strict LT<sub>2</sub> : Regular : : Local : Recognizable.
+conf/lacl/Coscoy96:::Yann Coscoy:::A Natural Language Explanation for Formal Proofs.
+conf/lacl/FerroAC97:::Manuel Vilares Ferro::Miguel A. Alonso::David Cabrero:::An Opterational Model for Parsing Definite Clause Grammars with Infinite Terms.
+conf/lacl/Lecomte98:::Alain Lecomte:::Categorial Minimalism.
+conf/lacl/BargelliL01:::Daniele Bargelli::Joachim Lambek:::An Algebraic Approach to French Sentence Structure.
+conf/lacl/MonzR98:::Christof Monz::Maarten de Rijke:::Deductions with Meaning.
+conf/lcpc/DuesterwaldGS92:::Evelyn Duesterwald::Rajiv Gupta::Mary Lou Soffa:::Distributed Slicing and Partial Re-execution for Distributed Programs.
+conf/lcpc/HoeflingerP00:::Jay Hoeflinger::Yunheung Paek:::A Comparative Analysis of Dependence Testing Mechanisms.
+conf/lcpc/GaoN91:::Guang R. Gao::Qi Ning:::Loop Storage Optimization for Dataflow Machines.
+conf/lcpc/PlevyakC95:::John Plevyak::Andrew A. Chien:::Type Directed Cloning for Object-Oriented Programs.
+conf/lcpc/HanT00:::Hwansoo Han::Chau-Wen Tseng:::Improving Locality for Adaptive Irregular Scientific Codes.
+conf/lcpc/HanT98:::Hwansoo Han::Chau-Wen Tseng:::Improving Compiler and Run-Time Support for Irregular Reductions Using Local Writes.
+conf/lcpc/CheathamFS95:::Thomas Cheatham::Amr F. Fahmy::Dan C. Stefanescu:::General Purpose Optimization Technology.
+conf/lcpc/JuD91:::Y.-L. Ju::Henry G. Dietz:::Reduction of Cache Coherence Overhead by Compiler Data Layout and Loop Transformation.
+conf/lcpc/BhandarkarK01:::Milind A. Bhandarkar::Laxmikant V. Kalé:::An Interface Model for Parallel Components.
+conf/lcpc/LinS92:::Calvin Lin::Lawrence Snyder:::Data Ensemles in Orca C.
+conf/lcpc/LinS94:::Calvin Lin::Lawrence Snyder:::SIMPLE Performance Results in ZPL.
+conf/lcpc/GirkarP91:::Milind Girkar::Constantine D. Polychronopoulos:::Optimization of Data/Control Conditions in Task Graphs.
+conf/lcpc/NovackN94:::Steven Novack::Alexandru Nicolau:::Mutation Scheduling: A Unified Approach to Compiling for Fine-Grain Parallelism.
+conf/lcpc/SekiguchiH94:::Satoshi Sekiguchi::Kei Hiraki:::Automatic Reduction Tree Generation for Fine-Grain Parallel Architectures when Iteration Count is Unknown.
+conf/lcpc/Mellor-CrummeyA97:::John M. Mellor-Crummey::Vikram S. Adve:::Simplifying Control Flow in Compiler-Generated Parallel Code.
+conf/lcpc/NetzerM92:::Robert H. B. Netzer::Barton P. Miller:::Experience with Techniques for Refining Data Race Detection.
+conf/lcpc/JoishaB00:::Pramod G. Joisha::Prithviraj Banerjee:::Exploiting Ownership Sets in HPF.
+conf/lcpc/SathyanathanL96:::Patrick W. Sathyanathan::Monica S. Lam:::Context-Sensitive Interprocedural Analysis in the Presence of Dynamic Aliasing.
+conf/lcpc/Kremer97:::Ulrich Kremer:::Automatic Data Layout with Read-Only Replication and Memory Constraints.
+conf/lcpc/HiranandaniKKKT91:::Seema Hiranandani::Ken Kennedy::Charles Koelbel::Ulrich Kremer::Chau-Wen Tseng:::An Overview of the Fortran D Programming System.
+conf/lcpc/SehrKP93:::David C. Sehr::Laxmikant V. Kalé::David A. Padua:::Loop Transformations for Prolog Programs.
+conf/lcpc/KasaharaHMOFN91:::Hironori Kasahara::Hiroki Honda::A. Mogi::A. Ogura::K. Fujiwara::Seinosuke Narita:::A Multi-Grain Parallelizing Compilation Scheme for OSCAR (Optimally Scheduled Advanced Multiprocessor).
+conf/lcpc/PalermoB95:::Daniel J. Palermo::Prithviraj Banerjee:::Automatic Selection of Dynamic Data Partitioning Schemes for Distributed-Memory Multicomputers.
+conf/lcpc/KimPE00:::Seon Wook Kim::Insung Park::Rudolf Eigenmann:::A Performance Advisor Tool for Shared-Memory Parallel Programming.
+conf/lcpc/ChamberlainCS97:::Bradford L. Chamberlain::Sung-Eun Choi::Lawrence Snyder:::A Compiler Abstraction for Machine Independent Parallel Communication Generation.
+conf/lcpc/GuptaM97:::Manish Gupta::Samuel P. Midkiff:::A Compiler for the IBM Scalable Shared Memory Project Machine.
+conf/lcpc/GaoOST92:::Guang R. Gao::R. Olsen::Vivek Sarkar::Radhika Thekkath:::Collective Loop Fusion for Array Contraction.
+conf/lcpc/BauKKPS94:::David Bau::Induprakas Kodukula::Vladimir Kotlyar::Keshav Pingali::Paul Stodghill:::Solving Alignment Using Elementary Linear Algebra.
+conf/lcpc/BodinMCR99:::François Bodin::Y. Mével::Stéphane Chauveau::Erven Rohou:::Porting an Ocean Code to MPI Using TSF.
+conf/lcpc/LiIHI98:::Dingchao Li::Yuji Iwahori::Tatsuya Hayashi::Naohiro Ishii:::A Spill Code Placement Framework for Code Scheduling.
+conf/lcpc/ZhuHP01:::Jiajing Zhu::Jay Hoeflinger::David A. Padua:::Compiling for a Hybrid Programming Model Using the LMAD Representation.
+conf/lcpc/FieldHK00:::A. J. Field::Thomas L. Hansen::Paul H. J. Kelly:::Run-Time Fusion of MPI Calls in a Parallel C++ Library.
+conf/lcpc/DietzM00:::Henry G. Dietz::Timothy Mattox:::Compiler Techniques for Flat Neighborhood Networks.
+conf/lcpc/ArvindL00:::D. K. Arvind::T. A. Lewis:::Safe Approximation of Data Dependencies in Pointer-Based Structures.
+conf/lcpc/ArvindL97:::D. K. Arvind::T. A. Lewis:::Static Analysis of Recursive Data Structures.
+conf/lcpc/Nikhil93:::Rishiyur S. Nikhil:::A Multithreaded Implementation of Id using P-RISC Graphs.
+conf/lcpc/ShefflerSPGC95:::Thomas J. Sheffler::Robert Schreiber::William Pugh::John R. Gilbert::Siddhartha Chatterjee:::Efficient Distribution Analysis via Graph Contraction.
+conf/lcpc/CorberaAZ00:::Francisco Corbera::Rafael Asenjo::Emilio L. Zapata:::Accurate Shape Analysis for Recursive Data Structures.
+conf/lcpc/BodinGM94:::François Bodin::Elana D. Granston::Thierry Montaut:::Evaluating Two Loop Transformations for Reducing Multiple Writer False Sharing.
+conf/lcpc/HuangH97:::Tsung-Chuan Huang::Po-Hsueh Hsu:::The SPNT Test: A New Technology for Run-Time Speculative Parallelization of Loops.
+conf/lcpc/Dinechin96:::Benoît Dupont de Dinechin:::Parametric Computation of Margins and of Minimum Cumulative Register Lifetime Dates.
+conf/lcpc/Dinechin97:::Benoît Dupont de Dinechin:::A Unified Software Pipeline Construction Scheme for Modulo Scheduled Loops.
+conf/lcpc/TjiangWLPH91:::Steven W. K. Tjiang::Michael E. Wolf::Monica S. Lam::K. Pieper::John L. Hennessy:::Integrating Scalar Optimization and Parallelization.
+conf/lcpc/YelonK95:::Josh Yelon::Laxmikant V. Kalé:::Agents: An Undistorted Representation of Problem Structure.
+conf/lcpc/ArnoldHR00:::Matthew Arnold::Michael Hind::Barbara G. Ryder:::An Empirical Study of Selective Optimization.
+conf/lcpc/TrabadoZ97:::Guillermo P. Trabado::Emilio L. Zapata:::Data Parallel Language Extensions for Exploiting Locality in Irregular Problems.
+conf/lcpc/AriolaA91:::Zena M. Ariola::Arvind:::Compilation of Id.
+conf/ldpm/Foo79:::Norman Y. Foo:::Algebraic Specifications and Transition Graphs.
+conf/ldpm/Follett79:::Ria Follett:::Describing the Complete Effects of Programs.
+conf/ldrs/Love77:::Tom Love:::An Experimental Investigation of the Effect of Program Structure on Program Understanding.
+conf/ldrs/Herriot77:::Robert G. Herriot:::Towards the Ideal Programming Language.
+conf/lfcs/Stewart92:::Iain A. Stewart:::Logical Characterizations of Bounded Query Classes I: Logspace Oracle Machines.
+conf/lfcs/HoekLM94:::Wiebe van der Hoek::Bernd van Linder::John-Jules Ch. Meyer:::A Logic of Capabilities.
+conf/lfcs/Benton92:::P. N. Benton:::Strictness Logic and Polymorphic Invariance.
+conf/lfcs/Mycroft92:::Alan Mycroft:::Incremental Polymorphic Type Checking with Update.
+conf/lfcs/Andersen94:::Henrik Reif Andersen:::On Model Checking Infinite-State Systems.
+conf/lfcs/Krupski97:::Vladimir Krupski:::Operational Logic of Proofs with Functionality Condition on Proof Predicate.
+conf/lfcs/Dekhtyar94:::Alex Dekhtyar:::Multiplicative Linear Logic for Resource Transformation Nets.
+conf/lfcs/Tarasyuk97:::Igor V. Tarasyuk:::Back-Forth Equivalences for Design of Concurrent Systems.
+conf/lfcs/Tandetnik97:::Igor L. Tandetnik:::Unification of Terms with Term-Indexed Variables.
+conf/lfcs/Tiuryn92:::Jerzy Tiuryn:::Solving Equational Constraints in Polymorphic Types.
+conf/lfcs/Cerans92:::Karlis Cerans:::Feasibility of Finite and Infinite Paths in Data Dependent Programs.

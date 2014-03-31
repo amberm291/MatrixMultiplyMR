@@ -1,0 +1,200 @@
+conf/ssr/VoasPMM95:::Jeffrey M. Voas::J. Payne::R. Mills::J. McManus:::Software Testability: An Experiment in Measuring Simulation Reusability.
+conf/sss/KulkarniA03:::Sandeep S. Kulkarni::Umamaheswaran Arumugam:::Collision-Free Communication in Sensor Networks.
+conf/tke/Meur93:::André Le Meur:::Tools for Terminology Data Interchange.
+conf/tke/CondaminesA93:::Anne Condamines::Pascal Amsili:::Terminology Between Language and Knowledge: An Example of Terminological Knowledge Base.
+conf/tke/RoulinC93:::Corentin Roulin::Cheryl Cooper:::Bringing Thesaurus Together: Terminological Problems and Interests.
+conf/tke/Galinski90:::Christian Galinski:::Knowledge Transfer to/from Countries with Languages using Non-European Scripts.
+conf/tke/Guespin90:::Louis Guespin:::Socioterminology Facing Problems in Standardization.
+conf/tke/Gerstenkorn93:::Alfred Gerstenkorn:::Synonymy and Homonymy.
+conf/tke/Endres-Niggemeyer90:::Brigitte Endres-Niggemeyer:::A Procedural Model of Abstracting, and Some Ideas for its Implementation.
+conf/svm/GenovC02:::Roman Genov::Gert Cauwenberghs:::Kerneltron: Support Vector `Machine' in Silicon.
+conf/svm/Ruping02:::Stefan Rüping:::Support Vector Machines in Relational Databases.
+conf/svm/AyatCS02:::Nedjem-Eddine Ayat::Mohamed Cheriet::Ching Y. Suen:::Optimization of the SVM Kernels Using an Empirical Error Minimization Scheme.
+conf/svm/BileschiH02:::Stanley M. Bileschi::Bernd Heisele:::Advances in Component-Based Face Detection.
+conf/svm/ChakrabarttyC02:::Shantanu Chakrabartty::Gert Cauwenberghs:::Forward Decoding Kernel Machines: A Hybrid HMM/SVM Approach to Sequence Recognition.
+conf/svm/WalawalkarYNS02:::L. Walawalkar::Mohammad Yeasin::Anand M. Narasimhamurthy::Rajeev Sharma:::Support Vector Learning for Gender Classification Using Audio and Visual Cues: A Comparison.
+conf/uai/FriedmanGW99:::Nir Friedman::Moisés Goldszmidt::Abraham Wyner:::Data Analysis with Bayesian Networks: A Bootstrap Approach.
+conf/uai/PimentelB94:::Stephen G. Pimentel::Lawrence M. Brem:::Robust Planning in Uncertain Environments.
+conf/uai/ZhangLZ99:::Nevin Lianwen Zhang::Stephen S. Lee::Weihong Zhang:::A Method for Speeding Up Value Iteration in Partially Observable Markov Decision Processes.
+conf/uai/ZhangQP93:::Nevin Lianwen Zhang::Runping Qi::David Poole:::Incremental computation of the value of perfect information in stepwise-decomposable influence diagrams.
+conf/uai/Hunter88:::Daniel Hunter:::Parallel belief revision.
+conf/uai/Hunter91:::Daniel Hunter:::Non-monotonic Reasoning and the Reversibility of Belief Change.
+conf/uai/ShaniBH02:::Guy Shani::Ronen I. Brafman::David Heckerman:::An MDP-based Recommender System.
+conf/uai/FoxK91:::John Fox::Paul Krause:::Decision Theory and Autonomous Systems.
+conf/uai/ShachterN93:::Ross D. Shachter::Pierre Ndilikilikesha:::Using Potential Influence Diagrams for Probabilistic Inference and Decision Making.
+conf/uai/BacchusG95:::Fahiem Bacchus::Adam J. Grove:::Graphical models for preference and utility.
+conf/uai/SpiegelhalterFB89:::David J. Spiegelhalter::Rodney C. G. Franklin::Kate Bull:::Assessment, Criticism and Improvement of Imprecise Subjective Probabilities for a Medical Expert System.
+conf/uai/OLeary94:::Daniel E. O'Leary:::Models of Consensus for Multiple Agent Systems.
+conf/uai/XuS95:::Hong Xu::Philippe Smets:::Generating Explanations for Evidential Reasoning.
+conf/uai/Pearl85:::Judea Pearl:::A Constraint-Propagation Approach to Probabilistic Reasoning.
+conf/uai/Pearl86:::Judea Pearl:::Distributedrevision of belief commitment in composite explanations.
+conf/uai/MonaiC92:::Francesco Fulvio Monai::Thomas Chehire:::Possibilistic Assumption based Truth Maintenance System, Validation in a Data Fusion Application.
+conf/uai/KimV95:::Young-Gyun Kim::Marco Valtorta:::On the Detection of Conflicts in Diagnostic Bayesian Networks Using Abstraction.
+conf/uai/ParsonsM93:::Simon Parsons::E. H. Mamdani:::On reasoning in networks with qualitative uncertainty.
+conf/uai/HeckermanB94:::David Heckerman::John S. Breese:::A New Look at Causal Independence.
+conf/uai/KayaalpC02:::Mehmet Kayaalp::Gregory Cooper:::A Bayesian Network Scoring Metic that Is Based on Globally Uniform Parameter Priors.
+conf/uai/Boutilier96:::Craig Boutilier:::Learning Conventions in Multiagent Stochastic Domains using Likelihood Estimates.
+conf/uai/Cooper87:::Gregory F. Cooper:::An Algorithm for Computing Probabilistic Propositions.
+conf/uai/DuboisFP97:::Didier Dubois::Hélène Fargier::Henri Prade:::Decision-Making under Ordinal Preferences and Comparative Uncertainty.
+conf/uai/Vejnarova00:::Jirina Vejnarová:::Conditional Independence and Markov Properties in Possibility Theory.
+conf/uai/PopesculUPL01:::Alexandrin Popescul::Lyle H. Ungar::David M. Pennock::Steve Lawrence:::Probabilistic Models for Unified Collaborative and Content-Based Recommendation in Sparse-Data Environments.
+conf/uai/VermaP88:::Thomas Verma::Judea Pearl:::Causal networks: semantics and expressiveness.
+conf/uai/VermaP92:::Thomas Verma::Judea Pearl:::An Algorithm for Deciding if a Set of Observed Independencies Has a Causal Explanation.
+conf/uai/VermaP93:::Thomas Verma::Judea Pearl:::Deciding Morality of Graphs is NP-complete.
+conf/uai/FattahD96:::Yousri El Fattah::Rina Dechter:::An evaluation of structural parameters for probabilistic reasoning: Results on benchmark circuits.
+conf/uai/HaddawyF88:::Peter Haddawy::Alan M. Frisch:::Modal logics of higher-order probability.
+conf/uai/ShenoySM86:::Prakash P. Shenoy::Glenn Shafer::Khaled Mellouli:::Propagation of belief functions: a distributed approach.
+conf/uai/FriedmanN00:::Nir Friedman::Iftach Nachman:::Gaussian Process Networks.
+conf/uai/Rojas-GuzmanK93:::Carlos Rojas-Guzmán::Mark A. Kramer:::GALGO: A Genetic ALGOrithm Decision Support Tool for Complex Uncertain Systems Modeled with Bayesian Belief Networks.
+conf/uai/Poole98:::David Poole:::Context-specific approximation in probabilistic inference.
+conf/uai/Bacchus88:::Fahiem Bacchus:::On probability distributions over possible worlds.
+conf/uai/Jaffray98:::Jean-Yves Jaffray:::Implementing Resolute Choice Under Uncertainty.
+conf/uai/SrinivasRA89:::Sampath Srinivas::Stuart J. Russell::Alice M. Agogino:::Automated Construction of Sparse Bayesian Networks from Unstructured Probabilistic Models and Domain Information.
+conf/uai/ShachterEHW87:::Ross D. Shachter::David M. Eddy::Vic Hasselblad::Robert Wolpert:::A Heuristic Bayesian Approach to Knowledge Acquisition: Application to the Analysis of Tissue-Type Plasminogen Activator.
+conf/uai/HorvitzR91:::Eric Horvitz::Geoffrey Rutledge:::Time-Dependent Utility and Action Under Uncertainty.
+conf/uai/WegelinR01:::Jacob A. Wegelin::Thomas Richardson:::Cross-covariance modelling via DAGs with hidden variables.
+conf/uai/LehnerEM94:::Paul E. Lehner::Chris Elsaesser::Scott A. Musman:::Constructing Belief Networks to Evaluate Plans.
+conf/uai/ChajewskaGNS98:::Urszula Chajewska::Lise Getoor::Joseph Norman::Yuval Shahar:::Utility Elicitation as a Classification Problem.
+conf/uai/GaagRWAT99:::Linda C. van der Gaag::Silja Renooij::C. L. M. Witteman::B. M. P. Aleman::B. G. Taal:::How to Elicit Many Probabilities.
+conf/uai/RishKD98:::Irina Rish::Kalev Kask::Rina Dechter:::Empirical Evaluation of Approximation Algorithms for Probabilistic Decoding.
+conf/uai/TaskerPK02:::Ben Tasker::Abbeel Pieter::Daphne Koller:::Discriminative Probabilistic Models for Relational Data.
+conf/uai/AnguelovBKLT02:::Dragomir Anguelov::Rahul Biswas::Daphne Koller::Benson Limketkai::Sebastian Thrun:::Learning Hierarchical Object Maps of Non-Stationary Environments with Mobile Robots.
+conf/uai/GeigerP88:::Dan Geiger::Judea Pearl:::On the logic of causal models.
+conf/uai/NielsenWJK00:::Thomas D. Nielsen::Pierre-Henri Wuillemin::Finn Verner Jensen::Uffe Kjærulff:::Using ROBDDs for Inference in Bayesian Networks with Troubleshooting as an Example.
+conf/uai/HorschH00:::Michael C. Horsch::William S. Havens:::Probabilistic Arc Consistency: A Connection between Constraint Reasoning and Probabilistic Reasoning.
+conf/uai/Arroyo-FigueroaS99:::Gustavo Arroyo-Figueroa::Luis Enrique Sucar:::A Temporal Bayesian Network for Diagnosis and Prediction.
+conf/uai/GoldmanGM99:::Robert P. Goldman::Christopher W. Geib::Christopher A. Miller:::A New Model of Plan Recognition.
+conf/uai/Hamburger85:::Henry Hamburger:::Representing, Combining and Using Uncertain Estimates.
+conf/uai/BookerH86:::Lashon B. Booker::Naveen Hota:::Probabilistic reasoning about ship images.
+conf/uai/BeckerBG99:::Ann Becker::Reuven Bar-Yehuada::Dan Geiger:::Random Algorithms for the Loop Cutset Problem.
+conf/uai/PlessL01:::Daniel Pless::George F. Luger:::Toward General Analysis of Recursive Probability Models.
+conf/uai/XiangBP89:::Yang Xiang::Michael P. Beddoes::David Poole:::Can Uncertainty Management be Realized in a Finite Totally Ordered Probability Algebra?
+conf/uai/Provan89:::Gregory M. Provan:::The Application of Dempster Shafer Theory to a Logic-Based Visual Recognition System.
+conf/uai/Provan95:::Gregory M. Provan:::Abstraction in Belief Networks: The Role of Intermediate States in Diagnostic Reasoning.
+conf/uai/Kjaerulff95:::Uffe Kjærulff:::HUGS: Combining Exact Inference and Gibbs Sampling in junction Trees.
+conf/uai/GiangS02:::Phan Hong Giang::Prakash P. Shenoy:::Statistical Decisions Using Likelihood Information Without Prior Probabilities.
+conf/uai/DruzdzelS93:::Marek J. Druzdzel::Herbert A. Simon:::Causality in Bayesian Belief Networks.
+conf/uai/Zadeh85:::Lotfi A. Zadeh:::Is Probability Theory Sufficient for Dealing with Uncertainty in AI: A Negative View.
+conf/uai/EgarM93:::John W. Egar::Mark A. Musen:::Graph-Grammar Assistance for Automated Generation of Influence Diagrams.
+conf/uai/ThiebauxCJK96:::Sylvie Thiébaux::Marie-Odile Cordier::Olivier Jehl::Jean-Paul Krivine:::Supply Restoration in Power Distribution Systems: A Case Study in Integrating Model-Based Diagnosis and Repair Planning.
+conf/uai/Laskey92:::Kathryn B. Laskey:::Bayesian Meta-Reasoning: Determining Model Adequacy from within a Small World.
+conf/uai/Young01:::Steve Young:::Statistical Modeling in Continuous Speech Recognition (CSR).
+conf/uai/HoeySHB99:::Jesse Hoey::Robert St-Aubin::Alan Hu::Craig Boutilier:::SPUDD: Stochastic Planning using Decision Diagrams.
+conf/uai/Jirousek97:::Radim Jirousek:::Composition of Probability Measures on Finite Spaces.
+conf/uai/AchanFK01:::Kannan Achan::Brendan J. Frey::Ralf Koetter:::A Factorized Variational Technique for Phase Unwrapping in Markov Random Field.
+conf/uai/BenferhatDP93:::Salem Benferhat::Didier Dubois::Henri Prade:::Argumentative inference in uncertain and inconsistent knowledge bases.
+conf/uai/LiuW98a:::Chao-Lin Liu::Michael P. Wellman:::Using Qualitative Relationships for Bounding Probability Distributions.
+conf/uai/Zhang98:::Nevin Lianwen Zhang:::Probabilistic Inference in Influence Diagrams.
+conf/uai/OrmoneitLF01:::Dirk Ormoneit::Christiane Lemieux::David J. Fleet:::Lattice Particle Filters.
+conf/uai/Shafer85:::Glenn Shafer:::Probability Judgment in Artificial Intelligence.
+conf/uai/BiswasA87:::Gautam Biswas::Tejwansh S. Anand:::Using the Dempster-Shafer Scheme in a Mixed-Initiative Expert System Shell.
+conf/uai/DagumG93:::Paul Dagum::Adam Galper:::Forecasting Sleep Apnea with Dynamic Network Models.
+conf/uai/PfefferKMT99:::Avi Pfeffer::Daphne Koller::Brian Milch::Ken T. Takusagawa:::SPOOK: A system for probabilistic object-oriented knowledge representation.
+conf/uai/Smets89:::Philippe Smets:::Constructing the Pignistic Probability Function in a Context of Uncertainty.
+conf/uai/Smets94:::Philippe Smets:::Belief Induced by the Partial Knowledge of the Probabilities.
+conf/uai/AltmanCPS94:::Russ B. Altman::Cheng Che Chen::William B. Poland::Jaswinder Pal Singh:::Probabilistic Constraint Satisfaction with Non-Gaussian Noise.
+conf/uai/KearnsLS01:::Michael J. Kearns::Michael L. Littman::Satinder P. Singh:::Graphical Models for Game Theory.
+conf/uai/MansellS94:::Todd Michael Mansell::Grahame B. Smith:::Operator Selection While Planning Under Uncertainty.
+conf/uai/PennockDGG02:::David M. Pennock::Sandip Debnath::Eric J. Glover::C. Lee Giles:::Modelling Information Incorporation in Markets, with Application to Detecting and Explaining Events.
+conf/uai/KearnsM98:::Michael J. Kearns::Yishay Mansour:::Exact Inference of Hidden Structure from Sample Data in noisy-OR Networks.
+conf/uai/BenferhatDKP01:::Salem Benferhat::Didier Dubois::Souhila Kaci::Henri Prade:::Graphical readings of possibilistic logic bases.
+conf/uai/Spohn88:::Wolfgang Spohn:::A general non-probabilistic theory of inductive reasoning.
+conf/uai/Dechter96a:::Rina Dechter:::Topological parameters for time-space tradeoff.
+conf/uai/DanksG01:::David Danks::Clark Glymour:::Linearity Properties of Bayes Nets with Binary Variables.
+conf/uai/Minka01:::Thomas P. Minka:::Expectation Propagation for approximate Bayesian inference.
+conf/uai/GaagR01:::Linda C. van der Gaag::Silja Renooij:::Analysing Sensitivity Data from Probabilistic Networks.
+conf/uai/RobinsW97:::James M. Robins::Larry A. Wasserman:::Estimation of Effects of Sequential Treatments by Reparameterizing Directed Acyclic Graphs.
+conf/uai/Thrun02:::Sebastian Thrun:::Particle Filters in Robotics.
+conf/uai/PradhanPMH94:::Malcolm Pradhan::Gregory M. Provan::Blackford Middleton::Max Henrion:::Knowledge Engineering for Large Belief Networks.
+conf/uai/CastilloBSS95:::Enrique Castillo::Remco R. Bouckaert::Jose M. Sarabia::Cristina Solares:::Error Estimation in Approximate Bayesian Belief Network Inference.
+conf/uai/EzawaS95:::Kazuo J. Ezawa::Til Schuermann:::Fraud/Uncollectible Debt Detection Using a Bayesian Network Based Learning System: A Rare Binary Outcome with Mixed Data Structures.
+conf/uai/RenooijG02:::Silja Renooij::Linda C. van der Gaag:::&gt;From Qualitative to Quantitative Probabilistic Networks.
+conf/uai/Bordley93:::Robert F. Bordley:::A Bayesian Variant of Shafer's Commonalities For Modelling Unforeseen Events.
+conf/uai/GoldmanB92:::Robert P. Goldman::Jack S. Breese:::Integrating Model Construction and Evaluation.
+conf/uai/OrtizK99:::Luis E. Ortiz::Leslie Pack Kaelbling:::Accelerating EM: An Empirical Study.
+conf/uai/ChickeringH99:::David Maxwell Chickering::David Heckerman:::Fast Learning from Sparse Data.
+conf/uai/MadsenJ99:::Anders L. Madsen::Finn Verner Jensen:::Lazy Evaluation of Symmetric Bayesian Decision Problems.
+conf/uai/Dechter96:::Rina Dechter:::Bucket elimination: A unifying framework for probabilistic inference.
+conf/uai/MarthiPRP02:::Bhaskara Marthi::Hanna Pasula::Stuart J. Russell::Yuval Peres:::Decayed MCMC Filtering.
+conf/uai/Weydert95:::Emil Weydert:::Defaults and Infinitesimals Defeasible Inference by Nonarchimedean Entropy-Maximization.
+conf/uai/MatzkevichA92:::Izhar Matzkevich::Bruce Abramson:::The Topological Fusion of Bayes Nets.
+conf/uai/CohenSS87:::Paul R. Cohen::Glenn Shafer::Prakash P. Shenoy:::Modifiable Combining Functions.
+conf/uai/ConitzerS02:::Vincent Conitzer::Tuomas Sandholm:::Complexity of Mechanism Design.
+conf/uai/EzawaNK99:::Kazuo J. Ezawa::Gregory Napiorkowski::Mariusz Kossarski:::Evaluation of Distributed Intelligence on the Smart Card.
+conf/uai/ChavezC89:::R. Martin Chavez::Gregory F. Cooper:::An Empirical Evaluation of a Randomized Algorithm for Probabilistic Inference.
+conf/uai/McBurneyP00:::Peter McBurney::Simon Parsons:::Risk Agoras: Dialectical Argumentation for Scientific Reasoning.
+conf/uai/McBurneyP02:::Peter McBurney::Simon Parsons:::Formalizing Scenario Analysis.
+conf/uai/ChangF90:::Kuo-Chu Chang::Robert M. Fung:::Refinement and coarsening of Bayesian networks.
+conf/uai/Chavez96:::Tom Chávez:::Decision-Analytic Approaches to Operational Decision Making: Application and Observation.
+conf/swm/Wolff02:::Frank Wolff:::Aspekte einer perspektivischen Ausrichtung für einen tragfähigen Unternehmensmodellierungsprozess.
+conf/swm/Gaulke02:::Markus Gaulke:::Risikomanagement in IT-Projekten.
+conf/swm/Kneuper02:::Ralf Kneuper:::Capability Maturity Model Integration.
+conf/swm/KungKW02:::Peter Küng::Heinrich Krause::Carl F. Worms:::Unterstützung der Releaseplanung mittels priorisierten Use Cases.
+conf/tls/Josko87:::Bernhard Josko:::MCTL - An Extension of CTL for Modular Verification of Concurrent Systems.
+conf/tls/Melliar-Smith87:::P. M. Melliar-Smith:::Extending Interval Logic to Real Time Systems.
+conf/sww/NejdlWST02:::Wolfgang Nejdl::Boris Wolf::Steffen Staab::Julien Tane:::EDUTELLA: Searching and Annotating Resources within an RDF-based P2P Network.
+conf/sww/FrankSNYL02:::Martin Frank::Pedro A. Szekely::Robert Neches::Baoshi Yan::Juan Lopez:::WebScripter: World-Wide Grass-roots OntologyTranslation via Implicit End-User Alignment.
+conf/tsd/Ogata00:::Norihiro Ogata:::What Du You Mean by "What Du You Mean"?
+conf/tsd/Matousek00a:::Václav Matousek:::Simplified Processing of Elliptic and Anaphoric Utterances in a Train Timetable Information Retrieval Dialogue System.
+conf/tsd/Mumolo00:::Enzo Mumolo:::A Syntactical Model of Prosody as an Aid to Spoken Dialogue Systems in Italian Language.
+conf/tsd/BatusekD99:::Robert Batusek::Jan Dvorák:::Text Preprocessing for Czech Speech Synthesis.
+conf/tsd/BatusekG03:::Robert Batusek::Pavel Gaura:::A Comparison of Unit Selection Techniques in Limited Domain Speech Synthesis.
+conf/tsd/JamoussiSH03:::Salma Jamoussi::Kamel Smaïli::Jean Paul Haton:::Understanding Speech Based on a Bayesian Concept Extraction Method.
+conf/tsd/SvendaR00:::Zdenek Svenda::Vlasta Radová:::Speaker Identification Using Kalman Cepstral Coefficients.
+conf/tsd/Say99:::Bilge Say:::Modeling Cue Phrases in Turkish: A Case Study.
+conf/tsd/Kral02:::Robert Král:::Word Sense Discrimination for Czech.
+conf/tsd/VeberHJS99:::Marek Veber::Ales Horák::Rostislav Julinek::Pavel Smrz:::Automatic Structuring of Written Texts.
+conf/tsd/HorakH00:::Petr Horák::Betty Hesounová:::Automatic Speech Segmentation with the Application of the Czech TTS System.
+conf/tsd/KaragjosovaK02:::Elena Karagjosova::Ivana Kruijff-Korbayová:::An Analysis of Conditional Responses in Dialogue.
+conf/tsd/Kruijff-KorbayovaK99:::Ivana Kruijff-Korbayová::Geert-Jan M. Kruijff:::Handling Word Order in a Multilingual System for Generation of Instructions.
+conf/tsd/DobrisekMP99:::Simon Dobrisek::France Mihelic::Nikola Pavesic:::Speech Segmentation Aspects of Phone Transition Acoustical Modelling.
+conf/tsd/MaragoudakisTF02:::Manolis Maragoudakis::Aristomenis Thanopoulos::Nikos Fakotakis:::Statistical Decision Making from Text and Dialogue Corpora for Effective Plan Recognition.
+conf/tsd/BohmovaPS99:::Alena Böhmová::Jarmila Panevová::Petr Sgall:::Syntactic Tagging: Procedure for the Transition from the Analytic to the Tectogrammatical Tree Structures.
+conf/tsd/BurgetC03:::Lukas Burget::Jan Cernocký:::Recognition of Speech with Non-random Attributes.
+conf/tsd/Jelinek03:::Frederick Jelinek:::Combating the Sparse Data Problem of Language Modelling.
+conf/tsd/MachovikovS01:::Alexei Machovikov::Kirill Stolyarov:::System for Speech Communication through Internet.
+conf/tsd/KrokavecF99:::Dusan Krokavec::Anna Filasová:::State-Space Model Based Labeling of Speech Signals.
+conf/tsd/RotovnikMHK02:::Tomas Rotovnik::Mirjam Sepesy Maucec::Bogomir Horvat::Zdravko Kacic:::Large Vocabulary Speech Recognition of Slovenian Language Using Data-Driven Morphological Models.
+conf/tsd/HlavacovaR99:::Jaroslava Hlavácová::Pavel Rychlý:::Dispersion of Words in a Language Corpus.
+conf/tsd/VintsiukS99:::Taras K. Vintsiuk::Mykola M. Sazhok:::Speech Analysis and Recognition Synchronised by One-Quasiperiodical Segmentation.
+conf/tsd/TrabalkaB99:::Marek Trabalka::Mária Bieliková:::Performing Adaptive Morphological Analysis Using Internet Resources.
+conf/tsd/OlivaHPK00:::Karel Oliva::Milena Hnátková::Vladimir Petkevic::Pavel Kveton:::The Linguistic Basis of a Rule-Based Tagger of Czech.
+conf/tsd/RadovaP00:::Vlasta Radová::Josef Psutka:::Recording and Annotation of the Czech Speech Corpus.
+conf/tsd/RadovaS99:::Vlasta Radová::Zdenek Svenda:::Speaker Identification Based on Vector Quantization.
+conf/tsd/OguroOTZ00:::Rei Oguro::Kazuhiko Ozeki::Kazuyuki Takagi::Yujie Zhang:::An Efficient Algorithm for Japanese Sentence Compaction Based on Phrase Importance and Inter-Phrase Dependency.
+conf/tsd/GilAF02:::Jorge Graña Gil::Miguel A. Alonso::Manuel Vilares Ferro:::A Common Solution for Tokenization and Part-of-Speech Tagging.
+conf/tsd/SavinoR00:::Michelina Savino::Mario Refice:::Acoustic Cues for Classifying Communicative Intentions in Dialogue Systems.
+conf/tsd/StemmerSNNB02:::Georg Stemmer::Stefan Steidl::Elmar Nöth::Heinrich Niemann::Anton Batliner:::Comparison and Combination of Confidence Measures.
+conf/tsd/PalaRS03:::Karel Pala::Pavel Rychlý::Pavel Smrz:::Text Corpus with Errors.
+conf/tsd/Honetschlager03:::Václav Honetschläger:::Using a Czech Valency Lexicon for Annotation Support.
+conf/tsd/RothkrantzN99:::Léon J. M. Rothkrantz::D. Nollen:::Speech Recognition Using Elman Neural Networks.
+conf/vbc/VandermeulenDSM96:::Dirk Vandermeulen::Xavier Descombes::Paul Suetens::Guy Marchal:::Unsupervised Regularized Classification of Multi-Spectral MRI.
+conf/vbc/MasutaniMD96:::Yoshitaka Masutani::Ken Masamune::Takeyoshi Dohi:::Region-Growing Based Feature Extraction Algorithm for Tree-Like Objects.
+conf/vbc/MoriHTAK96:::Kensaku Mori::Jun-ichi Hasegawa::Jun-ichiro Toriwaki::Hirofumi Anno::Kazuhiro Katada:::A Fast Rendering Method Using the Tree Structure of Objects in Virtualized Bronchus Endoscope System.
+conf/vbc/Kriete96:::Andres Kriete:::Hierarchical Data Representation of Lung to Model Morphology and Function.
+conf/vbc/DeanBBKKFL96:::David Dean::Peter Buckley::Fred L. Bookstein::Janardhan Kamath::David Kwon::Lee Friedman::Christine Lys:::Three Dimensional MR-Based Morphometric Comparison of Schizophrenic and Normal Cerebral Ventricles.
+conf/vbc/StewartBJ96:::John E. Stewart::William C. Broaddus::James H. Johnson:::Rebuilding the Visible Man.
+conf/vbc/RohrSSBBWK96:::Karl Rohr::H. Siegfried Stiehl::Rainer Sprengel::Wolfgang Beil::Thorsten M. Buzug::Jürgen Weese::M. H. Kuhn:::Point-Based Elastic Registration of Medical Image Data Using Approximating Thin-Plate Splines.
+conf/vbc/FreeboroughF96:::Peter A. Freeborough::Nick C. Fox:::Assessing Patterns and Rates of Brain Atrophy by Serial Magnetic Resonance Imaging: A Segmentation, Registration, Display and Quantification Prodedure.
+conf/vbc/FuchsSPGHLWP96:::Henry Fuchs::Andrei State::Etta D. Pisano::William F. Garrett::Gentaro Hirota::Mark A. Livingston::Mary C. Whitton::Stephen M. Pizer:::Towards Performing Ultrasound-Guided Needle Biopsies from within a Head-Mounted Display.
+conf/vbc/HataWHNVKJ96:::Nobuhiko Hata::William M. Wells III::Michael Halle::Shin Nakajima::Paul A. Viola::Ron Kikinis::Ferenc A. Jolesz:::Image Guided Microscopic Surgery System Using Mutual-Information Based Registraion.
+conf/vbc/SchiemannNTH96:::Thomas Schiemann::Jochen Nuthmann::Ulf Tiede::Karl Heinz Höhne:::Segmentation of the Visible Human for High Quality Volume Based Visualization.
+conf/vbc/McAuliffeEFCP96:::Matthew J. McAuliffe::David Eberly::Daniel S. Fritsch::Edward L. Chaney::Stephen M. Pizer:::Scale-Space Boundary Evolution Initialized by Cores.
+conf/vbc/BrechbuhlerGS96:::Christian Brechbühler::Guido Gerig::Gábor Székely:::Compensation of Spatial Inhomogeneity in MRI Based on a Parametric Bias Estimate.
+conf/vbc/CleynenbreugelVMS96:::Johan Van Cleynenbreugel::Kris Verstreken::Guy Marchal::Paul Suetens:::A Flexible Environment for Image Guided Virtual Surgery Planning.
+conf/vbc/Talhami96:::Habib Talhami:::L-Systems for Three-Dimensional Anatomical Modelling: Towards a Virtual Laboratory in Anatomy.
+conf/umc/GruauM02:::Frédéric Gruau::Philippe Malbos:::The Blob: A Basic Topological Concept for "Hardware-Free" Distributed Computation.
+conf/umc/Paun00a:::Andrei Paun:::On P Systems with Active Membranes.
+conf/umc/Campagnolo02:::Manuel Lameiras Campagnolo:::The Complexity of Real Recursive Functions.
+conf/umc/Martin-VideM00:::Carlos Martín-Vide::Victor Mitrana:::P Systems with Valuations.
+conf/umc/KamedaMYO02:::Atsushi Kameda::Nobuo Matsuura::Masahito Yamamoto::Azuma Ohuchi:::An Analysis of Computational Efficiency of DNA Computing.
+conf/umc/MikhaylovaP00:::Anna B. Mikhaylova::Boris S. Pavlov:::The Quantum Domain As a Triadic Relay.
+conf/umc/AccardiS00:::Luigi Accardi::Ruben Sabbadini:::On the Ohya-Masuda Quantum SAT Algorithm.
+conf/umc/SiegelmannB00:::Hava T. Siegelmann::Asa Ben-Hur:::Macroscopical Molecular Computation with Gene Networks.
+conf/umc/Arulanandham02:::Joshua J. Arulanandham:::Implementing Bead-Sort with P Systems.
+conf/umc/JimenezP02:::Álvaro Romero Jiménez::Mario J. Pérez-Jiménez:::Generation of Diophantine Sets by Computing P Systems with External Output.
+conf/uml/XuandongMYJG01:::Xuandong Li::Cui Meng::Pei Yu::Jianhua Zhao::Guoliang Zheng:::Timing Analysis of UML Activity Diagrams.
+conf/uml/Pazzi00:::Luca Pazzi:::Part-Whole Statecharts for the Explicit Representation of Compound Behaviors.
+conf/uml/Padawitz00:::Peter Padawitz:::Swinging UML: How to Make Class Diagrams and State Machines Amenable to Constraint Solving and Proving.
+conf/uml/AtkinsonK01:::Colin Atkinson::Thomas Kühne:::The Essence of Multilevel Metamodeling.
+conf/uml/SchaderK97:::Martin Schader::Axel Korthaus:::Modeling Java Threads in UML.

@@ -1,0 +1,200 @@
+conf/icde/HuangG01:::Yongqiang Huang::Hector Garcia-Molina:::Exactly-once Semantics in a Replicated Messaging System.
+conf/icde/HuangL88:::Ching-Liang Huang::Victor O. K. Li:::A Quorum-Based Commit and Termination Protocol for Distributed Database Systems.
+conf/icde/PopivanovM02:::Ivan Popivanov::Renée J. Miller:::Similarity Search Over Time-Series Data Using Wavelets.
+conf/icde/Gevarter87:::William B. Gevarter:::Automatic Probabilistic Knowledge Acquisition from Data.
+conf/icde/JenqKT87:::Bao-Chyuan Jenq::Walter H. Kohler::Donald F. Towsley:::A Queueing Network Model for a Distributed Database Testbed System.
+conf/icde/KrishnamurthyM84:::Ravi Krishnamurthy::Stephen P. Morgan:::Distributed Query Optimization: An Engineering Approach.
+conf/icde/GobleGNR93:::Carole A. Goble::Andrzej J. Glowinski::W. A. Nowlan::Alan L. Rector:::A Descriptive Semantic Formalism for Medicine.
+conf/icde/MudumbaiSSPB98:::Srilekha Mudumbai::Kshitij Shah::Amit P. Sheth::Krishnan Parasuraman::Clemens Bertram:::ZEBRA Image Access System.
+conf/icde/HanZL93:::Jiawei Han::Kangsheng Zeng::Tong Lu:::Normalization of Linear Recursions in Deductive Databases.
+conf/icde/ElmasriW90:::Ramez Elmasri::Gene T. J. Wuu:::A Temporal Model and Query Language for ER Databases.
+conf/icde/GoldsteinRS98:::Jonathan Goldstein::Raghu Ramakrishnan::Uri Shaft:::Compressing Relations and Indexes.
+conf/icde/LeeMCC02:::Dongwon Lee::Murali Mani::Frank Chiu::Wesley W. Chu:::NeT &amp; CoT: Inferring XML Schemas from Relational World.
+conf/icde/KriegelS87:::Hans-Peter Kriegel::Bernhard Seeger:::Multidimensional Dynamic Quantile Hashing is Very Efficient for Non-Uniform Record Distributions.
+conf/icde/RulloSZ86:::Pasquale Rullo::Domenico Saccà::Qinsi Zhong:::An Approximation Algorithm for the Physical Access Path Selection in the CODASYL Environment.
+conf/icde/BorzsonyiKS01:::Stephan Börzsönyi::Donald Kossmann::Konrad Stocker:::The Skyline Operator.
+conf/icde/BukhresKP93:::Omran A. Bukhres::eva Kühn::Franz Puntigam:::A Language Multidatabase System Communication Protocol.
+conf/icde/SidellASSSY96:::Jeff Sidell::Paul M. Aoki::Adam Sah::Carl Staelin::Michael Stonebraker::Andrew Yu:::Data Replication in Mariposa.
+conf/icde/Sunderraman00:::Rajshekhar Sunderraman:::ReQueSS: Relational Querying of Semi-Structured Data.
+conf/icde/HatonenKMRT96:::Kimmo Hätönen::Mika Klemettinen::Heikki Mannila::Pirjo Ronkainen::Hannu Toivonen:::Knowledge Discovery from Telecommunication Network Alarm Databases.
+conf/icde/Palley86:::Michael A. Palley:::Security of Statistical Databases - Compromise through Attribute Correlational Modeling.
+conf/iccs/WermelingerL94:::Michel Wermelinger::José Gabriel Lopes:::Basic Conceptual Structures Theory.
+conf/iccs/CaoC97:::Tru H. Cao::Peter N. Creasy:::Universal Marker and Functional Relation: Semantics and Operations.
+conf/iccs/RabanD97:::Ryszard Raban::Harry S. Delugach:::Animating Conceptual Graphs.
+conf/iccs/ChalendarGF00:::Gaél De Chalendar::Brigitte Grau::Olivier Ferret:::A Cost-Bounded Algorithm to Control Events Generalization.
+conf/iccs/Dick97:::Judith P. Dick:::Modelling Cause and Effect in Legal Text.
+conf/iccs/Cyre98:::Walling R. Cyre:::Executing Conceptual Graphs.
+conf/iccs/Esch92:::John Esch:::The Scope of Coreference in Conceptual Graphs.
+conf/iccs/Dau01:::Frithjof Dau:::Concept Graphs and Predicate Logic.
+conf/iccs/DelugachH96:::Harry S. Delugach::Thomas H. Hinke:::Microanalysis: Acquiring Database Semantics in Conceptual Graphs.
+conf/iccs/KimS01:::Pok-Son Kim::Manfred Schmidt-Schauß:::A Term-Based Approach to Project Scheduling.
+conf/iccs/Mann92:::Graham A. Mann:::Assembly of Conceptual Graphs from Natural Language by Means of Multiple Knowledge Specialists.
+conf/iccs/KeelerT99:::Mary Keeler::William M. Tepfenhart:::PORT: Peirce Online Resource Testbeds.
+conf/iccs/KabbajMGNR01:::Adil Kabbaj::Bernard Moulin::Jeremi Gancet::David Nadeau::Olivier Rouleau:::Uses, Improvements, and Extensions of Prolog+CG : Case Studies.
+conf/iccs/DamianovaT99:::Svetlana Damianova::Kristina Toutanova:::Using Conceptual Graphs to Solve a Resource Allocation Task.
+conf/iccs/Gatzemeier00:::Felix H. Gatzemeier:::Patterns, Schemata, and Types - Author Support through Formalized Experience.
+conf/iccs/Sowa96:::John F. Sowa:::Processes and Participants.
+conf/iccs/Mineau00:::Guy W. Mineau:::The Engineering of a CG-Based System: Fundamental Issues.
+conf/iccs/Wolff02:::Karl Erich Wolff:::Interpretation of Automata in Temporal Concept Analysis.
+conf/iccs/CampbellC92:::Linda Campbell::Peter N. Creasy:::A Conceptual Graphs Approach to Information Systems Design.
+conf/iccs/WagnerBS95:::Judith C. Wagner::Robert H. Baud::Jean-Raoul Scherrer:::Using the Conceptual Graph Operations for Natural Language Generation in Medicine.
+conf/iccs/ColeS00:::Richard Cole::Gerd Stumme:::CEM - A Conceptual Email Manager.
+conf/iccs/CorbyDH00:::Olivier Corby::Rose Dieng::Cédric Hébert:::A Conceptual Graph Model for W3C Resource Description Framework.
+conf/iccs/SalvatM96:::Eric Salvat::Marie-Laure Mugnier:::Sound and Complete Forward and backward Chainingd of Graph Rules.
+conf/iccs/SykesKM94:::J. T. Sykes::V. Konstantinou::P. L. R. Morse:::Extracting Explicit and Implicit Knowledge from Natural Language Texts.
+conf/iccs/SoutheyL99:::Finnegan Southey::James G. Linders:::Notio - A Java API for Developing CG Tools.
+conf/iccs/GerbeMK01:::Olivier Gerbé::Guy W. Mineau::Rudolf K. Keller:::Conceptual Graphs and Metamodeling.
+conf/iccs/Tepfenhart92:::William M. Tepfenhart:::Representing Knowledge about Substances.
+conf/iccs/MoorH01:::Aldo de Moor::Willem-Jan van den Heuvel:::Making Virtual Communities Work: Matching Their Functionalities.
+conf/iccs/MineauM97:::Guy W. Mineau::Rokia Missaoui:::The Representation of Semantic Constraints in Conceptual Graph Systems.
+conf/iccs/Martin97a:::Philippe Martin:::The WebKB Set of Tools: A Common Scheme for Shared WWW Annotations, Shared Knowledge Bases and Information Retrieval.
+conf/iccv/WermanS95:::Michael Werman::Amnon Shashua:::The Study of 3D-from-2D Using Elimination.
+conf/iccv/IraniA98:::Michal Irani::P. Anandan:::Robust Multi-Sensor Image Alignment.
+conf/iccv/BrownS01:::Michael S. Brown::W. Brent Seales:::Document Restoration Using 3D Shape: A General Deskewing Algorithm for Arbitrarily Warped Documents.
+conf/iccv/MalikBSL99:::Jitendra Malik::Serge Belongie::Jianbo Shi::Thomas K. Leung:::Textons, Contours and Regions: Cue Integration in Image Segmentation.
+conf/iccv/MakiWW98:::Atsuto Maki::Mutsumi Watanabe::Charles Wiles:::Geotensity: Combining Motion and Lighting for 3D Surface Reconstruction.
+conf/iccv/ODonnellDG98:::Thomas O'Donnell::Marie-Pierre Dubuisson-Jolly::Alok Gupta:::A Cooperative Framework for Segmentation Using 2D Active Contours and 3D Hybrid Models as Applied to Branching Cylindrical Structures.
+conf/iccv/KerteszY99:::Michael Kertesz::Yehezkel Yeshurun:::Robust Sequence Proximity Estimation by Radial Distance Hashing.
+conf/iccv/YezziS01:::Anthony J. Yezzi::Stefano Soatto:::Stereoscopic Segmentation.
+conf/iccv/ToyamaB01:::Kentaro Toyama::Andrew Blake:::Probabilistic Tracking in a Metric Space.
+conf/iccv/LiuG99:::Tyng-Luh Liu::Davi Geiger:::Approximate Tree Matching and Shape Similarity.
+conf/iccv/MukaigawaMMS01:::Yasuhiro Mukaigawa::Hajime Miyaki::Sadahiko Mihashi::Takeshi Shakunaga:::Photometric Image-Based Rendering for Image Generation in Arbitrary Illumination.
+conf/iccv/KanazawaK01:::Yasushi Kanazawa::Ken-ichi Kanatani:::Do We Really Have to Consider Covariance Matrices for Image Features?.
+conf/iccv/LeuckN01:::Holger Leuck::Hans-Hellmut Nagel:::Model-Based Initialisation of Vehicle Tracking: Dependency on Illumination.
+conf/iccv/SullivanP98:::Steve Sullivan::Jean Ponce:::Automatic Model Construction, Pose Estimation, and Object Recognition from Photographs using Triangular Splines.
+conf/iccv/AyerS95:::Serge Ayer::Harpreet S. Sawhney:::Layered Representation of Motion Video Using Robust Maximum-Likelihood Estimation of Mixture Models and MDL Encoding.
+conf/iccv/Quan95:::Long Quan:::Invariant of a Pair of Non-Coplanar Conies in Space: Definition, Geometric Interpretation and Computation.
+conf/iccv/KausPLTLRW01:::Michael Kaus::Vladimir Pekar::Cristian Lorenz::Roel Truyen::Steven Lobregt::Jens A. Richolt::Jürgen Weese:::Automated 3D PDM Construction Using Deformable Models.
+conf/iccv/SiddiqiBTZ99:::Kaleem Siddiqi::Sylvain Bouix::Allen Tannenbaum::Steven W. Zucker:::The Hamilton-Jacobi Skeleton.
+conf/iccv/FinlaysonFB95:::Graham D. Finlayson::Brian V. Funt::Kobus Barnard:::Color Constancy under Varying Illumination.
+conf/iccv/TeoH98:::Patrick C. Teo::Yacov Hel-Or:::Design of Multi-Parameter Steerable Functions Using Cascade Basis Reduction.
+conf/iccv/SunA01:::Yiyong Sun::Mongi A. Abidi:::Surface Matching by 3D Point's Fingerprint.
+conf/iccv/ArbelF99:::Tal Arbel::Frank P. Ferrie:::Viewpoint Selection by Navigation through Entropy Maps.
+conf/iccv/RavelaM98:::S. Ravela::R. Manmatha:::Retrieving Images by Appearance.
+conf/iccv/NayarWN95:::Shree K. Nayar::Masahiro Watanabe::Minori Noguchi:::Real-Time Focus Range Sensor.
+conf/iccv/WongC01:::Kwan-Yee Kenneth Wong::Roberto Cipolla:::Structure and Motion from Silhouettes.
+conf/iccv/CampbellB95:::Lee W. Campbell::Aaron F. Bobick:::Recognition of Human Body Motion Using Phase Space Constraints.
+conf/iccv/GeversS98:::Theo Gevers::Arnold W. M. Smeulders:::Image Indexing using Composite Color and Shape Invariant Features.
+conf/iccv/BrodskyFA98:::Tomás Brodský::Cornelia Fermüller::Yiannis Aloimonos:::Self-Calibration from Image Derivatives.
+conf/iccv/ClarkTC95:::J. Clark::Emanuele Trucco::H.-F. Cheung:::Improving Laser Triangulation Sensors Using Polarization.
+conf/iccv/Ziou98:::D. Ziou:::Passive Depth from Defocus Using a Spatial Domain Approach.
+conf/iccv/BerthilssonAH99:::Rikard Berthilsson::Kalle Åström::Anders Heyden:::Reconstruction of Curves in R<sup>3</sup>, using Factorization and Bundle Adjustment.
+conf/iccv/McLauchlanM95:::Philip F. McLauchlan::David W. Murray:::A Unifying Framework for Structure and Motion Recovery from Image Sequences.
+conf/iccv/SoattoP95:::Stefano Soatto::Pietro Perona:::Dynamic Rigid Motion Estimation from Weak Perspective.
+conf/iccv/DrbohlavS01:::Ondrej Drbohlav::Radim Sára:::Unambigous Determination of Shape from Photometric Stereo with Unknown Light Sources.
+conf/iccv/DeCarloM95:::Douglas DeCarlo::Dimitris N. Metaxas:::Adaptive Shape Evolution Using Blending.
+conf/iccv/MalladiS98:::Ravi Malladi::James A. Sethian:::A Real-Time Algorithm for Medical Shape Recovery.
+conf/iccv/ParagiosD98:::Nikos Paragios::Rachid Deriche:::A PDE-Based Level-Set Approach for Detection and Tracking of Moving Objects.
+conf/iccv/RehgK95:::James M. Rehg::Takeo Kanade:::Model-Based Tracking of Self-Occluding Articulated Objects.
+conf/iccv/ShimizuO01:::Masao Shimizu::Masatoshi Okutomi:::Precise Sub-Pixel Estimation on Area-Based Matching.
+conf/iccv/DavidsonB98:::Colin Davidson::Andrew Blake:::Error-Tolerant Visual Planning of Planar Grasp.
+conf/iccv/KimSH98:::Taeone Kim::Yongduek Seo::Ki-Sang Hong:::Physics-based 3D Position Analysis of a Soccer Ball from Monocular Image Sequences.
+conf/iccv/KuijperF01:::Arjan Kuijper::Luc Florack:::Hierarchical Pre-Segmentation without Prior Knowledge.
+conf/iccv/RubnerT99:::Yossi Rubner::Carlo Tomasi:::Texture-based Image Retrieval without Segmentation.
+conf/iccv/RohlingGB98:::Robert Rohling::Andrew H. Gee::Laurence H. Berman:::Automatic Registration of 3-D Ultrasound Images.
+conf/iccv/ShashuaW95:::Amnon Shashua::Michael Werman:::Trilinearity of Three Perspective Views and its Associated Tensor.
+conf/iccv/SlaterH01:::David Slater::Glenn Healey:::Physics-based Model Acquisition and Identification in Airborne Spectral Images.
+conf/iccv/MiaoZGDLC01:::Jun Miao::Hongming Zhang::Wen Gao::Gang Deng::Hong Liu::Xilin Chen:::FaceTracker: A Human Face Tracking and Facial Organ Localizing System.
+conf/iccv/JermynI99:::Ian Jermyn::Hiroshi Ishikawa:::Globally Optimal Regions and Boundaries.
+conf/iccv/AshbrookF98:::A. P. Ashbrook::Robert B. Fisher:::Segmentation of Range Data into Rigid Subsets Using Surface Patches.
+conf/iccv/YodaS98:::Ikushi Yoda::Katsuhiko Sakaue:::Utilization of Stereo Disparity and Optical Flow Information for Human Interaction.
+conf/iccv/RubnerTG98:::Yossi Rubner::Carlo Tomasi::Leonidas J. Guibas:::A Metric for Distributions with Applications to Image Databases.
+conf/iccv/Seitz01:::Steven M. Seitz:::The Space of All Stereo Images.
+conf/iccv/RoyCB01:::Sumantra Dutta Roy::Santanu Chaudhury::Subhashis Banerjee:::Recognizing Large 3-D Objects through Next View Planning using an Uncalibrated Camera.
+conf/iccv/CaunceT98:::A. Caunce::Christopher J. Taylor:::3D Point Distribution Models of the Cortical Sulci.
+conf/iccv/PalaniappanKHG95:::Kannappan Palaniappan::Chandra Kambhamettu::Frederick Hasler::Dmitry B. Goldgof:::Structure and Semi-Fluid Motion Analysis of Stereoscopic Satellite Images for Cloud Tracking.
+conf/iccv/ParagiosD99a:::Nikos Paragios::Rachid Deriche:::Geodesic Active Regions for Supervised Texture Segmentation.
+conf/iccv/BouguetP98:::Jean-Yves Bouguet::Pietro Perona:::3D Photography on Your Desk.
+conf/iccv/ShanLZ01:::Ying Shan::Zicheng Liu::Zhengyou Zhang:::Model-Based Bundle Adjustment with Application to Face Modeling.
+conf/iccv/ZhuLY95:::Song Chun Zhu::Tai Sing Lee::Alan L. Yuille:::Region Competition: Unifying Snakes, Region Growing, Energy/Bayes/MDL for Multi-band Image Segmentation.
+conf/iccv/CrossZ98:::Geoff Cross::Andrew Zisserman:::Quadric Surface Reconstruction from Dual-Space Geometry.
+conf/iccv/Malis01:::Ezio Malis:::Visual Servoing Invariant to Changes in Camera Intrinsic Parameters.
+conf/iccv/HartleyARH99:::Richard I. Hartley::Lourdes de Agapito::Ian D. Reid::Eric Hayman:::Camera Calibration and the Search for Infinity.
+conf/iccv/FermullerA98:::Cornelia Fermüller::Yiannis Aloimonos:::Which Shape from Motion?.
+conf/iccv/NeuenschwanderFSK95:::Walter M. Neuenschwander::Pascal Fua::Gábor Székely::Olaf Kübler:::Deformable Velcro(tm) Surfaces.
+conf/iccv/RoussoPFR98:::Benny Rousso::Shmuel Peleg::Ilan Finci::Alex Rav-Acha:::Universal Mosaicing using Pipe Projection.
+conf/iccv/AgapitoHB98:::Lourdes de Agapito::D. Q. Huynh::Michael J. Brooks:::Self-calibrating a Stereo Head: An Error Analysis in the Neighbourhood of Degenerate Configurations.
+conf/iccv/ComaniciuM99:::Dorin Comaniciu::Peter Meer:::Mean Shift Analysis and Applications.
+conf/iccv/EladTH99:::Michael Elad::Patrick C. Teo::Yacov Hel-Or:::Optimal Filters for Gradient-based Motion Estimation.
+conf/iccv/ShashuaAW99:::Amnon Shashua::Shai Avidan::Michael Werman:::Trajectory Triangulation over Conic Sections.
+conf/iccv/Stein95:::Gideon P. Stein:::Accurate Internal Camera Calibration Using Rotation, with Analysis of Sources of Error.
+conf/iccv/SullivanBIM99:::Josephine Sullivan::Andrew Blake::Michael Isard::John MacCormick:::Object Localization by Bayesian Correlation.
+conf/iccv/Triggs99:::Bill Triggs:::Camera Pose and Calibration from 4 or 5 Known 3D Points.
+conf/iccv/MulliganID01:::Jane Mulligan::Volkan Isler::Konstantinos Daniilidis:::Performance Evaluation of Stereo for Tele-presence.
+conf/iccv/SatoSI99:::Imari Sato::Yoichi Sato::Katsushi Ikeuchi:::Illumination Distribution from Brightness in Shadows: Adaptive Estimation of Illumination Distribution with Unknown Reflectance Properties in Shadow Regions.
+conf/iccv/SaundM95:::Eric Saund::Thomas P. Moran:::Perceptual Organization in an Interactive Sketch Editing Application.
+conf/iccv/DinhTS01:::Huong Quynh Dinh::Greg Turk::Gregory G. Slabaugh:::Reconstructing Surfaces Using Anisotropic Basis Functions.
+conf/iccv/Jagersand95:::Martin Jägersand:::Saliency Maps and Attention Selection in Scale and Spatial Coordinates: An Information Theoretic Approach.
+conf/iccv/TsinRK01:::Yanghai Tsin::Visvanathan Ramesh::Takeo Kanade:::Statistical Calibration of the CCD Imaging Process.
+conf/iccv/XiongS95:::Yalin Xiong::Steven A. Shafer:::Hypergeometric Filters for Optical Flow and Affine Matching.
+conf/iccv/BeteluST01:::Santiago Betelu::Guillermo Sapiro::Allen Tannenbaum:::Affine Invariant Erosion of 3D Shapes.
+conf/iccv/CarceroniK99:::Rodrigo L. Carceroni::Kiriakos N. Kutulakos:::Multi-View 3D Shape and Motion Recovery on the Spatio-Temporal Curve Manifold.
+conf/iccv/GavrilaP99:::Dariu Gavrila::Vasanth Philomin:::Real-Time Object Detection for "Smart" Vehicles.
+conf/icdm/RaghavanT02:::Prabhakar Raghavan::Panayiotis Tsaparas:::Mining Significant Associations in Large Scale Text Corpora.
+conf/icdm/GrossmanL02:::Robert L. Grossman::Richard G. Larson:::An Algebraic Approach to Data Mining: Some Examples.
+conf/icdm/Paetz02:::Jürgen Paetz:::Intersection Based Generalization Rules for the Analysis of Symbolic Septic Shock Patient Data.
+conf/icdm/LiDT02:::Gang Li::Honghua Dai::Yiqing Tu:::Linear Causal Model Discovery Using the MML criterion.
+conf/icdm/LiTD01:::Gang Li::Fu Tong::Honghua Dai:::Evolutionary Structure Learning Algorithm for Bayesian Network and Penalized Mutual Information Metric.
+conf/icdm/LuCL01:::Wen-Hsiang Lu::Lee-Feng Chien::Hsi-Jian Lee:::Anchor Text Mining for Translation of Web Queries.
+conf/icdm/HungY01:::Ming-Chuan Hung::Don-Lin Yang:::An Efficient Fuzzy C-Means Clustering Algorithm.
+conf/icdm/KalpakisGP01:::Konstantinos Kalpakis::Dhiral Gada::Vasundhara Puttagunta:::Distance Measures for Effective Clustering of ARIMA Time-Series.
+conf/icdm/MuhlenbachR02:::Fabrice Muhlenbach::Ricco Rakotomalala:::Multivariate supervised discretization, a neighborhood graph approach.
+conf/icdm/YinW02:::Michael M. Yin::Jason Tsong-Li Wang:::Mining Genes in DNA Using GeneScout.
+conf/icdm/GhaniF02:::Rayid Ghani::Andrew E. Fano:::Using Text Mining to Infer Semantic Attributes for Retail Data Mining.
+conf/icdm/YaoHB02:::Hong Yao::Howard J. Hamilton::Cory J. Butz:::FD_Mine: Discovering Functional Dependencies in a Database Using Equivalences.
+conf/icdm/DingH02:::Chris H. Q. Ding::Xiaofeng He:::Cluster merging and splitting in hierarchical clustering algorithms.
+conf/icdm/PerngWMH01:::Chang-Shing Perng::Haixun Wang::Sheng Ma::Joseph L. Hellerstein:::FARM: A Framework for Exploring Mining Spaces with Multiple Attributes.
+conf/icdm/AbePWZFA02:::Naoki Abe::Edwin P. D. Pednault::Haixun Wang::Bianca Zadrozny::Wei Fan::Chidanand Apté:::Empirical Comparison of Various Reinforcement Learning Strategies for Sequential Targeted Marketing.
+conf/icdm/SteingoldWP01:::Sam Steingold::Richard Wherry::Gregory Piatetsky-Shapiro:::Measuring Real-Time Predictive Models.
+conf/icdm/Zhang02:::Zhongfei Zhang:::Mining Surveillance Video for Independent Motion Detection.
+conf/icdm/HiranoT01:::Shoji Hirano::Shusaku Tsumoto:::Indiscernibility Degree of Objects for Evaluating Simplicity of Knowledge in the Clustering Procedure.
+conf/icdm/Phan-Luong01:::Viet Phan Luong:::The Representative Basis for Association Rules.
+conf/icdm/HuangW02:::Yin-Fu Huang::Chiech-Ming Wu:::Mining Generalized Association Rules Using Pruning Techniques.
+conf/icdm/BaralisG02:::Elena Baralis::Paolo Garza:::A Lazy Approach to Pruning Classification Rules.
+conf/icdm/HeDZS01:::Xiaofeng He::Chris H. Q. Ding::Hongyuan Zha::Horst D. Simon:::Automatic Topic Identification Using Webpage Clustering.
+conf/icdm/SilvaMCL01:::Joaquim Ferreira da Silva::João Mexia::Carlos Agra Coelho::José Gabriel Pereira Lopes:::Document Clustering and Cluster Topic Extraction in Multilingual Corpora.
+conf/icdm/XiongY02:::Yimin Xiong::Dit-Yan Yeung:::Mixtures of ARMA Models for Model-Based Time Series Clustering.
+conf/icdm/Seewald02:::Alexander K. Seewald:::Exploring the Parameter State Space of Stacking.
+conf/icec/Dasgupta94:::Dipankar Dasgupta:::Handling Deceptive Problems Using a Different Genetic Search.
+conf/icec/KozaBAK96:::John R. Koza::Forrest H. Bennett III::David Andre::Martin A. Keane:::Four Problems for which a Computer Program Evolved by Genetic Programming is Competitive with Human Performance.
+conf/icec/YoshimuraO96:::Motohide Yoshimura::Shunichiro Oe:::Texture Image Segmentation by Genetic Algorithm.
+conf/icec/AkabaneA96:::Hideo Akabane::Masahiro Agu:::Evolutionary Process of 1/f Fluctuation Generated with High Order Correlation.
+conf/icec/Elo94:::Sara Elo:::A Parallel Genetic Algorithm on the CM-2 for Multi-Modal Optimization.
+conf/icec/CollingwoodCR96:::Emma Collingwood::David Corne::Peter Ross:::Useful Diversity via Multiploidy.
+conf/icec/ColiGP96:::Moreno Coli::G. Gennuso::Paolo Palazzari:::A New Crossover Operator for Genetic Algorithms.
+conf/icec/Kargupta96:::Hillol Kargupta:::The Performance of the Gene Expression Messy Genetic Algorithm On Real Test Functions.
+conf/icec/NgLL96:::S. C. Ng::S. H. Leung::Andrew Luk:::Evolution of Connection Weights Combined with Local Search for Multi-Layered Neural Network.
+conf/icec/CabrasawanLW94:::Feb J. Cabrasawan::Joanna Lesniak::T. C. Wesselkamper:::Genetic Algorithm Techniques for 3-Valued Transistor Design.
+conf/icec/BersiniDLSG96:::Hugues Bersini::Marco Dorigo::Stefan Langerman::Gregory Seront::Luca Maria Gambardella:::Results of the First International Contest on Evolutionary Optimisation (1st ICEO).
+conf/icec/TamC96:::S. M. Tam::K. C. Cheung:::Design Optimization of An Inertial Sensor by Genetic Algorithms.
+conf/icec/YipY96:::Devil H. F. Yip::William W. H. Yu:::Classification of Coffee Using Artificial Neural Network.
+conf/icec/Handley94a:::Simon Handley:::Automated Learning of a Detector for the Cores of (Alpha)-Helics in Protein Sequences via Genetic Programming.
+conf/icec/HansenO96:::Nikolaus Hansen::Andreas Ostermeier:::Adapting Arbitrary Normal Mutation Distributions in Evolution Strategies: The Covariance Matrix Adaptation.
+conf/icec/FalcoBTV94:::Ivan De Falco::Renato Del Balio::Ernesto Tarantino::Roberto Vaccaro:::Improving Search by Incorporating Evolution Principles in Parallel Tabu Search.
+conf/icec/TakabatakeMO96:::Kazuya Takabatake::Hidekazu Miyauchi::Saburo Okada:::Schema Spectral Analysis.
+conf/icec/SatoN96:::Yuji Sato::Shigeki Nagaya:::Evolutionary Algorithms that Generate Recurrent Neural Networks for Learning Chaos Dynamics.
+conf/icec/SannomiyaI96:::Nobuo Sannomiya::Hitoshi Iima:::Application of Genetic Algorithm to Scheduling Problems in Manufacturing Processes.
+conf/icec/GudwinG94:::Ricardo R. Gudwin::Fernando A. C. Gomide:::Genetic Algorithms and Discrete Event Systems: An Application.
+conf/icec/DakevCF96:::Nikolay V. Dakev::Andrew J. Chipperfield::Peter J. Fleming:::An Evolutionary Approach for Path Following Optimal Control of Multibody Systems.
+conf/icec/HocaogluS96:::Cem Hocaoglu::Arthur C. Sanderson:::Planning Multi-Paths Using Speciation in Genetic Algorithms.
+conf/icec/ShenPY94:::Chang-Yun Shen::Yoh-Han Pao::Percy P. C. Yip:::Scheduling Multiple Job Problems with Guided Evolutionary Simulated Annealing Approach.
+conf/icec/TakagiO96:::Hideyuki Takagi::Kimiko Ohya:::Discrete Fitness Values for Improving Human Interface in an Interactive GA.
+conf/icec/SaitoK94:::Hideo Saito::Naoki Kobayashi II:::Evolutionary Computation Approaches to Halftoning Algorithm.
+conf/icec/MathiasW94:::Keith E. Mathias::Darrell Whitley:::Initial Performance Comparisons for the Delta Coding Algorithm.
+conf/icec/ReynoldsC96:::Robert G. Reynolds::Chan-Jin Chung:::A Self-Adaptive Approach to Representation Shifts in Cultural Algorithms.
+conf/icec/Tanaka-YamawakiK96:::Mieko Tanaka-Yamawaki::Sachiko Kitamikado:::Classification of the Totalistic and the Semitotalistic Rules of Cellular Automata.
+conf/icec/SantosD94:::José Santos Reyes::Richard J. Duro:::Evolutionary Generation and Training of Recurrent Artificial Neural Networks.
+conf/icec/PetryBPGS94:::Frederick E. Petry::Bill P. Buckles::D. Prabhu::R. George::R. Srikanth:::Fuzzy Clustering With Genetic Search.
+conf/icec/MerkleLGP96:::Laurence D. Merkle::Gary B. Lamont::George H. Gates Jr.::Ruth Pachter:::Hybrid Genetic Algorithms for Minimization of a Polypeptide Specific Energy Model.
+conf/icec/LynchK94:::Douglas B. Lynch::David C. Kuncicky:::A Knowledge-Based Genetic Heuristic for Learning Certainty Factors.
+conf/icdt/Scholl86:::Marc H. Scholl:::Theoretical Foundation of Algebraic Optimization Utilizing Unnormalized Relations.
+conf/icdt/GroheM99:::Martin Grohe::Julian Mariño:::Definability and Descriptive Complexity on Databases of Bounded Tree-Width.
+conf/icdt/Ohori90:::Atsushi Ohori:::Representing Object Identity in a Pure Functional Language.
+conf/icdt/PitouraCR03:::Evaggelia Pitoura::Panos K. Chrysanthis::Krithi Ramamritham:::Characterizing the Temporal and Semantic Coherency of Broadcast-Based Data Dissemination.
+conf/icdt/Kreutzer01:::Stephan Kreutzer:::Query Languages for Constraint Databases: First-Order Logic, Fixed-Points, and Convex Hulls.
+conf/icdt/Lenzerini99:::Maurizio Lenzerini:::Description Logics and Their Relationships with Databases.
+conf/icdt/LiS88:::Fang Li::Lawrence V. Saxton:::Two-Way Join Optimization in Partitioned Database Systems.
+conf/icdt/ConsensM90:::Mariano P. Consens::Alberto O. Mendelzon:::Low Complexity Aggregation in GraphLog and Datalog.
+conf/icdt/EdmondsGLM01:::Jeff Edmonds::Jarek Gryz::Dongming Liang::Renée J. Miller:::Mining for Empty Rectangles in Large Data Sets.
+conf/icdt/GrumbachV90:::Stéphane Grumbach::Victor Vianu:::Playing Games with Objects.
+conf/icdt/Wijsen03:::Jef Wijsen:::Condensed Representation of Database Repairs for Consistent Query Answering.

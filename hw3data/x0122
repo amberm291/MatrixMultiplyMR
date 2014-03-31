@@ -1,0 +1,200 @@
+conf/plilp/Rebelsky92:::Samuel A. Rebelsky:::I/O Trees and Interactive Lazy Functional Programming.
+conf/plilp/BevemyrL94:::Johan Bevemyr::Thomas Lindgren:::A Simple and Efficient Copying Garbage Collector for Prolog.
+conf/plilp/Schulte94:::Wolfram Schulte:::Deriving Residual Reference Count Garbage Collectors.
+conf/plilp/Pitts98:::Andrew M. Pitts:::Operational Versus Denotational Methods in the Semantics of Higher Order Languages.
+conf/plilp/KrallB92:::Andreas Krall::Thomas Berger:::Fast Prolog with VAM1p based Prolog Compiler.
+conf/plilp/DeransartM88:::Pierre Deransart::Jan Maluszynski:::A Grammatical View of Logic Programming.
+conf/plilp/Davison91:::Andrew Davison:::From Parlog to Polka in two easy Steps.
+conf/plilp/KosterB91:::Cornelis H. A. Koster::Jean Beney:::On the Borderline Between Grammars and Programs.
+conf/plilp/Kahrs92:::Stefan Kahrs:::Unlimp, Uniqueness as a Leitmotiv for Implementation.
+conf/plilp/Thompson97:::Simon J. Thompson:::Where Do I Begin? A Problem Solving Approach in teaching Functional Programming.
+conf/plilp/Nilsson90:::Ulf Nilsson:::Systematic Semantic Approximations of Logic Programs.
+conf/plilp/Hamilton96:::G. W. Hamilton:::Higher Order Deforestation.
+conf/plilp/Wakeling98:::David Wakeling:::Mobile Haskell: Compiling Lazy Functional Programs for the Java Virtual Machine.
+conf/plilp/Thiemann96:::Peter Thiemann:::Implementing Memoization for Partial Evaluation.
+conf/plilp/AlpuenteFRV93:::María Alpuente::Moreno Falaschi::María José Ramis::Germán Vidal:::Narrowing Approximations as an Optimization for Equational Logic Programs.
+conf/plilp/Christiansen88:::Henning Christiansen:::Structure Sharing in Attribute Grammars.
+conf/plilp/Smith94:::Donald A. Smith:::Why Multi-SLD Beats SLD (Even on a Uniprocessor).
+conf/plilp/ClearyL98:::John G. Cleary::Lunjin Lu:::Constructive Negation Using Typed Existence Properties.
+conf/plilp/DouenceF95:::Rémi Douence::Pascal Fradet:::Towards a Taxonomy of Functional Languages Implementations
+conf/plilp/BirkedalW94:::Lars Birkedal::Morten Welinder:::Hand-Writing Program Generator Generators.
+conf/plilp/MycroftS95:::Alan Mycroft::Kirsten Lackner Solberg:::Uniform PERs and Comportment Analysis
+conf/plilp/CuiDDKRRRSW98:::Baoqiu Cui::Yifei Dong::Xiaoqun Du::K. Narayan Kumar::C. R. Ramakrishnan::I. V. Ramakrishnan::Abhik Roychoudhury::Scott A. Smolka::David Scott Warren:::Logic Programming and Model Checking.
+conf/plilp/Wunderwald95:::Jens E. Wunderwald:::A Portable Implementation of Memoing Evaluation
+conf/plilp/PontelliRG98:::Enrico Pontelli::Desh Ranjan::Gopal Gupta:::The Complexity of Late-Binding in Dynamic Object-Oriented Languages.
+conf/plilp/Bagnara96:::Roberto Bagnara:::A Reactive Implementation of Pos Using ROBDDs.
+conf/plisp/Tokoro89:::Mario Tokoro:::Toward a New Computing Model for an Open Distributed Environment.
+conf/plisp/PehoushekW89:::Joseph Daniel Pehoushek::Joseph S. Weening:::Low-Cost Process Creation and Dynamic Partitioning in Qlisp.
+conf/plisp/ShibayamaY89:::Etsuya Shibayama::Akinori Yonezawa:::Optimistic and Pessimistic Synchronization in Distributed Computing.
+conf/ppopp/RamkumarK90:::Balkrishna Ramkumar::Laxmikant V. Kalé:::A Chare Kernel Implementation of a Parallel Prolog Compiler.
+conf/ppopp/GuLL97:::Junjie Gu::Zhiyuan Li::Gyungho Lee:::Experience with Efficient Array Data-Flow Analysis for Array Privatization.
+conf/ppopp/FeeleyBCL91:::Michael J. Feeley::Brian N. Bershad::Jeffrey S. Chase::Henry M. Levy:::Dynamic Node Reconfiguration in a Parallel-Distributed Environment.
+conf/ppopp/LamR91:::Monica S. Lam::Martin C. Rinard:::Coarse-Grain Parallel Programming in Jade.
+conf/ppopp/TambeKGFMN88:::Milind Tambe::Dirk Kalp::Anoop Gupta::Charles Forgy::Brian Milnes::Allen Newell:::Soar/PSM-E: Investigating Match Parallelism in a Learning Production System.
+conf/ppopp/KarwandeYL03a:::Amit Karwande::Xin Yuan::David K. Lowenthal:::CC-MPI: a compiled communication capable MPI prototype for ethernet switched clusters.
+conf/ppopp/InoFH01:::Fumihiko Ino::Noriyuki Fujimoto::Kenichi Hagihara:::LogGPS: a parallel computational model for synchronization analysis.
+conf/ppopp/PrabhuO03:::Manohar K. Prabhu::Kunle Olukotun:::Using thread-level speculation to simplify manual parallelization.
+conf/ppopp/BalasundaramFKK91:::Vasanth Balasundaram::Geoffrey Fox::Ken Kennedy::Ulrich Kremer:::A Static Performance Estimator to Guide Data Partitioning Decisions.
+conf/ppopp/KatseffGR90:::Howard P. Katseff::Robert D. Gaglianello::Bethany S. Robinson:::The Evolution of HPC/VORX.
+conf/ppopp/FraguelaRFPT03:::Basilio B. Fraguela::Jose Renau::Paul Feautrier::David A. Padua::Josep Torrellas:::Programming the FlexRAM parallel intelligent memory system.
+conf/ppopp/FrankAV97:::Matthew Frank::Anant Agarwal::Mary K. Vernon:::LoPC: Modeling Contention in Parallel Algorithms.
+conf/ppopp/CostaWY91:::Vítor Santos Costa::David H. D. Warren::Rang Yang:::Andorra-I: A Parallel Prolog System that Transparently Exploits both And- and Or-Parallelism.
+conf/ppopp/ChapmanMZ93:::Barbara M. Chapman::Piyush Mehrotra::Hans P. Zima:::High Performance Fortran Without Templates: An Alternative Model for Distribution and Alignment.
+conf/ppopp/OCallahanC03:::Robert O'Callahan::Jong-Deok Choi:::Hybrid dynamic data race detection.
+conf/ppopp/KennedyNS95:::Ken Kennedy::Nenad Nedeljkovic::Ajay Sethi:::A Linear-Time Algorithm for Computing the Memory Access Sequence in Data-Parallel Programs.
+conf/ppopp/GotwalsSG95:::Jacob Gotwals::Suresh Srinivas::Dennis Gannon:::pC++/streams: a Library for I/O on Complex Distributed Data Structures.
+conf/prima/VaskoMBV00:::Dave Vasko::Francisco P. Maturana::Angela Bowles::Stephen Vandenberg:::Autonomous Cooperative Factory Control.
+conf/prima/LinY01:::Yu-Hsin Lin::Soe-Tsyr Yuan:::Negotiation-Credit Driven Coalition Formation in E-Markets.
+conf/prima/SawamotoTK02:::Jun Sawamoto::Hidekazu Tsuji::Hisao Koizumi:::Continuous Truck Delivery Scheduling and Execution System with Multiple Agents.
+conf/prima/NawaSK01:::Norberto Eiji Nawa::Katsunori Shimohara::Osamu Katai:::On Fairness in an Alternating-Offers Bargaining Model with Evolutionary Agents.
+conf/prima/MathieuRS02:::Philippe Mathieu::Jean-Christophe Routier::Yann Secq:::Principles for Dynamic Multi-agent Organizations.
+conf/prima/BarberHL00:::K. Suzanne Barber::David C. Han::Tse-Hsin Liu:::Coordinating Distributed Decision Making Using Reusable Interaction Specifications.
+conf/proms/LopesMH01:::Rui J. Lopes::Laurent Mathy::David Hutchison:::Bandwidth Measurements of ALM Trees for Content Distribution.
+conf/proms/WuRS01:::Wei Wu::Yong Ren::Xiuming Shan:::An Analytical Study on TCP-friendly Congestion Control for Multimedia Streams.
+conf/proms/BenzFHS01:::Mirko Benz::Klaus Feske::Uwe Hatnik::Peter Schwarz:::TCP/IP Protocol Engine System Simulation.
+conf/qofis/RenP00:::Huan Ren::Kihong Park:::Efficient Shaping of User-Specified QoS Using Aggregate-Flow Control.
+conf/qofis/KuipersM01:::Fernando A. Kuipers::Piet Van Mieghem:::QoS Routing: Average Complexity and Hopcount in m Dimensions.
+conf/qofis/LeeSLYK01:::Sung-Hyuck Lee::Seung-Joon Seok::Seung-Jin Lee::Sung-Kwan Youm::Chul-Hee Kang:::Two-Differentiated Marking Strategies for TCP Flows in a Differentiated Services Network.
+conf/qofis/LassilaV00:::Pasi E. Lassila::Jorma T. Virtamo:::Modeling the Dynamics of the RED Algorithm.
+conf/qofis/LenziniMS03:::Luciano Lenzini::Enzo Mingozzi::Giovanni Stea:::Delay Bounds for FIFO Aggregates: A Case Study.
+conf/qofis/BoggiaCZGM03:::Gennaro Boggia::Pietro Camarda::Claudio Di Zanni::Luigi Alfredo Grieco::Saverio Mascolo:::A Dynamic Bandwidth Allocation Algorithm for IEEE 802.11e WLANs with HCF Access Method.
+conf/qosip/BoggiaCT01:::Gennaro Boggia::Pietro Camarda::Maurizio Tortorici:::Admission Control for Distribution of Smoothed Video Using Patching Algorithms.
+conf/qosip/LarzonDP01:::Lars-Åke Larzon::Mikael Degermark::Stephen Pink:::Requirements on the TCP/IP Protocol Stack for Real-Time Communication in Wireless Environments.
+conf/qosip/FumagalliT01:::Andrea Fumagalli::Marco Tacca:::Optimal Design of Optical Ring Networks with Differentiated Reliability (DiR).
+conf/qosip/BagliettoBDMM03:::Marco Baglietto::Raffaele Bolla::Franco Davoli::Mario Marchese::Maurizio Mongelli:::Best-Effort and Guaranteed Performance Services in Telecommunications Networks: Pricing and Call Admission Control Techniques.
+conf/qosip/PetraccaMLN03:::Paolo Petracca::Marco Mellia::Emilio Leonardi::Fabio Neri:::Design of WDM Networks Exploiting OTDM and Light-Splitters.
+conf/qosip/Masip-BruinSSD03:::Xavier Masip-Bruin::Sergio Sánchez-López::Josep Solé-Pareta::Jordi Dominigo-Pascual:::A QoS Routing Mechanism for Reducing the Routing Inaccuracy Effects.
+conf/qosip/BoscoMMU03:::Alessandro Bosco::Roberto Mameli::Eleonora Manconi::Fabio Ubaldi:::Edge Distributed Admission Control for Performance Improvement in Traffic Engineered Networks.
+conf/qosip/LinSCCCL03:::Tsung-Ching Lin::Yeali S. Sun::Shi-Chung Chang::Shao-I Chu::Yi-Ting Chou::Mei-Wen Li:::Priority-Based Internet Access Control for Fairness Improvement and Abuse Reduction.
+conf/qosip/BernardiniGPT01:::Giulia Bernardini::Stefano Giordano::Gregorio Procissi::Sandra Tartarelli:::Analysis and Performance Evaluation of a Connection Admission Control Scheme Based on the Many Sources Asymptotic.
+conf/saint/KawadaMA01:::Masato Kawada::Hiroyuki Morikawa::Tomonori Aoyama:::Cooperative Inter-Stream Rate Control Scheme for Layered Multicast.
+conf/saint/AkashiHSKMS03:::Osamu Akashi::Toshio Hirotsu::Koji Sato::Kenichi Kourai::Mitsuro Maruyama::Toshiharu Sugawara:::Agents Support for Flexible Inter-AS Policy Control.
+conf/saint/XuI03:::Cheng-Zhong Xu::Tamer I. Ibrahim:::Towards Semantics-Based Prefetching to Reduce Web Access Latency.
+conf/saint/Chown03:::Tim Chown:::IPv6 Initiatives Within the European National Research and Education Networks (NRENs).
+conf/saint/KusumuraHN03:::Yukitaka Kusumura::Yoshinori Hijikata::Shogo Nishida:::NTM-Agent: Text Mining Agent or Net Auction.
+conf/saint/YangK03:::Seung Su Yang::Javed I. Khan:::Delay and Jitter inimization in Active Diffusion Computing.
+conf/saint/JiangHO03:::Ning Jiang::Kien A. Hua::Jung-Hwan Oh:::Exploiting Pattern Relationship for Intrusion Detection.
+conf/saint/HelalSMKJ02:::Abdelsalam Helal::Stanley Y. W. Su::Jie Meng::Raja Krithivasan::Arun Jagatheesan:::The Internet Enterprise.
+conf/saint/KiyotaK01:::Youji Kiyota::Sadao Kurohashi:::Automatic Summarization of Japanese Sentences and Its Application to a WWW KWIC.
+conf/saint/KatsunoYKE03:::Satoshi Katsuno::Katsuyuki Yamazaki::Takahiro Kubo::Hiroshi Esaki:::Measurement and Analysis of Multimedia Application and IPv6 ADSL Internet Access Network.
+conf/saint/KuwanaYH03:::Eiji Kuwana::Taishi Yahara::Toshitaka Hoshi:::System Design Issues for Broadband Content Delivery Services.
+conf/saint/NakauchiMA01:::Kiyohide Nakauchi::Hiroyuki Morikawa::Tomonori Aoyama:::Network-Supported Rate Control Mechanism for Multicast Streaming Media.
+conf/saint/Maes02a:::Stéphane H. Maes:::A VoiceXML Framework for Reusable Dialog Components.
+conf/saint/UedaOSM03:::Kazunori Ueda::Hiroyuki Ohsaki::Shinji Shimojo::Hideo Miyahara:::Design and Implementation of Real-Time Digital Video Streaming System over IPv6 Network using Feedback Control.
+conf/saint/KwonR03:::Gisik Kwon::Kyung Dong Ryu:::An Efficient Peer-to-Peer File Sharing Exploiting Hierarchy and Asymmetry.
+conf/saint/ArcieriFGNT03:::Franco Arcieri::F. Fioravanti::R. Giaccio::Enrico Nardelli::Maurizio Talamo:::Certifying performance of cooperative services in a digital government framework.
+conf/saint/FengV03:::Wu-chun Feng::S. Vanichpun:::Enabling Compatibility Between TCP Reno and TCP Vegas.
+conf/saint/GaluszewskaS03:::Malgorzata Galuszewska::Jean-Michel Sahut:::Intelligent Agent Stake for E-Commerce.
+conf/saint/SahniK02:::Sartaj Sahni::Kun Suk Kim:::Efficient Construction of Variable-Stride Multibit Tries for IP Lookup.
+conf/saint/KhaliliKA03:::Aram Khalili::Jonathan Katz::William A. Arbaugh:::Toward Secure Key Distribution in Truly Ad-Hoc Networks.
+conf/saint/SatoOM02:::Hiroyuki Sato::Kenji Otomo::Tsuyoshi Masuo:::A Knowledge Sharing System using XML Linking Language and Peer-to-Peer Technology.
+conf/saint/TsuchimotoMO03:::Yasuo Tsuchimoto::Shoko Mikawa::Keiko Okawa:::The deployment of UDL network on satellite circuit with training workshop.
+conf/saint/JengCC03:::Jun-Jang Jeng::Henry Chang::Jen-Yao Chung:::BPMM: A Grid-Based Architectural Framework for Business Process Meta Management.
+conf/saint/KumaranNHBD03:::Santhosh Kumaran::Prabir Nandi::Terry Heath::Kumar Bhaskaran::Raja Das:::ADoc-Oriented Programming.
+conf/scoop/FerreiraP96:::Afonso Ferreira::Panos M. Pardalos:::SCOOP: Solving Combinatorial Optimization Problems in Parallel.
+conf/scoop/BruinKT96:::Arie de Bruin::Gerard A. P. Kindervater::Harry W. J. M. Trienekens:::Towards an abstract parallel branch and bound machine.
+conf/seaai/Roddis98:::W. M. Kim Roddis:::Knowledge-based assistants in collaborative engineering.
+conf/seaai/Abe98:::Masato Abé:::Structural monitoring of civil structures using vibration measurement - current practice and future.
+conf/seaai/Fenves98:::Steven J. Fenves:::Towards personalized structural engineering tools.
+conf/seaai/BadrahMK98:::Mustafa Kamal Badrah::Iain MacLeod::Bimal Kumar:::Object-oriented software patterns for engineering design standards processing.
+conf/seaai/StalkerS98a:::Ruth Stalker::Ian E. Smith:::Augmented Reality Applications to Structural Monitoring.
+conf/seaai/AndersonH98:::Tom Anderson::Susanne C. Hartvig:::Teaching knowledge engineering: Experiences.
+conf/seaai/JohanssonP98:::Peter Johansson::Stoylmina Popova:::Case-based design process facilitating collaboration and information evolution.
+conf/shape/KriegmanBG99:::David J. Kriegman::Peter N. Belhumeur::Athinodoros S. Georghiades:::Representations for Recognition Under Variable Illumination.
+conf/shape/SatoC99:::Jun Sato::Roberto Cipolla:::Quasi-Invariant Parameterisations and Their Applications in Computer Vision.
+conf/rsctc/Hu02:::Xiaohua Hu:::Comparison of Classification Methods for Customer Attrition Analysis.
+conf/rsctc/Gryzmala-BusseG93:::Dobroslawa M. Gryzmala-Busse::Jerzy W. Gryzmala-Busse:::Comparison of Machine Learning and Knowledge Acquisition Methods of Rule Induction Based on Rough Sets.
+conf/rsctc/Johnson98:::Julia A. Johnson:::Rough Mereology for Industrial Design.
+conf/rsctc/Latkowski02:::Rafal Latkowski:::Incomplete Data Decomposition for Classification.
+conf/rsctc/SlowinskiS93a:::Krzysztof Slowinski::El Sanossy Sharif:::Rough Sets Approach to Analysis of Data of Diagnostic Peritoneal Lavage Applied for Multiple Injuries Patients.
+conf/rsctc/RamseyA02:::Frederick V. Ramsey::James J. Alpigini:::Rough Sets, Guarded Command Language, and Decision Rules.
+conf/rsctc/Wojcik93:::Zbigniew M. Wójcik:::Intelligent Image Filtering Using Rough Sets.
+conf/rsctc/KlopotekW98:::Mieczyslaw A. Klopotek::Slawomir T. Wierzchon:::A New Qualitative Rough-Set Approach to Modeling Belief Functions.
+conf/rsctc/Kryszkiewicz98:::Marzena Kryszkiewicz:::Fast Discovery of Representative Association Rules.
+conf/rsctc/Tian00:::Lihan Tian:::The Nature of Crossover Operator in Genetic Algorithms.
+conf/rsctc/IgnasiakS98:::Krystian Ignasiak::Wladyslaw Skarbek:::Pattern Recognition by Invariant Reference Points.
+conf/rsctc/Moshkov00:::Mikhail Moshkov:::Classification of Infinite Information Systems.
+conf/rsctc/YaoL93:::Y. Y. Yao::Xining Li:::Uncertain Reasoning with Interval-Set Algebra.
+conf/rsctc/JohnsonLC00:::Julia A. Johnson::Mengchi Liu::Hong Chen:::Unification of Knowledge Discovery and Data Mining Using Rough Sets Approach in a Real-World Application.
+conf/rsctc/Grzymala-BusseH00:::Jerzy W. Grzymala-Busse::Ming Hu:::A Comparison of Several Approaches to Missing Attribute Values in Data Mining.
+conf/rsctc/KrolikowskiCK00:::Rafal Królikowski::Andrzej Czyzewski::Bozena Kostek:::Localization of Sound Sources by Means of Recurrent Neural Networks.
+conf/rsctc/Traczyk98:::Wieslaw Traczyk:::Approximations in Data Mining.
+conf/rsctc/SedelowS93:::Walter A. Sedelow Jr.::Sally Yeates Sedelow:::Knowledge Recognition, Rough Sets, and Formal Concept Lattices.
+conf/rsctc/ZhouW98:::Yujian Zhou::Jue Wang:::Rule+Exception Modeling Based on Rough Set Theory.
+conf/rsctc/IntanM02:::Rolly Intan::Masao Mukaidono:::A Proposal of Probability of Rough Event Based on Probability of Fuzzy Event.
+conf/rsctc/Piatetsky-Shapiro93:::Gregory Piatetsky-Shapiro:::An Overview of Knowledge Discovery in Database: Recent Progress and Challenges.
+conf/rsctc/LenarcikP93:::Andrzej Lenarcik::Zdzislaw Piasta:::Rough Classifiers.
+conf/rsctc/StefanowskiT02:::Jerzy Stefanowski::Alexis Tsoukiàs:::Induction of Decision Rules and Classification in the Valued Tolerance Approach.
+conf/rsctc/SlowinskiS93:::Roman Slowinski::Jerzy Stefanowski:::Handling Various Types of Uncertainty in the Rough Set Approach.
+conf/rsctc/MidelfartK02:::Herman Midelfart::Henryk Jan Komorowski:::A Rough Set Framework for Learning in a Directed Acyclic Graph.
+conf/rsctc/InuiguchiT00:::Masahiro Inuiguchi::Tetsuzo Tanino:::A New Class of Necessity Measures and Fuzzy Rough Sets Based on Certainty Qualifications.
+conf/rsctc/Pacholczyk98:::Daniel Pacholczyk:::A New Approach to Linguistic Negation Based upon Compatibility Level and Tolerance Threshold.
+conf/rsctc/Fernandez-BaizanRSSM00:::María C. Fernández-Baizán::Ernestina Menasalvas Ruiz::José M. Peña Sánchez::Juan Francisco Martínez Sarrías::Socorro Millán:::Using the Apriori Algorithm to Improve Rough Sets Results.
+conf/rsctc/Chikalov00:::Igor Chikalov:::On Algorithm for Constructing of Decision Trees with Minimal Number of Nodes.
+conf/rsctc/Fernandez-BaizanPFA00:::María C. Fernández-Baizán::C. Pérez-Llera::J. Feito-García::A. Almeida:::LEM3 Algorithm Generalization Based on Stochastic Approximation Space.
+conf/sigal/Avis90:::David Avis:::On the Complexity of Isometric Embedding in the Hypercube.
+conf/sigal/TsotrasGH90:::Vassilis J. Tsotras::B. Gopinath::George W. Hart:::Optimally Managing the History of an Evolving Forest.
+conf/sigal/Pippenger90:::Nicholas Pippenger:::Selection Networks.
+conf/sigal/GuibasSS90:::Leonidas J. Guibas::David Salesin::Jorge Stolfi:::Constructing Strongly Convex Approximate Hulls with Inaccurate Primitives.
+conf/sigal/DjokicMSSS90:::Borivoje Djokic::Masahiro Miyakawa::Satoshi Sekiguchi::Ichiro Semba::Ivan Stojmenovic:::Parallel Algorithms for Generating Subsets and Set Partitions.
+conf/sigal/Schoning90:::Uwe Schöning:::Complexity Cores and Hard Problem Instances.
+conf/sigal/KlaweL90:::Maria M. Klawe::Tom Leighton:::A Tight Lower Bound on the Size of Planar Permutation Networks.
+conf/sigal/EdelsbrunnerS90:::Herbert Edelsbrunner::Micha Sharir:::A Hyperplane Incidence Problem with Applications to Counting Distances.
+conf/sigir/Li03:::Xiaoyan Li:::Syntactic features in question answering.
+conf/sigir/RaghavanB79:::Vijay V. Raghavan::Kim Birchard:::A Clustering Strategy Based on a Formalism of the Reproductive Process in Natural Systems.
+conf/sigir/RaghavanI82:::Vijay V. Raghavan::M. Y. L. Ip:::Techniques for Measuring the Stability of Clustering: A Comparative Study.
+conf/sigir/Fraenkel81:::Aviezri S. Fraenkel:::Document Classification, Indexing and Abstracting May be Inherently Difficult Problems.
+conf/sigir/MillerLS99:::David R. H. Miller::Tim Leek::Richard M. Schwartz:::A Hidden Markov Model Information Retrieval System.
+conf/sigir/CanO83:::Fazli Can::Esen A. Ozkarahan:::A Clustering Scheme.
+conf/sigir/ChiaramellaN90:::Yves Chiaramella::Jian-Yun Nie:::A Retrieval Model Based on an Extended Modal Logic and its Application to the RIME Experimental Approach.
+conf/sigir/Broder03:::Andrei Z. Broder:::Keynote Address - exploring, modeling, and using the web graph.
+conf/sigir/MiikeIOS94:::Seiji Miike::Etsuo Itoh::Kenji Ono::Kazuo Sumita:::A Full-Text Retrieval System with a Dynamic Abstract Generation Function.
+conf/sigir/Teskey87:::F. N. Teskey:::Enriched Knowledge Representations for Information Retrieval.
+conf/sigir/PonteC98:::Jay M. Ponte::W. Bruce Croft:::A Language Modeling Approach to Information Retrieval.
+conf/sigir/Baumgarten97:::Christoph Baumgarten:::A Probabilistic Model for Distributed Information Retrieval.
+conf/sigir/Shalev-ShwartzDFS02:::Shai Shalev-Shwartz::Shlomo Dubnov::Nir Friedman::Yoram Singer:::Robust temporal and spectral modeling for query By melody.
+conf/sigir/Gustafson71:::Richard A. Gustafson:::Elements of the Randomized Combinatorial File Structure.
+conf/sigir/Hill78:::Edward Hill Jr.:::Analysis of An Inverted Data Base Structure.
+conf/sigir/RagasK98:::Hein Ragas::Cornelis H. A. Koster:::Four Text Classification Algorithms Compared on a Dutch Corpus.
+conf/sigir/Belkin88:::Nicholas J. Belkin:::On the Nature and Function of Explanation in Intelligent Information Retrieval.
+conf/sigir/Hoch94:::Rainer Hoch:::Using IR Techniques for Text Classification in Document Analysis.
+conf/sigir/Hull93:::David A. Hull:::Using Statistical Testing in the Evaluation of Retrieval Experiments.
+conf/sigir/Callan98:::James P. Callan:::Learning While Filtering Focuments.
+conf/sigir/Huther90:::Hubert Hüther:::On the Interrelationship of Dictionary Size and Completeness.
+conf/sigir/XuC96:::Jinxi Xu::W. Bruce Croft:::Query Expansion Using Local and Global Document Analysis.
+conf/sigir/ItoK87:::Tetsuro Ito::Mana Kubota:::A Retrieval System for On-Line English-Japanese Dictionaries.
+conf/sigir/FitzpatrickD97:::Larry Fitzpatrick::Mei Dent:::Automatic Feedback Using Past Queries: Social Searching?
+conf/sigir/Lam-AdesinaJ01:::Adenike M. Lam-Adesina::Gareth J. F. Jones:::Applying Summarization Techniques for Term Selection in Relevance Feedback.
+conf/sigir/BruzaS03:::Peter Bruza::Dawei Song:::A comparison of various approaches for using probabilistic dependencies in language modeling.
+conf/sigir/LaiT98:::Ting-Sheng Lai::John Tait:::Using Global Colour Features for General Photographic Image Indexing and Retrieval.
+conf/sigir/LeeC98:::Ming-Jer Lee::Lee-Feng Chien:::Automatic Acquisition of Phrasal Knowledge for English-Chinese Bilingual Information Retrieval.
+conf/sigir/LeeD99:::Jonghoon Lee::David Dubin:::Context-Sensitive Vocabulary Mapping with a Spreading Activation Network.
+conf/sigir/Lesk85:::Michael Lesk:::Graphical Information Resources: Maps and Beyond.
+conf/sigir/Lin99b:::Chin-Yew Lin:::Information Access Across the Language Barrier: The MuST System (demonstration abstract).
+conf/sigir/CraswellHR01:::Nick Craswell::David Hawking::Stephen E. Robertson:::Effective Site Finding Using Link Anchor Information.
+conf/sigir/PantelL02:::Patrick Pantel::Dekang Lin:::Document clustering with committees.
+conf/sigir/LuoY91:::Chengjie Luo::Clement T. Yu:::Image Decompression: A Hybrid Image Decompressing Algorithm.
+conf/sigir/FukumotoS00:::Fumiyo Fukumoto::Yoshimi Suzuki:::Event tracking based on domain dependency.
+conf/sigir/TellexKLFM03:::Stefanie Tellex::Boris Katz::Jimmy J. Lin::Aaron Fernandes::Gregory Marton:::Quantitative evaluation of passage retrieval algorithms for question answering.
+conf/sigir/Hopper96:::Andy Hopper:::The Network Computer.
+conf/sigir/Defude84:::Bruno Defude:::Knowledge Based Systems Versus Thesaurus: An Architecture Problem About Expert Systems Design.
+conf/sigir/SmithSGC89:::Philip J. Smith::Steven J. Shute::Deb Galdes::Mark H. Chignell:::In Search of Knowledge-Based Search Tactics.
+conf/sigir/FranzR98:::Martin Franz::Salim Roukos:::A Method for Scoring Correlated Features in Query Expansion.
+conf/sigir/CarmelMMMS03:::David Carmel::Yoelle S. Maarek::Matan Mandelbrod::Yosi Mass::Aya Soffer:::Searching XML documents via XML fragments.
+conf/sigir/AsadovS00:::Vadim Asadov::Serge Shumsky:::Semantic Explorer - navigation in documents collections, Proxima Daily - learning personal newspaper.
+conf/sigir/KampsMRS03:::Jaap Kamps::Maarten Marx::Maarten de Rijke::Börkur Sigurbjörnsson:::XML retrieval: what to retrieve?
+conf/sigir/Yang94:::Yiming Yang:::Expert Network: Effective and Efficient Learning from Human Decisions in Text Categorization and Retrieval.
+conf/sigir/TagueN81:::Jean Tague::Michael Nelson:::Simulation of User Judgments in Bibliographic Retrieval Systems.
+conf/sigir/JingM99:::Hongyan Jing::Kathleen McKeown:::The Decomposition of Human-Written Summary Sentences.
+conf/sigir/HascoetS98:::Mountaz Hascoët::Xavier Soinard:::Using Maps as a User Interface to a Digital Library.
+conf/sigir/Robertson81:::Stephen E. Robertson:::Term Frequency and Term Value.
+conf/sigir/SuzukiFS98:::Yoshimi Suzuki::Fumiyo Fukumoto::Yoshihiro Sekiguchi:::Keyword Extraction of Radio News Using Term Weighting with an Encyclopedia and Newspaper Articles.
+conf/sigir/CampagnoniE89:::F. R. Campagnoni::Kate Erlich:::Information Retrieval Using a Hypertext-Based Help System.
+conf/sigir/SheridanB96:::Paraic Sheridan::Jean Paul Ballerini:::Experiments in Multilingual Information Retrieval Using the SPIDER System.
+conf/sigir/LewisSS99:::David D. Lewis::Daniel L. Stern::Amit Singhal:::ATTICS: A Software Platform for Online Text Classification (poster abstract).
+conf/sigir/LarsenI02:::Birger Larsen::Peter Ingwersen:::The boomerang effect: retrieving scientific documents via the network of references and citations.
+conf/sigir/BallesterosC97:::Lisa Ballesteros::W. Bruce Croft:::Phrasal Translation and Query Expansion Techniques for Cross-language Information Retrieval.
+conf/sigir/Schauble88:::Peter Schäuble:::An Information Structure Dealing with Term Dependence and Polysemy.
+conf/sigir/Henningen91:::Scott Henningen:::Retrieving Software Objects in an Example-Based Programming Environment.
+conf/sigir/YangW03:::Christopher C. Yang::Fu Lee Wang:::Fractal summarization: summarization based on fractal theory.
+conf/sigir/Wilkinson94:::Ross Wilkinson:::Effective Retrieval of Structured Documents.

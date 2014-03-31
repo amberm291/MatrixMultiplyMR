@@ -1,0 +1,200 @@
+conf/iclp/MarekNR92a:::V. Wiktor Marek::Anil Nerode::Jeffrey B. Remmel:::Rule Systems and Well-Orderings.
+conf/iclp/SakamaI93:::Chiaki Sakama::Katsumi Inoue:::Negation in Disjunctive Logic Programs.
+conf/iclp/SakamaI94:::Chiaki Sakama::Katsumi Inoue:::On the Equivalence between Disjunctive and Abductive Logic Programs.
+conf/iclp/NaishTR87:::Lee Naish::James A. Thom::Kotagiri Ramamohanarao:::Concurrent Database Updates in PROLOG.
+conf/iclp/AjiliK97:::Farid Ajili::Claude Kirchner:::A Modular Framework for the Combination of Unification and Built-In Constraints.
+conf/iclp/KusalikO93:::Anthony J. Kusalik::Gregory M. Oster:::Towards Generalized Visualization Support for Logic Programming.
+conf/iclp/Port88:::Graeme S. Port:::A Simple Approach to Finding the Cause of Non-Unifiability.
+conf/iclp/HeintzeJ95:::Nevin Heintze::Joxan Jaffar:::A Generic Algorithm for CLP Analysis.
+conf/iclp/Bonatti02:::Piero A. Bonatti:::Reasoning with Infinite Stable Models II: Disjunctive Programs.
+conf/iclp/MarkuszK82:::Zsuzsanna Markusz::A. A. Kaposi:::A Design Methodology in Prolog Programming.
+conf/iclp/Sato95:::Taisuke Sato:::A Statistical Learning Method for Logic Programs with Distribution Semantics.
+conf/iclp/Shen92:::Kish Shen:::Exploiting Dependent And-Parallelism in Prolog: The Dynamic Dependent And-Parallel Scheme (DDAS).
+conf/iclp/KiyoharaC92:::Ryozo Kiyohara::Takashi Chikayama:::Parallel Inference System of the FGCS Project - Status Report.
+conf/iclp/Abramson82:::Harvey Abramson:::Unification-based Conditional Binding Constructs.
+conf/iclp/Tick92:::Evan Tick:::Advanced Tutorial: Concurrent Logic Programming.
+conf/iclp/RefaloH96:::Philippe Refalo::Pascal Van Hentenryck:::CLP(Rlin) Revised.
+conf/iclp/GuptaHC92:::Gopal Gupta::Manuel V. Hermenegildo::Vítor Santos Costa:::Generalized Stack-copying for And-Or Parallel Execution of Full Prolog.
+conf/iclp/ChenW91:::Weidong Chen::David Scott Warren:::An Intensional Logic of (Multi-Arity) Set Abstractions.
+conf/iclp/Cousot01:::Patrick Cousot:::Design of Syntactic Program Transformations by Abstract Interpretation of Semantic Transformations.
+conf/iclp/JacquetB95:::Jean-Marie Jacquet::Koenraad De Bosschere:::On Composing Concurrent Logic Processes.
+conf/iclp/JacquetM92:::Jean-Marie Jacquet::Luís Monteiro:::Communicating Clauses: Towards Synchronous Communication in Contextual Logic Programming.
+conf/iclp/JaffarM87:::Joxan Jaffar::Spiro Michaylov:::Methodology and Implementation of a CLP System.
+conf/iclp/Grumbach82:::Alain Grumbach:::Knowledge Acquisition in Prolog.
+conf/iclp/LadretR93:::Didier Ladret::Michel Rueher:::Contribution of Logic Programming to Support Telecommunications Protocol Tests.
+conf/iclp/JamilD02:::Hasan M. Jamil::Gillian Dobbie:::A Model Theoretic Semantics for Multi-level Secure Deductive Databases.
+conf/iclp/Zhou98:::Neng-Fa Zhou:::A High-Level Intermediate Language and the Algorithms for Compiling Finite-Domain Constraints.
+conf/iclp/SchwitterF96:::Rolf Schwitter::Norbert E. Fuchs:::Attempto Controlled English (ACE) A Seemingly Informal Bridgehead in Formal Territory (Poster Abstract).
+conf/iclp/Puget96:::Jean-Francois Puget:::Constraint Programming (Abstract).
+conf/iclp/Turner93:::Hudson Turner:::A Monotonicity Theorem for Extended Logic Programs.
+conf/iclp/BonnerK93:::Anthony J. Bonner::Michael Kifer:::Transaction Logic Programming.
+conf/iclp/Fribourg91:::Laurent Fribourg:::Extracting Logic Programs from Proofs that Use Extended Prolog Execution and Induction.
+conf/iclp/BackerB93:::Bruno De Backer::Henri Beringer:::A CLP Language Handling Disjunctions of Linear Constraints.
+conf/iclp/Mesnard96:::Frédéric Mesnard:::Inferring Left-terminating Classes of Queries for Constraint Logic Programs.
+conf/iclp/CastroC01:::Luís Fernando Castro::Vítor Santos Costa:::Understanding Memory Management in Prolog Systems.
+conf/iclp/CarlssonG93:::Mats Carlsson::Mats Grindal:::Automatic Frequency Assignment for Cellular Telephones Using Constraint Satisfaction Techniques.
+conf/iclp/FurukawaNM82:::Koichi Furukawa::Katsumi Nitta::Yuji Matsumoto:::Prolog Interpreter Based on Concurrent Programming.
+conf/iclp/ColussiM92:::Livio Colussi::Elena Marchiori:::A Predicate Transformer for Unification.
+conf/iclp/Tarver94:::M. Tarver:::A Typed Functional Language Based on Sequent Calculus.
+conf/iclp/KingS92:::Andy King::Paul Soper:::Schedule Analysis of Concurrent Logic programs.
+conf/iclp/RawlingsTNFS86:::Christopher J. Rawlings::W. R. Taylor::J. Nyakairu::J. Fox::Michael J. E. Sternberg:::Using Prolog to Represent and Reason about Protein Structure.
+conf/iclp/MartelliR86:::Alberto Martelli::Gianfranco Rossi:::On the Semantics of Logic Programing Languages.
+conf/iclp/Szeredi92:::Péter Szeredi:::Exploiting Or-Parallelism in Optimisation Problems.
+conf/iclp/Bansal94:::Arvind K. Bansal:::Towards a Formal Computation Model of Associative Logic Programming.
+conf/iclp/BrogiLMM92:::Antonio Brogi::Evelina Lamma::Paolo Mancarella::Paola Mello:::Normal Logic Programs as Open Positive Programs.
+conf/iclp/Lever91:::Jonathan M. Lever:::Proving Program Properties by Means of SLS-Resolution.
+conf/iclp/ProiettiP99:::Maurizio Proietti::Alberto Pettorossi:::Transforming Inductive Definitions.
+conf/iclp/Angelopoulos02:::Nicos Angelopoulos:::Probabilistic Finite Domains: A Brief Overview.
+conf/iclp/Dumant92:::Bruno Dumant:::hecking the Soundness of Resolution Schemes.
+conf/iclp/CholewinskiMMT95:::Pawel Cholewinski::V. Wiktor Marek::Artur Mikitiuk::Miroslaw Truszczynski:::Experimenting with Nonmonotonic Reasoning.
+conf/iclp/Maher86:::Michael J. Maher:::Eqivalences of Logic Programs.
+conf/iclp/CrammondL93:::Jim A. Crammond::Tim Lindholm:::Memory Management in Quintus Prolog.
+conf/iclp/Nakamura86:::Katsuhiko Nakamura:::Control of Logic Program Execution Based on the Functional Relations.
+conf/iclp/PontelliGWF98:::Enrico Pontelli::Gopal Gupta::Janyce Wiebe::David Farwell:::Natural Language Multiprocessing: A Case Study.
+conf/iclp/InamuraO90:::Yu Inamura::Satoshi Onishi:::A Detection Algorithm of Perpetual Suspension in KL1.
+conf/iclp/Bruynooghe82a:::Maurice Bruynooghe:::Adding Redundancy to Obtain more Reliable and Readable Prolog Programs.
+conf/iclp/BruynoogheJ88:::Maurice Bruynooghe::Gerda Jenssens:::An Instance of Abstract Interpretation Integrating Type and Mode Inferencing.
+conf/iclp/Ferry92:::Audrey Ferry:::A Topological Characterization of the Stable and Minimal Model Classes of Propositional Logical Programs.
+conf/iclp/GavanelliLMM99:::Marco Gavanelli::Evelina Lamma::Paola Mello::Michela Milano:::Domains as First Class Objects in CLP(FD).
+conf/iclp/PontelliG96:::Enrico Pontelli::Gopal Gupta:::Dependent And-Parallelism Revisited (Poster Abstract).
+conf/iclp/KlingerS88:::Shmuel Klinger::Ehud Y. Shapiro:::A Decision Tree Compilation Algorithm for FCP(!, : , ?).
+conf/iclp/Reintjes88:::Peter B. Reintjes:::A VLSI Design Environment in PROLOG.
+conf/iclp/OlderR92:::William J. Older::John A. Rummell:::An Incremental Garbage Collector for WAM-Based Prolog.
+conf/iclp/Robinet91:::Bernard Robinet:::Logic Programming at IBM: From the Lab to the Customer.
+conf/iclp/Neumerkel96:::Ulrich Neumerkel:::Interprocedural Register Allocation for the WAM based on Source to Source Transformations.
+conf/iclp/HermenegildoGC95:::Manuel V. Hermenegildo::Daniel Cabeza Gras::Manuel Carro:::Using Attributed Variables in the Implementation of Concurrent and Parallel Logic Programming Systems.
+conf/iclp/Naish88:::Lee Naish:::Parallelizing NU-Prolog.
+conf/iclp/Naish96:::Lee Naish:::A Declarative View of Modes.
+conf/iclp/BigotDM92:::Peter A. Bigot::Saumya K. Debray::Kim Marriott:::Understanding Finiteness Analysis Using Abstract Interpretation.
+conf/iclp/CodognetD95:::Philippe Codognet::Daniel Diaz:::WAMCC: Compiling Prolog to C.
+conf/iclp/Kursawe86:::Peter Kursawe:::How to Invent a Prolog Machine.
+conf/iclp/BarklundDCL95:::Jonas Barklund::Pierangelo Dell'Acqua::Stefania Costantini::Gaetano Aurelio Lanzarone:::Semantical Properties of SLD-Resolution with Reflection.
+conf/iclp/FagesP98:::François Fages::Massimo Paltrinieri:::A Generic Type System for CLP(chi).
+conf/iclp/McCord84:::Michael C. McCord:::Semantic Interpretation for the Epistle System.
+conf/iclp/BoigelotW02:::Bernard Boigelot::Pierre Wolper:::Representing Arithmetic Constraints with Finite Automata: An Overview.
+conf/iclp/Kluzniak87:::Feliks Kluzniak:::Type Synthesis for Ground Prolog.
+conf/iclp/CodishDFB93:::Michael Codish::Dennis Dams::Gilberto Filé::Maurice Bruynooghe:::Freeness Analysis for Logic Programs - And Correctness?
+conf/iclp/CosciaFLST88:::Patrizia Coscia::Paola Franceschi::Giorgio Levi::Giuseppe Sardu::Luigia Torre:::Meta-Level Definition and Compilation of Inference Engines in the Epsilon Logic Programming Environment.
+conf/iclp/Eshghi88:::Kave Eshghi:::Abductive Planning with Event Calculus.
+conf/iclp/PedreschiR99:::Dino Pedreschi::Salvatore Ruggieri:::Bounded Nondeterminism of Logic Programs.
+conf/iclp/Moinard88:::Yves Moinard:::Pointwise Circumscription is Equivalent to Predicate Completion (Sometimes).
+conf/iclp/Hanus93:::Michael Hanus:::Analysis of Nonlinear Constraints in CLP(R).
+conf/iclp/SterlingN87:::Leon Sterling::Yossi Nygate:::PYTHON: An Expert Squeezer.
+conf/iclp/FooRTW88:::Norman Y. Foo::Anand S. Rao::Andrew Taylor::Adrian Walker:::Deduced Relevant Types and Constructive Negation.
+conf/iclp/BoulangerS94:::Dmitri Boulanger::Danny De Schreye:::Compiling Control Revisited: A New Approach based upon Abstract Interpretation.
+conf/iclp/Grivas94:::Georgios Grivas:::Efficient Integration of Declarative Paradigms into Symbolic Computation Systems.
+conf/iclp/MansfieldTMN91:::Glenn Mansfield::Atsushi Togashi::Nobuhisa Miake::Shoichi Noguchi:::AMLOG-E: A New Approach towards Amalgamation.
+conf/iclp/Raamsdonk97:::Femke van Raamsdonk:::Translating Logic Programs into Conditional Rewriting Systems.
+conf/icmi/Zou00:::Dongfang Zou:::Local Subspace Classifier in Reproducing Kernel Hilbert Space.
+conf/icmi/WangLHYW00:::Ren-Hua Wang::Qinfeng Liu::Yu Hu::Bo Yin::Xiaoru Wu:::KD2000 Chinese Text-To-Speech System.
+conf/icmi/ShimadaKY00:::Daisuke Shimada::Kunihito Kato::Kazuhiko Yamamoto:::A Lock Opening and Closing System with the Image Base Using a Cellular Phone through the Internet.
+conf/icmi/RenZD00:::Xiangshi Ren::Gao Zhang::Guozhong Dai:::An Experimental Study of Input Modes for Multimodal Human-Computer Interaction.
+conf/icmi/ZhangZGC00:::Hongming Zhang::Debin Zhao::Wen Gao::Xilin Chen:::Combining Skin Color Model and Neural Network for Rotation Invariant Face Detection.
+conf/icmi/LiuKSF00:::Cheng-Lin Liu::Masashi Koga::Hiroshi Sako::Hiromichi Fujisawa:::Aspect Ratio Adaptive Normalization for Handwritten Character Recognition.
+conf/icmi/HeZYZ00:::Yuwen He::Li Zhao::Shiqiang Yang::Yuzhuo Zhong:::Region-Based Tracking in Video Sequences Using Planar Perspective Models.
+conf/icml/Bain91:::Michael Bain:::Experiments in Non-Monotonic Learning.
+conf/icml/Bi03:::Jinbo Bi:::Multi-Objective Programming in SVMs.
+conf/icml/AberdeenB02:::Douglas Aberdeen::Jonathan Baxter:::Scalable Internal-State Policy-Gradient Methods for POMDPs.
+conf/icml/HolderCB92:::Lawrence B. Holder::Diane J. Cook::Horst Bunke:::Fuzzy Substructure Discovery.
+conf/icml/NakamuraA98:::Atsuyoshi Nakamura::Naoki Abe:::Collaborative Filtering Using Weighted Majority Prediction Algorithms.
+conf/icml/DzeroskiZ02:::Saso Dzeroski::Bernard Zenko:::Is Combining Classifiers Better than Selecting the Best One.
+conf/icml/Hall00:::Mark A. Hall:::Correlation-based Feature Selection for Discrete and Numeric Class Machine Learning.
+conf/icml/DevaneyR97:::Mark Devaney::Ashwin Ram:::Efficient Feature Selection in Conceptual Clustering.
+conf/icml/Mahadevan89:::Sridhar Mahadevan:::Using Determinations in EBL: A Solution to the incomplete Theory Problem.
+conf/icml/KowalczykFG91:::Adam Kowalczyk::Herman L. Ferrá::Ken Gardiner:::Discovering Production Rules with Higher Order Neural Networks.
+conf/icml/Manago89:::Michel Manago:::Knowledge Intensive Induction.
+conf/icml/Howe00:::Nicholas R. Howe:::Data as Ensembles of Records: Representation and Comparison.
+conf/icml/ManguB97:::Lidia Mangu::Eric Brill:::Automatic Rule Acquisition for Spelling Correction.
+conf/icml/ScottM99:::Sam Scott::Stan Matwin:::Feature Engineering for Text Classification.
+conf/icml/BrunkP91:::Clifford Brunk::Michael J. Pazzani:::An Investigation of Noise-Tolerant Relational Concept Learning Algorithms.
+conf/icml/WuC03:::Gang Wu::Edward Y. Chang:::Adaptive Feature-Space Conformal Transformation for Imbalanced-Data Learning.
+conf/icml/YuL03:::Lei Yu::Huan Liu:::Feature Selection for High-Dimensional Data: A Fast Correlation-Based Filter Solution.
+conf/icml/ShihRCK03:::Lawrence Shih::Jason Rennie::Yu-Han Chang::David Karger:::Text Bundling: Statistics Based Data-Reduction.
+conf/icml/PorterEHT03:::Reid Porter::Damian Eads::Don R. Hush::James Theiler:::Weighted Order Statistic Classifiers with Large Rank-Order Margin.
+conf/icml/KimR93:::Jihie Kim::Paul S. Rosenbloom:::Constraining Learning with Search Control.
+conf/icml/Hickey92:::Ray J. Hickey:::Artificial Universes - Towards a Systematic Approach to Evaluation Algorithms which Learn form Examples.
+conf/icml/Buntine89:::Wray L. Buntine:::Learning Classification Rules Using Bayes.
+conf/icml/Mooney88:::Raymond J. Mooney:::Generalizing the Order of Operators in Macro-Operators.
+conf/icml/DietterichBMS02:::Thomas G. Dietterich::Dídac Busquets::Ramon López de Mántaras::Carles Sierra:::Action Refinement in Reinforcement Learning by Probability Smoothing.
+conf/icml/KollerS97:::Daphne Koller::Mehran Sahami:::Hierarchically Classifying Documents Using Very Few Words.
+conf/icml/OatesDB02:::Tim Oates::Devina Desai::Vinay Bhat:::Learning k-Reversible Context-Free Grammars from Positive Structural Examples.
+conf/icml/KoenigS96:::Sven Koenig::Reid G. Simmons:::Passive Distance Learning for Robot Navigation.
+conf/icml/CaruanaSE89:::Rich Caruana::J. David Schaffer::Larry J. Eshelman:::Using Multiple Representations to Improve Inductive Bias: Gray and Binary Coding for Genetic Algorithms.
+conf/icml/LeviPS89:::Keith R. Levi::David L. Perschbacher::Valerie L. Shalin:::Learning Tactical Plans for Pilot Aiding.
+conf/icml/LeviSP89:::Keith R. Levi::Valerie L. Shalin::David L. Perschbacher:::Identifying Knowledge Base Deficiencies by Observing User Behavior.
+conf/icml/BrutlagM00:::Jake D. Brutlag::Christopher Meek:::Challenges of the Email Domain for Text Classification.
+conf/icml/SridharanT00:::Manu Sridharan::Gerald Tesauro:::Multi-agent Q-learning and Regression Trees for Automated Pricing Decisions.
+conf/icml/RayP01:::Soumya Ray::David Page:::Multiple Instance Regression.
+conf/icml/JoachimsCS01:::Thorsten Joachims::Nello Cristianini::John Shawe-Taylor:::Composite Kernels for Hypertext Categorisation.
+conf/icml/Shen91:::Wei-Min Shen:::Discovering Regularities from Large Knowledge Bases.
+conf/icml/Ryan02:::Malcolm R. K. Ryan:::Using Abstract Models of Behaviours to Automatically Generate Reinforcement Learning Hierarchies.
+conf/icml/SucB02:::Dorian Suc::Ivan Bratko:::Qualitative reverse engineering.
+conf/icml/Schlimmer89:::Jeffrey C. Schlimmer:::Refining Representations to Improve Problem Solving Quality.
+conf/icml/IijimaYYK99:::Daisuke Iijima::Wenwei Yu::Hiroshi Yokoi::Yukinori Kakazu:::Distributed Robotic Learning: Adaptive Behavior Acquisition for Distributed Autonomous Swimming Robot in Real World.
+conf/icml/Mannila96:::Heikki Mannila:::Data Mining and Machine Learning (Abstract).
+conf/icml/JohnKP94:::George H. John::Ron Kohavi::Karl Pfleger:::Irrelevant Features and the Subset Selection Problem.
+conf/icml/SpanglerFU89:::Scott Spangler::Usama M. Fayyad::Ramasamy Uthurusamy:::Induction of Decision Trees from Inconclusive Data.
+conf/icml/Chien89:::Steve Chien:::Learning by Analyzing Fortuitous Occurrences.
+conf/icml/Hamakawa91:::Rei Hamakawa:::Revision Cost for Theory Refinement.
+conf/icml/GruberBBW91:::Thomas R. Gruber::Catherine Baudin::John H. Boose::Jay Webber:::Design Rationale Capture as Knowledge Acquisition.
+conf/icml/QianI91:::Zhaogang Qian::Keki B. Irani:::The Consistent Concept Axiom.
+conf/icml/RaviseS96:::Caroline Ravise::Michèle Sebag:::An Advanced Evolution Should Not Repeat its Past Errors.
+conf/icml/MargineantuD00:::Dragos D. Margineantu::Thomas G. Dietterich:::Bootstrap Methods for the Cost-Sensitive Evaluation of Classifiers.
+conf/icml/FreundM99:::Yoav Freund::Llew Mason:::The Alternating Decision Tree Learning Algorithm.
+conf/icml/UtgoffS99:::Paul E. Utgoff::David J. Stracuzzi:::Approximation Via Value Unification.
+conf/icml/LiZHSK02:::Yaoyong Li::Hugo Zaragoza::Ralf Herbrich::John Shawe-Taylor::Jaz S. Kandola:::The Perceptron Algorithm with Uneven Margins.
+conf/icml/KondorJ03:::Risi Imre Kondor::Tony Jebara:::A Kernel Between Sets of Vectors.
+conf/icml/AkkusG96:::Aynur Akkus::H. Altay Güvenir:::K Nearest Neighbor Classification on Feature Projections.
+conf/icml/OatesJ97:::Tim Oates::David Jensen:::The Effects of Training Set Size on Decision Tree Complexity.
+conf/icml/ZadroznyE01:::Bianca Zadrozny::Charles Elkan:::Obtaining calibrated probability estimates from decision trees and naive Bayesian classifiers.
+conf/icml/ElomaaR02:::Tapio Elomaa::Juho Rousu:::Fast Minimum Training Error Discretization.
+conf/icml/McCallum93:::Andrew McCallum:::Overcoming Incomplete Perception with Util Distinction Memory.
+conf/icml/RamseyGS90:::Connie Loggia Ramsey::John J. Grefenstette::Alan Schultz:::Simulation-Assisted Learning by Competition: Effects of Noise Differences Between Training Model and Target Environment.
+conf/icml/JohnsonTG03:::Judy Johnson::Kostas Tsioutsiouliklis::C. Lee Giles:::Evolving Strategies for Focused Web Crawling.
+conf/icml/MostowP89:::Jack Mostow::Armand Prieditis:::Discovering Admissible Search Heuristics by Abstracting and Optimizing.
+conf/icml/Salganicoff93:::Marcos Salganicoff:::Density-Adaptive Learning and Forgetting.
+conf/icml/BillsusP98:::Daniel Billsus::Michael J. Pazzani:::Learning Collaborative Information Filters.
+conf/icml/Fogarty89:::Terence C. Fogarty:::An Incremental Genetic Algorithm for Real-Time Learning.
+conf/icml/Janikow92:::Cezary Z. Janikow:::Combining Competition and Cooperation in Supervised Inductive Learning.
+conf/icml/AlmuallimD92:::Hussein Almuallim::Thomas G. Dietterich:::On Learning More Concepts.
+conf/icml/Brinker03:::Klaus Brinker:::Incorporating Diversity in Active Learning with Support Vector Machines.
+conf/icml/LentL99:::Michael van Lent::John E. Laird:::Learning Hierarchical Performance Knowledge by Observation.
+conf/icml/BaxterB00:::Jonathan Baxter::Peter L. Bartlett:::Reinforcement Learning in POMDP's via Direct Gradient Ascent.
+conf/icml/FurnkranzF03:::Johannes Fürnkranz::Peter A. Flach:::An Analysis of Rule Evaluation Metrics.
+conf/icml/SannierG88:::Adrian V. Sannier II::Erik D. Goodman:::Midgard: A Genetic Approach to Adaptive Load Balancing for Distributed Systems.
+conf/icml/RoseL88:::Donald Rose::Pat Langley:::A Hill-Climbing Approach to Machine Discovery.
+conf/icml/ForsterW00:::Jürgen Forster::Manfred K. Warmuth:::Relative Loss Bounds for Temporal-Difference Learning.
+conf/icml/KimuraYK95:::Hajime Kimura::Masayuki Yamamura::Shigenobu Kobayashi:::Reinforcement Learning by Stochastic Hill Climbing on Discounted Reward.
+conf/icml/FalkenhainerR88:::Brian Falkenhainer::Shankar A. Rajamoney:::The Interdependencies of Theory Formation, Revision, and Experimentation.
+conf/icml/Christiansen92:::Alan D. Christiansen:::Learning to Predict in Uncertain Continuous Tasks.
+conf/icml/LiuMY02:::Huan Liu::Hiroshi Motoda::Lei Yu:::Feature Selection with Selective Sampling.
+conf/icml/Langley89:::Pat Langley:::Unifying Themes in Empirical and Explanation-Based Learning.
+conf/icml/Dietterich98:::Thomas G. Dietterich:::The MAXQ Method for Hierarchical Reinforcement Learning.
+conf/icml/Krawiec01:::Krzysztof Krawiec:::Pairwise Comparison of Hypotheses in Evolutionary Learning.
+conf/icml/DobraG01:::Alin Dobra::Johannes Gehrke:::Bias Correction in Classification Tree Construction.
+conf/icml/Zhang99:::Wei Zhang:::An Region-Based Learning Approach to Discovering Temporal Structures in Data.
+conf/icml/CrawfordFAT91:::Stuart L. Crawford::Robert M. Fung::Lee A. Appelbaum::Richard M. Tong:::Classification Trees for Information Retrieval.
+conf/icml/SimsB89:::Michael H. Sims::John L. Bresina:::Discovering Mathematical Operation Definitions.
+conf/icml/PerezE92:::M. Alicia Pérez::Oren Etzioni:::DYNAMIC: A New Role for Training Problems in EBL.
+conf/icml/DaganE95:::Ido Dagan::Sean P. Engelson:::Committee-Based Sampling For Training Probabilistic Classifiers.
+conf/icml/NairCK01:::Prasanth B. Nair::Arindam Choudhury::Andy J. Keane:::Some Greedy Algorithms for Sparse Nonlinear Regression.
+conf/icml/Bowling00:::Michael H. Bowling:::Convergence Problems of General-Sum Multiagent Reinforcement Learning.
+conf/icml/RichardsM91:::Bradley L. Richards::Raymond J. Mooney:::First-Order Theory Revision.
+conf/icml/RyanR00:::Malcolm R. K. Ryan::Mark Reid:::Learning to Fly: An Application of Hierarchical Reinforcement Learning.
+conf/icml/GordonG90:::Diana F. Gordon::John J. Grefenstette:::Explanations of Empirically Derived Reactive Plans.
+conf/icml/KlautauJO03:::Aldebaro Klautau::Nikola Jevtic::Alon Orlitsky:::Discriminative Gaussian Mixture Models: A Comparison with Kernel Classifiers.
+conf/icml/Selfridge89:::Oliver G. Selfridge:::Atoms of Learning II: Adaptive Strategies A Study of Two-Person Zero-Sum Competition.
+conf/icml/Langford02:::John Langford:::Combining Trainig Set and Test Set Bounds.
+conf/icml/WeissH98:::Gary M. Weiss::Haym Hirsh:::The Problem with Noise and Small Disjuncts.
+conf/icml/ValentiniD03:::Giorgio Valentini::Thomas G. Dietterich:::Low Bias Bagged Support Vector Machines.
+conf/icml/PazzaniS90:::Michael J. Pazzani::Wendy Sarrett:::Average Case Analysis of Conjunctive Learning Algorithms.
+conf/icml/Valdes-PerezP94:::Raúl E. Valdés-Pérez::Aurora Pérez:::A Powerful Heuristic for the Discovery of Complex Patterned Behaviour.
+conf/icml/McCallumRMN98:::Andrew McCallum::Ronald Rosenfeld::Tom M. Mitchell::Andrew Y. Ng:::Improving Text Classification by Shrinkage in a Hierarchy of Classes.
+conf/icml/KatayamaKK00:::Susumu Katayama::Hajime Kimura::Shigenobu Kobayashi:::A Universal Generalization for Temporal-Difference Learning Using Haar Basis Functions.
+conf/icml/Flach03:::Peter A. Flach:::The Geometry of ROC Space: Understanding Machine Learning Metrics through ROC Isometrics.
+conf/icml/LangleyS99:::Pat Langley::Stephanie Sage:::Tractable Average-Case Analysis of Naive Bayesian Classifiers.
+conf/icml/PrecupSS00:::Doina Precup::Richard S. Sutton::Satinder P. Singh:::Eligibility Traces for Off-Policy Policy Evaluation.
+conf/icml/SannerALL00:::Scott Sanner::John R. Anderson::Christian Lebiere::Marsha C. Lovett:::Achieving Efficient and Cognitively Plausible Learning in Backgammon.
+conf/icml/SalustowiczS98:::Rafal Salustowicz::Jürgen Schmidhuber:::Evolving Structured Programs with Hierarchical Instructions and Skip Nodes.
+conf/icml/GiordanaS92:::Attilio Giordana::Claudio Sale:::Learning Structured Concepts Using Genetic Algorithms.
+conf/icml/DattaK95:::Piew Datta::Dennis F. Kibler:::Learning Prototypical Concept Descriptions.

@@ -1,0 +1,200 @@
+journals/ipl/JiangB99:::Xiaoyi Jiang::Horst Bunke:::Optimal Vertex Ordering of Graphs.
+journals/ipl/BrustmannW87:::Bettina Brustmann::Ingo Wegener:::The Complexity of Symmetric Functions in Bounded-Depth Circuits.
+journals/ipl/KimPCSC95:::Sung-Ho Kim::Jung-Heum Park::Seung-Hak Choi::Sung Yong Shin::Kyung-Yong Chwa:::An Optimal Algorithm for Finding the Edge Visibility Polygon under Limited Visibility.
+journals/ipl/ClarkSS92:::L. H. Clark::Farhad Shahrokhi::László A. Székely:::A Linear Time Algorithm for Graph Partition Problems.
+journals/ipl/OvermarsL81a:::Mark H. Overmars::Jan van Leeuwen:::Worst-Case Optimal Insertion and Deletion Methods for Decomposable Searching Problems.
+journals/ipl/RouskovS93:::Yordan Rouskov::Pradip K. Srimani:::Fault Diameter of Star Graphs.
+journals/ipl/BoreddyM89:::Jayaramaiah Boreddy::R. N. Mukherjee:::An Algorithm to Find Polygon Similarity.
+journals/ipl/AllisonDY91:::Lloyd Allison::Trevor I. Dix::Chut N. Yee:::Shortest Path and Closure Algorithms for Banded Matrices.
+journals/ipl/Whitesides81:::Sue Whitesides:::An Algorithm for Finding Clique Cut-Sets.
+journals/ipl/HungHLH03:::Chun-Nan Hung::Hong-Chun Hsu::Kao-Yung Liang::Lih-Hsing Hsu:::Ring embedding in faulty pancake graphs.
+journals/ipl/ZissosD71:::D. Zissos::F. G. Duncan:::Programmed Simulation of Race Hazards in Sequential Circuits.
+journals/ipl/LaberH02:::Eduardo Sany Laber::Leonardo Gomes Holanda:::Improved bounds for asymmetric communication protocols.
+journals/ipl/GuruswamiR98:::Venkatesan Guruswami::C. Pandu Rangan:::A Natural Family of Optimization Problems with Arbitrarily Small Approximation Thresholds.
+journals/ipl/Lumelsky85:::Vladimir J. Lumelsky:::On Fast Computation of Distance Between Line Segments.
+journals/ipl/BultenaR98:::Bette Bultena::Frank Ruskey:::An Eades-McKay Algorithm for Well-Formed Parentheses Strings.
+journals/ipl/Baader98:::Franz Baader:::On the Complexity of Boolean Unification.
+journals/ipl/HongSLLK02:::Seokhie Hong::Jaechul Sung::Sangjin Lee::Jongin Lim::Jongsu Kim:::Provable security for 13 round Skipjack-like structure.
+journals/ipl/Edenbrandt87:::Anders Edenbrandt:::Chordal Graph Recognition is in NC.
+journals/ipl/Chrobot76:::Stanislaw Chrobot:::Layer - A Language Construction for Concurrent Structure Program Design.
+journals/ipl/KeedyF85:::James Leslie Keedy::Bernd Freisleben:::On the Efficient Use of Semaphore Primitives.
+journals/ipl/Szepietowski89:::Andrzej Szepietowski:::Some Remarks on the Alternating Hierarchy and Closure Under Complement for Sublogarithmic Space.
+journals/ipl/VedanthamI98:::Sundarajan Vedantham::S. Sitharama Iyengar:::The Bandwidth Allocation Problem in the ATM Network Model is NP-Complete.
+journals/ipl/LingasK89:::Andrzej Lingas::Marek Karpinski:::Subtree Isomorphism is NC Reducible to Bipartite Perfect Matching.
+journals/ipl/LuoBDW92:::Gang Luo::Gregor von Bochmann::Anindya Das::Cheng Wu:::Failure-Equivalent Transformation of Transition Systems to Avoid Internal Actions.
+journals/ipl/DeoKP77:::Narsingh Deo::M. S. Krishnamoorthy::Ajit B. Pai:::Generalizations of Line Graphs and Applications.
+journals/ipl/LuekerW82:::George S. Lueker::Dan E. Willard:::A Data Structure for Dynamic Range Queries.
+journals/ipl/Mahmoud91:::Sabri A. Mahmoud:::Motion Estimation Based on Modified Fourier Spectrum.
+journals/ipl/KrumkeW98:::Sven Oliver Krumke::Hans-Christoph Wirth:::On the Minimum Label Spanning Tree Problem.
+journals/ipl/Metivier83:::Yves Métivier:::About the Rewriting Systems Produced by the Knuth-Bendix Completion Algorithm.
+journals/ipl/Orlowska88:::Ewa Orlowska:::Proof System for Weakest Prespecification.
+journals/ipl/JammelS80:::Alfons J. Jammel::Helmut G. Stiegler:::On Expected Costs of Deadlock Detection.
+journals/ipl/HagerupR89:::Torben Hagerup::Christine Rüb:::Optimal Merging and Sorting on the Erew Pram.
+journals/ipl/LodiLP90:::Elena Lodi::Fabrizio Luccio::Linda Pagli:::Routing in Times Square Mode.
+journals/ipl/Watanabe81:::Osamu Watanabe:::A Fast Algorithm for Finding all Shortest Paths.
+journals/ipl/Thomas95:::Stephen Thomas:::Garbage Collection in shared-environment Closure Reducers: Space-Efficient Depth First Copying Using a Tailored Approach.
+journals/ipl/Regev02:::Oded Regev:::Priority algorithms for makespan minimization in the subset model.
+journals/ipl/JustinP97:::Jacques Justin::Giuseppe Pirillo:::On Some Factorizations of Infinite Words by Elements of Codes.
+journals/ipl/Grabowski79:::Jan Grabowski:::The Unsolvability of Some Petri Net Language Problems.
+journals/ipl/SteinerY93:::George Steiner::Scott Yeomans:::A Note on ``Scheduling Unit-Time Tasks with Integer Release Times and Deadlines''.
+journals/ipl/KhanA97:::Md. Mozammel Huq Azad Khan::Md. Shamsul Alam:::Algorithms for Conversion of Minterms to Positive Polarity Reed-Muller Coefficients and Vice Versa.
+journals/ipl/Dublish90:::Pratul Dublish:::Some Comments on the Subtree Isomorphism Problem for Ordered Trees.
+journals/ipl/VenkatesanR96:::G. Venkatesan::C. Pandu Rangan:::Approximate Triclique Coloring for Register Allocation.
+journals/ipl/BovetAP88:::Daniel P. Bovet::Sergio De Agostino::Rossella Petreschi:::Parallelism and the Feedback Vertex Set Problem.
+journals/ipl/AroraR79:::R. K. Arora::S. P. Rana:::On Module Assignment in Two-Processor Distributed Systems.
+journals/ipl/Shanthikumar82:::J. George Shanthikumar:::A Recursive Algorithm to Generate Joint Probability Distribution of Arrivals from Exponential Sources During a Random Time Interval.
+journals/ipl/OConnor95:::Luke O'Connor:::A New Lower Bound on the Expected Size of Irredundant Forms for Boolean Functions.
+journals/ipl/Feinberg89:::Ellen B. Feinberg:::Characterizing the Shortest Path of an Object Among Obstacles.
+journals/ipl/HofmeisterL96:::Thomas Hofmeister::Hanno Lefmann:::Independent Sets in Graphs with Triangles.
+journals/ipl/BunkeC95:::Horst Bunke::János Csirik:::An Improved Algorithm for Computing the Edit Distance of Run-Length Coded Strings.
+journals/ipl/KimSY00:::Sung Kwon Kim::Chan-Su Shin::Tae-Cheon Yang:::Placing two disks in a convex polygon.
+journals/ipl/ChengLW98:::Yi-Chang Cheng::Erl-Huei Lu::Shaw Woei Wu:::A Modified Version of the Rao-Nam Algebraic-Code Encryption Scheme.
+journals/ipl/KingT97:::Gow-Hsing King::Wen-Guey Tzeng:::On-Line Algorithms for the Dominating Set Problem.
+journals/ipl/RheeW97:::Injong Rhee::Jennifer L. Welch:::Time Bounds on Synchronization in a Periodic Distributed System.
+journals/ipl/Mukkamala89:::Ravi Mukkamala:::Some Properties of View-Based Replication Control Algorithms for Distributed Systems.
+journals/ipl/ChakrabortyD93:::Uday Kumar Chakraborty::D. Ghosh Dastidar:::Using Reliability Analysis to Estimate the Number of Generations to Convergence in Genetic Algorithms.
+journals/ipl/Ukkonen85:::Esko Ukkonen:::Upper Bounds on the Size of LR(k) Parsers.
+journals/ipl/Kirrinnis94:::Peter Kirrinnis:::An Optimal Bound for Path Weights in Huffman Trees.
+journals/ipl/Jukna99:::Stasys Jukna:::Linear Codes are Hard for Oblivious Read-Once Parity Branching Programs.
+journals/ipl/Agrawal02:::Manindra Agrawal:::For completeness, sublogarithmic space is no space.
+journals/ipl/GinatST89:::David Ginat::Daniel Dominic Sleator::Robert Endre Tarjan:::A Tight Amortized Bound for Path Reversal.
+journals/ipl/Kelter87:::Udo Kelter:::The Complexity of Strict Serializability Revisited.
+journals/ipl/Rozenberg72a:::Grzegorz Rozenberg:::Direct Proofs of the Undecidability of the Equivalence Problem for Sentential Forms of Linear Context-Free Grammars and the Equivalence Problem for 0L Systems.
+journals/ipl/FraigniaudP91:::Pierre Fraigniaud::Claudine Peyrat:::Broadcasting in a Hypercube when Some Calls Fail.
+journals/ipl/ViswanathanCS96:::Suresh Viswanathan::Éva Czabarka::Abhijit Sengupta:::On Fault-Tolerant Embedding of Hamiltonian Circuits in Line Digraph Interconnection Networks.
+journals/ipl/Wogulis89:::James Wogulis:::Self-Adjusting and Split Sequence Hash Tables.
+journals/ipl/Aggarwal92:::Alok Aggarwal:::Parallel Complexity of Computing a Maximal Set of Disjoint Paths.
+journals/ipl/Rizzi03:::Romeo Rizzi:::On Rajagopalan and Vazirani's 3/2-approximation bound for the Iterated 1-Steiner heuristic.
+journals/ipl/ClouatreLM89:::A. Clouatre::Normand Laliberte::T. H. Merrett:::A General Implementation of Relational Recursion with Speedup Techniques for Programmers.
+journals/ipl/Woeginger95:::Gerhard J. Woeginger:::Scheduling with Time-Dependent Execution Times.
+journals/ipl/Libkin03:::Leonid Libkin:::A collapse result for constraint queries over structures of small degree.
+journals/ipl/CazorlaCRP01:::Diego Cazorla::Fernando Cuartero::Valentín Valero Ruiz::Fernando L. Pelayo:::A process algebra for probabilistic and nondeterministic processes.
+journals/ipl/Guting83:::Ralf Hartmut Güting:::Stabbing C-Oriented Polygons.
+journals/ipl/Guting85:::Ralf Hartmut Güting:::Fast Dynamic Intersection Searching in a Set of Isothetic Line Segments.
+journals/ipl/Hoffgen93:::Klaus-Uwe Höffgen:::Computational Limitations on Training Sigmoid Neural Networks.
+journals/ipl/Kaivola95:::Roope Kaivola:::On Modal mu-Calculus and Büchi Tree Automata.
+journals/ipl/CrochemoreR90:::Maxime Crochemore::Wojciech Rytter:::Parallel Construction of Minimal Suffix and Factor Automata.
+journals/ipl/SuraweeraB93:::Francis Suraweera::Prabir Bhattacharya:::An O(log m) Parallel Algorithm for the Minimum Spanning Tree Problem.
+journals/ipl/Winkowski81:::Józef Winkowski:::Protocols of Accessing Overlapping Sets of Resources.
+journals/ipl/Berkovich94:::Simon Y. Berkovich:::Multiprocessor Interconnection Network Using Pairwise Balanced Combinatorial Designs.
+journals/ipl/Parberry86:::Ian Parberry:::On Recurrent and Recursive Interconnection Patterns.
+journals/ipl/AjtaiKS78:::Miklós Ajtai::János Komlós::Endre Szemerédi:::There is no Fast Single Hashing Algorithm.
+journals/ipl/ChewDKK02:::L. Paul Chew::Haggai David::Matthew J. Katz::Klara Kedem:::Walking around fat obstacles.
+journals/ipl/LealA01:::William Leal::Anish Arora:::State-level and value-level simulations in data refinement.
+journals/ipl/LeeKY02:::Keon-Jik Lee::Kee-Won Kim::Kee-Young Yoo:::Digit-serial-in-serial-out systolic multiplier for Montgomery algorithm.
+journals/ipl/Majster-Cederbaum89:::Mila E. Majster-Cederbaum:::The Contraction Property is Sufficient to Guarantee the Uniqueness of Fixed Points of Endofunctors in a Category of Complete Metric Spaces.
+journals/ipl/GalbraithMS02:::Steven D. Galbraith::John Malone-Lee::Nigel P. Smart:::Public key signatures in the multi-user setting.
+journals/ipl/GalievPS92:::V. I. Galiev::A. F. Polupanov::Igor Shparlinski:::Distances from Differences of Roots of Polynomials to the Nearest Integers.
+journals/ipl/Ohtsuka93:::Hiroshi Ohtsuka:::A Proof of the Substitution Lemma in de Bruijn's Notation.
+journals/ipl/Josephs88:::Mark B. Josephs:::The Data Refinement Calculator for Z Specifications.
+journals/ipl/BarlowES81:::R. H. Barlow::D. J. Evans::J. Shanehchi:::A Parallel Merging Algorithm.
+journals/ipl/Estivill-CastroOUX95:::Vladimir Estivill-Castro::Joseph O'Rourke::Jorge Urrutia::Dianna Xu:::Illumination of Polygons with Vertex Lights.
+journals/ipl/MakinoTF02:::Kazuhisa Makino::Takashi Takabatake::Satoru Fujishige:::A simple matching algorithm for regular bipartite graphs.
+journals/ipl/BalachandranNR96:::V. Balachandran::P. Nagavamsi::C. Pandu Rangan:::Clique Transversal and Clique Independence on Comparability Graphs.
+journals/ipl/Toyama87:::Yoshihito Toyama:::Counterexamples to Termination for the Direct Sum of Term Rewriting Systems.
+journals/ipl/FloydS73:::Robert W. Floyd::Alan Jay Smith:::A Linear Time Two Tape Merge.
+journals/ipl/DeheneS88:::Frank Dehene::Ivan Stojmenovic:::An O(sqrt(n)) Time Algorithm for the ECDF Searching Problem for Arbitrary Dimensions on a Mesh-of-Processors.
+journals/ipl/Galbiati03:::Giulia Galbiati:::On finding cycle bases and fundamental cycle bases with a shortest maximal cycle.
+journals/ipl/Valois95:::John D. Valois:::A 3-Valued Wakeup Protocol.
+journals/ipl/SassaIN87:::Masataka Sassa::Harushi Ishizuka::Ikuo Nakata:::ECLR-Attributed Grammars: A Practical Class of LR-Attributed Grammars.
+journals/ipl/MostefaouiRT00:::Achour Mostéfaoui::Michel Raynal::Frederic Tronel:::From Binary Consensus to Multivalued Consensus in asynchronous message-passing systems.
+journals/ipl/RoosW94:::Thomas Roos::Peter Widmayer:::k-Violation Linear Programming.
+journals/ipl/Rothe03:::Jörg Rothe:::Exact complexity of Exact-Four-Colorability.
+journals/ipl/SenDG92:::Arunabha Sen::Haiyong Deng::Sumanta Guha:::On a Graph Partition Problem with Application to VLSI Layout.
+journals/ipl/Boasson73:::Luc Boasson:::The Inclusion of the Substitution Closure of Linear and One-Counter Languages in the Largest Sub-AFL of the Family of Algebraic Languages is Proper.
+journals/ipl/Goldstein03:::Darin Goldstein:::Determination of the topology of a directed network.
+journals/ipl/NiedermeierR00:::Rolf Niedermeier::Peter Rossmanith:::A general method to speed up fixed-parameter-tractable algorithms.
+journals/ipl/LambrichtsNPPT90:::Erik Lambrichts::Peter Nees::Jan Paredaens::Peter Peelman::Letizia Tanca:::Checking Functional Consistency in Deductive Databases.
+journals/ipl/Apostolico87:::Alberto Apostolico:::Remark on the Hsu-Du New Algorithm for the Longest Common Subsequence Problem.
+journals/ipl/Pajunen80:::Seppo Pajunen:::On Two Theorems of Lenstra.
+journals/ipl/KrishnamachariM96:::Bagirath R. Krishnamachari::Ravi Mittal:::Design and Analysis of a Generalized Multi-Ring Architecture.
+journals/ipl/Lopriore00:::Lanfranco Lopriore:::Protection in a single-address-space environment.
+journals/ipl/DevroyeK95:::Luc Devroye::Paul Kruszewski:::A Note on the Horton-Strahler Number for Random Trees.
+journals/ipl/Hoogerwoord86:::Rob R. Hoogerwoord:::An Implementation of Mutual Inclusion.
+journals/ipl/HolmesLSW02:::John H. Holmes::Pier Luca Lanzi::Wolfgang Stolzmann::Stewart W. Wilson:::Learning classifier systems: New models, successful applications.
+journals/ipl/CastroGL98:::Jorge Castro::David Guijarro::Víctor Lavín:::Learning Nearly Monotone <i>k</i>-Term DNF.
+journals/ipl/Barnard83:::David T. Barnard:::Recursive Descent Parsing Using Implementation Languages Requiring Definition Before Use.
+journals/ipl/HabibLP03:::Michel Habib::Emmanuelle Lebhar::Christophe Paul:::A note on finding all homogeneous set sandwiches.
+journals/ipl/ChakrabartiGPS89a:::P. P. Chakrabarti::S. Ghose::A. Pandey::S. C. De Sarkar:::Increasing Search Efficiency Using Multiple Heuristics.
+journals/ipl/HertrampfRV00:::Ulrich Hertrampf::Steffen Reith::Heribert Vollmer:::A note on closure properties of logspace MOD classes.
+journals/ipl/Williams81:::M. Howard Williams:::A Systematic Test for Extended Operator Precedence.
+journals/ipl/ParkerP89:::Bruce Parker::Ian Parberry:::Constructing Sorting Networks from k-Sorters.
+journals/ipl/FournierK79:::Alain Fournier::Zvi M. Kedem:::Comments on the All Nearest-Neighbor Problem for Convex Polygons.
+journals/ipl/Meinel90:::Christoph Meinel:::Logic VS. Complexity Theoretic Properties of the Graph Accessibility Problem for Directed Graphs of Bounded Degree.
+journals/ipl/Myoupo91:::Jean Frédéric Myoupo:::Dynamic Programming on Linear Pipelines.
+journals/ipl/KavvadiasSS00:::Dimitris J. Kavvadias::Martha Sideri::Elias C. Stavropoulos:::Generating all maximal models of a Boolean expression.
+journals/ipl/LavalleeR86:::Ivan Lavallée::Gérard Roucairol:::A Fully Distributed (Minimal) Spanning Tree Algorithm.
+journals/ipl/Grolmusz98:::Vince Grolmusz:::A Lower Bound for Depth-3 Circuits with MOD <i>m</i> Gates.
+journals/ipl/KavadiasKS91:::Dimitris Kavadias::Lefteris M. Kirousis::Paul G. Spirakis:::The Complexity of the Reliable Connectivity Problem.
+journals/ipl/Maire94:::Frédéric Maire:::Polyominos and Perfect Graphs.
+journals/ipl/NassifB96:::Nayla Nassif::Nader Bagherzadeh:::A Grid Embedding into the Star Graph for Image Analysis Solutions.
+journals/ipl/AusielloP95:::Giorgio Ausiello::Marco Protasi:::Local Search, Reducibility and Approximability of NP-Optimization Problems.
+journals/ipl/Gavril00:::Fanica Gavril:::Maximum weight independent sets and cliques in intersection graphs of filaments.
+journals/ipl/Malvestuto98:::Francesco M. Malvestuto:::A Complete Axiomatization of Full Acyclic Join Dependencies.
+journals/ipl/Manos99:::H. Manos:::Construction of Halvers.
+journals/ipl/Sharir82:::Micha Sharir:::Fast Composition of Sparse Maps.
+journals/ipl/GoodmanT84:::Nathan Goodman::Y. C. Tay:::A Characterization of Multivalued Dependencies Equivalent to a Join Dependency.
+journals/ipl/ChangCH93a:::Byeong-Mo Chang::Kwang-Moo Choe::Taisook Han:::Static Filtering on Stratified Programs.
+journals/ipl/Emerson87:::E. Allen Emerson:::Uniform Inevitability is Tree Automaton Ineffable.
+journals/ipl/GrigoriadisK86:::Michael D. Grigoriadis::B. Kalantari:::A Lower Bound to the Complexity of Euclidean and Rectilinear Matching Algorithms.
+journals/ipl/YunCH93:::In-Sig Yun::Kwang-Moo Choe::Taisook Han:::Syntactic Error Repair Using Repair Patterns.
+journals/ipl/Shyamasundar76:::R. K. Shyamasundar:::A Note on Linear Precedence Functions.
+journals/ipl/Micheneau97:::C. Micheneau:::Disjoint Hamiltonian Cycles in Recursive Circulant Graphs.
+journals/ipl/OvermarsL80:::Mark H. Overmars::Jan van Leeuwen:::Further Comments on Bykat's Convex Hull Algorithm.
+journals/ipl/ReddyBEJNRW72:::Raj Reddy::W. Broadley::Lee D. Erman::R. Johnsson::J. Newcomer::George G. Robertson::J. Wright:::XCRIBL - A Hardcopy Scan Line Graphics System for Document Generation.
+journals/ipl/VaidyanathanT93:::Ramachandran Vaidyanathan::Jerry L. Trahan:::Optimal Simulation of Multidimensional Reconfigurable Meshes by Two-Dimensional Reconfigurable Meshes.
+journals/ipl/Lingas91:::Andrzej Lingas:::Bit Complexity of Matrix Products.
+journals/ipl/Yuval75:::Gideon Yuval:::Finding Near Neighbors in K-Dimensional Space.
+journals/ipl/CarlssonCS89:::Svante Carlsson::Jingsen Chen::Thomas Strothotte:::A Note on the Construction of Data Structure ``DEAP''.
+journals/ipl/ImrichK97:::Wilfried Imrich::Sandi Klavzar:::Recognizing Hamming Graphs in Linear Time and space.
+journals/ipl/BattistaLR90:::Giuseppe Di Battista::Wei-Ping Liu::Ivan Rival:::Bipartite Graphs, Upward Drawings, and Planarity.
+journals/ipl/Sudborough77:::Ivan Hal Sudborough:::A Note on Weak Operator Precedence Grammars.
+journals/ipl/GordonK98:::Valery Gordon::Wieslaw Kubiak:::Single Machine Scheduling with Release and Due Date Assignment to Minimize the Weighted Number of Late Jobs.
+journals/ipl/Eidenbenz02:::Stephan Eidenbenz:::Approximation algorithms for terrain guarding.
+journals/ipl/BattistaTT92:::Giuseppe Di Battista::Roberto Tamassia::Ioannis G. Tollis:::Constrained Visibility Representations of Graphs.
+journals/ipl/Nguyen85:::Van Nguyen:::The Incompleteness of Misra and Chandy's Proof Systems.
+journals/ipl/Kobayashi93:::Kojiro Kobayashi:::Sigma^0_n-Complete Properties of Programs and Martin-Löf Randomness.
+journals/ipl/Aspvall95:::Bengt Aspvall:::Minimizing Elimination Tree Height Can Increase Fill More Than Linearly.
+journals/ipl/BoxerM89:::Laurence Boxer::Russ Miller:::A Parallel Circle-Cover Minimization Algorithm.
+journals/ipl/Yamasaki81:::Hideki Yamasaki:::On Weak Persistency of Petri Nets.
+journals/ipl/Ibarra74:::Oscar H. Ibarra:::A Note on Semilinear Sets and Bounded-Reversal Multihead Pushdown Automata.
+journals/ipl/Weiser83:::Mark Weiser:::Reconstructing Sequential Behavior from Parallel Behavior Projections.
+journals/ipl/FarachM97:::Martin Farach::S. Muthukrishnan:::Optimal Parallel Randomized Renaming.
+journals/ipl/OzgunerA88:::Füsun Özgüner::Cevdet Aykanat:::A Reconfiguration Algorithm for Fault Tolerance in a Hypercube Multiprocessor.
+journals/ipl/MadanlalVR96:::M. S. Madanlal::G. Venkatesan::C. Pandu Rangan:::Tree 3-Spanners on Interval, Permutation and Regular Bipartite Graphs.
+journals/ipl/ErniL81:::W. Erni::R. Lapsien:::On the Time and Tape Complexity of Weak Unification.
+journals/ipl/Alfonsin98:::J. L. Ramírez Alfonsín:::A Special Arrangement with Minimal Number of Triangles.
+journals/ipl/Meyer85:::Bertrand Meyer:::Incremental String Matching.
+journals/ipl/Lipton96:::Richard J. Lipton:::On Proving that a Graph has no Large Clique: A Connection with Ramsey Theory.
+journals/ipl/Jacquemard03:::Florent Jacquemard:::Reachability and confluence are undecidable for flat term rewriting systems.
+journals/ipl/Lavault89:::Christian Lavault:::Average Number of Messages for Distributed Leader-Finding in Rings of Processors.
+journals/ipl/ValentineD87:::Mark Valentine::Robert H. Davis:::The Automated Solution of Logic Puzzles.
+journals/ipl/ArnoldC88:::André Arnold::Paul Crubille:::A Linear Algorithm to Solve Fixed-Point Equations on Transition Systems.
+journals/ipl/RieraRB00:::Andreu Riera::Josep Rifà::Joan Borrell:::Efficient construction of vote-tags to allow open objection to the tally in electronic elections.
+journals/ipl/Camerini78:::Paolo M. Camerini:::The Min-Max Spanning Tree Problem and Some Extensions.
+journals/ipl/ChauhanS99:::S. R. Chauhan::Iain A. Stewart:::On the Power of Built-In Relations in Certain Classes of Program Schemes.
+journals/ipl/Abelson79:::Harold Abelson:::A Note on Time-Space Tradeoffs for Computing Continuous Functions.
+journals/ipl/TreatB84:::Joseph M. Treat::Timothy A. Budd:::Extensions to Grid Selector Composition and Compilation in APL.
+journals/ipl/Olariu90:::Stephan Olariu:::A Generalization of Chvátal's Star-Cutset Lemma.
+journals/ipl/Santhanam01:::Rahul Santhanam:::Lower bounds on the complexity of recognizing SAT by Turing machines.
+journals/ipl/ShinSC98:::Chan-Su Shin::Sung Yong Shin::Kyung-Yong Chwa:::The Widest <i>k</i>-Dense Corridor Problems.
+journals/ipl/Sattolo86:::S. Sattolo:::An Algorithm to Generate a Random Cyclic Permutation.
+journals/ipl/IwamaP95:::Kazuo Iwama::Toniann Pitassi:::Exponential Lower Bounds for the Tree-Like Hajós Calculus.
+journals/ipl/YamasakiD86:::Susumu Yamasaki::Shuji Doshita:::Resolution Deduction to Detect Satisfiability For Another Class Including Non-Horn Sentences In Propositional Logic.
+journals/ipl/Gabow81:::Harold N. Gabow:::A Linear-Time Recognition Algorithm for Interval Dags.
+journals/ipl/HingstonW90:::Philips Hingston::Ross Wilkinson:::A Distributed Join Algorithm.
+journals/ipl/Schachtel78:::G. Schachtel:::A Noncommutative Algorithm for Multiplying 5*5 Matrices Using 103 Multiplications.
+journals/ipl/Galil76:::Zvi Galil:::Two Fast Simulations Which Imply Some Fast String Matching and Palindrome-Recognition Algorithms.
+journals/ipl/XiangU98:::Limin Xiang::Kazuo Ushijima:::ANSV Problem on BSRs.
+journals/ipl/IbarraJ89:::Oscar H. Ibarra::Tao Jiang:::Optimal Simulation of Tree Arrays by Linear Arrays.
+journals/ipl/HwangCY96:::Shin-Jia Hwang::Chin-Chen Chang::Wei-Pang Yang:::Autenticated Encryption Schemes with Message Linkage.
+journals/ipl/VargheseCW95:::George Varghese::Roger D. Chamberlain::William E. Weihl:::Deriving Global Virtual Time Algorithms from Conservative Simulation Protocols.
+journals/ipl/Makinen00:::Erkki Mäkinen:::On inferring linear single-tree languages.
+journals/ipl/FarachPT95:::Martin Farach::Teresa M. Przytycka::Mikkel Thorup:::On the Agreement of Many Trees.
+journals/ipl/Stohr91:::Elena Stöhr:::Broadcasting in the Butterfly Network.
+journals/ipl/GargM97:::Vijay K. Garg::J. Roger Mitchell:::Detecting Conjunctions of Global Predicates.
+journals/ipl/Saluja92:::Sanjeev Saluja:::A Note on the Permanent Value Problem.
+journals/ipl/BozapalidisI88:::Symeon Bozapalidis::S. Ioulidis:::Varieties of Formal Series on Trees and Eilenberg's Theorem.
+journals/ipl/NathCK99:::Suman Kumar Nath::Rezaul Alam Chowdhury::M. Kaykobad:::On Average Edge Length of Minimum Spanning Trees.
+journals/ipl/Rytter89:::Wojciech Rytter:::A Note on Optimal Parallel Transformations of Regular Expressions to Nondeterministic Finite Automata.
+journals/ipl/Devroye85:::Luc Devroye:::A Note on the Expected Time Required to Construct the Outer Layer.

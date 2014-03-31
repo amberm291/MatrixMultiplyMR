@@ -1,0 +1,200 @@
+journals/tods/GainesH76:::R. Stockton Gaines::David K. Hsiao:::Papers from the International Conference on Very Large Data Bases, September 22-24, 1975, Framingham, Massachusetts.
+journals/tods/DrenickS93:::P. E. Drenick::E. J. Smith:::Stochastic Query Optimization in Distributed Databases.
+journals/tods/ThomasPB77:::D. A. Thomas::B. Pagurek::R. J. Buhr:::Validation Algorithms for Pointer Values in DBTG DataBases.
+journals/tods/HsuSY01:::Windsor W. Hsu::Alan Jay Smith::Honesty C. Young:::I/O reference behavior of production database workloads and the TPC benchmarks - an analysis at the logical level.
+journals/tods/LohmanM77:::Guy M. Lohman::John A. Muckstadt:::Optimal Policy for Batch Operations: Backup, Checkpointing, Reorganization, and Updating.
+journals/tods/AgrawalD85:::Rakesh Agrawal::David J. DeWitt:::Integrated Concurrency Control and Recovery Mechanisms: Design and Performance Evaluation.
+journals/tods/Qian93:::Xiaolei Qian:::The Deductive Synthesis of Database Transactions.
+journals/tods/FaginMU82:::Ronald Fagin::Alberto O. Mendelzon::Jeffrey D. Ullman:::A Simplified Universal Relation Assumption and Its Properties.
+journals/tods/RothnieBFGHLRSW80:::James B. Rothnie Jr.::Philip A. Bernstein::S. Fox::Nathan Goodman::Michael Hammer::T. A. Landers::C. Reeve::David W. Shipman::Eugene Wong:::Introduction to a System for Distributed Databases (SDD-1).
+journals/tods/PetersO97:::Randal J. Peters::M. Tamer Özsu:::An Axiomatic Model of Dynamic Schema Evolution in Objectbase Systems.
+journals/tods/ZobelMR98:::Justin Zobel::Alistair Moffat::Kotagiri Ramamohanarao:::Inverted Files Versus Signature Files for Text Indexing.
+journals/tods/ElhardB84:::Klaus Elhardt::Rudolf Bayer:::A Database Cache for High Performance and Fast Restart in Database Systems.
+journals/tods/Tuel78:::William G. Tuel Jr.:::Optimum Reorganization Points for Linearly Growing Files.
+journals/tods/ChomickiI93:::Jan Chomicki::Tomasz Imielinski:::Finite Representation of Infinite Query Answers.
+journals/tods/MehrotraRKS98:::Sharad Mehrotra::Rajeev Rastogi::Henry F. Korth::Abraham Silberschatz:::Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability.
+journals/tods/WongY76:::Eugene Wong::Karel Youssefi:::Decomposition - A Strategy for Query Processing.
+journals/tods/Wijsen99:::Jef Wijsen:::Temporal FDs on Complex Objects.
+journals/tods/HagmannF86:::Robert B. Hagmann::Domenico Ferrari:::Performance Analysis of Several Back-End Database Architectures.
+journals/tods/WhangVT90:::Kyu-Young Whang::Brad T. Vander Zanden::Howard M. Taylor:::A Linear-Time Probabilistic Counting Algorithm for Database Applications.
+journals/tods/KatzW83:::Randy H. Katz::Eugene Wong:::Resolving Conflicts in Global Storage Design through Replication.
+journals/tods/FreytagG89:::Johann Christoph Freytag::Nathan Goodman:::On the Translation of Relational Queries into Iterative Programs.
+journals/tods/Herlihy87:::Maurice Herlihy:::Dynamic Quorum Adjustment for Partitioned Data.
+journals/tods/StoreyG88:::Veda C. Storey::Robert C. Goldstein:::A Methodology for Creating User Views in Database Design.
+journals/tods/CliffordW83:::James Clifford::David Scott Warren:::Formal Semantics for Time in Databases.
+journals/tods/DenningDS79:::Dorothy E. Denning::Peter J. Denning::Mayer D. Schwartz:::The Tracker: A Threat to Statistical Database Security.
+journals/tods/NavatheCWD84:::Shamkant B. Navathe::Stefano Ceri::Gio Wiederhold::Jinglie Dou:::Vertical Partitioning Algorithms for Database Design.
+journals/tods/Korth82:::Henry F. Korth:::Deadlock Freedom Using Edge Locks.
+journals/tods/MohanLO86:::C. Mohan::Bruce G. Lindsay::Ron Obermarck:::Transaction Management in the  R* Distributed Database Management System.
+journals/tods/SchuldtABS02:::Heiko Schuldt::Gustavo Alonso::Catriel Beeri::Hans-Jörg Schek:::Atomicity and isolation for transactional processes.
+journals/tods/YuSLS85:::Clement T. Yu::Cheing-Mei Suen::K. Lam::M. K. Siu:::Adaptive Record Clustering.
+journals/tods/DreizenC89:::Howard M. Dreizen::Shi-Kuo Chang:::Imprecise Schema: A Rationale for Relations with Embedded Subrelations.
+journals/tods/Smith78:::Alan Jay Smith:::Sequentiality and Prefetching in Database Systems.
+journals/tods/AikenHW95:::Alexander Aiken::Joseph M. Hellerstein::Jennifer Widom:::Static Analysis Techniques for Predicting the Behavior of Active Database Rules.
+journals/tods/FinkelsteinST88:::Sheldon J. Finkelstein::Mario Schkolnick::Paolo Tiberio:::Physical Database Design for Relational Databases.
+journals/tods/Weikum91:::Gerhard Weikum:::Principles and Realization Strategies of Multilevel Transaction Management.
+journals/tods/SagivS93:::Yehoshua Sagiv::Oded Shmueli:::Solving Queries by Tree Projections.
+journals/tods/MendelsonS86:::Haim Mendelson::Aditya N. Saharia:::Incomplete Information Costs and Database Design.
+journals/tods/Garcia-Molina83:::Hector Garcia-Molina:::Using Semantic Knowledge for Transaction Processing in Distributed Database.
+journals/tods/Burkhard79:::Walter A. Burkhard:::Partial-Match Hash Coding: Benefits of Redundancy.
+journals/tods/GottlobPZ88:::Georg Gottlob::Paolo Paolini::Roberto Zicari:::Properties and Update Semantics of Consistent Views.
+journals/tods/DeogunRT84:::Jitender S. Deogun::Vijay V. Raghavan::Thomas K. W. Tsou:::Organization of Clustered Files for Consecutive Retrieval.
+journals/tods/Claybrook77:::Billy G. Claybrook:::A Facility for Defining and Manipulating Generalized Data Structures.
+journals/tods/Motro89:::Amihai Motro:::Integrity = Validity + Completeness.
+journals/tods/MamoulisP01:::Nikos Mamoulis::Dimitris Papadias:::Multiway spatial joins.
+journals/tods/Navathe80:::Shamkant B. Navathe:::Schema Analysis for Database Restructuring.
+journals/tods/Borgida85:::Alexander Borgida:::Language Features for Flexible Handling of Exceptions in Information Systems.
+journals/tods/CastanoAFP98:::Silvana Castano::Valeria De Antonellis::Maria Grazia Fugini::Barbara Pernici:::Conceptual Schema Analysis: Techniques and Applications.
+journals/tods/JajodiaM90:::Sushil Jajodia::David Mutchler:::Dynamic Voting Algorithms for Maintaining the Consistency of a Replicated Database.
+journals/tods/OzkarahanS77:::Esen A. Ozkarahan::Kenneth C. Sevcik:::Analysis of Architectural Features for Enhancing the Performance of a Database Machine.
+journals/tods/BaroodyD81:::A. James Baroody Jr.::David J. DeWitt:::An Object-Oriented Approach to Database System Implementation.
+journals/tods/Herot80:::Christopher F. Herot:::Spatial Management of Data.
+journals/tods/AlonsoBG90:::Rafael Alonso::Daniel Barbará::Hector Garcia-Molina:::Data Caching Issues in an Information Retrieval System.
+journals/tois/KimBGW91:::Won Kim::Nat Ballou::Jorge F. Garza::Darrell Woelk:::A Distributed Object-Oriented Database System Supporting Shared and Private Databases.
+journals/tois/LyngbaekM84:::Peter Lyngbæk::Dennis McLeod:::Object Management in Distributed Information Systems.
+journals/tois/WhangABHHHKKSSWZ87:::Kyu-Young Whang::Art Ammann::Anthony Bolmarcich::Maria Hanrahan::Guy Hochgesang::Kuan-Tsae Huang::Al Khorasani::Ravi Krishnamurthy::Gary H. Sockut::Paula Sweeney::Vance E. Waddle::Moshé M. Zloof:::Office-by-Example: An Integrated Office System and Database Manager.
+journals/tois/Panko85:::Raymond R. Panko:::Productivity Trends in Certain Office-Intensive Sectors of the U.S. Federal Government.
+journals/tois/HudsonK86:::Scott E. Hudson::Roger King:::A Generator of Direct Manipulation Office Systems.
+journals/tois/Manber97:::Udi Manber:::A text Compression Scheme that Allows Fast Searching Directly in the Compressed File.
+journals/tois/GreiffCT99:::Warren R. Greiff::W. Bruce Croft::Howard R. Turtle:::PIC matrices: a computationally tractable class of probabilistic query operators.
+journals/tois/Suchman83:::Lucy A. Suchman:::Office Procedure as Practical Action: Models of Work and System Design.
+journals/tois/UttingY89:::Kenneth Utting::Nicole Yankelovich:::Context and Orientation in Hypermedia Networks.
+journals/tois/Owei02:::Vesper Owei:::An intelligent approach to handling imperfect information in concept-based natural language queries.
+journals/tois/RanganRS95:::P. Venkat Rangan::Srinivas Ramanathan::Srihari Sampathkumar:::Feedback Techniques for Continuity and Synchronisation in Multimedia Information Retrieval.
+journals/tois/KellerEL95:::Ralf Keller::Wolfgang Effelsberg::Bernd Lamparter:::XMovie: Architecture and Implementation of a Distributed Movie System.
+journals/tois/WooL86:::Carson C. Woo::Frederick H. Lochovsky:::Supporting Distributed Office Problem Solving in Organizations.
+journals/tois/FischerLMM91:::Gerhard Fischer::Andreas C. Lemke::Thomas W. Mastaglio::Anders I. Mørch:::The Role of Critiquing in Cooperative Problem Solving.
+journals/tois/CarpinetoRG02:::Claudio Carpineto::Giovanni Romano::Vittorio Giannini:::Improving retrieval feedback with multiple term-ranking function combination.
+journals/tois/StonebrakerSLKG83:::Michael Stonebraker::Heidi Stettner::Nadene Lynn::Joseph Kalash::Antonin Guttman:::Document Processing in a Relational Database System.
+journals/tois/AuramakiLL88:::Esa Auramäki::Erkki Lehtinen::Kalle Lyytinen:::A Speech-Act-Based Office Modeling Approach.
+journals/tois/StottsF89:::P. David Stotts::Richard Furuta:::Petri-Net-Based Hypertext: Document Structure with Browsing Semantics.
+journals/tois/RommP98:::Celia T. Romm::Nava Pliskin:::Electronic Mail as a Coalition-Building Information Technology.
+journals/tois/HansonKF84:::Stephen Jose Hanson::Robert E. Kraut::James M. Farber:::Interface Design and Multivariate Analysis of UNIX Command Use.
+journals/tois/BracchiP84:::Giampio Bracchi::Barbara Pernici:::The Design Requirements of Office Systems.
+journals/tois/AggarwalAY01:::Charu C. Aggarwal::Fatima Al-Garawi::Philip S. Yu:::On the design of a learning crawler for topical resource discovery.
+journals/tois/CiacciaZ93:::Paolo Ciaccia::Pavel Zezula:::Estimating Accesses in Partitioned Signature File Organizations.
+journals/tois/MouraNZB00:::Edleno Silva de Moura::Gonzalo Navarro::Nivio Ziviani::Ricardo A. Baeza-Yates:::Fast and flexible word searching on compressed text.
+journals/tois/GottlobSR96:::Georg Gottlob::Michael Schrefl::Brigitte Röck:::Extending Object-Oriented Systems with Roles.
+journals/tois/GuglielmoR96:::Eugene J. Guglielmo::Neil C. Rowe:::Natural-Language Retrieval of Images Based on Descriptive Captions.
+journals/tois/GreifS87:::Irene Greif::Sunil K. Sarin:::Data Sharing in Group Work.
+journals/tois/FuhrR97:::Norbert Fuhr::Thomas Rölleke:::A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems.
+journals/tois/AndersonTW00:::Kenneth M. Anderson::Richard N. Taylor::E. James Whitehead Jr.:::Chimera: hypermedia for heterogeneous software development enviroments.
+journals/tois/SchnaseLHS93:::John L. Schnase::John J. Leggett::David L. Hicks::Ron L. Szabo:::Semantic Data Modeling of Hypermedia Associations.
+journals/tois/LempelS02:::Ronny Lempel::Aya Soffer:::PicASHOW: pictorial authority search by hyperlinks on the web.
+journals/toit/ArlittKR01:::Martin F. Arlitt::Diwakar Krishnamurthy::Jerry Rolia:::Characterizing the scalability of a large web-based shopping system.
+journals/toit/WolfY01:::Joel L. Wolf::Philip S. Yu:::On balancing the load in a clustered web farm.
+journals/toit/Kristol01:::David M. Kristol:::HTTP Cookies: Standards, privacy, and politics.
+journals/toit/KobsaS03:::Alfred Kobsa::Jörg Schreck:::Privacy through pseudonymity in user-adaptive systems.
+journals/toms/Grosz00:::Lutz Grosz:::How to vectorize the algebraic multilevel iteration.
+journals/toms/WatsonF80:::Layne T. Watson::Dan Fenner:::Algorithm 555: Chow-Yorke Algorithm for Fixed Points or Zeros of <i>C</i> <sup>2</sup> Maps [C5].
+journals/toms/HullFT97:::T. E. Hull::Thomas F. Fairgrieve::Ping Tak Peter Tang:::Implementing the Complex Arcsine and Arccosine Functions Using Exception Handling.
+journals/toms/BarwellG76:::Victor Barwell::Alan George:::A Comparison of Algorithms for Solving Symmetric Indefinite Systems of Linear Equations.
+journals/toms/Stewart76:::G. W. Stewart:::Algorithm 506: HQR3 and EXCHNG: Fortran Subroutines for Calculating and Ordering the Eigenvalues of a Real Upper Hessenberg Matrix [F2].
+journals/toms/Amos580:::Donald E. Amos:::Algorithm 556: Exponential Integrals [S13].
+journals/toms/Ford78:::Brian Ford:::Parametrization of the Environment for Transportable Numerical Software.
+journals/toms/ByrneH75:::George D. Byrne::Alan C. Hindmarsh:::A Polyalgorithm for the Numerical Solution of Ordinary Differential Equations.
+journals/toms/HoL80:::James K. Ho::Etienne Loute:::A Comparative Study of Two Methods for Staircase Linear Programs.
+journals/toms/HoS97:::James K. Ho::R. P. Sundarraj:::Distributed Nested Decomposition of Staircase Linear Programs.
+journals/toms/CrozNRT81:::J. J. Du Croz::S. M. Nugent::J. K. Reid::D. B. Taylor:::Solving Large Full Sets of Linear Equations in a Paged Virtual Store.
+journals/toms/George75:::James E. George:::Algorithms to Reveal the Representation of Characters, Integers, and Floating-Point Numbers.
+journals/toms/Boisvert95:::Ronald F. Boisvert:::Purpose and Scope: TOMS.
+journals/toms/BlomTV96:::J. G. Blom::R. A. Trompert::J. G. Verwer:::Algorithm 758: VLUGR2: A Vectorizable Adaptive-Grid Solver for PDEs in 2D.
+journals/toms/McClellan77:::Michael T. McClellan:::The Exact Solution of Linear Equations with Rational Function Coefficients.
+journals/toms/BouarichaS97:::Ali Bouaricha::Robert B. Schnabel:::Algorithm 768: TENSOLVE: A Software Package for Solving Systems of Nonlinear Equations and Nonlinear Least-Squares Problems Using Tensor Methods.
+journals/toms/MahendrarajahF76:::A. Mahendrarajah::Frantisek Fiala:::A Comparison of Three Algorithms for Linear Zero-One Programs.
+journals/toms/PothenF90:::Alex Pothen::Chin-Ju Fan:::Computing the block triangular form of a sparse matrix.
+journals/toms/Verwer80:::J. G. Verwer:::An Implementation of a Class of Stabilized Explicit Methods for the Time Integration of Parabolic Equations.
+journals/toms/CarrigM97:::James J. Carrig Jr.::Gerard G. L. Meyer:::Efficient Householder QR Factorization for Superscalar Processors.
+journals/toms/McKeanR77:::J. W. McKean::T. A. Ryan:::Algorithm 516: An Algorithm for Obtaining Confidence Intervals and Point Estimates Based on Ranks in the Two Sample Location Problem [G1].
+journals/toms/Anderson79:::Michael R. Anderson:::Remark on ``Algorithm 474: Bivariate Interpolation and Smooth Surface Fitting Based on Local Procedures''.
+journals/toms/ChowH98:::Edmond Chow::Michael A. Heroux:::An Object-Oriented Framework for Block Preconditioning.
+journals/toms/MiminisR95:::George Miminis::Helmut Roth:::Algorithm 747: A Fortran Subroutine to Solve the Eigenvalue Assignment Problem for Multiinput Systems Using State Feedback.
+journals/toms/DavenportT85:::James H. Davenport::Barry M. Trager:::On the Parallel Risch Algorithm (II).
+journals/toms/Abdelmalek80:::Nabih N. Abdelmalek::: <i>L</i> <sub>1</sub> Solution of Overdetermined Systems of Linear Equations.
+journals/toms/LEcuyerS99:::Pierre L'Ecuyer::Richard J. Simard:::Beware of linear congruential generators with multipliers of the form <i>a</i> = ±2<i> <sup>q</sup> </i> ±2<i> <sup>r</sup> </i>.
+journals/toms/GeurtsP97:::A. J. Geurts::C. Praagman:::Algorithm 767: A Fortran 77 Package for Column Reduction of Polynomial Matrices.
+journals/toms/CarpanetoT80:::Giorgio Carpaneto::Paolo Toth:::Algorithm 548: Solution of the Assignment Problem [H].
+journals/toms/KarpM97:::Alan H. Karp::Peter Markstein:::High-Precision Division and Square Root.
+journals/toms/DobmannLS95:::M. Dobmann::M. Liepelt::K. Schittkowski:::Algorithm 746: PCOMP: A Fortran Code for Automatic Differentiation.
+journals/toms/KagstromP96:::Bo Kågström::Peter Poromaa:::LAPACK-Style Algorithms and Software for Solving the Generalized Sylvester Equation and Estimating the Separation Between Regular Matrix Pairs.
+journals/toms/JacksonS80:::K. R. Jackson::Ron Sacks-Davis:::An Alternative Implementation of Variable Step-Size Multistep Formulas for Stiff ODEs.
+journals/toms/BuisD96a:::Paul E. Buis::Wayne R. Dyksen:::Algorithm 753: TENPACK: A LAPACK-Based Library for the Computer Manipulation of Tensor Products.
+journals/toms/CraneGPS76:::H. L. Crane Jr.::Norman E. Gibbs::William G. Poole Jr.::Paul K. Stockmeyer:::Algorithm 508: Matrix Bandwidth and Profile Reduction [F1].
+journals/toms/Rice76a:::John R. Rice:::TOMS Policy Statement: The Rights of Program Authors in the Evaluation of Programs.
+journals/toms/Bailey95:::David H. Bailey:::A Fortran-90 Based Multiprecision System.
+journals/toms/MartelloT85:::Silvano Martello::Paolo Toth:::Algorithm 632: A Program for the 0-1 Multiple Knapsack Problem.
+journals/toms/RenkaB99a:::Robert J. Renka::Ron Brown:::Algorithm 792: accuracy test of ACM algorithms for interpolation of scattered data in the plane.
+journals/toms/Coleman78:::John P. Coleman:::Remark on ``Algorithm 49: Spherical Neumann Function''.
+journals/toms/BrownLLRS96:::Barry W. Brown::Lawrence B. Levy::James Lovato::Kathy Russell::Floyd M. Spears:::Algorithm 762: LLDRLF, log-Likelihood and Some Derivatives for log-F Models.
+journals/toms/Krogh85:::Fred T. Krogh:::ACM Algorithms Policy.
+journals/toms/DuffS93:::Iain S. Duff::J. A. Scott:::Computing Selected Eigenvalues of Sparse Unsymmetric Matrices Using Subspace Iteration.
+journals/toms/Cleary79:::John G. Cleary:::Analysis of an Algorithm for Finding Nearest Neighbors in Euclidean Space.
+journals/toms/Pryce99a:::J. D. Pryce:::Algorithm 789: SLTSTPAK: : a test package for Sturm-Liouville solvers.
+journals/toms/GriewankW00:::Andreas Griewank::Andrea Walther:::Algorithm 799: revolve: an implementation of checkpointing for the reverse or adjoint mode of computational differentiation.
+journals/toms/Gautschi77a:::Walter Gautschi:::Algorithm 521: Repeated Integrals of the Coerror Function [S15].
+journals/toms/HeinkenschlossV99:::Matthias Heinkenschloss::Luís N. Vicente:::An interface optimization and application for the numerical solution of optimal control problems.
+journals/toms/SincovecM75:::Richard F. Sincovec::Niel K. Madsen:::Software for Nonlinear Partial Differential Equations.
+journals/toms/Gautschi99:::Walter Gautschi:::A note on the recursive calculation of incomplete gamma functions.
+journals/toms/KocisW97:::Ladislav Kocis::William J. Whiten:::Computational Investigations of Low-Discrepancy Sequences.
+journals/toms/HoffmanS80:::K. L. Hoffman::D. R. Shier:::A Test Problem Generator for Discrete Linear L<sub>1</sub> Approximation Problems.
+journals/toms/JonesP95a:::Mark T. Jones::Paul E. Plassmann:::Algorithm 740: Fortran Subroutines to Compute Improved Incomplete Cholesky Factorizations.
+journals/toms/Kallman77:::Ralph Kallman:::Algorithm 519: Three Algorithms for Computing Kolmogorov-Smirnov Probabilities with Arbitrary Boundaries and a Certification of Algorithm 487 [S14].
+journals/toms/Gibbs76:::Norman E. Gibbs:::Algorithm 509: A Hybrid Profile Reduction Algorithm [F1].
+journals/toms/WeerawaranaHRJH96:::Sanjiva Weerawarana::Elias N. Houstis::John R. Rice::Anupam Joshi::Catherine E. Houstis:::PYTHIA: A Knowledge-Based System to Select Scientific Algorithms.
+journals/toms/BaileyGS78:::Paul B. Bailey::M. K. Gordon::Lawrence F. Shampine:::Automatic Solution of the Sturm-Liouville Problem.
+journals/toms/ReichelG90:::Lothar Reichel::William B. Gragg:::Algorithm 686: FORTRAN subroutines for updating the QR decomposition.
+journals/tpds/Kandemir01:::Mahmut T. Kandemir:::Compiler-Directed Collective-I/O.
+journals/tpds/ReynoldsWW97:::Paul F. Reynolds Jr.::Craig Williams::Raymond R. Wagner Jr.:::Isotach Networks.
+journals/tpds/NabhanZ95:::Tarek M. Nabhan::Albert Y. Zomaya:::A Parallel Simulated Annealing Algorithm with Low Communication Overhead.
+journals/tpds/Wu98:::Jie Wu:::Adaptive Fault-Tolerant Routing in Cube-Based Multicomputers Using Safety Vectors.
+journals/tpds/BikW96:::Aart J. C. Bik::Harry A. G. Wijshoff:::Automatic Data Structure Selection and Transformation for Sparse Matrix Computations.
+journals/tpds/RussRFH98:::Samuel H. Russ::Jonathan Robinson::Brian K. Flachs::Bjørn Heckel:::The Hector Distributed Run-Time Environment.
+journals/tpds/DanY93:::Asit Dan::Philip S. Yu:::Performance Analysis of Buffer Coherency Policies in a Multisystem Data Sharing Environment.
+journals/tpds/DayA02:::Khaled Day::Abdel Elah Al-Ayyoub:::Topological Properties of OTIS-Networks.
+journals/tpds/MalonyRW92:::Allen D. Malony::Daniel A. Reed::Harry A. G. Wijshoff:::Performance Measurement Intrusion and Perturbation Analysis.
+journals/tpds/ChenWL92:::Gen-Huey Chen::Biing-Feng Wang::Chi-Jen Lu:::On the Parallel Computation of the Algebraic Path Problem.
+journals/tpds/Foster91:::Ian T. Foster:::Automatic Generation of Self-Scheduling Programs.
+journals/tpds/FanC91:::Zhenqiang Fan::Kam-Hoi Cheng:::A Generalized Simultaneous Access Dictionary Machine.
+journals/tpds/Al-furiahAGR97:::Ibraheem Al-furiah::Srinivas Aluru::Sanjay Goil::Sanjay Ranka:::Practical Algorithms for Selection on Coarse-Grained Parallel Computers.
+journals/tpds/RamkumarK94a:::Balkrishna Ramkumar::Laxmikant V. Kalé:::Machine Independent AND and OR Parallel Execution of Logic Programs: Part II-Compiled Execution.
+journals/tpds/Lawrie94b:::Duncan H. Lawrie:::Introduction of New Associate Editor.
+journals/tpds/MadhyasthaR02:::Tara M. Madhyastha::Daniel A. Reed:::Learning to Classify Parallel Input/Output Access Patterns.
+journals/tpds/ColajanniD98:::Michele Colajanni::Philip S. Yu::Daniel M. Dias:::Analysis of Task Assignment Policies in Scalable Distributed Web-Server Systems.
+journals/tpds/VaidyaSD01:::Aniruddha S. Vaidya::Anand Sivasubramaniam::Chita R. Das:::Impact of Virtual Channels and Adaptive Routing on Application Performance.
+journals/tpds/Rescigno97:::Adele A. Rescigno:::Optimal Polling in Communication Networks.
+journals/tpds/LoPELT99:::Jack L. Lo::Sujay S. Parekh::Susan J. Eggers::Henry M. Levy::Dean M. Tullsen:::Software-Directed Register Deallocation for Simultaneous Multithreaded Processors.
+journals/tpds/Lee91:::Edward A. Lee:::Consistency in Dataflow Graphs.
+journals/tpds/Lee93:::K. C. Lee:::A Virtual Bus Architecture for Dynamic Parallel Processing.
+journals/tpds/Lin93:::Yen-Chun Lin:::On Balancing Sorting on a Linear Array.
+journals/tpds/HamdiS97:::Mounir Hamdi::Siang W. Song:::Embedding Hierarchical Hypercube Networks into the Hypercube.
+journals/tpds/DattaSO02:::Amitava Datta::Subbiah Soundaralakshmi::Robyn A. Owens:::Fast Sorting Algorithms on a Linear Array with a Reconfigurable Pipelined Bus System.
+journals/tpds/Pan93:::Victor Y. Pan:::Concurrent Iterative Algorithm for Toeplitz-like Linear Systems.
+journals/tpds/BhandarkarA97:::Suchendra M. Bhandarkar::Hamid R. Arabnia:::Parallel Computer Vision on a Reconfigurable Multiprocessor Network.
+journals/tpds/SistlaWH98:::A. Prasad Sistla::Ouri Wolfson::Yixiu Huang:::Minimization of Communication Cost Through Caching in Mobile Environments.
+journals/tpds/HouYP02:::Jiongkuan Hou::Jie Yang::Symeon Papavassiliou:::Integration of Pricing with Call Admission Control to Meet QoS Requirements in Cellular Networks.
+journals/tpds/YuC96:::Chang-Wu Yu::Gen-Huey Chen:::An Efficient Parallel Recognition Algorithm For Bipartite-Permutation Graphs.
+journals/tpds/YuD94:::Philip S. Yu::Asit Dan:::Performance Evaluation of Transaction Processing Coupling Architectures for Handling System Dynamics.
+journals/tpds/Padmanabhan91:::Krishnan Padmanabhan:::Design and Analysis of Even-Sized Binary Shuffle-Exchange Networks for Multiprocessors.
+journals/tpds/SharmaP95:::Debendra Das Sharma::Dhiraj K. Pradhan:::Processor Allocation in Hypercube Multicomputers: Fast and Efficient Strategies for Cubic and Noncubic Allocation.
+journals/tpds/RomeinBSP02:::John W. Romein::Henri E. Bal::Jonathan Schaeffer::Aske Plaat:::Analysis of Transposition-Table-Driven Work Scheduling in Distributed Search.
+journals/tpds/KandemirCRB03:::Mahmut T. Kandemir::Alok N. Choudhary::J. Ramanujam::Prithviraj Banerjee:::Reducing False Sharing and Improving Spatial Locality in a Unified Compilation Framework.
+journals/tpds/LauC96:::Francis C. M. Lau::Guihai Chen:::Optimal Layouts of Midimew Networks.
+journals/tpds/LeeS94:::Sunggu Lee::Kang G. Shin:::Interleaved All-to-All Reliable Broadcast on Meshes and Hypercubes.
+journals/tpds/LeeW00:::Jack Y. B. Lee::P. C. Wong:::Performance Analysis of a Pull-Based Parallel Video Server.
+journals/tpds/LinO95:::Rong Lin::Stephan Olariu:::Reconfigurable Buses with Shift Switching: Concepts and Applications.
+journals/tpds/LiuB00:::Pangfeng Liu::Sandeep N. Bhatt:::Experiences with Parallel N-Body Simulation.
+journals/tpds/PrasannaAM94:::G. N. Srinivasa Prasanna::Anant Agarwal::Bruce R. Musicus:::Hierarchical Compilation of Macro Dataflow Graphs for Multiprocessors with Local Memory.
+journals/tpds/JaJaR96:::Joseph JáJá::Kwan Woo Ryu:::The Block Distributed Memory Model.
+journals/tpds/CorbettS92:::Peter F. Corbett::Isaac D. Scherson:::Sorting in Mesh Connected Multiprocessors.
+journals/tpds/KandlurSF94:::Dilip D. Kandlur::Kang G. Shin::Domenico Ferrari:::Real-Time Communication in Multihop Networks.
+journals/tpds/WolfeT92:::Michael Wolfe::Chau-Wen Tseng:::The Power Test for Data Dependence.
+journals/tpds/GirkarP92:::Milind Girkar::Constantine D. Polychronopoulos:::Automatic Extraction of Functional Parallelism from Ordinary Programs.
+journals/tpds/LeungT97:::Ho-Fung Leung::Hing-Fung Ting:::An Optimal Algorithm for Global Termination Detection in Shared-Memory Asynchronous Multiprocessor Systems.
+journals/tpds/CaoS01a:::Guohong Cao::Mukesh Singhal:::A Delay-Optimal Quorum-Based Mutual Exclusion Algorithm for Distributed Systems.
+journals/tpds/RankaS91:::Sanjay Ranka::Sartaj Sahni:::Clustering on a Hypercube Multicomputer.
+journals/tpds/PetitetD99:::Antoine Petitet::Jack Dongarra:::Algorithmic Redistribution Methods for Block-Cyclic Decompositions.
+journals/tpds/VarvarigouRKL96:::Theodora A. Varvarigou::Vwani P. Roychowdhury::Thomas Kailath::Eugene L. Lawler:::Scheduling In and Out Forests in the Presence of Communication Delays.
+journals/tpds/AgrawalB91:::Divyakant Agrawal::Arthur J. Bernstein:::A Nonblocking Quorum Consensus Protocol for Replicated Data.
+journals/tpds/JainR94:::Kamal Kumar Jain::V. Rajaraman:::Lower and Upper Bounds on Time for Multiprocessor Optimal Schedules.
+journals/tpds/OlikerB00:::Leonid Oliker::Rupak Biswas:::Parallelization of a Dynamic Unstructured Algorithm Using Three Leading Programming Paradigms.
+journals/tpds/BohmG90:::A. P. Wim Böhm::John R. Gurd:::Iterative Instructions in the Manchester Dataflow Computer.

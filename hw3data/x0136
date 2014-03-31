@@ -1,0 +1,200 @@
+conf/ershov/RodionovL01:::Alexey S. Rodionov::Dmitry V. Leskov:::Oberon-2 as Successor of Modula-2 in Simulation.
+conf/ershov/Engeler72:::Erwin Engeler:::The logic of "can do".
+conf/ershov/TaitslinA93:::Mikhail A. Taitslin::D. Arkhangelsky:::The Other Linear Logic (Invited Paper).
+conf/ershov/Pottosin01:::Igor V. Pottosin:::A.P. Ershov - A Pioneer and a Leader of National Programming.
+conf/ershov/Cheblakov75:::George B. Cheblakov:::The data structures representation in machine oriented higher level language.
+conf/ershov/Sabelfeld93:::Viktor K. Sabelfeld:::Analysis of Some Semantic Properties for Programs of the Applicative Language AL.
+conf/ershov/HaebererBS93:::Armando Martin Haeberer::Gabriel Baum::Gunther Schmidt:::On the Smooth Calculation of Relational Recursive Expressions out of First-Order Non-Constructive Specifications Involving Quantifiers.
+conf/ershov/Levin75:::David Ya. Levin:::Experimental implementation of SETL.
+conf/ershov/Daderkin89:::Dmitry O. Daderkin:::On A Class of Unoids.
+conf/ershov/GranvilliersM01:::Laurent Granvilliers::Eric Monfroy:::A Graphical Interface for Solver Cooperations.
+conf/ershov/FriasBH96:::Marcelo F. Frias::Gabriel Baum::Armando Martin Haeberer:::Adding Design Strategies to Fork Algebras.
+conf/ershov/YakhnoP96:::Tatyana M. Yakhno::Evgueni S. Petrov:::Application of Subdefinite Models for Solving Constraint Satisfaction Problems.
+conf/ershov/MorrisonCCDFKMZ99:::Ronald Morrison::Richard C. H. Connor::Quintin I. Cutts::Alan Dearle::Alex Farkas::Graham N. C. Kirby::Robert McGettrick::Evangelos Zirintsis:::Current Directions in Hyper-Programming.
+conf/ershov/Kobilov99:::S. S. Kobilov:::Language Tools and Programming Systems in Educational Informatics.
+conf/ershov/Monsuez93:::Bruno Monsuez:::Polymorphic Typing for Call-by-Name Semantics.
+conf/ershov/Telerman01:::Vitaly Telerman:::Using Constraint Solvers in CAD/CAM Systems.
+conf/ershov/CortesiCR01:::Agostino Cortesi::Baudouin Le Charlier::Sabina Rossi:::Reexecution-Based Analysis of Logic Programs with Delay Declarations.
+conf/ershov/Letichevsky79:::Alexander A. Letichevsky:::On finding invariant relations of programs.
+conf/ershov/Nepeivoda79:::N. N. Nepeivoda:::The logical approach to programming.
+conf/ershov/KoznovRN01:::D. V. Koznov::Konstantin Romanovsky::Alexei Nikitin:::A Method for Recovery and Maintenance of Software Architecture.
+conf/ershov/Kanovich89:::Max I. Kanovich:::What is the Logic of Computational Tasks?
+conf/ershov/Zemanek79:::Heinz Zemanek:::DIXIT Algorizmi - His Background, his Personality, his Work, and his Influence.
+conf/ershov/GannodC93:::Gerald C. Gannod::Betty H. C. Cheng:::A Two-Phase Approach to Reverse Engineering Using Formal Methods.
+conf/ershov/Uvarov99:::Denis L. Uvarov:::An Optimal Algorithm for Purging Regular Schemes.
+conf/ershov/FrauensteinGPS96:::Thomas Frauenstein::Wolfgang Grieskamp::Peter Pepper::Mario Südholt:::Communicating Functional Agents and Their Application to Graphical User Interfaces.
+conf/ershov/DekhtyarDV99:::Michael I. Dekhtyar::Alexander Ja. Dikovsky::Mars K. Valiev:::Applying Temporal Logic to Analysis of Behavior of Cooperating Logic Programs.
+conf/ershov/MartinL99:::Jonathan C. Martin::Michael Leuschel:::Sonic Partial Deduction.
+conf/ershov/Shvarts89:::Grigori F. Shvarts:::Gentzen Style Systems for K45 and K45D.
+conf/ershov/Letichervsky72:::A. A. Letichervsky:::Equivalence and optimization of programs.
+conf/esmart/Moore01:::Simon W. Moore:::Protecting Consumer Security Devices.
+conf/esmart/GoreN01:::Rajeev Goré::Phuong Thê Nguyên:::CardS4: Modal Theorem Proving on Java Smartcards.
+conf/finanz/Obermuller80:::Herbert Obermüller:::Erfahrungen beim Einsatz des Systems SAFIR bei der Südmilch AG.
+conf/finanz/SzyperskiL80:::Norbert Szyperski::Frank Luther:::FIESTA und PLAN - Dialogmodelle des BIFOA und der DATEV zur integrierten Finanz-, Ergebnis- und Steuerplanung kleiner Unternehmen.
+conf/finanz/Schneider80:::Rudolf Schneider:::Online-Kalkulation (Erzeugniskostenermittlung) und Kostenträgerrechnung bei SKF.
+conf/eurogp/BotL00:::Martijn C. J. Bot::William B. Langdon:::Application of Genetic Programming to Induction of Linear Classification Trees.
+conf/eurogp/LeungLC03:::Kwong-Sak Leung::Kin-Hong Lee::Sin Man Cheang:::Parallel Programs Are More Evolvable than Sequential Programs.
+conf/eurogp/YuM02:::Tina Yu::Julian F. Miller:::Finding Needles in Haystacks Is Not Hard with Neutrality.
+conf/eurogp/RylanderSF01:::Bart Rylander::Terence Soule::James A. Foster:::Computational Complexity, Genetic Programming, and Implications.
+conf/eurogp/Poli01:::Riccardo Poli:::General Schema Theory for Genetic Programming with Subtree-Swapping Crossover.
+conf/eurogp/WoodwardN03:::John R. Woodward::James R. Neil:::No Free Lunch, Program Induction and Combinatorial Problems.
+conf/eurogp/ImamuraHSF02:::Kosuke Imamura::Robert B. Heckendorn::Terence Soule::James A. Foster:::N-Version Genetic Programming via Fault Masking.
+conf/eurogp/RobertsHK01:::Simon C. Roberts::Daniel Howard::John R. Koza:::Evolving Modules in Genetic Programming by Subtree Encapsulation.
+conf/eurogp/GolubskiF99:::Wolfgang Golubski::Thomas Feuring:::Evolving Neural Network Structures by Means of Genetic Programming.
+conf/eurogp/SmithB03:::Matthew G. Smith::Lawrence Bull:::Feature Construction and Selection Using Genetic Programming and a Genetic Algorithm.
+conf/eurogp/ONeillR99:::Michael O'Neill::Conor Ryan:::Evolving Multi-line Compilable C Programs.
+conf/eurogp/IbarraLMHH02:::Aitor Ibarra::Juan Lanchares::J. M. Mendísas::José Ignacio Hidalgo::Román Hermida:::Transformation of Equational Specification by Means of Genetic Programming.
+conf/eurogp/OchiVDV98:::Luiz S. Ochi::Dalessandro Soares Vianna::Lúcia Maria de A. Drummond::André O. Victor:::An Evolutionary Hybrid Metaheuristic for Solving the Vehicle Routing Problem with Heterogeneous Fleet.
+conf/eurogp/MehnenMW03:::Jörn Mehnen::Thomas Michelitsch::Klaus Weinert:::Evolutionary Optimized Mold Temperature Control Strategies Using a Multi-polyline Approach.
+conf/eurogp/OteroSFN03:::Fernando E. B. Otero::Monique M. S. Silva::Alex Alves Freitas::Júlio C. Nievola:::Genetic Programming for Attribute Construction in Data Mining.
+conf/eurogp/Soule03:::Terence Soule:::Cooperative Evolution on the Intertwined Spirals Problem.
+conf/eurogp/BaradavkaK03:::Igor Baradavka::Tatiana Kalganova:::Assembling Strategies in Extrinsic Evolvable Hardware with Bidirectional Incremental Evolution.
+conf/eurogp/Sarafopoulos99:::Anargyros Sarafopoulos:::Automatic Generation of Affine IFS and Strongly Typed Genetic Programming.
+conf/eurogp/MacCallum03:::Robert M. MacCallum:::Introducing a Perl Genetic Programming System - and Can Meta-evolution Solve the Bloat Problem?
+conf/eurogp/ONeillDBR03:::Michael O'Neill::Ian Dempsey::Anthony Brabazon::Conor Ryan:::Analysis of a Digit Concatenation Approach to Constant Creation.
+conf/eurogp/CalderoniM98:::Stéphane Calderoni::Pierre Marcenac:::Genetic Progamming for Automatic Design of Self-Adaptive Robots.
+conf/flairs/Watson01a:::Ian Watson:::A Decision Support System for Local Government Regulatory Advice.
+conf/flairs/SongWBC99:::Dawei Song::Kam-Fai Wong::Peter Bruza::Chun Hung Cheng:::Towards Functional Benchmarking of Information Retrieval Models.
+conf/flairs/BaritchiCH00:::Andi Baritchi::Diane J. Cook::Lawrence B. Holder:::Discovering Structural Patterns in Telecommunications Data.
+conf/flairs/PyeattH98:::Larry D. Pyeatt::Adele E. Howe:::Learning to Race: Experiments with a Simulated Race Car.
+conf/flairs/BeckW00:::Joseph E. Beck::Beverly Park Woolf:::Reasoning from Data Rather than Theory.
+conf/flairs/Fox01:::Susan Eileen Fox:::Behavior Retrieval for Robot Control in a Unified CBR Hybrid Planner.
+conf/flairs/Fox98:::Susan Fox:::A New Model of Reflective Introspective Learning.
+conf/flairs/Tae99:::Kang Soo Tae:::Learning Opposite Concept for Machine Planning.
+conf/flairs/GraesserFW98:::Arthur C. Graesser::Stanl Franklin::Peter M. Wiemer-Hastings:::Simulating Smooth Tutorial Dialogue with Pedagogical Value.
+conf/flairs/KashyapDB01:::Vipul Kashyap::Siddhartha R. Dalal::Clifford Behrens:::Professional Services Automation: A Knowledge Management Approach Using LSI and Domain Specific Ontologies.
+conf/flairs/MichelsAKG98:::Jan-Eike Michels::Thomas Abel::Rainer Knauf::Avelino J. Gonzalez:::Investigating the Validity of a Test Case Selection Methodology for Expert System Validation.
+conf/flairs/PrendingerI99:::Helmut Prendinger::Mitsuru Ishizuka:::Preparing a First-Order Knowledge Base for Fast Inference.
+conf/flairs/TsurutaO01:::Setsuo Tsuruta::Takashi Onoyama:::Intelligent Systems Validation Tool Based on Bi-Directional Many-Sided Explanation Typed Multi-Step Validation Method.
+conf/flairs/MihalceaM99:::Rada Mihalcea::Dan I. Moldovan:::Automatic Acquisition of Sense Tagged Corpora.
+conf/flairs/LisettiN02:::Christine L. Lisetti::Fatma Nasoz:::Application of the Multilevel Process Theory of Emotion to User-Modeling.
+conf/flairs/Becerra-Fernandez99:::Irma Becerra-Fernandez:::Searchable Answer Generating Environment (SAGE): A Knowledge Management System for Searching for Experts in Florida.
+conf/flairs/Becerra-FernandezMR01:::Irma Becerra-Fernandez::Karen McCarthy::Juan Rodriguez:::An Infrastructure for Managing Knowledge Using Intelligent Workflow.
+conf/flairs/WongL02:::S. K. Michael Wong::Tao Lin:::Conflict Resolution in Probabilistic Multi-Agent Systems.
+conf/flairs/HildermanHB99:::Robert J. Hilderman::Howard J. Hamilton::Brock Barber:::Ranking the Interestingness of Summaries from Data Mining Systems.
+conf/flairs/HatzilygeroudisP00:::Ioannis Hatzilygeroudis::Jim Prentzas:::Producing Modular Hybrid Rule Bases for Expert Systems.
+conf/flairs/SandanayakeC02:::Priyath T. Sandanayake::Diane J. Cook:::Imitating Agent Game Strategies Using a Scalable Markov Model.
+conf/flairs/OSullivanWS02:::Derry O'Sullivan::David Wilson::Barry Smyth:::Using Collaborative Filtering Data in Case-Based Recommendation.
+conf/flairs/DraegerS01:::Joachim Draeger::Stephan Schulz:::Improving the Performance of Automated Theorem Provers by Redundancy-Free Lemmatization.
+conf/flairs/CanasLM01:::Alberto J. Cañas::David B. Leake::Ana Gabriela Maguitman:::Combining Concept Mapping with CBR: Towards Experience-Based Support for Knowledge Modeling.
+conf/flairs/HannonC01:::Charles Hannon::Diane J. Cook:::Exploring the Use of Cognitive Models in AI Applications Using the Stroop Effect.
+conf/flairs/SimonetSBDH98:::Ana Simonet::Michel Simonet::Cyr Gabin Bassolet::X. C. Delannoy::Riad Hamadi:::Static Classification Schemes for an Object System.
+conf/flairs/Zlatareva98:::Neli Zlatareva:::Knowledge Refinement During Developmental and Field Validation of Expert Systems.
+conf/flairs/FindlaterH01:::Leah Findlater::Howard J. Hamilton:::An Empirical Comparison of Methods for Iceberg-CUBE Construction.
+conf/flairs/ZhouFGMRE99:::Yujian Zhou::Reva Freedman::Michael Glass::Joel A. Michael::Allen A. Rovick::Martha W. Evens:::What Should the Tutor Do When the Student Cannot Answer a Question?
+conf/flairs/SamehRM99:::Ahmed H. Sameh::Tarek Radi::Rana Mikhail:::Learning the Past Tense of English Verbs: An Extension to FOIDL.
+conf/flairs/RichardsHM01:::Robert A. Richards::Ryan T. Houlette::John L. Mohammed:::Distributed Satellite Constellation Planning and Scheduling.
+conf/flairs/SantosSS02:::Eugene Santos Jr.::Eugene S. Santos::Solomon Eyal Shimony:::Semantics and Knowledge Acquisition in Bayesian Knowledge-Bases.
+conf/flairs/Mohammed02:::John L. Mohammed:::SpaceCAPS: Automated Mission Planning for the TechSat 21 Formation-Flying Cluster Experiment.
+conf/flairs/BassED98:::Ellen J. Bass::Samuel T. Ernst-Fortin::Phillip C. Duncan:::An Intelligent Debriefing System for Situation Awareness Training.
+conf/flairs/Kumar98:::Amruth N. Kumar:::Problem Generation: Evaluation of Two Domains in Operating Systems.
+conf/flairs/AnderssonEL02:::Nils-Peter Andersson::Love Ekenberg::Aron Larsson:::A Bayesian Approach to Operational Decisions in Transportation Businesses.
+conf/flairs/Kaboudan98:::M. A. Kaboudan:::Forecasting Stock Returns Using Genetic Programming in C++.
+conf/flairs/CozmanC02:::Fabio Gagliardi Cozman::Ira Cohen:::Unlabeled Data Can Degrade Classification Performance of Generative Classifiers.
+conf/flairs/SollazzoHSFS02:::Tanja Sollazzo::Siegfried Handschuh::Steffen Staab::Martin R. Frank::Nenad Stojanovic:::Semantic Web Service Architecture -- Evolving Web Service Standards toward the Semantic Web.
+conf/flairs/MadsenNJ98:::Anders L. Madsen::Lars M. Nielsen::Finn Verner Jensen:::ProbSy--A System for the Calculation of Probabilities in the Card Game Bridge.
+conf/flairs/MalerbaEL01:::Donato Malerba::Floriana Esposito::Francesca A. Lisi:::A Logical Framework for Frequent Pattern Discovery in Spatial Data.
+conf/flairs/GirjuM01:::Roxana Girju::Dan I. Moldovan:::Knowledge Acquisition for Question Answering.
+conf/flairs/SuriFC98:::Niranjan Suri::Kenneth M. Ford::Alberto J. Cañas:::An Architecture for Smart Internet Agents.
+conf/flairs/HaddarH98:::Kais Haddar::Abdelmajid Ben Hamadou:::An Ellipsis Detection Method Based on a Clause Parser for Arabic Language.
+conf/flairs/NayakC01:::Jyothsna R. Nayak::Diane J. Cook:::Approximate Association Rule Mining.
+conf/flairs/HuangN01:::Timothy Huang::Yuriy Nevmyvaka:::A Practical Markov Chain Monte Carlo Approach to Decision Problems.
+conf/flairs/NortonT00:::Roger Norton::S. Rebecca Thomas:::Domain Semantics for Agent-Oriented Programming.
+conf/flairs/Greene00:::William A. Greene:::Partitioning Sets with Genetic Algorithms.
+conf/flairs/HahnR01:::Udo Hahn::Martin Romacker:::Computing in Formal Knowledge Base Contexts for Natural Language Ambiguity Resolution.
+conf/flairs/BangsoW00:::Olav Bangsø::Pierre-Henri Wuillemin:::Top-Down Construction and Repetetive Structures Representation in Bayesian Networks.
+conf/flairs/NockS00:::Richard Nock::Marc Sebban:::A Boosting-Based Prototype Weighting and Selection Scheme.
+conf/flairs/Seewald01:::Alexander K. Seewald:::Entertainment Robots - Myth or Reality.
+conf/flairs/Nowak98:::Krzysztof Zbigniew Nowak:::Towards Partial Reasoning.
+conf/fmoods/Meseguer00:::José Meseguer:::Rewriting Logic and Maude: a Wide-Spectrum Semantic Framework for Object-Based Distributed Systems.
+conf/fmoods/BalzarottiCP99:::C. Balzarotti::Fiorella de Cindio::Lucia Pomello:::Observation equivalences for the semantics of inheritance.
+conf/fmoods/DerrickB00:::John Derrick::Eerke A. Boiten:::Refinement of objects and operations in Object-Z.
+conf/fmoods/Cimato99:::Stelvio Cimato:::Specifying component-based Java applications (Short Paper).
+conf/fmoods/Wang00:::Yunming Wang:::Behavior Expression and OMDD.
+conf/fmoods/AlvarezA00:::José Ambrosio Toval Álvarez::José Luis Fernández Alemán:::Formally Modeling UML and its Evolution: A Holistic Approach.
+conf/fmoods/VeglioniP99:::S. Veglioni::Francesco Parisi-Presicce:::Composition and Interaction for Behavioural Specifications.
+conf/fmoods/BusiGZ00:::Nadia Busi::Roberto Gorrieri::Gianluigi Zavattaro:::On the Semantics of JavaSpaces.
+conf/fmoods/BlairJB00:::Lynne Blair::Trevor Jones::Gordon S. Blair:::Stochastically Enhanced Timed Automata.
+conf/georob/GiraudS88:::A. Giraud::D. Sidobre:::Contact manipulation and geometric reasoning.
+conf/georob/Crapo88:::Henry Crapo:::Applications of geometric homology.
+conf/georob/Tournassoud88:::Pierre Tournassoud:::Motion planning for a mobile robot with a kinematic constraint.
+conf/frauen/Schulz-Zander89:::Renate Schulz-Zander:::Konzepte und Strategien zur informationstechnologischen Bildung für Mädchen und junge Frauen.
+conf/frauen/CraubnerH89:::Heidelotte Craubner::Gertrud Heck-Weinhart:::Sprachverhalten in Computer-Fachliteratur aus feministischer Sicht.
+conf/frocos/Lucio00:::Paqui Lucio:::Structured Sequent Calculi for Combining Intuitionistic and Classical First-Order Logic.
+conf/frocos/CerroH96:::Luis Fariñas del Cerro::Andreas Herzig:::Combinig Classical and Intuitionistic Logic, or: Intuitionistic Implication as a Conditional.
+conf/fsttcs/DiwanU95:::Ajit A. Diwan::N. Usharani:::A Condition for the Three Colourability of Planar Locally Path Graphs.
+conf/fsttcs/Srivastava86:::Amitabh Srivastava:::Recovery of Noncurrent Variables in Source-Level Debugging of Optimized Code.
+conf/fsttcs/KrishnanR01:::Radha Krishnan::Balaji Raghavachari:::The Directed Minimum-Degree Spanning Tree Problem.
+conf/fsttcs/Sistla02:::A. Prasad Sistla:::Formal Languages and Algorithms for Similarity Based Retrieval from Sequence Databases.
+conf/fsttcs/FotakisS98:::Dimitris Fotakis::Paul G. Spirakis:::A Hamiltonian Approach to the Assignment of Non-reusable Frequencies.
+conf/fsttcs/NicolaF90:::Rocco De Nicola::Gian Luigi Ferrari:::Observational Logics and Concurrency Models.
+conf/fsttcs/Madhavan84:::C. E. Veni Madhavan:::Approximation Algorithm for Maximum Independent Set in Planar Tiangle-Free Graphs.
+conf/fsttcs/Pettorossi87:::Alberto Pettorossi:::Program Development Using Lambda Abstraction.
+conf/fsttcs/Garg02:::Vijay K. Garg:::Algorithmic Combinatorics Based on Slicing Posets.
+conf/fsttcs/SanyalBM87:::Amitabha Sanyal::S. Biswas::Vishv M. Malhotra:::Extension of Weakest Precondition Formalism to a Low Level Language.
+conf/fsttcs/Kasyanov89:::Victor N. Kasyanov:::Annotated Program Transformations.
+conf/fsttcs/Homer86:::Steven Homer:::On Simple and Creative Sets in NP.
+conf/fsttcs/Jain95:::Sanjay Jain:::Branch and Bound on the Network Model.
+conf/fsttcs/TaubenfeldKM89:::Gadi Taubenfeld::Shmuel Katz::Shlomo Moran:::Impossibility Results in the Presence of Multiple Faulty Processes (Preliminary Version).
+conf/fsttcs/BiswasPP94:::Supriya Biswas::D. Chithra Prasad::Sudebkumar Prasant Pal:::Algorithms for Convex Visibility Problems.
+conf/fsttcs/Ramanujam96:::R. Ramanujam:::Trace Consistency and Inevitablity.
+conf/fsttcs/FernandezSW00:::Mary F. Fernandez::Jérôme Siméon::Philip Wadler:::An Algebra for XML Query.
+conf/fsttcs/AcetoE91:::Luca Aceto::Uffe Engberg:::Failures Semantics for a Simple Process Language with Refinement.
+conf/fsttcs/RajasekaranT87:::Sanguthevar Rajasekaran::Thanasis Tsantilas:::An Optimal Randomized Routing Algorithm for the Mesh and A Class of Efficient Mesh-like Routing Networks.
+conf/fsttcs/SiegelS94:::Michael Siegel::Frank A. Stomp:::Extending the Limits of Sequentially Phased Reasoning.
+conf/fsttcs/KrishnanRS88:::S. V. Krishnan::C. Pandu Rangan::S. Seshadri:::A New Linear Algorithm for the Two Path Problem on Chordal Graphs.
+conf/fsttcs/SmausFD00:::Jan-Georg Smaus::François Fages::Pierre Deransart:::Using Modes to Ensure Subject Reduction for Typed Logic Programs with Subtyping.
+conf/fsttcs/Namjoshi97:::Kedar S. Namjoshi:::A Simple Characterization of Stuttering Bisimulation.
+conf/fsttcs/StuckeyS93:::Peter J. Stuckey::S. Sudarshan:::Well-Founded Ordered Search (Extended Abstract).
+conf/fsttcs/Lenstra02:::Hendrik W. Lenstra Jr.:::Primality Testing with Gaussian Periods.
+conf/fsttcs/PanR86:::Victor Y. Pan::John H. Reif:::Extension of the Parallel Nested Dissection Algorithm to Path Algebra Problems.
+conf/fsttcs/Ramakrishnan84:::I. V. Ramakrishnan:::On Mapping Cube Graphs onto VLSI Arrays.
+conf/fsttcs/Reif92:::Wolfgang Reif:::Verification of Large Software Systems.
+conf/fsttcs/Lewington90:::Christopher P. Lewington:::Towards Constructive Program Derivation in VDM.
+conf/fsttcs/RamakrishnaDMMK93:::Y. S. Ramakrishna::Laura K. Dillon::Louise E. Moser::P. M. Melliar-Smith::G. Kutty:::A Real-Time Interval Logic and Its Decision Procedure.
+conf/fsttcs/Sieling99:::Detlef Sieling:::Lower Bounds for Linear Transformed OBDDs and FBDDs (Extende Abstract).
+conf/fsttcs/NielsenT84:::Mogens Nielsen::P. S. Thiagarajan:::Degrees of Non-Determinism and Concurrency: A Petri Net View.
+conf/fsttcs/CoquandD94:::Thierry Coquand::Peter Dybjer:::Inductive Definitions and Type Theory: an Introduction (Preliminary Version).
+conf/fsttcs/BorealeT95:::Michele Boreale::Luca Trevisan:::On the Complexity of Bisimilarity for Value-Passing Processes (Extended Abstract).
+conf/fsttcs/DemriD02:::Stéphane Demri::Deepak D'Souza:::An Automata-Theoretic Approach to Constraint LTL.
+conf/fsttcs/Sauerhoff99:::Martin Sauerhoff:::Computing with Restricted Nondeterminism: The Dependence of the OBDD Size on the Number of Nondeterministic Variables.
+conf/fsttcs/MalhotraK86:::Vishv M. Malhotra::Sanjeev Kumar:::Automatic Retargetable Code Generation: A New Technique.
+conf/fsttcs/Veenstra85:::Jack Veenstra:::Deriving Object Octree from Images.
+conf/fsttcs/Raman90:::Rajeev Raman:::The Power of Collision: Randomized Parallel Algorithms for Chaining and Integer Sorting.
+conf/fsttcs/Walukiewicz00:::Igor Walukiewicz:::Model Checking CTL Properties of Pushdown Systems.
+conf/fsttcs/JiangMR91:::Tao Jiang::Edward McDowell::Bala Ravikumar:::The Structure and Complexity of Minimal NFA's over a Unary Alphabet.
+conf/fsttcs/LassezM86:::Jean-Louis Lassez::Kim Marriott:::Explicit Representation of Terms Defined by Counter Examples.
+conf/fsttcs/LakshmananM86:::V. S. Lakshmanan::C. E. Veni Madhavan:::Binary Decompositions and Acyclic Schemes.
+conf/fsttcs/MostefaouiR99:::Achour Mostéfaoui::Michel Raynal:::Unreliable Failure Detectors with Limited Scope Accuracy and an Application to Consensus.
+conf/fsttcs/Knapp94:::Edgar Knapp:::Soundness and Completeness of UNITY Logic.
+conf/fsttcs/MahajanV94:::Meena Mahajan::V. Vinay:::Non-commutative Computation, Depth Reduction, and Skew Circuits (Extended Abstract).
+conf/fsttcs/KapurSZ90:::Deepak Kapur::G. Sivakumar::Hantao Zhang:::A New Method for Proving Termination of AC-Rewrite Systems.
+conf/fsttcs/DemaineM99:::Erik D. Demaine::J. Ian Munro:::Fast Allocation and Deallocation with an Improved Buddy System.
+conf/fsttcs/NeumannS98:::Andreas Neumann::Helmut Seidl:::Locating Matches of Tree Patterns in Forests.
+conf/fsttcs/Parigot87:::Michel Parigot:::Automata, Games, and Positive Monadic Theories of Trees.
+conf/fsttcs/Fages93:::François Fages:::On the Semantics of Optimization Predicates in CLP Languages.
+conf/fsttcs/BiswasK95:::Sandip K. Biswas::Sampath Kannan:::Minimizing Space Usage in Evaluation of Expression Trees.
+conf/fsttcs/Tiuryn95:::Jerzy Tiuryn:::Equational Axiomatization of Bicoercibility for Polymorphic Types.
+conf/fsttcs/Tiwari01:::Ashish Tiwari:::Rewrite Closure for Ground and Cancellative AC Theories.
+conf/fsttcs/LevcopoulosG96:::Christos Levcopoulos::Joachim Gudmundsson:::Close Approximation of Minimum Rectangular Coverings.
+conf/fsttcs/Kucera96:::Antonín Kucera:::Regularity is Decidable for Normed PA Processes in Polynomial Time.
+conf/fsttcs/Venkatesan85:::Shankar M. Venkatesan:::Approximation Algorithms for Planar Matching.
+conf/fsttcs/BuhrmanH92:::Harry Buhrman::Steven Homer:::Superpolynomial Circuits, Almost Sparse Oracles and the Exponential Hierarchy.
+conf/fsttcs/Naish87:::Lee Naish:::Specification = Program + Types.
+conf/fsttcs/ArvindK97:::Vikraman Arvind::Johannes Köbler:::On Resource-Bounded Measure and Pseudorandomness.
+conf/fsttcs/AroraSSV94:::Vivek Arora::Santosh Vempala::Huzur Saran::Vijay V. Vazirani:::A Limited-Backtrack Greedy Schema for Approximation Algorithms.
+conf/fsttcs/Meyden96:::Ron van der Meyden:::Finite State Implementations of Knowledge-Based Programs.
+conf/fsttcs/SabharwalSS02:::Yogish Sabharwal::Nishant Sharma::Sandeep Sen:::Nearest Neighbors Search Using Point Location in Balls with Applications to Approximate Voronoi Decompositions.
+conf/fsttcs/DawarK02:::Anuj Dawar::Stephan Kreutzer:::Generalising Automaticity to Modal Properties of Finite Structures.
+conf/fsttcs/Pujari93:::Arun K. Pujari:::Efficient Algorithm to Sort Linear Combinations of Arrays.
+conf/fsttcs/KajiFK94:::Yuichi Kaji::Toru Fujiwara::Tadao Kasami:::Solving a Unification Problem under Constrained Substitutions Using Tree Automata.
+conf/fsttcs/Levcopoulos88:::Christos Levcopoulos:::On Optimal Parallel Algorithm for Sorting Presorted Files.
+conf/fsttcs/PatkarN91:::Sachin Patkar::H. Narayanan:::A Fast Algorithm for the Principle Partition of a Graph.
+conf/fsttcs/DSouzaT99:::Deepak D'Souza::P. S. Thiagarajan:::Product Interval Automata: A Subclass of Timed Automata.
+conf/fsttcs/Odersky95:::Martin Odersky:::Polarized Name Passing.
+conf/fsttcs/CheriyanM88:::Joseph Cheriyan::S. N. Maheshwari:::Analysis of Preflow Push Algorithms for Maximum Network Flow.
+conf/fsttcs/ArvindKM92:::Vikraman Arvind::Johannes Köbler::Martin Mundhenk:::On Bounded Truth-Table, Conjunctive, and Randomized Reductions to Sparse Sets.
+conf/fsttcs/Poizat84:::Bruno Poizat:::Generic Oracles (Abstract).
+conf/fsttcs/BrowneMS95:::I. A. Browne::Zohar Manna::Henny Sipma:::Generalized Temporal Verification Diagrams.
+conf/ftrtft/Douglass02:::Bruce Powel Douglass:::Real-Time UML.
+conf/ftrtft/JianhuaH98:::Jianhua Zhao::Dang Van Hung:::On Checking Parallel Real-Time Systems for Linear Duration Properties.

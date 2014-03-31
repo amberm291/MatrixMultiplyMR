@@ -1,0 +1,200 @@
+conf/fc/KravitzG99:::David W. Kravitz::David M. Goldschlag:::Conditional Access Concepts and Principles.
+conf/fc/Moskowitz01:::Scott Moskowitz:::A Solution to the Napster Phenomenon: Why Value Cannot Be Created Absent the Transfer of Subjective Data.
+conf/fc/BellareNPS01:::Mihir Bellare::Chanathip Namprempre::David Pointcheval::Michael Semanko:::The Power of RSA Inversion Oracles and the Security of Chaum's RSA-Based Blind Signature Scheme.
+conf/fc/Kocher98:::Paul C. Kocher:::On Certificate Revocation and Validation.
+conf/ep/BertiDM98:::Laure Berti::Jean-Luc Damoiseaux::Elisabeth Murisasco:::Combining the Power of Query Languages and Search Engines for On-line Document and Information Retrieval : The QIRi@D Environment.
+conf/ep/LouS98:::Qun Lou::Peter Stucki:::Funfamentals of 3D Halftoning.
+conf/ep/Mather98:::Laura A. Mather:::A Linear Algebra Approach to Language Identification.
+conf/ep/BallimCLV98:::Afzal Ballim::Giovanni Coray::A. Linden::Christine Vanoirbeek:::The Use of Automatic Alignment on Structured Multilingual Documents.
+conf/ep/ErdenechimegMN98:::Myatav Erdenechimeg::Richard Moore::Yumbayar Namsrai:::On the Specification of the Display of Documents in Multi-lingual Computing.
+conf/ep/VercoustreP98:::Anne-Marie Vercoustre::François Paradis:::Reuse of Linked Documents through Virtual Document Prescriptions.
+conf/ep/CruzBMW98:::Isabel F. Cruz::Slava Borisov::Michael A. Marks::Timothy R. Webb:::Measuring Structural Similarity Among Web Documents: Preliminary Results.
+conf/er/Hohenstein89:::Uwe Hohenstein:::Automatic Transformation of an Entity-Relationship Query Language into SQL.
+conf/er/NakanishiHT01:::Yoshihiro Nakanishi::Tatsuo Hirose::Katsumi Tanaka:::Modeling and Structuring Multiple Perspective Video for Browsing.
+conf/er/Sciore91:::Edward Sciore:::Abbreviation Techniques in Entity-Relationship Query Languages.
+conf/er/Chen79:::Peter P. Chen:::Recent Literature on the Entity-Relationship Approach.
+conf/er/Chen92:::Peter P. Chen:::ER vs. OO.
+conf/er/GarzottoPBV99:::Franca Garzotto::Paolo Paolini::Davide Bolchini::Sara Valenti:::"Modeling-by-Patterns" of Web Applications.
+conf/er/ChenTW97:::Peter P. Chen::Bernhard Thalheim::Leah Y. Wong:::Future Directions of Conceptual Modeling.
+conf/er/SpringsteelC88:::Frederick N. Springsteel::Po-Jen Chuang:::ERDDS: The Intelligent E-R-Based Database Design System.
+conf/er/HahnPB98:::Eckhart von Hahn::Barbara Paech::Conrad Bock:::Reengineering Conventional Data and Process Models with Business Object Models: A Case Study Based on SAP R/3 and UML.
+conf/er/McGregorM81:::D. R. McGregor::J. R. Malone:::The Fact Database: An Entity-Based System Using Inference.
+conf/er/JarvenpaaM87:::Sirkka L. Jarvenpaa::Jefry J. Machesky:::Entity/Relationship Models in a Structured Development Environment: A Case Study.
+conf/er/Lagrange90:::Jean-Philippe Lagrange:::A Knowledge-Based System and an ER Query Language for Accessing Relational Databases.
+conf/er/MetaisML93:::Elisabeth Métais::Jean-Noël Meunier::Gilles Levreau:::Database Schema Design: A Perspective From Natural Language Techniques to Validation and View Integration.
+conf/er/Hawryszkiewycz85:::Igor Hawryszkiewycz:::A Computer-Aid for E-R Modeling.
+conf/er/HartelJ94:::Peter Hartel::Ralf Jungclaus:::Specifying Business Processes over Objects.
+conf/er/GongSXO97:::Maokai Gong::Louise Scott::Yingping Xiao::Ray Offen:::A Rapid Development Model for Meta-CASE Tool Design.
+conf/er/HsuR79:::H. Hsu::Nick Roussopoulos:::Database Conceptual Modelling.
+conf/er/Put88:::Ferdi Put:::The ER Approach Extended with the Action Concept as a Conceptual Modelling Tool.
+conf/er/RochfeldMN90:::Arnold Rochfeld::J. Morejon::Pascal Nergos:::Inter-Relationship Links in the E-R Model.
+conf/er/KimP98:::Hoewon Kim::Seog Park:::Two Version Concurrency Control Algorithm with Query Locking for Decision Support.
+conf/er/Eftime85:::Radu-Anton Eftime:::Management Database Study.
+conf/er/LeeL95:::Mong-Li Lee::Tok Wang Ling:::Resolving Structural Conflicts in the Integration of Entity Relationship Schemas.
+conf/er/PengK01:::Zhiyong Peng::Yahiko Kambayashi:::Resolving Conflicts and Handling Replication during Integration of Multiple Databases by Object Deputy Model.
+conf/er/Webre81:::Neil W. Webre:::An Extended Entity-Relationship Model and Its Use on a Defense Project.
+conf/er/BlackwellKOSWZ83:::Paul K. Blackwell::Dan Kapp::Ross A. Overbeek::H. J. Spencer::Gio Wiederhold::Stanley B. Zdonik:::Data Management: A Practical View (Panel).
+conf/er/BlackwellJN83:::Paul K. Blackwell::Sushil Jajodia::Peter A. Ng:::A View of Database Management Systems as Abstract Data Types.
+conf/er/SakaiKK81:::Hirotaka Sakai::Hidefumi Kondo::Zenshiro Kawasaki:::A Development of a Conceptual Schema Design Aid in the Entity-Relationship Model.
+conf/er/CastanoPT00:::Silvana Castano::Luigi Palopoli::Riccardo Torlone:::A General Methodological Framework for the Development of Web-Based Information Systems.
+conf/er/FeyerST98:::Thomas Feyer::Klaus-Dieter Schewe::Bernhard Thalheim:::Conceptual Design and Development of Information Services.
+conf/er/CaliCGL02:::Andrea Calì::Diego Calvanese::Giuseppe De Giacomo::Maurizio Lenzerini:::On the Expressive Power of Data Integration Systems.
+conf/er/Olle90:::T. William Olle:::ISO Database Standards - A Summary and Review of Status.
+conf/er/AuddinoDDFST92:::Annamaria Auddino::Yves Dennebouy::Yann Dupont::Edi Fontana::Stefano Spaccapietra::Zahir Tari:::SUPER - Visual Interaction with an Object-Based ER Model.
+conf/er/CaoLN00:::Yinyan Cao::Ee-Peng Lim::Wee Keong Ng:::On Warehousing Historical Web Information.
+conf/er/GrandiM99:::Fabio Grandi::Federica Mandreoli:::ODMG Language Extensions for Generalised Schema Versioning Support.
+conf/er/MeghiniS97:::Carlo Meghini::Fabrizio Sebastiani:::Conceptual Modeling in Multimedia Information Seeking.
+conf/er/Stricklett00:::Elaine Stricklett:::Information Quality at Every Stage of the Information Chain.
+conf/er/Chang01:::Jae-Woo Chang:::An XML Document Retrieval System Supporting Structure- and Content-Based Queries.
+conf/er/MarkowitzR83:::Victor M. Markowitz::Yoav Raz:::A Modified Relational Algebra and its Use in an Entity-Relationship Environment.
+conf/er/TakataNS00:::Yoshiaki Takata::Kokoro Nakagawa::Hiroyuki Seki:::Flexible Category Structure for Supporting WWW Retrieval.
+conf/er/Bruce91:::Thomas A. Bruce:::The Framework Rules and Objects.
+conf/er/ImaiTA01:::Sayaka Imai::Takashi Tomii::Hiroshi Arisawa:::Motion Simulation of the Human Workers for the Integrated Computer-Aided Manufacturing Process Simulation Based on Info-Ergonomics Concept.
+conf/er/JeusfeldQJ98:::Manfred A. Jeusfeld::Christoph Quix::Matthias Jarke:::Design and Analysis of Quality Information for Data Warehouses.
+conf/er/YePS94:::Xian Ye::Christine Parent::Stefano Spaccapietra:::Cardinality Consistency of Derived Objects in DOOD Systems.
+conf/er/YuLL01:::Eric S. K. Yu::Lin Liu::Ying Li:::Modelling Strategic Actor Relationships to Support Intellectual Property Management.
+conf/er/Roesner85:::Wolfgang Roesner:::SESPATH: An ER Manipulation Language.
+conf/er/FrancalanciP94:::Chiara Francalanci::Barbara Pernici:::Abstraction Levels for Entity-Relationship Schemas.
+conf/er/Information87:::Zanthe Information:::ZIM - The Entity-Relationship 4GL/DBMS Semantic Clarity in Applications Development.
+conf/er/ChikanoTHA01:::Machiko Chikano::Yoshitaka Tomita::Yasuhiko Hiraide::Eiji Arai:::A Study on Human-Centric Real-Time Scheduling for PWB Assembly Line.
+conf/er/SilvaLC96:::Altigran Soares da Silva::Alberto H. F. Laender::Marco A. Casanova:::An Approach to Maintaining Optimized Relational Representations of Entity-Relationship Schemas.
+conf/er/CastanoA97:::Silvana Castano::Valeria De Antonellis:::Deriving Global Conceptual Views from Multiple Information Sources.
+conf/er/NavatheA87:::Shamkant B. Navathe::A. M. Awong:::Abstracting Relational and Hierarchical Data with a Semantic Data Model.
+conf/er/PapazoglouKB94:::Mike P. Papazoglou::Bernd J. Krämer::Athman Bouguettaya:::On the Representation of Objects with Polymorphic Shape and Behaviour.
+conf/er/Neuman85:::P. S. Neuman:::The Data Model of IDE: A Value Network.
+conf/er/TomiiA96:::Takashi Tomii::Hiroshi Arisawa:::Functional Data Model and a Query Language for Multimedia Databases.
+conf/er/FrohlichHS01:::Peter Fröhlich::Zaijun Hu::Manfred Schoelzke:::Imposing Modeling Rules on Industrial Applications through Meta-modeling.
+conf/er/CatarciS88:::Tiziana Catarci::Giuseppe Santucci:::Query by Diagramm: A Graphic Query System.
+conf/er/Newton87:::Judith Newton:::Designing Data Entity Naming Conventions.
+conf/er/TanakaNCK91:::Asterio K. Tanaka::Shamkant B. Navathe::Sharma Chakravarthy::Kamalakar Karlapalem:::ER-R: An Enhanced ER Model with Situation-Action Rules to Capture Application Semantics.
+conf/er/TardieuPNH79:::H. Tardieu::D. Pascot::Dominique Nanci::H. Heckroth:::A Method, a Formalism and Tools for Database Design - Three Years of Experimental Practice.
+conf/er/Alford83:::Mack W. Alford:::Derivation of Element-Relation-Attribute Data Base Requirements by Decomposition of System Functions.
+conf/er/JinSLS01:::Eunsook Jin::Jungmin Seo::Kwangjoon Lee::Ju-Won Song:::Constructing a Data Map of Korea Telecom.
+conf/er/BoehmP97:::Barry W. Boehm::Daniel Port:::Conceptual Modeling Challenges for Model-Based Architecting and Software Engineering (MBASE).
+conf/er/Wieland90:::C. Wieland:::Two Explanation Facilities for the Deductive Database Management System DeDEx.
+conf/er/ZhuNGDA90:::Jianhua Zhu::Rodolphe Nassif::Pankaj Goyal::Pamela Drew::Bertil Askelid:::Incorporating a Model Hierarchy into the ER Paradigm.
+conf/er/Warboys94:::Brian Warboys:::Reflections on the Relationship Between BPR and Software Process Modelling.
+conf/er/DahanayakeSD97:::A. N. W. Dahanayake::Henk G. Sol::Jan L. G. Dietz:::A Fully Flexible CAME in a CASE Environment.
+conf/er/KappelPRS01:::Gerti Kappel::Birgit Pröll::Werner Retschitzegger::Wieland Schwinger:::Modelling Ubiquitous Web Applications - The WUML Approach.
+conf/er/YoshizumiHN96:::Hidenori Yoshizumi::Koichi Hori::Shinichi Nakasuka:::Toward a Methodology for a Totally Supported Knowledge Elicitation through Human-Machine Interaction.
+conf/er/BriandDHHK87:::H. Briand::C. Ducateau::Y. Hebrail::Danièle Hérin-Aime::Jacques Kouloumdjian:::From Minimal Cover to Entity-Relationship Diagram.
+conf/er/Sakai79:::Hirotaka Sakai:::A Unified Approach to the Logical Design of a Hierarchical Data Model.
+conf/er/Lammari99:::Nadira Lammari:::An Algorithm to Extract IS-A Inheritance Hierarchies from a Relational Database.
+conf/er/FloryG87:::André Flory::Vincent Giard:::Modelling Requirements of a Manufacturing Design Application Using an E/R Schema.
+conf/er/RoseS93:::Ellen Rose::Arie Segev:::TOOSQL - A Temporal Object-Oriented Query Language.
+conf/er/GuellSV00:::Natacha Güell::Daniel Schwabe::Patricia Vilain:::Modeling Interactions and Navigation in Web Applications.
+conf/er/LingL91:::Tok Wang Ling::Mong-Li Lee:::A Prolog Implementation of an Entity-Relationship Based Database Management System.
+conf/er/Wetherbe87:::James C. Wetherbe:::Information Architectures and Data Modelling: Cornerstone for Succeeding in the Information Society (Abstract of Keynote Address).
+conf/er/HashimotoSIK00:::Takako Hashimoto::Yukari Shirota::Atsushi Iizawa::Hideko S. Kunii:::Personalized Digests of Sports Programs Using Intuitive Retrieval and Semantic Analysis.
+conf/er/Friedgan00:::Alex Friedgan:::Documenting Meta Data Transformations.
+conf/er/Melnik00:::Sergey Melnik:::Declarative Mediation in Distributed Systems.
+conf/er/FlynnJ94:::Donal J. Flynn::Mohammad Davarpanah Jazi:::Organisational and Information System Modelling for Information Systems Requirement Determination.
+conf/er/GoralwallaSOP97:::Iqbal A. Goralwalla::Duane Szafron::M. Tamer Özsu::Randal J. Peters:::Managing Schema Evolution Using a Temporal Object Model.
+conf/er/Reiner87:::David S. Reiner:::Automated Support for Database Design (Abstract of Tutorial).
+conf/er/Knight83:::Brian Knight:::A Mathematical Basis for Entity Analysis.
+conf/er/Sakai83a:::Hirotaka Sakai:::Entity-Relationship Approach to Logical Database Design.
+conf/er/FurtadoCT87:::Antonio L. Furtado::Marco A. Casanova::Luiz Tucherman:::The CHRIS Consultant.
+conf/er/FurtadoVC81:::Antonio L. Furtado::Paulo A. S. Veloso::José Mauro V. de Castilho:::Verification and Testing of S-ER Representations.
+conf/er/AnidoNIRSC01:::Luis E. Anido-Rifón::Martín Llamas Nistal::Manuel J. Fernández Iglesias::Judith S. Rodríguez::Juan M. Santos::Manuel Caeiro:::A Conceptual Modelling Framework for Standards-Driven Web-Based Distance Learning.
+conf/er/Merten97:::Alan G. Merten:::From Conceptual Modeler to University President.
+conf/er/Rochfeld86:::Arnold Rochfeld:::MERISE, an Information System Design and Development Methodology, Tutorial.
+conf/er/Norrie93:::Moira C. Norrie:::An Extended Entity-Relationship Approach to Data Management in Object-Oriented Systems.
+conf/er/HsuPBC87:::Cheng Hsu::Alvaro Perry::M'hamed Bouziane::Waiman Cheung:::TSER: A Data Modeling System Using the Two-Stage Entity-Relationship Approach.
+conf/er/Siirtola96:::Harri Siirtola:::Managing Large Entity-Relationship Diagrams.
+conf/er/DulleaS99:::James Dullea::Il-Yeol Song:::A Taxonomy of Recursive Relationships and Their Structural Validity in ER Modeling.
+conf/er/Bratsberg92:::Svein Erik Bratsberg:::Unified Class Evolution by Object-Oriented Views.
+conf/er/SchneiderT89:::Michel Schneider::Claude Trépied:::A Graphical Query Language Based on an Extended E-R Model.
+conf/er/KouramajianG95:::Vram Kouramajian::Michael Gertz:::A Visual Query Editor for Temporal Databases.
+conf/er/BloeschH97:::Anthony C. Bloesch::Terry A. Halpin:::Conceptual Queries Using ConQuer-II.
+conf/er/PahwaA85:::Ashok Pahwa::Adarsh K. Arora:::Automatic Database Navigation: Towards a High Level User Interface.
+conf/er/Terranovaa88:::Maria Terranova::et al.:::Industrial Session - Introduction, Foundation, Information Engineering Workbench, Excelerator, ECASET, GENOS, PAPICS, ASA, LOGISCOPE, TASIS-CASE, Mega CASE Tools, The MastER System, SECSI, DAFNE Methodology, Software through Pictures, Olivetti Open Architecture, PREDICT CASE, easyFIND, ER-Modeler.
+conf/er/GohTN98:::Chien-Le Goh::Masahiko Tsukamoto::Shojiro Nishio:::Fast Methods with Magic Sampling for Knowledge Discovery in Deductive Databases with Large Deduction Results.
+conf/er/FurtadoC90:::Antonio L. Furtado::Marco A. Casanova:::Plan and Schedule Generation over Temporal Databases.
+conf/er/SchmidtS99:::Joachim W. Schmidt::Hans-Werner Sehring:::Dockets: A Model for Adding Value to Content.
+conf/er/IshiiIMF98:::Yoshioki Ishii::T. Ishizaka::Narendra Mohan::Jianlin Feng:::TimeCube-Efficient Storage, Access and Analysis of Temporal (Historical) Data.
+conf/fm/Bear91:::Stephen Bear:::An Overview of HP-SL.
+conf/fm/CharpentierC99:::Michel Charpentier::K. Mani Chandy:::Towards a Compositional Approach to the Design and Verification of Distributed Systems.
+conf/fm/Vigna03:::Giovanni Vigna:::A Topological Characterization of TCP/IP Security.
+conf/fm/EngelhardtR93:::Kai Engelhardt::Willem P. de Roever:::Generalizing Abadi &amp; Lamport's Method to Solve a Problem Posed by A. Pnueli.
+conf/fm/DandanellGPZ93:::Bent Dandanell::Jesper Gørtz::Jan Storbank Pedersen::Eld Zierau:::Experience from Applications of RAISE.
+conf/fm/Blikle87:::Andrzej Blikle:::Denotational Engineering or from Denotations to Syntax.
+conf/fm/SyversonS99:::Paul F. Syverson::Stuart G. Stubblebine:::Group Principals and the Formalization of Anonymity.
+conf/fm/Good88:::Donald I. Good:::Computing is a Physical Science (Abstract).
+conf/fm/YuL97:::Shenwei Yu::Zhaohui Luo:::Implementing a Model Checker for LEGO.
+conf/fm/Abrial03:::Jean-Raymond Abrial:::Event Based Sequential Program Development: Application to Constructing a Pointer Program.
+conf/fm/Airchinnigh87:::Mícheál Mac an Airchinnigh:::Mathematical Structures and their Morphisms in Meta-IV.
+conf/fm/GuntherSW93:::Thomas Günther::Klaus-Dieter Schewe::Ingrid Wetzel:::On the Derivation of Executable Database Programs from Formal Specifications.
+conf/fm/ErasmyS94:::François Erasmy::Emil Sekerinski:::Stepwise Refinement of Control Software - A Case Study Using RAISE.
+conf/fm/Pahl02:::Claus Pahl:::Interference Analysis for Dependable Systems Using Refinement and Abstraction.
+conf/fm/PnueliSS98:::Amir Pnueli::Ofer Strichman::Michael Siegel:::Translation Validation: From DC+ to C*.
+conf/fm/BorzyszkowskiKS88:::Andrzej M. Borzyszkowski::Ryszard Kubiak::Stefan Sokolowski:::A Set-Theoretic Model for a Typed Polymorphic Lambda Calculus - A Contribution to MetaSoft.
+conf/fm/MarshallS91:::Lynn S. Marshall::Linda Simon:::Using VDM within an Object-Oriented Framework.
+conf/fm/Milner91:::Robin Milner:::Concurrent Processes as Objects (Abstract).
+conf/fm/MacCollC99:::Ian MacColl::David A. Carrington:::A Model of Specification-Based Testing of Interactive Systems.
+conf/fm/Charpentier97:::Michel Charpentier:::A UNITY Mapping Operator for Distributed Programs.
+conf/fm/DiaconescuFI99:::Razvan Diaconescu::Kokichi Futatsugi::Shusaku Iida:::Component-Based Algebraic Specification and Verification in CafeOBJ.
+conf/fm/LevittRS79:::Karl N. Levitt::Lawrence Robinson::Brad A. Silverberg:::Writing Simulatable Specifications in SPECIAL.
+conf/fm/QinDC03:::Shengchao Qin::Jin Song Dong::Wei-Ngan Chin:::A Semantic Foundation for TCOZ in Unifying Theories of Programming.
+conf/fm/LaurentMW01:::Odile Laurent::Pierre Michel::Virginie Wiels:::Using Formal Verification Techniques to Reduce Simulation and Test Effort.
+conf/fm/Burguillo-RialIGN02:::Juan C. Burguillo-Rial::Manuel J. Fernández Iglesias::Francisco J. González-Castaño::Martín Llamas Nistal:::Heuristic-Driven Test Case Selection from Formal Specifications. A Case Study.
+conf/fm/BertBPRV03:::Didier Bert::Sylvain Boulmé::Marie-Laure Potet::Antoine Requet::Laurent Voisin:::Adaptable Translator of B Specifications to Embedded C Programs.
+conf/fm/LarsenL91:::Peter Gorm Larsen::Poul Bøgh Lassen:::An Executable Subset of Meta-IV with Loose Specification.
+conf/fm/SilvaSB97:::Leila Silva::Augusto Sampaio::Edna Barros:::A Normal Form Reduction Strategy for Hardware/Software Partitioning.
+conf/fm/MartinsH96:::Juan-José Martins::Jean-Pierre Hubaux:::A New System Engineering Methodology Coupling Formal Specification and Performance Evaluation.
+conf/fm/Jones93:::Cliff B. Jones:::Reasoning about Interference in an Object-Based Design Method.
+conf/fm/ChalinGR96:::Patrice Chalin::Peter Grogono::Thiruvengadam Radhakrishnan:::Identification of and Solutions to Shortcomings of LCL, a Larch/C Interface Specification Language.
+conf/fm/PetersohnU97:::Carsta Petersohn::Luis Urbina:::A Timed Semantics for the STATEMATE Implementation of Statecharts.
+conf/fm/Castillo98:::Giuseppe Del Castillo:::Towards Comprehensive Tool Support for Abstract State Machines: The ASM Workbench Tool Environment and Architecture.
+conf/fm/Butterfield93:::Andrew Butterfield:::A VDM Study of Fault-Tolerant Stable Storage - Towards a Computer Engineering Mathematics.
+conf/fm/DomaN91:::Veronika Doma::Robin A. Nicholl:::EZ: A System for Automatic Prototyping of Z Specifications.
+conf/fm/Woodcock91c:::Jim Woodcock:::Two Refinement Case Studies.
+conf/fm/Lavalette91:::Gerard R. Renardel de Lavalette:::Formal Development of a Serial Copy Management System.
+conf/fm/KalinichenkoNZ93:::Leonid A. Kalinichenko::Nikolaj S. Nikitchenko::Vladimir Zadorozhny:::Application of Composition Development Method for definition of SYNTHESIS information resource query language semantics.
+conf/fm/DukeH94:::David J. Duke::Michael D. Harrison:::A Theory of Presentations.
+conf/fm/WassyngL03:::Alan Wassyng::Mark Lawford:::Lessons Learned from a Successful Implementation of Formal Methods in an Industrial Project.
+conf/fm/KuhnO03:::Thomas A. Kuhn::David von Oheimb:::Interacting State Machines for Mobility.
+conf/fm/KeaneSW94:::J. A. Keane::Jin Sa::Brian Warboys:::Applying a Concurrent Formal Framework to Process Modelling.
+conf/fm/FirleyG02:::Thomas Firley::Ursula Goltz:::Property Dependent Abstraction of Control Structure for Software Verification.
+conf/fm/MiddelburgL91:::C. A. Middelburg::Gerard R. Renardel de Lavalette:::LPF and MPL<sub>omega</sub> - A Logical Comparison of VDM SL and COLD-K.
+conf/fm/LanoBFL97:::Kevin Lano::Juan Bicarregui::José Luiz Fiadeiro::Antónia Lopes:::Specification of Required Non-determinism.
+conf/fm/GoldsmithMRWZ03:::Michael Goldsmith::Nick Moffat::Bill Roscoe::Tim Whitworth::Irfan Zakiuddin:::Watchdog Transformations for Property-Oriented Model-Checking.
+conf/fm/Klaeren81:::Herbert Klaeren:::Recursive Definitions of Operations in Universal Algebras.
+conf/fm/Staunstrup81:::Jørgen Staunstrup:::Introduction.
+conf/fm/Karlsen98:::Einar W. Karlsen:::The UniForM WorkBench - A Higher Order Tool Integration Framework.
+conf/fm/Fidge93:::Colin J. Fidge:::Real-Time Refinement.
+conf/fm/Misra01:::Jayadev Misra:::A Programming Model for Wide-Area Computing.
+conf/fm/BourdonovKKP02:::Igor B. Bourdonov::Alexander Kossatchev::Victor V. Kuliamin::Alexandre Petrenko:::UniTesK Test Suite Architecture.
+conf/fm/DongSW02:::Jin Song Dong::Jing Sun::Hai Wang:::Semantic Web for Extending and Linking Formalisms.
+conf/fm/AlexanderRB99:::Perry Alexander::Murali Rangarajan::Phillip Baraona:::A Brief Summary of VSPEC.
+conf/fm/Eschbach99:::Robert Eschbach:::A Termination Detection Algorithm: Specification and Verification.
+conf/fm/HartelBJL01:::Pieter H. Hartel::Michael J. Butler::Eduard de Jong::Mark Longley:::Transacted Memory for Smart Cards.
+conf/fm/AlencarL96:::Paulo S. C. Alencar::Donald D. Cowan::Carlos José Pereira de Lucena:::A Formal Approach to Architectural Design Patterns.
+conf/fm/MeyerS99:::Eric Meyer::Jeanine Souquières:::A Systematic Approach to Transform OMT Diagrams to a B Specification.
+conf/fm/SchonhoffK97:::Martin Schönhoff::Mojgan Kowsari:::Specifying the Remote Control of Valves in an Explosion Test Environment.
+conf/fm/HoustonK91:::Ian Houston::Steve King:::CICS Project Report: Experiences and Results from the use of Z in IBM.
+conf/fm/Jonkers93:::H. B. M. Jonkers:::An Overview of the SPRINT Method.
+conf/fm/PhilippsR99:::Jan Philipps::Bernhard Rumpe:::Refinement of Pipe-and-Filter Architectures.
+conf/fm/Goldschlag91:::David M. Goldschlag:::A Mechanical Formalization of Several Fairness Notions.
+conf/fm/HayesJJ03:::Ian J. Hayes::Michael Jackson::Cliff B. Jones:::Determining the Specification of a Control System from That of Its Environment.
+conf/fm/SousaG99:::João Pedro Sousa::David Garlan:::Formal Modeling of the Enterprise JavaBeans<sup>TM</sup> Component Integration Framework.
+conf/fm/HerbertDRS99:::John Herbert::Bruno Dutertre::Robert Riemenschneider::Victoria Stavridou:::A Formalization of Software Architecture.
+conf/fm/PaigeH99:::Richard F. Paige::Eric C. R. Hehner:::Bunches for Object-Oriented, Concurrent, and Real-Time Specification.
+conf/fm/Goldsack88:::S. J. Goldsack:::Specification of an Operating System Kernel FOREST and VDM compared.
+conf/fm/SouzaSFSAGGWCD98:::Wanderley Lopes de Souza::Paulo Nazareno Maia Sampaio::Jean-Marie Farines::Roberto Milton Scheffel::Maria Janilce B. Almeida::Luciano Paschoal Gaspary::Lisandro Zambenedetti Granville::Roberto Willrich::Murilo S. de Camargo::Marcelo Domingos:::Design of Distributed Multimedia Applications (DAMD).
+conf/fm/SchmidtH91:::Uwe Schmidt::Hans-Martin Hörcher:::The VDM Domain Compiler: A VDM Class Library Generator.
+conf/fm/AgerholmF97:::Sten Agerholm::Jacob Frost:::Towards an Integrated CASE and Theorem Proving Tool for VDM-SL.
+conf/gd/WagnerW98:::Frank Wagner::Alexander Wolff:::A Combinatorial Framework for Map Labeling.
+conf/gd/Waddle00:::Vance E. Waddle:::Graph Layout for Displaying Data Structures.
+conf/gd/AltGW95:::Helmut Alt::Michael Godau::Sue Whitesides:::Universal 3-Dimensional Visibility Representations for Graphs.
+conf/gd/BrandesCW00:::Ulrik Brandes::Sabine Cornelsen::Dorothea Wagner:::How to Draw the Minimum Cuts of a Planar Graph (Extended Abstract).
+conf/gd/LewerentzSS00:::Claus Lewerentz::Frank Simon::Frank Steinbrückner:::CrocoCosmos.
+conf/gd/KanneST99:::Carl-Christian Kanne::Falk Schreiber::Dietrich Trümbach:::Electronic Biochemical Pathways.
+conf/gd/HarelK02:::David Harel::Yehuda Koren:::Graph Drawing by High-Dimensional Embedding.
+conf/gd/EadesF96:::Peter Eades::Qing-Wen Feng:::Multilevel Visualization of Clustered Graphs.
+conf/gd/CalamoneriS96:::Tiziana Calamoneri::Andrea Sterbini:::Drawing 2-, 3- and 4-colorable Graphs in <i>O</i>(<i>n</i> <sup>2</sup>) Volume.
+conf/gd/Wood00:::David R. Wood:::Lower Bounds for the Number of Bends in Three-Dimensional Orthogonal Graph Drawings.
+conf/gd/GansnerN98:::Emden R. Gansner::Stephen C. North:::Improved Force-Directed Layouts.
+conf/gd/BridgemanGT96:::Stina S. Bridgeman::Ashim Garg::Roberto Tamassia:::A Graph Drawing and Translation Service on the WWW.
+conf/gd/BiedlBM99:::Therese C. Biedl::Anna Bretscher::Henk Meijer:::Rectangle of Influence Drawings of Graphs without Filled 3-Cycles.
+conf/gd/MatuszewskiSM99:::Christian Matuszewski::Robby Schönfeld::Paul Molitor:::Using Sifting for k -Layer Straightline Crossing Minimization.
+conf/gd/Brandenburg97:::Franz-Josef Brandenburg:::Graph Clustering 1: Circles of Cliques.

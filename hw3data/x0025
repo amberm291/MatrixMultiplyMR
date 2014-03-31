@@ -1,0 +1,200 @@
+conf/imr/OwenSCS98:::Steven J. Owen::Matthew L. Staten::Scott A. Canann::Sunil Saigal:::Advancing Front Quadrilateral Meshing Using Triangle Transformations.
+conf/imr/IvanovKP99:::Igor E. Ivanov::Igor A. Kryukov::Nikolai V. Pogorelov:::Grid Adaptation for Gas Dynamic and Astrophysical Flows.
+conf/imr/Shewchuk02:::Jonathan Richard Shewchuk:::What is a Good Linear Element? Interpolation, Conditioning, and Quality Measures.
+conf/imr/KwokC00:::Wa Kwok::Zhijian Chen:::A Simple and Effective Mesh Quality Metric for Hexahedral and Wedge Elements.
+conf/imr/DompierreLVC99:::Julien Dompierre::Paul Labbé::Marie-Gabrielle Vallet::Ricardo Camarero:::How to Subdivide Pyramids, Prisms, and Hexahedra into Tetrahedra.
+conf/imr/MarcumG99:::David L. Marcum::J. Adam Gaither:::Unstuctured Surface Grid Generation Using Global Mapping and Physical Space Approximation.
+conf/imr/HitschfeldNF00:::Nancy Hitschfeld::G. Navarro::R. Farias:::Tessellations of Cuboids with Steiner Points.
+conf/imr/PlazaSP98:::Angel Plaza::José P. Suárez::Miguel A. Padron:::Mesh Graph Structure for Longest-Edge Refinement Algorithms.
+conf/ims/HallS00:::Mary W. Hall::Craig S. Steele:::Memory Management in a PIM-Based Architecture.
+conf/imw/AdyaBQ01:::Atul Adya::Paramvir Bahl::Lili Qiu:::Analyzing the browse patterns of mobile clients.
+conf/imw/BhattacharyyaDJ01:::Supratik Bhattacharyya::Christophe Diot::Jorjeta Jetcheva:::Pop-level and access-link-level traffic dynamics in a tier-1 POP.
+conf/isa/Estivill-CastroS91:::Vladimir Estivill-Castro::Murray Sherk:::Competitiveness and Response Time in On-Line Algorithms.
+conf/isa/Wagner91:::Dorothea Wagner:::A New Approach to Knock-Knee Channel Routing.
+conf/isa/LeeC91:::H. S. Lee::Ruei-Chuan Chang:::On Hitting Grid Points in a Convex Polygon with Straight Lines.
+conf/isa/RaghunathanS91:::Arvind Raghunathan::Huzur Saran:::Is the Shuffle-Exchange Better Than the Butterfly?
+conf/isa/Guibas91:::Leonidas J. Guibas:::Combinatorics and Algorithms of Geometric Arrangements.
+conf/isa/Edelsbrunner91:::Herbert Edelsbrunner:::Optimal Triangulations by Retriangulating.
+conf/isd/GuptaMZB99:::Amarnath Gupta::Richard Marciano::Ilya Zaslavsky::Chaitanya K. Baru:::Integrating GIS and Imagery Through XML-Based Information Mediation.
+conf/isi/SchererSE03:::William T. Scherer::Leah L. Spradley::Marc H. Evans:::Integrated "Mixed" Networks Security Monitoring - A Proposed Framework.
+conf/isi/LinGW03:::Lihui Lin::Xianjun Geng::Andrew B. Whinston:::Intelligence and Security Informatics: An Information Economics Perspective.
+conf/isi/LinCBL03:::Ping Lin::K. Selçuk Candan::Rida A. Bazzi::Zhichao Liu:::Hiding Data and Code Security for Application Hosting Infrastructure.
+conf/isi/WangLSD03:::Jau-Hwang Wang::Bill T. Lin::Ching-Chin Shieh::Peter S. Deng:::Criminal Record Matching Based on the Vector Space Model.
+conf/ita/GallantMP95:::Peter J. Gallant::Evelyn L. Morin::Lloyd E. Peppard:::Improving Myoelectric Signal Classifier Generalization by Preprocessing with Exploratory Projections.
+conf/ita/TrabelsiY93:::C. Trabelsi::Abbas Yongaçoglu:::Probability of packet success for asynchronous DS/CDMA with block and convolutional codes.
+conf/ita/LodgeYG93:::John H. Lodge::R. Young::Paul Guinand:::Separable concatenated codes with iterative map filtering.
+conf/ita/LinRR93:::Shu Lin::Sandeep Rajpal::Do Jun Rhee:::Low-complexity and high-performance multilevel coded modulation for the AWGN and Rayleigh fading channels.
+conf/jic/CanazzaPRV96:::Sergio Canazza::Giovanni De Poli::Stefano Rinaldin::Alvise Vidolin:::Sonological Analysis of Clarinet Expressivity.
+conf/jic/Mattusch96:::Udo Mattusch:::Emulating Gestalt Mechanisms by Combining Symbolic and Subsymbolic Information Processing Procedures.
+conf/isn/OlnesVGMS98:::Jon Ølnes::Matthieu Verdier::Nicolas Ganivet::Dominique Maillot::Jonn Skretting:::Public Key Infrastructure and Certification Policy for Inter - domain Management.
+conf/isn/FinkKS97:::Josef Fink::Alfred Kobsa::Jörg Schreck:::Personalized Hypermedia Information Provision Through Adaptive and Adaptable System Features: User Modelling, Privacy and Security Issues.
+conf/isn/BergB98:::Helge Armand Berg::Stephen Brennan:::CORBA and Intelligent Network (IN) Interworking.
+conf/isn/Hunt94:::Jane Hunt:::Beyond IN - Introduction.
+conf/isn/VandermeulenDCR99:::Filip Vandermeulen::Piet Demeester::Piet De Ceuleners::Jean-Marc Reynders:::Automated Design of Modular SNMP-CORBA Gateways and Their Application for the Development of an ADSL Access Network Manager.
+conf/isn/PatelPBP00:::A. Patel::Konstantinos Prouskas::J. Barria::Jeremy V. Pitt:::IN Load Control Using a Competitive Market-Based Multi-agent System.
+conf/isn/Wade97:::Vincent P. Wade:::Communications Management - Introduction.
+conf/isn/ClarkeP94:::A. M. Clarke::S. M. Pomfrett:::User Requirements for Advanced Communication Services.
+conf/isn/BrunoILL94:::Gaetano Bruno::Jan Insulander::Ulf Larsson::Ferdinando Lucidi:::A Service-Driven Vision of Integrated Broadband Communications: the OSA Approach.
+conf/isn/Baum-WaidnerBC94:::Birgit Baum-Waidner::Herbert Bunz::Christoph Capellaro:::SAMSON, Security Management in a Health Care Scenario.
+conf/isn/SchooEEAT99:::Peter Schoo::Christian Egelhaaf::Tim O. Eckardt::Nazim Agoulmine::Michael Tschichholz:::Modularization of TINA Reference Points for Information Networking.
+conf/isn/KerrOERS98:::David Kerr::Donie O'Sullivan::Richard Evans::Ray Richardson::Fergal Somers:::Experiences Using Intelligent Agent Technologies as a Unifying Approach to Network Management, Service Management and Service Delivery.
+conf/isn/LodgeKH99:::Fiona Lodge::Kristofer Kimbler::Manuel Hubert:::Alignment of the TOSCA and SCREEN Approaches to Service Creation.
+conf/isn/OlsenDCLKBS99:::Anders Olsen::Didier Demany::Elsa Cardoso::Fiona Lodge::Mario Kolberg::Morgan Björkander::Richard O. Sinnott:::The Pros and Cons of Using SDL for Creation of Distributed Services.
+conf/isn/Whinnett97:::Dale Whinnett:::End User Acceptance of Security Technology for Electronic Commerce.
+conf/isn/MaromBGR95:::R. Marom::M. Bolzoni::M. Goldberg::D. Rotondi:::Usability an Effective Methodology for Designing Services in the Agricultural Sector.
+conf/isn/KyriazakosK00:::Sofoklis A. Kyriazakos::George T. Karetsos:::Architectures for the Provision of Position Location Services in Cellular Networking Environments.
+conf/isn/FagliaMP99:::Lorenzo Faglia::Thomas Magedanz::Andreas Papadakis:::Introduction of DOT/MAT into a Broadband IN Architecture for Flexible Service Provision.
+conf/isn/Johansen97:::Jørn Johansen:::Harmonisation/Integration of B-ISDN and IN (EURESCOM project P506).
+conf/isn/ReillyA98:::James Reilly::Maurizio Abate:::Scheduled Connections: Managing Temporal Constraints on Broadband Network Resources.
+conf/isn/GalisBLSGCMK97:::Alex Galis::Carlo Brianza::Crescenzo Leone::Christiam Salvatori::Dieter Gantenbein::Stefan Covaci::George Mykoniatis::Fotis Karayannis:::Towards Integrated Network Management for ATM and SDH Networks Supporting a Global Broadband Connectivity Management Service.
+conf/isn/RasmussenB98:::Sonny Rasmussen::Christoph Bäumer:::A CORBA to CMIP Gateway: A Marriage of Management Technologies.
+conf/isn/OlsenN95:::Anders Olsen::Bo Bichel Norbæk:::Using SDL for Targeting Services to CORBA.
+conf/itc/KrishnaL88:::C. M. Krishna::Yann-Hang Lee:::Optimal Scheduling of Signature Analysis for VLSI Testing.
+conf/itc/RenovellZ00:::Michel Renovell::Yervant Zorian:::Different experiments in test generation for XILINX FPGAs.
+conf/itc/WesterhoffD84:::Todd Westerhoff::Andre DiMino:::The Role of the Engineering Work Station in Test Program Development.
+conf/itc/DasGuptaGWW82:::Sumit DasGupta::Prabhakar Goel::Ron G. Walther::T. W. Williams:::A Variation of LSSD and Its Implications on Design and Test Pattern Generation in VLSI.
+conf/itc/Mahlstedt93:::Udo Mahlstedt:::DELTEST: Deterministic Test Generation for Gate-Delay Faults.
+conf/itc/ChoA94:::Chang Hyun Cho::James R. Armstrong:::B-algorithm: A Behavioral-Test Generation Algorithm.
+conf/itc/Variyam00:::Pramodchandran N. Variyam:::Increasing the IDDQ test resolution using current prediction.
+conf/itc/KimLPR01:::Young Kim::Benny Lai::Kenneth P. Parker::Jeff Rearick:::Frequency detection-based boundary-scan testing of AC coupled nets.
+conf/itc/Stewart83:::Donald M. Stewart:::Production Test and Repair of 256K Dynamic RAMS with Redundancy.
+conf/itc/DasT00:::Debaleena Das::Nur A. Touba:::Reducing test data volume using external/LBIST hybrid test patterns.
+conf/itc/CoxR88:::Henry Cox::Janusz Rajski:::Stuck-Open and Transition Fault Testing in CMOS Complex Gates.
+conf/itc/DeyP94:::Sujit Dey::Miodrag Potkonjak:::Transforming Behavioral Specifications to Facilitate Synthesis of Testable Designs.
+conf/itc/ChenBG97:::Weiyu Chen::Melvin A. Breuer::Sandeep K. Gupta:::Analytic Models for Crosstalk Delay and Pulse Analysis Under Non-Ideal Inputs.
+conf/itc/ChengL95:::Kwang-Ting Cheng::Chih-Jen Lin:::Timing-Driven Test Point Insertion for Full-Scan and Partial-Scan BIST.
+conf/itc/MooreGBL00:::Moore::Guido Gronthoud::Keith Baker::Maurice Lousberg:::Delay-fault testing and defects in deep sub-micron ICs-does critical resistance really mean anything?
+conf/itc/Bates83:::Steven L. Bates:::High-Speed In-Circuit Testing.
+conf/itc/AitkenM99:::Robert C. Aitken::Fidel Muradali:::Trends in SLI design and their effect on test.
+conf/itc/HaoA95:::Hong Hao::Rick Avra:::Structured Design-for-Debug - The SuperSPARC<sup>TM</sup> II Methodology and Implementation.
+conf/itc/SasidharCAH95:::Koppolu Sasidhar::Abhijit Chatterjee::V. K. Agarwal::J. Hughes:::Distributed Probabilistic Diagnosis of MCMs on Large Area.
+conf/itc/WahlP92:::Michael G. Wahl::Carol Pyron:::EDIF Test - The Upcoming Standard for Test Data Transfers.
+conf/itc/Higgins82:::Tim Higgins:::Digital Signal Processing for Production Testing of Analog LSI Devices.
+conf/itc/JakobsenDPABNLB01:::Peter Jakobsen::Jeffrey Dreibelbis::Gary Pomichter::Darren Anand::John Barth::Michael Nelms::Jeffrey Leach::George Belansek:::Embedded DRAM built in self test and methodology for test insertion.
+conf/itc/Lee93:::Nai-Chi Lee:::Practical Considerations for Mixed-Signal Test Bus.
+conf/itc/Lee94:::Wha-Joon Lee:::Testing Issues on High Speed Synchronous DRAMs.
+conf/itc/SalzmannFT88:::Chris Salzmann::Martin Funcell::Richard Taylor:::Design for Test and the Cost of Quality.
+conf/itc/ZilicR01:::Zeljko Zilic::Katarzyna Radecka:::: Identifying redundant gate replacements in verification by error modeling.
+conf/itc/WangG97:::Seongmoon Wang::Sandeep K. Gupta:::DS-LFSR: A New BIST TPG for Low Heat Dissipation.
+conf/itc/KimZKPHL98:::Ilyoung Kim::Yervant Zorian::Goh Komoriya::Hai Pham::Frank P. Higgins::Jim L. Lewandowski:::Built in self repair for embedded high density SRAM.
+conf/itc/JasT98:::Abhijit Jas::Nur A. Touba:::Test vector decompression via cyclical scan chains and its application to testing core-based designs.
+conf/itc/AraiY84:::Nobuo Arai::Yoshio Yamanaka:::Parallel Testing of Random Logic LSIs.
+conf/itc/CuseyP97:::James P. Cusey::Janak H. Patel:::BART: A Bridging Fault Test Generation for Sequential Circuits.
+conf/itc/WuK01:::Kaijie Wu::Ramesh Karri:::Algorithm level recomputing with allocation diversity: a register transfer level time redundancy based concurrent error detection technique.
+conf/itc/WuS99:::Yuejian Wu::Paul Soong:::Interconnect delay fault testing with IEEE 1149.1.
+conf/itc/Freeman95:::Michael T. Freeman:::Development of an ATE Test Station for Mixed CATV/TELCO Products.
+conf/itc/SnyderSM83:::David C. Snyder::Elaina S. Stokes::Richard C. Mahoney:::Inside a Modern Test Language Compiler.
+conf/itc/AnirudhanM89:::P. N. Anirudhan::Premachandran R. Menon:::Symbolic Test Generation for Hierarchically Modeled Digital Systems.
+conf/itc/Hansen83:::Peter Hansen:::New Techniques for Manufacturing Test and Diagnosis of LSSD Boards.
+conf/itc/MidkiffK89:::Scott F. Midkiff::Wern-Yan Koe:::Test Effectiveness Metrics and CMOS Faults.
+conf/itc/Lala86:::Parag K. Lala:::On Built-In Testing of VLSI Chips.
+conf/itc/KoPH85:::Uming Ko::Dinesh G. Patel::Francois J. Henley:::Contactless VLSI Laser Probing.
+conf/itc/KonemannN92:::Bernd Könemann::Phil Noto:::A Test Generation Methodology for High-Performance Computer Chips and Modules.
+conf/itc/Leod92:::Gordon R. Mc Leod:::BIST Techniques for ASIC Design.
+conf/itc/RobachMM83:::Chantal Robach::Ch. Malecha::G. Michel:::Computer Aided Testability Evaluation and Test Generation.
+conf/itc/HafedAR01:::Mohamed Hafed::Nazmy Abaskharoun::Gordon W. Roberts:::A stand-alone integrated test core for time and frequency domain measurements.
+conf/itc/MaFM95:::Siyad C. Ma::Piero Franco::Edward J. McCluskey:::An Experimental Chip to Evaluate Test Techniques: Experiment Results.
+conf/itc/LinS84:::Tonysheng Lin::Stephen Y. H. Su:::Functional Test Generation of Digital LSI/VLSI Systems Using Machine Symbolic Execution Technique.
+conf/itc/UnderwoodLKK94:::Bill Underwood::Wai-On Law::Sungho Kang::Haluk Konuk:::Fastpath: A Path-Delay Test Generator for Standard Scan Designs.
+conf/itc/Mann89:::William R. Mann:::R96MFX Test Strategy.
+conf/itc/Organ91:::Don Organ:::The enVision<sup>TM</sup> Timing Resolver.
+conf/itc/MinR89:::Hyoung B. Min::William A. Rogers:::Search Strategy Switching: An Alternative to Increased Backtracking.
+conf/itc/Caplow84:::Stephen Caplow:::Conquering Testability Problems by Combining In-Circuit and Functional Techniques.
+conf/itc/SchoberK96:::Volker Schöber::Thomas Kiel:::An Asynchronous Scan Path Concept for Micropipelines using the Bundled Data Convention.
+conf/itc/Bryson83:::Stephen W. Bryson:::Testing a High Performance Modem Filter.
+conf/itc/KuskoRSSFH98:::Mary P. Kusko::Bryan J. Robbins::Thomas J. Snethen::Peilin Song::Thomas G. Foote::William V. Huott:::Microprocessor test and test tool methodology for the 500 MHz IBM S/390 G5 chip.
+conf/itc/HumWL81:::R. A. Hum::D. L. Williams::J. W. Lamonde:::A High-Performance Integrated Analog/Digital Test and Characterization Test System.
+conf/itc/TsubukuNSONK89:::Yoichi Tsubuku::Takao Nishida::Hiroshi Shiga::Ken Ohga::Hirohisa Nishine::Mamoru Kaneko:::Main Frame Diagnosis Support System.
+conf/itc/FlowersMI86:::A. Dale Flowers::Kamlesh Mathur::John Isakson:::Statistical Process Control Using the Parametric Tester.
+conf/itc/MotikaWEL83:::Franco Motika::John A. Waicukauski::Edward B. Eichelberger::Eric Lindbloom:::An LSSD Pseudo Random Pattern Test System.
+conf/itc/Schulman95:::Martin A. Schulman:::End-to-End Performance Measurement for Interactive Multimedia Television.
+conf/itc/ThatcherT93:::Carl W. Thatcher::Rodham E. Tulloss:::Towards a Test Standard for Board and System Level Mixed-Signal Interconnects.
+conf/itc/Hassig95:::Randall Hassig:::The Case for Contract Manufacturing.
+conf/itc/KassabRT95:::Mark Kassab::Janusz Rajski::Jerzy Tyszer:::Hierarchical Functional-Fault Simulation for High-Level Synthesis.
+conf/itc/MukherjeeCB98:::Nilanjan Mukherjee::Tapan J. Chakraborty::Sudipta Bhawmik:::A BIST scheme for the detection of path-delay faults.
+conf/itc/Brglez85a:::Franc Brglez:::Fault Coverage Tools: Case Studies.
+conf/itc/GoodbyO95:::Laurence Goodby::Alex Orailoglu:::Towards 100% Testable FIR Digital Filters.
+conf/itc/LaquaiC01:::Bernd Laquai::Yi Cai:::Testing gigabit multilane SerDes interfaces with passive jitter injection filters.
+conf/itc/YoshinoT85:::Ryozou Yoshino::Ryuichi Takagi:::Custom VLSI Test System.
+conf/itc/Miller99:::Anthony C. Miller:::I/sub DDQ/ testing in deep submicron integrated circuits.
+conf/itc/GhoshJD97:::Indradeep Ghosh::Niraj K. Jha::Sujit Dey:::A Low-Overhead Design for Testability and Test Generation Technique for Core-Based Systems.
+conf/itc/IllmanC89:::Richard Illman::Steve Clarke:::Built-In Self-Test of the Macrolan Chip.
+conf/itc/Sargent83:::Brian J. Sargent:::Implementation of a Memory-Emulation Diagnostic Technique.
+conf/itc/Orsello85:::Robert J. Orsello:::Programmable Logic: Testability by Design.
+conf/itc/ChinM85:::Cary K. Chin::Edward J. McCluskey:::Test Length for Pseudo Random Testing.
+conf/itc/Sangiovanni-VincentelliW86:::Alberto L. Sangiovanni-Vincentelli::Ruey-Sing Wei:::PROTEUS : A Logic Verification System for Combinational Circuits.
+conf/itc/West97:::Burnell G. West:::Functional ATE can meet the challenges.
+conf/itc/Tegethoff93:::Mick Tegethoff:::IEEE 1149.1: How to Justify Implementation.
+conf/itc/CogswellPST00:::Michael Cogswell::Don Pearl::James Sage::Alan Troidl:::Test structure verification of logical BIST: problems and solutions.
+conf/itc/KriegerBK94:::Rolf Krieger::Bernd Becker::Martin Keim:::A Hybrid Fault Simulator for Synchronous Sequential Circuits.
+conf/itc/JacksonME84:::Philip C. Jackson::Gregory de Mare::Albert Esser:::Compaction Technique Universal Pin Electronics.
+conf/itc/RosenfeldS91:::Eric Rosenfeld::Bradford Sumner:::DSP Calibration for Accurate Time Waveform Reconstruction.
+conf/itc/Whealler81:::J. Anson Whealler:::A New Technique for Testing Settling Time in a Production Environment.
+conf/itc/Wrinn95:::Joe Wrinn:::Two New Techniques for Identifying Opens on Printed Circuit Boards: Analog Junction Test &amp; Radio Frequency Induction Test.
+conf/itc/FavalliDOR93:::Michele Favalli::Marcello Dalpasso::Piero Olivo::Bruno Riccò:::Analyss of Dynamic Effects of Resistive Bridging Faults in CMOS and BiCMOS Digital ICs.
+conf/itc/DemjanenkoU88:::Michael Demjanenko::Shambhu J. Upadhyaya:::Dynamic Techniques for Yield Enhancement of Field Programmable Logic Arrays.
+conf/itc/KeezerZBKP01:::David C. Keezer::Q. Zhou::C. Bair::J. Kuan::B. Poole:::Terabit-per-second automated digital testing.
+conf/itc/BocekVSM97:::Thomas M. Bocek::Tuyen D. Vu::Mani Soma::Jason D. Moffatt:::Experimental Results for Current-Based Analog Scan.
+conf/itc/NativMUZ01:::Gilly Nativ::Steven Mittermaier::Shmuel Ur::Avi Ziv:::Cost evaluation of coverage directed test generation for the IBM mainframe.
+conf/itc/JongKS00:::Frans de Jong::Ben Kup::Rodger Schuttert:::Power pin testing: making the test coverage complete.
+conf/itc/DeHon94:::André DeHon:::In-System Timing Extraction and Control Through Scan-Based, Test-Access Ports.
+conf/itc/AdamsCH98:::R. Dean Adams::Edmond S. Cooley::Patrick R. Hansen:::Quad DCVS dynamic logic fault modeling and testing.
+conf/itc/Turner95:::Ted T. Turner:::Capacitive Leadframe Testing.
+conf/itc/GillisWMB98:::Pamela S. Gillis::Francis Woytowich::Kevin McCauley::Ulrich Baur:::Delay test of chip I/Os using LSSD boundary scan.
+conf/itc/OzakiSWGUM96:::K. Ozaki::H. Sekiguchi::S. Wakana::Y. Goto::Y. Umehara::J. Matsumoto:::Novel Optical Probing System with Submicron Spatial Resolution for Internal Diagnosis of VLSI Circuits.
+conf/itc/CouesnonP82:::Jaques Couesnon::Michel Parot:::A Coherent and Efficient Approach to LSI Modeling and Testing for Integrated Circuit Users.
+conf/itc/YangMC00:::Zan Yang::Byeong Min::Gwan Choi:::Si-emulation: system verification using simulation and emulation.
+conf/itc/AbramoviciM83:::Miron Abramovici::Premachandran R. Menon:::A Practical Approach to Fault Simulation and Test Generation for Bridging Faults.
+conf/itc/AbramoviciS00:::Miron Abramovici::Charles E. Stroud:::DIST-based detection and diagnosis of multiple faults in FPGAs.
+conf/itc/HughesM86:::Joseph L. A. Hughes::Edward J. McCluskey:::Multiple Stuck-At Fault Coverage of Single Stuck-At Fault Test Sets.
+conf/itc/Bouldin89:::Donald W. Bouldin:::The Push for Test in Universities.
+conf/itc/NozuyamaNI88:::Y. Nozuyama::A. Nishimura::J. Iwamura:::Design for Testability of a 32-Bit Microprocessor, the TX1.
+conf/itc/Herlein83:::Richard F. Herlein:::Optimizing the Timing Architecture of a Digital LSI Test System.
+conf/itc/Brandes97:::James J. Brandes:::High-Performance Production Test Contractors for Fine-Pitch Integrated Circuits.
+conf/itc/Fedraw82:::Ken Fedraw:::9826A Computer Burn-In Program.
+conf/itc/Sloane84:::E. A. Sloane:::Transfer Function Estimation Part I : Theoretical and Practical Considerations.
+conf/itc/Boulton84:::Herb Boulton:::Design Verification, Product Characterization and Production Testing of Hybrids and Printed Circuit Cards Using High-Sensitivity Thermography Systems.
+conf/itc/LevineBBBKGRW82:::Herold Levine::Charles Berking::Alan Blair::Kenneth R. Bowden::Peter deBruyn Kops::David Giles::David Ruhoff::Kenneth Wacks:::Design of a New Test Generation System for Performance Testing of LSI Digital Printed Circuit Boards.
+conf/itc/ArnoldCWM92:::R. Arnold::M. Chowanetz::Werner Wolz::Klaus D. Müller-Glaser:::Test/Agent: CAD-integrated Automatic Generation of Test Programs.
+conf/itc/BennerB01:::Scott Benner::Oluseyi Boroffice:::Optimal production test times through adaptive test programming.
+conf/itc/Wharton83:::David J. Wharton:::The HITEST Test Generation System Overview.
+conf/itc/CherubalC01:::Sasikumar Cherubal::Abhijit Chatterjee:::A high-resolution jitter measurement technique using ADC sampling.
+conf/itc/RearickP93:::Jeff Rearick::Janak H. Patel:::Fast and Accurate CMOS Bridging Fault Simulation.
+conf/itc/ChenMGB01:::Liang-Chi Chen::T. M. Mak::Sandeep K. Gupta::Melvin A. Breuer:::Crosstalk test generation on pseudo industrial circuits: a case study.
+conf/itc/KatooziN91:::Mehdi Katoozi::Arnold Nordsiek:::Low Overhead Built-In Testable Error Detection and Correction with Excellent Fault Coverage.
+conf/itc/ProvostS99:::B. Provost::E. Sanchez-Sinencio:::Auto-calibrating analog timer for on-chip testing.
+conf/itc/DinhR00:::Dieu Van Dinh::Virginia Rabitoy:::An approach to testing 200 ps echo clock to output timing on the double data rate synchronous memory.
+conf/itc/KinoshitaS84:::Kozo Kinoshita::Kewal K. Salyja:::Built-in Testing of Memory Using On-chip Compact Testing Scheme.
+conf/itc/Nadeau-DostieCHP99:::Benoit Nadeau-Dostie::Jean-Francois Cote::Harry Hulvershorn::Stephen Pateras:::An embedded technique for at-speed interconnect testing.
+conf/itc/Henckels88:::Lutz P. Henckels:::Scan Path and Beyond : The Road to Improved ASIC Testability.
+conf/itc/VermeulenOB01:::Bart Vermeulen::Steven Oostdijk::Frank Bouwman:::Test and debug strategy of the PNX8525 Nexperia<sup>TM</sup> digital video platform system chip.
+conf/itc/Davidson99a:::Scott Davidson:::ITC'99 Benchmark Circuits - Preliminary Results.
+conf/itc/KimTC96:::Von-Kyoung Kim::Mick Tegethoff::Tom Chen:::ASIC Yield Estimation at Early Design Cycle.
+conf/itc/ImadaFOT96:::Hideaki Imada::Kenichi Fujisaki::Toshimi Ohsawa::Masaru Tsuto:::Generation Technique of 500MHz Ultra-High Speed Algorithmic Pattern.
+conf/itc/SinghRW95:::Adit D. Singh::Haroon Rasheed::Walter W. Weber:::I<sub>DDQ</sub> Testing of CMOS Opens: An Experimental Study.
+conf/itc/Robinson94:::Gordon D. Robinson:::NAND Trees Accurately Diagnose Board-Level Pin Faults.
+conf/itc/Holland84:::Alexander Holland:::High Resolution, High Linearity Interpolating A/D Converter.
+conf/itc/KikuchiHMYT89:::Shuji Kikuchi::Yoshihiko Hayashi::Takashi Matsumoto::Ryozou Yoshino::Ryuichi Takagi:::A 250 MHz Shared-Resource VLSI Test System with High Pin Count and Memory Test Capability.
+conf/itc/Mydill88:::Marc Mydill:::Standardization of ATE Timing Accuracy Specifications.
+conf/itc/Agrawal84:::Vishwani D. Agrawal:::Will Testability Analysis Replace Fault Simulation ?
+conf/itc/Agrawal85:::Vishwani D. Agrawal:::STAFAN Takes a Middle Course.
+conf/itc/Keller99:::Brion L. Keller:::Using STIL to describe embedded core test requirements.
+conf/itc/HassanAR88:::Abu Hassan::Vinod K. Agarwal::Janusz Rajski:::Testing and Diagnosis of Interconnects Using Boundary Scan Architecture.
+conf/itc/McCluskeyL83:::Edward J. McCluskey::David J. Lu:::Recurrent Test Patterns.
+conf/itc/LangleyBC89:::Frank J. Langley::Ronald R. Boatright::Laurence Crosby:::Composite Electro-Optical Testing of Surface-Mount Device Boards-One Manufacturer's Experience.
+conf/itc/XiangXF00:::Dong Xiang::Yi Xu::Hideo Fijiwara:::Non-scan design for testability for synchronous sequential circuits based on conflict analysis.
+conf/itc/Allard81:::John J. Allard:::Dynamic Memory Array Card Burn-In and High Speed Functional Card Testing.
+conf/itc/PoolHLC84:::F. Pool::J. Hop::J. P. L. Lagerberg::C. Da Costa:::Testing a 317K bit High Speed Video Memory with a VSLI Test System.
+conf/itc/MayrhauserO93:::Anneliese von Mayrhauser::Kurt M. Olender:::Efficient Testing of Software Modifications.
+conf/itc/AngelottiBKD93:::Frank W. Angelotti::Wayne A. Britson::Kerry T. Kaliszewski::Steve M. Douskey:::System Level Interconnect Test in a Tristate Environment.
+conf/itc/KapurPM92:::Rohit Kapur::Jaehong Park::M. Ray Mercer:::All Tests for a Fault Are Not Equally Valuable for Defect Detection.
+conf/itc/KooRT89:::Kenrick Koo::Steve Ramseyer::Al Tejeda:::A Testing Methodology for New-Generation Specialty Memory Devices.
+conf/itc/Taylor98:::Tony Taylor:::Standard test interface language (STIL), extending the standard.
+conf/itc/SunterFWM01:::Stephen K. Sunter::Ken Filliter::Joe Woo::Pat McHugh:::A general purpose 1149.4 IC with HF analog test capabilities.
+conf/itc/KildiranM86:::Günhan Kildiran::Peter N. Marinos:::Functional Testing of Microprocessor-like Architectures.
+conf/itc/FujiokaNH96:::Hiromu Fujioka::Koji Nakamae::Akio Higashi:::Effects of Multi-Product, Small-Sized Production of LSIs Packaged in Various Packages on the Final Test Process Efficiency and Cost.
+conf/itc/Fleming88:::Pete Fleming:::Semiconductor Perspective on Test Standards.
+conf/itc/KhouasD99:::Abdelhakim Khouas::Anne Derieux:::Speed-up of high accuracy analog test stimulus optimization.
+conf/itc/ChansonLV93:::Samuel T. Chanson::Antonio Alfredo Ferreira Loureiro::Son T. Vuong:::On the Design for Testability of Communication Software.
+conf/itc/ButlerKPSS00:::Robert Butler::Brion L. Keller::Sarala Paliwal::Richard Schoonover::Joseph Swenton:::Design and implementation of a parallel automatic test pattern generation algorithm with low test vector count.
+conf/itc/Sheppard93:::John W. Sheppard:::Testing Fully Testable Systems: A Case Study.

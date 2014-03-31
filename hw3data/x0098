@@ -1,0 +1,200 @@
+conf/amast/Bergeron95:::Anne Bergeron:::Symbolic Timing Devices.
+conf/alpuk/Babb90:::Edward Babb:::Metalevel and Constraint Technology in a Pure Logic Language.
+conf/alpuk/DarlingtonGW91:::John Darlington::Yike Guo::Qian Wu:::A General Computational Scheme for Constraint Logic Programming.
+conf/alpuk/JiangR92:::Yuejun Jiang::Barry Richards:::An Amalgamated Temporal Logic.
+conf/apsec/NakataniUOT01:::Takako Nakatani::Tetsuya Urai::Sou Ohmura::Tetsuo Tamai:::A Requirements Description Metamodel for Use Cases.
+conf/apsec/BaeKK95:::Hyun Seop Bae::Yong Rae Kwon::Hyeon Soo Kim:::An Efficient Debugging Method for Message-based Parallel Programs using Static Analysis Information.
+conf/apsec/CoxC00:::Anthony Cox::Charles Clarke:::A comparative evaluation of techniques for syntactic level source code analysis.
+conf/apsec/SugimotoO99:::Hideaki Sugimoto::Atsushi Ohnishi:::A Detecting and Interpreting Method of the Inconsistency of Software Requirements Specifications.
+conf/apsec/ShelekhovK99:::Vladimir I. Shelekhov::Sergey V. Kuksenko:::On the Practical Static Checker of Semantic Run-Time Errors.
+conf/apsec/GruhnW99:::Volker Gruhn::Ursula Wellen:::Software Support for Distributed Business Processes.
+conf/apsec/LiH99:::J. Jenny Li::J. Robert Horgan:::?SUDS-SDL: A Tool for Diagnosis and Understanding Software Specifications.
+conf/apsec/Hoffnagle00:::Gene F. Hoffnagle:::Experiences in Systems Evolution: Practical Aspects and Cautionary Tales.
+conf/apsec/RobinsonF02:::Neil J. Robinson::Colin J. Fidge:::Animation of Data Refinements.
+conf/apsec/TsumakiM00:::Toshihiko Tsumaki::Yoshitomi Morisawa:::A framework of requirements tracing using UML.
+conf/apsec/NicoloudisM02:::Nicholas Nicoloudis::Christine Mingins:::XML Web Services Automation: A Software Engineering Approach.
+conf/apsec/ChuLSH99:::William C. Chu::Chih-Wei Lu::J. P. Shiu::Xudong He:::Pattern Based Software Re-engineering: A Case Study.
+conf/apsec/ChenY97:::Tsong Yueh Chen::Yuen-Tak Yu:::On the Criteria of Allocating Test Cases under Uncertainty.
+conf/apsec/PortM99:::Daniel Port::Monica McArthur:::A Study of Productivity and Efficiency for Object-Oriented Methods and Languages.
+conf/apsec/BennettLBBMM00:::Keith H. Bennett::Paul J. Layzell::David Budgen::Pearl Brereton::Linda A. Macaulay::Malcolm Munro:::Service-based software: the future for flexible software.
+conf/apsec/NakanishiS99:::Takahiro Nakanishi::Motoshi Saeki:::Using Multiple Graphs of Programs to Modify Specifications.
+conf/apsec/IoustinovaSS02:::Natalia Ioustinova::Natalia Sidorova::Martin Steffen:::Abstraction and Flow Analysis for Model Checking Open Asynchronous Systems.
+conf/apsec/TarumiMK99:::Hiroyuki Tarumi::Tetsuya Matsuyama::Yahiko Kambayashi:::Evolution of Business Processes and a Process Simulation Tool.
+conf/apsec/MatsuzakiT98:::Tomohiro Matsuzaki::Takehiro Tokuda:::CTAG Software Generator Model for Constructing Network Applications.
+conf/apsec/HameurlainS97:::Nabil Hameurlain::Christophe Sibertin-Blanc:::Finite Symbolic Reachability Graphs for High-Level Petri Nets.
+conf/apsec/KumenoTOH95:::Fumihiro Kumeno::Yasuyuki Tahara::Akihiko Ohsuga::Shinichi Honiden:::Evolutional Agents: Field Oriented Programming Language, Flage.
+conf/apsec/KimSW95:::Kapsu Kim::Yeongi Shin::Chisu Wu:::Complexity Measures for Object-Oriented Program Based on the Entropy.
+conf/apsec/ChoppyPR01:::Christine Choppy::Pascal Poizat::Jean-Claude Royer:::Formal Specification of Mixed Components with Korrigan.
+conf/apsec/HanakawaMT02:::Noriko Hanakawa::Ken-ichi Matsumoto::Koji Torii:::A communication workload estimation model based on relationships among shared works for software development projects.
+conf/apsec/Ohnishi95:::Atsushi Ohnishi:::CARD: An Environment for Software Requirements Definition.
+conf/apsec/Leung00:::Karl R. P. H. Leung:::Extending Statecharts with ad lib and multi-thread features.
+conf/apsec/ShuguangQG00:::Li Shuguang::Jiang Qing::Chris George:::Combining case-based and model-based reasoning: a formal specification.
+conf/apsec/HoganST02:::James M. Hogan::Glenn Smith::Richard Thomas:::The Real World Software Process.
+conf/apsec/Kundu01:::Sukhamay Kundu:::The Canonical Functional Design Based on the Domination-Relationship among Data.
+conf/apsec/Singh99:::Raghu Singh:::A Systematic Approach to Software Safety.
+conf/apsec/BarkaouiKP97:::Kamel Barkaoui::C. Kaiser::Jean-François Pradat-Peyre:::Petri nets based proofs of Ada 95 solution for preference control.
+conf/apsec/AgarwalBT00:::Rakesh Agarwal::Giorgio Bruno::Marco Torchiano:::Enterprise modeling using class and instance models.
+conf/apsec/KashiwagiSF96:::Kazuhiko Kashiwagi::Keizo Saisho::Akira Fukuda:::Design and Implementation of Dynamically Reconstructing System Software.
+conf/apsec/KatayamaFU95:::Tetsuro Katayama::Zengo Furukawa::Kazuo Ushijima:::Event Interactions Graph for Test-case Generation of Concurrent Programs.
+conf/apsec/ChungLJ98:::Chang-shin Chung::Moon-kun Lee::Myung-sun Jeong:::A Scaleable and Modular Approach to Verification of ATM Switching System Using Reverse Specification.
+conf/apsec/Henderson-Sellers00:::Brian Henderson-Sellers:::Advanced OO Modeling: Metamodels and Notations.
+conf/apsec/KawabeMUO99:::Keiko Kawabe::Akihiko Matsuo::Sanya Uehara::Akira Ogawa:::Interactive Variable Classification Technique to Support the Maintenance of COBOL Business Application Systems.
+conf/apsec/Hamid96:::Issam A. Hamid:::A dynamic Extension for the Specification of Distributed Systems.
+conf/apsec/Hayes00:::Ian J. Hayes:::Reasoning about real-time programs using idle-invariant assertions.
+conf/apsec/LeeKKL99:::Kwanwoo Lee::Kyo Chul Kang::Sajoong Kim::Jaejoon Lee:::Feature-Oriented Engineering of PBX Software.
+conf/apsec/Biuk-Aghai98:::Robert P. Biuk-Aghai:::Customizable Software Engineering Environments for Flexible Distributed Software Teams.
+conf/apweb/PekLL03:::Eng-huan Pek::Xue Li::Yaozong Liu:::Web Wrapper Validation.
+conf/apweb/ShinMRKK03:::Moonsun Shin::Hosung Moon::Keun Ho Ryu::Kiyoung Kim::Jinoh Kim:::Applying Data Mining Techniques to Analyze Alert Data.
+conf/arith/CaoW97:::Jun Cao::Belle W. Y. Wei:::High-Performance Hardware for Function Generation.
+conf/arith/Baumhof95:::Christoph Baumhof:::A New VLSI Vector Arithmetic Coprocessor for the PC.
+conf/arith/BajardDK01:::Jean-Claude Bajard::Laurent-Stéphane Didier::Peter Kornerup:::Modular Multiplication and Base Extensions in Residue Number Systems.
+conf/arith/BajardDK97:::Jean-Claude Bajard::Laurent-Stéphane Didier::Peter Kornerup:::An IWS Montgomery Modular Multiplication Algorithm.
+conf/arith/DinechinT01:::Florent de Dinechin::Arnaud Tisserand:::Some Improvements on Multipartite Table Methods .
+conf/arith/YuZ95:::Robert K. Yu::Gregory B. Zyner:::167 MHz Radix-4 Floating Point Multiplier.
+conf/arith/SchmooklerN01:::Martin S. Schmookler::Kevin J. Nowka:::Leading Zero Anticipation and Detection-A Comparison of Methods.
+conf/arith/Matula03:::David W. Matula:::Computer Arithmetic - An Algorithm Engineer?s Perspective.
+conf/arith/SchulteW99:::Michael J. Schulte::Kent E. Wires:::High-Speed Inverse Square Roots.
+conf/arith/StellingO97:::Paul F. Stelling::Vojin G. Oklobdzija:::Implementing Multiply-Accumulate Operation in Multiplication Time.
+conf/arith/EvenSF03:::Guy Even::Peter-Michael Seidel::Warren E. Ferguson:::A Parametric Error Analysis of Goldschmidt?s Division Algorithm.
+conf/arith/SeidelMM01:::Peter-Michael Seidel::Lee D. McFearin::David W. Matula:::Binary Multiplication Radix-32 and Radix-256.
+conf/arith/Priest97:::Douglas M. Priest:::Fast Table-Driven Algorithms for Interval Elementary Functions.
+conf/arith/NielsenMLE97:::Asger Munk Nielsen::David W. Matula::Chung Nan Lyu::Guy Event:::Pipelined Packet-Forwarding Floating Point: II. An Adder.
+conf/arith/LangM95:::Tomás Lang::Paolo Montuschi:::Very-high radix combined division and square root with prescaling and selection by rounding.
+conf/arith/BoldoD03:::Sylvie Boldo::Marc Daumas:::Representable Correcting Terms for Possibly Underflowing Floating Point Operations.
+conf/arith/KaiharaT03:::Marcelo E. Kaihara::Naofumi Takagi:::A VLSI Algorithm for Modular Multiplication/Division.
+conf/arith/HamanoTYP95:::Takafumi Hamano::Naofumi Takagi::Shuzo Yajima::Franco P. Preparata:::O(n)-depth circuit algorithm for modular exponentiation.
+conf/arith/SchwarzAS97:::Eric M. Schwarz::Robert M. Averill III::Leon J. Sigal:::A Radix-8 CMOS S/390 Multiplier.
+conf/arith/SarmaM95:::Debjit Das Sarma::David W. Matula:::Faithful Bipartite ROM Reciprocal Tables.
+conf/arith/Kornerup03:::Peter Kornerup:::Revisiting SRT Quotient Digit Selection.
+conf/asian/KanekoS00:::Keiichi Kaneko::Yasuto Suzuki:::Node-to-Set Disjoint Paths Problem in Rotator Graphs.
+conf/asian/ChenLW96:::Hsin-Chu Chen::Alvin S. Lim::Nazir A. Warsi:::Multilevel Master-Slave Parallel Programming Models.
+conf/asian/DuLI98:::Xiaoyong Du::Zhibin Liu::Naohiro Ishii:::A New Factoring Algorithm for Magic Predicates.
+conf/asian/GilH99:::Joon-Min Gil::Chong-Sun Hwang:::An Efficient Location Management by Optimal Location Area Partitioning in PCS Networks.
+conf/asian/Kao95:::Ming-Yang Kao:::Minimal Linear Invariants.
+conf/asian/Roe97:::Paul Roe:::An Imperative Language with Read/Write Type Modes.
+conf/asian/ByunKS95:::Sugwoo Byun::Richard Kennaway::M. Ronan Sleep:::Transformation of Orthogonal Term Rewriting Systems.
+conf/asian/HungG99:::Dang Van Hung::Dimitar P. Guelev:::Completeness and Decidability of a Fragment of Duration Calculus with Iteration.
+conf/asian/Tomohiko97:::Morioka Tomohiko:::Structure of User Interface Module for Practical Internet Messages.
+conf/asian/NantajeewarawatW99:::Ekawit Nantajeewarawat::Vilas Wuwongse:::An Argumentation Approach to Semantics of Declarative Programs with Defeasible Inheritance.
+conf/asian/HuangJPR00:::Zhiyong Huang::Binjia Jiao::B. Prabhakaran::Conrado R. Ruiz Jr.:::Reusing Animations in Databases for Multimedia Presentations.
+conf/asian/TongLL99:::Chia Jim Tong::Hoong Chuin Lau::Andrew Lim:::Ant Colony Optimization for the Ship Berthing Problem.
+conf/asian/IgarashiMSS96:::Shigeru Igarashi::Tetsuya Mizutani::Tetsuya Shirogane::Masayuki Shio:::Formal Analysis for Continous Systems Controlled by Programs.
+conf/asian/KusakabeIA97:::Shigeru Kusakabe::Kentaro Inenaga::Makoto Amamiya:::Hybrid Support for Lenient Implementation of Array-Comprehension.
+conf/asian/Knoop99:::Jens Knoop:::Demand-Driven Model Checking for Context-Free Processes.
+conf/asian/Janowski98:::Tomasz Janowski:::Semantics and Logic for Provable Fault-Tolerance, A Tutorial.
+conf/asian/NiehrenP99:::Joachim Niehren::Tim Priesnitz:::Entailment of Non-structural Subtype Constraints.
+conf/asian/Reffel99:::Frank Reffel:::BDD-Nodes Can Be More Expressive.
+conf/asian/ChandrRS96:::Vijay Chandru::Suman Roy::Ramesh Subrahmanyam:::Constructive Negation in Definite Constraint Logic Programs.
+conf/asian/SunYZC96:::Chengzheng Sun::Yun Yang::Yanchun Zhang::David Chen:::Distributed Concurrency Control in Real-time Cooperative Editing Systems.
+conf/asian/Fujita97a:::Ken-etsu Fujita:::Calculus of Classical Proofs I.
+conf/asian/TientanopajaiK02:::Kitt Tientanopajai::Kanchana Kanchanasut:::Multiconstraint QoS Routing Using a Path-Vector Protocol.
+conf/asian/LursinsapKS97:::Chidchanok Lursinsap::Kanchana Kanchanasut::Thit Siriboon:::Basic Binary Decision Diagram Operations for Image Processing.
+conf/asian/BussowG97:::Robert Büssow::Wolfgang Grieskamp:::Combining Z and Temporal Interval Logics for the Formalization of Properties and Behaviors of Embedded Systems.
+conf/artdb/MokSUHLL97:::Aloysius K. Mok::John A. Stankovic::Özgür Ulusoy::Jörgen Hansson::Kam-yiu Lam::Kwei-Jay Lin:::Panel Session: Predictability in Active Real-Time/Temporal Databases.
+conf/bifoa/Berg73:::Malte von Berg:::Datenverbund in der öffentlichen Verwaltung.
+conf/bifoa/Lenk73:::Klaus Lenk:::Wie lassen sich (de-)zentralisatorische Wirkungen der Verwaltungsautomation bestimmen?
+conf/bifoa/Rave73:::D. Rave:::Ziele und Interessenlagen bei der Errichtung von Informationszentren in der öffentlichen Verwaltung.
+conf/aswec/Chan01:::Kevin Chan:::An Agent-Based Approach to Computer Assisted Code Inspections.
+conf/aswec/ZucconiRRS96:::Lin Zucconi::Greg Royle::Karl Reed::John Staples:::Do Formal Methods Really Work?
+conf/aswec/LauY01:::Man Fai Lau::Yuen-Tak Yu:::On the Relationships of Faults for Boolean Specification Based Testing.
+conf/aswec/LimH96:::Wie Ming Lim::John V. Harrison:::An Integrated Database Reengineering Architecture - A Generic Approach.
+conf/aswec/SloaneW98:::Anthony M. Sloane::William M. Waite:::Issues in Automatic Software Manufacturing in the Presence of Generators.
+conf/aswec/ChaubeyS01:::Rahul Chaubey::J. K. Suresh:::Integration vs. Development : An Engineering Approach to Building Web Applications.
+conf/aswec/HemerL01:::David Hemer::Peter A. Lindsay:::Specification-Based Retrieval Strategies for Module Reuse.
+conf/aswec/KroegerJM98:::Trent Kroeger::David Jacobs::Chris D. Marlin:::Implementing Process Enactment within a Process-Centred Software Development Environment.
+conf/aswec/TemperoB98:::Ewan D. Tempero::Robert Biddle:::Inheritance and Reusability.
+conf/aswec/McGrath97:::G. Michael McGrath:::A Process Modelling Framework: Capturing Key Aspects of Organizational Behavior.
+conf/aswec/KoenneckerJL00:::Arne Koennecker::D. Ross Jeffery::Graham C. Low:::Implementing an Experience Factory Based on Existing Organizational Knowledge.
+conf/aswec/HawryszkiewyczG96:::Igor Hawryszkiewycz::Ian Gorton:::Distributing the Software Process.
+conf/aswec/FowlerS98:::Danielle C. Fowler::Paul A. Swatman:::Building Information Systems Development Methods: Synthesizing from a Basis in both Theory and Practice.
+conf/aswec/PhilpG01:::Bruce A. Philp::Brian J. Garner:::Knowledge Mediation in Software Quality Engineering.
+conf/aswec/PapasimeonH01:::Michael Papasimeon::Clinton Heinze:::Extending the UML for Designing Jack Agents.
+conf/async/AllierSFR03:::Emmanuel Allier::Gilles Sicard::Laurent Fesquet::Marc Renaudin:::A New Class of Asynchronous A/D Converters Based on Time Quantization.
+conf/async/BystrovSY03:::A. V. Bystrov::D. Sokolov::Alexandre Yakovlev:::Low-Latency Contro Structures with Slack.
+conf/avbpa/MaG97:::Jiyong Ma::Wen Gao:::Text-independent Speaker Identification Based on Spectral Weighting Functions.
+conf/avbpa/BennNC97:::David E. Benn::Mark S. Nixon::John N. Carter:::Robust Eye Centre Extraction Using the Hough Transform.
+conf/avbpa/ThomazGF01:::Carlos E. Thomaz::Duncan Fyfe Gillies::Raul Queiroz Feitosa:::Using Mixture Covariance Matrices to Improve Face and Facial Expression Recognitions.
+conf/avbpa/Sanchez-ReilloS01a:::Raul Sanchez-Reillo::Carmen Sanchez-Avila:::RBF Neural Networks for Hand-Based Biometric Recognition.
+conf/avbpa/NilssonB01:::Kenneth Nilsson::Josef Bigün:::Using Linear Symmetry Features as a Pre-processing Step for Fingerprint Images.
+conf/avbpa/Simon-ZoritaOCSG01:::D. Simon-Zorita::J. Ortega-Garcia::S. Cruz-Llanas::J. L. Sanchez-Bote::J. Glez-Rodriguez:::An Improved Image Enhancement Scheme for Fingerprint Minutiae Extraction in Biometric Identification.
+conf/avbpa/Nakamura01:::Satoshi Nakamura:::Fusion of Audio-Visual Information for Integrated Speech Processing.
+conf/avbpa/GebhartE97:::Alexander Gebhart::Thomas Eppler:::Exclusion of Photos and New Segmentation Algorithms for the Automatic Face Recognition.
+conf/avbpa/Mason97:::John S. Mason:::"Watch These Lips" - Adding to Acoustic Signals to Improve Speaker Recognition.
+conf/avbpa/KotropoulosPFD97:::Constantine Kotropoulos::Ioannis Pitas::Stefan Fischer::Benoît Duc:::Face Authentication Using Morphological Dynamic Link Architecture.
+conf/avbpa/DieckmannPSFM97:::Ulrich Dieckmann::P. Plankensteiner::Ralf Schamburger::Bernhard Fröba::Sebastian Meller:::SESAM: A Biometric Person Identification System Using Sensor Fusion.
+conf/avbpa/ZhangG01:::Bai-ling Zhang::Yan Guo:::Face Recognition by Auto-associative Radial Basis Function Network.
+conf/avbpa/PigeonV97a:::Stéphane Pigeon::Luc Vandendorpe:::The M2VTS Multimodal Face Database (Release 1.00).
+conf/ausai/AuLP98:::S. Au::J. Liang::N. Parameswaran:::Plan Execution in a Hostile Dynamic Environment.
+conf/ausai/MenziesW98:::Tim Menzies::Sam Waugh:::Lower Bounds on the Size of Test Data Sets.
+conf/ausai/Chau02:::Kwokwing Chau:::Calibration of Flow and Water Quality Modeling Using Genetic Algorithm.
+conf/ausai/KravchukPTS02:::Olena Kravchuk::Wayne J. Pullan::John Thornton::Abdul Sattar:::An Investigation of Variable Relationships in 3-SAT Problems.
+conf/ausai/YoonBKCL01:::Sungsoo Yoon::Yungcheol Byun::Gyeonghwan Kim::Yeongwoo Choi::Yillbyung Lee:::A Model of Unconstrained Digit Recognition Based on Hypothesis Testing and Data Reconstruction.
+conf/ausai/GeF88:::Qing Ge::Nicholas V. Findler:::Distributed Planning and Control for Manufacturing Operations.
+conf/ausai/Liu01:::Chuchang Liu:::Logical Foundations for Reasoning about Trust in Secure Digital Communication.
+conf/ausai/Pilote88:::Michel Pilote:::Implementing Second Generation Rule-Based Financial Applications Today.
+conf/ausai/Moulin97:::Bernard Moulin:::The Social Dimension of Interactions in Multiagent Systems.
+conf/ausai/Boxer01:::Paul A. Boxer:::Towards Learning Naive Physics by Visual Observation: Qualitative Spatial Representations.
+conf/ausai/Clancey88:::William J. Clancey:::A Perspective on the Nature of Artificial Intelligence - Enabling and Enhancing Capabilities for Society.
+conf/ausai/HolmesHF99:::Geoffrey Holmes::Mark Hall::Eibe Frank:::Generating Rule Sets from Model Trees.
+conf/ausai/Dixon97:::Simon Dixon:::Beat Induction and Rhythm Recognition.
+conf/ausai/MatsumotoSMU02:::Satoshi Matsumoto::Takayoshi Shoudai::Tetsuhiro Miyahara::Tomoyuki Uchida:::Learning of Finite Unions of Tree Patterns with Internal Structured Variables from Queries.
+conf/ausai/NakamuraHI99:::Tsuyoshi Nakamura::Lifeng He::Hidenori Itoh:::A Proposal of Generating Artistic Japanese Calligraphic Fonts.
+conf/ausai/AmatoT88:::N. H. Amato::C. P. Tsang:::Student Modelling in a Keyboard Scale Tutoring System.
+conf/ausai/PfahringerHS01:::Bernhard Pfahringer::Geoffrey Holmes::Gabi Schmidberger:::Wrapping Boosters against Noise.
+conf/ausai/McNamaraLT88:::Alan R. McNamara::Laurie G. Lock Lee::Kee Chye Teh:::Experiences in Developing an Intelligent Operator Guidance System.
+conf/ausai/Laghari02:::Mohammad Shakeel Laghari:::Surface Feature Recognition of Wear Debris.
+conf/ausai/LiuO02a:::Chuchang Liu::Maris A. Ozols:::Consistency of Trust Theories.
+conf/ausai/RaskuttiB97:::Bhavani Raskutti::Anthony Beitz:::Sample Set Assessment for Providing Personalised Recommendations.
+conf/ausai/MurakamiOS01:::Tomoko Murakami::Ryohei Orihara::Naomichi Sueda:::Specification of Kansei Patterns in an Adaptive Perceptual Space.
+conf/ausai/ColombC97:::Robert M. Colomb::Yi-Ping Phoebe Chen:::Use of Partial Functional Dependencies to Make Practical Approximate Translations Among Forms of Propositional Expert Systems.
+conf/ausai/Sterling97:::Leon Sterling:::On Finding Needles in WWW Haystacks.
+conf/ausai/ThorntonS97:::John Thornton::Abdul Sattar:::Applied Partial Constraint Satisfaction Using Weighted Iterative Repair.
+conf/ausai/ChenGDLZX02:::Zaiping Chen::Qiang Gao::Chao Dong::Hongjin Liu::Peng Zhang::Zhenlin Xu:::The Flux-Oriented Control of an Induction Machine Utilizing an Online Controller Parameter Adaptation Scheme.
+conf/ausai/ZhangL97:::Chengqi Zhang::Yuefeng Li:::An Algorithm for Plan Verification in Multiple Agent Systems.
+conf/ausai/PearceCG97:::Adrian R. Pearce::Terry Caelli::Simon Goss:::Adaptive Curvature-Based Topography for Learning Symbolic Descriptions of Terrain Maps.
+conf/ausai/MohamedDK02:::K. A. Mohamed::A. Datta::Ryszard Kozera:::Knowledge-Based Techniques for Constraints Satisfaction in Resource Allocation Problems.
+conf/ausai/FraymanRW02:::Yakov Frayman::Bernard F. Rolfe::Geoffrey I. Webb:::Solving Regression Problems Using Competitive Ensemble Models.
+conf/ausai/KerberP02:::Manfred Kerber::Martin Pollet:::On the Design of Mathematical Concepts.
+conf/ausai/BergerSZ88:::R. A. Berger::E. A. Sonenberg::J. Zelcer:::A Knowledge Based Simulation of Critical Incidents in Anaesthesia.
+conf/ausai/CalderoniM99:::Stéphane Calderoni::Pierre Marcenac:::MUTANT: A Genetic Learning System.
+conf/caise/LesperanceKMY99:::Yves Lespérance::Todd G. Kelley::John Mylopoulos::Eric S. K. Yu:::Modeling Dynamic Domains with ConGolog.
+conf/caise/BenerecettiPST02:::Massimo Benerecetti::Maurizio Panti::Luca Spalazzi::Simone Tacconi:::Verification of Payment Protocols via MultiAgent Model Checking.
+conf/caise/CaiY02:::Zhiming Cai::Eric S. K. Yu:::Addressing Performance Requirements Using a Goal and Scenario-Oriented Approach.
+conf/caise/Olive03:::Antoni Olivé:::Derivation Rules in Object-Oriented Conceptual Modeling Languages.
+conf/caise/Olive99:::Antoni Olivé:::Relationship Reification: A Temporal View.
+conf/caise/VassiliouMKCMM90:::Yannis Vassiliou::Manolis Marakakis::Panagiotis Katalagarianos::Lawrence Chung::Michalis Mertikas::John Mylopoulos:::IRIS - A Mapping Assistant for Generating Designs from Requirements.
+conf/caise/FaulknerK03:::Stéphane Faulkner::Manuel Kolp:::Ontological Basis for Agent ADL.
+conf/caise/Liu91:::Chunnian Liu:::Software Process Planning and Execution: Coupling vs. Integration.
+conf/caise/GeneroP03:::M. Esperanza Manso::Marcela Genero::Mario Piattini:::No-redundant Metrics for UML Class Diagram Structural Complexity.
+conf/caise/KrogstieMOS91:::John Krogstie::Peter McBrien::Richard Owens::Anne Helga Seltveit:::Information Systems Development Using a Combination of Process and Rule Based Approaches.
+conf/caise/ArjonaCRPT03:::José Luis Arjona::Rafael Corchuelo::David Ruiz::J. Peña::Miguel Toro:::Knowledge Channels. Bringing the Knowledge on the Web to Software Agents.
+conf/caise/JarzabekT94:::Stan Jarzabek::Chew Lim Tan:::Modeling Multiple Views of Common Features in Software Reengineering for Reuse
+conf/caise/JarkeJQV98:::Matthias Jarke::Manfred A. Jeusfeld::Christoph Quix::Panos Vassiliadis:::Architecture and Quality in Data Warehouses.
+conf/caise/AhlbrechtEN03:::Peter Ahlbrecht::Silke Eckstein::Karl Neumann:::Conceptual Modelling of Mobile Object Systems: Some Language Constructs.
+conf/caise/Rein00:::Rick van Rein:::Specifying Processes with Dynamic Life Cycles.
+conf/caise/PalanqueBDS93:::Philippe A. Palanque::Rémi Bastide::Louis Dourte::Christophe Sibertin-Blanc:::Design of User-Driven Interfaces Using Petri Nets and Objects
+conf/caise/KellerBS01:::Rudolf K. Keller::Jean-François Bédard::Guy Saint-Denis:::Design and Implementation of a UML-Based Design Repository.
+conf/caise/McBrienP02:::Peter McBrien::Alexandra Poulovassilis:::Schema Evolution in Heterogeneous Database Architectures, A Schema Transformation Approach.
+conf/caise/McBrienP99:::Peter McBrien::Alexandra Poulovassilis:::A Uniform Approach to Inter-model Transformations.
+conf/caise/KozankiewiczLS03:::Hanna Kozankiewicz::Jacek Leszczylowski::Kazimierz Subieta:::Updateable Views for an XML Query Language.
+conf/caise/RoseMJ92:::Thomas Rose::Carlos Maltzahn::Matthias Jarke:::Integrating Object and Agent Worlds.
+conf/caise/PratC03:::Nicolas Prat::Samira Si-Said Cherfi:::Multidimensional Schemas Quality Assessment.
+conf/caise/RossiB95:::Matti Rossi::Sjaak Brinkkemper:::Metrics in Method Engineering
+conf/caise/Wilson02:::John N. Wilson:::A High-Performance Data Structure for Mobile Information Systems.
+conf/caise/JarkeK02:::Matthias Jarke::Ralf Klamma:::Metadata and Cooperative Knowledge Management.
+conf/caise/PapazoglouKY03:::Mike P. Papazoglou::Bernd J. Krämer::Jian Yang:::Leveraging Web-Services and Peer-to-Peer Networks.
+conf/caise/RauhS95:::Otto Rauh::Eberhard Stickel:::Standard Transformations for the Normalization of ER Schemata
+conf/caise/KudrassLB96:::Thomas Kudrass::Marco Lehmbach::Alejandro P. Buchmann:::Tool-Based Re-Engineering of a Legacy MIS: An Experience Report.
+conf/caise/JajodiaRA97:::Sushil Jajodia::Indrakshi Ray::Paul Ammann:::Implementing Semantic-Based Decomposition of Transactions.
+conf/caise/LipsonMM02:::Howard F. Lipson::Nancy R. Mead::Andrew P. Moore:::Can We Ever Build Survivable Systems from COTS Components?
+conf/caise/DiazC03:::Alicia Díaz::Gérôme Canals:::Improving CoP Knowledge Sharing: a CSCW Approach Based on Awareness.
+conf/caise/BittonMT91:::Dina Bitton::Jeffrey Millman::Solveig Torgersen:::DBE: An Expert Tool for Database Design.
+conf/caise/PonceletL93:::Pascal Poncelet::Lotfi Lakhal:::Consistent Structural Updates for Object Database Design
+conf/caise/EbnerK00:::Gerald Ebner::Hermann Kaindl:::Tracing All Around.
+conf/caise/WetzelK02:::Ingrid Wetzel::Ralf Klischewski:::Serviceflow Beyond Workflow? Concepts and Architectures for Supporting Inter-organizational Service Processes.
+conf/caise/NellbornH94:::Christer Nellborn::Peter Holm:::Capturing Information Systems Requirements Through Enterprise and Speech Act Modelling
+conf/caise/ShaoLFEG01:::Jianhua Shao::Xingkun Liu::G. Fu::Suzanne M. Embury::W. A. Gray:::Querying Data-Intensive Programs for Data Design.
+conf/caise/TanziSG98:::Tullio Tanzi::Sylvie Servigne::Régis Guiol:::Real-Time Information System for Risk Management on Motorways.
+conf/caise/BenatallahCTH03:::Boualem Benatallah::Fabio Casati::Farouk Toumani::Rachid Hamadi:::Conceptual Modeling of Web Service Conversations.
+conf/caise/Fernandez-MedinaP03:::Eduardo Fernández-Medina::Mario Piattini:::A Methodology for Multilevel Database Design.
+conf/caise/LeeKL02:::Sangjun Lee::Dongseop Kwon::Sukho Lee:::Efficient Similarity Search for Time Series Data Based on the Minimum Distance.

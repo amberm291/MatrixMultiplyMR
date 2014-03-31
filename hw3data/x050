@@ -1,0 +1,200 @@
+journals/jacm/AndersonB70:::Robert Anderson::W. W. Bledsoe:::A Linear Format for Resolution With Merging and a New Technique for Establishing Completeness.
+journals/jacm/Laasonen58:::Pentti Laasonen:::On the Truncation Error of Discrete Approximations to the Solutions of Dirichlet Problems in a Domain with Corners.
+journals/jacm/ConstableB72:::Robert L. Constable::Allan Borodin:::Subrecursive Programming Languages, Part I: efficiency and program structure.
+journals/jacm/FrazerM70:::W. Donald Frazer::A. C. McKellar:::Samplesort: A Sampling Approach to Minimal Storage Tree Sorting.
+journals/jacm/Kacewicz79:::Boleslaw Kacewicz:::Integrals with a Kernel in the Solution of Nonlinear Equations in N Dimensions.
+journals/jacm/OHearnT95:::Peter W. O'Hearn::Robert D. Tennent:::Parametricity and Local Variables.
+journals/jacm/Johansen61:::Donald E. Johansen:::A Modified Givens Method for the Eigenvalue Evaluation of Large Matrices.
+journals/jacm/Lynch75:::Nancy A. Lynch:::On Reducibility to Complex or Sparse Sets.
+journals/jacm/TootillRA71:::J. P. R. Tootill::W. D. Robinson::A. G. Adams:::The Runs Up-and-Down Performance of Tausworthe Pseudo-Random Number Generators.
+journals/jacm/SrinivasanT72:::V. Srinivasan::G. L. Thompson:::Accelerated Algorithms for Labeling and Relabeling of Trees, with Applications to Distribution Problems.
+journals/jacm/GinsburgL76:::Seymour Ginsburg::Nancy A. Lynch:::Size complexity in context-free grammars forms.
+journals/jacm/GinsburgU66:::Seymour Ginsburg::Joseph S. Ullian:::Ambiguity in context free languages.
+journals/jacm/Pawlikowski80:::Krzysztof Pawlikowski:::Message Waiting Time in a Packet Switching System.
+journals/jacm/Chaitin75:::Gregory J. Chaitin:::A Theory of Program Size Formally Identical to Information Theory.
+journals/jacm/Jazayeri81:::Mehdi Jazayeri:::A Simpler Construction for Showing the Intrinsically Exponential Complexity of the Circularity Problem for Attribute Grammars.
+journals/jacm/Mowle70:::Frederic J. Mowle:::Controllability of Nonlinear Sequential Networks.
+journals/jacm/HorowitzP76:::Steven L. Horowitz::Theodosios Pavlidis:::Picture Segmentation by a Tree Traversal Algorithm.
+journals/jacm/HorowitzS76:::Ellis Horowitz::Sartaj Sahni:::Exact and Approximate Algorithms for Scheduling Nonidentical Processors.
+journals/jacm/ElgotR64:::Calvin C. Elgot::Joseph D. Rutledge:::RS -Machines with Almost Blank Tape.
+journals/jacm/EliasF75:::Peter Elias::Richard A. Flower:::The Complexity of Some Simple Retrieval Problems.
+journals/jacm/FeldsteinG76:::Alan Feldstein::Richard Goodman:::Convergence Estimates for the Distribution of Trailing Digits.
+journals/jacm/Hartmanis67:::Juris Hartmanis:::On Memory Requirements for Context-Free Language Recognition.
+journals/jacm/Hartmanis69:::Juris Hartmanis:::On the Complexity of Undecidable Problems in Automata Theory.
+journals/jacm/Henrici56:::Peter Henrici:::A Subroutine for Computations with Rational Numbers.
+journals/jacm/Tarjan81a:::Robert Endre Tarjan:::A Unified Approach to Path Problems.
+journals/jacm/Tarjan81b:::Robert Endre Tarjan:::Fast Algorithms for Solving Path Problems.
+journals/jacm/HopcroftT74:::John E. Hopcroft::Robert Endre Tarjan:::Efficient Planarity Testing.
+journals/jacm/HochbaumS87:::Dorit S. Hochbaum::David B. Shmoys:::Using dual approximation algorithms for scheduling problems theoretical and practical results.
+journals/jacm/SippuSU83:::Seppo Sippu::Eljas Soisalon-Soininen::Esko Ukkonen:::The Complexity of LALR(k) Testing
+journals/jacm/BatniRK74:::Ramachendra P. Batni::Jeffrey D. Russell::Charles R. Kime:::An Efficient Algorithm for Finding an Irredundant Set Cover.
+journals/jacm/GoldbergR98:::Andrew V. Goldberg::Satish Rao:::Beyond the Flow Decomposition Barrier.
+journals/jacm/BshoutyGMST98:::Nader H. Bshouty::Sally A. Goldman::H. David Mathias::Subhash Suri::Hisao Tamaki:::Noise-Tolerant Distribution-Free Learning of General Geometric Concepts.
+journals/jacm/ChorKGS98:::Benny Chor::Eyal Kushilevitz::Oded Goldreich::Madhu Sudan:::Private Information Retrieval.
+journals/jacm/KargerKT95:::David R. Karger::Philip N. Klein::Robert Endre Tarjan:::A Randomized Linear-Time Algorithm to Find Minimum Spanning Trees.
+journals/jacm/KargerMS98:::David R. Karger::Rajeev Motwani::Madhu Sudan:::Approximate Graph Coloring by Semidefinite Programming.
+journals/jacm/ImielinskiL84:::Tomasz Imielinski::Witold Lipski Jr.:::Incomplete Information in Relational Databases.
+journals/jacm/FichHS98:::Faith E. Fich::Maurice Herlihy::Nir Shavit:::On the Space Complexity of Randomized Synchronization.
+journals/jacm/Beatty73:::James C. Beatty:::Errata: ``An axiomatic approach to code optimization for Expressions''.
+journals/jacm/Heide88:::Friedhelm Meyer auf der Heide:::Fast algorithms for N-dimensional restrictions of hard problems.
+journals/jacm/BlakeK77:::Ian F. Blake::Alan G. Konheim:::Big Buckets Are (Are Not) Better!
+journals/jacm/IrvingLG87:::Robert W. Irving::Paul Leather::Dan Gusfield:::An efficient algorithm for the ``optimal'' stable marriage.
+journals/jacm/HoffmannL76:::Christoph M. Hoffmann::Lawrence H. Landweber:::A Completeness Theorem for Straight-Line Programs with Structured Variables.
+journals/jacm/Vogelaere59:::René de Vogelaere:::Remarks On ``Tshebysheff Approximations for Power Series''.
+journals/jacm/ChangS71:::Chin-Liang Chang::James R. Slagle:::Completeness of Linear Refutation for Theories with Equality.
+journals/jacm/LawlerL78:::Eugene L. Lawler::Jacques Labetoulle:::On Preemptive Scheduling of Unrelated Parallel Processors by Linear Programming.
+journals/jacm/CuckerS99:::Felipe Cucker::Steve Smale:::Complexity Estimates Depending on Condition and Round-Off Error.
+journals/jacm/AhoJ76:::Alfred V. Aho::Stephen C. Johnson:::Optimal Code Generation for Expression Trees.
+journals/jair/JaakkolaJ99:::Tommi Jaakkola::Michael I. Jordan:::Variational Probabilistic Inference and the QMR-DT Network.
+journals/jair/BergadanoGT93:::Francesco Bergadano::Daniele Gunetti::Umberto Trinchero:::The Difficulties of Learning Logic Programs with Cut.
+journals/jair/Fisher96:::Douglas H. Fisher:::Iterative Optimization and Simplification of Hierarchical Clusterings.
+journals/jair/Halpern01:::Joseph Y. Halpern:::Conditional Plausibility Measures and Bayesian Networks.
+journals/jair/Halpern97:::Joseph Y. Halpern:::Defining Relative Likelihood in Partially-Ordered Structures.
+journals/jair/MooreL98:::Andrew W. Moore::Mary S. Lee:::Cached Sufficient Statistics for Efficient Machine Learning with Large Datasets.
+journals/jair/Neal00:::Radford M. Neal:::On Deducing Conditional Independence from d-Separation in Causal Graphs with Feedback (Research Note).
+journals/jair/SchaerfST95:::Andrea Schaerf::Yoav Shoham::Moshe Tennenholtz:::Adaptive Load Balancing: A Study in Multi-Agent Learning.
+journals/jair/WermterW97:::Stefan Wermter::Volker Weber:::SCREEN: Learning a Flat Syntactic and Semantic Spoken Language Analysis Using Artificial Neural Networks.
+journals/jair/Nienhuys-ChengW96:::Shan-Hwei Nienhuys-Cheng::Ronald de Wolf:::Least Generalizations and Greatest Specializations of Sets of Clauses.
+journals/jair/MintonBD94:::Steven Minton::John L. Bresina::Mark Drummond:::Total-Order and Partial-Order Planning: A Comparative Analysis.
+journals/jair/DonohoR95:::Steven K. Donoho::Larry A. Rendell:::Rerepresenting and Restructuring Domain Theories: A Constructive Induction Approach.
+journals/jair/PynadathT02:::David V. Pynadath::Milind Tambe:::The Communicative Multiagent Team Decision Problem: Analyzing Teamwork Theories and Models.
+journals/jair/Dietterich00:::Thomas G. Dietterich:::Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition.
+journals/jair/KaminkaPT02:::Gal A. Kaminka::David V. Pynadath::Milind Tambe:::Monitoring Teams by Overhearing: A Multi-Agent Plan-Recognition Approach.
+journals/jair/Litman96:::Diane J. Litman:::Cue Phrase Classification Using Machine Learning.
+journals/jair/FoxBT99:::Dieter Fox::Wolfram Burgard::Sebastian Thrun:::Markov Localization for Mobile Robots in Dynamic Environments.
+journals/jair/Resnik99:::Philip Resnik:::Semantic Similarity in a Taxonomy: An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language.
+journals/jair/BhansaliKH96:::Sanjay Bhansali::Glenn A. Kramer::Tim J. Hoar:::A Principled Approach Towards Symbolic Geometric Constraint Satisfaction.
+journals/jair/MazerAB98:::Emmanuel Mazer::Juan Manuel Ahuactzin::Pierre Bessière:::The Ariadne's Clew Algorithm.
+journals/jair/Idestam-Almquist95:::Peter Idestam-Almquist:::Generalization of Clauses under Implication.
+journals/jalc/Heam01:::Pierre-Cyrille Héam:::Some Topological Properties of Rational Sets.
+journals/jalc/Petre99:::Ion Petre:::Parikh's Theorem Does Not Hold for Multiplicities.
+journals/jalc/DeneckeKS01:::Klaus Denecke::Jörg Koppitz::Slavcho Shtrakov:::The Depth of a Hypersubstitution.
+journals/jalc/Paun00:::Andrei Paun:::On the Diameter of Various Classes of H Systems.
+journals/jalc/BordihnH01:::Henning Bordihn::Markus Holzer:::On the Number of Active Symbols in L and CD Grammar Systems.
+journals/jalc/TipleaKI97:::Ferucio Laurentiu Tiplea::Masashi Katsura::Masami Ito:::Processes and Vectorial Characterizations of Parallel Communicating Grammar Systems.
+journals/jalc/HashiguchiKJ02:::Kosaburo Hashiguchi::Takahiro Kunai::Shuji Jimbo:::Finite Codes over Free Binoids.
+journals/jalc/Jedrzejowicz96:::Joanna Jedrzejowicz:::Undecidability Results for Shuffle Languages.
+journals/jalc/HolubIMM01:::Jan Holub::Costas S. Iliopoulos::Borivoj Melichar::Laurent Mouchard:::Distributed Pattern Matching Using Finite Automata.
+journals/jalc/Okhotin01:::Alexander Okhotin:::Conjunctive Grammars.
+journals/jalc/Fernau97:::Henning Fernau:::Graph-Controlled Grammars as Language Acceptors.
+journals/jalc/Liebehenschel03:::Jens Liebehenschel:::On the Connection Between Lexicographical Generation and Ranking.
+journals/jalc/Vaszil00:::György Vaszil:::Further Remarks on Parallel Communicating Grammar Systems without a Master.
+journals/jalc/BottoniLMP98:::Paolo Bottoni::Anna Labella::Piero Mussio::Gheorghe Paun:::Pattern Control on Derivations in Context-Free Rewriting.
+journals/jalc/DevillersKP00:::Raymond R. Devillers::Hanna Klaudel::Elisabeth Pelz:::An Algebraic Box Calculus.
+journals/jalc/Makinen01:::Erkki Mäkinen:::On the Inclusion Problem for Very Simple Deterministic Pushdown Automata.
+journals/jalc/MereghettiP00:::Carlo Mereghetti::Giovanni Pighizzini:::Two-Way Automata Simulations and Unary Languages.
+journals/jalc/MeyerR02:::Albert R. Meyer::Alexander Moshe Rabinovich:::Valid Identity Problem for Shuffle Regular Expressions.
+journals/jalc/PetkovicS01:::Tatjana Petkovic::Magnus Steinby:::Piecewise Directable Automata.
+journals/jalc/WatjenO01:::Dietmar Wätjen::David Ostrovsky:::Function-Limited 0L Systems Revisited.
+journals/jalc/RaskinS99:::Jean-François Raskin::Pierre-Yves Schobbens:::The Logic of Event Clocks - Decidability, Complexity and Expressiveness.
+journals/jalc/Mitrana00:::Victor Mitrana:::On the Degree of Communication in Parallel Communicating Finite Automata Systems.
+journals/jcns/JonesPKK00:::Stephanie R. Jones::David J. Pinto::Tasso J. Kaper::Nancy Kopell:::Alpha-Frequency Rhythms Desynchronize over Long Cortical Distances: A Modeling Study.
+journals/jcns/MillerJSMG02:::Clyde S. Miller::Don H. Johnson::John P. Schroeter::Lay L. Myint::Raymon M. Glantz:::Visual Signals in an Optomotor Reflex: Systems and Information Theoretic Analysis.
+journals/jcns/ChenEW98:::Zhixiong Chen::Bard Ermentrout::Xiao-Jing Wang:::Wave Propagation Mediated by GABAB Synapse and Rebound Excitation in an Inhibitory Network: A Reduced Model Approach.
+journals/jcns/EgerE02a:::M. Eger::Reinhard Eckhorn:::A Model-Based Approach for the Analysis of Neuronal Information Transmission in Multi-Input and -Output Systems.
+journals/jcns/KenyonMM98a:::Garrett T. Kenyon::Javier F. Medina::Michael D. Mauk:::A Mathematical Model of the Cerebellar-Olivary System II: Motor Adaptation Through Systematic Disruption of Climbing Fiber Equilibrium.
+journals/jcns/Blackwell00:::Kim T. Blackwell:::Evidence for a Distinct Light-Induced Calcium-Dependent Potassium Current in Hermissenda Crassicornis.
+journals/jcns/CamperiW98:::Marcelo Camperi::Xiao-Jing Wang:::A Model of Visuospatial Working Memory in Prefrontal Cortex: Recurrent Network and Cellular Bistability.
+journals/jcns/VanierB99:::Michael C. Vanier::James M. Bower:::A Comparative Survey of Automated Parameter-Search Methods for Compartmental Neural Models.
+journals/jcns/SmithC01:::Michael A. Smith::J. Douglas Crawford:::Self-Organizing Task Modules and Explicit Coordinate Systems in a Neural Network Model for 3-D Saccades.
+journals/jcns/HendinHT98:::Ofer Hendin::David Horn::Misha Tsodyks:::Associative Memory and Segmentation in an Oscillatory Neural Model of the Olfactory Bulb.
+journals/jcns/KiemelC98:::Tim Kiemel::Avis H. Cohen:::Estimation of Coupling Strength in Regenerated Lamprey Spinal Cords Based on a Stochastic Phase Model.
+journals/jcns/ZhengJC02:::Ji-Hong Zheng::Zhong Jian::Jun Chen:::Detection of Deterministic Behavior Within the Tissue Injury-Induced Persistent Firing of Nociceptive Neurons in the Dorsal Horn of the Rat Spinal Cord.
+journals/jcns/BoseBR00:::Amitabha Bose::Victoria Booth::Michael Recce:::A Temporal Mechanism for Generating the Phase Precession of Hippocampal Place Cells.
+journals/jcns/PauluisBO99:::Quentin Pauluis::Stuart N. Baker::Etienne Olivier:::Emergent Oscillations in a Realistic Network: The Role of Inhibition and the Effect of the Spatiotemporal Distribution of the Input.
+journals/jcsc/Lu02:::Chih-Wen Lu:::Low-Power High-Speed Class-AB Buffer Amplifiers for Liquid-Crystal Display Signal Driver Application.
+journals/jcsc/Card98:::Howard C. Card:::Artificial Neural Computations in Digital Arrays.
+journals/jcsc/NgL99:::K. W. Ng::K. T. Lau:::An Adiabatic 4: 2 Compressor Design for Low Power VLSI.
+journals/jcsc/Milovanovic98:::Dragorad Milovanovic:::Upper Bound on SNR Gain in Wavelet Transform Predictive-Entropy Image Coding.
+journals/jcsc/CaiDS02:::George Cai::Ashutosh S. Dhodapkar::James E. Smith:::Integrated Performance, Power, and Thermal Modeling.
+journals/jcsc/RaoN00:::Vishwas M. Rao::Behrouz Nowrouzian:::An Alternative Proof of Modified-Booth Recoding Algorithm Based on Number-Domain Transformations.
+journals/jcsc/TanC98:::E. C. Tan::C. Y. Chia:::Interpolation of Multiplier Coefficients of an Elliptic Wave Digital Filter.
+journals/jcsc/SrivastavaKS02:::Ankur Srivastava::Eren Kursun::Majid Sarrafzadeh:::Predictability in RT-Level Designs.
+journals/jcsc/HeYLLHS99:::Zhenya He::Luxi Yang::Ju Liu::Ziyi Lu::Chen He::Yuhui Shi:::Approaches for Blind Separation of Sources Based on Multivariate Density Estimation.
+journals/jcsc/AghaghiriFP02:::Yazdan Aghaghiri::Farzan Fallah::Massoud Pedram:::A Class of Irredundant Encoding Techniques for Reducing Bus Power.
+journals/jcsc/XieXW03:::Yuan Xie::Jiang Xu::Wayne Wolf:::Augmenting Platform-Based Design with Synthesis Tools.
+journals/jcsc/CsONdesK02:::Tibor CsÖNdes::Balázs. Kotnyek:::Greedy Algorithms for the Test Selection Problem in Protocol Conformance Testing.
+journals/jcsc/BobbioPTT98:::Andrea Bobbio::Antonio Puliafito::Miklós Telek::Kishor S. Trivedi:::Recent Developments in Non-Markovian Stochastic Petri Nets.
+journals/jcsc/ZhangHHS02:::Yikui Zhang::Etsuro Hayahara::Satoshi Hirano::Naohito Sakakibara:::An Optimal Design Consideration for Higher-Order Delta-Sigma AD Converter.
+journals/jcsc/LeeNW03:::Edward A. Lee::Stephen Neuendorffer::Michael J. Wirthlin:::Actor-Oriented Design of Embedded Hardware and Software Systems.
+journals/jcsc/RoyMM02:::Kaushik Roy::Saibal Mukhopadhyay::Hamid Mahmoodi-Meimand:::Leakage Current in Deep-Submicron CMOS Circuits.
+journals/jcsc/PneumatikakisCDA98:::A. G. Pneumatikakis::A. G. Constantinides::T. Deliyannis::Vassilis Anastassopoulos:::Sigma-Delta IIR Filter Realization Using Third-Order Remodulators.
+journals/jcsc/TogawaUYO99:::Nozomu Togawa::Kaoru Ukai::Masao Yanagisawa::Tatsuo Ohtsuki:::A Simultaneous Placement and Global Routing Algorithm for FPGAs with Power Optimization.
+journals/jcsc/ElwakilK99:::A. S. Elwakil::M. P. Kennedy:::Chaotic Oscillator Configuration Using a Frequency Dependent Negative Resistor.
+journals/jcsc/RecaldeTS98:::Laura Recalde::Enrique Teruel::Manuel Silva:::On Linear Algebraic Techniques for Liveness Analysis of P/T Systems.
+journals/jcsc/SinghS02:::Abdhesh K. Singh::Raj Senani:::A New Four-CC-Based Configuration for Realizing a Voltage-Mode Biquad Filter.
+journals/insk/Bodendorf84:::Freimut Bodendorf:::Information Center - Das aktuelle Schlagwort.
+journals/insk/Beth03:::Thomas Beth:::Gottfried Wolf 23.8.1940 bis 9.1.2003.
+journals/insk/Broy02:::Manfred Broy:::Ole-John Dahl 1931-2002, Kristen Nygaard 1926-2002, Edsger Wyve Dijkstra 1930-2002 (Historische Notizen).
+journals/insk/DittmannS00:::Jana Dittmann::Ralf Steinmetz:::Digitale Wasserzeichen - Aktuelles Schlagwort.
+journals/insk/RackeE86:::Wilhelm F. Racke::Wolfgang Effelsberg:::Die X.400-Empfehlungen für Nachrichtenübermittlungssysteme - Das aktuelle Schlagwort.
+journals/insk/Schubert00:::Sigrid E. Schubert:::Informatik in den Sekundarstufen I und II unverzichtbar.
+journals/insk/Bauer95:::Michael Bauer:::Außerbetriebliche Weiterbildung in der Informatik.
+journals/insk/Bauer98:::Friedrich L. Bauer:::Wer erfand den von-Neumann-Rechner? Historische Notizen.
+journals/insk/BeutelspacherHP93:::Albrecht Beutelspacher::Thomas Hueske::Axel Pfau:::Kann man mit Bits bezahlen?
+journals/insk/Gorg81:::Carmelita Görg:::Neuere Entwicklungen und Projekte auf dem Gebiet der Betriebssysteme.
+journals/insk/Schmidt79:::Bernd Schmidt:::Die Simulation zeitdiskreter Systeme.
+journals/insk/Endres99:::Albert Endres:::Die Informatik als Ingenieurwissenschaft: Noch ein Beitrag zu einer nicht endenden Diskussion.
+journals/insk/Reinefeld92:::Alexander Reinefeld:::Nullfenster-Suche - Das aktuelle Schlagwort.
+journals/insk/BennG98:::Wolfgang Benn::Ingo Gringer:::Zugriff auf Datenbanken über das World Wide Web.
+journals/insk/Kehr00:::Roger Kehr:::Spontane Vernetzung: Infrastrukturkonzepte fuer die Post-PC-Ära.
+journals/insk/Kley86:::Adolf Kley:::Dynamische Systeme und kommunizierende Prozesse - eine Analogiebetrachtung.
+journals/insk/Weber94:::R. Weber:::Von Electronic-Mail zu multimedialer Post.
+journals/insk/LinnemannK02:::Volker Linnemann::Martin Kempa:::Sprachen und Werkzeuge zur Generierung von HTML- und XML-Dokumenten.
+journals/insk/Maas00:::Jörg Maas:::Mitteilungen der Gesellschaft für Informatik - 141. Folge.
+journals/insk/Mayr00:::Heinrich C. Mayr:::Editorial: Liebe Mitglieder der Gesellschaft für Informatik.
+journals/insk/Luft82:::Alfred L. Luft:::Rationaler Sprachgebrauch und orthosprachliche Standardisierung als Grundlagen des Software Engineering.
+journals/insk/Heidtmann94:::Klaus D. Heidtmann:::Methoden zur Zuverlässigkeitsanalyse von Rechnernetztopologien.
+journals/insk/Hartig82:::Hermann Härtig:::Spezialisierung von Befehlssätzen - Das aktuelle Schlagwort.
+journals/insk/SchoderM99:::Detlef Schoder::Günter Müller:::Potentiale und Hürden des Electronic Commerce: Eine Momentaufnahme.
+journals/insk/PombergerW97:::Gustav Pomberger::Rainer Weinreich:::Qualitative und quantitative Aspekte prototyping-orientierter Software-Entwicklung - Ein Erfahrungsbericht.
+journals/insk/Maurer03:::Hermann A. Maurer:::Wissensmanagement - Ein Schritt nach vorne oder nur ein neues Schlagwort?
+journals/insk/MertensBLPPT94:::Peter Mertens::Jens-Stefan Breuker::Dieter Lödel::Michael Ponader::H. Popp::Stephan Thesmann:::Angebotsunterstützung für Standardprodukte.
+journals/insk/HiltyR97:::Lorenz M. Hilty::Claus Rautenstrauch:::Betriebliche Umweltinformationssysteme (BUIS) - eine Literaturanalyse.
+journals/insk/Niemann79:::Heinrich Niemann:::Mustererkennung.
+journals/insk/DomannMW88a:::Peter Domann::Veronika Meyer::Ulrike Weng-Beckmann:::Entwicklungstrends bei UNIX und im UNIX-Umfeld, Teil 2.
+journals/insk/Denert80:::Ernst Denert:::Projektbibliotheken - Das aktuelle Schlagwort.
+journals/insk/Meyer-Wegener85:::Klaus Meyer-Wegener:::TP-Monitor - Das aktuelle Schlagwort.
+journals/insk/Rechenberg91:::Peter Rechenberg:::Übersetzungen von Informatik-Literatur bekümmert betrachtet.
+journals/insk/Richter03:::Michael M. Richter:::Fallbasiertes Schliessen: Vergangenheit, Gegenwart, Zukunft.
+journals/insk/Richter84:::Gernot Richter:::Netzmodelle für die Bürokommunikation. Teil 2.
+journals/insk/MaassADGORRS93:::Susanne Maaß::David Ackermann::Wolfgang Dzida::Peter Gorny::Horst Oberquelle::Karl-Heinz Rödiger::Walter Rupietta::Norbert A. Streitz:::Software-Ergonomie-Ausbildung in Informatik-Studiengängen bundesdeutscher Universitäten, Empfehlungen des Fachausschusses 2.3 und des Fachbereichs 2 der GI.
+journals/insk/SchlegelmilchHM94:::Sonja Schlegelmilch::Barbara Heller::Josef Meyer-Fujara:::Evaluation hybrider Expertensystemtools.
+journals/insk/HerzogRV84:::Otthein Herzog::Wolfgang Reisig::Rüdiger Valk:::Petri-Netze: ein Abriß ihrer Grundlagen und Anwendungen.
+journals/insk/SchinzelK01:::Britta Schinzel::Karin Kleinn:::Quo vadis, Informatik?
+journals/insk/ButscherHL91:::Berthold Butscher::Lutz Henckel::Thomas Luckenbach:::Die Kommunikationsplattform BERKOM für multimediale Anwendungen.
+journals/insk/Pomberger94:::Gustav Pomberger:::Niklaus Wirth zum 60. Geburtstag.
+journals/insk/HerrmannDK02:::Thomas Herrmann::Marc Diefenbruch::Andrea Kienle:::Erfolgsfaktoren bei der Einführung von Wissensmanagementsystemen in die Praxis.
+journals/insk/HildebrandR96:::Knut Hildebrand::Jan-Armin Reepmeyer:::Repeat-Statement considered harmful? Ergebnisse einer empirischen Untersuchung.
+journals/insk/Mehlhorn78:::Kurt Mehlhorn:::Effiziente Algorithmen: Ein Beispiel.
+journals/insk/BulinS84:::Kurt Bulin::Rudolf Schragl:::Session-Synchronisationsfunktionen für die Kommunikation zweier Anwendungsinstanzen in offenen Systemen.
+journals/insk/Wilhelm79:::Reinhard Wilhelm:::Attributierte Grammatiken.
+journals/insk/Drachenfels97:::Heiko von Drachenfels:::Eine Definitionssprache für die Kommunikationsverbindungen in verteilten Automatisierungssystemen.
+journals/insk/KaiserH81:::W. Kaiser::H. Th. Hagmeyer:::Elektronische Textkommunikation.
+journals/insk/Brauer95a:::Wilfried Brauer:::Ehrung - Wir gratulieren Professor Konrad Zuse!
+journals/insk/Kelter89:::Udo Kelter:::PCTE - Das aktuelle Schlagwort.
+journals/insk/Kelter91:::Udo Kelter:::CASE - Das aktuelle Schlagwort.
+journals/insk/Yachida83:::Masahiko Yachida:::Rechnergestützte Sichtsysteme und ihre Bedeutung für die Automatisierung: eine Darstellung aus japanischer Sicht.
+journals/insk/Kruckeberg88:::Fritz Krückeberg:::Ehrungen - Editorial.
+journals/insk/Kruckeberg89:::Fritz Krückeberg:::20 Jahre GI.
+journals/insk/Kolla00:::Reiner Kolla:::Technology Binding.
+journals/insk/Langmaack02:::Hans Langmaack:::Klaus Samelsons frühe Beitraege zur Informatikentwicklung - Historische Notiz.
+journals/insk/Rothe02:::Jörg Rothe:::Kryptographische Protokolle und Null-Information.
+journals/insk/Nievergelt90:::Jürg Nievergelt:::Schulbeispiele zur Rekursion - Overflow.
+journals/insk/Nievergelt94:::Jürg Nievergelt:::Das Go-Spiel, Mathematik und Computer - Overflow.
+journals/insk/Nievergelt99:::Jürg Nievergelt:::Zur Diskussion Gestellt: "Roboter programmieren" - ein Kinderspiel, Bewegt sich auch etwas in der Allgemeinbildung?
+journals/insk/Wedekind88:::Hartmut Wedekind:::Die Problematik des Computer Integrated Manufacturing (CIM), Zu den Grundlagen eines strapazierten Begriffs.
+journals/insk/Pierer94a:::Heinrich von Pierer:::Mit Informationstechnik Wirtschaft und Gesellschaft leistungsfähiger machen, Eröffnungsrede auf dem IFIP-Kongreß Hamburg.
+journals/insk/Engesser03b:::Hermann Engesser:::Magna Charta?
+journals/insk/Bauer92a:::Friedrich L. Bauer:::Ries und Schickard - Historische Notiz.
+journals/insk/Bauer98a:::Friedrich L. Bauer:::Zuse, Aiken und der einschrittige Übertrag - Historische Notizen.
+journals/insk/Bauer99a:::Friedrich L. Bauer:::Intuitionismus und Informatik - Historische Notizen.
+journals/insk/PichlerPW02:::Josef Pichler::Reinhold Plösch::Rainer Weinreich:::MASIF und FIPA: Standards für Agenten - Übersicht und Anwendung.
+journals/insk/GrosspietschV86:::Karl-Erwin Großpietsch::Udo Voges:::Methoden der Fehlerbehandlung.
+journals/insk/BarthCCNRRRSS91:::Gerhard Barth::Thomas Christaller::Armin B. Cremers::Bernd Neumann::Franz Josef Radermacher::Bernd Radig::Michael M. Richter::Jörg H. Siekmann::Werner von Seelen:::Künstliche Intelligenz - Perspektiven einer wissenschaftlichen Disziplin und Realisierungsmöglichkeiten.
+journals/insk/FehlingJ99:::Georg Fehling::Bernd Jahnke:::Wirtschaftsinformatik und Ethik - Komplementarität oder Konkurrenz? (Zur Diskussion Gestellt).
+journals/insk/ReichertNH00:::Raimond Reichert::Jürg Nievergelt::Werner Hartmann:::Ein spielerischer Einstieg in die Programmierung mit Java, Kara to Java - erste Schritte beim Programmieren.
+journals/insk/Bartsch00:::Michael Bartsch:::Qualitätssicherung für Software durch Vertragsgestaltung und Vertragsmanagement.
+journals/insk/Teege01:::Gunnar Teege:::Geodaten im Internet - Ein Überblick.
+journals/insk/Spies85:::Peter Paul Spies:::No-wait-send/Rendezvous - Das aktuelle Schlagwort.
+journals/insk/Jablonski95:::Stefan Jablonski:::Workflow-Management-Systeme: Motivation, Modellierung, Architektur

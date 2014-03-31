@@ -1,0 +1,200 @@
+conf/lcn/DaiPA02:::Jinquan Dai::Hung Keng Pung::Touchai Angchuan:::QROUTE: An Integrated Framework for QoS-Guaranteed Multicast.
+conf/lcn/YuangLS94:::Maria C. Yuang::Jen-Chu Liu::C. L. Shay:::BATS: A High-Performance Transport System for Broadband Applications.
+conf/lcn/FujiiTHMG97:::Hiroyuki Fujii::Shigeaki Tanimoto::Takeo Hariu::Hirohisa Miyashiro::Linda Galasso:::An Experimental Study of Logical Office service over International ATM Networks.
+conf/lcn/SabbouhPT98:::Marwan Sabbouh::Kanti Prasad::William Thompson III:::Replication in an Object-Oriented System.
+conf/lcn/TamuraTT98:::Yosuke Tamura::Yoshito Tobe::Hideyuki Tokuda:::EFR: A Retransmit Scheme for TCP in Wireless LANs.
+conf/lcn/MartiniO95:::Peter Martini::Jörg Ottensmeyer:::Real-time communication in the demand-priority LAN-the effects on normal priority traffic.
+conf/lcn/BaumgartnerBB02:::Florian Baumgartner::Torsten Braun::Bharat K. Bhargava:::Virtual Routers: A Tool for Emulating IP Routers.
+conf/lcn/KhalilB00:::Ibrahim Khalil::Torsten Braun:::Implementation of a Bandwidth Broker for Dynamic End-to-End Resource Reservation in Outsourced Virtual Private Networks.
+conf/lcn/JungS03:::Jean-Pierre Jung::Ibrahima Sakho:::A Methodology for Devising Optimal All-port All-to-all Broadcast Algorithms in 2-Dimensional Tori.
+conf/lcn/Jagannathan02a:::S. Jagannathan:::End to End Congestion Control in High-Speed Networks.
+conf/lcn/LiangHM01:::Zhengang Liang::Hossam S. Hassanein::Patrick Martin:::Transparent Distributed Web Caching.
+conf/lcn/AtwoodGT99:::J. William Atwood::Morteza Ghodrat::Dariusz Tasak:::Using Formal Specification and Observers to Specify and Validate the ATM Signaling Protocols.
+conf/lcn/SheuL97:::Pi-Rong Sheu::Charng-Maw Lin:::A fast optimal slot reuse scheme for CRMA high speed networks.
+conf/lcn/ChristensenML98:::Kenneth J. Christensen::M. Molle::S. Li:::Comparison of the Gigabit Ethernet Full-Duplex Repeater, CSMA/CD, and 1000/100-Mbps Switched Ethernet.
+conf/lcn/ChristensenNS94:::Kenneth J. Christensen::Franc Noel::Norman C. Strole:::Emerging Trends - Full-Duplex and the Switched LAN.
+conf/lcn/ShyyR00:::Dong-Jye Shyy::Bijan Rohani:::Indoor Location Technique for 2G and 3G Cellular/PCS Networks.
+conf/lcn/Borsos01:::Tamás Borsos:::On the Temporal Characteristics of Video Traffic.
+conf/lcn/HarjuKLSKRWFO00:::Jarmo Harju::Yevgeni Koucheryavy::Juha Laine::Sampo Saaristo::K. Kilkki::Jussi Ruutu::H. Waris::Juha Forsten::J. Oinonen:::Performance Measurements and Analysis of TCP Flows in a Differentiated Services WAN.
+conf/lcn/GoyalJV98:::Rohit Goyal::Raj Jain::Sonia Fahmy::Bobby Vandalore:::Providing Rate Guarantees to TCP over the ATM GFR Service.
+conf/lcn/Strayer96:::W. Timothy Strayer:::A Class-Chest for Deriving Transport Protocols.
+conf/lcn/HsiehL03:::Cheng-Yu Hsieh::Wanjiun Liao:::All Optical Multicast Routing in Sparse-Splitting Optical Networks.
+conf/lcn/MarcoCC03:::Alessandro Di Marco::Giovanni Chiola::Giuseppe Ciaccio:::Using a Gigabit Ethernet Cluster as a Distributed Disk Array with Multiple Fault Tolerance.
+conf/lcn/LiuJCR03:::Bao Hua Liu::Sanjay K. Jha::Chun Tung Chou::Pradeep Ray:::Optimized Allocation of Distributed Applications Across Local Area Networks.
+conf/lcn/LiuLCY95:::J. G. Liu::Jen-Chu Liu::Yu G. Chen::Maria C. Yuang:::DMTS: a distributed multimedia teleworking system.
+conf/lcn/WittenbergM94:::Ralf Wittenberg::Peter Martini:::Measurements in an FDDI Workstation Cluster.
+conf/lcn/RiesenM03:::Rolf Riesen::Arthur B. Maccabe:::Simple, Scalable Protocols for High-Performance Local Networks.
+conf/lcn/Brustoloni94:::Jose Carlos Brustoloni:::Exposed Buffering and Sub-Datagram Flow Control for ATM LANs.
+conf/lcn/Thurm02:::Bernhard Thurm:::Web Services for Network Management - A Universal Architecture and Its Application to MPLS Network.
+conf/lcn/HwangTM01:::Won-Joo Hwang::Hideki Tode::Koso Murakami:::QoS Based MAC Protocol for the Home Network.
+conf/lcn/VaradharajanSH97:::Vijay Varadharajan::Rajan Shankaran::Michael Hitchens:::Security services and public key infrastructure for ATM networks.
+conf/lcn/KumarD94:::Lakshmana N. Kumar::Christos Douligeris:::The Dynamic 3-Tier Protocol: An Access Remedial Scheme to Control Unfairness in DQDB MANs.
+conf/lcn/MoorsCM94:::Tim Moors::Nathan Clarke::Guven Mercankosk:::Implementing Traffic Shaping.
+conf/lcn/VaradaOS99:::S. Varada::V. Oduol::A. Shelat:::Data Flow and Buffer Management in Multi-Channel Data Link Controller.
+conf/lcn/BraunD01:::Torsten Braun::Marc Danzeisen:::Secure Mobile IP Communication.
+conf/lcn/DempseyZ96:::Bert J. Dempsey::Yangkun Zhang:::Destination Buffering for Low-Bandwidth Audio Transmissions using Redundancy-Based Error Control.
+conf/lcn/EstevePG95:::Manuel Esteve::Carlos Palau::Juan Carlos Guerri:::A synchronization service framework for XTP.
+conf/lcn/DingTP03:::Aijun Ding::Sun-Teck Tan::Gee-Swee Poo:::Blocking Performance Analysis on Adaptive Routing over WDM Networks with Sparse Wavelength Conversion.
+conf/lcn/AlfouzanJ01:::Ibrahim Alfouzan::Anura P. Jayasumana:::Dynamic Reconfiguration of Wavelength-Routed WDM Networks.
+conf/lcn/HussainJ96:::Syed Sohel Hussain::Yih-Chyun Jenq:::Analysis and Optimization of a Banyan-Based ATM Switch by Simulations.
+conf/lcn/HallSCLB97:::James Hall::Roberto Sabatino::Simon Crosby::Ian M. Leslie::Richard Black:::Counting the Cycles: a Comparative Study of NFS Performance over High Speed Networks.
+conf/lcn/BjorkmanLH95:::Nils Björkman::Alexander Latour-Henner::Urban Hansson:::The cell loss process in ATM networks and its impact on quality of service.
+conf/lcn/GuoyingZZ00:::Lu Guoying::Liu Zemin::Zhou Zheng:::Multicast Routing Based on Ant Algorithm for Delay-Bounded and Load-Balancing Traffic.
+conf/lcr/BrezanyCD98:::Peter Brezany::Alok N. Choudhary::Minh Dang:::Language and Compiler Support for Out-of-Core Irregular Applications on Distributed-Memory Multiprocessors.
+conf/lcr/Pratt98:::Terrence W. Pratt:::Design of the GODIVA Performance Measurement System.
+conf/lcr/LoyallBSZKVA98:::Joseph P. Loyall::David E. Bakken::Richard E. Schantz::John A. Zinky::David A. Karr::Rodrigo Vanegas::Kenneth R. Anderson:::QoS Aspect Languages and Their Runtime Integration.
+conf/lcr/FengY98:::Ming-Dong Feng::Chung-Kwong Yuen:::Detection of Races and Control-Flow Nondeterminism.
+conf/lcr/OBoyle98:::Michael F. P. O'Boyle:::MARS: A Distributed Memory Approach to Shared Memory Compilation.
+conf/lfp/ChenHO92:::Kung Chen::Paul Hudak::Martin Odersky:::Parametric Type Classes.
+conf/lfp/Greenberg80:::B. Greenberg:::Prose and CONS - Multics Emacs: A Commercial Text-processing System in LISP.
+conf/lfp/Wadler84:::Philip Wadler:::Listlessness is Better than Laziness: Lazy Evaluation and Garbage Collection at Compile Time.
+conf/lfp/MohrKH90:::Eric Mohr::David A. Kranz::Robert H. Halstead Jr.:::Lazy Task Creation: A Technique for Increasing the Granularity of Parallel Programs.
+conf/lfp/Consel90:::Charles Consel:::Binding Time Analysis for High Order Untyped Functional Languages.
+conf/lfp/GiffordL86:::David K. Gifford::John M. Lucassen:::Integrating Functional and Imperative Programming.
+conf/lfp/Remy92:::Didier Rémy:::Projective ML.
+conf/lfp/Thatte86:::Satish R. Thatte:::Towards a Semantic Theory for Equational Programming Languages.
+conf/lfp/Thatte94:::Satish R. Thatte:::Semantics of Type Classes Revisited.
+conf/lfp/Bondorf92:::Anders Bondorf:::Improving Binding Times Without Explicit CPS-Conversion.
+conf/lfp/NielsonN92:::Flemming Nielson::Hanne Riis Nielson:::Finiteness Conditions for Fixed Point Iteration.
+conf/lfp/StefanescuZ94:::Dan C. Stefanescu::Yuli Zhou:::An Equational Framework for the Flow Analysis of Higher Order Functional Programs.
+conf/lfp/MorrisS80:::L. Morris::J. Schwarz:::Computing Cyclic List Structures.
+conf/lfp/CurtisR90:::Pavel Curtis::James Rauen:::A Module System for Scheme.
+conf/lfp/TolmachA90:::Andrew P. Tolmach::Andrew W. Appel:::Debugging Standard ML Without Reverse Engineering.
+conf/lfp/Tolmach94:::Andrew P. Tolmach:::Tag-Free Garbage Collection Using Explicit Type Parameters.
+conf/lfp/AlbergaBMDP86:::Cyril N. Alberga::Chris Bosman-Clark::Martin Mikelsons::Mary S. Van Deusen::Julian A. Padget:::Experience with an Uncommon LISP.
+conf/lfp/GrissBM82:::Martin L. Griss::Eric Benson::Gerald Q. Maguire Jr.:::PSL: A Portable LISP System.
+conf/lfp/Dannenberg84:::Roger B. Dannenberg:::Arctic: A Functional Language for Real-Time Control.
+conf/lfp/Lakin80:::Fred Lakin:::Computing with Text-Graphics Forms.
+conf/lfp/Gomard90:::Carsten K. Gomard:::Partial Type Inference for Untyped Functional Programs.
+conf/lfp/Bellegarde84:::Françoise Bellegarde:::Rewriting Systems on FP Expressions that Reduce the Number of Sequences They Yield.
+conf/lfp/ChuangG92:::Tyng-Ruey Chuang::Benjamin Goldberg:::A Syntactic Approach to Fixed Point Computation on Finite Domains.
+conf/lfp/ShaoRA94:::Zhong Shao::John H. Reppy::Andrew W. Appel:::Unrolling Lists.
+conf/lfp/Maranget92:::Luc Maranget:::Compiling Lazy Pattern Matching.
+conf/lfp/ClarkeGMN80:::T. J. W. Clarke::P. Gladstone::C. MacLean::A. C. Norman:::SKIM - The S, K, I Reduction Machine.
+conf/lfp/DraghicescuP90:::M. Draghicescu::S. Purushothaman:::A Compositional Analysis of Evaluation-Order and Its Application.
+conf/lfp/StefanovicM94:::Darko Stefanovic::J. Eliot B. Moss:::Characterization of Object Behaviour in Standard ML of New Jersey.
+conf/lfp/BatesDF84:::Raymond L. Bates::David Dyer::Mark Feber:::Recent Developments in ISI-Interlisp.
+conf/lfp/DoschM84:::Walter Dosch::Bernhard Möller:::Busy and Lazy FP with Infinite Objects.
+conf/lfp/LawallD94:::Julia L. Lawall::Olivier Danvy:::Continuation-Based Partial Evaluation.
+conf/lfp/FelleisenWFD88:::Matthias Felleisen::Mitchell Wand::Daniel P. Friedman::Bruce F. Duba:::Abstract Continuations: A Mathematical Semantics for Handling Full Jumps.
+conf/lfp/Dawson82:::Jeffrey L. Dawson:::Improved Effectiveness from a Real Time Lisp Garbage Collector.
+conf/lfp/ClementDDK86:::Dominique Clément::Joëlle Despeyroux::Th. Despeyroux::Gilles Kahn:::A Simple Applicative Language: Mini-ML.
+conf/lfp/McKayS80:::Donald P. McKay::Stuart C. Shapiro:::MULTI - A LISP Based Multiprocessing System.
+conf/lfp/MuchnickP80:::Steven S. Muchnick::Uwe F. Pleban:::A Semantic Comparison of LISP and Scheme.
+conf/lfp/BoehmCRO86:::Hans-Juergen Boehm::Robert Cartwright::Mark Riggle::Michael J. O'Donnell:::Exact Real Arithmetic: A Case Study in Higher Order Programming.
+conf/lid/KeroT96:::Bob Kero::Shalom Tsur:::The IQ System: A Deductive Database Information Lens for Reasoning about Textual Information.
+conf/lid/JakobovitsV96:::Hadassa Jakobovits::Dirk Vermeir:::R-Stable Models for Logic Programs.
+conf/lid/SubrahmanianW96:::V. S. Subrahmanian::Charlie Ward:::A Deductive Database Approach to Planning in Uncertain Environments.
+conf/lll/Kazakov99:::Dimitar Kazakov:::Achievements and Prospects of Learning Word Morphology with Inductive Logic Programming.
+conf/lll/CussensP99:::James Cussens::Stephen G. Pulman:::Experiments in Inductive Chart Parsing.
+conf/mas/PaoliSK98:::Flavio De Paoli::André L. M. dos Santos::Richard A. Kemmerer:::Web Browsers and Security.
+conf/mas/GrayKCR98:::Robert S. Gray::David Kotz::George Cybenko::Daniela Rus:::D'Agents: Security in a Multiple-Language, Mobile-Agent System.
+conf/mda/Chlamtac99:::Imrich Chlamtac:::Integrating Mobile Objects into the Wirelessly Wired World: The Need for Energy Efficient Algorithms (Abstract).
+conf/mda/KurodaSWM99:::Masahiro Kuroda::Takashi Sakakura::Takashi Watanabe::Tadanori Mizuno:::An Autonomous Data Coherency Protocol for Mobile Devices.
+conf/mda/MutafungwaK99:::Edward Mutafungwa::Kamugisha Kazaura:::Assessing Opportunities for Broadband Optical Wireless Local Loops in an Unbundled Access Network.
+conf/mda/LeiLBT99:::Hui Lei::Kang-Woo Lee::Marion Blount::Carl D. Tait:::Enabling Ubiquitous Database Access with XML.
+conf/mcm/MerdesL02:::Matthias Merdes::Gunter Laux:::Towards Mobile Computing in Transplantation Medicine.
+conf/mcm/Koop02:::Andreas Koop:::Lessons learned from 16 years usage of mobile computers in clinical trials.
+conf/mcm/SackmannEM02:::Stefan Sackmann::Torsten Eymann::Günter Müller:::EMIKA - Real-Time Controlled Mobile Information Systems in Health Care Applications.
+conf/mcm/SchweitzerESBM02:::Tilman Schweitzer::Uwe Engelmann::Andre Schröter::Erik Boraelv::Hans-Peter Meinzer:::Teleradiology on a Personal Digital Assistant.
+conf/mcm/KrollML02:::Michael Kroll::Kay Melzer::Hans-Gerd Lipinski:::Accessing DICOM 2D/3D-Image and Waveform Data on Mobile Devices.
+conf/mcm/Darabi02:::Kambiz Darabi:::m-doc: mobile solution for hospitals.
+conf/mcs/CohenI02:::Shimon Cohen::Nathan Intrator:::Forward and Backward Selection in Regression Hybrid Network.
+conf/mcs/KittlerAW03:::Josef Kittler::Alireza Ahmadyfard::David Windridge:::Serial Multiple Classifier Systems Exploiting a Coarse to Fine Output Coding.
+conf/mcs/AyadK03:::Hanan Ayad::Mohamed S. Kamel:::Finding Natural Clusters Using Multi-clusterer Combiner Based on Shared Nearest Neighbors.
+conf/mcs/ChenL01:::Dechang Chen::Jian Liu:::Averaging Weak Classifiers.
+conf/mcs/Kuncheva03:::Ludmila Kuncheva:::Error Bounds for Aggressive and Conservative AdaBoost.
+conf/mcs/CaprileFM02:::Bruno Caprile::Cesare Furlanello::Stefano Merler:::Highlighting Hard Patterns via AdaBoost Weights Evolution.
+conf/mcs/WindridgeK02:::David Windridge::Josef Kittler:::On the General Application of the Tomographic Classifier Fusion Methodology.
+conf/mcs/DuinT00:::Robert P. W. Duin::David M. J. Tax:::Experiments with Classifier Combining Rules.
+conf/mcs/Windeatt00:::Terry Windeatt:::Classifier Instability and Partitioning.
+conf/mcs/BaykutE03:::Alper Baykut::Aytül Erçil:::Towards Automated Classifier Combination for Pattern Recognition.
+conf/mcs/MerlerFLS01:::Stefano Merler::Cesare Furlanello::Barbara Larcher::Andrea Sboner:::Tuning Cost-Sensitive Boosting and Its Application to Melanoma Diagnosis.
+conf/mcs/OzaTTH03:::Nikunj C. Oza::Kagan Tumer::Irem Y. Tumer::Edward M. Huff:::Classification of Aircraft Maneuvers for Fault Detection.
+conf/mcs/SkurichinaD01:::Marina Skurichina::Robert P. W. Duin:::Bagging and the Random Subspace Method for Redundant Feature Spaces.
+conf/mcs/KamelW03:::Mohamed S. Kamel::Nayer M. Wanas:::Data Dependence in Combining Classifiers.
+conf/mcu/MutyamK01:::Mutyam Madhu::Kamala Krithivasan:::P Systems with Membrane Creation: Universality and Efficiency.
+conf/mcu/ZandronFM01:::Claudio Zandron::Claudio Ferretti::Giancarlo Mauri:::Two Normal Forms for Rewriting P Systems.
+conf/mdm/BiswasHW02:::Prabuddha Biswas::Song Han::Jing Wu:::Location Caching in the Mobile Middleware Platform.
+conf/mdm/PengC02:::Wen-Chih Peng::Ming-Syan Chen:::Allocation of Shared Data Based on Mobile User Movement.
+conf/mdm/HsuLC02:::Chih-Hao Hsu::Guanling Lee::Arbee L. P. Chen:::Index and Data Allocation on Multiple Broadcast Channels Considering Data Access Frequencies.
+conf/mdm/BubendorferH03:::Kris Bubendorfer::John H. Hine:::Nomad: Application Participation in a Global Location Service.
+conf/mdm/TangKCR01:::Haitao Tang::Mari Korkea-aho::Jose Costa-Requena::Jussi Ruuthu:::Serving Spatial Location Information over the Internet.
+conf/mdm/HallerSS03:::Klaus Haller::Heiko Schuldt::Hans-Jörg Schek:::Transactional Peer-to-Peer Information Processing: The AMOR Approach.
+conf/mdm/HongKGGP01:::Xiaoyan Hong::Taek Jin Kwon::Mario Gerla::Daniel Lihui Gu::Guangyu Pei:::A Mobility Framework for Ad Hoc Wireless Networks.
+conf/mdm/MyllymakiK03:::Jussi Myllymaki::James Kaufman:::DynaMark: A Benchmark for Dynamic Spatial Indexing.
+conf/mdm/LeeLS02:::Ken C. K. Lee::Hong Va Leong::Antonio Si:::Semantic Data Access in an Asymmetric Mobile Environment.
+conf/mdm/PramudionoSTK02:::Iko Pramudiono::Takahiko Shintani::Katsumi Takahashi::Masaru Kitsuregawa:::User Behavior Analysis of Location Aware Search Engine.
+conf/mdm/SongR01:::Zhexuan Song::Nick Roussopoulos:::Hashing Moving Objects.
+conf/mdm/Jensen02:::Christian S. Jensen:::Research Challenges in Location-Enabled M-Services.
+conf/mdm/WangKDS03:::Zhijun Wang::Mohan Kumar::Sajal K. Das::Huaping Shen:::Investigation of Cache Maintenance Strategies for Multi-cell Environments.
+conf/mdm/YanagisawaAS03:::Yutaka Yanagisawa::Jun-ichi Akahani::Tetsuji Satoh:::Shape-Based Similarity Query for Trajectory of Mobile Objects.
+conf/mdm/NzamaNZ01:::Mqhele Nzama::Alexander Ng::Arkady B. Zaslavsky:::Adaptive Delivery of Multimedia Data in Heterogeneous and Mobile Environments.
+conf/mdm/ChangC02:::Sidney Chang::Dorothy Curtis:::An Approach to Disconnected Operation in an Object-Oriented Database.
+conf/lpe/HanusJ92:::Michael Hanus::Berthold Josephs:::A Debugging Model for Functional Logic Programs.
+conf/lpe/BecksteinT92:::Clemens Beckstein::Gerhard Tobermann:::Evolutionary Logic Programming with RISC.
+conf/lpe/FergusonSY93:::Don Ferguson::Georges Saab::L. Ümit Yalçinalp:::Quintus WorkPro Programming Enviroment: A Glue for Building Business Applications.
+conf/lpe/LefebvreC93:::P. Lefèbvre::Eric Villemonte de la Clergerie:::How to build quickly an efficient implementation of the domain Prop with DyALog.
+conf/lpe/VaupelPG97:::Rick Vaupel::Enrico Pontelli::Gopal Gupta:::VACE: A Tool for Visualization of And-Or Parallel Execution.
+conf/lpe/MalletD97:::Sarah Mallet::Mireille Ducassé:::Generating DDB Trees (Abstract).
+conf/lpe/Rueher91:::Michel Rueher:::Revisiting Capabilities of Graphic for Logic Programming.
+conf/lop/Parikh81:::Rohit Parikh:::Some Applications of Topology to Program Semantics.
+conf/lop/MannaP81:::Zohar Manna::Amir Pnueli:::Verification of Concurrent Programs: Temporal Proof Principles.
+conf/lop/JanssenB81:::Theo M. V. Janssen::Peter van Emde Boas:::Some Observations on Compositional Semantics.
+conf/lop/Roever81:::Willem P. de Roever:::A Formalism for Reasoning about Fair Termination.
+conf/lop/GoguenB83:::Joseph A. Goguen::Rod M. Burstall:::Introducing Institutions.
+conf/lop/Pratt81:::Vaughan R. Pratt:::Using Graphs to Understand PDL.
+conf/lop/Grabowski85:::Michal Grabowski:::On the Relative Incompleteness of Logics for Total Correctness.
+conf/lop/Brookes85:::Stephen D. Brookes:::An Axiomatic Treatment of a Parallel Programming Language.
+conf/lop/Cartwright83:::Robert Cartwright:::Non-Standard Fixed Points in First Order Logic.
+conf/mic/KokkoLH03:::Tero Kokko::P. Lautala::T. Huhtelin:::Control of Paper Moisture using Impingement Drying.
+conf/mic/SilvennoinenAB03:::Jukka Silvennoinen::Vichit Avatchanakorn::Dencho Batanov:::Model for Content Delivery in Mobile Internet Services.
+conf/mic/DayanBSZZ03:::Joshua Dayan::V. Brion::A. Shavit::Y. Zimmels::D. Zvegilsky:::Simulation of a Two-chamber Catalytic Organic- Waste/Coal Gasifier.
+conf/mic/Woods03:::J. C. Woods:::Spatial and Temporal Stability of Hierarchically Segmented Regions for use as Conjugate Pairs in the Estimation of Depth and Tracking.
+conf/mic/BruzzoneMZ03:::Luca E. Bruzzone::R. M. Molfino::M. Zoppi:::A Discrete Event Simulation Package for Modular and Adaptive Assembly Plants.
+conf/mic/DahlW03:::Magnus Dahl::David I. Wilson:::Modelling Salt Transport in Baltic Basins.
+conf/mic/SkrjancBRM03:::Igor Skrjanc::Saso Blazic::J. Richalet::Drago Matko:::Multivariable Predictive Control of Air Conditioning Plant.
+conf/mic/Ramirez-RosadoF03:::Ignacio J. Ramírez-Rosado::Luis A. Fernández-Jiménez:::Next-day Wind Park Electric Energy Generation Forecasting using Fuzzy Time-series.
+conf/mic/YamadaNY03:::Kou Yamada::Kouji Nitta::Atsuyuki Yuzawa:::A Nonlinear Control Design for the Pendubot.
+conf/mic/BruzzoneMZZ03:::Luca E. Bruzzone::R. M. Molfino::M. Zoppi::G. Zurlo:::The PRIDE Prototype: Control Layout of a Parallel Robot for Assembly Tasks.
+conf/mic/GholipourAAL03:::Ali Gholipour::Ali Abbaspour::Babak Nadjar Araabi::Caro Lucas:::Enhancements in the Prediction of Solar Activity by Locally Linear Model Tree.
+conf/mic/Bayoumi03:::Ehab H. E. Bayoumi:::A Simplified Method for Controlling DC-DC Converters using Sliding Mode Control.
+conf/mic/TagamiIK03:::Takanori Tagami::Kenji Ikeda::Tohru Kawabe:::Design of Robust I-PD Controller based on Paretooptimality: Comparison with Generalized ISE.
+conf/mic/GarciaMJSV03:::Alain Cesar González Garcia::A. R. Hernández M.::J. Moreno J.::D. González S.::J. M. Hernández V.:::Harmonic Analysis of a Modulate Amplitude Signal using the Wavelet Transforms.
+conf/mic/Sarhan03:::Mohammed Sarhan:::On the Heat Equation Output and State Estimation.
+conf/mic/PutchaH03:::Chandra S. Putcha::James A. Hodgdon:::Derivation of Differential Equations of Motion for Three-segment and Four-segment Human Locomotive Models using Free-body Diagrams.
+conf/mic/HuangH03:::Ying-Fang Huang::Li-Chu Hung:::A Note on Trade-offs-free Management.
+conf/mic/GarciaSJVM03:::Alain Cesar González Garcia::D. González S.::J. Moreno J.::J. M. Hernández V.::A. R. Hernández M.:::Digital Processing of U Signal.
+conf/mic/ThompsonWSHM03:::Gregory J. Thompson::Zenovy S. Wowczuk::James E. Smith::Wade W. Huebsch::Victor H. Mucino:::Numerical Modeling of School Bus Crash Scenarios.
+conf/mic/ChancaGHM03:::Alicia Corrales Chanca::Roberto Arnánz Gómez::Antonio Mendoza Hernández::Luis Javier de Miguel:::A Simulation of a Matrix Converter with Variable Input Frequency.
+conf/ltc/Hilpinen89:::Risto Hilpinen:::Inquiry, argumentation and knowledge.
+conf/lso/LewerentzRS01:::Claus Lewerentz::Heinrich Rust::Frank Simon:::A Model for Analyzing Measurement Based Feedback Loops in Software Development Projects.
+conf/lso/Henninger01:::Scott Henninger:::Organizational Learning in Dynamic Domains.
+conf/lso/Segal01:::Judith Segal:::Organisational Learning and Software Process Improvement: A Case Study.
+conf/lso/Trittmann01:::Ralph Trittmann:::The Organic and the Mechanistic Form of Managing Knowledge in Software Development.
+conf/mis/Suss98:::Henrike Süß:::A Flexible Architecture for the Integration of Media Servers and Databases.
+conf/mis/MarescaAGD03:::Paolo Maresca::A. Arndt::Angela Guercio::Pasquale Donadio:::A Visual Editor for Multimedia Document Management based on the TAO-XML Paradigm.
+conf/mis/LuiCST98:::John C. S. Lui::M. F. Chan::Oldfield K. Y. So::T. S. Tam:::Balancing Workload and Communication Cost for a Distributed Virtual Environment.
+conf/mis/HerstelSS03:::Thomas Herstel::Nadine Schulz::Ingo Schmitt:::Storing Scene Graphs in Object Relational Databases.
+conf/mis/CataniaL02:::Barbara Catania::Zoé Lacroix:::Querying Design Data in a Constraint Database.
+conf/mis/NastarMBMBM98:::Chahab Nastar::Matthias Mitschke::Nozha Boujemaa::Christophe Meilhac::Hélène Bernard::Marc Mautref:::Retrieving Images by Content: The Surfimage System.
+conf/mis/MahalingamC01:::Lakshmi Priya Mahalingam::K. Selçuk Candan:::Query Optimization in the Presence of Top-k Predicates.
+conf/mis/Tripathi98:::Satish K. Tripathi:::Quality of Service Support for Multimedia Data on Internet (Abstract).
+conf/mis/SaykolGU01:::Ediz Saykol::Ugur Güdükbay::Özgür Ulusoy:::A Semi-Automatic Object Extraction Tool for Querying in Multimedia Databases.
+conf/naa/Chen96:::Tien Chi Chen:::Convergence in Iterative Polynominal Root-Finding.
+conf/naa/MastronardiDH00:::Nicola Mastronardi::Paul Van Dooren::Sabine Van Huffel:::On the Stability of the Generalized Schur Algorithm.
+conf/naa/HoppePS00:::Ronald H. W. Hoppe::Svetozara Petrova::Volker H. Schulz:::Topology Optimization of Conductive Media Described by Maxwell's Equations.
+conf/naa/Kolkovska96:::Natalia Kolkovska:::Numerical Methods for Compuation of the Double Layer Logarithmic Potential.
+conf/naa/TselishchevaS00:::Irina V. Tselishcheva::Grigorii I. Shishkin:::A Domain Decomposition Finite Difference Method for Singularly Perturbed Elliptic Equations in Composed Domains.
+conf/naa/ZhelevaKDR96:::I. Zheleva::V. Kambourova::P. Dimitrov::R. Rusev:::Numerical Algorithm for Studying Heat-Transfer in a Glass Melting Furnace.
+conf/naa/PapakaliatakisS96:::G. Papakaliatakis::Tom E. Simos:::Integration of Some Constitutive Relations of Plain Strain Alastoplasticity Using Modified Runge-Kutta Methods.
+conf/naa/MeskauskasI96:::Tadas Meskauskas::Feliksas Ivanauskas:::Justification of Difference Schemes for Derivative Nonlinear Evolution Equations.
+conf/naa/PaprzyckiK96:::Marcin Paprzycki::Andreas Karageorghis:::High Performance Solution of Linear Systems Arising from Conforming Spectral Approximations for Non-Conforming Domain Decompositions.
+conf/naa/AmodioM96:::Pierluigi Amodio::Francesca Mazzia:::Parallel Iterative Solvers for Banded Linear Systems.
+conf/naa/BergamaschiZ00:::Luca Bergamaschi::Giovanni Zilli:::Inexact Newton Methods and Mixed Nonlinear Complementary Problems.
+conf/naa/BlanesCR00:::Sergio Blanes::Fernando Casas::José Ros:::New Families of Symplectic Runge-Kutta-Nyström Integration Methods.
+conf/naa/KaschievK96:::Michael S. Kaschiev::D. Koulova-Nenova:::Newton's Method for Solution of One Complex Eigenvalue Problem.
+conf/naa/DimovK96:::Ivan Dimov::A. N. Karaivanova:::Iterative Monte Carlo Algorithms for Linear Algebra Problems.
+conf/naa/Kucaba-Pietal00:::Anna Kucaba-Pietal:::Application of Boundary Collocation Method in Fluid Mechanics to Stokes Flow Problems.
+conf/naa/HemkerSS00:::P. W. Hemker::Grigorii I. Shishkin::Lidia P. Shishkina:::Acceleration by Parallel Computations of Solving High-Order Time-Accurate Difference Schemes for Singularly Perturbed Convection-Diffusion Problems.
+conf/mkm/Coen03:::Claudio Sacerdoti Coen:::From Proof-Assistants to Distributed Libraries of Mathematics: Tips and Pitfalls.

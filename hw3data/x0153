@@ -1,0 +1,200 @@
+conf/infocom/BasuMK96:::Sabyasachi Basu::Amarnath Mukherjee::Steve Klivansky:::Time Series Models for Internet Traffic.
+conf/infocom/IvancicWRRS02:::Will Ivancic::David Wagner::Aviel D. Rubin::Paul Ratazzi::James P. G. Sterbenz:::Securing Wireless and Mobile Networks - Is It Possible?
+conf/infocom/KitamiT90:::Tokuhiro Kitami::Ikuo Tokizawa:::Cell Loss Compensation Schemes Employing Error Correction Coding for Asynchronous Broadband ISDN.
+conf/infocom/Dravida92:::Subrahmanyam Dravida:::Error Control Aspects of High Speed Networks.
+conf/infocom/LoguinovR02a:::Dmitri Loguinov::Hayder Radha:::End-to-End Internet Video Traffic Dynamics: Statistical Study and Analysis.
+conf/infocom/FangS91:::Chien Fang::Ted H. Szymanski:::An Analysis of Deflection Routing in Multi-dimensional Regular Mesh Networks.
+conf/infocom/KovacevicGB94:::Milan Kovacevic::Mario Gerla::Joseph A. Bannister:::On the Performance of Shared-Channel Multihop Lightwave Networks.
+conf/infocom/OrdaRS93:::Ariel Orda::Raphael Rom::Nahum Shimkin:::Competitive Routing in Multi-User Communication Networks.
+conf/infocom/ZhouA94:::Bin Zhou::Mohammed Atiquzzaman:::Performance of Output-Multibuffered Multistage Interconnection Networks Under General Traffic Patterns.
+conf/infocom/BusariW01:::Mudashiru Busari::Carey L. Williamson:::On the Sensitivity of Web Proxy Cache Performance to Workload Characteristics.
+conf/infocom/BorstW01:::Sem C. Borst::Phil Whiting:::Dynamic Rate Control Algorithms for CDMA Throughput Optimization.
+conf/infocom/LiebeherrPB03:::Jörg Liebeherr::Stephen D. Patek::Almut Burchard:::Statistical Per-Flow Service Bounds in a Network with Aggregate Provisioning.
+conf/infocom/SibalPV95:::Sandeep Sibal::Kavitha Parthasarathy::Kenneth S. Vastola:::Sensing the State of Voice Sources to Improve Multiplexer Performance.
+conf/infocom/MarkL90:::Jon W. Mark::Byoung-Joon Lee:::A Dual-Ring LAN for Integrated Voice/Video/Data Services.
+conf/infocom/GuerinO97:::Roch Guérin::Ariel Orda:::QoS-based Routing in Networks with Inaccurate Information: Theory and Algorithms.
+conf/infocom/KarbhariZA03:::Pradnya Karbhari::Ellen W. Zegura::Mostafa H. Ammar:::Multipoint-to-Point Session Fairness in the Internet.
+conf/infocom/ChoudhuryH96:::Abhijit K. Choudhury::Ellen L. Hahne:::Dynamic Queue Length Thresholds in a Shared Memory ATM Switch.
+conf/infocom/MelenT89:::Riccardo Melen::Jonathan S. Turner:::Nonblocking Networks for Fast Packet Switching.
+conf/infocom/AmmarR91:::Mostafa H. Ammar::George N. Rouskas:::On the Performance of Protocols for Collecting Responses over a Multiple-Access Channel.
+conf/infocom/TangG99:::Zhenyu Tang::J. J. Garcia-Luna-Aceves:::Hop Reservation Multiple Access (HRMA) for Ad-Hoc Networks.
+conf/infocom/TangT99:::Puqi Perry Tang::Tsung-Yuan Charles Tai:::Network Traffic Characterization Using Token Bucket Model.
+conf/infocom/AltmanABQ01:::Eitan Altman::Konstantin Avrachenkov::Chadi Barakat::R. Nunez Queija:::State-dependent M/G/1 Type Queueing Analysis for Congestion Control in Data Networks.
+conf/infocom/GkantsidisMZ03:::Christos Gkantsidis::Milena Mihail::Ellen W. Zegura:::Spectral Analysis of Internet Topologies.
+conf/infocom/MullerNWZBZ90:::Hans R. Müller::Mehdi Nassehi::Johnny W. Wong::Erwin A. Zurfluh::Werner Bux::Pitro Zafiropulo:::DQMA and CRMA: New Access Schemes for Gbit/s LANs and MANs.
+conf/infocom/DimitrijevicMB91:::Dragomir D. Dimitrijevic::Basil S. Maglaris::Robert Boorstyn:::Routing in Multi-Domain Networks.
+conf/infocom/AvritzerGRCK90:::Alberto Avritzer::Mario Gerla::Berthier A. Ribeiro-Neto::Jack W. Carlyle::Walter J. Karplus:::The Advantage of Dynamic Tuning in Distributed Asymmetric Systems.
+conf/infocom/BarryCV01:::Michael G. Barry::Andrew T. Campbell::Andras Veres:::Distributed Control Algorithms for Service Differentiation in Wireless Packet Networks.
+conf/infocom/Marbach02:::Peter Marbach:::Priority Service and Max-Min Fairness.
+conf/infocom/CampbellCGHL93:::Andrew T. Campbell::Geoff Coulson::Francisco Garcia::David Hutchison::Helmut Leopold:::Integrated Quality of Service for Multimedia Communications.
+conf/infocom/DimitrijevicC89:::Dragomir D. Dimitrijevic::Mon-Song Chen:::An Integrated Algorithm for Probabilistic Protocol Verification and Evaluation.
+conf/infocom/SahaMT96:::Debanjan Saha::Sarit Mukherjee::Satish K. Tripathi:::Carry-Over Round Robin: A Simple Cell Scheduling Mechanism for ATM Networks.
+conf/infocom/Labourdette95:::Jean-François P. Labourdette:::Performance Impact of Partial Reconfigurability in Lightwave Networks.
+conf/infocom/GeorgiadisGP94:::Leonidas Georgiadis::Roch Guérin::Abhay K. Parekh:::Optimal Multiplexing on a Single Link: Delay and Buffer Requirements.
+conf/infocom/MeditchL84:::James S. Meditch::Chin-Tau A. Lea:::A Virtual Time CSMA Protocol for Integrated Voice-Data.
+conf/infocom/Sousa89:::Elvino S. Sousa:::On Channel Power Sensing in Terrestrial Spread Spectrum Packet Radio Networks.
+conf/infocom/AddiePZ96:::Ron Addie::Darren Platt::Moshe Zukerman:::Performance of a <i>P<sub>i</sub> </i> Persistent Protocol Subject to Correlated Gaussian Traffic.
+conf/infocom/NelakuditiZT00:::Srihari Nelakuditi::Zhi-Li Zhang::Rose P. Tsang:::Adaptive Proportional Routing: A Localized QoS Routing Approach.
+conf/infocom/TrachtenbergSA02:::Ari Trachtenberg::David Starobinski::Sachin Agarwal:::Fast PDA Synchronization Using Characteristic Polynomial Interpolation.
+conf/infocom/NaorOR95:::Joseph Naor::Ariel Orda::Raphael Rom:::Scheduled Hot-Potato Routing.
+conf/infocom/ChallengerID99:::Jim Challenger::Arun Iyengar::Paul Dantzig:::A Scalable System for Consistently Caching Dynamic Web Data.
+conf/infocom/TakizawaN90:::Makoto Takizawa::Akihito Nakamura:::Partially Ordering Broadcast (PO) Protocol.
+conf/infocom/HolmqvistE83:::Nils Holmqvist::Sven-Olof Eriksson:::Circuit and Packet Switching in Sweden.
+conf/infocom/NewmanLM96:::Peter Newman::Thomas L. Lyon::Greg Minshall:::Flow Labelled IP: A Connectionless Approach to ATM.
+conf/infocom/SemretLCL00:::Nemo Semret::Raymond R.-F. Liao::Andrew T. Campbell::Aurel A. Lazar:::Peering and Provisioning of Differentiated Internet Services.
+conf/infocom/FerrandizL91:::Josep M. Ferrandiz::Aurel A. Lazar:::Admission Control for Real-Time Packet Sessions.
+conf/infocom/BirkK98a:::Yitzhak Birk::Tomer Kol:::Informed-Source Coding-on-Demand (ISCOD) over Broadcast Channels.
+conf/infocom/NaghshinehA95:::Mahmoud Naghshineh::Anthony S. Acampora:::QOS Provisioning in Micro-Cellular Networks Supporting Multimedia Traffic.
+conf/infocom/Spragins92:::John D. Spragins:::Token Ring Reliability Models.
+conf/infocom/XiaoSC01:::Mingbo Xiao::Ness B. Shroff::Edwin K. P. Chong:::Utility-Based Power Control (UBPC) in Cellular Wireless Systems.
+conf/infocom/GaoHH02:::Yuan Gao::Guanghui He::Jennifer C. Hou:::On Exploiting Traffic Predictability in Active Queue Management.
+conf/infocom/XiaoWL94:::Ning Xiao::F. Wu::Shau-Ming Lun:::Dynamic Bandwidth Allocation Using Infinitesimal Perturbation Analysis.
+conf/infocom/GanzG92:::Aura Ganz::Yao Gao:::A Time-Wavelength Assignment Algorithm for a WDM Star Network.
+conf/infocom/GeorgiadisGPS96:::Leonidas Georgiadis::Roch Guérin::Vinod G. J. Peris::Kumar N. Sivarajan:::Efficient Network QoS Provisioning Based on Per Node Traffic Shaping.
+conf/infocom/PingaliTH90:::Sridhar Pingali::David Tipper::Joseph L. Hammond:::The Performance of Adaptive Window Flow Controls in a Dynamic Load Environment.
+conf/infocom/NaorL01:::Zohar Naor::Hanoch Levy:::A Centralized Dynamic Access Probability Protocol for next Genreration Wireless Networks.
+conf/infocom/NaorL98:::Zohar Naor::Hanoch Levy:::Minimizing the Wireless Cost of Tracking Mobile Users: An Adaptive Threshold Scheme.
+conf/infocom/GrossglauserV03:::Matthias Grossglauser::Martin Vetterli:::Locating Nodes with EASE: Mobility Diffusion of Last Encounters in Ad Hoc Networks.
+conf/infocom/MaierSRW02:::Martin Maier::Michael Scheutzow::Martin Reisslein::Adam Wolisz:::Wavelength Reuse for Efficient Transport of Variable-Size Packets in a Metro WDM Network.
+conf/infocom/AcamporaS91:::Anthony S. Acampora::Syed I. A. Shah:::Multihop Lightwave Networks: A Comparison of Store-and-Forward and Hot-Potato Routing.
+conf/infocom/KelleyJBP84:::R. P. Kelley::J. R. Jones::V. J. Bhatt::P. W. Pate:::Transceiver Design and Implementation Experience in an Ethernet-Compatible Fiber Optic Local Area Network.
+conf/infocom/GerlaTG92:::Mario Gerla::Tsung-Yuan Charles Tai::Giorgio Gallassi:::LAN/MAN Interconnection to ATM: A Simulation Study.
+conf/infocom/ZukermanC92:::Moshe Zukerman::Sammy Chan:::Fairness in Broadband ISDN.
+conf/infocom/ElekKR00:::Viktória Elek::Gunnar Karlsson::Robert Rönngren:::Admission Control Based on End-to-End Measurements.
+conf/infocom/PanchapakesanS95:::Geetha Panchapakesan::Abhijit Sengupta:::On Multihop Optical Network Topology Using Kautz Diagraphs.
+conf/infocom/ZhangC96:::Tianning Zhang::Stefan Covaci:::The Semantics of Network Management Information.
+conf/infocom/ZhangD91:::Zhensheng Zhang::Christos Douligeris:::Convergence of Synchronous and Asynchronous Algorithms in Multiclass Networks.
+conf/infocom/ZhangS95:::Tianming Zhang::Arun K. Somani:::DIRSMIN: A Fault-Tolerant Switch for B-ISDN Applications Using Dilated Reduced-Stage MIN.
+conf/infocom/DonahooA01:::Michael J. Donahoo::Sunila R. Ainapure:::Scalable Multicast Representative Member Selection.
+conf/infocom/KamatAZ94:::Sanjay Kamat::Gopal Agrawal::Wei Zhao:::On Available Bandwidth in FDDI-Based Reconfigurable Networks.
+conf/infocom/AndrewsKK99:::Matthew Andrews::Sanjeev Khanna::Krishnan Kumaran:::Integrated Scheduling of Unicast and Multicast Traffic in an Input-Queued Switch.
+conf/infocom/AcamporaSZ92:::Anthony S. Acampora::Syed I. A. Shah::Zhensheng Zhang:::Performance Analysis of Hot-Potato Routing for Multiclass Traffic in Multihop Lightwave Networks.
+conf/infocom/TsaiCG89:::Wei Kang Tsai::Pierce E. Cantrell::Jeffrey Goos:::Fairness of Optimal Routing in Virtual Circuit Data Networks.
+conf/infocom/PsounisP01:::Konstantinos Psounis::Balaji Prabhakar:::A Randomized Web-Cache Replacement Scheme.
+conf/infocom/HelsternI90:::Thomas K. Helstern::Mario Izzo:::Functional Architecture for a Next Generation Switching System.
+conf/infocom/BarbeauSEK89:::Michel Barbeau::Behçet Sarikaya::Srinivas Eswara::Vassilios N. Koukoulidis:::FTAM Test Design Using an Automated Test Tool.
+conf/infocom/AlfonzettiCLB89:::S. Alfonzetti::Salvatore Casale::Alfio Lombardo::G. Bertocchi:::Designing a Gateway Between Teletex and OSI Networks by Means of SDL.
+conf/infocom/CidonHKPRS98:::Israel Cidon::Tony Hsiao::Asad Khamisy::Abhay K. Parekh::Raphael Rom::Moshe Sidi:::OPENET: An Open and Efficient Control Platform for ATM Networks.
+conf/infocom/EynardLLMP95:::Carlo Eynard::M. Lenti::Alfio Lombardo::O. Marengo::Sergio Palazzo:::Performance of Data Querying Operations in Universal Mobile Telecommunication Systems (UMTS).
+conf/infocom/BanerjeeM93:::Subrata Banerjee::Biswanath Mukherjee:::Algorithms for Optimized Node Arrangements in ShuffleNet Based Multihop Lightwave Networks.
+conf/infocom/Brayer84:::Kenneth Brayer:::Autonomous Adaptive Local Area Networking: Ring Communications via Point-To-Point Implementation.
+conf/infocom/CraigKSBP01:::David Craig::Hwangnam Kim::Raghupathy Sivakumar::Vaduvur Bharghavan::Constantine D. Polychronopoulos:::NanoProtean: Scalable System Software for a Gigabit Active Router.
+conf/infocom/GolestaniS99:::S. Jamaloddin Golestani::Krishan K. Sabnani:::Fundamental Observations on Multicast Congestion Control in the Internet.
+conf/infocom/ElwalidM95:::Anwar Elwalid::Debasis Mitra:::Analysis, Approximations and Admission Control of a Multi-Service Multiplexing System with Priorities.
+conf/infocom/ElwalidM99:::Anwar Elwalid::Debasis Mitra:::Design of Generalized Processor Sharing Schedulers Which Statistically Multiplex Heterogeneous QoS Classes.
+conf/infocom/TsaiM90:::Tsong-Ming Tsai::Lazaros F. Merakos:::Interconnection of High Speed Token Ring LANs: A Switch-Connection Approach.
+conf/infocom/Bisdikian94:::Chatschik Bisdikian:::The Random <i>N</i>-Policy.
+conf/infocom/Kameda02:::Hisao Kameda:::How Harmful the Paradox Can Be in the Braess/Cohen-Kelly-Jeffries Networks.
+conf/infocom/Ravindran91:::K. Ravindran:::Correcting Remote References to a Server in Distributed Operating Systems.
+conf/infocom/AbedR02:::Eyad H. Abed::Priya Ranjan:::Nonlinear Instabilities in TCP-RED.
+conf/infocom/JeonKK89:::Whasook Jeon::Chongsang Kim::Dong K. Kim:::Design of a Distributed Isochronous Channel Management Protocol for IEEE 802.6 MAN QPSX.
+conf/infocom/JeongA96:::Gibong Jeong::Ender Ayanoglu:::Comparison of Wavelength-Interchanging and Wavelength-Selective Cross-Connects in Multiwavelength All-Optical Networks.
+conf/infocom/ConleeW83:::K. A. Conlee::R. M. Watts:::BLN Experiences with Transport Layer Algorithms and Protocols.
+conf/infocom/Douligeris92:::Christos Douligeris:::Multiobjective Flow Control in Telecommunication Networks.
+conf/infocom/KalyanasundaramLCS99:::Suresh Kalyanasundaram::Junyi Li::Edwin K. P. Chong::Ness B. Shroff:::Channel Sharing Scheme for Packet-Switched Cellular Networks.
+conf/infocom/PaschalidisSC03:::Ioannis Ch. Paschalidis::Chang Su::Michael Caramanis:::Target-Pursuing Policies for Open Multiclass Queueing Networks.
+conf/infocom/LapidRS97:::Yael Lapid::Raphael Rom::Moshe Sidi:::Analysis of Packet Discarding Policies in High-Speed Networks.
+conf/infocom/ObaKN93:::Nobuyuki Oba::Hiroaki Kobayashi::Tadao Nakamura:::An Adaptive Network Routing Method by Electrical-Circuit Modeling.
+conf/infocom/LeeRMS97:::David Lee::K. K. Ramakrishnan::W. Melody Moh::A. Udaya Shankar:::Performance and Correctness of the ATM ABR Rate Control Scheme.
+conf/infocom/KangasharjuHRR01:::Jussi Kangasharju::Felix Hartanto::Martin Reisslein::Keith W. Ross:::Distributing Layered Encoded Video through Caches.
+conf/infocom/RubinO89:::Izhak Rubin::Montasser Ouaily:::Performance Analysis of Message Delay Limited Synchronous Communication and Queueing Systems.
+conf/infocom/NiculescuB03:::Dragos Niculescu::B. R. Badrinath:::Ad Hoc Positioning System (APS) Using AOA.
+conf/infocom/XiongM97:::Yijun Xiong::Lorne Mason:::Restoration Strategies and Spare Capacity Requirements in Self-Healing ATM Networks.
+conf/infocom/StarobinskiKZ02:::David Starobinski::Mark G. Karpovsky::Lev Zakrevski:::Application of Network Calculus to General Topologies using Turn-Prohibition.
+conf/infocom/GongP94:::Fengming Gong::Guru M. Parulkar:::Study of Two-Level Flow Control Scheme and Buffering Strategies.
+conf/infocom/OlsenL93:::Robert T. Olsen::Lawrence H. Landweber:::Design and Implementation of a Fast Virtual Channel Establishment Method for ATM Networks.
+conf/infocom/MitraMR96:::Debasis Mitra::John A. Morrison::K. G. Ramakrishnan:::ATM Network Design and Optimization: A Multirate Loss Network Framework.
+conf/infocom/MitraMR99:::Debasis Mitra::John A. Morrison::K. G. Ramakrishnan:::Virtual Private Networks: Joint Resource Allocation and Routing Design.
+conf/infocom/CollierC93:::Martin Collier::Thomas Curran:::Path Allocation in a Three-Stage Broadband Switch with Intermediate Channel Grouping.
+conf/infocom/CollierK96:::Blair R. Collier::Hyong S. Kim:::Efficient Analysis of Shared Buffer Management Strategies in ATM Networks under Non-Uniform Bursty Traffic.
+conf/infocom/MurthyG97:::Shree Murthy::J. J. Garcia-Luna-Aceves:::Loop-Free Internet Routing Using Hierarchical Routing Trees.
+conf/infocom/NonnenmacherB97:::Jörg Nonnenmacher::Ernst Biersack:::Performance Modelling of Reliable Multicast Transmission.
+conf/infocom/ChangL89:::Rong-Feng Chang::Victor O. K. Li:::Performance Analysis of Mobile Packet Radio Networks.
+conf/infocom/ChangW91:::Chung-Ju Chang::Shyh-Yih Wang:::Performance Analysis of an Integrated Multiplexer in the Customer Premise Node of Broadband Integrated Services Network.
+conf/infocom/AadC01:::Imad Aad::Claude Castelluccia:::Differentiation Mechanisms for IEEE 802.11.
+conf/infocom/OfekY91:::Yoram Ofek::Moti Yung:::Lossless Asynchronous Broadcast-with-Feedback on the MetaNet Architecture.
+conf/infocom/CornerGLS98:::Mark D. Corner::Nada Golmie::Jörg Liebeherr::David H. Su:::A Priority Scheme for the IEEE 802.14 MAC Protocol for Hybrid Fiber-Coax Networks.
+conf/infovis/Chi00:::Ed Huai-hsin Chi:::A Taxonomy of Visualization Techniques Using the Data State Reference Model.
+conf/infovis/WongWT99:::Pak Chung Wong::Paul Whitney::Jim Thomas:::Visualizing Association Rules for Text Mining.
+conf/infovis/HermanMM00:::Ivan Herman::M. Scott Marshall::Guy Melançon:::Density Functions for Visual Attributes and Effective Partitioning in Graph Visualization.
+conf/infovis/Keahey01:::Alan Keahey:::Getting Along: Composition of Visualization Paradigms.
+conf/infovis/BarlowN01:::S. Todd Barlow::Padraic Neville:::A Comparison of 2-D Visualizations of Hierarchies.
+conf/infovis/TeraokaM97:::Teruhiko Teraoka::Minoru Maruyama:::Adaptive information visualization based on the user's multiple viewpoints-interactive 3D visualization of the WWW.
+conf/infovis/OlstonW00:::Chris Olston::Allison Woodruff:::Getting Portals to Behave.
+conf/infovis/NorthCS02:::Chris North::Nathan Conklin::Varun Saini:::Visualization Schemas for Flexible Information Visualization.
+conf/infovis/Becker98:::Barry G. Becker:::Visualizing Decision Table Classifiers.
+conf/interop/RiedemannK99:::Catharina Riedemann::Werner Kuhn:::What Are Sports Grounds? Or: Why Semantics Requires Interoperability.
+conf/interop/RamroopP99:::Steve Ramroop::Richard Pascoe:::Implementation Architecture for a National Data Center.
+conf/interop/KempRH99:::Karen K. Kemp::Derek E. Reeve::D. Ian Heywood:::Interoperability for GIScience Education.
+conf/interop/RellyR99:::Lukas Relly::Uwe Röhm:::Plug and Play: Interoperability in CONCERT.
+conf/cicling/GelbukhS01:::Alexander F. Gelbukh::Grigori Sidorov:::Zipf and Heaps Laws' Coefficients Depend on Language.
+conf/cicling/ShiradoI02:::Tamotsu Shirado::Hitoshi Isahara:::A Computational Model of Change in Politeness with the Addition of Word Endings.
+conf/cicling/Bolshakova01:::Elena I. Bolshakova:::Recognition of Author's Scientific and Technical Terms.
+conf/cicling/PalaM03:::Karel Pala::Eva Mráková:::Building Consistent Dictionary Definitions.
+conf/cicling/HashemiCA03:::Sylvana Sofkova Hashemi::Robin Cooper::Robert Andersson:::Positive Grammar Checking: A Finite State Approach.
+conf/cicling/PizzatoL03:::Luiz Augusto Sangoi Pizzato::Vera Lúcia Strube de Lima:::Query Expansion Based on Thesaurus Relations: Evaluation over Internet.
+conf/cicling/FerroBA02:::Jesús Vilares Ferro::Francisco-Mario Barcala::Miguel A. Alonso:::Using Syntactic Dependency-Pairs Conflation to Improve Retrieval Performance in Spanish.
+conf/cicling/Mitkov01:::Ruslan Mitkov:::Outstanding Issues in Anaphora Resolution (Invited Talk).
+conf/cicling/HarbuschW02:::Karin Harbusch::Jens Woch:::Integrated Natural Language Generation with Schema-Tree Adjoining Grammars.
+conf/cicling/MoucekE03:::Roman Moucek::Kamil Ekstein:::Corpus Construction within Linguistic Module of City Information Dialogue System.
+conf/cicling/JianDeZH01:::Wang JianDe::Chen ZhaoXiong::Huang HeYan:::Intelligent Case Based Machine Translation System.
+conf/cicling/BaoliYXY03:::Li Baoli::Chen Yuzhong::Bai Xiaojing::Shiwen Yu:::Experimental Study on Representing Units in Chinese Text Categorization.
+conf/cicling/PeralF02:::Jesús Peral::Antonio Ferrández Rodríguez:::Pronominal Anaphora Generation in an English-Spanish MT Approach.
+conf/cicling/Arkhelyuk01:::Valentyna Arkhelyuk:::Statistical Methods in Studying the Semantics of Size Adjectives.
+conf/cicling/MezaP02:::Ivan Meza::Luis Alberto Pineda:::The Spanish Auxiliary Verb System in HPSG.
+conf/cicling/Callaway01:::Charles B. Callaway:::A Computational Feature Analysis for Multilingual Character-to-Character Dialogue.
+conf/cicling/Pedersen02:::Ted Pedersen:::A Baseline Methodology for Word Sense Disambiguation.
+conf/cicling/SuarezP02:::Armando Suárez::Manuel Palomar:::Feature Selection Analysis for Maximum Entropy-Based WSD.
+conf/ACMdis/BrownP02:::Barry A. T. Brown::Mark Perry:::Of maps and guidebooks: designing geographical technologies.
+conf/ACMdis/ButlerEK97:::Keith A. Butler::Chris Esposito::Dan Klawitter:::Designing More Deeper: Integrating Task Analysis, Process Simulation, and Object Definition.
+conf/ACMdis/CurbowD97:::Dave Curbow::Elizabeth Dykstra-Erickson:::Designing the OpenDoc Human Interface.
+conf/ACMdis/KiriyamaC00:::Takashi Kiriyama::Ling Chen:::The Design of the Xi-Hu Historical Landscape and Culture in Media.
+conf/ACMdis/Mountford02:::S. Joy Mountford:::Can we learn anything about the process of UI design?
+conf/ACMdis/RollestoneM02:::Giles Rollestone::Ian Morris:::Networked information services in context sensitive environments.
+conf/ACMdis/RameyF97:::Judith Ramey::David Farkas:::Design Case: Building Community in a Design Effort in a Decentralized, Individualistic Setting.
+conf/ACMdis/OBrienR97:::Jon O'Brien::Tom Rodden:::Interactive Systems in Domestic Environments.
+conf/ACMdis/Potts95:::Colin Potts:::Using Schematic Scenarios to Understand User Needs.
+conf/ACMdis/RoseSP95:::Anne Rose::Ben Shneiderman::Catherine Plaisant:::An Applied Ethnographic Method for Redesigning User Interfaces.
+conf/ACMdis/JonesG00:::Lauretta Jones::Sharon L. Greene:::MoMA and the Three-Legged Stool: Fostering Creative Insight in Interactive System Design.
+conf/ACMdis/GuzdialKCFSSS95:::Mark Guzdial::Yasmin B. Kafai::John B. Carroll::Gerhard Fischer::Roger C. Schank::Elliot Soloway::Ben Shneiderman:::Learner-Centered System Design: HCI Perspective for the Future.
+conf/ACMdis/StrombergVR02:::Hanna Strömberg::Antti Väänen::Veli-Pekka Räty:::A group game played in interactive virtual space: design and evaluation.
+conf/ACMdis/Westerlund02:::Bo Westerlund:::Form is function.
+conf/ACMdis/Maeda02:::John Maeda:::Some recent thoughts on digital media.
+conf/ACMdis/SavidisPAS97:::Anthony Savidis::Alex Paramythis::Demosthenes Akoumianakis::Constantine Stephanidis:::Designing User-Adapted Interfaces: The Unified Design Method for Transformable Interactions.
+conf/ACMdis/HenningerHR95:::Scott Henninger::Kyle Haynes::Michael W. Reith:::A Framework for Developing Experience-Based Usability Guidelines.
+conf/ACMdis/Dykstra-EricksonC97:::Elizabeth Dykstra-Erickson::Dave Curbow:::The Role of User Studies in the Design of OpenDoc.
+conf/ACMdis/StiemerlingKW97:::Oliver Stiemerling::Helge Kahler::Volker Wulf:::How to Make Software Softer - Designing Tailorable Applications.
+conf/ACMdis/Fallman02:::Daniel Fallman:::Wear, point, and tilt: designing support for mobile service and maintenance in industrial settings.
+conf/wopplot/Molzberger89:::Peter Molzberger:::On Parallel Consciousness.
+conf/wopplot/Dobson89:::Vernon G. Dobson:::Associative Neural Networks in Analog VLSI: Advantages of Decrementing Algorithms.
+conf/wopplot/ScarpettaS86:::G. Scarpetta::G. Simoncelli:::Self-Organizing Hierarchical Modular Systems.
+conf/wopplot/AtmanspacherKS89:::H. Atmanspacher::F. R. Krueger::H. Scheingraber:::A Modal Propositional Calculus for Quantum Facts and Dynamical Theories.
+conf/dagstuhl/WentinkSO96:::Chantal Wentink::A. Frank van der Stappen::Mark H. Overmars:::Fixture Design with Edge-Fixels.
+conf/dagstuhl/Wu90:::Handong Wu:::Parallel Implementation of Guarded Horn Clauses.
+conf/dagstuhl/Blum96:::Avrim Blum:::On-line Algorithms in Machine Learning.
+conf/dagstuhl/Riekert95a:::Wolf-Fritz Riekert:::Bericht der Arbeitsgruppe Metadaten.
+conf/dagstuhl/DugaroP03:::Steven Peter Dugaro::Konrad Polthier:::Visualizing Maple Plots with JavaViewLib.
+conf/dagstuhl/GroplS97:::Clemens Gröpl::Martin Skutella:::Parallel Repetition of MIP(2, 1) Systems.
+conf/dagstuhl/HagenH95:::Hans Hagen::Stefanie Hahmann:::Stability Features for Free Form Surfaces.
+conf/dagstuhl/GehlMS94:::P. Gehl::B. Müller::U. Schuppmann:::SINUS - Simulationsmodell integrierte Nutzungs- und Sanierungsplanung.
+conf/dagstuhl/PuttkamerWE98:::Ewald von Puttkamer::Gerhard Weiss::Thomas Edlinger:::Localization and On-Line Map Building for an Autonomous Mobile Robot.
+conf/dagstuhl/BroyMS94:::Manfred Broy::Stephan Merz::Katharina Spies:::The RPC-Memory Case Study: A Synopsis.
+conf/dagstuhl/ButlerSS95:::Michael J. Butler::Emil Sekerinski::Kaisa Sere:::An Action System Approach to the Steam Boiler Problem.
+conf/dagstuhl/SchneiderMH01:::Fred B. Schneider::J. Gregory Morrisett::Robert Harper:::A Language-Based Approach to Security.
+conf/dagstuhl/Lengen91:::Rolf Hendrik van Lengen:::The Volume Priority Z-Buffer.
+conf/dagstuhl/Cox98:::Jordan J. Cox:::"Product Templates" A Parametric Approach to Mass Customization.
+conf/dagstuhl/Erb93:::Ulrike Erb:::Informatikerinnen als Minderheit. Theoretische Informatik als Zugangsschneise für Frauen?.
+conf/dagstuhl/HongK97:::Lichan Hong::Arie E. Kaufman:::Notes on Computational-space-based Ray-casting for Curvilinear Volumes.
+conf/dagstuhl/Kosecka96:::Jana Kosecka:::Visually Guided Navigation.
+conf/dagstuhl/AsahiroAFSY98:::Yuichi Asahiro::Hajime Asama::Satoshi Fujita::Ichiro Suzuki::Masafumi Yamashita:::Distributed Algorithms for Carrying a Ladder by Omnidirectional Robots in Near Optimal Time.
+conf/dagstuhl/OderskyRW98:::Martin Odersky::Enno Runne::Philip Wadler:::Two Ways to Bake Your Pizza - Translating Parameterised Types into Java.
+conf/dagstuhl/DenzerGSP95:::Ralf Denzer::Reiner Güttler::Reiner Schorr::Stephan Pfeil:::SIRIUS-Informationsarchitektur und Integrations-Toolkit für offene Umweltinformationssysteme.
+conf/dagstuhl/Kaptelinin02:::Victor Kaptelinin:::Making Use of Social Thinking: The Challenge of Bridging Activity Systems.
+conf/dagstuhl/FujishiroT97:::Issei Fujishiro::Yuriko Takeshima:::Solid Fitting: Field Interval Analysis for Effective Volume Exploration.
+conf/dagstuhl/CaiHV92:::Jin-yi Cai::Lane A. Hemachandra::Jozef Vyskoc:::Promise Problems and Guarded Access to Unambiguous Computation.
+conf/dagstuhl/Millroth90:::Håkan Millroth:::Using the Reform Inference System for Parallel Prolog.
+conf/dagstuhl/MoretW00:::Bernard M. E. Moret::Tandy Warnow:::Reconstructing Optimal Phylogenetic Trees: A Challenge in Experimental Algorithmics.
+conf/dagstuhl/SchuppL98:::Sibylle Schupp::Rüdiger Loos:::SUCHTHAT - Generic Programming Works.
+conf/dagstuhl/RiekertHS94:::Wolf-Fritz Riekert::Inge Henning::Fritz Schmidt:::Integration von heterogenen Komponenten des Umweltinformationssystems (UIS) Baden-Württemberg.
+conf/dagstuhl/BaloianL01:::Nelson A. Baloian::Wolfram Luther:::Visualization for the Mind's Eye.
+conf/dagstuhl/Nehmer91:::Jürgen Nehmer:::The Immortality of Operating Systems, or: Is Research in Operating Systems still Justified?.

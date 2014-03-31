@@ -1,0 +1,200 @@
+conf/itc/Allaire85:::William P. Allaire:::Case Study: ATE Networking Using Peripheral Emulation.
+conf/itc/Vida-Torku92:::E. Kofi Vida-Torku:::Impact of Boundary Scan Design on Delay Test.
+conf/itc/FerreF97:::Antoni Ferré::Joan Figueras:::I<sub>DDQ</sub> Characterization in Submicron CMOS.
+conf/itc/GoorPA00:::A. J. van de Goor::A. Paalvast:::Industrial evaluation of DRAM SIMM tests.
+conf/itc/MetraFR98:::Cecilia Metra::Michele Favalli::Bruno Riccò:::On-line detection of logic errors due to crosstalk, delay, and transient faults.
+conf/itc/SalujaK83:::Kewal K. Saluja::Mark G. Karpovsky:::Testing Computer Hardware through Data Compression in Space and Time.
+conf/itc/HaberlK92:::Oliver F. Haberl::Thomas Kropf:::HIST: A Methodology for the Automatic Insertion of a Hierarchical Self Test.
+conf/itc/FerreiraPM92:::José M. M. Ferreira::Filipe S. Pinto::José Silva Matos:::A Boundary Scan Test Controller for Hierarchical BIST.
+conf/itc/Angelotti94:::Frank W. Angelotti:::Modeling for Structured System Interconnect Test.
+conf/itc/LyonGHHR91:::Jose A. Lyon::Mike Gladden::Eytan Hartung::Eric Hoang::K. Raghunathan:::Testability Features of the 68HC16Z1.
+conf/itc/SchoettmerWB00:::Ulrich Schoettmer::Chris Wagner::Tom Bleakley:::Device interfacing: the weakest link in the chain to break into the giga bit domain?
+conf/itc/McCluskey83:::Edward J. McCluskey:::Teaching Testing.
+conf/itc/SharmaMLA85:::Brijendra Sharma::Colin McIntyre::Gerard Labonville::Jose Avila:::Integrated Test Program Development Package.
+conf/itc/LiawS82:::Chi-Chang Liaw::Stephen Y. H. Su:::A New Fault Model and Testing Technique for CMOS Devices.
+conf/itc/ParkUWM91:::Eun Sei Park::Bill Underwood::Thomas W. Williams::M. Ray Mercer:::Delay Testing Quality in Timing-Optimized Designs.
+conf/itc/MaNDS88:::Hi-Keung Tony Ma::A. Richard Newton::Srinivas Devadas::Alberto L. Sangiovanni-Vincentelli:::An Incomplete Scan Design Approach to Test Generation for Sequential Machines.
+conf/itc/YauCJSW88:::Chi W. Yau::Song-Lin Chang::Bruce F. Jordan::Joe J. Schwermann::Joan A. Wellman:::Trouble-Shooting: A Key to Process Improvement.
+conf/itc/SinghPLPG01:::Abhishek Singh::Chintan Patel::Shirong Liao::James F. Plusquellic::Anne E. Gattiker:::Detecting delay faults using power supply transient signal analysis.
+conf/itc/ShenF88:::John Paul Shen::F. Joel Ferguson:::Extraction and Simulation of Realistic CMOS Faults Using Inductive Fault Analysis.
+conf/itc/KuhlR83:::Jon G. Kuhl::Sudhakar M. Reddy:::On Testable Design for CMOS Logic Circuits.
+conf/itc/DaehnG86:::Wilfried Daehn::Josef Gross:::A Test Generator IC for Testing Large CMOS-RAMs.
+conf/itc/Bowhers82:::William J. Bowhers:::Filtering Methods for Fast Ultra-Low Distortion Measurements.
+conf/itc/Williams84:::T. W. Williams:::Sufficient Testing In A Self-Testing Environment.
+conf/itc/Stroud91:::Charles E. Stroud:::Built-In Self-Test for High-Speed Data-Path Circuitry.
+conf/itc/IyengarCM01:::Vikram Iyengar::Krishnendu Chakrabarty::Erik Jan Marinissen:::Test wrapper and test access mechanism co-optimization for system-on-chip.
+conf/itc/BarbagalloCPR95:::S. Barbagallo::Fulvio Corno::Paolo Prinetto::Matteo Sonza Reorda:::Testing a Switching Memory in a Telcommunication System.
+conf/itc/CherkasskyK86:::Vladimir Cherkassky::Larry L. Kinney:::A Group Probing Strategy for Testing Large Number of Chips.
+conf/itc/WedgeC96:::D. Eugene Wedge::Tom Conner:::A Roadmap for Boundary-Scan Test Reuse.
+conf/itc/CravenSK83:::Robert Craven::Joseph Schissler::Peter Konde:::Chroma Voltmeter Measurement Techniques for Analog LSI Devices.
+conf/itc/Ziaja99:::Thomas A. Ziaja:::Using LSSD to test modules at the board level.
+conf/itc/PyronAGJLMRT99:::Carol Pyron::Mike Alexander::James Golab::George Joos::Bruce Long::Robert F. Molyneaux::Rajesh Raina::Nandu Tendolkar:::DFT advances in the Motorola's MPC7400, a PowerPC G4 microprocessor.
+conf/itc/ReedDR95:::Douglas Reed::Jason Doege::Antonio Rubio:::Improving Board and System Test: A Proposal to Integrate Boundary Scan and I<sub>DDQ</sub>.
+conf/itc/Hulvershorn97:::Harry Hulvershorn:::1149.5: Now It's a Standard, So What?
+conf/itc/FujiwaraSK85:::Hideo Fujiwara::Kewal K. Saluja::Kozo Kinoshita:::A Testable Design of Programmable Logic Arrays with Universal Control and Minimal Overhead.
+conf/itc/Russo88:::John L. Russo:::Flexible Deep Memory Architecture Aids Program Development.
+conf/itc/ShiragasawaSMN85:::T. Shiragasawa::M. Sugano::Yoshihisa Mano::M. Noyori:::An On-Lined Laser Probing System for Diagnosing Scaled VLSI.
+conf/itc/GilesH85:::Grady Giles::Craig Hunter:::A Methodology for Testing Content Addressable Memories.
+conf/itc/GilesM84:::David Giles::Gregory A. Maston:::Device Models : A New Methodology for a Perennial Problem.
+conf/itc/Arabian83:::Jack H. Arabian:::User's Requirements for Automated Handling in Computer Manufacturing and Board Test.
+conf/itc/Oresjo97:::Stig Oresjo:::Unpowered Opens Test with X-Ray Laminography.
+conf/itc/HsiehK94:::Luke S. L. Hsieh::Sandeep P. Kumar:::Digitizer Error Extraction in the Nonlinearity Test.
+conf/itc/Champlin93:::Cary Champlin:::IRIDIUM<sup>tm</sup> Satellite: A Large System Application of Design for Testability.
+conf/itc/DajeeGTKW01:::G. Dajee::N. Goldblatt::T. Lundquist::S. Kasapi::K. Wilsher:::Practical, non-invasive optical probing for flip-chip devices.
+conf/itc/RyanW85:::Patricia M. Ryan::A. Jesse Wilkinson:::Knowledge Acquisition for ATE Diagnosis.
+conf/itc/SodenH85:::Jerry M. Soden::Charles F. Hawkins:::Electrical Characteristics and Testing Considerations for Gate Oxide Shorts in CMOS ICs.
+conf/itc/SodenH97:::Jerry M. Soden::Christopher L. Henderson:::IC Diagnosis: Industry Issues.
+conf/itc/Namjoo82:::Masood Namjoo:::Techniques for Concurrent Testing of VLSI Processor Operation.
+conf/itc/ChengHRHFC91:::Tony Cheng::Eric Hoang::David Rivera::Alan Haedge::Jamie Fontenot::Glenn Carson:::Test Grading the 68332.
+conf/itc/Hirgelt84:::Edward S. Hirgelt:::Knowledge Representation in an In-Circuit Test Program Generator.
+conf/itc/Henley86:::Francois J. Henley:::Tests of Hermetically Sealed LSI/VLSI Devices by Laser Photoexcitation Logic Analysis.
+conf/itc/CrouchMMPT99:::Alfred L. Crouch::Michael Mateja::Teresa L. McLaurin::John C. Potter::Dat Tran:::The testability features of the 3rd generation ColdFire family of microprocessors.
+conf/itc/Larrabee89:::Tracy Larrabee:::Efficient Generation of Test Patterns Using Boolean Difference.
+conf/itc/Sunter95:::Stephen K. Sunter:::The P1149.4 Mixed Signal Test Bus: Costs and Benefits.
+conf/itc/Mercer83:::M. Ray Mercer:::Testing Issues at the University of Texas.
+conf/itc/Danner83:::Frederick G. Danner:::System Test Visibility Or Why Can't You Test Your Electronics.
+conf/itc/KonijnenburgLG93:::M. H. Konijnenburg::J. Th. van der Linden::A. J. van de Goor:::Test Pattern Generation with Restrictors.
+conf/itc/KonijnenburgLG99:::M. H. Konijnenburg::J. Th. van der Linden::A. J. van de Goor:::Testability of the Philips 80C51 micro-controller.
+conf/itc/WatsonNMB82:::I. M. Watson::John A. Newkirk::Rob G. Mathews::D. B. Boyle:::ICTEST : A Unified System for Functional Testing and Simulation of Digital ICs.
+conf/itc/NeebelK93:::Danial J. Neebel::Charles R. Kime:::Inhomogeneous Cellular Automata for Weighted-Random-Pattern Generation.
+conf/itc/BurressL97:::A. L. Burress::Parag K. Lala:::On-Line Testable Logic Desgin for FPGA Implementation.
+conf/itc/Rearick99:::Jeff Rearick:::Practical scan test generation and application for embedded FIFOs.
+conf/itc/ParaskevaABKD86:::Mark Paraskeva::Anthony P. Ambler::D. F. Burrows::W. L. Knight::I. D. Dear:::Economically Viable Automatic Insertion of Self-Test Features for Custom VLSI.
+conf/itc/Chatterjee91:::Abhijit Chatterjee:::Concurrent Error Detection in Linear Analog and Switched-Capacitor State Variable Systems Using Continuous Checksums.
+conf/itc/Fabish86:::Mike Fabish:::A Strategy for Enhancing Fault Coverage on VLSI Circuit Boards Using Performance In-Circuit Test Techniques.
+conf/itc/XiangP96:::Dong Xiang::Janak H. Patel:::A Global Algorithm for the Partial Scan Design Problem Using Circuit State Information.
+conf/itc/Dapron85:::Michael Dapron:::Linking Design Tools to In-Circuit Test Systems.
+conf/itc/LaurentBCC86:::J. Laurent::L. Bergher::Bernard Courtois::Jacques P. Collin:::Towards Automatic Failure Analysis of Complex ICs Through E-Beam Testing.
+conf/itc/Broughton83:::Robert S. Broughton:::Structured Logic Analysis for Manufacturing Testing.
+conf/itc/McClintockCP00:::David McClintock::Lance Cunningham::Takis Petropoulos:::Motherboard testing using the PCI bus.
+conf/itc/LeslieM88:::Brian Leslie::Farid Matta:::Membrane Probe Card Technology (the Future for High Performance Wafer Test).
+conf/itc/HawkinsW91:::Charles F. Hawkins::Richard H. Williams:::EE Curriculum - Continuous Process Improvement?
+conf/itc/AraoTMK83:::Masaaki Arao::Takao Tadokoro::Hiromi Maruyama::Shinpei Kamata:::Tester Correlation Problem in Memory Testers Used in Production Lines.
+conf/itc/LahmanJ85:::H. S. Lahman::C. L. Johnson:::A Computerized Solution to the Fixture-Wiring Problem.
+conf/itc/MeixnerB97:::Anne Meixner::Jash Banik:::Weak Write Test Mode: An SRAM Cell Stability Design for Test Technique.
+conf/itc/Thurston81:::William P. Thurston:::The Challenge of Testing VLSI in the 1980's.
+conf/itc/Gahagan99:::Dean A. Gahagan:::RF (gigahertz) ATE production testing on wafer: options and tradeoffs.
+conf/itc/Lofgren94:::John D. Lofgren:::A Generic Test and Maintenance Node for Embedded System Test.
+conf/itc/KunduB00:::Rahul Kundu::Ronald D. Blanton:::Identification of crosstalk switch failures in domino CMOS circuits.
+conf/itc/Grabel89:::David Grabel:::Data Verification: A Prerequisite for Heuristic Diagnostics.
+conf/itc/AbramoviciSHWV99:::Miron Abramovici::Charles E. Stroud::Carter Hamilton::Sajitha Wijesuriya::Vinay Verma:::Using roving STARs for on-line testing and diagnosis of FPGAs in fault-tolerant applications.
+conf/itc/SasWHR93:::Jos van Sas::Geert Van Wauwe::Erik Huyskens::Dirk Rabaey:::BIST for Embedded Static RAMs with Coverage Calculation.
+conf/itc/McConnellRND01:::Roderick McConnell::Rochit Rajsuman::Eric Nelson::Jeffrey Dreibelbis:::Test and repair of large embedded DRAMs. I.
+conf/itc/Patterson89:::J. Patterson:::Improved System Design Through Proper Nesting of Test Levels.
+conf/itc/PatelMP01:::Chintan Patel::Fidel Muradali::James F. Plusquellic:::Power supply transient signal integration circuit.
+conf/itc/GallagherCGP01:::Patrick R. Gallagher Jr.::Vivek Chickermane::Steven Gregor::Thomas S. Pierre:::A building block BIST methodology for SOC designs: a case study.
+conf/itc/Hnatek84:::Eugene R. Hnatek:::Thoughts on VLSI Burn-in.
+conf/itc/PomeranzR99:::Irith Pomeranz::Sudhakar M. Reddy:::On achieving complete coverage of delay faults in full scan circuits using locally available lines.
+conf/itc/AminOAA94:::A. A. Amin::M. Y. Osman::R. E. Abdel-Aal::Husni Al-Muhtaseb:::Efficient O(sqrt(n)) BIST Algorithms for DDNPS Faults in Dual-Port Memories.
+conf/itc/Mayrhauser92:::Anneliese von Mayrhauser:::Software Testing: Opportunity and Nightmare.
+conf/itc/PulatS92:::Babur Mustafa Pulat::Lauren M. Streb:::Position of Component Testing in Total Quality Management (TQM).
+conf/itc/FooteHHKRK97:::Thomas G. Foote::Dale E. Hoffman::William V. Huott::Timothy J. Koprowski::Bryan J. Robbins::Mary P. Kusko:::Testing the 400-MHz IBM Generation-4 CMOS Chip.
+conf/itc/Henshaw86:::Boyd Henshaw:::An MC68020 Users Test Program.
+conf/itc/HamdiouiG99:::Said Hamdioui::A. J. van de Goor:::Port interference faults in two-port memories.
+conf/itc/SavirMV89:::Jacob Savir::William H. McAnney::Salvatore R. Vecchio:::Testing for Coupled Cells in Random-Access Memories.
+conf/itc/Downey85:::Arthur E. Downey:::Waveform: A Software Tool for Efficient Test Program Development.
+conf/itc/Vollrath97:::Jörg E. Vollrath:::Cell Signal Measurement for High-Density DRAMs.
+conf/itc/KunduHNIR92:::Sandip Kundu::Leendert M. Huisman::Indira Nair::Vijay S. Iyengar::Lakshmi N. Reddy:::A Small Test Generator for Large Designs.
+conf/itc/Kombol84:::A. J. Kombol:::Processing of Test Data between Design and Testing.
+conf/itc/RatfordK86:::Vin Ratford::Paul Keating:::Integrating Guided Probe and Fault Dictionary: An Enhanced Diagnostic Approach.
+conf/itc/OlivioDR89:::Piero Olivio::M. Damiani::Bruno Riccò:::On the Design of Multiple-Input Shift-Registers for Signature Analysis Testing.
+conf/itc/Austin93:::Tom Austin:::Creating A Mixed-Signal Simulation Capability for Concurrent IC Design and Test Program Development.
+conf/itc/DevadasK98:::Srinivas Devadas::Kurt Keutzer:::An algorithmic approach to optimizing fault coverage for BIST logic synthesis.
+conf/itc/GoelH85:::Prabhakar Goel::Chi-Lai Huang:::Statistical Fault Sampling and Full Fault Simulation.
+conf/itc/SarfertMTS89:::Thomas M. Sarfert::Remo Markgraf::Erwin Trischler::Michael H. Schulz:::Hierarchical Test Pattern Generation Based on High-Level Primitives.
+conf/itc/SimpsonS92:::William R. Simpson::John W. Sheppard:::System Perspective on Diagnostic Testing.
+conf/itc/Noble92:::Alan C. Noble:::IDA: A Tool for Computer-Aided Failure Analysis.
+conf/itc/KarpovskyN88:::Mark G. Karpovsky::Prawat Nagvajara:::Board-Level Diagnosis by Signature Analysis.
+conf/itc/MorookaMMY91:::Yoshikazu Morooka::Shigeru Mori::Hiroshi Miyamoto::Michihiro Yamada:::An Address Maskable Parallel Testing for Ultra High Density DRAMs.
+conf/itc/MitraAM97:::Subhasish Mitra::LaNae J. Avra::Edward J. McCluskey:::Scan Synthesis for One-Hot Signals.
+conf/itc/Gheewala91:::Tushar Gheewala:::For Test Automation, Silicon is Free.
+conf/itc/Johansson83:::Mats Johansson:::The GENESYS-Algorithm for ATPG without Fault Simulation.
+conf/isw/SakuraiYMI97:::Kouichi Sakurai::Yoshinori Yamani::Shingo Miyazaki::Tohru Inoue:::A Key Escrow System with Protecting User's Privacy by Blind Decoding.
+conf/isw/BertinoCF01:::Elisa Bertino::Barbara Carminati::Elena Ferrari:::A Secure Publishing Service for Digital Libraries of XML Documents.
+conf/isw/ShimoyamaMK97:::Takeshi Shimoyama::Shiho Moriai::Toshinobu Kaneko:::Improving the Higher Order Differential Attack and Cryptanalysis of the <i>KN</i> Cipher.
+conf/isw/LeeK01:::Jae Seung Lee::Sang-Choon Kim:::Design of the Decision Support System for Network Security Management to Secure Enterprise Network.
+conf/isw/SanchezOHS01:::David Sánchez::Agustín Orfila::Julio César Hernández::José María Sierra:::Robust New Method in Frequency Domain Watermarking.
+conf/isw/HachezHJQV00:::Gaël Hachez::Laurent Den Hollander::Mehrdad Jalali::Jean-Jacques Quisquater::Christophe Vasserot:::Towards a Practical Secure Framework for Mobile Code Commerce.
+conf/isw/YoshiokaSM03:::Katsunari Yoshioka::Junji Shikata::Tsutomu Matsumoto:::Systematic Treatment of Collusion Secure Codes: Security Definitions and Their Relations.
+conf/isw/Ferrer-GomilaPR00:::Josep Lluís Ferrer-Gomila::Magdalena Payeras-Capellà::Llorenç Huguet i Rotger:::An Efficient Protocol for Certified Electronic Mail.
+conf/isw/Desmedt97:::Yvo Desmedt:::Some Recent Research Aspects of Threshold Cryptography.
+conf/isw/Safavi-NainiS00:::Reihaneh Safavi-Naini::Willy Susilo:::Threshold Fail-Stop Signature Schemes Based on Discrete Logarithm and Factorization.
+conf/isw/NascimentoMOHI03:::Anderson C. A. Nascimento::Jörn Müller-Quade::Akira Otsuka::Goichiro Hanaoka::Hideki Imai:::Unconditionally Secure Homomorphic Pre-distributed Bit Commitment and Secure Two-Party Computations.
+conf/isw/RamaraoTL03:::Pramod Ramarao::Akhilesh Tyagi::Gyungho Lee:::Run-Time Support for Detection of Memory Access Violations to Prevent Buffer Overflow Exploits.
+conf/isw/KimPW97:::Seungjoo Kim::Sangjoon Park::Dongho Won:::Group Signatures for Hierarchical Multigroups.
+conf/isw/KindbergZ03:::Tim Kindberg::Kan Zhang:::Validating and Securing Spontaneous Associations between Wireless Devices.
+conf/isw/GalindoMMV03:::David Galindo::Sebastiá Martín Molleví::Paz Morillo::Jorge Luis Villar:::Easy Verifiable Primitives and Practical Public Key Cryptosystems.
+conf/isw/SebeD01:::Francesc Sebé::Josep Domingo-Ferrer:::Oblivious Image Watermarking Robust against Scaling and Geometric Distortions.
+conf/isw/DawsonLMO02:::Ed Dawson::Javier Lopez::Jose A. Montenegro::Eiji Okamoto:::A New Design of Privilege Management Infrastructure for Organizations Using Outsourced PKI.
+conf/isw/Zheng02:::Jiande Zheng:::A New Public Key Cryptosystem for Constrained Hardware.
+conf/isw/RuizMCG01:::Antonio Ruiz::Gregorio Martínez::Oscar Cánovas Reverte::Antonio F. Gómez-Skarmeta:::SPEED Protocol: Smartcard-Based Payment with Encrypted Electronic Delivery.
+conf/isw/Martinez-NadalF02:::Apollònia Martínez Nadal::Josep Lluís Ferrer-Gomila:::Comments to the UNCITRAL Model Law on Electronic Signatures.
+conf/isw/LeadbitterS03:::Peter J. Leadbitter::Nigel P. Smart:::Analysis of the Insecurity of ECMQV with Partially Known Nonces.
+conf/isw/TanakaOK97:::Hidema Tanaka::Tomoya Ohishi::Toshinobu Kaneko:::An Optimised Linear Attack on Pseudorandom Generators Using a Non linear Combiner.
+conf/its/MinkoGP02:::Anton Minko::Guy Gouardères::Orest Popov:::Qualitative Assessment on Aeronautical Training with Cognitive Agents.
+conf/its/SchoellesH96:::Michael Schoelles::Henry Hamburger:::Teacher-Usable Exercise Design Tools.
+conf/its/DuncanB98:::David Duncan::Paul Brna:::Flexible ILE Development: Case Studies of an Agent-Based Software Engineering Approach.
+conf/its/ShuteTW98:::Valerie J. Shute::Lisa A. Torreano::Ross E. Willis:::DNA - Uncorking the Bottleneck in Knowledge Elicitation and Organization.
+conf/its/Breuker92:::Joost Breuker:::Generality Watching: ITS Caught between Science and Engineering.
+conf/its/Kay00:::Judy Kay:::Stereotypes, Student Models and Scrutability.
+conf/its/MerrillRBH92:::Douglas C. Merrill::Brian J. Reiser::Ron Beekelaar::Adnan Hamid:::Making Process Visible: Scaffolding Learning with Reasoning-Congruent Representations.
+conf/its/PersonG02:::Natalie K. Person::Arthur C. Graesser:::Human or Computer? AutoTutor in a Bystander Turing Test.
+conf/its/CrozatT00:::Stéphane Crozat::Philippe Trigano:::An Ontological Approach for Design and Evaluation of Tutoring Systems.
+conf/its/LudtkeMT02:::Andreas Lüdtke::Claus Möbus::Heinz-Jürgen Thole:::Cognitive Modelling Approach to Diagnose Over-Simplification in Simulation-Based Training.
+conf/its/HartleyM02:::Danita Hartley::Antonija Mitrovic:::Supporting Learning by Opening the Student Model.
+conf/its/CapusT00:::Laurence Capus::Nicole Tourigny:::A Cognitive Model for Automatic Narrative Summarization in a Self-Educational System.
+conf/its/UnderwoodL02:::Joshua Underwood::Rosemary Luckin:::Adequate Decision Support Systems Must Also Be Good Learning Environments.
+conf/its/SrisethanilB96:::Chaisak Srisethanil::Nelson C. Baker:::ITS-Engineering: A Domain Independent ITS for Building Engineering Tutors.
+conf/its/Cerri96:::Stefano A. Cerri:::Computational Mathetic Tool Kit: Architectures for Modelling Dialogues.
+conf/its/PrentzasHG02:::Jim Prentzas::Ioannis Hatzilygeroudis::John D. Garofalakis:::A Web-Based Intelligent Tutoring System Using Hybrid Rules as Its Representational Basis.
+conf/its/ChenW02:::Weiqin Chen::Barbara Wasson:::An Instructional Assistant Agent for Distributed Collaborative Learning.
+conf/its/GouarderesMR00:::Guy Gouardères::Anton Minko::Luc Richard:::Cooperative Agents to Track Learner's Cognitive Gap.
+conf/its/Wang96:::Huaiqing Wang:::LearnMedia: A Co-operative Intelligent Tutoring System for Learning Multimedia.
+conf/its/NobregaCS02:::Germana M. da Nóbrega::Stefano A. Cerri::Jean Sallantin:::On the Social Rational Mirror: Learning E-commerce in a Web-Served Learning Environment.
+conf/its/BrusilovskyS02:::Peter Brusilovsky::Hoah-Der Su:::Adaptive Visualization Component of a Distributed Web-Based Adaptive Educational System.
+conf/its/ChandlerE98:::Terrell N. Chandler::Craig Earon:::A Classification System for Web-Based Training.
+conf/its/BuntC02:::Andrea Bunt::Cristina Conati:::Assessing Effective Exploration in Open Learning Environments Using Bayesian Networks.
+conf/its/Uresti00:::Jorge A. Ramirez Uresti:::Should I Teach My Computer Peer? Some Issues in Teaching a Learning Companion.
+conf/its/BrusilovskySW96:::Peter Brusilovsky::Elmar W. Schwarz::Gerhard Weber:::ELM-ART: An Intelligent Tutoring System on World Wide Web.
+conf/its/DessusL02:::Philippe Dessus::Benoît Lemaire:::Using Production to Assess Learning: An ILE That Fosters Self-Regulated Learning.
+conf/its/HirashimaKT96:::Tsukasa Hirashima::Akihiro Kashihara::Jun'ichi Toyoda:::Toward a Learning Environment Allowing Learner-Directed Problem Practice.
+conf/its/KhanPBL98:::Tariq M. Khan::Stephen J. Paul::Keith E. Brown::Roy Leitch:::Model-Based Explanations in Simulation-Based Training.
+conf/its/AlbaceteV00:::Patricia L. Albacete::Kurt VanLehn:::The Conceptual Helper: An Intelligent Tutoring System for Teaching Fundamental Physics Concepts.
+conf/its/PinkwartHBF02:::Niels Pinkwart::Heinz Ulrich Hoppe::Lars Bollen::Eva Fuhlrott:::Group-Oriented Modelling Tools with Heterogeneous Semantics.
+conf/its/ReyesAKMT98:::Rhodora L. Reyes::Ruzelle Apostol::Tiffany Kua::Rowena Mendoza::Carlo Antonio Tan:::GURU: A Self-Extending Tutor Model for Pascal Programming.
+conf/its/SilveiraV02:::Ricardo Azambuja Silveira::Rosa Maria Vicari:::Developing Distributed Intelligent Learning Environment with JADE - Java Agents for Distance Education Framework.
+conf/its/AbdullahC00:::Sophiana Chua Abdullah::Roger E. Cooley:::The Use of Contraint Logic Programming in the Development of Adaptive Tests.
+conf/its/BaresZL98:::William H. Bares::Luke S. Zettlemoyer::James C. Lester:::Habitable 3D Learning Environments for Situated Learning.
+conf/its/SaadZ02:::Ashraf Saad::A. R. M. Zaghloul:::A Constructivist Knowledge Base Architecture for Adaptive Intelligent Tutoring Systems.
+conf/its/DeuffDFCMGP02:::Dominique Deuff::Nicole Devoldère::Béatrice Foucault::Isabelle Chanclou::Delphine Mantsos::Cédric Gégout::Michael Picaud:::An MPEG-4 Authoring Tool Dedicated to Teachers.
+conf/its/FrassonMAG96:::Claude Frasson::Thierry Mengelle::Esma Aïmeur::Guy Gouardères:::An Actor Based Architecture for Intelligent Tutoring Systems.
+conf/its/SlatorC96:::Brian M. Slator::Harold Cliff Chaput:::Learning by Learning Roles: A Virtual Role-Playing Environment for Tutoring.
+conf/its/DillenbourgS92:::Pierre Dillenbourg::John A. Self:::People Power: A Human-Computer Collaborative Learning System.
+conf/its/MatsudaO92:::Noboru Matsuda::Toshio Okamoto:::Student Model Diagnosis for Adaptive Instruction in ITS.
+conf/its/MatsudaO96:::Noboru Matsuda::Toshio Okamoto:::Parallel Computing Model for Problem Solver Towards ITSs: Epistemological Articulation of Human Problem Solving.
+conf/its/AkhrasS96:::Fabio N. Akhras::John A. Self:::A Process-Sensitive Learning Environment Architecture.
+conf/its/Suthers92:::Daniel D. Suthers:::Answering Student Queries: Functionality and Mechanisms.
+conf/its/GuzmanC02:::Eduardo Guzmán::Ricardo Conejo:::Simultaneous Evaluation of Multiple Topics in SIETTE.
+conf/its/Soldato92:::Teresa Del Soldato:::Detecting and Reacting to the Learner's Motivational State.
+conf/its/LabekeA02:::Nicolas van Labeke::Shaaron Ainsworth:::Representational Decisions When Learning Population Dynamics with an Instructional Simulation.
+conf/its/SchwarzKR92:::Baruch B. Schwarz::Amy S. Kohn::Lauren B. Resnick:::Bootstrapping Mental Constructions: A Learing System about Negative Numbers.
+conf/its/VerdejoBRR02:::M. Felisa Verdejo::Beatriz Barros::Timothy Read::M. Rodriguez-Artacho:::A System for the Specification and Development of an Environment for Distributed CSCL Scenarios.
+conf/its/MatsuuraOY00:::Kenji Matsuura::Hiroaki Ogata::Yoneo Yano:::Agent's Contribution for an Asynchronous Virtual Classroom.
+conf/its/LiddleLB96:::John Liddle::Roy Leitch::Keith E. Brown:::Generic Approaches in Developing Practical Intelligent Industrial Training Systems.
+conf/its/MatsubaraN96:::Yukihiro Matsubara::Mitsuo Nagamachi:::Motivation System and Human Model for Intelligent Tutoring.
+conf/its/TedescoS00:::Patricia Azevedo Tedesco::John A. Self:::Using Meta-cognitive Conflicts to Support Group Problem Solving.
+conf/its/SantosFDG02:::Cássia Trojahn dos Santos::Rejane Frozza::Alessandra Dhamer::Luciano Paschoal Gaspary:::DÓRIS - Pedagogical Agent in Intelligent Tutoring Systems.
+conf/its/MurrayW92:::Tom Murray::Beverly Park Woolf:::Tools for Teacher Participation in ITS Design.
+conf/its/MillanPS00:::Eva Millán::José-Luis Pérez-de-la-Cruz::Eva Suárez:::Adaptive Bayesian Networks for Multilevel Student Modelling.
+conf/its/KhuwajaP96:::Ramzan Khuwaja::Vimla L. Patel:::A Model of Tutoring: Based on the Behavior of Effective Human Tutors.
+conf/its/ChanCL92:::Taizan Chan::Yam San Chee::Eng Lian Lim:::COGNITO: An Extended Computational Theory of Cognition.
+conf/its/Greer92:::Jim E. Greer:::Granularity and Context in Learning.
+conf/iui/Ball99:::Gene Ball:::Mixing Scripted Interaction with Task-Oriented Language Processing in a Conversational Interface.
+conf/iui/MaulitzM02:::Russell Maulitz::Debra McGrath:::The active learning framework.
+conf/iui/JensenK93:::Lars Peter Jensen::Peter Koch:::An ecological man-machine interface for temporal visualization.
+conf/iui/WagnerL03:::Earl Wagner::Henry Lieberman:::An end-user tool for e-commerce debugging.
+conf/iui/FuBH00:::Xiaobin Fu::Jay Budzik::Kristian J. Hammond:::Mining navigation history for recommendation.
+conf/iui/ForbusFU01:::Kenneth D. Forbus::Ronald W. Ferguson::Jeffery M. Usher:::Towards a computational model of sketching.
+conf/iui/LokF02:::Simon Lok::Steven Feiner:::The AIL automated interface layout system.
+conf/iui/ShieberB03:::Stuart M. Shieber::Ellie Baker:::Abbreviated text input.
+conf/iui/MoriJI03:::Kyoshi Mori::Adam Jatowt::Mitsuru Ishizuka:::Enhancing conversational flexibility in multimodal interactions with embodied lifelike agent.

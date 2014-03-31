@@ -1,0 +1,200 @@
+conf/ispw/Curtis86:::Bill Curtis:::Models of iteration in software development.
+conf/ispw/BelkhatirM94:::Noureddine Belkhatir::Walcélio L. Melo:::The need for a cooperative model: the adele/tempo experience.
+conf/ispw/Votta93:::Lawrence G. Votta Jr.:::Comparing One Formal to One Informal Process Description.
+conf/ispw/Minsky85:::Naftaly H. Minsky:::What should we do about the evolution of software.
+conf/ispw/Minsky89:::Naftaly H. Minsky:::Law-governed software processes.
+conf/ispw/CampbellL84:::Roy H. Campbell::Peter E. Lauer:::RECIPE: Requirements for an evolutionary computer-based information processing environment.
+conf/ispw/GieseHLR94:::P. Giese::Barbara Hoisl::Christopher M. Lott::H. Dieter Rombach:::Data collection in a process-sensitive software engineering environment.
+conf/ispw/BuckleyFP86:::Michael Buckley::Charles A. Frisch::Doyt L. Perry:::Hierarchical control of software devlopment.
+conf/ispw/ConradiLW90:::Reidar Conradi::Chunnian Liu::Per H. Westby:::EPOS PM: planning and execution.
+conf/ispw/KaplanBT94:::Simon M. Kaplan::Celsina Bignoli::William J. Tolone:::Process, space, &amp; software development suppport.
+conf/ispw/Feiler90:::Peter H. Feiler:::Software process support in software development environments.
+conf/ispw/Feiler93:::Peter H. Feiler:::CASE and CAPE: Conflict of Interest.
+conf/ispw/Finkelstein89:::Anthony Finkelstein:::A structural framework for the formal representation of cooperation.
+conf/ispw/KramerM84:::Jeff Kramer::Jeff Magee:::Environment requirements for system evolution.
+conf/ispw/RueherLL88:::Michael Rueher::Didier Ladret::Bruno Legeard:::Capturing software processes through the generated objects.
+conf/ispw/KatayamaM91:::Takuya Katayama::Sumio Motizuki:::What has been learned from applying a formal process model to a real process.
+conf/ispw/Balzer88:::Robert Balzer:::Process programming: passing into new phase.
+conf/ispw/Penedo94:::Manuel H. Penedo:::Life-cycle (sub) process scenario.
+conf/ispw/Osterweil89:::Leon J. Osterweil:::Experiences with process programming.
+conf/ispw/ArbaouiO93:::Selma Arbaoui::Flávio Oquendo:::Managing Inconsistencies Between Process Enactment and Process Performance States.
+conf/ispw/NakagawaF89:::Ataru T. Nakagawa::Kokichi Futasugi:::Product-based process models.
+conf/ispw/Scacchi88:::Walt Scacchi:::Modelling software evolution: a knowledge-based approach.
+conf/ispw/Jackson84:::M. A. Jackson:::Software composition.
+conf/ispw/Krzanik88:::Lech Krzanik:::Enactable models for quantitative evolutionary software processes.
+conf/ispw/PeuschelSW90:::Burkhard Peuschel::Wilhelm Schäfer::Stefan Wolf:::A flexible environment architecture as a basis for distributed software development.
+conf/ispw/HeimbignerW96:::Dennis Heimbigner::Alexander L. Wolf:::Software in the field needs process too.
+conf/ista/KlischewskiW01:::Ralf Klischewski::Ingrid Wetzel:::Modeling Serviceflow.
+conf/ista/MishchenkoD03:::Nadiya Mishchenko::Anatoly E. Doroshenko:::Tools for Generation of Natural Inflected Language Processors.
+conf/ista/Kuklenko01:::Dmytry Kuklenko:::Design and Development Issues of Retrospecitve Database in Complex Technological Control Systems.
+conf/ista/GodlevskyO01:::Mikhail D. Godlevsky::Sergey V. Orekhov:::An Enterprise Financial State Estimation Based on Data Mining.
+conf/ista/BergerDM03:::Helmut Berger::Michael Dittenbach::Dieter Merkl:::Querying Tourism Information Systems in Natural Language.
+conf/isss/Sentovich97:::Ellen Sentovich:::Quick Conservative Causality Analysis.
+conf/isss/BringmannRR98:::Oliver Bringmann::Wolfgang Rosenstiel::Dirk Reichardt:::Synchronization Detection for Multi-Process Hierarchical Synthesis.
+conf/isss/FrabouletKM01:::Antoine Fraboulet::Karen Kodary::Anne Mignotte:::Loop fusion for memory space optimization.
+conf/isss/ZivojnovicPSWSM96:::Vojin Zivojnovic::Stefan Pees::C. Schälger::Markus Willems::R. Schoenen::Heinrich Meyr:::DSP Processor/Compiler Co-Design: A Quantitative Approach.
+conf/isss/ParkH00:::Chanik Park::Soonhoi Ha:::Hardware Synthesis from SPDF Representation for Multimedia Applications.
+conf/isss/Gao01:::Guang R. Gao:::Bridging the gap between ISA compilers and silicon compilers a challenge for future SoC design.
+conf/isss/WuW98:::Zhao Wu::Wayne Wolf:::Data-Path Synthesis of VLIW Video Signal Processors.
+conf/isss/Hassoun98:::Soha Hassoun:::Fine Grain Incremental Rescheduling Via Architectural Retiming.
+conf/isss/BraunHNM01:::Gunnar Braun::Andreas Hoffmann::Achim Nohl::Heinrich Meyr:::Using static scheduling techniques for the retargeting of high speed, compiled simulators for embedded processors from an abstract machine description.
+conf/isss/DebOJ01:::Abhijit K. Deb::Johnny Öberg::Axel Jantsch:::Control and communication performance analysis of embedded DSP systems in the MASIC methodology.
+conf/isss/StammermannKNPSSS01:::Ansgar Stammermann::Lars Kruse::Wolfgang Nebel::Alexander Pratsch::Eike Schmidt::Milan Schulte::Arne Schulz:::System level optimization and design space exploration for low power.
+conf/isss/MaestreKFBS00:::Rafael Maestre::Fadi J. Kurdahi::Milagros Fernández::Nader Bagherzadeh::Hartej Singh:::Configuration Management in Multi-Context Reconfigurable Systems for Simultaneous Performance and Power Optimization.
+conf/isss/HorstmannshoffM99:::Jens Horstmannshoff::Heinrich Meyr:::Optimized System Synthesis of Complex RT Level Building Blocks from Multirate Dataflow Graphs.
+conf/isss/HeinDCLA97:::A. Hein::J. Dalcolmo::P. Le Corre::Rudy Lauwereins::Marleen Adé:::Prototyping of the Receiver Unit for a Broadband Access Network.
+conf/isss/BusaWB00:::Natalino G. Busá::Albert van der Werf::Marco Bekooij:::Scheduling Coarse-Grain Operations for VLIW Processors.
+conf/isss/MuhammadR99:::Khurram Muhammad::Kaushik Roy:::A Graph Theoretic Approach for Design and Synthesis of Multiplierless FIR Filters.
+conf/isss/MesmanSTMJ97:::Bart Mesman::Marino T. J. Strik::Adwin H. Timmer::Jef L. van Meerbergen::Jochen A. G. Jess:::Constraint Analysis for DSP Code Generation.
+conf/isss/GasteierG96:::Michael Gasteier::Manfred Glesner:::Bus-Based Communication Synthesis on System-Level.
+conf/isss/BakshiG97:::Smita Bakshi::Daniel Gajski:::A Scheduling and Pipelining Algorithm for Hardware/Software Systems.
+conf/isss/PenalbaMM00:::O. Peñalba::José M. Mendías::María C. Molina:::Execution Condition Analysis in High Level Synthesis: A Unified Approach.
+conf/isss/MuresanG01:::Radu Muresan::Catherine H. Gebotys:::Current consumption dynamics at instruction and program level for a <i>VLIW</i> DSP processor.
+conf/isss/BrandoleseFPSS00:::Carlo Brandolese::William Fornaciari::Luigi Pomante::Fabio Salice::Donatella Sciuto:::A Multi-Level Strategy for Software Power Estimation.
+conf/isss/Norman01:::Richard Norman:::System design of a telecommunication router.
+conf/isss/Vahid98:::Frank Vahid:::A Three-Step Approach to the Functional Partitioning of Large Behavioral Processes.
+conf/isss/ChathaV98:::Karam S. Chatha::Ranga Vemuri:::A Tool for Partitioning and Pipelined Scheduling of Hardware-Software Systems.
+conf/iswc/Diaz02:::Fernando Diaz:::Using Wearable Computers to Construct Semantic Representations of Physical Spaces.
+conf/iswc/Pascoe98:::Jason Pascoe:::Adding Generic Contextual Capabilities to Wearable Computers.
+conf/iswc/AokiM00:::Hisashi Aoki::Soichiro Matsushita:::Balloon Tag: (In)visible Marker Which Tells Who's Who.
+conf/iswc/ClarksonMP00:::Brian Clarkson::Kenji Mase::Alex Pentland:::Recognizing User Context via Wearable Sensors.
+conf/iswc/Rekimoto01:::Jun Rekimoto:::GestureWrist and GesturePad: Unobtrusive Wearable Interaction Devices.
+conf/iswc/SchwartzHHR02:::Steven J. Schwartz::Jeffrey A. Hoffman::Edward Hodgson::Peter A. Ronzani:::Is There Space for Wearables?
+conf/iswc/BillinghurstWF97:::Mark Billinghurst::Suzanne Weghorst::Thomas A. Furness:::Wearable Computers for Three Dimensional CSCW.
+conf/iswc/HollererPF99:::Tobias Höllerer::John V. Pavlik::Steven Feiner:::Situated Documentaries: Embedding Multimedia Presentations in the Real World.
+conf/iswc/OckermanP98:::Jennifer J. Ockerman::Amy R. Pritchett:::Preliminary Investigation of Wearable Computers for Task Guidance in Aircraft Inspection.
+conf/iswc/AntifakosS02:::Stavros Antifakos::Bernt Schiele:::Bridging the Gap between Virtual and Physical Games Using Wearable Sensors.
+conf/iswc/BauerHKS98:::Martin Bauer::Timo Heiber::Gerd Kortuem::Zary Segall:::A Collaborative Wearable System with Remote Sensing.
+conf/iswc/ReillySS00:::Denis J. Reilly::Daniel P. Siewiorek::Asim Smailagic:::Power Consumption and Performance Analysis of Real-Time Speech Translator Smart Module.
+conf/iswc/HerstadT99:::Jo Herstad::Do Van Thanh:::Wearing Bike Components.
+conf/iswc/McKinleySKK02:::Philip K. McKinley::Seyed Masoud Sadjadi::Eric P. Kasten::R. Kalaskar:::Programming Language Support for Adaptable Wearable Computing.
+conf/iswc/PiekarskiT01:::Wayne Piekarski::Bruce H. Thomas:::Tinmith-Metro: New Outdoor Techniques for Creating City Models with an Augmented Reality Wearable Computer.
+conf/iswc/SchmidtGB99:::Albrecht Schmidt::Hans-Werner Gellersen::Michael Beigl:::A Wearable Context-Awareness Component: Finally a Good Reason to Wear a Tie.
+conf/iswc/SmailagicM97:::Asim Smailagic::Richard Martin:::Metronaut: A Wearable Computer with Sensing and Global Communication Capabilities.
+conf/iswc/SuomelaLS01:::Riku Suomela::Juha Lehikoinen::Ilkka Salminen:::A System for Evaluating Augmented Reality User Interfaces in Wearable Computers.
+conf/iswc/ThompsonONR97:::J. Christopher Thompson::Jennifer J. Ockerman::Lawrence J. Najjar::Erika Rogers:::Factory Automation Support Technology (FAST): A New Paradigm of Continuous Learning and Support Using a Wearable.
+conf/iswc/DeVaulP02:::Richard W. DeVaul::Alex Pentland:::Toward the Zero Attention Interface: Wearable Subliminal Cuing for Short Term Memory Support Memory.
+conf/iswc/Furness02:::Thomas A. Furness III:::Retinal Displays.
+conf/iswc/VardyRC99:::Andrew Vardy::John A. Robinson::Li-Te Cheng:::The WristCam as Input Device.
+conf/iwai/AntunesC99:::Luis Antunes::Helder Coelho:::Redesigning the Agents' Decision Machinery.
+conf/iwan/VanetSEK00:::Gaëtan Vanet::Motohiro Suzuki::Tôru Egashira::Yoshiaki Kiriha:::Multi-tier Architecture for Service Creation, Deployment and Management.
+conf/iwan/SehgalCG02:::Amit Sehgal::Kenneth L. Calvert::Jim Griffioen:::A Flexible Concast-Based Grouping Service.
+conf/iwan/RazS99:::Danny Raz::Yuval Shavitt:::An Active Network Approach to Efficient Network Management.
+conf/iwan/PrehoferW02:::Christian Prehofer::Qing Wei:::Active Networks for 4G Mobile Communication: Motivation, Architecture, and Application Scenarios.
+conf/iwan/KulkarniMFE99:::Amit Kulkarni::Gary J. Minden::Victor Frost::Joseph B. Evans:::Suvivability of Acitve Networking Services.
+conf/iwan/VanetK99:::Gaëtan Vanet::Yoshiaki Kiriha:::A Self-Configuring Data Caching Architecture Based on Active Networking Techniques.
+conf/iwan/WillmottF99:::Steven Willmott::Boi Faltings:::Active Organisations for Routing.
+conf/iwan/BaumgartnerB00:::Florian Baumgartner::Torsten Braun:::Quality of Service and Active Networking on Virtual Router Topologies.
+conf/iwan/LefevrePPTGGM01:::Laurent Lefèvre::CongDuc Pham::Pascale Primet::Bernard Tourancheau::Benjamin Gaidioz::Jean-Patrick Gelas::Moufida Maimour:::Active Networking Support for the Grid.
+conf/iwan/BusseCL99:::Ingo Busse::Stefan Covaci::André Leichsenring:::Autonomy and Decentralization in Active Networks: A Case Study for Mobile Agents.
+conf/iwar/Li92:::Wei Li:::Towards a Theory of Epistemic Processes.
+conf/iwar/WuW92:::Yihua Wu::Jiesheng Wang:::A General Framework of Qualitative Kinematics.
+conf/iwar/Vagin92:::V. N. Vagin:::Parallel Inference on Logical Networks.
+conf/iwcc/FolliotPSBKLO01:::Bertil Folliot::Ian Piumarta::Lionel Seinturier::C. Baillarguet::C. Khoury::A. Leger::F. Ogel:::Beyond Flexibility and Reflection: The Virtual Virtual Machine Approach.
+conf/iwcc/DuLLWZ99:::Zhihui Du::Sanli Li::Shuyou Li::Mengyue Wu::Jing Zhu:::Massively Parallel Simulated Annealing Embedded with Downhill - A SPMD Algorithm for Cluster Computing.
+conf/iwcc/PetcuPT01:::Dana Petcu::Horia Popa::Dorin Tepeneu:::A User-Level Interface for Clustering Mathematical Software Kernels.
+conf/iwcc/Lopez-Bonilla99:::Oscar R. López-Bonilla:::Task Partitioning Utilizing Available Time on Multiprocessor Systems for a Given Schedule.
+conf/iwcc/AntoniuB01:::Gabriel Antoniu::Luc Bougé:::Implementing Multithreaded Protocols for Release Consistency on Top of the Generic DSM-PM Platform.
+conf/iwcc/SuzukiFB99:::Naoya Suzuki::Munehiro Fukuda::Lubomir Bic:::Self-Migrating Threads for Multi-Agent Applications.
+conf/iwcc/DawsonS99:::Jeremy E. Dawson::Peter E. Strazdins:::Optimizing User-Level Communication Patterns on the Fujitsu AP3000.
+conf/iwcc/Skjellum99:::Anthony Skjellum:::Clustering for Research and Production Scale, Parallel and Distributed Computing.
+conf/iwcc/ZhuCL99:::Ming Zhu::Wentong Cai::Bu-Sung Lee:::Key Message Algorithm: A Communication Optimization Algorithm in Cluster-Based Parallel Computing.
+conf/iwcc/LancasterT99:::David Lancaster::Kenji Takeda:::Comparative Performance of a Commodity Alpha Cluster Running Linux and Windows NT.
+conf/iwcc/TapusBS01:::Nicolae Tapus::Mihai Burcea::Vlad Staicu:::A Distributed Application for Monte Carlo Simulations.
+conf/iwcc/Gentzsch01:::Wolfgang Gentzsch:::Grid Computing: A New Technology for the Advanced Web.
+conf/iwdc/IannacconeR01:::Gianluca Iannaccone::Luigi Rizzo:::Fairness of a Single-Rate Multicast Congestion Control Scheme.
+conf/iwdc/BanerjeeHNKBPT02:::Prithviraj Banerjee::Malay Haldar::Anshuman Nayak::Victor Kim::Debabrata Bagchi::Satrajit Pal::Nikhil Tripathi:::A Behavioral Synthesis Tool for Exploiting Fine Grain Parallelism in FPGAs.
+conf/iwdc/GarroppoGNR01:::Rosario Giuseppe Garroppo::Stefano Giordano::Saverio Niccolini::Franco Russo:::DiffServ Aggregation Strategies of Real Time Services in a WFQ+ Schedulers Network.
+conf/iwdc/JiKT01:::Ping Ji::James F. Kurose::Donald F. Towsley:::Activating and Deactivating Repair Servers in Active Multicast Trees.
+conf/iwdc/ChlamtacG02:::Imrich Chlamtac::Ashwin Gumaste:::Bandwidth Management in Community Networks.
+conf/iwdc/GhoshMS02:::Loknath Ghosh::Amitava Mukherjee::Debashis Saha:::Design of 1-FT Communication Network under Budget Constraint.
+conf/iwdc/PatnaikS02:::Lalit M. Patnaik::Anand Suvernkar:::Multipath Routing to Provide Quality of Service in Mobile Ad Hoc Networks.
+conf/iwdc/BiancoGLNR01:::Andrea Bianco::G. Galante::Emilio Leonardi::Fabio Neri::M. Rundo:::Access Control Protocols for Interconnected WDM Rings in the DAVID Metro Network.
+conf/iwdc/BianchiBM01:::Giuseppe Bianchi::Nicola Blefari-Melazzi::Vincenzo Mancuso:::Endpoint Admission Control over Assured Forwarding PHBs and Its Performance over RED Implementations.
+conf/iwdc/VandenhouteMJC01:::Marc Vandenhoute::Francesco Masetti::Amaury Jourdan::Dominique Chiaroni:::Progressive Introduction of Optical Packet Switching Techniques in WDM Networks.
+conf/iwdc/ChoiJPC01:::Tae-uk Choi::Myoung-Kyoung Ji::Seong-Ho Park::Ki-Dong Chung:::An Adaptive Periodic FEC Scheme for Internet Video Applications.
+conf/iwdc/GerlaFCF01:::Mario Gerla::Aiguo Fei::Jun-Hong Cui::Michalis Faloutsos:::Aggregated Multicast for Scalable QoS Multicast Provisioning.
+conf/iwdm/LaiL87:::Ming-Yee Lai::Vladimir Lanin:::Distributing the Optimistic Multiversioning Page Manager in the Jasmin Database Machine.
+conf/iwdm/SabbatelIN83:::G. Berger Sabbatel::J. C. Ianeselli::Gia Toan Nguyen:::A Prolog Database Machine.
+conf/iwdm/KojimaTY87:::Keiji Kojima::Shun'ichi Torii::Seiichi Yoshizumi:::IDP - A Main Storage Based Vector Database Processor.
+conf/iwdm/FaudemayV85:::Pascal Faudemay::Patrick Valduriez:::Design and Analysis of a Direct Filter Using Parallel Comparators.
+conf/iwdm/BultzingsloewenLD87:::Günter von Bültzingsloewen::Rolf-Peter Liedtke::Klaus R. Dittrich:::Set-Oriented Memory Management In A Multiprocessor Database Machine.
+conf/iwdm/SchiffnerSSW83:::Gerd Schiffner::Peter Scheuermann::S. Seehusen::H. Weber:::On a Specification and Performance Evaluation Model for Multicomputer Database Machines.
+conf/iwdm/BultzingsloewenILKSDL89:::Günter von Bültzingsloewen::Cirano Iochpe::Rolf-Peter Liedtke::Ralf Kramer::Michael Schryro::Klaus R. Dittrich::Peter C. Lockemann:::Design and Implementation of KARDAMOM - A Set-oriented Data Flow Database Machine.
+conf/iwdm/MatsudaKMKM87:::Hideo Matsuda::M. Kohata::T. Masuo::Yukio Kaneda::Sadao Maekawa:::Implementing Parallel Prolog System on Multiprocessor System PARK.
+conf/iweb/Back98:::Svend Back:::Entwicklung von Java.
+conf/iweb/WolfF98:::Klaus Heiner Wolf::Konrad Froitzheim:::Benutzerraum und Dokumentenraum - Nachbarschaft im WWW.
+conf/iwec/OkaSNSK02:::Kenji Oka::Imari Sato::Yasuto Nakanishi::Yoichi Sato::Hideki Koike:::Interaction for entertainment contents based on direct manipulation with bare hands.
+conf/iwec/MendelowitzB02:::Eitan Mendelowitz::Jeff Burke:::A distributed control system and scripting language for "interactivity" in live performance.
+conf/iwec/FrankL02:::Anders Frank::Nicklas Lundblad:::The new role of gaming - how games move outside entertainment.
+conf/iwec/TakasuKA02:::Atsuhiro Takasu::Teruhito Kanazawa::Jun Adachi:::Statistical phrase extraction and indexing for music retrieval.
+conf/iwec/Grimbergen02:::Reijer Grimbergen:::Threat stacks to guide pruning and search extensions in shogi.
+conf/iwec/SatoK02:::Makoto Sato::Yasuharu Koike:::Playing rubik's cube in mixed reality.
+conf/iwec/SaitohYM02:::Kazuyuki Saitoh::Tomoko Yonezawa::Kenji Mase:::Awareness communications by entertaining toy doll agents.
+conf/iwec/MartinezAMT02:::A. B. Martínez::J. P. Arboleda::E. X. Martín::C. Torrens:::Mixed reality in traffic scenes.
+conf/iwdw/KangHS02:::Xiangui Kang::Jiwu Huang::Yun Q. Shi:::An Image Watermarking Algorithm Robust to Geometric Distortion.
+conf/iwdw/SionAP02:::Radu Sion::Mikhail J. Atallah::Sunil Prabhakar:::On Watermarking Numeric Sets.
+conf/iwfm/Lowe97:::Helen Lowe:::The Use of Theorem Provers in the Teaching and Practice of Formal Methods.
+conf/iwfm/Poppleton97:::M. Poppleton:::The Single Transferable Voting System: Functional Decomposition in Formal Specification.
+conf/iwfm/Gibbons98:::Hugh Gibbons:::Declarative View of Imperative Programs.
+conf/iwfm/Sherratt97:::Edel Sherratt:::Nonmonotonic Reasoning and Formal Software Development.
+conf/iwhd/RossiSLC95:::Gustavo Rossi::Daniel Schwabe::Carlos José Pereira de Lucena::Donald D. Cowan:::An Object-Oriented Model for Designing the Humam-Computer Interface Of Hypermedia Applications.
+conf/iwhd/Kahn95:::Paul Kahn:::Global and Local Hypermedia Design in the Encyclopaedia Africana.
+conf/iwhd/BernardCHH95:::Rory Bernard::Richard Crowder::Ian Heath::Wendy Hall:::Authoring a Large Scale Industrial Hypermedia Application: A Case Study.
+conf/iwhd/HillHRC95:::Gary Hill::Wendy Hall::David De Roure::Les Carr:::Applying Open Hypertext Principles to the WWW.
+conf/iwls/KerttuLDT02:::Mikael Kerttu::Per Lindgren::Rolf Drechsler::Mitchell A. Thornton:::Low Power Optimization Techniques for BDD Mapped Finite State Machines.
+conf/iwls/SasaoIM02:::Tsutomu Sasao::Yukihiro Iguchi::Munehiro Matsuura:::Comparison of Decision Diagrams for Multiple-Output Logic Functions.
+conf/iwls/MishchenkoS02:::Alan Mishchenko::Tsutomu Sasao:::Encoding of Boolean Functions and its Application to LUT Cascade Synthesis.
+conf/iwls/YenCJ02:::Chia-Chih Yen::Kuang-Chien Chen::Jing-Yang Jou:::A Practical Approach to Cycle Bound Estimation for Property Checking.
+conf/iwls/SinhaMB02:::Subarnarekha Sinha::Alan Mishchenko::Robert K. Brayton:::Topologically Constrained Logic Synthesis.
+conf/iwls/Cortadella02:::Jordi Cortadella:::Bi-Decomposition and Tree-Height Reduction for Timing Optimization.
+conf/iwmm/LangendoenMV92:::Koen Langendoen::Henk L. Muller::Willem G. Vree:::Memory Management for Parallel Tasks in Shared Memory.
+conf/iwmm/NishanovS98:::Gor V. Nishanov::Sibylle Schupp:::Garbage Collection in Generic Libraries.
+conf/iwmm/Pique92:::Jean François Pique:::Dynamic Revision of Choice Points during Garbage Collection in Prolog [II/III].
+conf/iwmm/LaroseF98:::Martin Larose::Marc Feeley:::A Compacting Incremental Collector and its Performance in a Production Quality Compiler.
+conf/iwmm/KaplanMC02:::Scott F. Kaplan::Lyle A. McGeoch::Megan F. Cole:::Adaptive caching for demand prepaging.
+conf/iwmm/Hamilton95:::G. W. Hamilton:::Compile-Time Garbage Collection for Lazy Functional Languages
+conf/iwmm/Aggarwal02:::Aneesh Aggarwal:::Software caching vs. prefetching.
+conf/iwmm/PrintezisG02:::Tony Printezis::Alex Garthwaite:::Visualising the train garbage collector.
+conf/iwmm/JohanssonSW02:::Erik Johansson::Konstantinos F. Sagonas::Jesper Wilhelmsson:::Heap architectures for concurrent languages using message passing.
+conf/iwmm/RothW98:::David J. Roth::David S. Wise:::One-Bit Counts between Unique and Sticky.
+conf/iwmm/Samples92:::A. Dain Samples:::GC-cooperative C++.
+conf/iwmm/HudsonMSW00:::Richard L. Hudson::J. Eliot B. Moss::Sreenivas Subramoney::Weldon Washburn:::Cycles to Recycle: Garbage Collection on the IA-64.
+conf/iwmm/Virding95:::Robert Virding:::A Garbage Collector for the Concurrent Real-Time Language Erlang
+conf/iwmm/Tarditi00:::David Tarditi:::Compact Garbage Collection Tables.
+conf/iwmm/AbdullahiMR92:::Saleh E. Abdullahi::Eliot E. Miranda::Graem A. Ringwood:::Collection Schemes for Distributed Garbage.
+conf/iwmm/Delacour92:::V. Delacour:::Allocation Regions &amp; Implementation Contracts.
+conf/iwmm/AttardiFI95:::Giuseppe Attardi::Tito Flagella::Pietro Iglio:::Performance Tuning in a Customizable Collector
+conf/iwmm/Rodriguez-RiveraSF98:::Gustavo Rodriguez-Rivera::Michael Spertus::Charles Fiterman:::A Non-Fragmenting NonMmoving, Garbage Collector.
+conf/kbcs/Mukerjee89:::Amitabha Mukerjee:::A Representation for Modeling Functional Knowledge in Geometric Structures.
+conf/kbcs/RavindranM89:::E. Ravindran::S. L. Mehndiratta:::A Unified Framework for Characterising Logic Program Executions.
+conf/kbcs/RamaniCA89:::S. Ramani::R. Chandrasekar::K. S. R. Anjaneyulu:::KBCS Activities at NCST.
+conf/kbcs/GovindarajuLNSSSW89:::Venu Govindaraju::Stephen W. Lam::Debashish Niyogi::David B. Sher::Rohini K. Srihari::Sargur N. Srihari::Dacheng Wang:::Newspaper Image Understanding.
+conf/iwpc/CoxC03:::Anthony Cox::Charles L. A. Clarke:::Syntactic Approximation Using Iterative Lexical Analysis.
+conf/iwpc/Gallagher00:::Keith Brian Gallagher:::Tools for Program Comprehension: Building a Comprehender's Workbench.
+conf/iwpc/BratthallW00:::Lars Bratthall::Claes Wohlin:::Understanding Some Software Quality Aspects from Architecture and Design Models.
+conf/iwpc/AndritsosM01:::Periklis Andritsos::Renée J. Miller:::Reverse Engineering Meets Data Analysis.
+conf/iwpc/KnapenLDM99:::Gregory Knapen::Bruno Laguë::Michel Dagenais::Ettore Merlo:::Parsing C++ Despite Missing Declarations.
+conf/iwpc/MarkovicHRB97:::Dejan Markovic::Jack R. Hagemeister::C. S. Raghavendra::Sanjay Bhansali:::Semi-automatic Generation of Parallelizable Patterns from Source Code Examples.
+conf/iwpc/JacobD03:::S. Dhinakar Jacob::Madhuchhanda Das:::TALK2C: A Tool for Automatic Migratio.
+conf/iwpc/Mittermeir00:::Roland Mittermeir:::Comprehending by varying Focal Distance.
+conf/iwpc/CanforaCLL98:::Gerardo Canfora::Aniello Cimitile::Andrea De Lucia::Giuseppe A. Di Lucca:::Decomposing Legacy Programs: A First Step Towards Migrating to Client-Server Platforms.
+conf/iwpc/YoungM98:::Peter Young::Malcolm Munro:::Visualizing Software in Virtual Reality.
+conf/iwpc/SneedE96:::Harry M. Sneed::Katalin Erdos:::Extracting Business Rules from Source Code .
+conf/iwpc/EickW96:::Stephen G. Eick::Amy Wards:::An Interactive Visualization for Message Sequence Charts.
+conf/iwpc/BinkleyRSH00:::David Binkley::L. Raszewski::Christopher Smith::Mark Harman:::An Empirical Study of Amorphous Slicing as a Program Comprehension Support Tool.
+conf/iwpc/MartinoMMV99:::Beniamino Di Martino::Antonino Mazzeo::Nicola Mazzocca::Umberto Villano:::Restructuring Parallel Programs by Transformation of Point-To-Point Interactions into Collective Communication.
+conf/iwpc/RajlichC97:::Vaclav Rajlich::George S. Cowan:::Towards Standard for Experiments in Program Comprehension.
+conf/iwpc/ErdosS98:::Katalin Erdös::Harry M. Sneed:::Partial Comprehension of Complex Programs (enough to perform maintenance).
+conf/iwpc/Sneed00:::Harry M. Sneed:::Source Animation as a Means of Program Comprehension.
+conf/iwpc/BuckleyE03:::Jim Buckley::Christopher Exton:::Blooms? Taxonomy: A Framework for Assessing Programmers? Knowledge of Software Systems.
+conf/iwpc/CounsellMS02:::Steve Counsell::Emilia Mendes::Stephen Swift:::Comprehension of Object-Oriented Software Cohesion: The Empirical Quagmire.
+conf/iwpc/CounsellNM00:::Steve Counsell::P. Newson::Emilia Mendes:::Architectural Level Hypothesis Testing through Reverse Engineering of Object-Oriented Software.
+conf/iwpc/HeuzerothHHL03:::Dirk Heuzeroth::Thomas Holl::Gustav Högström::Welf Löwe:::Automatic Design Pattern Detection.
+conf/iwpc/Walenstein03:::Andrew Walenstein:::Observing and Measuring Cognitive Support: Steps Toward Systematic Tool Evaluation and Engineering.
+conf/iwpc/El-RamlySS02:::Mohammad El-Ramly::Eleni Stroulia::Paul G. Sorenson:::Mining System-User Interaction Traces for Use Case Models.
+conf/iwpc/ChanHMY03:::Andrew Chan::Reid Holmes::Gail C. Murphy::Annie T. T. Ying:::Scaling an Object-Oriented System Execution Visualizer through Sampling.
+conf/iwpc/HarmanD97:::Mark Harman::Sebastian Danicic:::Amorphous Program Slicing.
+conf/iwvf/BiancardiS01:::Alberto Biancardi::Manuel Segovia-Martínez:::Adaptive Segmentation of MR Axial Brain Images Using Connected Components.
+conf/iwvf/LiuS01:::Lifeng Liu::Stan Sclaroff:::Shape-Guided Split and Merge of Image Regions.
+conf/iwvf/WongMC01:::Kwan-Yee Kenneth Wong::Paulo R. S. Mendonça::Roberto Cipolla:::Head Model Acquisition from Silhouettes.

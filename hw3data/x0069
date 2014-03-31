@@ -1,0 +1,200 @@
+conf/icws/GinisC03:::Roman Ginis::K. Mani Chandy:::Service Composition Issues for Distributed Business Processes.
+conf/icws/OlkenR03:::Frank Olken::Doron Rotem:::Workflow Execution History Data Management: A Framework.
+conf/icws/SivashanmugamVSM03:::Kaarthik Sivashanmugam::Kunal Verma::Amit P. Sheth::John A. Miller:::Adding Semantics to Web Services Standards.
+conf/icws/YonghengQYBJL03:::Ma Yongheng::Xiong Qianxing::Wu Yefu::Meng Bo::Tian Jie::Yang Li'na:::Build W3C XML Schema for UN/EDIFACT Messages with Multilayer and Modular Architecture.
+conf/idms/HafidB97:::Abdelhakim Hafid::Raouf Boutaba:::A Scalable Access Scheme to Access Multimedia Documents with Quality of Service Guarantees.
+conf/idms/BochmannY99:::Gregor von Bochmann::Zhen Yang:::Quality of Service Management for Teleteaching Applications Using the MPEG-4/DMIF.
+conf/idms/FinneyO01:::Joe Finney::Greg O'Shea:::Mobile 4-in-6: A Novel Mechanism for IPv4/v6 Transitioning.
+conf/idms/LijdingJM02:::Maria Eva Lijding::Pierre G. Jansen::Sape J. Mullender:::A Flexible Real-Time Hierarchical Multimedia Archive.
+conf/idms/NeumannRS97:::Olaf Neumann::Sandra Rennecke::Alexander Schill:::Using Distributed Multimedia Infrastructures for Advanced Teleteaching Applications.
+conf/idms/UruenaLCAKKEGD02:::Manuel Urueña::David Larrabeiti::María Calderón::Arturo Azcorra::Jens E. Kristensen::Lars Kroll Kristensen::Ernesto Exposito::David Garduno::Michel Diaz:::An Active Network Approach to Support Multimedia Relays.
+conf/idms/WolfFW96:::Klaus Heiner Wolf::Konrad Froitzheim::Michael Weber:::Interactive Video and Remote Control via the World Wide Web.
+conf/idms/Schulzrinne96:::Henning Schulzrinne:::Personal Mobility for Multimedia Services in the Internet.
+conf/idms/Koerner97:::Eckhart Körner:::Patterns for Constructing CSCW Applications in TINA.
+conf/idms/ParnesSS97:::Peter Parnes::Kåre Synnes::Dick Schefström:::mTunnel: A Multicast Tunneling System with a User Based Quality-of-Service Model.
+conf/idms/Chang98:::Edward Y. Chang:::An Image Coding and Reconstruction Scheme for Mobile Computing.
+conf/idms/El-SaddikSGS00:::Abdulmotaleb El-Saddik::Shervin Shirmohammadi::Nicolas D. Georganas::Ralf Steinmetz:::JASMINE: Java Application Sharing in Multiuser INteractive Environments.
+conf/idms/WeisVEGL00:::Rüdiger Weis::Jürgen Vogel::Wolfgang Effelsberg::Werner Geyer::Stefan Lucks:::How to Make a Digital Whiteboard Secure - Using Java-Cards for Multimedia Applications.
+conf/idms/EikerlingB02:::Heinz-Josef Eikerling::Frank Berger:::Design of OSGi Compatible Middleware Components for Mobile Multimedia Applications.
+conf/idms/RautenbergR96:::Mathias Rautenberg::Helmut Rzehak:::A Control System for an Interactive Video on Demand Server Handling Variable Data Rates.
+conf/idms/Garcia-MartinezFV98:::Alberto García-Martínez::Jesús Fernández-Conde::Ángel Viña:::Single Pair of Buffers: Reducing Memory Requirements in VBR Media Servers.
+conf/idms/KunkelmannH98:::Thomas Kunkelmann::Uwe Horn:::Video Encryption Based on Data Partitioning and Scalable Coding - A Comparison.
+conf/idms/AckermannDRS00:::Ralf Ackermann::Vasilios Darlagiannis::Utz Roedig::Ralf Steinmetz:::Using DMIF for Abstracting from IP-Telephony Signaling Protocols.
+conf/idms/Consortium97:::HyNode Consortium:::Personalised News on Demand: The "HyNoDe" Service.
+conf/idms/MirasJH00:::Dimitrios Miras::Richard J. Jacobs::Vicky Hardman:::Utility-Based Inter-stream Adaptation of Layered Streams in a Multiple-Flow IP Session.
+conf/idms/IndulskaB02:::Jadwiga Indulska::Sasitharan Balasubramaniam:::Vertical Handover Based Adaptation for Multimedia Applications in Pervasive Systems.
+conf/idms/SmolicMLS97:::Aljoscha Smolic::B. Makai::G. Lin::Thomas Sikora:::Estimation of Motion Parameters of a Rigid Body from a Monocular Image Sequence for MPEG-4 Applications.
+conf/idms/IngvaldsenKW98:::Tone Ingvaldsen::Espen Klovning::Miles Wilkins:::A Study of Delay Factors in CSCW Applications and Their Importance.
+conf/idms/CortesE00:::Mauricio Cortes::J. Robert Ensor:::"Mix and Match" Media Servers.
+conf/idms/OppligerGMB96:::Rolf Oppliger::Amit Gupta::Mark Moran::Riccardo Bettati:::A Security Architecture for Tenet Scheme 2.
+conf/idms/NahrstedtW99:::Klara Nahrstedt::Duangdao Wichadakul:::QoS-aware Active Gateway for Multimedia Communication.
+conf/idms/Pereira01:::Fernando Pereira:::The MPEG-21 Standard: Why an Open Multimedia Framework?
+conf/idms/BoscoMR97:::Pier Giorgio Bosco::Giovanni Martini::Giovanni Reteuna:::MUSIC: An Interactive MUltimedia ServIce Composition Environment for Distributed Systems.
+conf/hpca/MichaudS01:::Pierre Michaud::André Seznec:::Data-Flow Prescheduling for Large Instruction Windows in Out-of-Order Processors.
+conf/hpca/NuthD95:::Peter R. Nuth::William J. Dally:::The Named-State Register File: Implementation and Performance.
+conf/hpca/ParkA96:::Hyunmin Park::Dharma P. Agrawal:::A Topology-Independent Generic Methodology for Deadlock-Free Wormhole Routing.
+conf/hpca/YuanMG97:::Xin Yuan::Rami G. Melhem::Rajiv Gupta:::Distributed Path Reservation Algorithms for Multiplexed All-Optical Interconnection Networks.
+conf/hpca/KailasEA01:::Krishnan Kailas::Kemal Ebcioglu::Ashok K. Agrawala:::CARS: A New Code Generation Framework for Clustered ILP Processors.
+conf/hpca/ChiuehP00:::Tzi-cker Chiueh::Prashant Pradhan:::Cache Memory Design for Network Processors.
+conf/hpca/TerechkoTGEC03:::Andrei Terechko::Erwan Le Thenaff::Manish Garg::Jos T. J. van Eijndhoven::Henk Corporaal:::Inter-Cluster Communication Models for Clustered VLIW Processors.
+conf/hpca/QinB97:::Xiaohan Qin::Jean-Loup Baer:::On the Use and Performance of Explicit Communication Primitives in Cache-Coherent Multiprocessor Systems.
+conf/hpca/RedstoneEL03:::Joshua Redstone::Susan J. Eggers::Henry M. Levy:::Mini-Threads: Increasing TLP on Small-Scale SMT Processors.
+conf/hpca/KatevenisSS98:::Manolis Katevenis::Dimitrios N. Serpanos::Emmanuel Spyridakis:::Credit-Flow-Controlled ATM for MP Interconnection: The ATLAS I Single-Chip ATM Switch.
+conf/hpca/YangT97:::Liuxi Yang::Josep Torrellas:::Speeding up the Memory Hierarchy in Flat COMA Multiprocessors.
+conf/hpca/BrooksM99:::David Brooks::Margaret Martonosi:::Dynamically Exploiting Narrow Width Operands to Improve Processor Power and Performance.
+conf/hpca/GulatiB96:::Manu Gulati::Nader Bagherzadeh:::Performance Study of a Multithreaded Superscalar Microprocessor.
+conf/hpca/CintraT02:::Marcelo H. Cintra::Josep Torrellas:::Speculative Multithreading Eliminating Squashes through Learning Cross-Thread Violations in Speculative Parallelization for Multiprocessors.
+conf/hpca/RheeL99:::Yunseok Rhee::Joonwon Lee:::A Scalable Cache Coherent Scheme Exploiting Wormhole Routing Networks.
+conf/hpca/LandinD96:::Anders Landin::Fredrik Dahlgren:::Bus-Based COMA - Reducing Traffic in Shared-Bus Multiprocessors.
+conf/hpca/SastryR95:::Raghu Sastry::N. Ranganathan:::A VLSI Architecture for Computer the Tree-to-Tree Distance.
+conf/hpca/DahlgrenL97:::Fredrik Dahlgren::Anders Landin:::Reducing the Replacement Overhead in Bus-Based COMA Multiprocessors.
+conf/hpca/ZhuZZ02:::Zhichun Zhu::Zhao Zhang::Xiaodong Zhang:::Fine-Grain Priority Scheduling on Multi-Channel Memory Systems.
+conf/hpca/FalsafiW97:::Babak Falsafi::David A. Wood:::Scheduling Communication on a SMP Node Parallel Machine.
+conf/hpca/EspasaV97:::Roger Espasa::Mateo Valero:::Multithreaded Vector Architectures.
+conf/hpca/FigueiredoF00:::Renato J. O. Figueiredo::José A. B. Fortes:::Impact of Heterogeneity on DSM Performance.
+conf/hpca/VartanianBD00:::Alexis Vartanian::Jean-Luc Bechennec::Nathalie Drach-Temam:::The Best Distribution for a Parallel OpenGL 3D Engine with Texture Caches.
+conf/hpca/IbrahimBR03:::Khaled Z. Ibrahim::Gregory T. Byrd::Eric Rotenberg:::Slipstream Execution Mode for CMP-Based Multiprocessors.
+conf/hpca/MogaD98:::Adrian Moga::Michel Dubois:::The Effectiveness of SRAM Network Caches in Clustered DSMs.
+conf/hpca/AbramsonLPR98:::David Abramson::Paul Logothetis::Adam Postula::Marcus Randall:::FPGA Based Custom Computing Machines for Irregular Problems.
+conf/hpca/LeeSNT01:::Hsien-Hsin S. Lee::Mikhail Smelyanskiy::Chris J. Newburn::Gary S. Tyson:::Stack Value File: Custom Microarchitecture for the Stack.
+conf/hpca/JimenezL01:::Daniel A. Jiménez::Calvin Lin:::Dynamic Branch Prediction with Perceptrons.
+conf/hpcn/FerriCSMBC97:::C. Ferri::P. Contri::P. Salvaneschi::G. Meloni::G. Bottoni::M. Cremonesi:::PIERS: A Parallel Integrated Environment for Reliability Evaluation of Structures.
+conf/hpcn/KoschB98:::Harald Kosch::László Böszörményi:::High Performance Sets.
+conf/hpcn/AltevogtG94:::Peter Altevogt::Fritz Gutbrod:::Monte Carlo Simulations of Lattice Gauge Theories on Multiprocessor Systems.
+conf/hpcn/Bohm95:::Kurt Böhm:::High performance computing for one of the grand challenges.
+conf/hpcn/PolemiM98:::Despina Polemi::Andy Marsh:::Secure Telemedicine Applications.
+conf/hpcn/FischerSS00:::Jochen Fischer::Andreas Schreiber::Martin Strietzel:::Script Wrapper for Software Integration Systems.
+conf/hpcn/GarataniKMNTY97:::Kazuteru Garatani::Kazushi Kitagawa::Kiyoshi Matsubara::Hisashi Nakamura::Kazuyuki Tsukimori::Genki Yagawa:::Study on Parallelization Method of Structural-Analysis Code.
+conf/hpcn/MalonySS99:::Allen D. Malony::Jenifer L. Skidmore::Matthew J. Sottile:::Computational Experiments using Distributed Tools in a Web-Based Electronic Notebook Environment.
+conf/hpcn/Dion96:::Michèle Dion:::Affine Data Mapping with Residual Communication Optimization: Evaluation of Heuristics.
+conf/hpcn/Fogaccia98:::Giuliana Fogaccia:::Parallel Implementation of a Lattice Boltzmann Algorithm for Electrostatic Plasma Turbulence.
+conf/hpcn/AokiL00:::Kiyoko Aoki::D. T. Lee:::A Web-Based Distributed Programming Environment.
+conf/hpcn/PettipherS97:::M. A. Pettipher::Ian M. Smith:::The Development of an MPP Implementation of a Suite of Finite Element Codes.
+conf/hpcn/HamiltonMM01:::Michael D. Hamilton::P. McKee::Isi Mitrani:::Optimal Caching Policies for Web Objects.
+conf/hpcn/Schmidt94:::Fritz Schmidt:::High-Performance Computing and Networking as Base Element of the Environmental Information System UIS of Baden-Württemberg.
+conf/hpcn/Cox95:::Adrian Cox:::A transputer based generic message passing library.
+conf/hpcn/Hohl94:::D. Hohl:::Computational Materials Science from First Principles.
+conf/hpcn/AlpernCGL01:::Bowen Alpern::Anthony Cocchi::David Grove::Derek Lieber:::Efficient Dispatch of Java Interface Methods.
+conf/hpcn/SilberD99:::Georges-André Silber::Alain Darte:::the NESTOR Library: A Tool for Implementing FORTRAN Source Transformations.
+conf/hpcn/LiA99:::Shusheng Li::A. L. Ananda:::Representatives Selection in Multicast Group.
+conf/hpcn/LiD99:::Jie Li::Elise de Doncker:::Dynamic Visualization of Computtations on the Internet.
+conf/hpcn/StankovaZ98:::Elena N. Stankova::Elena V. Zudilova:::Numerical Simulation by Means of Supercomputers.
+conf/hpcn/VenSDMST98:::Harmen van der Ven::Bert C. Schultheiss::Shun Doi::Hideki Matsumoto::Kouta Sugihara::Toshifumi Takei:::Real-Time Visualization of Large Data Sets on NLR's NEC SX-4.
+conf/hpcn/Werner-KytolaT00:::Otilia Werner-Kytölä::Walter F. Tichy:::Self-Tuning Parallelism.
+conf/hpcn/BlomLV98:::J. G. Blom::Walter M. Lioen::J. G. Verwer:::HPCN and Air Quality Modeling.
+conf/hpcn/KarkowskiC97:::Ireneusz Karkowski::Henk Corporaal:::Overcoming the Limitations of the Traditional Loop Parallelization.
+conf/hpcn/Ullmann94:::Klaus Ullmann:::High Speed Networking for the Research Community in Europe.
+conf/hpcn/WalterRP00:::Thomas Walter::Lukas Ruf::Bernhard Plattner:::Easy Teach &amp; Learn: A Web-Based Adaptive Middleware for Creating Virtual Classrooms.
+conf/hpcn/BogdanovGKLZ99:::Alexander V. Bogdanov::Igor A. Grishin::Gregory O. Khanlarov::German A. Lukianov::Vladimir V. Zakharov:::Algorithm of Two-Level Parallelization for Direct Simulation Monte Carlo of Unsteady Floes in Molecular Gasdynamics.
+conf/hpcn/DantasZ96:::M. A. R. Dantas::Ed Zaluska:::Improving Load Balancing in an MPI Environment with Resource Management.
+conf/hpcn/VounckxDLVWMSBABW94:::Johan Vounckx::Geert Deconinck::Rudy Lauwereins::G. Viehöver::R. Wagner::Henrique Madeira::João Gabriel Silva::Frank Balbach::Jörn Altmann::Bernd Bieker::Harald Willeke:::The FTMPS-Project: Design and Implementation of Fault-Tolerance Techniques for Massively Parallel Systems.
+conf/hpcn/Tiountchik99:::Alexander Tiountchik:::Implementation of Montgomery Exponentiation on Fine Grained FPGAs: A Note on Partitioning.
+conf/hpcn/StathopoulosY95:::Andreas Stathopoulos::Anders Ynnerman:::Dynamic load balancing of atomic structure programs on a PVM cluster.
+conf/hpcn/SchultheissB01:::Bert C. Schultheiss::Erik H. Baalbergen:::Utilizing Supercomputer Power from Your Desktop.
+conf/hpcn/DubbeldamHS99:::David Dubbeldam::Alfons G. Hoekstra::Peter M. A. Sloot:::Computational Aspects of Multi-Species Lattice-Gas Automata.
+conf/hpcn/Kremer94:::Kurt Kremer:::Supercomputing in Polymer Research (Invited Paper).
+conf/hpcn/GarbeyT96:::Marc Garbey::Damien Tromeur-Dervout:::Computing Stiff Propagating Combustion Fronts Between Walls on MIMD Architecture.
+conf/hpcn/MeijerPGJ95:::P. M. Meijer::S. Poedts::J. P. Goedbloed::A. Jakoby:::A parallel semi-implicit method for 3D nonlinear magnetohydrodynamics.
+conf/hpcn/DonatoSHSGL98:::June M. Donato::Jack C. Schryver::Gregory C. Hinkel::Richard L. Schmoyer Jr.::Nancy W. Grady::Michael R. Leuze:::Mining Mult-Dimensional Data for Decision Support.
+conf/hpcn/RobinsonDK95:::Dave Robinson::Ismet Demirdzic::Ramesh Krishna:::Parallel STAR promises bright future.
+conf/hpcn/ItohK96:::Taku Itoh::Masaki Kohata:::Torus-Ring-Bus Connected Hierarchic Parallel Machine.
+conf/hpcn/ZavanellaP99:::Andrea Zavanella::Susanna Pelagatti:::Using BSP to optimize Data Distribution in Skeleton Programs.
+conf/hpcn/LakshminarayananGB99:::S. Lakshminarayanan::S. S. Ghosh::N. Balakrishnan:::Implementation of MPI over HTTP.
+conf/hpcn/CeccoliniDOP96:::A. Ceccolini::Marco Danelutto::G. Orsini::Susanna Pelagatti:::A Tool for the Development of Structured Parallel Applications.
+conf/hpcn/BauerRRR96:::Walter Bauer::Heinrich Reister::Frederick Ross::Dave Robinson:::Parallel Computing for CFD Applications in the Automotive Industry - First Experiences.
+conf/hpcn/Takahashi01:::Daisuke Takahashi:::A Blocking Algorithm for FFT on Cache-Based Processors.
+conf/hpcn/PanizziS00:::Emanuele Panizzi::Giuseppe Sacco:::The APEmille Project.
+conf/hpcn/StrohmaierDMS97:::Erich Strohmaier::Jack Dongarra::Hans Werner Meuer::Horst D. Simon:::Industrial Application Areas of High-Performance Computing.
+conf/hpcn/LippertPS97:::Thomas Lippert::N. Petkov::Klaus Schilling:::BLAS-3 for the Quadrics Parallel Computer.
+conf/hpcn/KrommerDH97:::Arnold R. Krommer::Mishi Derakhshan::Sven Hammarling:::Solving PDE Problems on Parallel and Distributed Computer Systems Using the NAG Parallel Library.
+conf/hpcn/SturlerL97:::Eric de Sturler::Damian Loher:::Parallel Solution of Irregular, Sparse Matrix Problems Using High Performance Fortran.
+conf/hpcn/DerksenKA97:::Jos Derksen::J. L. Kooman::Harry Van den Akker:::Parallel Fluid Flow Simulations by Means of a Lattice-Boltzmann Scheme.
+conf/hpcn/Brandes94:::Thomas Brandes:::Evaluation of High-Performance Fortran on Some Real Applications.
+conf/hpcn/ArbenzGO96:::Peter Arbenz::Walter Gander::Michael Oettli:::The Remote Computation System.
+conf/hpcn/YauFH97:::H. W. Yau::Geoffrey Fox::Kenneth A. Hawick:::Evaluation of High Performance Fortran Through Application Kernels.
+conf/hpcn/Hanzalek94:::Zdenek Hanzálek:::Simulating Neural Networks on Telmat T-node.
+conf/hpcn/Manzoni95:::Pietro Manzoni:::Obtaining high performance data transmission in the Internet.
+conf/hpcn/LoeveV98:::W. Loeve::M. E. S. Vogels:::Competence Management Engineering Environments with HPCN.
+conf/hpcn/Vajtersic95:::Marián Vajtersic:::High Performance VLSI Model Elliptic Solvers.
+conf/hpcn/DralleR97:::Uwe Dralle::Alexander Reinefeld:::A Distributed Algorithm for Optimal Concurrent Communication and Load Balancing in Parallel Systems.
+conf/hpcn/ChatagnyC97:::Rodolphe Chatagny::Bastien Chopard:::Parallel Simulation of a Foreign Exchange Market Model.
+conf/hpcn/AshbyBBDLMO01:::John V. Ashby::Juan Bicarregui::David R. S. Boyd::Kerstin Kleese van Dam::Simon C. Lambert::Brian M. Matthews::Kevin D. O'Neill:::A Multidisciplinary Scientific Data Portal.
+conf/hpcn/DelibasisMMN99:::Konstantinos K. Delibasis::George K. Matsopoulos::Nikolaos A. Mouravlinsky::Konstantina S. Nikita:::Efficient Implementation of the Marching Cubes Algorithm for Rendering Medical Data.
+conf/hpcn/GerlachSI97:::Jens Gerlach::Mitsuhisa Sato::Yutaka Ishikawa:::Experiences with the C++ Standard Template Library and MPI for a Parallel Particle Simulation Method.
+conf/hpcn/AloisioCWM97:::Giovanni Aloisio::Massimo Cafaro::Roy Williams::Paul Messina:::A Distributed Web-Based Metacomputing Environment.
+conf/hpcn/KokPA97:::Arjan J. F. Kok::Joost van Lawick van Pabst::Hamideh Afsarmanesh:::The 3D Object Mediator: Handling 3D Models on Internet.
+conf/hpcn/BokuMI01:::Taisuke Boku::Masazumi Matsubara::Ken'ichi Itakura:::PIO: Parallel I/O System for Massively Parallel Processors.
+conf/hpcn/PeetersS98:::Tim W. J. Peeters::Paul P. J. Stroomer:::Parallel Simulation of a Bluff-Body-Stabalized Non-Premixed Syngas Flame.
+conf/hpcn/BoryczkoKML95:::K. Boryczko::Jacek Kitowski::Jacek Moscinski::A. Leszczynski:::Numerically intensive computing as a benchmark for parallel computer architectures.
+conf/hpcn/DzwinelDD97:::Witold Dzwinel::Jan Dzwinel::Krzysztof Dzwinel:::Development of Parallel Applications for MEGA-D - System for Oil and Gas Prospecting.
+conf/hpcn/Holtman01:::Koen Holtman:::HEPGRID2001: A Model of a Virtual Data Grid Application.
+conf/hpcn/DupuisC99:::Alexandre Dupuis::Bastien Chopard:::Lattice Gas: An Efficient and Reusable Parallel Library Based on a Graph Partitioning Technique.
+conf/hpcn/InadomiNKN01:::Yuichi Inadomi::Tatsuya Nakano::Kazuo Kitaura::Umpei Nagashima:::Increased Efficiency of Parallel Calculations of Fragment Molecular Orbitals by Using Fine-Grained Parallelization on a HITACHI SR8000 Supercomputer.
+conf/hpcn/Danelutto00:::Marco Danelutto:::Task Farm Computations in Java.
+conf/hpcn/SrakaewAPB99:::Sanan Srakaew::Nikitas A. Alexandridis::Punpiti Piamsa-nga::George C. Blankenship Jr.:::Content-Based Multimedia Data Retrieval on Cluster System Environment.
+conf/hpcn/RacklSHPL99:::Günther Rackl::Filippo de Stefani::Francois Héran::Antonello Pasquarelli::Thomas Ludwig II:::Airport Simulation using CORBA and DIS.
+conf/hpcn/KesslerS99:::Christoph W. Keßler::Helmut Seidl:::ForkLight: A Control-Synchronous Parallel Programming Language.
+conf/hpcn/SpezzanoT97:::Giandomenico Spezzano::Domenico Talia:::Programming High Performance Models of Soil Contamination by a Cellular Automata Language.
+conf/hpcn/BubakFIM99:::Marian Bubak::Wlodzimierz Funika::Kamil Iskra::Radoslaw Maruszewski:::OCM-Based Tools for Performance Monitoring of Message Passing Applications.
+conf/hpcn/Marsh98:::Andy Marsh:::EUROMED - A 21st Century WWW-Based Telemedical Information Society.
+conf/hpcn/Gijzen95:::Martin B. van Gijzen:::Parallel iterative solution methods for linear finite element computations on the Cray T3D.
+conf/hpcn/KalinovL99:::Alexey Kalinov::Alexey L. Lastovetsky:::Heterogeneous Distribution of Computations While Solving Linear Algebra Problems on Networks of Heterogeneous Computers.
+conf/hpcn/PloegKT97:::Auke van der Ploeg::Rony Keppens::Gábor Tóth:::Block Incomplete LU-preconditioners for Implicit Solution of Advection Dominated Problems.
+conf/hpcn/VinterAL99:::Brian Vinter::Otto J. Anshus::Tore Larsen:::Past-Set - A Distributed Structured Shared Memory System.
+conf/hpcn/IerotheouFB95:::Cos S. Ierotheou::C. R. Forsey::U. Block:::Parallelisation of a novel 3D hybrid structured/unstructured grid CFD production code.
+conf/hpcn/AgarwalGZ94:::Ramesh C. Agarwal::Fred G. Gustavson::Mohammad Zubair:::A Very High-Performance Algorithm for NAS EP Benchmark.
+conf/hpcn/BaldiniGHJM97:::Sandra Baldini::Luc Giraud::Laurent Hamel::José M. Jiménez::Luis M. Matey:::HIPERCOMBATS: A Parallel Industrial Tool for Two-Wheeler Suspensions Design.
+conf/hpcn/WalkerR99:::David Walker::Omer F. Rana:::The Use of JAVA in High Performance Computing: A Data Mining Example.
+conf/hpcn/SlotaKNPBP00:::Renata Slota::Harald Kosch::Darin Nikolow::Marek Pogoda::Klaus Breidler::Stefan Podlipnig:::MMSRS - Multimedia Storage and Retrieval System for a Distributed Medical Information System.
+conf/hpcn/CastelowG94:::D. A. Castelow::N. D. Gent:::Parallel Implementation of Control Tasks for an Automated Stereo Camera Mount.
+conf/hpcn/GarciaSGLGGWMOTRCD94:::G. D. García::Francisco Suárez::Manuel García::Enrique Lasso::Rafael Guzman::Trevor Garden::David Watson::Chic McGregor::Faustino Obeso::Manuel Tarrio::Gianni Rota::Franco Cocola::Fiorella Degli:::An Embedded Solution Using High-Performance Computing for Cost Effective On-Line Real-Time Monitoring of Industrial Processes.
+conf/hpcn/ElliotBCGW96:::John A. Elliot::Stephen H. Brindle::Adrian Colbrook::Daron Green::Francis Wray:::Real Industrial HPC Applications.
+conf/hpcn/Pourquie98:::M. Pourquié:::LES and DNS on Parallel and Vector Platforms.
+conf/hpcn/ChapmanZM94:::Barbara M. Chapman::Hans P. Zima::Piyush Mehrotra:::High-Performance Fortran Languages: Advanced Applications and Their Implementation.
+conf/hpcn/Steinmetz94:::Matthias Steinmetz:::The Formation of Galaxies: A Challenge for Supercomputers - A Simple Task for GRAPE?
+conf/hpcn/Moore99:::Mary Moore:::Characteristics of Users of Medical Innovations.
+conf/hpcn/GerndtB95:::Michael Gerndt::Rudolf Berrendorf:::Parallelizing applications with SVM-Fortran.
+conf/hpcn/GerlachK94:::Jens Gerlach::Birgit Kähler:::Parallelization of a Mesoscale Model of Atmospheric Circulation - An Object-Oriented Approach.
+conf/hpcn/MunzLZBSB99:::Frank Munz::Thomas Ludwig II::Sibylle Ziegler::P. Bartenstein::Markus Schwaiger::Arndt Bode:::Performance Assessment of Parallel Spectral Analysis: Towards a Practical Performance Model for Parallel Medical Applications.
+conf/hpcn/CremonesiGM98:::Paolo Cremonesi::Claudio Gennaro::Roberto Marega:::I/O Performance in Hybrid MIMD+SIMD Machines.
+conf/hpcn/AldaDKMY96:::Witold Alda::Witold Dzwinel::Jacek Kitowski::Jacek Moscinski::David A. Yuen:::Molecular Simulation of Mixing Fluids and Microhydrodynamic Instabilities.
+conf/hpcn/AharoniB98:::Dan Aharoni::Amnon Barak:::Asynchronous Parallel Discontinuous Finite Element Method.
+conf/hpcn/PellegriniR96:::François Pellegrini::Jean Roman:::SCOTCH: A Software Package for Static Mapping by Dual Recursive Bipartitioning of Process and Architecture Graphs.
+conf/hpcn/HaasC94:::Peter J. Haas::Paul Christ:::Networking Issues in PAGEIN: The "N" of "HPCN".
+conf/hpcn/PozzettiSVR95:::Ennio Pozzetti::Giuseppe Serazzi::Vidar Vetland::Jerome A. Rolia:::Characterizing the resource demands of TCP/IP.
+conf/hpcn/RottgerSS95:::Markus Röttger::Ulf-Peter Schroeder::Jens Simon:::Implementation of a parallel and distributed mapping kernel for PARIX.
+conf/hpcn/Diercksen94:::Geerd H. F. Diercksen:::Intelligent Software: The OpenMol Program.
+conf/hpcn/Maarel98:::H. T. M. van der Maarel:::Application of HPCN Infrastructure in Ship Hydrodynamics Analysis.
+conf/hpcn/ConfortiGT96:::Domenico Conforti::Lucio Grandinetti::C. Triki:::A Parallel Algorithm for the Optimal Power Flows Problem.
+conf/hpcn/BogdanovGG98:::Alexander V. Bogdanov::Ashot Gevorkyan::Armen Grigoryan:::First Principle Calculations of Quantum Chaos and its Self-Organisation in the Framework of 1D Model of Random Quantum Reactive Harmonic Oscillator.
+conf/hpcn/SantosoANS00:::J. Santoso::G. Dick van Albada::B. A. A. Nazief::Peter M. A. Sloot:::Simulating Job Scheduling for Clusters of Workstations.
+conf/hpcn/KasyanovEMBMHT99:::Victor N. Kasyanov::Vladimir A. Evstigneev::J. V. Malaina::J. V. Birjukova::V. A. Markin::E. V. Haritonov::S. G. Tsikoza:::Support Tools for Supercomputing and Networking.
+conf/hpcn/GrayS01:::Paul A. Gray::Vaidy S. Sunderam:::Certificate Use for Supporting Merging and Splitting of Computational Environments.
+conf/hpcn/NeschenN96:::Martin Neschen::Frank Nübel:::COGNITUS - Fast and Reliable Recognition of Handwritten Forms Based on Vector Quantisation.
+conf/hpcn/HolthoffRBEKRSAB96:::Holger Holthoff::Wolfgang Rönsch::Hans Bleecke::Bernhard Eisfeld::Norbert Kroll::Hubert Ritzdorf::Anton Schüller::Petra Aumann::Klaus Becker:::Parallelization of Large Scale Industrial Aerodynamic Applications on the IBM RS/6000 SP.
+conf/hpdc/PattenH00:::Craig J. Patten::Kenneth A. Hawick:::Flexible High-Performance Access to Distributed Storage Resources.
+conf/hpdc/GuhaA92:::Aloke Guha::Mukul Agrawal:::A Scalable Packet Switch for Distributed Computing.
+conf/hpdc/BornsteinS94:::Claudson F. Bornstein::Peter Steenkiste:::Data Reshuffling in Support of Fast I/O for Distributed-Memory Machines.
+conf/hpdc/ArmstrongM94:::Rob Armstrong::Jane Macfarlane:::The Use of Frameworks for Scientific Computation in a Parallel Distributed Environment.
+conf/hpdc/RiblerVSR98:::R. L. Ribler::Jeffrey S. Vetter::Huseyin Simitci::Daniel A. Reed:::Autopilot: Adaptive Control of Distributed Applications.
+conf/hpdc/ParkD98:::Je-Ho Park::Alex Delis:::The Effect of Clustering in Client-Caching Architectures.
+conf/hpdc/BramleyCDGGMTY00:::Randall Bramley::Kenneth Chiu::Shridhar Diwan::Dennis Gannon::Madhusudhan Govindaraju::Nirmal Mukhi::Benjamin Temko::Madhuri Yechuri:::A Component based Services Architecture for Building Distributed Applications.
+conf/hpdc/ArmstrongGGKKMPS99:::Rob Armstrong::Dennis Gannon::Al Geist::Katarzyna Keahey::Scott R. Kohn::Lois McInnes::Steve R. Parker::Brent A. Smolinski:::Toward a Common Component Architecture for High-Performance Scientific Computing.
+conf/hpdc/ThomasMB00:::Mary Thomas::Stephen Mock::Jay Boisseau:::Development of Web Toolkits for Computational Science Portals: The NPACI HotPage.
+conf/hpdc/CastanosS99:::José G. Castaños::John E. Savage:::PARED: A Framework for the Adaptive Solution of PDEs.
+conf/hpdc/ImaiSIK99:::Y. Imai::T. Saeki::T. Ishizaki::M. Kishimoto:::CrispORB: High Performance CORBA for System Area Network.
+conf/hpdc/SinghalNRNF97:::Sandeep K. Singhal::Binh Q. Nguyen::Richard Redpath::Jimmy Nguyen::Michael Fraenkel:::InVerse: Designing an Interactive Universe Architecture for Scalability and Extensibility.
+conf/hpdc/CrandallSC96:::Phyllis Crandall::Eranti V. Sumithasri::Mark A. Clement:::Performance Comparison of Desktop Multiprocessing and Workstation Cluster Computing.
+conf/hpdc/HafidBK96:::Abdelhakim Hafid::Gregor von Bochmann::Brigitte Kerhervé:::A Quality of Service Negotiation Procedure for Distributed Multimedia Presentational Applications.
+conf/hpdc/ThainL00:::Douglas Thain::Miron Livny:::Bypass: A Tool for Building Split Execution Systems.
+conf/hpdc/ThainL03:::Douglas Thain::Miron Livny:::The Ethernet Approach to Grid Computing.
+conf/hpdc/DramlitschAS01:::Thomas Dramlitsch::Gabrielle Allen::Edward Seidel:::Efficient Techniques for Distributed Computing.
+conf/hpdc/ChenT98:::Jian Chen::Valerie E. Taylor:::Mesh Partitioning for Distributed Systems.
+conf/hpdc/FletcherO93:::J. Fletcher::Zoran Obradovic:::Parallel and Distributed Systems for Constructive Neural Network Learning.
+conf/hpdc/FreehA96:::Vincent W. Freeh::Gregory R. Andrews:::Dynamically Controlling False Sharing in Distributed Shared Memory.
+conf/hpdc/WonS97:::Youjip Won::Jaideep Srivastava:::Distributed Service Paradigm for Remote Video Retrieval Request.
+conf/hpdc/ThainBSL01:::Douglas Thain::Jim Basney::Se-Chang Son::Miron Livny:::The Kangaroo Approach to Data Movement on the Grid.
+conf/hpdc/OuibrahimB96:::H. Ouibrahim::J. A. van den Broecke:::Multimedia Multiparty Services to Native ATM Desktops.
+conf/hpdc/Bettencourt02:::Matthew T. Bettencourt:::Distributed Model Coupling Framework.
+conf/hpdc/Nahrstedt99:::Klara Nahrstedt:::To Overprovision or To Share via QoS-aware Resource Management?
+conf/hpdc/BerraCGL92:::P. Bruce Berra::C. Y. Roger Chen::Arif Ghafoor::Thomas D. C. Little:::Issues in Networking and Data MAnagement of Distributed Multimedia Systems.

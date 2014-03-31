@@ -1,0 +1,200 @@
+conf/icdar/AraiO97:::Hiroyuki Arai::Kazumi Odaka:::Form Processing based on Background Region Analysis.
+conf/icdar/Yan01:::Hong Yan:::Detection of Curved Text Path Based on the Fuzzy Curve-Tracing (FCT) Algorithm.
+conf/icdar/YuanTS95:::Jianxing Yuan::Yuan Yan Tang::Ching Y. Suen:::Four directional adjacency graphs (FDAG) and their application in locating fields in forms.
+conf/icdar/DimauroIMP03:::Giovanni Dimauro::Sebastiano Impedovo::R. Modugno::Giuseppe Pirlo:::Numeral Recognition by Weighting Local Decisions.
+conf/icdar/NomuraMUS03:::Akihiro Nomura::Kazuyuki Michishita::Seiichi Uchida::Masakazu Suzuki:::Detection and Segmentation of Touching Characters in Mathematical Expression.
+conf/icdar/KimG95:::Gyeonghwan Kim::Venu Govindaraju:::Handwritten word recognition for real-time applications.
+conf/icdar/VelekN03:::Ondrej Velek::Masaki Nakagawa:::Enhancing Efficiency and Speed of an Off-line Classifier Employed for On-line Handwriting Recognition of a Large Character Set.
+conf/icdar/LeeW95:::Hsi-Jian Lee::Jiumn-Shine Wang:::Design of a mathematical expression recognition system.
+conf/icdar/LiWZ03:::Yi Li::Zhiyan Wang::Haizan Zeng:::String Extraction From Color Airline Coupon Image Using Statistical Approach.
+conf/icdar/AbuhaibaDH95:::I. S. I. Abuhaiba::S. Datta::Murray J. J. Holt:::Line extraction and stroke ordering of text pages.
+conf/icdar/WangHD99:::Lixin Wang::Jing Hua::Ruwei Dai:::An Integrated Pattern Recognition System and its Application.
+conf/icdar/WolfNS97:::Matthias Wolf::Heinrich Niemann::W. Schmidt:::Fast Address Block Location on Handwritten and Machine Printed Mail--piece Images.
+conf/icdar/Hurst01:::Matthew Hurst:::Layout and Language: Exploring Text Block Discovery in Tables Using Linguistic Resources.
+conf/icdar/Hurst03:::Matthew Hurst:::A Constraint-based Approach to Table Structure Derivation.
+conf/icdar/GyohtenSBKK95:::Keiji Gyohten::Tomoko Sumiya::Noboru Babaguchi::Koh Kakusho::Tadahiro Kitahashi:::Extracting characters and character lines in multi-agent scheme.
+conf/icdar/NegiSA95:::Atul Negi::K. S. Swaroop::Arun Agarwal:::A correspondence based approach to segmentation of cursive words.
+conf/icdar/HoqueF01:::Sanaul Hoque::Michael C. Fairhurst:::An Improved Learning Scheme for the Moving Window Classifier.
+conf/icdar/Miletzki97:::Udo Miletzki:::Character Recognition in Practice Today and Tomorrow.
+conf/icdar/RaoA95:::P. V. S. Rao::T. M. Ajitha:::Telugu script recognition-a feature based approach.
+conf/icdar/LiNSSX99:::Luyang Li::George Nagy::Ashok Samal::Sharad C. Seth::Yihong Xu:::Cooperative Text and Line-Art Extraction from a Topographic Map.
+conf/icdar/GlogerKMA97:::J. M. Gloger::Alfred Kaltenmeier::Eberhard Mandler::L. Andrews:::Reject Management in a Handwriting Recognition System.
+conf/icdar/BouletreauVSE97:::V. Bouletreau::Nicole Vincent::Robert Sabourin::Hubert Emptoz:::Synthetic Parameters for Handwriting Classification.
+conf/icdar/TeoS97:::Raymund Yee-Mian Teo::Rajjan Shinghal:::A Hybrid Classifier for Recognizing Handwritten Numerals.
+conf/icdar/JainNS01:::Anil K. Jain::Anoop M. Namboodiri::Jayashree Subrahmonia:::Structure in On-line Documents.
+conf/icdar/Ueda03:::Katsuhiko Ueda:::Investigation of Off-Line Japanese Signature Verification Using a Pattern Matching.
+conf/icdar/TangSMRTC99:::Yuan Yan Tang::Qi Sun::Hong Ma::De B. Ren::Yan Tang::Zhi K. Chen:::Accelerating the 2-D Mallat Decomposition Algorithm with Cyclical Convolution and FNTT.
+conf/icdar/ChenD99:::Ming Chen::Xiaoqing Ding:::A Robust Skew Detection Algorithm for Grayscale Document Image.
+conf/icdar/SafariNSA97:::R. Safari::N. Narasimhamurthy::Malayappan Shridhar::Majid Ahmadi:::Form Registration: A Computer Vision Approach.
+conf/icdar/ChoiO99:::Soon-Man Choi::Il-Seok Oh:::A Segmentation-free Recognition of Two Touching Numerals using Neural Network.
+conf/icdar/WuLS95:::Wei Wu::Wei Lu::Masao Sakauchi:::An object-oriented model for drawing understanding and its ability of noise absorption.
+conf/icdar/YonekuraF03:::Eduardo Akira Yonekura::Jacques Facon:::Postal Envelope Segmentation by 2-D Histogram Clustering through Watershed Transform.
+conf/icdar/YeBG01:::Ming Ye::Marshall W. Bern::David Goldberg:::Document Image Matching and Annotation Lifting.
+conf/icdar/JinHW03:::Jianming Jin::Xionghu Han::Qingren Wang:::Mathematical Formulas Extraction.
+conf/icdar/MartensC97:::Ronny Martens::Luc J. M. Claesen:::Dynamic Programming Optimisation for On-line Signature Verificatio.
+conf/icdar/Takasu97:::Atsuhiro Takasu:::An Approximate String Match for Garbled Text with Various Accuracy.
+conf/icdar/XiaoL99:::Xuhong Xiao::Graham Leedham:::Cursive Script Segmentation Incorporating Knowledge of Writing.
+conf/icdar/VossepoelSD97:::Albert M. Vossepoel::Klamer Schutte::Carl F. P. Delanghe:::Memory efficient skeletonization of utility maps.
+conf/icdar/Yamada95:::Keiji Yamada:::Optimal sampling intervals for Gabor features and printed Japanese character recognition.
+conf/icdar/KangL01:::Hee-Joong Kang::Seong-Whan Lee:::Experimental Results on the Construction of Multiple Classifiers Recognizing Handwritten Numerals.
+conf/icdar/YangLL01:::Hsi-Ming Yang::Jainn-Jyh Lu::Hsi-Jian Lee:::A Bezier Curve-Based Approach to Shape Description for Chinese Calligraphy Characters.
+conf/icdar/CongedoDIP95:::G. Congedo::Giovanni Dimauro::Sebastiano Impedovo::Giuseppe Pirlo:::A structural method with local refining for handwritten character recognition.
+conf/icdar/DiligentiGMS01:::Michelangelo Diligenti::Marco Gori::Marco Maggini::Franco Scarselli:::Classification of HTML Documents by Hidden Tree-Markov Models.
+conf/icdar/SimonPJ95:::Anikó Simon::Jean-Christophe Pret::A. Peter Johnson:::(Chem)DeT/sub E/X automatic generation of a markup language description of (chemical) documents from bitmap images.
+conf/icdar/LebourgeoisE99:::Frank Lebourgeois::Hubert Emptoz:::Document Analysis in Gray Level and Typography Extraction using Character Pattern Redundancies.
+conf/icdar/NakajimaY95:::Chikahito Nakajima::Toshihiro Yazawa:::Automatic recognition of facility drawings and street maps utilizing the facility management database.
+conf/icdar/KimSL01:::Seon-Kyu Kim::Bong-Kee Sin::Seong-Whan Lee:::Character Spotting Using Image-Based Stochastic Models.
+conf/icdar/MenierLG95:::Gidas Menier::Guy Lorette::Philippe Gentric:::A new modeling method for on-line handwriting recognition.
+conf/icdar/FengTY99:::L. Feng::Yan Tang::L. Yang:::A Wavelet Approach to Extracting Contours of Document Images.
+conf/icdar/GaoTWT95:::Jingbo Gao::Long Tang::Liu Wenyin::Zesheng Tang:::Segmentation and recognition of dimension texts in engineering drawings.
+conf/icdar/Legal-AyalaF03:::Horacio Andrés Legal-Ayala::Jacques Facon:::Image Segmentation By Learning Approach.
+conf/icdar/NakaiASS01:::Mitsuru Nakai::Naoto Akira::Hiroshi Shimodaira::Shigeki Sagayama:::Substroke Approach to HMM-Based On-line Kanji Handwriting Recognition.
+conf/icdar/AntonacopoulosGK03:::Apostolos Antonacopoulos::B. Gatos::Dimosthenis Karatza:::ICDAR 2003 Page Segmentation Competition.
+conf/icdar/LeeKT95:::Seong-Whan Lee::Eun-Soon Kim::Yuan Yan Tang:::Nonlinear shape restoration of distorted images with Coons transformation.
+conf/icdar/PengCLDZ01:::Liangrui Peng::Ming Chen::Changsong Liu::Xiaoqing Ding::Jirong Zheng:::An Automatic Performance Evaluation Method for Document Page Segmentation.
+conf/icdar/PitrelliR01:::John F. Pitrelli::Amit Roy:::Creating Word-Level Language Models for Handwriting Recognition.
+conf/icdar/WakaharaK99:::Toru Wakahara::Yoshimasa Kimura:::Affine-Invariant Correlation of Gray-Scale Characters using GAT Iteration.
+conf/icdar/AblavskyS03:::Vitaly Ablavsky::Mark R. Stevens:::Automatic Feature Selection with Applications to Script Identification of Degraded Documents.
+conf/icdar/SobottkaBK99:::Karin Sobottka::Horst Bunke::Heino Kronenberg:::Identification of Text on Colored Book and Journal Covers.
+conf/icdar/MenierL97:::G. Menier::Guy Lorette:::Lexical Analyzer based on a Self-Organizing Feature Map.
+conf/icdar/LiaoL97:::Simon X. Liao::Qin Lu:::A study of moment functions and its use in Chinese character recognition.
+conf/icdar/SolihinL97:::Yan Solihin::Graham Leedham:::Mathematical properties of the native integral ratio handwriting and text extraction technique.
+conf/icdar/GuyonP95:::Isabelle Guyon::Fernando Pereira:::Design of a linguistic postprocessor using variable memory length Markov models.
+conf/icdar/AdamOCMGL99:::Sébastien Adam::Jean-Marc Ogier::Claude Cariou::Rémy Mullot::Joël Gardes::Yves Lecourtier:::Multi-scaled and Multi-oriented Character Recognition: An Original Strategy.
+conf/icdar/WorringT99:::Marcel Worring::Leon Todoran:::Segmentation of Color Documents by Line Oriented Clustering using Spatial Information.
+conf/icdar/ShiGD01:::Daming Shi::Steve R. Gunn::Robert I. Damper:::Active Radical Modeling for Handwritten Chinese Characters.
+conf/icdar/LiuDW95:::Jinhui Liu::Xiaoqing Ding::Youshou Wu:::Description and recognition of form and automated form data entry.
+conf/icdar/LiuKK97:::Cheng-Lin Liu::In-Jung Kim::Jin Hyung Kim:::High Accuracy Handwritten Chinese Character Recognition by Improved Feature Matching Method.
+conf/icdar/LiuN99a:::Cheng-Lin Liu::Masaki Nakagawa:::Prototype Learning Algorithms for Nearest Neighbor Classifier with Application to Handwritten Character Recognition.
+conf/icdar/WatanabeN97:::Yasuhiko Watanabe::Makoto Nagao:::Construction of retrieval system for pictorial book of flora.
+conf/icdar/FeldbachT01:::Markus Feldbach::Klaus D. Tönnies:::Line Detection and Segmentation in Historical Church Registers.
+conf/icdar/FeldbachT03:::Markus Feldbach::Klaus D. Tönnies:::Word Segmentation of Handwritten Dates in Historical Documents by Combining Semantic A-Priori-Knowledge with Local Features.
+conf/icdar/ZhaoS95:::Sheila X. Zhao::Sargur N. Srihari:::A word recognition algorithm for machine-printed word images of multiple fonts and varying qualities.
+conf/icdar/PearceA03:::Stephen Pearce::Maher Ahmed:::An Evolutionary Algorithm for General Symbol Segmentation.
+conf/icdar/FanFT03:::Lixin Fan::Liying Fan::Chew Lim Tan:::Wavelet Diffusion for Document Image Denoising.
+conf/icdar/FanLW01:::Kuo-Chin Fan::Tsann-Ran Lay::Yuan-Kai Wang:::Marginal Noise Removal of Document Images.
+conf/icdar/BlumensteinVB03:::Michael Blumenstein::Brijesh Verma::H. Basli:::A Novel Feature Extraction Technique for the Recognition of Segmented Handwritten Characters.
+conf/icdar/GrecoILSS03:::N. Greco::D. Impedovo::M. G. Lucchese::A. Salzo::L. Sarcinella:::Bank-check Processing System: Modifications Due to the New European Currency.
+conf/icdar/SrihariTZL03:::Sargur N. Srihari::Catalin I. Tomai::Bin Zhang::Sangjik Lee:::Individuality of Numerals.
+conf/icdar/ChangCPS95:::Fu Chang::Yung-Ping Cheng::Theodosios Pavlidis::Tsuey-Yuh Shuai:::A line sweep thinning algorithm.
+conf/icdar/WorringBS95:::Marcel Worring::Rein van den Boomgaard::Arnold W. M. Smeulders:::Evaluation of an interactive tool for handwritten form description.
+conf/icdar/HongLHS95:::Tao Hong::Stephen W. Lam::Jonathan J. Hull::Sargur N. Srihari:::The design of a nearest-neighbor classifier and its use for Japanese character recognition.
+conf/icdar/ChangLTH99:::Fu Chang::Kung-Hao Liang::Tzu-Ming Tan::Wen-Liang Hwang:::Binarization of Document Images using Hadamard Multiresolution Analysis.
+conf/icdar/KoerichL99:::Alessandro L. Koerich::Luan Ling Lee:::Automatic Storage, Retrieval, and Visualization of Bank Check Images.
+conf/icdar/BlasiusGJK97:::Karl-Hans Bläsius::Beate Grawemeyer::Isabel John::Norbert Kuhn:::Knowledge-based Document Analysis.
+conf/icdar/KashiHNT97:::Ramanujan S. Kashi::Jianying Hu::W. L. Nelson::W. Turin:::On-line Handwritten Signature Verification using Hidden Markov Model Features.
+conf/icdar/PerroudSBH01:::T. Perroud::Karin Sobottka::Horst Bunke::L. Hall:::Text Extraction from Color Documents - Clustering Approaches in Three and Four Dimensions.
+conf/icdar/GattaniMG03:::Abhishek Gattani::Maitrayee Mukerji::Hareish Gu:::A Fast Multifunctional Approach for Document Image Analysis.
+conf/icdar/AlamHKRTW03:::Hassan Alam::Rachmat Hartono::Paul Llid Aman Kumar::Ahmad Fuad Rezaur Rahman::Yulia Tarnikova::Che Wilcox:::Web Page Summarization for Handheld Devices: A Natural Language Approach.
+conf/icdar/NicchiottiS99:::Gianluca Nicchiotti::Carlo Scagliola:::Generalized Projections: A Tool for Cursive Handwriting Normalization.
+conf/icdar/Soffer97:::Aya Soffer:::Image Categorization Using Texture Features.
+conf/icdar/BrittoSBS01:::Alceu de S. Britto Jr.::Robert Sabourin::Flávio Bortolozzi::Ching Y. Suen:::A Two-Stage HMM-Based System for Recognizing Handwritten Numeral Strings.
+conf/icdar/Spitz95:::A. Lawrence Spitz:::An OCR based on character shape codes and lexical information.
+conf/icdar/VinciarelliBB03:::Alessandro Vinciarelli::Samy Bengio::Horst Bunke:::Offline Recognition of Large Vocabulary Cursive Handwritten Text.
+conf/icdar/LuTHF01:::Yue Lu::Chew Lim Tan::Weihua Huang::Liying Fan:::An Approach to Word Image Matching Based on Weighted Hausforff Distance.
+conf/icdar/LuSWR99:::Yue Lu::Pengfei Shi::Jianzhong Wu::Jianming Rui:::An Implementation of Postal Numerals Segmentation and Recognition System for Chinese Business Letters.
+conf/icdar/SuWLX95:::Hui Su::Wei Wang::Xinyou Li::Shaowei Xia:::Hierarchical neural network for recognizing hand-written characters in engineering drawings.
+conf/icdar/DongKS01:::Jian-xiong Dong::Adam Krzyzak::Ching Y. Suen:::A Multi-Net Local Learning Framework for Pattern Recognition.
+conf/icdar/RadtkeOSW03:::Paulo V. W. Radtke::Luiz E. Soares de Oliveira::Robert Sabourin::Tony Wong:::Intelligent Zoning Design Using Multi-Objective Evolutionary Algorithms.
+conf/icdar/HouleBS01:::Gilles F. Houle::Katerina Blinova::Malayappan Shridhar:::Handwriting Stroke Extraction Using a New XYTC Transform.
+conf/icdar/SherkatA99:::Nasser Sherkat::T. J. Allen:::Whole Word Recognition in Facsimile Images.
+conf/icdar/LohakanAS99:::Meechai Lohakan::Surapan Airphaiboon::Manas Sangworasil:::Single-character Segmentation for Handprinted Thai Word.
+conf/icdar/NatteeN01:::Cholwich Nattee::Masayuki Numao:::Geometric Method for Document Understanding and Classification Using On-line Machine Learning.
+conf/icdar/ThulkeMD99:::Michael Thulke::Volker Märgner::Andreas Dengel:::Quality Evaluation of Document Segmentation Results.
+conf/icdar/SawaTWKM97:::Kazuhiro Sawa::Shinji Tsuruoka::Tetsushi Wakabayashi::Fumitaka Kimura::Yasuji Miyake:::Low Quality String Recognition for Factory Automation.
+conf/icdar/LladosML99:::Josep Lladós::Enric Martí::Jaime López-Krahe:::A Hough-based Method for Hatched Pattern Detection in Maps and Diagrams.
+conf/icdar/BagdanovW01:::Andrew D. Bagdanov::Marcel Worring:::Fine-Grained Document Genre Classification Using First Order Random Graphs.
+conf/icdar/ChangLP97:::Fu Chang::Ya-Ching Lu::Theodosios Pavlidis:::Line sweep thinning algorithm for feature analysis.
+conf/icdar/SylwesterS95:::Don Sylwester::Sharad C. Seth:::A trainable, single-pass algorithm for column segmentation.
+conf/icdar/TsengLT95:::Din-Chang Tseng::Yao-Fu Li::Cheng-Tan Tung:::Circular histogram thresholding for color image segmentation.
+conf/icdar/BarakatB01:::Hanaa Barakat::Dorothea Blostein:::Training with Positive and Negative Data Samples: Effects on a Classifier for Hand-Drawn Geometric Shapes.
+conf/icdar/DingLS97:::Jie Ding::Louisa Lam::Ching Y. Suen:::Classification of Oriental and European Scripts by Using Characteristic Features.
+conf/icdar/BelaidBVK01:::Abdel Belaïd::Y. Belaïd::Late N. Valverde::Saddok Kebairi:::Adaptive Technology for Mail-Order Form Segmentation.
+conf/icdar/NosaryHPL99:::Ali Nosary::Laurent Heutte::Thierry Paquet::Yves Lecourtier:::Defining Writer's Invariants to Adapt the Recognition Task.
+conf/icdar/ToumitGE99:::J. Toumit::Sonia Garcia-Salicetti::Hubert Emptoz:::A Hierarchical and Recursive Model of Mathematical Expressions for Automatic Reading of Mathematical Documents.
+conf/icdar/MullerER99:::Stefan Müller::Stefan Eickeler::Gerhard Rigoll:::Multimedia Database Retrieval using Hand-Drawn Sketches.
+conf/icdar/ToyozumiMSS01:::Kenichi Toyozumi::Kensaku Mori::Yasuhito Suenaga::Takahiro Suzuki:::A System for Real-time Recognition of Handwritten Mathematical Formulas.
+conf/icdar/MiledOCL97:::Housem Miled::C. Olivier::Mohamed Cheriet::Yves Lecoutie:::Coupling observation/letter for a Markovian modelisation applied to the recognition of Arabic handwriting.
+conf/icdar/BunkeAKHSSE97:::Horst Bunke::R. Ammann::Guido Kaufmann::Thien M. Ha::Markus Schenkel::R. Seiler::F. Eggimann:::Recovery of temporal information of cursively handwritten words for on-line recognition.
+conf/icdar/OliveiraSBS03:::L. S. Oliveira::Robert Sabourin::Flávio Bortolozzi::Ching Y. Suen:::Feature Selection for Ensembles: A Hierarchical Multi-Objective Genetic Algorithm Approach.
+conf/icdar/AtalayA99:::Volkan Atalay::Erkan Arslan:::An SGML based Viewer for Form Documents.
+conf/icdar/GunterB03:::Simon Günter::Horst Bunke:::Optimizing the Number of States, Training Iterations and Gaussians in an HMM-based Handwritten Word Recognizer.
+conf/icdar/AlhajjE03:::Reda Alhajj::Ashraf Elnagar:::A Novel Approach to Separate Handwritten Connected Digits.
+conf/icdar/SutantoLP03:::Philip Jonathan Sutanto::Graham Leedham::Vladimir Pervouchin:::Study of the Consistency of Some Discriminatory Features Used by Document Examiners in the Analysis of Handwritten Letter 'a'.
+conf/icdar/LucasPD03:::Simon M. Lucas::Gregory Patoulas::Andy C. Downton:::Fast Lexicon-Based Word Recognition in Noisy Index Card Images.
+conf/icdcs/Jonsson99:::Jan Jonsson:::Effective Complexity Reduction for Optimal Scheduling of Distributed Real-Time Applications.
+conf/icdcs/Pentland03:::Alex Pentland:::Human Design: Wearable Computers for Human Networking.
+conf/icdcs/ZhouPS03:::Dong Zhou::Santosh Pande::Karsten Schwan:::Method Partitioning - Runtime Customization of Pervasive Programs without Design-time Application Knowledge.
+conf/icdcs/DasguptaLA88:::Partha Dasgupta::Richard J. LeBlanc::William F. Appelbe:::The Clouds Distributed Operating System.
+conf/icdcs/MillerMS85:::Barton P. Miller::Cathryn Macrander::Stuart Sechrest:::A Distributed Programs Monitor for Berkeley UNIX.
+conf/icdcs/CaoS98:::Guohong Cao::Mukesh Singhal:::Low-Cost Checkpointing with Mutable Checkpoints in Mobile Computing Systems.
+conf/icdcs/TopolSS95:::Brad Topol::John T. Stasko::Vaidy S. Sunderam:::Integrating Visualization Support into Distributed Computing Systems.
+conf/icdcs/CraskeT99:::Gregory Craske::Zahir Tari:::A Property-based Clustering Approach for the CORBA Trading Service.
+conf/icdcs/ThomasianB84:::Alexander Thomasian::Paul F. Bay:::Analysis of an Integrated Queuing Model of a Computer Communication Network.
+conf/icdcs/OidaS00:::K. Oida::K. Shinjo:::Deterministic Optimal Routing for Two Heterogeneous Parallel Servers.
+conf/icdcs/ChenPY96:::Ming-Syan Chen::Jong Soo Park::Philip S. Yu:::Efficient Data Mining for Path Traversal Patterns in Distributed Systems.
+conf/icdcs/Almes86:::Guy T. Almes:::The Impact of Language and System on Remote Procedure Call Design.
+conf/icdcs/ParkCY97:::Taesoon Park::Sung Bok Cho::Heon Young Yeom:::An Efficient Logging Scheme for Recoverable Distributed Shared Memory System.
+conf/icdcs/RamamrithamSV85:::Krithi Ramamritham::David W. Stemple::Stephen Vinter:::Decentralized Access Control in a Distributed System.
+conf/icdcs/Gait85:::Jason Gait:::A Distributed Process Manager with Transparent Continuation.
+conf/icdcs/ChiouLL00:::Hann-Huei Chiou::Alexander I-Chi Lai::Chin-Laung Lei:::Prediction-Capable Data Compression Algorithms for Improving Transmission Efficiency on Distributed Systems.
+conf/icdcs/Garg84:::Kumkum Garg:::An Approach to Performance Specification of Communication Protocols Using Timed Petrinets.
+conf/icdcs/HallHHW97:::Richard S. Hall::Dennis Heimbigner::André van der Hoek::Alexander L. Wolf:::The Software Dock: An Architecture for Post-Development Configuration Management in a Wide-Area Network.
+conf/icdcs/BaehniEG02:::Sébastien Baehni::Patrick Th. Eugster::Rachid Guerraoui:::OS Support for P2P Programming: a Case for TPS.
+conf/icdcs/JonssonS97:::Jan Jonsson::Kang G. Shin:::Deadline Assignment in Distributed Hard Real-Time Systems with Relaxed Locality Constraints.
+conf/icdcs/OtooSR87:::Ekow J. Otoo::Nicola Santoro::Doron Rotem:::Improving Semi-Join Evaluation in Distributed Query Processing.
+conf/icdcs/Paris94:::Jehan-François Pâris:::A Highly Available Replication Control Protocol Using Volatile Witnesses.
+conf/icdcs/KondouMM02:::Daisuke Kondou::Hideo Masuda::Toshimitsu Masuzawa:::A Self-Stabilizing Protocol for Pipelined PIF in Tree Networks.
+conf/icdcs/FuV01:::Zhenghua Fu::Nalini Venkatasubramanian:::Adaptive Parameter Collection in Dynamic Distributed Environments.
+conf/icdcs/Shapiro94:::Marc Shapiro:::A Binding Protocol for Distributed Shared Objects.
+conf/icdcs/LiP01:::Jie Li::Yi Pan:::Dynamic Database Management for PCS Networks.
+conf/icdcs/HsuL86:::Chi-Yin Huang Hsu::Jane W.-S. Liu:::Dynamic Load Balancing Algorithms in Homogeneous Distributed Systems.
+conf/icdcs/WangL02:::Yu Wang::Xiang-Yang Li:::Geometric Spanners for Wireless Ad Hoc Networks.
+conf/icdcs/WangM96:::Rwo-Hsi Wang::Aloysius K. Mok:::Distributed Execution and Monotone Response Time Derivation of Rule-Based Programs.
+conf/icdcs/Rao93:::Herman C. Rao:::Distributed Application Framework for Large Scale Distributed Systems.
+conf/icdcs/WardT01:::Paul A. S. Ward::David J. Taylor:::A Hierarchical Cluster Algorithm for Dynamic, Centralized Timestamps.
+conf/icdcs/LeongA92:::Hong Va Leong::Divyakant Agrawal:::Type-Specific Coherence Protocols for Distributed Shared Memory.
+conf/icdcs/RamirezM99:::John C. Ramirez::Rami G. Melhem:::Reducing Message Overhead in TMR Systems.
+conf/icdcs/HaertigR97:::Hermann Härtig::Lars Reuther:::Encapsulating Mobile Objects.
+conf/icdcs/DolevKW95:::Shlomi Dolev::Michael Kate::Jennifer L. Welch:::A Competitive Analysis for Retransmission Timeout.
+conf/icdcs/CohrsMC88:::David L. Cohrs::Barton P. Miller::Lisa A. Call:::Distributed Upcalls: A Mechanism for Layering Asynchronous Abstractions.
+conf/icdcs/Borcherding95:::Malte Borcherding:::Efficient Failure Discovery with Limited Authentication.
+conf/icdcs/LinK86:::Frank C. H. Lin::Robert M. Keller:::Gradient Model: A Demand-Driven Load Balancing Scheme.
+conf/icdcs/LinR93:::Hwa-Chun Lin::C. S. Raghavendra:::A State-Aggregation Method for Analyzing Dynamic Load-Balancing Policies.
+conf/icdcs/LoWY00:::Ming-Ling Lo::Kun-Lung Wu::Philip S. Yu:::TabSum: A Flexible and Dynamic Table Summarization Approach.
+conf/icdcs/ChandranRVP98:::Kartik Chandran::Sudarshan Raghunathan::S. Venkatesan::Ravi Prakash:::A Feedback Based Scheme for Improving TCP Performance in Ad-Hoc Wireless Networks.
+conf/icdcs/Weiss93:::Gerhard Weiß:::Collective Learning of Action Sequences.
+conf/icdcs/Huang99:::Ting-Lu Huang:::Fast and Fair Mutual Exclusion for Shared Memory Systems.
+conf/icdcs/WangDG97:::Yi-Min Wang::Om P. Damani::Vijay K. Garg:::Distributed Recovery with K-Optimistic Logging.
+conf/icdcs/AlonsoC88:::Rafael Alonso::Luis L. Cova:::Sharing Jobs Among Independently Owned Processors.
+conf/icdcs/ShabtayS94:::Lior Shabtay::Adrian Segall:::A Synchronizer with Low Memory Overhead (Extended Abstract).
+conf/icdcs/ImaiTYF84:::Masaharu Imai::Yuuji Tateizumi::Yuuji Yoshida::Teruo Fukumura:::The Architecture and Efficiency of DON: A Combinatorial Problem Oriented Multicomputer System.
+conf/icdcs/DetmoldHO99:::Henry Detmold::Michael Hollfelder::Michael Oudshoorn:::Ambassadors: Structured Object Mobility in Worldwide Distributed Systems.
+conf/icdcs/ZhuangSLC01:::Yi-Chang Zhuang::Ce-Kuen Shieh::Tyng-Yue Liang::Chih-Hui Chou:::Maximizing Speedup through Performance Prediction for Distributed Shared Memory Systems.
+conf/icdcs/PrakashRS96:::Ravi Prakash::Michel Raynal::Mukesh Singhal:::An Efficient Causal Ordering Algorithm for Mobile Computing Environments.
+conf/icdcs/Garcia-MolinaB84:::Hector Garcia-Molina::Daniel Barbará:::Optimizing the Reliability Provided by Voting Mechanisms.
+conf/icdcs/KruegerL87:::Phillip Krueger::Miron Livny:::The Diverse Objectives of Distributed Scheduling Policies.
+conf/icdcs/KellerL85:::Robert M. Keller::Gary Lindstrom:::Approaching Distributed Database Implementations through Functional Programming Concepts.
+conf/icdcs/Ozsu85:::M. Tamer Özsu:::Performance Comparison of Distributed vs. Centralized Locking Algorithms in Distributed Database Systems.
+conf/icdcs/SchwanG85:::Karsten Schwan::Cheryl Gaimon:::Automating Resource Allocation for the Cm* Multiprocessor.
+conf/icdcs/PapazoglouDHB96:::Mike P. Papazoglou::Alex Delis::Mostafa Haghjoo::Athman Bouguettaya:::Language Support for Long-lived Concurrent Activities.
+conf/icdcs/BagrodiaC85:::Rajive Bagrodia::K. Mani Chandy:::A Micro-Kernel for Distributed Applications.
+conf/icdcs/RucinskiP86:::Andrzej Rucinski::John L. Pokoski:::Polystructural, Reconfigurable, and Fault-Tolerant Computers.
+conf/icdcs/AnceaumeCCP98:::Emmanuelle Anceaume::Gilbert Cabillic::Pascal Chevochot::Isabelle Puaut:::HADES: A Middleware Support for Distributed Safety-Critical Real-Time Applications.
+conf/icdcs/StankovicS84:::John A. Stankovic::Inderjit S. Sidhu:::An Adaptive Bidding Algorithm For Processes, Clusters and Distributed Groups.
+conf/icdcs/StankovicT86:::John A. Stankovic::Donald F. Towsley:::Dynamic Reallocation in a Highly Integrated Real-Time Distributed System.
+conf/icdcs/Chang85:::Ernest J. H. Chang:::Verification of Non-Terminating Concurrent Programs.
+conf/icdcs/ChenT94:::Hao Chen::Jian Tang:::An Efficient Method for Mutual Exclusion in Truly Distributed Systems.
+conf/icdcs/MoyerA01:::Matthew J. Moyer::Mustaque Ahamad:::Generalized Role-Based Access Control.
+conf/icdcs/JiaWTZ03:::Weijia Jia::Hanxing Wang::Maoning Tang::Wei Zhao:::Effective Delay Control for High Rate Heterogeneous Real-time Flows.
+conf/icdcs/ChoiB01:::Byung-Kyu Choi::Riccardo Bettati:::Endpoint Admission Control: Network Based Approach.
+conf/icdcs/RabinovichRRA99:::Michael Rabinovich::Irina Rabinovich::Rajmohan Rajaraman::Amit Aggarwal:::A Dynamic Object Replication and Migration Protocol for an Internet Hosting Service.
+conf/icdcs/DelisR94:::Alex Delis::Nick Roussopoulos:::Management of Updates in the Enhanced Client-Server DBMS.
+conf/icdcs/ToledoB94:::Maria Beatriz Felgar de Toledo::Gordon S. Blair:::Transaction Support for an ANSA-Based Platform.
+conf/icdcs/YokoyamaSSM95:::Takanori Yokoyama::Masahiko Saito::Masaru Shimada::Satoru Murata:::An Object-Based Distributed Computing Environment Based on a Reflective Architecture.
+conf/icdcs/Jalote98:::Pankaj Jalote:::Efficient Ordered Broadcasting in Reliable CSMA/CD Networks.
+conf/icdcs/IslamA88:::S. M. Rezaul Islam::Hany H. Ammar:::Performance Analysis of Degradable Multiprocessor Systems using Time Scale Decomposition of GSPNs.
+conf/icdcs/XuWN00:::Dongyan Xu::Duangdao Wichadakul::Klara Nahrstedt:::Multimedia Service Configuration and Reservation in Heterogeneous Environments.
+conf/icdcs/Zeleznik86:::Michael P. Zeleznik:::A Portable, Network-Transparent Communication System for Message-Based Applications.
+conf/icdcs/Dandamudi95:::Sivarama P. Dandamudi:::Performance Impact of Scheduling Discipline on Adaptive Load Sharing in Homogeneous Distributed Systems.
+conf/icdcs/KeaneM01:::Patrick Keane::Mark Moir:::A General Resource Allocation Synchronization Problem.

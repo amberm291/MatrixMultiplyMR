@@ -1,0 +1,200 @@
+conf/pvm/GoldS96:::Claudia Gold::Thomas Schnekenburger:::Using the ALDY Load Distribution System for PVM Applications.
+conf/pvm/BozasFZ97:::Giannis Bozas::Michael Fleischhauer::Stephan Zimmermann:::PVM Experiences in Developing the MIDAS Parallel Database System.
+conf/pvm/AlonsoSA97:::Jose Libano Alonso::H. Schmidt::Vassil N. Alexandrov:::Parallel Branch and Bound Algorithms for Integer and Mixed Integer Linear Programming Problems under PVM.
+conf/qns/Grosse96:::Eric Grosse:::Real Inferno.
+conf/qns/DongarraHP96:::Jack Dongarra::Sven Hammarling::Antoine Petitet:::Case studies on the development of ScaLAPACK and the NAG Numerical PVM Library.
+conf/rex/Cook90:::William R. Cook:::Object-Oriented Programming Versus Abstract Data Types.
+conf/rex/CusackL90:::Elspeth Cusack::Michael Lai:::Object-Oriented Specification on LOTOS and Z, or My Cat Really is Object-Oriented!
+conf/rex/RuttenT92:::Jan J. M. M. Rutten::Daniele Turi:::On the Foundation of Final Semantics: Non-Standard Sets, Metric Spaces, Partial Orders.
+conf/rex/Jifeng89:::Jifeng He:::Various Simulations and Refinements.
+conf/rex/EhrichS89:::Hans-Dieter Ehrich::Amílcar Sernadas:::Algebraic Implementation of Objects over Objects.
+conf/rex/EngbergW93:::Uffe Engberg::Glynn Winskel:::Linear Logic on Petri Nets.
+conf/rex/RocheteauH91:::Frédéric Rocheteau::Nicolas Halbwachs:::Implementing Reactive Programs on Circuits: A Hardware Implementation of LUSTRE.
+conf/rex/Lynch89:::Nancy A. Lynch:::Multivalued Possibilities Mappings.
+conf/rex/Jensen93:::Kurt Jensen:::An Introduction to the Theoretical Aspects of Coloured Petri Nets.
+conf/rex/HesselinkR92:::Wim H. Hesselink::Ronald Reinds:::Temporal Preconditions of Recursive Procedures.
+conf/rgu/Keil74:::Karl-August Keil:::Entdeckendes Lernen im Rechnerunterstützten Unterricht.
+conf/rgu/RenschlerR74:::H. E. Renschler::K. Recht:::Eingliederung des rechnerunterstützten Unterrichts in die klinische Ausbildung.
+conf/rgu/Smith74:::Roulette Wm. Smith:::A Computer System for Training Operators, Programmers and Maintenance Personnel.
+conf/rgu/Stahl74:::Volker Stahl:::Lernergesteuerter Unterricht auf der Grundlage eines Datenbanksystems.
+conf/w3c/IshikawaKK98:::Hiroshi Ishikawa::Kazumi Kubota::Yasuhiko Kanemasa:::XQL: A Query Language for XML Data.
+conf/w3c/CottonM98:::Paul Cotton::Ashok Malhotra:::Summary of Requirements Gleaned From Workshop Position Papers 30-November-1998.
+conf/w3c/SeligmanR98:::Leonard J. Seligman::Arnon Rosenthal:::XML Query Language Requirements of Large, Heterogeneous Organizations.
+conf/w3c/CeriCDFPT98:::Stefano Ceri::Sara Comai::Ernesto Damiani::Piero Fraternali::Stefano Paraboschi::Letizia Tanca:::XML-GL: A Graphical Language for Querying and Reshaping XML Documents.
+conf/w3c/MalloyS98:::Mary Ann Malloy::John C. Schneider:::Experiences Designing Query Languages for Hierarchically Structured Text Documents.
+conf/sac/Kandemir01:::Mahmut T. Kandemir:::A dynamic locality optimization algorithm for linear algebra codes.
+conf/sac/Li98:::Keqin Li:::Performance evaluation of probabilistic tree embedding in cube-connected cycles.
+conf/sac/HermannGA99:::Ana Carolina Hermann::Luciano Paschoal Gaspary::Maria Janilce B. Almeida:::Design and Execution of Adaptive Multimedia Applications in the Internet.
+conf/sac/Stevens03:::David Stevens:::Terascale Simulation of Cumulus Convection on ASCI WHITE.
+conf/sac/CiSN01:::Song Ci::Hamid Sharif::Guevara Noubir:::Improving performance of MAC layer by using congestion control/avoidance methods in wireless network.
+conf/sac/BryK02:::François Bry::Michael Kraus:::Advanced modeling and browsing of technical documents.
+conf/sac/HungRB03:::Chih-Cheng Hung::Agostinho C. Rosa::Stefano Bistarelli:::AI and Computational Science Track Editorial.
+conf/sac/Spring93:::Jo Spring:::Benchmarking Automated Solution Generators for the Crozzle.
+conf/sac/HurleyW02:::Steve Hurley::Roger M. Whitaker:::An agent based approach to site selection for wireless networks.
+conf/sac/KhuriC97:::Sami Khuri::Teresa Chiu:::Heuristic algorithms for the terminal assignment problem.
+conf/sac/Gomez-SanzPG02:::Jorge J. Gómez-Sanz::Juan Pavón::Francisco J. Garijo:::Meta-models for building multi-agent systems.
+conf/sac/ChenAZ00:::Xiangchuan Chen::Hong An::Shirong Zheng:::Broadcasting Under Network Ignorance Scenario.
+conf/sac/BettigSJB03:::Bernhard P. Bettig::C. Sandu::A. Joshi::K. Birru:::Dynamic Solver Selection for an Internet Simulation Backbone.
+conf/sac/Obaidat95:::Mohammad S. Obaidat:::A verification methodology for computer systems users.
+conf/sac/BrestZO99:::Janez Brest::Viljem Zumer::Milan Ojstersek:::Dynamic Scheduling on a PC Cluster.
+conf/sac/AghbariKM02:::Zaher Aghbari::Kunihiko Kaneko::Akifumi Makinouchi:::Topological mapping: a dimensionality reduction method for efficient video search.
+conf/sac/BangL95:::Kap S. Bang::Huizhu Lu:::SMR-tree: an efficient index structure for spatial databases.
+conf/sac/RuizSG94:::Irene Luque Ruiz::Jrene L. Cruz Soto::Miguel Ángel Gómez-Nieto:::A tutorial system for inorganic chemical formulations and reactions.
+conf/sac/Asgharzadeh96:::Ali Asgharzadeh:::Image analysis and enhancement using fuzzy rule based expert system.
+conf/sac/SujanRP02:::Mark-Alexander Sujan::Antonio Rizzo::Alberto Pasquini:::Contradictions and critical issues during system evolution.
+conf/sac/WassermanS94:::Howard C. Wasserman::Zhizhang Shen:::The locality principle and completeness in logic programming.
+conf/sac/Chiang01:::Chia-Chu Chiang:::A distributed object computing architecture for leveraging software reengineering systems.
+conf/sac/FuT03:::Bin Fu::Zahir Tari:::A Dynamic Load Distribution Strategy for Systems Under High Task Variation and Heavy Traffic.
+conf/sac/HuC03:::Chih-Lin Hu::Ming-Syan Chen:::Adaptive Dissemination of Dynamic Information Services in an Extended Data Broadcast Environment.
+conf/sac/LuR99:::Congxiao Lu::David J. Russomanno:::KAT: A Knowledge Acquisition Tool for Acquiring Functional Knowledge Based Upon the No-Causality-In-Functional Principle.
+conf/sac/HallamY98:::NasrEddine Hallam::Kok Meng Yew:::Families of fuzzy implication operators within measure M1 and their pseudo-strict.
+conf/sac/KambayashiKKI98:::Yahiko Kambayashi::Kaoru Katayama::Toshihiro Kakimoto::Hajime Iwamoto:::Flexible search functions for multimedia data with text and other auxiliary data.
+conf/sac/McBride96:::R. A. McBride:::Security considerations for active messages.
+conf/sac/KarakasK98:::Ercüment Karakas::Hasan Külünk:::Adaptive control of Bolu highway tunnel ventilation system using fuzzy logic.
+conf/sac/LoiaSTS00:::Vincenzo Loia::A. Staiano::Roberto Tagliaferri::S. Sessa:::An Evolutionary Hybrid Approach to the Design of a Decision Support System.
+conf/sac/GrahamI93:::Phil Graham::S. Sitharama Iyengar:::Double- and Triple-Step Incremental Linear Interpolation.
+conf/sac/LiMC94:::Huaidong Li::Heidar A. Malki::Guanrong Chen:::Performance analysis of fuzzy proportional-derivative control systems.
+conf/sac/AbiadHM00:::Sana Abiad::Ramzi A. Haraty::Nashat Mansour:::Software Metrics for Small Database Applications.
+conf/sac/LinD96:::Jun-Lin Lin::Margaret H. Dunham:::Segmented fuzzy checkpointing for main memory databases.
+conf/sac/Schranz98:::Markus W. Schranz:::Engineering flexible World Wide Web services.
+conf/sac/ComaiT02:::Sara Comai::Letizia Tanca:::Editorial message: special track on web and E-business applications.
+conf/sac/BettiniLP02:::Lorenzo Bettini::Michele Loreti::Rosario Pugliese:::An infrastructure language for open nets.
+conf/sac/LuWC93:::Jun Lu::Donald White::Wai-Fah Chen:::Applying Object-Oriented Design to Finite Element Programming.
+conf/sac/Stegmaier-StraccaT95:::Peter A. Stegmaier-Stracca::Nadine N. Tschichold-Gürman:::Cough detection using fuzzy classification.
+conf/sac/PerrizoZK97:::William Perrizo::Zhili Zhang::Stephen Krebsbach:::A query processing method for data warehouses which contain multimedia.
+conf/sac/HalgamugeG94:::Saman K. Halgamuge::Manfred Glesner:::Fuzzy neural fusion techniques for industrial applications.
+conf/sac/RoussosKGPKG03:::George Roussos::Panos Kourouthanasis::Eugene Gryazin::Mike Pryzbliski::George Kalpogiannis::George M. Giaglis:::Systems Architecture for Pervasive Retail.
+conf/sac/PargasLS97:::Roy P. Pargas::Jennifer Ludwick::Steven Spoon:::Hybrid search algorithms.
+conf/sac/Negoita94:::Mircea Gh. Negoita:::Fuzzy logic real-time intelligent control of fuel injection engines.
+conf/sac/SiLL97:::Antonio Si::Hong Va Leong::Rynson W. H. Lau:::CHECK: a document plagiarism detection system.
+conf/sac/SiLW98:::Antonio Si::Hong Va Leong::Peter Y. Wu:::4DIS: a temporal framework for unifying meta-data and data evolution.
+conf/sac/ShiG98:::Weifeng Shi::Shahram Ghandeharizadeh:::Trading memory for disk bandwidth in video-on-demand servers.
+conf/sac/Shim96:::Young-Chul Shim:::Developing a managed system in the OSI network management.
+conf/sac/ChunLC98:::Sei Chun::Huizhu Lu::Jonghoon Chun:::Succinct model semantics: a simple model for inclusive interpretations.
+conf/sac/Arango94:::Guillermo Arango:::A brief introduction to domain analysis.
+conf/sac/RitschelP95:::W. Ritschel::Tilo Pfeifer:::Automatic knowledge acquisition in technical diagnosis.
+conf/sac/ChiuH99:::Kuan-Shiu Chiu::Andrew Hunter:::GA Design of Crisp-Fuzzy Logic Controllers.
+conf/sac/KadrovachL02:::B. Anthony Kadrovach::Gary B. Lamont:::A particle swarm model for swarm-based networked sensor systems.
+conf/sac/ChoiK97:::Chang-hoon Choi::Sung-Chun Kim:::Hierarchical multistage interconnection network for shared-memory multiprocessor system.
+conf/sac/WongP95:::Ka-Wing Wong::Jimmy Pack:::Design and analysis of fractals in an individual computing environment.
+conf/sac/JiaPP03:::Lei Jia::Renqing Pei::Dingyu Pei:::Tough Constraint-Based Frequent Closed Itemsets Mining.
+conf/sac/MorvanH02:::Franck Morvan::Abdelkader Hameurlain:::Dynamic memory allocation strategies for parallel query execution.
+conf/sac/KucherovR94:::Gregory Kucherov::Michaël Rusinowitch:::On ground reducibility problem for word rewriting systems with variables.
+conf/sac/HashemiCTSP97:::Ray R. Hashemi::Fred Choobineh::John R. Talburt::William Slikker::Merle G. Paule:::A diagnostic system based on a multi-decision approximate rules model.
+conf/sac/HarrisonD02:::Rhonda Harrison::Charles DeLisi:::A hypothesis driven approach to condition specific transcription factor binding site characterization in S.c..
+conf/sac/DamianiF96:::Ernesto Damiani::Maria Grazia Fugini:::Fuzzy techniques for software reuse.
+conf/sac/KangY02:::Sooyong Kang::Heon Young Yeom:::Smoothed fetching: bridging the data layout and transmission schemes in multimedia servers.
+conf/sac/HurschLM93:::Walter L. Hürsch::Karl J. Lieberherr::Sougata Mukherjea:::Object-Oriented Schema Extension and Abstraction.
+conf/sac/MerkleGL98:::Laurence D. Merkle::George H. Gates::Gary B. Lamont:::Scalability of an MPI-based fast messy genetic algorithm.
+conf/sac/SaiedianW95:::Hossein Saiedian::Ka-Wing Wong:::An operational model for intelligent forms in office automation.
+conf/sac/JoSKL99:::Chang-Hyun Jo::Jea Gi Son::Younwoo Kang::Phill Soo Lim:::The Distributed Programming Environment on the Internet.
+conf/sac/HoeltingSW95:::Cory J. Hoelting::Dale A. Schoenefeld::Roger L. Wainwright:::Approximation techniques for variations of the p-median problem.
+conf/sac/HoeltingSW96:::Cory J. Hoelting::Dale I. Schoenefeld::Roger L. Wainwright:::Finding investigator tours in telecommunication networks using genetic algorithms.
+conf/sac/ZadroznyK96:::Slawomir Zadrozny::Janusz Kacprzyk:::FQUERY for Access: towards human consistent querying user interface.
+conf/sac/RunklerG95:::Thomas A. Runkler::Manfred Glesner:::Multidimensional defuzzification - fast algorithms for the determination of crisp characteristic subsets.
+conf/sac/KhuriBH94:::Sami Khuri::Thomas Bäck::Jörg Heitkötter:::The zero/one multiple knapsack problem and genetic algorithms.
+conf/sac/HuangXSP03:::Yan Huang::Hui Xiong::Shashi Shekhar::Jian Pei:::Mining Confident Colocation Rules without A Support Threshold.
+conf/sac/RamanCBDR03:::Sanjay Raman::Dwain E. Clarke::Matt Burnside::Srinivas Devadas::Ronald L. Rivest:::Access-Controlled Resource Discovery for Pervasive Networks.
+conf/sac/JangCJJ01:::Byoung Soon Jang::Sung Woo Chung::Seong Tae Jhang::Chu Shik Jhon:::Efficient schemes to scale the interconnection network bandwidth in a ring-based multiprocessor system.
+conf/sac/Reich00:::Christoph Reich:::Simulation of Imprecise Ordinary Differential Equations Using Evolutionary Algorithms.
+conf/sac/DenehyJ00:::Timothy E. Denehy::Chang-Hyun Jo:::Parallel C++ for the Java Virtual Machine.
+conf/sac/FeielR97:::Harald Feiel::Sub Ramakrishnan:::A genetic approach to color image compression.
+conf/sac/GeorgeW03:::Boby George::Laurie A. Williams:::An Initial Investigation of Test Driven Development in Industry.
+conf/sac/BellavistaCS00:::Paolo Bellavista::Antonio Corradi::Cesare Stefanelli:::A Mobile Agent Infrastructure for the Mobility Support.
+conf/sac/HoskinsHKW96:::Josiah A. Hoskins::W. D. Hoskins::N. C. Kenkel::P. Y. H. Wong:::Ray tracing and the simulation of boreal forest stand dynamics.
+conf/sac/KarunanithiC94:::Nachimuthu Karunanithi::Tamra Carpenter:::A ring loading application of genetic algorithms.
+conf/sac/Vargas-SolarCG00:::Genoveva Vargas-Solar::Christine Collet::Helena Grazziotin-Ribeiro:::Active Services for Federated Databases.
+conf/sac/SatoA03:::Hideki Sato::Masayoshi Aritsugi:::Accessee Controlled Type Selection for a Multiple-Type Object.
+conf/sac/KellarMZWKB03:::M. Kellar::B. MacKay::R. Zhang::C. Watters::D. Kaufman::Jonathan M. Borwein:::Architecture to Support Dynamic Composition of Math Lesson Plans.
+conf/sac/Gibson95:::Gary M. Gibson:::A genetic algorithm for optimizing problems with multiple disparate data types.
+conf/sac/RoccettiGSGMPS02:::Marco Roccetti::Vittorio Ghini::Paola Salomoni::Alessandro Gambetti::Davide Melandri::Mirko Piaggesi::Daniela Salsi:::The structuring of a wireless internet application for a music-on-demand service on UMST devices.
+conf/sac/Cripps96:::Al Cripps:::Using artificial neural nets to predict academic performance.
+conf/sac/PenaCA03:::Joaquín Peña::Rafael Corchuelo::José Luis Arjona:::A Top Down Approach for MAS Protocol Descriptions.
+conf/sac/BrendelB93:::Thorsten Brendel::Jens Burkert:::3-Dimensional Reconstruction by Silhouettes to Construct Training Patterns for Neural Networks.
+conf/sac/TrainaTSS98:::Caetano Traina Jr.::Agma J. M. Traina::Rildo R. dos Santos::Edna Y. Senzako:::Support to content-based image query in object-oriented databases.
+conf/sac/Kaizoji99:::Taisei Kaizoji:::A Synergetic Approach to Speculative Price Volatility.
+conf/sac/JagotaD97:::Arun K. Jagota::Rina Dechter:::Simple distributed algorithms for the cycle cutset problem.
+conf/sac/FerriRCP96:::Fernando Ferri::Fabrizio L. Ricci::Fabrizio Consorti::Domenico M. Pisanelli:::An object-oriented information model for a patient definition and management system.
+conf/sac/Marchiori98a:::Elena Marchiori:::A simple heuristic based genetic algorithm for the maximum clique problem.
+conf/sac/Duben94:::Anthony J. Duben:::The effect of the choice of motional model in the determination of molecular conformation in solution from NMR-NOESY spectra: a simulation study.
+conf/sac/KuhnB96:::Bradley M. Kuhn::David Binkley:::An enabling optimization for C++ virtual functions.
+conf/sac/DentiNO98:::Enrico Denti::Antonio Natali::Andrea Omicini:::On the expressive power of a language for programming coordination media.
+conf/sac/Krishnamurthi99:::Malini Krishnamurthi:::Integrating E-Mail in a Programming Class: Implications for Teaching Programming.
+conf/sac/ParsopoulosV02:::K. E. Parsopoulos::Michael N. Vrahatis:::Particle swarm optimization method in multiobjective problems.
+conf/sac/Sharma96:::Mohan B. Sharma:::A note on tree medians.
+conf/sac/SolowayN97:::Elliot Soloway::Cathleen A. Norris:::The future of computers in education: learning 10 lessons from the past (abstract only).
+conf/sac/ClematisG93:::Andrea Clematis::Vittoria Gianuzzi:::A Hierarchical Structure for Fault Tolerant Reactive Programs.
+conf/sac/BoujarwahSA00:::A. S. Boujarwah::Kassem Saleh::Jehad Al-Dallal:::Testing Java Programs Using Dynamic Data Flow Analysis.
+conf/sac/FiegeMG02:::Ludger Fiege::Gero Mühl::Felix C. Gärtner:::A modular approach to build structured event-based systems.
+conf/sac/GottliebK00:::Jens Gottlieb::Torben Kruse:::Selection in Evolutionary Algorithms for the Traveling Salesman Problem.
+conf/sac/Sabharwal93a:::Chaman L. Sabharwal:::Recovering 3D Image Parameters from Corresponding Two 2D Images.
+conf/sac/SabharwalB94:::Chaman L. Sabharwal::Sanjiv K. Bhatia:::A perfect hash function for image database indexing.
+conf/sac/MachucaM98:::Fernando Machuca::Marta Millán:::Enhancing the exploitation of data mining in relational database systems via the rough sets theory including precision variables.
+conf/sac/Mourlas00:::Costas Mourlas:::A Framework for Creating and Playing Distributed Multimedia Information Systems with QoS Requirements.
+conf/sac/JaberNR00:::Khaled Jaber::Nader Nada::David C. Rine:::Product Line Stakeholder Viewpoint Approach and Validation Model.
+conf/sac/DowellB01:::L. Jonathan Dowell::Michael Lee Bruno:::Connectivity of random graphs and mobile networks: validation of Monte Carlo simulation results.
+conf/sac/Reitzner98:::Stephan Reitzner:::Virtual synchronization: uncoupling synchronization annotations from synchronization code.
+conf/sac/WalbornC99:::Gary D. Walborn::Panos K. Chrysanthis:::Transaction Processing in PRO-MOTION.
+conf/sac/FinkH99:::Pamela K. Fink::L. Tandy Herren:::The Disease Progression Explorer: Risk Assessment Support in Chronic, Multifactorial Diseases.
+conf/sac/McBrideGF95:::R. A. McBride::D. R. Goodman::Steve Feimer:::Simulation of a state prison population.
+conf/sac/LisleP98:::Curtis Lisle::Rebecca J. Parsons:::Recursive, object-oriented structures for molecular modeling.
+conf/sac/MinFO01:::Geyong Min::John Ferguson::Mohamed Ould-Khaoua:::Analysis of adaptive wormhole-routed torus networks with IPP input traffic.
+conf/sac/ToliasTP95:::Yannis A. Tolias::Ioannis B. Theocharis::Stavros M. Panas:::Detecting aneurysms in retinal images: fuzzy morphology vs. conventional methods.
+conf/sac/RendaS03:::M. Elena Renda::Umberto Straccia:::Web Metasearch: Rank vs. Score Based Rank Aggregation Methods.
+conf/sac/TourinoBDG02:::Juan Touriño::Jacobo Barro::Ramon Doallo::Víctor M. Gulías:::Performance analysis of MPI-I/O primitives on a PC cluster.
+conf/sac/BecksSM02:::Andreas Becks::Christian Seeling::Ralf Minkenberg:::Benefits of document maps for text access in knowledge management: a comparative study.
+conf/sac/Jeffay93:::Kevin Jeffay:::The Real-Time Producer/Consumer Paradigm: A Paradigm for the Construction of Efficient, Predictable Real-Time Systems.
+conf/sac/Al-HoumailyC96:::Yousef J. Al-Houmaily::Panos K. Chrysanthis:::Dealing with incompatible presumptions of commit protocols in multidatabase systems.
+conf/sac/Norvag02:::Kjetil Nørvåg:::Temporal query operators in XML databases.
+conf/sac/AndersonM95:::Michael Anderson::Robert McCartney:::Developing a heuristic via diagrammatic reasoning.
+conf/sac/RoccettiS01:::Marco Roccetti::Paola Salomoni:::A web-based synchronized multimedia system for distance education.
+conf/sac/RauberR99a:::Thomas Rauber::Gudula Rünger:::Matrix Computations Behind the Hierarchical Radiosity Method.
+conf/sac/SongNC01:::Kwang-Taek Song::Hwa-Jin Nam::Jae-Woo Chang:::A cell-based index structure for similarity search in high-dimensional feature spaces.
+conf/sac/LogarCWWW94:::Antonette M. Logar::Edward M. Corwin::Samuel Watters::Ronald Weger::Ronald Welch:::A don't care back propagation algorithm applied to satellite image recognition.
+conf/sac/ZhangP03:::Tao Zhang::Xijian Ping:::A Fast and Effective Steganalytic Technique Against JSteg-like Algorithms.
+conf/sac/BosschereT94:::Koenraad De Bosschere::Paul Tarau:::High performance continuation passing style Prolog-to-C mapping.
+conf/sac/JoKIPL97:::Chang-Hyun Jo::Phil Sun Kim::Hyeung Sik Im::Eui Hyun Paik::Byung-Sun Lee:::A design and prototyping of an object-oriented program debugger.
+conf/sac/Harandi93:::Mehdi T. Harandi:::The Role of Analogy in Software Reuse.
+conf/sac/NezuL98:::Nobuyuki Nezu::Huizhu Lu:::Incremental construction of torus networks.
+conf/sac/WombacherMR03:::Andreas Wombacher::Bendick Malheko::Thomas Risse:::Classification of Ad hoc Multi-lateral Collaborations Based on Local Workflow Models.
+conf/sac/WassermanYS96:::Howard C. Wasserman::Keitaro Yukawa::Zhizhang Shen:::On quantitative measurement of negation in logic programming.
+conf/sac/HuangE98:::En-Hsin Huang::Tzilla Elrad:::Scheduling control mechanisms for managing indeterminate object behavior.
+conf/sac/HuangG96:::Jing Huang::Le Gruenwald:::Crash recovery for real-time main memory database systems.
+conf/sac/HuizingaH95:::Dorota M. Huizinga::Ken A. Heflinger:::Two-level client caching and disconnected operation of notebook computers in distributed systems.
+conf/sac/JengCC03:::Jun-Jang Jeng::Henry Chang::Jen-Yao Chung:::COSAR: Commitment-Oriented "Sense and Respond" System for Microelectronic Manufacturing.
+conf/sac/FurhtM03:::Borko Furht::Oge Marques:::Image and Video Databases Track Editorial.
+conf/sac/DeyBGMRSW97:::Pradip Peter Dey::David Benyon::Gene Golovchinsky::Santosh Mathan::Dewey Rundus::Arnold Smith::Robert C. Williges:::Human computer interaction models and application development (panel session).
+conf/sac/RitschelPG94:::W. Ritschel::Tilo Pfeifer::Robert Grob:::Rating of pattern classifications in multi-layer perceptrons: theoretical background and practical results.
+conf/sac/CorcoranW93:::Arthur L. Corcoran::Roger L. Wainwright:::LibGA: A User-Friendly Workbench for Order-Based Genetic Algorithm Research.
+conf/sac/BoudrigaHO99:::Noureddine Boudriga::O. Hassairi::Mohammad S. Obaidat:::Intelligent Services Integration in Mobile ATM Networks.
+conf/sac/DoyonD00:::Stephane Doyon::Mourad Debbabi:::Verifying Object Initialization in the Java Bytecode Language.
+conf/sac/HafnerBH96:::Jürgen Häfner::Hans-Heinrich Bothe::Klemens Heumann:::Fuzzy logic applied to compensation equipment in power electronics.
+conf/sac/GudaitisLT95:::Michael S. Gudaitis::Gary B. Lamont::Andrew J. Terzuoli:::Multicriteria vehicle route-planning using parallel A<sup>*</sup> search.
+conf/sac/Turau02:::Volker Turau:::A framework for automatic generation of web-based data entry applications based on XML.
+conf/sac/TemmeF00:::Karl-Heinz Temme::Madjid Fathi:::Fix-Mundis for Fuzzy IF-THEN Rule Bases with Standard Compositional Rule of Inference Interpretation.
+conf/sac/Mazlack97:::Lawrence J. Mazlack:::Developing a focus in unsupervised database mining.
+conf/sac/FontanaF97:::Francesca Arcelli Fontana::Ferrante Formato:::Using fuzzy grammars for the evaluation of SGML-based documents.
+conf/sac/PandaG98:::Brajendra Panda::Joe Giordano:::An overview of post information warfare data recovery.
+conf/sam/RudolphSG00:::Ekkart. Rudolph::Ina Schieferdecker::Jens Grabowski:::HyperMSC - a Graphical Representation of TTCN.
+conf/sam/GotzheinKS02:::Reinhard Gotzhein::Ferhat Khendek::Philipp Schaible:::Micro Protocol Design: The SNMP Case Study.
+conf/sam/RosslerGG02:::Frank Rößler::Birgit Geppert::Reinhard Gotzhein:::CoSDL: An Experimental Language for Collaboration Specification.
+conf/sam/AlbaladejoPE00:::J. P. Albaladejo::Javier Poncela::J. T. Entrambasaguas:::Adaptation Of SOMT To The Development Of Systems Based Upon a Standard.
+conf/sas/ChinKHT00:::Wei-Ngan Chin::Siau-Cheng Khoo::Zhenjiang Hu::Masato Takeichi:::Deriving Parallel Codes via Invariants.
+conf/sas/Venet96:::Arnaud Venet:::Abstract Cofibered Domains: Application to the Alias Analysis of Untyped Programs.
+conf/sas/PanitzS97:::Sven Eric Panitz::Manfred Schmidt-Schauß:::TEA: Automatically Proving Termination of Programs in a Non-strict Higher-Order Functional Language.
+conf/sas/SolbergNN92:::Kirsten Lackner Solberg::Hanne Riis Nielson::Flemming Nielson:::Inference Systems for Binding Time Analysis.
+conf/sas/BozgaFG99:::Marius Bozga::Jean-Claude Fernandez::Lucian Ghirvu:::State Space Reduction Based on Live Variables Analysis.
+conf/sas/KomondoorH01:::Raghavan Komondoor::Susan Horwitz:::Using Slicing to Identify Duplication in Source Code.
+conf/sas/Ameur91:::Yamine Aït Ameur:::Non Functional Properties Can Guide Program Developments.
+conf/sas/BreuerB92:::Peter T. Breuer::Jonathan P. Bowen:::Decompilation <i>is</i> the Efficient Enumeration of Types.
+conf/sas/GloessHLH92:::Paul Y. Gloess::Y.-N. Huang::C. M. Li::M.-A. Hernandez:::On Boolean Feature Types.
+conf/sas/UhW97:::Gang-Ryung Uh::David B. Whalley:::Coalescing Conditional Branches into Efficient Indirect Jumps.
+conf/sas/ColbyL91:::Christopher Colby::Peter Lee:::An Implementation of Parametrized Partial Evaluation.
+conf/sas/Martel02:::Matthieu Martel:::Static Analysis of the Numerical Stability of Loops.
+conf/sas/TadjouddineEF98:::M. Tadjouddine::F. Eyssette::C. Faure:::Sparse Jacobian Computation in Automatic Differentiation by Static Program Analysis.
+conf/sas/ErringtonHJ93:::Lindsay Errington::Chris Hankin::Thomas P. Jensen:::A Congruence for Gamma Programs.
+conf/sas/GluckK93:::Robert Glück::Andrei V. Klimov:::Occam's Razor in Metacompuation: the Notion of a Perfect Process Tree.
+conf/sas/JensenHR94:::Kristian Damm Jensen::Peter Hjæresen::Mads Rosendahl:::Efficient Strictness Analysis of Haskell.
+conf/sas/VaucheretB02:::Claudio Vaucheret::Francisco Bueno:::More Precise Yet Efficient Type Inference for Logic Programs.
+conf/sas/MesnardM92:::Frédéric Mesnard::Marianne Morillon:::Automatic Generation of Valid Linear Measures for CLP(Q) Programs.
+conf/sas/CoppoDG96:::Mario Coppo::Ferruccio Damiani::Paola Giannini:::Refinement Types for Program Analysis.

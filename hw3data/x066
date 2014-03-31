@@ -1,0 +1,200 @@
+journals/entcs/Meseguer96:::José Meseguer:::Preface.
+journals/entcs/NakamuraO00:::Masaki Nakamura::Kazuhiro Ogata:::The evaluation strategy for head normal form with and without on-demand flags.
+journals/entcs/Okada96:::Mitsuhiro Okada:::Phase Semantics for Higher Order Completeness, Cut-Elimination and Normalization Proofs.
+journals/entcs/Eker96:::Steven Eker:::Fast matching in combinations of regular equational theories.
+journals/entcs/Breugel97:::Franck van Breugel:::Failures, finiteness and full abstraction.
+journals/entcs/Honda96:::Kohei Honda:::Abstract Process Structures.
+journals/entcs/Pym00:::David J. Pym:::Notes Towards a Semantics for Proof-search.
+journals/entcs/LiebchenM02:::Christian Liebchen::Rolf H. Möhring:::A Case Study in Periodic Timetabling.
+journals/entcs/Janssens01:::Dirk Janssens:::Processes and Local Actions.
+journals/entcs/MercerMY02:::Eric Mercer::Chris J. Myers::Tomohiro Yoneda:::Modular Synthesis of Timed Circuits using Partial Order Reduction.
+journals/entcs/Kurz01:::Alexander Kurz:::Modal Rules are Co-Implications.
+journals/entcs/Galmiche00:::Didier Galmiche:::Preface.
+journals/entcs/DeselJL01:::Jörg Desel::Gabriel Juhás::Robert Lorenz:::Unifying Petri Nets with Restricted Occurrence Rule Using Partial Algebra.
+journals/entcs/BhaduriVP02:::Purandar Bhaduri::R. Venkatesh::Girish Keshav Palshikar:::Formal Techniques for Analysing Scenarios using Message Sequence Charts.
+journals/entcs/Rushby01:::John M. Rushby:::Analyzing Cockpit Interfaces Using Formal Methods.
+journals/entcs/CookeK99:::Daniel E. Cooke::Vladik Kreinovich:::Automatic Concurrency in SequenceL.
+journals/entcs/Wolter00:::Uwe Wolter:::On Corelations, Cokernels, and Coequations.
+journals/entcs/HartogVB00:::J. I. den Hartog::Erik P. de Vink::J. W. de Bakker:::Metric Semantics and Full Abstractness for Action Refinement and Probabilistic Choice.
+journals/entcs/Rutten01:::Jan J. M. M. Rutten:::Elements of Stream Calculus (An Extensive Exercise in Coinduction).
+journals/entcs/GharbiI02:::Nawel Gharbi::Malika Ioualalen:::Performance Analysis of Retrial Queueing Systems Using Generalized Stochastic Petri Nets.
+journals/entcs/Pitts97:::Andrew M. Pitts:::Parametric Polymorphism and Operational Equivalence.
+journals/entcs/Landauer96:::Christopher Landauer:::Discrete event systems in rewriting logic.
+journals/entcs/Reed00:::George M. Reed:::Measurements on domains and topology.
+journals/entcs/Mosses98:::Peter D. Mosses:::Semantics, modularity, and rewriting logic.
+journals/entcs/AttaliCDFPP01:::Isabelle Attali::Carine Courbis::Pascal Degenne::Alexandre Fau::Didier Parigot::Claude Pasquier:::SmartTools: a Generator of Interactive Environment Tools.
+journals/entcs/Sunderhauf98:::Philipp Sünderhauf:::Spaces of valuations as quasimetric domains.
+journals/entcs/Borba98:::Paulo Borba:::Systematic Development of Concurrent Object-Oriented Programs.
+journals/entcs/JacobsMRR98:::Bart Jacobs::Larry Moss::Horst Reichel::Jan J. M. M. Rutten:::Preface.
+journals/entcs/NeelamaniQB01:::Ramesh Neelamani::Ricardo L. de Queiroz::Richard G. Baraniuk:::Lattice algorithms for compression color space estimation in JPEG images.
+journals/entcs/Tews00:::Hendrik Tews:::Coalgebras for Binary Methods.
+journals/entcs/KirchnerK98:::Claude Kirchner::Hélène Kirchner:::Preface.
+journals/entcs/FischerH01:::Klaus Fischer::Dieter Hutter:::Preface.
+journals/entcs/Worrel00:::James Worrel:::Coinduction for recursive data types: partial orders, metric spaces and Omega-categories.
+journals/entcs/Safranek03:::David Safranek:::SGCCS: A Graphical Language for Real-time Coordination.
+journals/entcs/BravettiA01:::Mario Bravetti::Alessandro Aldini:::Non-determinism in Probabilistic Timed Systems with General Distributions.
+journals/entcs/Simeoni01:::Marta Simeoni:::An Abstract Module Concept for Graph Transformation Systems.
+journals/entcs/GentiliniPP02:::Raffaella Gentilini::Carla Piazza::Alberto Policriti:::Simulation Reduction as Constraint.
+journals/entcs/RosenfeldK01:::Azriel Rosenfeld::Reinhard Klette:::Digital straightness.
+journals/entcs/Prasad01:::K. V. S. Prasad:::Broadcast Calculus Interpreted in CCS upto Bisimulation.
+journals/entcs/BozgaJMY02:::Marius Bozga::Hou Jianmin::Oded Maler::Sergio Yovine:::Verification of Asynchronous Circuits using Timed Automata.
+journals/entcs/Pratt97a:::Vaughan R. Pratt:::Types as processes, via Chu spaces.
+journals/entcs/Giunchiglia99:::Fausto Giunchiglia:::The OMRS project: State of the art.
+journals/entcs/DamsG97:::Dennis Dams::Rob Gerth:::The bounded retransmission protocol revisited.
+journals/entcs/Pfenning02:::Frank Pfenning:::Preface.
+journals/entcs/BatistaC02:::Thaís Vasconcelos Batista::Milano Gadelha Carvalho:::Component-Based Applications: A Dynamic Reconfiguration Approach with Fault Tolerance Support.
+journals/entcs/FerrariMP01a:::Gian Luigi Ferrari::Eugenio Moggi::Rosario Pugliese:::Global Types and Network Services.
+journals/entcs/BrandMR02:::Mark van den Brand::Pierre-Etienne Moreau::Christophe Ringeissen:::The ELAN Environment: a Rewriting Logic Environment based on ASF+SDF Technology - System Demonstration.
+journals/entcs/Margaria02:::Tiziana Margaria:::The Electronic Tool Integration Platform as a Supplier and User of Graph Based Tools.
+journals/entcs/KanovichOS97:::Max I. Kanovich::Mitsuhiro Okada::Andre Scedrov:::Phase semantics for light linear logic.
+journals/entcs/Hildebrandt00:::Thomas T. Hildebrandt:::Categorical Models for Fairness: Completion vs Delay.
+journals/entcs/CaprottiC99:::Olga Caprotti::Arjeh M. Cohen:::Integrating computational and deduction systems using OpenMath.
+journals/entcs/Futatsugi00:::Kokichi Futatsugi:::Preface.
+journals/entcs/KastensS02:::Uwe Kastens::Carsten Schmidt:::VL-Eli: A Generator for Visual Languages - System Demonstration.
+journals/entcs/CockettS95:::J. Robin B. Cockett::David A. Spooner:::Categories for synchrony and asynchrony.
+journals/entcs/Brookes97:::Stephen D. Brookes:::Idealized CSP: combining procedures with communicating processes.
+journals/entcs/CorradiniDR01:::Andrea Corradini::Fernando Luís Dotti::Leila Ribeiro:::A Graph Transformation View on the Specification of Applications using Mobile Code.
+journals/entcs/CorradiniLM01:::Andrea Corradini::Marina Lenisa::Ugo Montanari:::Preface.
+journals/entcs/ColacoP02:::Jean-Louis Colaço::Marc Pouzet:::Type-Based Initialisation Analysis of a Synchronous Data-Flow Language.
+journals/entcs/BobbioH01:::Andrea Bobbio::András Horváth:::Petri Nets with Discrete Phase Type Timing: A Bridge Between Stochastic and Functional Analysis.
+journals/entcs/Kruger02:::Ingolf Krüger:::Specifying Services with UML and UML-RT.
+journals/entcs/Alvarez-ManillaES98:::Maurizio Alvarez-Manilla::Abbas Edalat::N. Saheb-Djahromi:::An extension result for continuous valuations.
+journals/entcs/LamoW02:::Yngve Lamo::Michal Walicki:::Composition and refinement of specifications and parameterised data types.
+journals/entcs/Bakker00:::J. W. de Bakker:::Fixed Points in Metric Semantics.
+journals/entcs/Zaroliagis01:::Christos D. Zaroliagis:::Introduction - Algorithmic MeThods and Models for Optimization of RailwayS - ATMOS 2001.
+journals/entcs/Nestmann97:::Uwe Nestmann:::What is a `good' encoding of guarded choice?
+journals/entcs/KapurWB01:::Deepak Kapur::Victor L. Winter::Raymond Berg:::Designing a Controller for a Multi-Train Multi-Track System.
+journals/entcs/BiereAS02:::Armin Biere::Cyrille Artho::Viktor Schuppan:::Liveness Checking as Safety Checking.
+journals/entcs/LammelW01:::Ralf Lämmel::Guido Wachsmuth:::Transformation of SDF syntax definitions in the ASF+SDF Meta-Environment.
+journals/entcs/KothM01:::Oliver Köth::Mark Minas:::Abstraction in Graph-Transformation Based Diagram Editors.
+journals/entcs/Thiemann97:::Peter Thiemann:::Correctness of a region-based binding-time analysis.
+journals/entcs/VlijmenKS99:::Sebastiaan van Vlijmen::Steven Klusener::Lex Schrijver:::The Compact Dynamic Bus Station.
+journals/entcs/DuceD01:::David A. Duce::David J. Duke:::Syndetic Modelling: Computer Science Meets Cognitive Psychology.
+journals/entcs/NguyenI02:::Thi Viet Nga Nguyen::François Irigoin:::Alias verification for Fortran code optimization.
+journals/entcs/FruhwirthPW02:::Thom W. Frühwirth::Alessandra Di Pierro::Herbert Wiklicky:::Probabilistic Constraint Handling Rules.
+journals/entcs/Burkart97:::Olaf Burkart:::Model checking rationally restricted right closures of recognizable graphs.
+journals/entcs/Gordon95:::Andrew D. Gordon:::Bisimilarity as a theory of functional programming.
+journals/entcs/BasinM98:::David A. Basin::Seán Matthews:::Scoped metatheorems.
+journals/entcs/Falco96:::Lorenzo Tortora de Falco:::Generalized standardization lemma for the additives.
+journals/entcs/Kuske01:::Sabine Kuske:::Parameterized Transformation Units.
+journals/entcs/Kuske95:::Sabine Kuske:::Implementing beta-reduction by hypergraph rewriting.
+journals/entcs/MedinaOV02:::Jesús Medina::Manuel Ojeda-Aciego::Peter Vojtás:::A Multi-Adjoint Approach to Similarity-Based Unification.
+journals/entcs/ShandB95:::Duncan Shand::Simon Brock:::Proofs as graphs.
+journals/entcs/Marti-OlietM96:::Narciso Martí-Oliet::José Meseguer:::Rewriting logic as a logical and semantic framework.
+journals/entcs/Lilius98:::Johan Lilius:::Efficient State Space Search for Time Petri Nets.
+journals/entcs/Strejcek01:::Jan Strejcek:::Rewrite Systems with Constraints.
+journals/entcs/KwiatkowskaMNP02:::Marta Z. Kwiatkowska::Rashid Mehmood::Gethin Norman::David Parker:::A Symbolic Out-of-Core Solution Method for Markov Models.
+journals/entcs/SchroederS02:::Michael Schroeder::Ralf Schweimeier:::Arguments and Misunderstandings: Fuzzy Unification for Negotiating Agents.
+journals/entcs/SumiiK98:::Eijiro Sumii::Naoki Kobayashi:::A Generalized Deadlock-Free Process Calculus.
+journals/entcs/Windels00:::Bart Windels:::Solve[order/topology == quasi-metric/x, x].
+journals/entcs/LyaletskiM99:::Alexander V. Lyaletski::Marina Morokovets:::On linguistic aspects of integration of computer mathematical knowledge.
+journals/entcs/Jeffrey00:::Alan Jeffrey:::Preface.
+journals/entcs/BraccialiBC02:::Andrea Bracciali::Antonio Brogi::Carlos Canal:::Systematic Component Adaptation.
+journals/entcs/ColbyJJLP98:::Christopher Colby::Lalita Jategaonkar::Radha Jagadeesan::Konstantin Läufer::Carlos Puchol:::The Semantics of Triveni: A Process-Algebraic API for Threads + Events.
+journals/entcs/Reichel00:::Horst Reichel:::Preface.
+journals/entcs/CominiF02:::Marco Comini::Moreno Falaschi:::Preface.
+journals/entcs/BinucciD02:::Carla Binucci::Walter Didimo:::A Software System for Computing Labeled Orthogonal Drawings of Graphs.
+journals/entcs/JacquetBGK03:::Jean-Marie Jacquet::Lubos Brim::David Gilbert::Mojmír Kretínský:::Coordination by Means of Synchronous and Asynchronous Communication in Concurrent Constraint Programming.
+journals/entcs/Fuhrmann99:::Carsten Führmann:::Direct Models for the Computational Lambda Calculus.
+journals/entcs/Johnsson95:::Thomas Johnsson:::Graph reduction, and how to avoid it.
+journals/entcs/ShingLBSWGS99:::Man-tak Shing::Luqi::Valdis Berzins::Michael Saluto::Julian Williams::J. Guo::B. Shultes:::The Story of Re-engineering 350, 000 Lines of FORTRAN Code.
+journals/entcs/OlveczkyM96:::Peter Csaba Ölveczky::José Meseguer:::Specifying real-time systems in rewriting logic.
+journals/entcs/Plotkin01:::Gordon D. Plotkin:::Bialgebraic Semantics and Recursion (Extended Abstract).
+journals/entcs/Aichernig02:::Bernhard K. Aichernig:::Contract-based mutation testing in the refinement calculus.
+journals/entcs/Reveilles01:::Jean-Pierre Reveillès:::The geometry of the intersection of voxel spaces.
+journals/entcs/HalkjaerHI02:::Lone Halkjaer::Karen Haervig::Anna Ingólfsdóttir:::Verification of the legOS Scheduler using Uppaal.
+journals/entcs/Winskel97:::Glynn Winskel:::An Operational Understanding of Bisimulation from Open Maps.
+journals/entcs/KinoshitaPT97:::Yoshiki Kinoshita::John Power::Makoto Takeyama:::Sketches.
+journals/entcs/Schamschurko98:::Dmitri Schamschurko:::Modeling Process Calculi with PVS.
+journals/entcs/ErwigJ00:::Martin Erwig::Simon L. Peyton Jones:::Pattern Guards and Transformational Patterns.
+journals/entcs/MeinelS99:::Christoph Meinel::Harald Sack:::Parity-OBDDs - a BDD structure for Probabilistic Verification.
+journals/entcs/BrookesJMS99:::Stephen D. Brookes::Achim Jung::Michael W. Mislove::Andre Scedrov:::Preface.
+journals/entcs/Martin01a:::Keye Martin:::Unique Fixed Points in Domain Theory.
+journals/entcs/CaballeroL02:::Rafael Caballero::Wolfgang Lux:::Declarative Debugging for Encapsulated Search.
+journals/entcs/ShashidharBCJ02:::K. C. Shashidhar::Maurice Bruynooghe::Francky Catthoor::Gerda Janssens:::Geometric Model Checking: An Automatic Verification Technique for Loop and Data Reuse Transformations.
+journals/entcs/KosiuczenkoW99:::Piotr Kosiuczenko::Martin Wirsing:::Formalizing and Executing Message Sequence Charts via Timed Rewriting.
+journals/entcs/AriolaKP97:::Zena M. Ariola::Jan Willem Klop::Detlef Plump:::Confluent rewriting of bisimilar term graphs.
+journals/entcs/KakkarHMG99:::Pankaj Kakkar::Michael W. Hicks::Jonathan T. Moore::Carl A. Gunter:::Specifying the PLAN Network Programming Langauge.
+journals/entcs/GlesnerGB02:::Sabine Glesner::Rubino Geiß::Boris Boesler:::Verified Code Generation for Embedded Systems.
+journals/entcs/BorovanskyJMR98:::Peter Borovanský::Salma Jamoussi::Pierre-Etienne Moreau::Christophe Ringeissen:::Handling ELAN rewrite programs via an exchange format.
+journals/epodd/BrownU92:::Heather Brown::I. A. Utting:::Teaching Electronic Publishing to Computer Scientists.
+journals/epodd/Hall94:::Wendy Hall:::Editorial.
+journals/epodd/Zapf94:::Herman Zapf:::Call for Foundation of a Sir Francis Drake Society.
+journals/epodd/JonesS90:::Tricia Jones::Ben Shneiderman:::Examining Usability for a Training-Oriented Hypertext: Can Hyper-Activity be Good?
+journals/epodd/Karow91:::Peter Karow:::Digital Punch Cutting.
+journals/epodd/KuikkaP93:::Eila Kuikka::Martti Penttonen:::Transformation of Structured Documents with the Use of Grammar.
+journals/epodd/StottsF91:::P. David Stotts::Richard Furuta:::Hypertext 2000: Databases or Documents.
+journals/epodd/Knuth90:::Donald E. Knuth:::A Note on Digitized Angles.
+journals/epodd/SchnaseLHNS93:::John L. Schnase::John J. Leggett::David L. Hicks::Peter J. Nürnberg::J. Alfredo Sánchez:::Design and Implementation of the HB1 Hyperbase Management System.
+journals/epodd/Erfle93:::Robert Erfle:::Specification of Temporal Constraints in Multimedia Documents using HyTime.
+journals/epodd/SmithBEHPS93:::Philip N. Smith::David F. Brailsford::David R. Evans::Leon Harrison::Steve G. Probets::Peter E. Sutton:::Journal Publishing with Acrobat: the CAJUN Project.
+journals/epodd/BrailsfordB88b:::David F. Brailsford::Richard J. Beach:::Editorial.
+journals/epodd/BurrillO88:::Victoria A. Burrill::John A. Ogden:::VORTEXT: The Hard-backed Screen.
+journals/epodd/FankhauserX93:::Peter Fankhauser::Yi Xu:::MarkItUp! An Incremental Approach to Document Structure Recognition.
+journals/iandc/Subramanian95:::Ashok Subramanian:::The Parallel Complexity of Propagation in Boolean Circuits
+journals/iandc/BuningL89:::Hans Kleine Büning::Ulrich Löwen:::Optimizing Propositional Calculus Formulas with Regard to Questions of Deducibility
+journals/iandc/KreveldO94:::Marc J. van Kreveld::Mark H. Overmars:::Concatenable Structures for Decomposable Problems
+journals/iandc/NeuhoffS82:::D. L. Neuhoff::Paul C. Shields:::Channel Distances and Representation
+journals/iandc/KummerS95:::Martin Kummer::Frank Stephan:::Recursion Theoretic Properties of Frequency Computation and Bounded Queries
+journals/iandc/PapadimitriouY86:::Christos H. Papadimitriou::Mihalis Yannakakis:::A Note on Succinct Representations of Graphs
+journals/iandc/Grasselli75:::Antonio Grasselli:::Synchronization of Cellular Arrays: The Firing Squad Problem in Two Dimensions
+journals/iandc/Chen01:::Zhi-Zhong Chen:::Approximating Unweighted Connectivity Problems in Parallel.
+journals/iandc/Chen66:::Chi-hau Chen:::A Note on Sequential Decision Approach to Pattern Recognition and Machine Learning
+journals/iandc/Chen72:::C. L. Chen:::On Shortened Finite Geometry Codes
+journals/iandc/Broy84:::Manfred Broy:::Semantics of Communicating Processes
+journals/iandc/Chow69:::David K. Chow:::New Balanced-File Organization Schemes
+journals/iandc/Spreen95:::Dieter Spreen:::On Some Decision Problems in Programming
+journals/iandc/ParchmannDS80a:::Rainer Parchmann::Jürgen Duske::Johann Specht:::On Deterministic Indexed Languages
+journals/iandc/MateescuSSY95:::Alexandru Mateescu::Arto Salomaa::Kai Salomaa::Sheng Yu:::P, NP and the Post Correspondence Problem
+journals/iandc/JustesenL75:::Jørn Justesen::Knud J. Larsen:::On Probabilistic Context-Free Grammars that Achieve Capacity
+journals/iandc/Ponzio98:::Stephen Ponzio:::The Combinatorics of Effective Resistances and Resistive Inverses.
+journals/iandc/Alter68:::Ronald Alter:::On the Non-Existence of Perfect Double Hamming-Error-Correcting Codes on q = 8 and q = 9 Symbols
+journals/iandc/Falb67:::Peter L. Falb:::Infinite-Dimensional Filtering: The Kalman-Bucy Filter in Hilbert Space
+journals/iandc/AmirF95:::Amihood Amir::Martin Farach:::Efficient 2-Dimensional Approximate Matching of Half-Rectangular Figures
+journals/iandc/Dyer80:::Charles R. Dyer:::One-Way Bounded Cellular Automata
+journals/iandc/ShamirT01:::Adi Shamir::Boaz Tsaban:::Guaranteeing the Diversity of Number Generators.
+journals/iandc/PaturiS94:::Ramamohan Paturi::Michael E. Saks:::Approximating Threshold Circuits by Rational Functions
+journals/iandc/Fell76:::Harriet Fell:::Detectable Properties of Planar Figures
+journals/iandc/AttiyaGM02:::Hagit Attiya::Alla Gorbach::Shlomo Moran:::Computing in Totally Anonymous Asynchronous Shared Memory Systems.
+journals/iandc/Prodinger80:::Helmut Prodinger:::Congruences Defined by Languages and Filters
+journals/iandc/Gelder88:::Allen Van Gelder:::A Satisfiability Tester for Non-clausal Propositional Calculus
+journals/iandc/Shannon57:::Claude E. Shannon:::Certain Results in Coding Theory for Noisy Channels
+journals/iandc/Chomsky59b:::Noam Chomsky:::A Note on Phrase Structure Grammars
+journals/iandc/Kimura73:::Izumi Kimura:::Space-Continuous Time-Semicontinuous Theory of Speed-Independent Asynchronous Circuits
+journals/iandc/Hart80:::Johnson M. Hart:::Derivation Structures for Strictly Context-Sensitive Grammars
+journals/iandc/Gorn59:::Saul Gorn:::On the Mechanical Simulation of Habit-Forming and Learning
+journals/iandc/Devolder93:::Jeanne Devolder:::Precircular Codes and Periodic Biinfinite Words
+journals/iandc/GradelG98:::Erich Grädel::Yuri Gurevich:::Metafinite Model Theory.
+journals/iandc/MaurerSW81a:::Hermann A. Maurer::Arto Salomaa::Derick Wood:::On Predecessors of Finite Languages
+journals/iandc/Han75:::Te Sun Han:::Linear Dependence Structure of the Entropy Space
+journals/iandc/HoL65:::Yu-Chi Ho::R. C. K. Lee:::Identification of Linear Dynamic Systems
+journals/iandc/Hsu71:::Harry T. Hsu:::A Class of Binary Shortened Cyclic Codes for a Compound Channel
+journals/iandc/Hsu73:::Harry T. Hsu:::On the Decoding of a Class of Shortened Cyclic Codes for a Compound Channel
+journals/iandc/LiV88:::Ming Li::Paul M. B. Vitányi:::Tape versus Queue and Stacks: The Lower Bounds
+journals/iandc/Liu69:::C. L. Liu:::A Note on Definite Stochastic Sequential Machines
+journals/iandc/Luo91:::Zhaohui Luo:::A Higher-Order Calculus and Theory Abstraction
+journals/iandc/StuckyW70:::Wolffried Stucky::Hermann K.-G. Walter:::Minimal Linear Realizations of Autonomous Automata
+journals/iandc/GinsburgSW93:::Seymour Ginsburg::Dan A. Simovici::Xiaoyang Sean Wang:::Content-Related Interval Queries on Object Histories
+journals/iandc/Tan72:::Choon Peng Tan:::On Two-State Isolated Probabilistic Automata
+journals/iandc/Arbib66:::Michael A. Arbib:::Simple Self-Reproducing Universal Automata
+journals/iandc/Marcinkowski02:::Jerzy Marcinkowski:::The [exist]*[forall]* Part of the Theory of Ground Term Algebra Modulo an AC Symbol is Undecidable.
+journals/iandc/LomnickiZ59:::Z. A. Lomnicki::S. K. Zaremba:::The Asymptotic Distributions of Estimators of the Amount of Transmitted Information
+journals/iandc/KimL95:::Changwook Kim::Dong Hoon Lee:::Node Replacement Graph Languages Squeezed with Chains, Trees, and Forests
+journals/iandc/KekreWK79:::Hemachandra B. Kekre::Meghanad D. Wagh::Sharad V. Kanetkar:::On Group Theoretic Transforms and the Automorphism Groups
+journals/iandc/FleischerRST01:::Rudolf Fleischer::Kathleen Romanik::Sven Schuierer::Gerhard Trippen:::Optimal Robot Localization in Trees.
+journals/iandc/Ihara74:::Shunsuke Ihara:::A Note on Mutual Information in a White Gaussian Channel with Linear Feedback
+journals/iandc/Ben-Bassat78:::Moshe Ben-Bassat:::f-Entropies, probability of Error, and Feature Selection
+journals/iandc/Mann62:::Henry B. Mann:::On the Number of Information Symbols in Bose-Chaudhuri Codes
+journals/iandc/CurienG94:::Pierre-Louis Curien::Giorgio Ghelli:::Decidability and Confluence of \beta\eta\hboxtop_\le Reduction in F_\le
+journals/iandc/LowM98:::Steven H. Low::Nicholas F. Maxemchuk:::A Collusion Problem and Its Solution.
+journals/iandc/Weiss62:::E. Weiss:::Generalized Reed-Muller Codes
+journals/iandc/BloomE97:::Stephen L. Bloom::Zoltán Ésik:::Axiomatizing Shuffle and Concatenation in Languages.
+journals/iandc/Luca76:::Aldo de Luca:::A Note on Variable Length Codes
+journals/iandc/KurshanS72:::Robert P. Kurshan::N. J. A. Sloane:::Coset Analysis of Reed Muller Codes Via Translates of Finite Vector Spaces
+journals/iandc/FrancesL98:::Moti Frances::Ami Litman:::Optimal Mistake Bound Learning is Hard.
+journals/iandc/Nieh68:::T. T. Nieh:::Stochastic Sequential Machines with Prescribed Performance Criteria
+journals/iandc/HarelR94:::David Harel::Danny Raz:::Deciding Emptiness for Stack Automata on Infinite Trees
+journals/iandc/Moriya73a:::Etsuro Moriya:::Associate Languages and Derivational Complexity of Formal Grammars and Languages
+journals/iandc/AlbertC80:::J. Albert::Karel Culik II:::Test Sets for Homomorphism Equivalence on Context Free Languages
+journals/iandc/Blake71:::Ian F. Blake:::The Leech Lattice as a Code for the Gaussian Channel
+journals/iandc/BarbaneraB97:::Franco Barbanera::Stefano Berardi:::The Simply-Typed Theory of Beta-Conversion has no Maximum Extension.

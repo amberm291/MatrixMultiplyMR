@@ -1,0 +1,200 @@
+conf/visualization/GrossoLE97:::Roberto Grosso::Christoph Lürig::Thomas Ertl:::The multilevel finite element method for adaptive mesh optimization and visualization of volume data.
+conf/visualization/Cohen-OrLS96:::Daniel Cohen-Or::David Levin::Amira Solomovici:::Contour Blending Using Warp-Guided Distance Field Interpolation.
+conf/visualization/CrawfisA91:::Roger Crawfis::M. J. Allison:::A Scientific Visualization Synthesizer.
+conf/visualization/ChenTNWF00:::Wei-Chao Chen::Herman Towles::Lars S. Nyland::Greg Welch::Henry Fuchs:::Toward a compelling sensation of telepresence: demonstrating a portal to a distant (static) office.
+conf/visualization/GelderW93:::Allen Van Gelder::Jane Wilhelms:::Rapid Exploration of Curvilinear Grids Using Direct Volume Rendering.
+conf/visualization/WalterH01:::Jason D. Walter::Christopher G. Healey:::Attribute Preserving Dataset Simplification.
+conf/visualization/SchroederLMV92:::William J. Schroeder::William E. Lorensen::G. D. Montanaro::Christopher R. Volpe:::VISAGE: An Object-Oriented Scientific Visualization System.
+conf/visualization/PuigTN97:::Anna Puig::Dani Tost::Isabel Navazo:::An interactive cerebral blood vessel exploration system.
+conf/visualization/GrigoryanR02:::Gevorg Grigoryan::Penny Rheingans:::Probabilistic Surfaces: Point Based Primitives to Show Surface Uncertainty.
+conf/visualization/DingGA01:::Zhaohua Ding::John C. Gore::Adam W. Anderson:::Case Study: Reconstruction, Visualization, and Quantification of Neuronal Fiber Pathways.
+conf/visualization/HinkleyW91:::K. P. Hinkley::Matthew O. Ward:::The Visual Comparison of Three Sequences.
+conf/visualization/TrueH92:::T. J. True::J. F. Hughes:::Volume Warping.
+conf/visualization/Rheingans97:::Penny Rheingans:::Dynamic color mapping of bivariate qualitative data.
+conf/visualization/RowlanLGB94:::John S. Rowlan::G. Edward Lent::Nihar Gokhale::Shannon Bradshaw:::A distributed, parallel, interactive volume rendering package.
+conf/visualization/HadapBVM99:::Sunil Hadap::Endre Bangerter::Pascal Volino::Nadia Magnenat-Thalmann:::Animating Wrinkles on Clothes.
+conf/visualization/PajonT90:::J. L. Pajon::V. B. Tran:::Visualization of Scalar Data Defined on a Structured Grid: Applications to Petroleum Research.
+conf/visualization/Maeder90:::Anthony J. Maeder:::Animation Techniques for Chain-Coded Objects.
+conf/visualization/NielsonHR99:::Gregory M. Nielson::Dave Holliday::Tom Roxborough:::Cracking the Cracking Problem with Coons Patches.
+conf/visualization/StegmaierRE02:::Simon Stegmaier::Dirc Rose::Thomas Ertl:::A Case Study On The Applications Of A Generic Library For Low-Cost Polychromatic Passive Stereo.
+conf/visualization/Muller95:::Andreas Müller:::Pictorial Statistics - Visualization of High Dimensional Statistical Distributions.
+conf/lambda/Welch75:::Peter H. Welch:::Continuous semantics and inside-out reductions.
+conf/lambda/Scott75:::Dana S. Scott:::Combinators and classes.
+conf/lambda/Hyland75:::J. M. E. Hyland:::A survey of some useful partial order relations on terms of the lambda calculus.
+conf/lambda/Nolin75:::Louis Nolin:::Les modèles informatiques des lambda-calculus.
+conf/lambda/Vrijer75:::Roel C. de Vrijer:::Big trees in a lambda - calculus with lambda - expressions as types.
+conf/lansec/Ward89:::Richard Ward:::OSI Network Security and the NTCB.
+conf/lansec/BarkerE89:::L. Kirk Barker::George A. Evans:::The Impact of Security Service Selection for LANs.
+conf/lctrts/SutterBBD01:::Bjorn De Sutter::Bruno De Bus::Koenraad De Bosschere::Saumya K. Debray:::Combining Global Code and Data Compaction.
+conf/lctrts/ParkLM01:::Jinpyo Park::Je-Hyung Lee::Soo-Mook Moon:::Register Allocation for Banked Register File.
+conf/lctrts/StotzerL99:::Eric Stotzer::Ernst L. Leiss:::Modulo Scheduling for the TMS320C6x VLIW DSP Architecture.
+conf/lctrts/RyuPKSH99:::Minsoo Ryu::Jungkeun Park::Kimoon Kim::Yangmin Seo::Seongsoo Hong:::Performance Re-engineering of Embedded Real-Time Systems.
+conf/lctrts/Krishnaswamy03:::Arvind Krishnaswamy::Rajiv Gupta:::Enhancing the performance of 16-bit code using augmenting instructions.
+conf/lctrts/BuddeP00:::Reinhard Budde::Axel Poigné:::Complex Reactive Control with Simple Synchronous Models.
+conf/lctrts/CintraA00:::Marcelo H. Cintra::Guido Araujo:::Array Reference Allocation Using SSA-Form and Live Range Growth.
+conf/lctrts/LeeJS99:::Sungyoung Lee::Byeong-Soo Jeong::Hyonwoo Seung:::A Secure Dynamic Copy Protocol in Real-Time Secure Database Systems.
+conf/lctrts/KarczmarekTA03:::Michal Karczmarek::William Thies::Saman P. Amarasinghe:::Phased scheduling of stream programs.
+conf/lctrts/BrunschOS01:::Darrell Brunsch::Carlos O'Ryan::Douglas C. Schmidt:::Designing an Efficient and Scalable Server-side Asynchrony Model for CORBA.
+conf/lctrts/PalmLDM02:::Jeffrey Palm::Han Lee::Amer Diwan::J. Eliot B. Moss:::When to use a compilation service?
+conf/lctrts/RobertzH03:::Sven Gestegard Robertz::Roger Henriksson:::Time-triggered garbage collection: robust and adaptive real-time GC scheduling for embedded systems.
+conf/lctrts/BakkersSP95:::André Bakkers::Johan Sunter::Evert Ploeg:::Automatic Generation of Scheduling and Communication Code in Real-Time Parallel Programs.
+conf/lctrts/AbouGhazalehCMMC03:::Nevine AbouGhazaleh::Bruce R. Childers::Daniel Mossé::Rami G. Melhem::Matthew Craven:::Energy management for real-time embedded applications with compiler support.
+conf/ACMpolicy/Camp98:::Tracy Camp:::Survey results from the incredible shrinking pipeline (abstract).
+conf/ACMpolicy/Clark98:::Jessica Clark:::Who profits? online copyright concerns for writers.
+conf/ACMpolicy/Primeaux98:::D. Primeaux:::Using an alternative ethical paradigm for analysis: an example regarding e-mail privacy issues.
+conf/maamaw/BoissierD94:::Olivier Boissier::Yves Demazeau:::ASIC: An Architecture for Social and Individual Control and its Application to Computer Vision.
+conf/maamaw/AubeS96:::Michel Aubé::Alain Senteni:::Emotions as Commitments Operators: A Foundation for Control Structure in Multi-Agents Systems.
+conf/maamaw/Drogoul93:::Alexis Drogoul:::When Ants Play Chess (Or Can Strategies Emerge from Tactical Behaviours?).
+conf/maamaw/Jennings99:::Nicholas R. Jennings:::Agent-Oriented Software Engineering.
+conf/maamaw/Ghedira94:::Khaled Ghédira:::A Distributed Approach to Partial Constraint Satisfaction Problems.
+conf/maamaw/SteinerBKL93:::Donald Steiner::Alastair D. Burt::Michael Kolb::Christelle Leri:::The Conceptual Framework of MAI<sup>2</sup>L.
+conf/maamaw/WooldridgeJ94:::Michael Wooldridge::Nicholas R. Jennings:::Towards a Theory of Cooperative Problem Solving.
+conf/maamaw/BurmeisterHS93:::Birgit Burmeister::Afsaneh Haddadi::Kurt Sundermeyer:::Generic, Configurable, Cooperation Protocols for Multi-Agent Systems.
+conf/maamaw/Fallah-SeghrouchniHM99:::Amal El Fallah-Seghrouchni::Serge Haddad::Hamza Mazouzi:::Protocol Engineering for Multi-agent Interaction.
+conf/maamaw/Shoham92:::Yoav Shoham:::Multi-Agent Research in the Knobotics Group.
+conf/maamaw/KinnyGR96:::David Kinny::Michael P. Georgeff::Anand S. Rao:::A Methodology and Modelling Technique for Systems of BDI Agents.
+conf/nixdorf/HeydariS92:::Mohammad H. Heydari::Ivan Hal Sudborough:::On Sorting by Prefix Reversals and the Diameter of Pancake Networks.
+conf/nixdorf/LeightonM92:::Tom Leighton::Bruce M. Maggs:::The Role of Randomness in the Design of Interconnection Networks.
+conf/nixdorf/MayrW92:::Ernst W. Mayr::Ralph Werchner:::Optimal Implementation of General Divide-and-Conquer on the Hypercube and Related Networks.
+conf/nixdorf/Johnsson92:::S. Lennart Johnsson:::Massively Parallel Computing: Data Distribution and Communication.
+conf/workflow/Joeris99:::Gregor Joeris:::Defining Flexible Workflow Execution Behaviors.
+conf/workflow/AlonsoFLSSW99:::Gustavo Alonso::U. Fiedler::Amaia Lazcano::Heiko Schuldt::Christoph Schuler::N. Weiler:::WISE: An Infrastructure for E-Commerce.
+conf/lomaps/Schmidt96:::David A. Schmidt:::Abstract Interpretation of Small-Step Semantics.
+conf/lomaps/Knabe96:::Frederick Knabe:::An Overview of Mobile Agent Programming.
+conf/lopstr/LombartWD93:::Vincent Lombart::Geraint A. Wiggins::Yves Deville:::Guiding Synthesis Proofs.
+conf/lopstr/MogensenB92:::Torben Æ. Mogensen::Anders Bondorf:::Logimix: A Self-Applicable Partial Evaluator for Prolog.
+conf/lopstr/GuoRR02:::Hai-Feng Guo::C. R. Ramakrishnan::I. V. Ramakrishnan:::Justification Based on Program Transformation.
+conf/lopstr/Dunin-Keplicz94:::Barbara Dunin-Keplicz:::An Architecture with Multiple Meta-Levels for the Development of Correct Programs.
+conf/lopstr/Basin94:::David A. Basin:::Logic Frameworks for Logic Programs.
+conf/lopstr/Antoy91:::Sergio Antoy:::Non-Determinism and Lazy Evaluation in Logic Programming.
+conf/lopstr/LauO01:::Kung-Kiu Lau::Mario Ornaghi:::Correct Object-Oriented Systems in Computational Logic.
+conf/lopstr/EtalleM00:::Sandro Etalle::Jon Mountjoy:::The lazy functional side of logic programming.
+conf/lopstr/PotikasRG01:::Petros Potikas::Panos Rondogiannis::Manolis Gergatsoulis:::A Transformation Technique for Datalog Programs Based on Non-deterministic Constructs.
+conf/lopstr/Fribourg99:::Laurent Fribourg:::Constraint Logic Programming Applied to Model Checking.
+conf/lopstr/KakehiGF01:::Kazuhiko Kakehi::Robert Glück::Yoshihiko Futamura:::On Deforesting Parameters of Accumulating Maps.
+conf/lopstr/Jones92:::John Jones:::Applications of Unfolding in Prolog Programming.
+conf/lopstr/DelzannoE01:::Giorgio Delzanno::Sandro Etalle:::Proof Theory, Transformations, and Logic Programming for Debugging Security Protocols.
+conf/lopstr/LammaM92:::Evelina Lamma::Paola Mello:::A Rationalisation of the ATMS in Terms of Partial Evaluation.
+conf/lopstr/AkamaNK02:::Kiyoshi Akama::Ekawit Nantajeewarawat::Hidekatsu Koike:::Program Synthesis Based on the Equivalent Transformation Computation Model.
+conf/lopstr/FioravantiPP01:::Fabio Fioravanti::Alberto Pettorossi::Maurizio Proietti:::Verification of Sets of Infinite State Processes Using Program Transformation.
+conf/lopstr/Christiansen97:::Henning Christiansen:::Implicit Program Synthesis by a Reversible Metainterpreter.
+conf/lopstr/JantkeG91:::Klaus P. Jantke::Ulf Goldhammer:::Inductive Synthesis of Rewrite Rules as Program Synthesis (Extended Abstract).
+conf/lopstr/NaishS97:::Lee Naish::Leon Sterling:::A Higher Order Reconstruction of Stepwise Enhancement.
+conf/lopstr/VerschaetseDS92:::Kristof Verschaetse::Stefaan Decorte::Danny De Schreye:::Automatic Termination Analysis.
+conf/lopstr/PeraltaG02:::Julio C. Peralta::John P. Gallagher:::Convex Hull Abstractions in Specialization of CLP Programs.
+conf/lopstr/GallagherW92:::John P. Gallagher::D. Andre de Waal:::Deletion of Redundant Unary Type Predicates from Logic Programs.
+conf/lopstr/AlferesBLP01:::José Júlio Alferes::Antonio Brogi::João Alexandre Leite::Luís Moniz Pereira:::Computing Environment-Aware Agent Behaviours with Logic Program Updates.
+conf/lopstr/MatskinKK96:::Mihhail Matskin::Henryk Jan Komorowski::John Krogstie:::Partial Deduction in the Framework of Structural Synthesis of Programs.
+conf/lopstr/HayesNS96:::Ian J. Hayes::R. G. Nickson::Paul A. Strooper:::Refining Specifications to Logic Programs.
+conf/lopstr/LammelRL99:::Ralf Lämmel::Günter Riedewald::Wolfgang Lohmann:::Roles of Program Extension.
+conf/lopstr/Leuschel98:::Michael Leuschel:::Improving Homeomorphic Embedding for Online Termination.
+conf/lopstr/JorgensenLM96:::Jesper Jørgensen::Michael Leuschel::Bern Martens:::Conjunctive Partial Deduction in Practice.
+conf/lopstr/BossiFPR02:::Annalisa Bossi::Riccardo Focardi::Carla Piazza::Sabina Rossi:::A Proof System for Information Flow Security.
+conf/metmbs/JangJ03:::Sophia R.-J. Jang::Ben W.-L. Jang:::Computer Simulations of Mathematical Models Arising in Bioremediation.
+conf/metmbs/ChangSLKCC03:::Heejung Chang::Hyungki Song::Kangsun Lee::Gyochang Kim::Jonghoon Chun::Jinwook Choi:::CDSSGen: A Dynamic Clinical Decision Support System Generator.
+conf/metmbs/BoratynSMZBS03:::Grzegorz M. Boratyn::Tomasz G. Smolinski::Mariofanna G. Milanova::Jacek M. Zurada::Sudeepa Bhattacharyya::Larry J. Suva:::Scoring-Based Analysis of Protein Patterns for Identification of Myeloma Cancer.
+conf/metmbs/NovotniW03:::Dominik Novotni::Andreas Weber:::A Stochastic Method for Solving Inverse Problems in Epidemic Modelling.
+conf/metmbs/LeePJ03:::Hiye-Ja Lee::Seung-Hun Park::Byeong-Soo Jeong:::An Expert System for Exercise Prescription Using XML-Based Templates.
+conf/metmbs/HuangLD03:::Lei Huang::Hsiao-Mei Lu::Yang Dai:::Feature Selection of Support Vector Regression for Quantitative Structure-Activity Relationships (QSAR).
+conf/miccai/RohlfingM02:::Torsten Rohlfing::Calvin R. Maurer Jr.:::A Novel Image Similarity Measure for Registration of 3-D MR Images and X-Ray Projection Images.
+conf/miccai/DeanZMSM01:::David Dean::Pengpeng Zhang::Andrew Metzger::Claudio Sibata::Robert J. Maciunas:::Medial Axis Seeding of a Guided Evolutionary Simulated Annealing (GESA) Algorithm for Automated Gamma Knife Radiosurgery Treatment Planning.
+conf/miccai/HahnPP01:::Klaus Hahn::Sergei Prigarin::Benno Pütz:::Edge Preserving Regularization and Tracking for Diffusion Tensor Imaging.
+conf/miccai/KasraiKP99:::Reza Kasrai::Frederick A. A. Kingdom::Terry M. Peters:::The Perception of Transparency in Medical Images.
+conf/miccai/ODonnellHW02:::Lauren O'Donnell::Steven Haker::Carl-Fredrik Westin:::New Approaches to Estimation of White Matter Connectivity in Diffusion Tensor MRI: Elliptic PDEs and Geodesics in a Tensor-Warped Space.
+conf/miccai/MartensVCBGMS99:::Kirsten Martens::Kris Verstreken::Johan Van Cleynenbreugel::Karel Van Brussel::Jan Goffin::Guy Marchal::Paul Suetens:::Image-Based Planning and Validation of C1-C2 Transarticular Screw Fixation Using Personalized Drill Guides.
+conf/miccai/HuMA02:::Zhenhua Hu::Dimitris N. Metaxas::Leon Axel:::In-vivo Strain and Stress Estimation of the Left Ventricle from MRI Images.
+conf/miccai/SermesantCDAD01:::M. Sermesant::Y. Coudière::Herve Delingette::Nicholas Ayache::Jean-Antoine Désidéri:::An Electro-mechanical Model of the Heart for Cardiac Image Analysis.
+conf/miccai/HataTMD02:::Nobuhiko Hata::Junichi Tokuda::Shigeo Morikawa::Takeyoshi Dohi:::Projection Profile Matching for Intraoperative MRI Registration Embedded in MR Imaging Sequence.
+conf/miccai/KuboYKNEOKKKMMN01:::Mitsuru Kubo::T. Yamamoto::Yoshiki Kawata::Noboru Niki::Kenji Eguchi::Hironobu Ohmatsu::Ryutaro Kakinuma::Masahiro Kaneko::M. Kusumoto::Noriyuki Moriyama::Kensaku Mori::H. Nishiyama:::CAD System for the Assistance of Comparative Reading for Lung Cancer Using Serial Helical CT Images.
+conf/miccai/HardersWWS02:::Matthias Harders::Simon Wildermuth::Dominik Weishaupt::Gábor Székely:::Improving Virtual Endoscopy for the Intestinal Tract.
+conf/miccai/KitagawaOBGB02:::Masaya Kitagawa::Allison M. Okamura::Brian T. Bethea::Vincent L. Gott::William A. Baumgartner:::Analysis of Suture Manipulation Forces for Teleoperation with Force Feedback.
+conf/miccai/GebhardME01:::Matthias Gebhard::Julian Mattes::Roland Eils:::An Active Contour Model for Segmentation Based on Cubic B-splines and Gradient Vector Flow.
+conf/miccai/KitaWN98:::Yasuyo Kita::Dale L. Wilson::J. Alison Noble:::Real-Time Registration of 3D Cerebral Vessels to X-ray Angiograms.
+conf/miccai/MaRE02:::B. Ma::J. Rudan::R. E. Ellis:::Affine Transformations and Atlases: Assessing a New Navigation Tool for Knee Arthroplasty.
+conf/miccai/CohenMRHRSMA98:::Zohara A. Cohen::Denise M. McCarthy::Hrvoje Roglic::Jack H. Henry::William G. Rodkey::J. Richard Steadman::Van C. Mow::Gerard A. Ateshian:::Computer-Aided Planning of Patellofemoral Joint OA Surgery: Developin Physical Models from Patient MRI.
+conf/miccai/KrieteWRD98:::Andres Kriete::Henrik Watz::Wigbert Rau::Hans-Rainer Duncker:::Morphological Analysis of Terminal Air Spaces by Means of Micro-CT and Confocal Microscopy and Simulation within a Functional Model of Lung.
+conf/miccai/MegaliTSBPAD01:::Giuseppe Megali::Oliver Tonet::Cesare Stefanini::Mauro Boccadoro::Vassilios Papaspyropoulos::Licinio Angelini::Paolo Dario:::A Computer-Assisted Robotic Ultrasound-Guided Biopsy System for Video-Assisted Surgery.
+conf/miccai/BrandtWW99:::Einar Brandt::Lars Wigström::Bengt Wranne:::Segmentation of Echocardiographic Image Sequences Using Spatio-temporal Information.
+conf/miccai/BansalSCRKND99:::Ravi Bansal::Lawrence H. Staib::Zhe Chen::Anand Rangarajan::Jonathan Knisely::Ravinder Nath::James S. Duncan:::Entropy-Based, <i>Multiple</i>-Portal-to-3DCT Registration for Prostate Radiotherapy Using Iteratively Estimated Segmentation.
+conf/miccai/LiaoHINSD02:::Hongen Liao::Nobuhiko Hata::Makoto Iwahara::Susumu Nakajima::Ichiro Sakuma::Takeyoshi Dohi:::High-Resolution Stereoscopic Surgical Display Using Parallel Integral Videography and Multi-projector.
+conf/miccai/NainHGCWJKW02:::Delphine Nain::Steven Haker::W. Eric L. Grimson::Eric R. Cosman Jr.::William W. Wells III::Hoon Ji::Ron Kikinis::Carl-Fredrik Westin:::Intra-patient Prone to Supine Colon Registration for Synchronized Virtual Colonoscopy.
+conf/miccai/YamauchiYMHMFUY02:::Yasushi Yamauchi::Juli Yamashita::Osamu Morikawa::Ryoichi Hashimoto::Masaaki Mochimaru::Yukio Fukui::Hiroshi Uno::Kazunori Yokoyama:::Surgical Skill Evaluation by Force Data for Endoscopic Sinus Surgery Training System.
+conf/miccai/FleuteLD02:::Markus Fleute::Stéphane Lavallée::Laurent Desbat:::Integrated Approach for Matching Statistical Shape Models with Intra-operative 2D and 3D Data.
+conf/miccai/YooS01:::Terry S. Yoo::Kalpathi R. Subramanian:::Implicit Snakes: Active Constrained Implicit Models.
+conf/miccai/ChiraniJRM01:::Reza Arbab Chirani::Jean-José Jacq::Christian Roux::Philippe Meriot:::3-D Reconstruction and Functional Analysis of the Temporomandibular Joint.
+conf/miccai/JaramazNLDL99:::Branislav Jaramaz::Constantinos Nikou::Timothy J. Levison::Anthony M. DiGioia::Richard S. LaBarca:::CupAlign: Computer-Assisted Postoperative Radiographic Measurement of Acetabular Components Following Total Hip Arthroplasty.
+conf/miccai/HarariFKCD00:::Daniel Harari::Miriam Furst::Nahum Kiryati::Asaf Caspi::Michael Davidson:::Computer-Based Assessment of Body Image Distortion in Anorexia Nervosa Patients.
+conf/miccai/Lorenzo-ValdesSMR02:::M. Lorenzo-Valdés::Gerardo I. Sanchez-Ortiz::R. Mohiaddin::Daniel Rueckert:::Atlas-Based Segmentation and Tracking of 3D Cardiac MR Images Using Non-rigid Registration.
+conf/miccai/AzarMS01:::Fred S. Azar::Dimitris N. Metaxas::Mitchell D. Schnall:::Methods for Modeling and Predicting Mechanical Deformations of the Breast Under External Perturbations.
+conf/miccai/NielsenJJL02:::Mads Nielsen::Peter Johansen::A. D. Jackson::Benny Lautrup:::Brownian Warps: A Least Committed Prior for Non-rigid Registration.
+conf/miccai/LeventonG98:::Michael E. Leventon::W. Eric L. Grimson:::Multi-modal Volume Registration Using Joint Intensity Distributions.
+conf/miccai/EllisKRD01:::R. E. Ellis::D. Kerr::J. Rudan::L. Davidson:::Minimally Invasive Excision of Deep Bone Tumors.
+conf/miccai/AvantsSG01:::Brian B. Avants::Marcelo Siqueira::James C. Gee:::Computing Match Functions for Curves in R<sup>2</sup> and R<sup>3</sup> by Refining Polyline Approximations.
+conf/miccai/HastreiterNTBF02:::Peter Hastreiter::R. Naraghi::Bernd Tomandl::Michael Bauer::R. Fahlbusch:::3D-Visualization and Registration for Neurovascular Compression Syndrome Analysis.
+conf/miccai/KimSS01:::Tae-Young Kim::Byeong-Seok Shin::Yeong-Gil Shin:::Anisotropic Volume Rendering Using Intensity Interpolation.
+conf/miccai/ClarkZLASGC99:::M. E. Clark::Meide Zhao::Francis Loth::Noam Alperin::Lewis Sadler::Kern Guppy::Fady T. Charbel:::A Patient-Specific Computer Model for Prediction of Clinical Outcomes in the Cerebral Circulation Using MR Flow Measurements.
+conf/miccai/Ledesma-CarbayoKDSU01:::María J. Ledesma-Carbayo::Jan Kybic::Manuel Desco::Andrés Santos::Michael Unser:::Cardiac Motion Analysis from Ultrasound Sequences Using Non-rigid Registration.
+conf/miccai/MigaSPKTRHPL00:::Michael I. Miga::Andreas Staubert::Keith D. Paulsen::Francis E. Kennedy::Volker M. Tronnier::David W. Roberts::Alex Hartov::Leah A. Platenik::Karen E. Lunn:::Model-Updated Image-Guided Neurosurgery: Preliminary Analysis Using Intraoperative MR.
+conf/miccai/SusilAT99:::Robert C. Susil::James H. Anderson::Russell H. Taylor:::A Single Image Registration Method for CT Guided Interventions.
+conf/miccai/LeemputMBVCS99:::Koen Van Leemput::Frederik Maes::Fernando Bello::Dirk Vandermeulen::Alan C. F. Colchester::Paul Suetens:::Automated Segmentation of MS Lesions from Multi-channel MR Images.
+conf/miccai/WyattN02:::Paul P. Wyatt::J. Alison Noble:::MAP MRF Joint Segmentation and Registration.
+conf/miccai/GrahamTV00:::Sarah Graham::Russell H. Taylor::Michael Vannier:::Needs Assessment for Computer-Integrated Surgery Systems.
+conf/miccai/PachaiZGKJGFCW01:::Chahin Pachai::Yue Min Zhu::Charles R. G. Guttmann::Ron Kikinis::Ferenc A. Jolesz::Gérard Gimenez::Jean-Claude Froment::Christian Confavreux::Simon K. Warfield:::Unsupervised and Adaptive Segmentation of Multispectral 3D Magnetic Resonance Images of Human Brain: A Generic Approach.
+conf/miccai/DaviesCWT01:::Rhodri H. Davies::Timothy F. Cootes::John C. Waterton::Christopher J. Taylor:::An Efficient Method for Constructing Optimal Statistical Shape Models.
+conf/miccai/TaivalkoskiJS01:::S. Taivalkoski::Lasse J. Jyrkinen::O. Silvén:::Automated Identification and B-spline Approximation of a Profiling Coil Centerline from Magnetic Resonance Images.
+conf/miccai/YooAV00:::Terry S. Yoo::Michael J. Ackerman::Michael Vannier:::Toward a Common Validation Methodology for Segmentation and Registration Algorithms.
+conf/miccai/BogoniAHMB01:::Luca Bogoni::Jane C. Asmuth::David J. Hirvonen::Bojidar D. Madjarov::Jeffrey W. Berger:::Ophthalmic Slitlamp-Based Computer-Aided Diagnosis: Image Processing Foundations.
+conf/miccai/CotinSONRD02:::Stephane Cotin::Nicholas Stylopoulos::Mark P. Ottensmeyer::Paul F. Neumann::David Rattner::Steven Dawson:::Metrics for Laparoscopic Skills Trainers: The Weakest Link!
+conf/miccai/BerkelmanRRLWHJJTN01:::Peter J. Berkelman::Daniel L. Rothbaum::Jaydeep Roy::Sam Lang::Louis L. Whitcomb::Gregory D. Hager::Patrick S. Jensen::Eugene de Juan::Russell H. Taylor::John K. Niparko:::Performance Evaluation of a Cooperative Manipulation Microsurgical Assistant Robot Applied to Stapedotomy.
+conf/miccai/McGrawVWCRM02:::T. McGraw::Baba C. Vemuri::Z. Wang::Yun Chen::M. Rao::T. Mareci:::Line Integral Convolution for Visualization of Fiber Tract Maps from DTI.
+conf/miccai/LiuKT01:::Alan Liu::Christoph Kaufmann::Daigo Tanaka:::An Architecture for Simulating Needle-Based Surgical Procedures.
+conf/miccai/LinDGG02:::Michael P. Lin::Christian Devita::James C. Gee::Murray Grossman:::Using Voxel-Based Morphometry to Examine Atrophy-Behavior Correlates in Alzheimer's Disease and Frontotemporal Dementia.
+conf/miccai/PaggettiMNV01:::Cristiano Paggetti::Sandra Martelli::Laura Nofrini::Paolo Vendruscolo:::Interface Design and Evaluation for CAS Systems.
+conf/miccai/WildermuthBMM01:::Simon Wildermuth::Cynthia Bruyns::Kevin Montgomery::Borut Marincek:::Virtual Polypectomy.
+conf/miccai/Iserhardt-BauerHTKSNE02:::Sabine Iserhardt-Bauer::Peter Hastreiter::Bernd Tomandl::N. Köstner::M. Schempershofe::U. Nissen::Thomas Ertl:::Standardized Analysis of Intracranial Aneurysms Using Digital Video Sequences.
+conf/miccai/GlossopHYDD99:::Neil Glossop::Richard W. Hu::D. Young::G. Dix::S. DuPlessis:::Percutaneous Posterior Stabilization of the Spine.
+conf/miccai/ChinzeiHJK00:::Kiyoyuki Chinzei::Nobuhiko Hata::Ferenc A. Jolesz::Ron Kikinis:::MR Compatible Surgical Assist Robot: System Integration and Preliminary Feasibility Study.
+conf/miccai/GrimsonLECONAKB98:::W. Eric L. Grimson::Michael E. Leventon::Gil J. Ettinger::Alexandra Chabrerie::Fatma Ozlen::Shin Nakajima::Hideki Atsumi::Ron Kikinis::Peter Black:::Clinical Experience with a Hich Precision Image-Guided Neurosurgery System.
+conf/miccai/KrupaMDGMSLM02:::Alexandre Krupa::Michel de Mathelin::Christophe Doignon::Jacques Gangloff::Guillaume Morel::Luc Soler::J. Leroy::Jacques Marescaux:::Automatic 3-D Positioning of Surgical Instruments during Robotized Laparoscopic Surgery Using Automatic Visual Feedback.
+conf/miccai/TannerSDCHLHHH02:::Christine Tanner::Julia A. Schnabel::Andreas Degenhard::Andy D. Castellano-Smith::Carmel Hayes::Martin O. Leach::D. R. Hose::Derek L. G. Hill::David J. Hawkes:::Validation of Volume-Preserving Non-rigid Registration: Application to Contrast-Enhanced MR-Mammography.
+conf/miccai/MaurerGHGTFEH99:::Calvin R. Maurer Jr.::Ronald P. Gaston::Derek L. G. Hill::Michael J. Gleeson::M. Graeme Taylor::Michael R. Fenlon::Philip J. Edwards::David J. Hawkes:::AcouStick: A Tracked A-Mode Ultrasonography System for Registration in Image-Guided Surgery.
+conf/miccai/MasutaniK01:::Yoshitaka Masutani::Fumihiko Kimura:::Modally Controlled Free Form Deformation for Non-rigid Registration in Image-Guided Liver Surgery.
+conf/miccai/BruinVPGV00:::P. W. de Bruin::Frans Vos::Frits H. Post::Sarah F. Frisken Gibson::Albert M. Vossepoel:::Improving Triangle Mesh Quality with SurfaceNets.
+conf/miccai/HardersS01:::Matthias Harders::Gábor Székely:::A Multi-modal Approach to Segmentation of Tubular Structures.
+conf/miccai/Bookstein98:::Fred L. Bookstein:::Singularities as Features of Deformation Grids.
+conf/miccai/PaulsenLNLE02:::Rasmus Paulsen::Rasmus Larsen::Claus Nielsen::Søren Laugesen::Bjarne Ersbøll:::Building and Testing a Statistical Shape Model of the Human Ear Canal.
+conf/miccai/ManducaDBMEG98:::Armando Manduca::Vinayak Dutt::David T. Borup::Raja Muthupillai::Richard L. Ehman::James F. Greenleaf:::Reconstruction of Elasticity and Attenuation Maps in Shear Wave Imaging: An Inverse Approach.
+conf/miccai/ClaridgeCHM02:::Ela Claridge::Symon Cotton::Per Hall::Marc Moncrieff:::From Colour to Tissue Histology: Physics Based Interpretation of Images of Pigmented Skin Lesions.
+conf/miccai/HenryTBP98:::Delphine Henry::Jocelyne Troccaz::Jean-Luc Bosson::Olivier Pichot:::Ultrasound Imaging Simulation: Application to the Diagnosis of Deep Venous Thromboses of Lower Limbs.
+conf/miccai/BenderMPRW99:::Hans-Joachim Bender::Reinhard Männer::C. Poliwoda::S. Roth::M. Walz:::Reconstruction of 3D Catheter Paths from 2D X-Ray Projections.
+conf/miccai/BlackwellNDK98:::Mike Blackwell::Constantinos Nikou::Anthony M. DiGioia::Takeo Kanade:::An Image Overlay System for Medical Data Visualization.
+conf/miccai/OurselinRPA00:::Sébastien Ourselin::Alexis Roche::Sylvain Prima::Nicholas Ayache:::Block Matching: A General Framework to Improve Robustness of Rigid Registration of Medical Images.
+conf/miccai/CachierMPRPRA01:::Pascal Cachier::Jean-Francois Mangin::Xavier Pennec::Denis Rivière::Dimitri Papadopoulos-Orfanos::Jean Régis::Nicholas Ayache:::Multisubject Non-rigid Registration of Brain MRI Using Intensity and Geometric Features.
+conf/miccai/ChanKTN99:::Chee Fatt Chan::Chee-Keong Kwoh::Ming Yeong Teo::Wan Sing Ng:::Tessellated Surface Reconstruction from 2D Contours.
+conf/miccai/MitchellGKR99:::J. R. Mitchell::P. Gareau::S. Karlik::B. Rutt:::A Post-processing Technique to Suppress Fluid Signal and Increase Contrast in Multispectral MR Exams of MS Patients.
+conf/miccai/ImielinskaMUJC01:::Celina Imielinska::Dimitris N. Metaxas::Jayaram K. Udupa::Yinpeng Jin::Ting Chen:::Hybrid Segmentation of Anatomical Data.
+conf/miccai/CollinsGE98:::D. Louis Collins::Georges Le Goualher::Alan C. Evans:::Non-linear Cerebral Registration with Sulcal Constraints.
+conf/miccai/SchmanskeL02:::Brian M. Schmanske::Murray H. Loew:::An Efficient Observer Model for Assessing Signal Detection Performance of Lossy-Compressed Images.
+conf/miccai/TreecePGB01:::Graham M. Treece::Richard W. Prager::Andrew H. Gee::Laurence H. Berman:::Correction of Probe Pressure Artifacts in Freehand 3D Ultrasound.
+conf/miccai/SakumaTKIFA02:::Ichiro Sakuma::Yuichi Takai::Etsuko Kobayashi::Hiroshi Inada::Katsuhiko Fujimoto::Tekehide Asano:::Navigation of High Intensity Focused Ultrasound Applicator with an Integrated Three-Dimensional Ultrasound Imaging System.
+conf/miccai/MaesLDVS99:::Frederik Maes::Koen Van Leemput::Lynn E. DeLisi::Dirk Vandermeulen::Paul Suetens:::Quantification of Cerebral Grey and White Matter Asymmetry from MRI.
+conf/miccai/BoykovLRB01:::Yuri Boykov::Vivian S. Lee::Henry Rusinek::Ravi Bansal:::Segmentation of Dynamic N-D Data Sets via Graph Cuts Using Markov Models.
+conf/miccai/BrownMLS01:::Joel Brown::Kevin Montgomery::Jean-Claude Latombe::Michael Stephanides:::A Microsurgery Simulation System.
+conf/miccai/ChinzeiKJ99:::Kiyoyuki Chinzei::Ron Kikinis::Ferenc A. Jolesz:::MR Compatibility of Mechatronic Devices: Design Criteria.
+conf/miccai/FuchsLRCKSCRDM98:::Henry Fuchs::Mark A. Livingston::Ramesh Raskar::D`nardo Colucci::Kurtis Keller::Andrei State::Jessica R. Crawford::Paul Rademacher::Samuel H. Drake::Anthony A. Meyer:::Augmented Reality Visualization for Laparoscopic Surgery.
+conf/austrographics/Klemisch88:::Oskar Klemisch:::Mit Fehlen leben.
+conf/austrographics/Grunbacher88:::Herbert Grünbacher:::Methoden der VLSI-Implementierungen für Graphikanwendungen.
+conf/nagoya/BrancoLD95:::P. J. Costa Branco::N. Lori::J. A. Dente:::New Approaches on Structure Identification of Fuzzy Models: Case Study in an Electro-Mechanical System.
+conf/haptics/LeeL03:::Dongjun Lee::Perry Y. Li:::Toward Robust Passivity: A Passive Control Implementation Structure for Mechanical Teleoperators.
+conf/haptics/ChoKS03:::Changhyun Cho::Munsang Kim::Jae-Bok Song:::Performance Analysis of a 2-Link Haptic Device with Electric Brakes.
+conf/haptics/YuKB03:::Wai Yu::Katri Kangas::Stephen A. Brewste:::Web-Based Haptic Applications for Blind People to Create Virtual Graph.
+conf/haptics/JonesB02:::Lynette A. Jones::Michal Berris:::The Psychophysics of Temperature Perception and Thermal-Interface Design.
+conf/haptics/MacLeanSP02:::Karon E. MacLean::Michael J. Shaver::Dinesh K. Pai:::Handheld Haptics: A USB Media Controller with Force Sensing.
+conf/haptics/TeoBL02:::C. L. Teo::E. Burdet::H. P. Lim:::A Robotic Teacher of Chinese Handwriting.
+conf/haptics/UngerNBTLKH02:::B. J. Unger::A. Nicolaidis::Peter J. Berkelman::A. Thompson::Susan J. Lederman::Roberta L. Klatzky::Ralph L. Hollis:::Virtual Peg-in-Hole Performance Using a 6-DOF Magnetic Levitation Haptic Device: Comparison with Real Forces and with Visual Guidance Alone.
+conf/haptics/OMalleyH03:::Marcia Kilchenman O'Malley::Shannon Hughes:::Simplified Authoring of 3D Haptic Content for the World Wide Web.
+conf/haptics/LeeWLH03:::Jaime M. Lee::Christopher R. Wagner::Susan J. Lederman::Robert D. Howe:::Spatial Low Pass Filters for Pin Actuated Tactile Display.
+conf/mobide/RenD99:::Qun Ren::Margaret H. Dunham:::Using Clustering for Effective Management of a Semantic Cache in Mobile Computing.
+conf/mobide/PfoserJ01:::Dieter Pfoser::Christian S. Jensen:::Querying the trajectories of on-line mobile objects.
+conf/mobide/KeaysR03:::Roger Keays::Andry Rakotonirainy:::Context-oriented programming.
+conf/mobide/LindemannW03:::Christoph Lindemann::Oliver P. Waldhorst:::Consistency mechanisms for a distributed lookup service supporting mobile applications.

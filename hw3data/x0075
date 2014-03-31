@@ -1,0 +1,200 @@
+conf/isca/MukherjeeH98:::Shubhendu S. Mukherjee::Mark D. Hill:::Using Prediction to Accelerate Coherence Protocols.
+conf/isca/YumKD01:::Ki Hwan Yum::Eun Jung Kim::Chita R. Das:::QoS provisioning in clusters: an investigation of Router and NIC design.
+conf/isca/RichardsO74:::Hamilton Richards Jr.::A. E. Oldhoeft:::Hardware-Software Interactions in SYMBOS-2R's Operating System.
+conf/isca/FalsafiW97:::Babak Falsafi::David A. Wood:::Reactive NUMA: A Design for Unifying S-COMA and CC-NUMA.
+conf/isca/MenonM92:::Jai Menon::Dick Mattson:::Comparison of Sparing Alternatives for Disk Arrays.
+conf/isca/RamseyerD77:::Richard R. Ramseyer::Andries van Dam:::A Multi-Microprocessor Implementation of a General Purpose Pipelined CPU.
+conf/isca/Whitby-Strevens85:::Colin Whitby-Strevens:::The Transputer.
+conf/isca/AbandahD98:::Gheith A. Abandah::Edward S. Davidson:::Effects of Architectural and Technological Advances on the HP/Convex Exemplar's Memory and Communication Performance.
+conf/isca/AgarwalHKB00:::Vikas Agarwal::M. S. Hrishikesh::Stephen W. Keckler::Doug Burger:::Clock rate versus IPC: the end of the road for conventional microarchitectures.
+conf/isca/AnjanP95:::K. V. Anjan::Timothy Mark Pinkston:::An Efficient, Fully Adaptive Deadlock Recovery Scheme: DISHA.
+conf/isca/AgarwalSHH98:::Anant Agarwal::Richard Simoni::John L. Hennessy::Mark Horowitz:::An Evaluation of Directory Schemes for Cache Coherence.
+conf/isca/SazeidesS98:::Yiannakis Sazeides::James E. Smith:::Modeling Program Predictability.
+conf/isca/Strom79:::B. I. Strom:::Proof of the Equivalent Realizability of a Time-Bound Arbiter and a Runt-Free Inertail Delay.
+conf/isca/VajapeyamSH91:::Sriram Vajapeyam::Gurindar S. Sohi::Wei-Chung Hsu:::An Empirical Study of the CRAY Y-MP Processor Using the Perfect Club Benchmarks.
+conf/isca/StephensCHPS91:::Chriss Stephens::Bryce Cogswell::John Heinlein::Gregory Palmer::John Paul Shen:::Instruction Level Profiling and Evaluation of the IBM/6000.
+conf/isca/NakajimaNNYGNSKK91:::Masaitsu Nakajima::Hiraku Nakano::Yasuhiro Nakakura::Tadahiro Yoshida::Yoshiyuki Goi::Yuji Nakai::Reiji Segawa::Takeshi Kishida::Hiroshi Kadota:::OHMEGA: A VLSI Superscalar Processor Architecture for Numerical Applications.
+conf/isca/FordH76:::Warwick S. Ford::V. Carl Hamacher:::Hardware Support for Inter-Process Communication and Processor Sharing.
+conf/isca/ErnstA02:::Dan Ernst::Todd M. Austin:::Efficient Dynamic Scheduling Through Tag Elimination.
+conf/isca/GrahnS95:::Håkan Grahn::Per Stenström:::Efficient Strategies for Software-Only Protocols in Shared-Memory Multiprocessors.
+conf/isca/DobryDP85:::Tep Dobry::Alvin M. Despain::Yale N. Patt:::Performance Studies of a Prolog Machine Architecture.
+conf/isca/CypherHKM93:::Robert Cypher::Alex Ho::Smaragda Konstantinidou::Paul Messina:::Architectural Requirements of Parallel Scientific Applications with Explicit Communication.
+conf/isca/Avizienis83:::Algirdas Avizienis:::Frameworks for a Taxonomy of Fault-Tolerance Attributes in Computer Systems
+conf/isca/ChangHP97:::Po-Yung Chang::Eric Hao::Yale N. Patt:::Target Prediction for Indirect Jumps.
+conf/isca/AndreBLPPR80:::F. André::Jean-Pierre Banâtre::H. Leroy::G. Paget::Florimond Ployette::Jean-Paul Routeau:::Kensur: An Architecture Oriented Towards Programming Languages Translation.
+conf/isca/SapiechaJ86:::Krzysztof Sapiecha::R. Jarocki:::Modular Architecture for High Performance Implementation of FFT Algorithm.
+conf/isca/BalasubramonianDA01:::Rajeev Balasubramonian::Sandhya Dwarkadas::David H. Albonesi:::Dynamically allocating processor resources between nearby and distant ILP.
+conf/isca/SeznecL92:::André Seznec::Jacques Lenfant:::Interleaved Parallel Schemes: Improving Memory Throughput on Supercomputers.
+conf/isca/SeznecL93:::André Seznec::Jacques Lenfant:::Odd Memory Systems May be Quite Interesting.
+conf/isca/EbelingP84:::Carl Ebeling::Andrew J. Palay:::The Design and Implementation of a VLSI Chess Move Generator.
+conf/isca/SwensenP87:::John A. Swensen::Yale N. Patt:::Fast Temporary Storage for Serial and Parallel Execution.
+conf/isca/VrsalovicSS85:::Dalibor F. Vrsalovic::Edward F. Gehringer::Zary Segall::Daniel P. Siewiorek:::The Influence of Parallel Decomposition Strategies on the Performance of Multiprocessor Systems.
+conf/isca/NowatzykBKP95:::Andreas Nowatzyk::Michael C. Browne::Edmund J. Kelly::Michael Parkin:::S-Connect: From Networks of Workstations to Supercomputer Performance.
+conf/isca/SouzaB81:::Robert J. Souza::Edward E. Balkovich:::Impact of Hardware Interconnection Structures on the Performance of Decentralized Software.
+conf/isca/Myers78:::Glenford J. Myers:::Storage Concepts in a Software-Reliabiltiy.
+conf/isca/GabbayM98:::Freddy Gabbay::Avi Mendelson:::The Effect of Instruction Fetch Bandwidth on Value Prediction.
+conf/isca/VranesicHL73:::Zvonko G. Vranesic::V. Carl Hamacher::Y. Y. Leung:::Design of a Fully Variable - Length Structured Minicomputer.
+conf/isca/SimoneEIKMPRSTT95:::Mike Simone::A. Essen::A. Ike::A. Krishnamoorthy::Tak Maruyama::Niteen Patkar::M. Ramaswami::Michael Shebanow::V. Thirumalaiswamy::DeForest Tovey:::Implementation Trade-Offs in Using a Restricted Data Flow Architecture in a High Performance RISC Microprocessor.
+conf/isca/DitzelM87:::David R. Ditzel::Hubert R. McLellan:::Branch Folding in the CRISP Microprocessor: Reducing Branch Delay to Zero.
+conf/isca/VaucherR73:::Jean G. Vaucher::Christian Rey:::A Hardware Laboratory for Computer Architecture Research.
+conf/isco/Bots99:::Pieter W. G. Bots:::Comments on "The Quality of Business Process Modelling Methods" by Bart-Jan Hommes and Victor van Reijswoud.
+conf/isco/Wagner95:::Gerd Wagner:::From information systems to knowledge systems.
+conf/isco/Calway95:::Bruce A. Calway:::Semiotic approach for object abstraction.
+conf/isco/Mayr95:::Heinrich C. Mayr:::Comments on "What's in a relationship? On distinguishing property holding and object binding" by S. Kelly.
+conf/isco/Olle99:::T. William Olle:::Innovation and Standardization in the Information Systems Field: Report on Workshop 2.
+conf/isco/WegE92:::Rob L. W. van de Weg::Rolf Engmann:::A Framework and Method for Object-oriented Information Systems Analysis and Design.
+conf/isco/Stamper92:::Ronald K. Stamper:::On a Framework of Information System Concepts: an Overview of the Work of the IFIP WG 8.1 Task Group FRISCO.
+conf/isco/Stamper95:::Ronald K. Stamper:::Comments on "Theories of meaning and different perspectives on information systems" by P. Holm and K. Karlgren.
+conf/isco/Dietz92:::Jan L. G. Dietz:::Subject-oriented Modelling of Open Active Systems.
+conf/isco/Verrijn-Stuart95a:::Alex A. Verrijn-Stuart:::Business model representations.
+conf/isco/Goguen92:::Joseph A. Goguen:::The Dry and the Wet.
+conf/isco/Falkenberg99:::Eckhard D. Falkenberg:::Comments on "Information Systems as a Social Science" by Ronald K. Stamper.
+conf/isco/Macleod92:::Ian A. Macleod:::Data Modelling Requirements for Document Management.
+conf/isco/Stamper95b:::Ronald K. Stamper:::Position paper on "How far harmonisation?": Information system modelling myopia.
+conf/isco/Stamper99a:::Ronald K. Stamper:::Comments on "An Organisational Theory of Information" by Anatol W. Holt and Felice Cardone.
+conf/isec/EdwardsBLCSW01:::H. Keith Edwards::Michael A. Bauer::Hanan Lutfiyya::Yumman Chan::Michael Shields::Peter Woo:::A Methodology and Implementation for Analytic Modeling in Electronic Commerce Applications.
+conf/iser/BohringerBDJR95:::Karl-Friedrich Böhringer::Russell Brown::Bruce Randall Donald::James Jennings::Daniela Rus:::Distributed Robotic Manipulation: Experiments in Minimalism.
+conf/iser/RivesSL99:::Patrick Rives::José-Luís Sequeira::Pedro Lourtie:::Localization and Map Building for a Mobile Robot.
+conf/iser/Wit89:::Carlos Canudas de Wit:::Experimental Results on Adaptive Friction Compensation in Robot Manipulation: Low Velocities.
+conf/iser/AsadaBPFNTDSVBKT00:::Minoru Asada::Andreas Birk::Enrico Pagello::Masahiro Fujita::Itsuki Noda::Satoshi Tadokoro::Dominique Duhaut::Peter Stone::Manuela M. Veloso::Tucker R. Balch::Hiroaki Kitano::B. Thomas:::Progress in RoboCup Soccer Research in 2000.
+conf/iser/LawrenceSSCBPZF95:::P. D. Lawrence::S. E. Salcudean::N. Sepehri::D. Chan::Simon Bachmann::N. Parker::M. Zhu::R. Frenette:::Coordinated and Force-Feedback Control of Hydraulic Excavators.
+conf/iser/Hayward93:::Vincent Hayward:::Design of a Hydraulic Robot Shoulder Based on a Combinatorial Mechanism.
+conf/iser/MasonB99:::Richard Mason::Joel W. Burdick:::Construction and Modelling of a Carangiform Robotic Fish.
+conf/iser/VandorpeBSXM97:::Jurgen Vandorpe::Hendrik Van Brussel::Joris De Schutter::Hong Xu::R. Moreas:::Positioning of the Mobile Robot LiAS With Line Segments Extracted from 2D Range Finder Data using Total Least Squares.
+conf/iser/MartinoliFM97:::Alcherio Martinoli::E. Franzi::O. Matthey:::Towards a Reliable Set-Up for Bio-Inspired Collective Experiments with Real Robots.
+conf/iser/ZelinskyY93:::Alexander Zelinsky::Shin'ichi Yuta:::A Unified Approach to Planning, Sensing and Navigation for Mobile Robots.
+conf/iser/CorkeP89:::Peter I. Corke::Richard P. Paul:::Video- Rate Visual Servoing for Robots.
+conf/iser/BurridgeRK95:::Robert R. Burridge::Alfred A. Rizzi::Daniel E. Koditschek:::Toward Obstacle Avoidance in Intermittent Dynamical Environments.
+conf/iser/AhmadiB97:::Mojtaba Ahmadi::Martin Buehler:::Preliminary Experiments with an Actively Tuned Passive Dynamic Running Robot.
+conf/iser/BerertonK00:::Curt A. Bererton::Pradeep K. Khosla:::Towards a Team of Robots with Repair Capabilities: A Visual Docking System.
+conf/iser/CassondL00:::François Boux de Casson::Diego d'Aulignac::Christian Laugier:::An Interactive Model of the Human Liver.
+conf/iser/YoshidaMD95:::Kazuya Yoshida::Constantinos Mavroidis::Steven Dubowsky:::Experimental Research on Impact Dynamics of Spaceborne Manipulator Systems.
+conf/iser/KonnoUKM93:::Atsushi Konno::Masaru Uchiyama::Y. Kito::M. Murakami:::Configuration-Dependent Controllability of Flexible Manipulators.
+conf/iser/KanekoSHT00:::Makoto Kaneko::Tatsuya Shirai::Kensuke Harada::Toshio Tsuji:::Grasp Strategy Simplified by Detaching Assist Motion (DAM).
+conf/iser/BordegoniCR97:::Monica Bordegoni::Umberto Cugini::Caterina Rizzi:::Haptic Augmented Simulation Supporting Teaching Skill to Robots.
+conf/iser/GoolKM99:::Luc J. Van Gool::Reinhard Koch::Theo Moons:::New Techniques for 3D Modelling...and for doing without.
+conf/iser/MajumderRSD00:::Somajyoti Majumder::Julio Rosenblatt::Steve Scheding::Hugh F. Durrant-Whyte:::Map Building and Localization for Underwater Navigation.
+conf/iser/CannonS99:::Howard Cannon::Sanjiv Singh:::Models for Automated Earthmoving.
+conf/iser/SatoIMH93:::Tomomasa Sato::Junri Ichikawa::Mamoru Mitsuishi::Yotaro Hatamura:::Micro Teleoperation System Concentrating Visual and Force Information at Operator's Hand.
+conf/iser/Konolige95:::Kurt Konolige:::Robots That Take Advice.
+conf/iser/FeatherstoneSK97:::Roy Featherstone::Stef Sonck::Oussama Khatib:::A General Contact Model for Dynamically-Decoupled Force/Motion.
+conf/iser/LindsayFP91:::Thomas S. Lindsay::Janez Funda::Richard Paul:::Contact Operations Using an Instrumented Compliant Wrist.
+conf/iser/SanoFHN93:::Akihito Sano::Junji Furusho::Koji Hattori::Masahiro Nishina:::Robust Force Control of Manipulators Based on H<sup>infinity</sup> Control Theory.
+conf/iser/LenarcicZ93:::Jadran Lenarcic::Leon Zlajpah:::Control Considerations on Minimum Joint Torque Motion.
+conf/iser/RussakowRK95:::Jeffrey Russakow::Stephen M. Rock::Oussama Khatib:::An Operational Space Formulation for a Free-Flying, Multi-Arm Space Robot.
+conf/iser/Chochon91:::Hélène Chochon:::Object-Oriented Design of Mobile Robot Control Systems.
+conf/iser/IocchiKB00:::Luca Iocchi::Kurt Konolige::Max Bajracharya:::Visually Realistic Mapping of a Planar Environment with Stereo.
+conf/iser/MiyazakiSMM89:::Fumio Miyazaki::Osamu Sonoyama::Toshiro Manabe::Tetsuya Manabe:::Cooperative and Learning Control for Complex Robot Systems.
+conf/iser/BellierLMT91:::Christine Bellier::Christian Laugier::Emmanuel Mazer::Jocelyne Troccaz:::A Practical System for Planning Safe Trajectories for Manipulator Robots.
+conf/iser/Davies97:::Brian L. Davies:::Synergistic Robots in Surgery-Surgeons and Robots Working Co-Operatively.
+conf/iser/TsubouchiAY99:::Takashi Tsubouchi::Yoshinobu Ando::Shin'ichi Yuta:::A Mobile Robot Navigation by Means of Range Data from Ultra Wide Angle Laser Sensor and Simple Linguistic Behavior Instructions.
+conf/iser/ChatilaADPGM91:::Raja Chatila::Rachid Alami::Bernard Degallaix::Victor Pérébaskine::Paul Gaborit::Philippe Moutarlier:::An Architecture for Task Interpretation and Execution Control for Intervention Robots: Preliminary Experiments.
+conf/iser/ArocenaDE91:::J. I. Arocena::R. W. Daniel::P. Elosegui:::End Point Control of Compliant Robots.
+conf/iser/Breazeal00:::Cynthia Breazeal:::Regulation and Entrainment in Human-Robot Interaction.
+conf/iser/FaibishBG97:::S. Faibish::H. Bacakoglu::Andrew A. Goldenberg:::An Experimental System for Automated Paper Recycling.
+conf/iser/KapellosSGR97:::Konstantinos Kapellos::D. Simon::S. Granier::V. Rigaud:::Distributed Control of a Free-floating Underwater Manipulation System.
+conf/iski/Bottcher90:::Stefan Böttcher:::A Semantics for the Integration of Database Modifications and Transaction Brackets into a Logic Programming Language.
+conf/isko/Scholz97:::Martin Scholz:::Abstraktion und Naturalismus in der Praxis der digitalen Bildherstellung.
+conf/isko/Ohly97:::H. Peter Ohly:::Strukturierung sozialwissenschaftlicher Informationsressourcen im Internet: wissensorganisatorische Aaspekte beim Aufbau eines Clearinghouse.
+conf/isko/BerendtRB97:::Bettina Berendt::Reinhold Rauh::Thomas Barkowsky:::Spatial Thinking with Geographic Maps: An Empirical Sstudy.
+conf/isko/Oeltjen97:::Wiebke Oeltjen:::Dokumentenstrukturen manipulieren und visualisieren - über das Arbeiten mit der logischen Struktur.
+conf/isko/Oehler97:::Angela Oehler:::Analyse von Suchdiensten im Internet - Kriterien und Probleme.
+conf/isko/Jaenecke97:::Peter Jaenecke:::Forschungsorientierte Wissenschaftstheorie.
+conf/ismb/ArvestadBLS03:::Lars Arvestad::Ann-Charlotte Berglund::Jens Lagergren::Bengt Sennblad:::Bayesian gene/species tree reconciliation and orthology analysis using MCMC.
+conf/ismb/Schmeltzer95:::Olivier Schmeltzer:::Using Temporal Reasoning for Genome Map Assembly.
+conf/ismb/HanischZZL02:::Daniel Hanisch::Alexander Zien::Ralf Zimmer::Thomas Lengauer:::Co-clustering of biological networks and gene expression data.
+conf/ismb/BockhorstQGLBC03:::Joseph Bockhorst::Yu Qiu::Jeremy D. Glasner::Mingzhu Liu::Frederick R. Blattner::Mark Craven:::Predicting bacterial transcription units using sequence and expression data.
+conf/ismb/HafnerBFNS94:::Carole D. Hafner::Kenneth Baclawski::Robert P. Futrelle::Natalya Fridman Noy::Shobana Sampath:::Creating a Knowledge Base of Biological Research Papers.
+conf/ismb/Guan97:::Xiaojun Guan:::Domain Identification by Clustering Sequence Alignments.
+conf/ismb/LefebvreETS03:::Jean-François Lefebvre::Nadia El-Mabrouk::Elisabeth R. M. Tillier::David Sankoff:::Detection and validation of single gene inversions.
+conf/ismb/TjadenHSRK02:::Brian Tjaden::David R. Haynor::Sergey Stolyar::Carsten Rosenow::Eugene Kolker:::Identifying operons and untranslated regions of transcripts using Escherichia coli RNA expression analysis.
+conf/ismb/SomerenWR00:::Eugene P. van Someren::L. F. A. Wessels::Marcel J. T. Reinders:::Linear Modeling of Genetic Networks from Experimental Data.
+conf/ismb/OnizukaAIA94:::Kentaro Onizuka::Masayuki Akahosi::Masato Ishikawa::Kiyoshi Asai:::The Multi-Scale 3D-1D Compatibility Scoring for Inverse Protein Folding Protein.
+conf/ismb/GoodmanRS98:::Nathan Goodman::Steve Rozen::Lincoln Stein:::The LabFlow System for Workflow Management in Large Scale Biology Research Laboratories.
+conf/ismb/AkmaevKS99:::Viatcheslav R. Akmaev::Scott T. Kelley::Gary D. Stormo:::A Phylogenetic Approach to RNA Structure Prediction.
+conf/ismb/QuML98:::Kunbin Qu::Lee Ann McCue::Charles E. Lawrence:::Bayesian Protein Family Classifier.
+conf/ismb/ReggiaCAP93:::James A. Reggia::Hui-Hsien Chou::Steven L. Armentrout::Yun Peng:::Minimizing Complexity in Cellular Automata Models of Self-Replication.
+conf/ismb/BaileyE94:::Timothy L. Bailey::Charles Elkan:::Fitting a Mixture Model By Expectation Maximization To Discover Motifs In Biopolymer.
+conf/ismb/SamsonovaPB03:::Maria Samsonova::Andrei Pisarev::M. Blagov:::Processing of natural language queries to a relational database.
+conf/ismb/MeloDDF97:::Francisco Melo::Damien Devos::Eric Depiereux::Ernest Feytmans:::ANOLEA: A WWW Server to Assess Protein Structures.
+conf/ismb/Asogawa97:::Minoru Asogawa:::Beta-Sheet Prediction Using Inter-Strand Residue Pairs and Refinement with Hopfield Neural Network.
+conf/ismb/BlaschkeAOV99:::Christian Blaschke::Miguel A. Andrade::Christos A. Ouzounis::Alfonso Valencia:::Automatic Extraction of Biological Information from Scientific Text: Protein-Protein Interactions.
+conf/ismb/YamanishiVNK03:::Y. Yamanishi::Jean-Philippe Vert::A. Nakaya::Minoru Kanehisa:::Extraction of correlated gene clusters from multiple genomic data by generalized kernel canonical correlation analysis.
+conf/ismb/BucherH96:::Philipp Bucher::Kay Hofmann:::A Sequence Similarity Search Algorithm Based on a Probabilistic Interpretation of an Alignment Scoring System.
+conf/ismb/MunsonS97:::Peter J. Munson::Raj K. Singh:::Multi-Body Interactions within the Graph of Protein Structure.
+conf/ismb/BakerBBGPS98:::Patricia G. Baker::Andy Brass::Sean Bechhofer::Carole A. Goble::Norman W. Paton::Robert Stevens:::TAMBIS: Transparent Access to Multiple Bioinformatics Information Sources.
+conf/ismb/CosnerJMRWWW00:::Mary E. Cosner::Robert K. Jansen::Bernard M. E. Moret::Linda A. Raubeson::Li-San Wang::Tandy Warnow::Stacia K. Wyman:::A New Fast Heuristic for Computing the Breakpoint Phylogeny and Experimental Phylogenetic Analyses of Real and Synthetic Data.
+conf/ismb/YehHM03:::Alexander S. Yeh::Lynette Hirschman::Alexander A. Morgan:::Evaluation of text data mining for database curation: lessons learned from the KDD Challenge Cup.
+conf/ismb/BafnaE01:::Vineet Bafna::Nathan Edwards:::SCOPE: a probabilistic model for scoring tandem mass spectra against a peptide database.
+conf/ismb/LeherteBGF94:::Laurence Leherte::Kim Baxter::Janice I. Glasgow::Suzanne Fortier:::Segmentation and Interpretation of 3D Protein Images.
+conf/ismb/RaychaudhuriSLSA00:::Soumya Raychaudhuri::Joshua M. Stuart::Xuemin Liu::Peter M. Small::Russ B. Altman:::Pattern Recognition of Genomic Features with Microarrays: Site Typing of Mycobacterium Tuberculosis Strains.
+conf/ismb/JardinsKKLO97:::Marie desJardins::Peter D. Karp::Markus Krummenacker::Thomas J. Lee::Christos A. Ouzounis:::Prediction of Enzyme Classification from Protein Sequence without the Use of Sequence Similarity.
+conf/ismb/ApweilerGCMJOLMKB97:::Rolf Apweiler::Alain Gateau::Sergio Contrino::Maria Jesus Martin::Vivien Junker::Claire O'Donovan::Fiona Lang::Nicoletta Mitaritonna::Stephanie Kappus::Amos Bairoch:::Protein Sequence Annotation in the Genome Era: The Annotation Concept of SWISS-PROT + TREMBL.
+conf/ismb/StatesNB01:::David J. States::Volker Nowotny::Thomas W. Blackwell:::Probabilistic approaches to the use of higher order clone relationships in physical map assembly.
+conf/ismb/GrateHHHMN94:::Leslie Grate::Mark Herbster::Richard Hughey::David Haussler::I. Saira Mian::Harry Noller:::RNA Modeling Using Gibbs Sampling and Stochastic Context Free Grammars.
+conf/ismb/Krogh97:::Anders Krogh:::Two Methods for Improving Performance of a HMM and their Application for Gene Finding.
+conf/ismb/PollastriB02:::Gianluca Pollastri::Pierre Baldi:::Prediction of contact maps by GIOHMMs and recurrent neural networks using lateral propagation from all four cardinal corners.
+conf/ismb/CohenVDS94:::Dawn M. Cohen::Kumar Vadaparty::Bill Dickinson::Hemanth Salem:::VQLM: A Visual Query Language for Macromolecular Structural Databases.
+conf/ismb/ModelAOP01:::Fabian Model::Péter Adorján::Alexander Olek::Christian Piepenbrock:::Feature selection for DNA methylation based cancer classification.
+conf/ismb/GlasgowR02:::Janice I. Glasgow::Burkhard Rost:::ISMB 2002
+conf/ismb/Milosavljevic93:::Aleksandar Milosavljevic:::Discovering Sequence Similarity by the Algorithmic Significance Method.
+conf/ismb/BaclawskiFNP93:::Kenneth Baclawski::Robert P. Futrelle::Natalya Fridman Noy::Maurice J. Pescitelli:::Database Techniques for Biological Materials and Methods.
+conf/ismb/SchneckeK99:::Volker Schnecke::Leslie A. Kuhn:::Database Screening for HIV Protease Ligands: The Influence of Binding-Site Conformation and Representation on Ligand Selectivity.
+conf/ismb/SatouOYFKT97:::Kenji Satou::Toshihide Ono::Yoshihisa Yamamura::Emiko Furuichi::Satoru Kuhara::Toshihisa Takagi:::Extraction of Substructures of Proteins Essential to their Biological Functions by a Data Mining Technique.
+conf/ismb/SalzbergCHF96:::Steven Salzberg::Xin Chen::John Henderson::Kenneth H. Fasman:::Finding Genes in DNA Using Decision Trees and Dynamic Programming.
+conf/ismb/YadgariAU98:::Jacqueline Yadgari::Amihood Amir::Ron Unger:::Genetic Algorithms for Protein Threading.
+conf/ismb/AdebiyiJK01:::Ezekiel F. Adebiyi::Tao Jiang::Michael Kaufmann:::An efficient algorithm for finding short approximate non-tandem repeats.
+conf/ismb/Myers03:::Gene Myers:::ISMB 2003 - Editorial.
+conf/ismb/CohenKB93:::Dawn M. Cohen::Casimir A. Kulikowski::Helen Berman:::Knowledge-Based Generation of Machine-Learning Experiments: Learning with DNA Crystallography Data.
+conf/ismb/OhkawaOB95:::Hitomi Ohkawa::James Ostell::Stephen Bryant:::MMDB: An ASN.1 Specification for Macromolecular Structure.
+conf/ismb/SegalWK03:::Eran Segal::H. Wang::Daphne Koller:::Discovering molecular pathways from protein interaction and gene expression data.
+conf/itcc/BeinCT03:::Wolfgang W. Bein::Jeffrey S. Coombs::Kazem Taghva:::A Method for Calculating Term Similarity on Large Document Collections.
+conf/itcc/KimY03:::Hyunju Kim::Abdou Youssef:::Interactive Error Recovery in Facsimile without Retransmission.
+conf/itcc/LiZW03:::Chunsheng Li::Chengqi Zhang::Mei Wang:::An Agent-Based Curve-Digitizing System for Well-Logging Data Management.
+conf/itcc/MorM03:::Enric Mor::Julià Minguillón:::An empirical evaluation of classifier combination schemes for predicting user navigational behavior.
+conf/itcc/Pradhan03:::Sojen Pradhan:::Mobile Commerce in the Automobile Industry.
+conf/itcc/Turban03:::Renee Turban:::Approaches to Implementing and Teaching Human Computer Interaction.
+conf/itcc/Steele03:::Robert Steele:::A Web Services-based System for Ad-hoc Mobile Application Integration.
+conf/itcc/RezaH03:::Hassan Reza::Xudong He:::Pattern-Based Software Architecture: A Case Study.
+conf/itcc/KumarMKN03:::Roopesh Kumar::Sunanda Mitra::Tanja Karp::Brian Nutter:::Adaptive Wavelet Filter Design for Optimized Image Source Encoding.
+conf/itcc/AzalovZ03:::Pavel Azalov::Fani Zlatarova:::SDG - A System for Synthetic Data Generation.
+conf/itcc/NguyenL03:::Khoa N. Nguyen::Thuy T. Le:::Evaluation and Co parison Perfor ance of Various MPI plementations on an OSCAR Linux Cluster.
+conf/itcc/AhujaWD03:::Sadhna Ahuja::Tao Wu::Sudhir S. Dixit:::On the Effects of Content Compression on Web Cache Performance.
+conf/itcc/Pajarola03:::Renato Pajarola:::Fast Prefix Code Processing.
+conf/itcc/AndronicoBFRPR03:::G. Andronico::R. Barbera::A. Falzone::G. Lo Re::Alfredo Pulvirenti::A. Rodolico:::The GENIUS web portal: grid computing made easy.
+conf/itcc/KumarN03:::Aravind Kumar::Alagia Nambi:::Implementation Of Mobile Information Device Profile On Virtual Lab.
+conf/itcc/Quarati03:::Alfonso Quarati:::Designing Shareable and Personalisable e-Learning Paths.
+conf/ispa/ZhouMH03:::Bing Bing Zhou::B. McKenzie::Andrew Hodgson:::A Web-Based Graphical Interface for General-Purpose High-Performance Computing Clusters.
+conf/ispa/KimKCB03:::Young-Shil Kim::Young-Mi Kim::Jin-Yong Choi::Doo-Kwon Baik:::Information Hiding System StegoWaveK for Improving Capacity.
+conf/ispa/Lau03:::Francis C. M. Lau:::Towards a Single System Image for High-Performance Java.
+conf/ispa/HuangYHB03:::Tsung-Chuan Huang::Chu-Sing Yang::Chao-Chieh Huang::Shen-Wen Bai:::Hierarchical Grown Bluetrees (HGB) - An Effective Topology for Bluetooth Scatternets.
+conf/ispa/UmeoHS03:::Hiroshi Umeo::Masaya Hisaoka::Takashi Sogabe:::A Comparative Investigation into Optimum-Time Synchronization Protocols for a Large Scale of One-Dimensional Cellular Automata.
+conf/ispa/ChuangJ03:::Po-Jen Chuang::Yue-Tsuen Jiang:::Balancing Traffic in Meshes by Dynamic Channel Selection .
+conf/ispa/ChangGH03:::Weng-Long Chang::Minyi Guo::Michael Ho:::Solving the Set-Splitting Problem in Sticker-Based Model and the Adleman-Lipton Model.
+conf/ispd/CheonW02:::Yongseok Cheon::D. F. Wong:::Design hierarchy guided multilevel circuit partitioning.
+conf/ispd/Dai01:::Wei-Jin Dai:::Hierarchical physical design methodology for multi-million gate chips.
+conf/ispd/Kuh97:::Ernest S. Kuh:::Physical design: reminiscing and looking ahead.
+conf/ispd/HuAQG02:::Jiang Hu::Charles J. Alpert::Stephen T. Quay::Gopal Gandham:::Buffer insertion with adaptive blockage avoidance.
+conf/ispd/HashimotoTO02:::Masanori Hashimoto::Masao Takahashi::Hidetoshi Onodera:::Crosstalk noise optimization by post-layout transistor sizing.
+conf/ispd/AlpertCKM99:::Charles J. Alpert::Andrew E. Caldwell::Andrew B. Kahng::Igor L. Markov:::Partitioning with terminals: a "new" problem and new benchmarks.
+conf/ispd/StohrAHK98:::Tilmann Stöhr::Markus Alt::Asmus Hetzel::Jürgen Koehl:::Analysis, reduction and avoidance of crosstalk on VLSI chips.
+conf/ispd/StenzRRJ97:::Guenter Stenz::Bernhard M. Riess::Bernhard Rohfleisch::Frank M. Johannes:::Timing driven placement in interaction with netlist transformations.
+conf/ispd/ChouL01:::Yih-Chih Chou::Youn-Long Lin:::A performance-driven standard-cell placer based on a modified force-directed algorithm.
+conf/ispd/XuRS02:::Hui Xu::Rob A. Rutenbar::Karem A. Sakallah:::sub-SAT: a formulation for relaxed boolean satisfiability with applications in routing.
+conf/ispd/YaoCCG01:::Bo Yao::Hongyu Chen::Chung-Kuan Cheng::Ronald Graham:::Revisiting floorplan representations.
+conf/ispd/CongH98:::Jason Cong::Lei He:::An efficient technique for device and interconnect optimization in deep submicron designs.
+conf/ispd/BertoletCCCDFKPPRWBDGLMSW97:::A. Bertolet::K. Carpenter::K. Carrig::A. Chu::A. Dean::F. Ferraiolo::S. Kenyon::D. Phan::J. Petrovick::G. Rodgers::D. Willmott::T. Bairley::T. Decker::V. Girardi::Y. Lapid::M. Murphy::P. A. Scott::R. Weiss:::A pseudo-hierarchical methodology for high performance microprocessor design.
+conf/ispd/NettletonRHS01:::Nancy Nettleton::W. Roethig::D. Hill::Majid Sarrafzadeh:::Differences in ASIC, COT and processor design (panel).
+conf/ispd/SarkarSK00:::Probir Sarkar::Vivek Sundararaman::Cheng-Kok Koh:::Routability-driven repeater block planning for interconnect-centric floorplanning.
+conf/ispd/HuangWC98:::Chung-Yang Huang::Yucheng Wang::Kwang-Ting Cheng:::LIBRA - a library-independent framework for post-layout performance optimization.
+conf/ispd/GrobmanBPJ01:::Warren Grobman::Robert Boone::Cece Philbin::Bob Jarvis:::Reticle enhancement technology trends: resource and manufacturability implications for the implementation of physical designs.
+conf/ispd/HayashiY99:::Sachio Hayashi::Masaaki Yamada:::EMI-noise analysis under ASIC design environment.
+conf/ispd/NakatakeKK01:::Shigetoshi Nakatake::Yukiko Kubo::Yoji Kajitani:::Consistent floorplanning with super hierarchical constraints.
+conf/ispd/Papadopoulou00:::Evanthia Papadopoulou:::Critical area computation for missing material defects in VLSI circuits.
+conf/ispd/RafiqCYS02:::Faran Rafiq::Malgorzata Chrzanowska-Jeske::Hannah Honghua Yang::Naveed A. Sherwani:::Integrated floorplanning with buffer/channel insertion for bus-based microprocessor designs.
+conf/ispd/RamanSA00:::Suresh Raman::Sachin S. Sapatnekar::Charles J. Alpert:::Datapath routing based on a decongestion metric.
+conf/ispd/SinghM99:::Amit Singh::Malgorzata Marek-Sadowska:::Circuit clustering using graph coloring.
+conf/ispw/DowsonNR90:::Mark Dowson::Brian A. Nejmek::William E. Riddle:::Concepts for process definition and support.
+conf/ispw/Gruhn94:::Volker Gruhn:::Communication support in a process-centered software engineering environment.
+conf/ispw/Garg91:::Pankaj K. Garg:::Process programming by hindsight.
+conf/ispw/Culver-LozoG91:::Kathleen Culver-Lozo::S. Gelman:::A proces definition methodology for software development organization.

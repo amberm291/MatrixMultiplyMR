@@ -1,0 +1,200 @@
+conf/stoc/DurisG82:::Pavol Duris::Zvi Galil:::Two Tapes are Better than One for Nondeterministic Machines
+conf/stoc/FarachT95:::Martin Farach::Mikkel Thorup:::String matching in Lempel-Ziv compressed strings.
+conf/stoc/Constable77:::Robert L. Constable:::On the Theory of Programming Logics
+conf/stoc/BoppanaN93:::Ravi B. Boppana::Babu O. Narayanan:::The biased coin problem.
+conf/stoc/SleatorT83:::Daniel Dominic Sleator::Robert Endre Tarjan:::Self-Adjusting Binary Trees
+conf/stoc/WalkerS72:::S. A. Walker::H. Raymond Strong:::Characterization of Flowchartable Recursions (Short Version)
+conf/stoc/AggarwalGSS87:::Alok Aggarwal::Leonidas J. Guibas::James B. Saxe::Peter W. Shor:::A Linear Time Algorithm for Computing the Voronoi Diagram of a Convex Polygon
+conf/stoc/Aaronson02:::Scott Aaronson:::Quantum lower bound for the collision problem.
+conf/stoc/ChazelleD79:::Bernard Chazelle::David P. Dobkin:::Decomposing a Polygon into its Convex Parts
+conf/stoc/ChazelleM81:::Bernard Chazelle::Louis Monier:::A Model of Computation for VLSI with Related Complexity Results
+conf/stoc/DurisGS84:::Pavol Duris::Zvi Galil::Georg Schnitger:::Lower Bounds on Communication Complexity
+conf/stoc/Doeppner76:::Thomas W. Doeppner Jr.:::On Abstractions of Parallel Programs
+conf/stoc/FortuneW88:::Steven Fortune::Gordon T. Wilfong:::Planning Constrained Motion
+conf/stoc/ArjomandiFL81:::Eshrat Arjomandi::Michael J. Fischer::Nancy A. Lynch:::A Difference in Efficiency between Synchronous and Asynchronous Systems
+conf/stoc/LindellLR02:::Yehuda Lindell::Anna Lysyanskaya::Tal Rabin:::On the composition of authenticated byzantine agreement.
+conf/stoc/Kosaraju81:::S. Rao Kosaraju:::Localized Search in Sorted Lists
+conf/stoc/RasalaW00:::April Rasala::Gordon T. Wilfong:::Strictly non-blocking WDM cross-connects for heterogeneous networks.
+conf/stoc/BorodinC74:::Allan Borodin::Stephen Cook:::On the Number of Additions to Compute Specific Polynomials (Preliminary Version)
+conf/stoc/Muller-OlmS01:::Markus Müller-Olm::Helmut Seidl:::On optimal slicing of parallel programs.
+conf/stoc/Ambainis01:::Andris Ambainis:::A new protocol and lower bounds for quantum coin flipping.
+conf/stoc/ChungHS85:::Fan R. K. Chung::D. J. Hajela::Paul D. Seymour:::Self-Organizing Sequential Search and Hilbert's Inequalities
+conf/stoc/Harchol-BalterW95:::Mor Harchol-Balter::David Wolfe:::Bounding delays in packet-routing networks.
+conf/stoc/BartalLMN03:::Yair Bartal::Nathan Linial::Manor Mendel::Assaf Naor:::On metric ramsey-type phenomena.
+conf/stoc/AndersonW91:::Richard J. Anderson::Heather Woll:::Wait-free Parallel Algorithms for the Union-Find Problem
+conf/stoc/ConstableH71:::Robert L. Constable::Juris Hartmanis:::Complexity of Formal Translations and Speed-Up Results
+conf/stoc/AmatoGR95:::Nancy M. Amato::Michael T. Goodrich::Edgar A. Ramos:::Computing faces in segment and simplex arrangements (Preliminary Version).
+conf/stoc/HalpernV88:::Joseph Y. Halpern::Moshe Y. Vardi:::Reasoning about Knowledge and Time in Asynchronous Systems
+conf/stoc/Zwick99:::Uri Zwick:::All Pairs Lightest Shortest Paths.
+conf/stoc/Siegel86:::Alan Siegel:::Aspects of Information Flow in VLSI Circuits (Extended Abstract)
+conf/stoc/Meyers71:::W. J. Meyers:::Linear Representation of Tree Structure: A Mathematical Theory of Parenthesis-Free Notations
+conf/stoc/GilbertLT79:::John R. Gilbert::Thomas Lengauer::Robert Endre Tarjan:::The Pebbling Problem is Complete in Polynomial Space
+conf/stoc/Kenyon-MathieuK89:::Claire Kenyon-Mathieu::Valerie King:::Verifying Partial Orders
+conf/stoc/Adleman83:::Leonard M. Adleman:::On Breaking Generalized Knapsack Public Key Cryptosystems (Abstract)
+conf/stoc/Symes72:::D. M. Symes:::The Computation of Finite Functions
+conf/stoc/SleatorTT86:::Daniel Dominic Sleator::Robert Endre Tarjan::William P. Thurston:::Rotation Distance, Triangulations, and Hyperbolic Geometry
+conf/stoc/KerenidisW03:::Iordanis Kerenidis::Ronald de Wolf:::Exponential lower bound for 2-query locally decodable codes via a quantum argument.
+conf/stoc/AfratiC89:::Foto N. Afrati::Stavros S. Cosmadakis:::Expressiveness of Restricted Recursive Queries (Extended Abstract)
+conf/stoc/HopcroftW74:::John E. Hopcroft::J. K. Wong:::Linear Time Algorithm for Isomorphism of Planar Graphs (Preliminary Report)
+conf/stoc/BeimelIKM99:::Amos Beimel::Yuval Ishai::Eyal Kushilevitz::Tal Malkin:::One-Way Functions Are Essential for Single-Server Private Information Retrieval.
+conf/stoc/Nisan92:::Noam Nisan:::RL\subseteqSC
+conf/stoc/ImpagliazzoPS93:::Russell Impagliazzo::Ramamohan Paturi::Michael E. Saks:::Size-depth trade-offs for threshold circuits.
+conf/stoc/Vishkin90:::Uzi Vishkin:::Deterministic Sampling-A New Technique for Fast Pattern Matching
+conf/stoc/GoldwasserK86:::Shafi Goldwasser::Joe Kilian:::Almost All Primes Can Be Quickly Certified
+conf/stoc/GoldwasserM82:::Shafi Goldwasser::Silvio Micali:::Probabilistic Encryption and How to Play Mental Poker Keeping Secret All Partial Information
+conf/stoc/NisanB97:::Noam Nisan::Ziv Bar-Yossef:::Pointer Jumping Requires Concurrent Read.
+conf/stoc/NisanS92:::Noam Nisan::Mario Szegedy:::On the Degree of Boolean Functions as Real Polynomials
+conf/stoc/Vuillemin73:::Jean Vuillemin:::Correct and Optimal Implementations of Recursion in a Simple Programming Language
+conf/stoc/DeMilloLM82:::Richard A. DeMillo::Nancy A. Lynch::Michael Merritt:::Cryptographic Protocols
+conf/stoc/Guruswami02:::Venkatesan Guruswami:::Limits to list decodability of linear codes.
+conf/stoc/AharoniEL85:::Ron Aharoni::Paul Erdös::Nathan Linial:::Dual Integer Linear Programs and the Relationship between their Optima
+conf/stoc/Culberson85:::Joseph C. Culberson:::The Effect of Updates in Binary Search Trees
+conf/stoc/KedemPS90:::Zvi M. Kedem::Krishna V. Palem::Paul G. Spirakis:::Efficient Robust Parallel Computations (Extended Abstract)
+conf/stoc/BellareS94:::Mihir Bellare::Madhu Sudan:::Improved non-approximability results.
+conf/stoc/NivatP82:::Maurice Nivat::Dominique Perrin:::Ensembles Reconnaissables de Mots Biinfinis
+conf/stoc/Karger96:::David R. Karger:::Minimum Cuts in Near-Linear Time.
+conf/stoc/Ben-OrGKW88:::Michael Ben-Or::Shafi Goldwasser::Joe Kilian::Avi Wigderson:::Multi-Prover Interactive Proofs: How to Remove Intractability Assumptions
+conf/stoc/AchlioptasM02:::Dimitris Achlioptas::Cristopher Moore:::Almost all graphs with average degree 4 are 3-colorable.
+conf/stoc/AhoUY83:::Alfred V. Aho::Jeffrey D. Ullman::Mihalis Yannakakis:::On Notions of Information Transfer in VLSI Circuits
+conf/tlca/Xi97:::Hongwei Xi:::Weak and Strong Beta Normalisations in Typed Lambda-Calculi.
+conf/tlca/BrodaD99:::Sabine Broda::Luís Damas:::Counting a Type's Principal Inhabitants.
+conf/tlca/Groote01:::Philippe de Groote:::Strong Normalization of Classical Natural Deduction with Disjunction.
+conf/tlca/BaillotP99:::Patrick Baillot::Marco Pedicini:::Elementary Complexity and Geometry of Interaction.
+conf/tlca/deLiguoro01:::Ugo de'Liguoro:::Characterizing Convergent Terms in Object Calculi via Intersection Types.
+conf/tlca/Jay01:::C. Barry Jay:::Distinguishing Data Structures and Functions: The Constructor Calculus and Functorial Types.
+conf/tlca/Pollack95:::Robert Pollack:::A Verified Typechecker.
+conf/tlca/Padovani01:::Vincent Padovani:::Retracts in Simple Types.
+conf/tlca/Padovani95:::Vincent Padovani:::On Equivalence Classes of Interpolation Equations.
+conf/tlca/Jacobs93:::Bart Jacobs:::Semantics of lambda-I and of other substructure lambda calculi.
+conf/tlca/Pinto01:::Jorge Sousa Pinto:::Parallel Implementation Models for the lambda-Calculus Using the Geometry of Interaction.
+conf/tlca/BonoB97:::Viviana Bono::Michele Bugliesi:::Matching Constraints for the Lambda Calculus of Objects.
+conf/tlca/Miquel01:::Alexandre Miquel:::The Implicit Calculus of Constructions.
+conf/tlca/OHearn99:::Peter W. O'Hearn:::Resource Interpretations, Bunched Implications and the <i>alpha lambda</i>-Calculus.
+conf/tlca/Barthe95:::Gilles Barthe:::Extensions of Pure Type Systems.
+conf/tlca/BucciarelliLP03:::Antonio Bucciarelli::Benjamin Leperchey::Vincent Padovani:::Relative Definability and Models of Unary PCF.
+conf/tlca/Danner01:::Norman Danner:::Ramified Recurrence with Dependent Types.
+conf/tlca/Abrusci99:::V. Michele Abrusci:::Modules in Non-communicative Logic.
+conf/tlca/Nipkow93:::Tobias Nipkow:::Orthogonal Higher-Order Rewrite Systems are Confluent.
+conf/tlca/Damiani99:::Ferruccio Damiani:::Useless-Code Detection and Elimination for PCF with Algebraic Data types.
+conf/swat/Brodal96:::Gerth Stølting Brodal:::Priority Queues on Parallel Machines.
+conf/swat/HirataSS96:::Kouichi Hirata::Shinichi Shimozono::Ayumi Shinohara:::On the Hardness of Approximating the Minimum Consistent OBDD Problem.
+conf/swat/DietzfelbingerMHR88:::Martin Dietzfelbinger::Kurt Mehlhorn::Friedhelm Meyer auf der Heide::Hans Rohnert:::Upper and Lower Bounds for the Dictionary Problem (Abstract).
+conf/swat/Hershberger90:::John Hershberger:::Upper Envelope Onion Peeling.
+conf/swat/HusfeldtRS96:::Thore Husfeldt::Theis Rauhe::Søren Skyum:::Lower Bounds for Dynamic Transitive Closure, Planar Point Location, and Parentheses Matching.
+conf/swat/Pippenger92:::Nicholas Pippenger:::An Elementary Approach to Some Analytic Asymptotics.
+conf/swat/Kei88:::J. Mark Kei:::Approximating the Complete Euclidean Graph.
+conf/swat/Sen92:::Sandeep Sen:::Fractional Cascading Simplified.
+conf/swat/Fernandez-BacaS92:::David Fernández-Baca::Giora Slutzki:::Parametric Problems on Graphs of Bounded Tree-Width.
+conf/swat/AlberFN02:::Jochen Alber::Michael R. Fellows::Rolf Niedermeier:::Efficient Data Reduction for DOMINATING SET: A Linear Problem Kernel for the Planar Case.
+conf/swat/Rick00:::Claus Rick:::Efficient Computation of All Longest Common Subsequences.
+conf/swat/Stachowiak00:::Grzegorz Stachowiak:::Fibonacci Correction Networks.
+conf/swat/HenzingerT96:::Monika Rauch Henzinger::Jan Arne Telle:::Faster Algorithms for the Nonemptiness of Streett Automata and for Communication Protocol Pruning.
+conf/swat/GuptaJS94:::Prosenjit Gupta::Ravi Janardan::Michiel H. M. Smid:::On Intersection Searching Problems Involving Curved Objects.
+conf/swat/ChewK92:::L. Paul Chew::Klara Kedem:::Improvements on Geometric Pattern Matching Problems.
+conf/swat/Mulmuley94:::Ketan Mulmuley:::Randomized Geometric Algorithms (Abstract).
+conf/swat/AgarwalGHRS00:::Pankaj K. Agarwal::Leonidas J. Guibas::Sariel Har-Peled::Alexander Rabinovitch::Micha Sharir:::Computing the Penetration Depth of Two Convex Polytopes in 3D.
+conf/swat/PremingerU96:::Sonne Preminger::Eli Upfal:::Safe and Efficient Traffic Laws for Mobile Robots.
+conf/swat/GoswamiDN02:::Partha P. Goswami::Sandip Das::Subhas C. Nandy:::Simplex Range Searching and k Nearest Neighbors of a Line Segment in 2D.
+conf/swat/AusielloFLST94:::Giorgio Ausiello::Esteban Feuerstein::Stefano Leonardi::Leen Stougie::Maurizio Talamo:::Serving Requests with On-line Routing.
+conf/swat/HagerupR02:::Torben Hagerup::Rajeev Raman:::An Efficient Quasidictionary.
+conf/swat/AsanoMT00:::Tetsuo Asano::Tomomi Matsui::Takeshi Tokuyama:::On the Complexities of the Optimal Rounding Problems of Sequences and Matrices.
+conf/swat/KortsarzP92:::Guy Kortsarz::David Peleg:::Generating Sparse 2-spanners.
+conf/swat/GerbessiotisV92:::Alexandros V. Gerbessiotis::Leslie G. Valiant:::Direct Bulk-Synchronous Parallel Algorithms.
+conf/swat/PeterssonM92:::Ola Petersson::Alistair Moffat:::A Framework for Adaptive Sorting.
+conf/swat/HassinR00a:::Refael Hassin::Shlomi Rubinstein:::Robust Matchings and Maximum Clustering.
+conf/swat/LevcopoulosK96:::Christos Levcopoulos::Drago Krznaric:::A Fast Heuristic for Approximating the Minimum Weight Triangulation (Extended Abstract).
+conf/swat/GarganoRV96:::Luisa Gargano::Adele A. Rescigno::Ugo Vaccaro:::Communication Complexity of Gossiping by Packets.
+conf/swat/WeissS88:::Mark Allen Weiss::Robert Sedgewick:::Tight Lower Bounds for Shellsort.
+conf/swat/ChazelleP92:::Bernard Chazelle::Leonidas Palios:::Decomposing the Boundary of a Nonconvex Polyhedron.
+conf/swat/PreparataVY90:::Franco P. Preparata::Jeffrey Scott Vitter::Mariette Yvinec:::Output-Sensitive Generation of the Perspective View of Isothetic Parallelepipeds.
+conf/swat/Baeza-YatesCR88:::Ricardo A. Baeza-Yates::Joseph C. Culberson::Gregory J. E. Rawlins:::Searching with Uncertainty (Extended Abstract).
+conf/swat/DzyzowiczER94:::Jurek Dzyzowicz::Hazel Everett::Jean-Marc Robert:::Separating Translates in the Plane: Combinatorial Bounds and an Algorithm.
+conf/swat/Ghosh88:::Subir Kumar Ghosh:::On Recognizing and Characterizing Visibility Graphs of Simple Polygons.
+conf/swat/Czumaj92:::Artur Czumaj:::An Optimal Parallel Algorithm for Computing a Near-Optimal Order of Matrix Multiplications.
+conf/swat/Schuierer94a:::Sven Schuierer:::Computing the L<sub>1</sub>-Diameter and Center of a Simple Rectilinear Polygon in Parallel.
+conf/swat/Gunther88:::Oliver Günther:::A Lower Bound and Two Approximate Algorithms for the K-Partitioning of Rectilinear Polygons.
+conf/swat/Grape90:::Per Grape:::Complete Problems With L-samplable Distributions.
+conf/swat/PaluPR02:::Alessandro Dal Palú::Enrico Pontelli::Desh Ranjan:::An Optimal Algorithm for Finding NCA on Pure Pointer Machines.
+conf/tpcd/HannaDH92:::Keith Hanna::Neil Daeche::Gareth Howells:::Implementation of the Veritas Design Logic.
+conf/tpcd/OLearyLHA94:::John W. O'Leary::Miriam Leeser::Jason Hickey::Mark Aagaard:::Non-Restoring Integer Square Root: A Case Study in Design by Principled Optimization.
+conf/tppp/Honda94:::Kohei Honda:::Notes on P-Algebra 1: Process Structure.
+conf/tppp/Wakita94:::Ken Wakita:::First Class Continuation Facilities in Concurrent Programming Language Harmony/2.
+conf/trec/YangMMS98:::Kiduk Yang::Kelly Maglaughlin::Lokman Meho::Robert G. Sumner Jr.:::IRIS at TREC-7.
+conf/trec/GeyC97:::Fredric C. Gey::Aitao Chen:::Phrase Discovery for English and Cross-language Retrieval at TREC 6.
+conf/trec/WuHNGXF01:::Lide Wu::Xuanjing Huang::Junyu Niu::Yikun Guo::Yingju Xia::Zhe Feng:::FDU at TREC-10: Filtering, QA, Web and Video Tasks.
+conf/trec/XiF01:::Wensi Xi::Edward A. Fox:::Machine Learning Approach for Homepage Finding Task.
+conf/trec/JinW00:::Honglan Jin::Kam-Fai Wong:::TREC-9 CLIR at CUHK: Disambiguation by Similarity Values Between Adjacent Words.
+conf/trec/RungsawangTLK99:::Arnon Rungsawang::Athichat Tangpong::Pawat Laohawee::T. Khampachua:::Novel Query Expansion Technique using Apriori Algorithm.
+conf/trec/KwokGC00:::K. L. Kwok::L. Grunfeld::N. Dinstl::M. Chan:::TREC-9 Cross Language, Web and Question-Answering Track Experiments using PIRCS.
+conf/trec/BurgerAP96:::John D. Burger::John S. Aberdeen::David D. Palmer:::Information Retrieval and Trainable Natural Language Processing.
+conf/trec/NgAS99:::Hwee Tou Ng::Huey Ting Ang::Wee Meng Soon:::DSO at TREC-8: A Hybrid Algorithm for the Routing Task.
+conf/trec/Oard98:::Douglas W. Oard:::TREC-7 Experiments at the University of Maryland.
+conf/trec/Harman94:::Donna Harman:::Overview of the Third Text REtrieval Conference (TREC-3).
+conf/trec/GeyJCL98:::Fredric C. Gey::Hailing Jiang::Aitao Chen::Ray R. Larson:::Manual Queries and Machine Translation in Cross-Language Retrieval and Interactive Retrieval with Cheshire II at TREC-7.
+conf/trec/BeaulieuG97:::Micheline Hancock-Beaulieu::Mike Gatford:::Interactive Okapi at TREC-6.
+conf/trec/KelledyS96:::Fergus Kelledy::Alan F. Smeaton:::TREC-5 Experiments at Dublin City University: Query Space Reduction, Spanish &amp; Character Shape Encoding.
+conf/trec/KnausMSS95:::Daniel Knaus::Elke Mittendorf::Peter Schäuble::Paraic Sheridan:::Highlighting Relevant Passages for Users of the Interactive SPIDER Retrieval System.
+conf/trec/DiekemaOSL98:::Anne Diekema::Farhad Oroumchian::Paraic Sheridan::Elizabeth D. Liddy:::TREC-7 Evaluation of Conceptual Interlingua Document Retrieval (CINDOR) in English and French.
+conf/trec/BoughanemJMS99:::Mohand Boughanem::C. Julien::Josiane Mothe::C. Soulé-Dupuy:::Mercure at trec8: Adhoc, Web, CLIR and Filtering tasks.
+conf/trec/OgawaMNH99:::Yasushi Ogawa::Hiroko Mano::Masumi Narita::Sakiko Honma:::Structuring and expanding queries in the probabilistic model.
+conf/trec/AllanCCBBHS96:::James Allan::James P. Callan::W. Bruce Croft::Lisa Ballesteros::John Broglio::Jinxi Hu::Hongming Shu:::INQUERY at TREC-5.
+conf/trec/GarofoloLV00:::John S. Garofolo::J. Lard::Ellen M. Voorhees:::Spoken Document Retrieval Track Slides.
+conf/trec/FullerKNVWZ97:::Michael Fuller::Marcin Kaszkiel::Chien Leng Ng::Phil Vines::Ross Wilkinson::Justin Zobel:::MDS TREC6 Report.
+conf/trec/BoughanemCT01:::Mohand Boughanem::Claude Chrisment::M. Tmar:::Mercure and MercureFiltre Applied for Web and Filtering Tasks at TREC-10.
+conf/trec/NambaIHNM98:::Isao Namba::Nobuyuki Igata::Hisayuki Horai::Kiyoshi Nitta::Kunio Matsui:::Fujitsu Laboratories TREC7 Report.
+conf/trec/Wilkinson97:::Ross Wilkinson:::Chinese Document Retrieval at TREC-6.
+conf/trec/Buckley97:::Chris Buckley:::TREC 6 High-Precision Track.
+conf/trec/LoupyBEM98:::C. de Loupy::Patrice Bellot::Marc El-Bèze::Pierre-Francois Marteau:::Query Expansion and Classification of Retrieved Documents.
+conf/trec/KoenemannQCB94:::Jürgen Koenemann::Richard Quatrain::Colleen Cool::Nicholas J. Belkin:::New Tools and Old Habits: The Interactive Searching Behavior of Expert Online Searches using INQUERY.
+conf/trec/HershSO01:::William R. Hersh::Lynetta Sacherek::Daniel Olson:::Observations of Searchers: OHSU TREC 2001 Interactive Track.
+conf/trec/GevreyR01:::Julien Gevrey::Stefan M. Rüger:::Link-based Approaches for Text Retrieval.
+conf/trec/BoughanemS96:::Mohand Boughanem::C. Soulé-Dupuy:::Mercure02: adhoc and routing tasks.
+conf/trec/LiddyM93:::Elizabeth D. Liddy::Sung-Hyon Myaeng:::DR-LINK: A System Update for TREC-2.
+conf/trec/Schiettecatte97:::François Schiettecatte:::Document Retrieval Using The MPS Information Server (A Report on the TREC-6 Experiment).
+conf/trec/FullerKKNWWZ99:::Michael Fuller::Marcin Kaszkiel::Sam Kimberley::Corinna Ng::Ross Wilkinson::Mingfang Wu::Justin Zobel:::The RMIT/CSIRO Ad Hoc, Q&amp;A, Web, Interactive, and Speech Experiments at TREC 8.
+conf/trec/Larson99:::Ray R. Larson:::Berkeley's TREC 8 Interactive Track Entry: Cheshire II and Zprise.
+conf/trec/TongZME96:::Xiang Tong::Chengxiang Zhai::Natasa Milic-Frayling::David A. Evans:::Experiments on Chinese Text Indexing -- CLARIT TREC-5 Chinese Track Report.
+conf/trec/Rennert01:::Philip Rennert:::Word Proximity QA System.
+conf/trec/Mettler93:::Matt Mettler:::TREC-II Routing Experiments with the TRW/Paracel Fast Data Finder.
+conf/trec/LaszloKL00:::Michael Laszlo::Leila Kosseim::Guy Lapalme:::Goal-Driven Answer Extraction.
+conf/trec/KwokG93:::K. L. Kwok::L. Grunfeld:::TREC-2 Document Retrieval Experiments using PIRCS.
+conf/trec/GardinerRS94:::David A. Gardiner::John Riedl::James R. Slagle:::TREC-3: Experience With Conceptual Relations in Information Retrieval.
+conf/trec/NambaI99:::Isao Namba::Nobuyuki Igata:::Fujitsu Laboratories TREC8 Report - Ad hoc, Small Web, and Large Web Track.
+conf/trec/GrossmanHF94:::David A. Grossman::David O. Holmes::Ophir Frieder:::A Parallel DBMS Approach to IR in TREC-3.
+conf/trec/CrestaniSTL97:::Fabio Crestani::Mark Sanderson::Marcos Theophylactou::Mounia Lalmas:::Short Queries, Natural Language and Spoken Document Retrieval: Experiments at Glasgow University.
+conf/trec/Fujita00:::Sumio Fujita:::Reflections on "Aboutness" TREC-9 Evaluation Experiments at Justsystem.
+conf/trec/Tomlinson01:::Stephen Tomlinson:::Hummingbird SearchServer at TREC 2001.
+conf/trec/Veerasamy95:::Aravindan Veerasamy:::Interactive TREC-4 at Georgia Tech.
+conf/trec/VoorheesH99:::Ellen M. Voorhees::Donna Harman:::Overview of the Eighth Text REtrieval Conference (TREC-8).
+conf/trec/GarofoloVSJ97:::John S. Garofolo::Ellen M. Voorhees::Vincent M. Stanford::Karen Sparck Jones:::TREC-6 1997 Spoken Document Retrieval Track Overview and Results.
+conf/trec/HoashiMIHHS00:::Keiichiro Hoashi::Kazunori Matsumoto::Naomi Inoue::Kazuo Hashimoto::Takashi Hasegawa::Katsuhiko Shirai:::Experiments on the TREC-9 Filtering Track.
+conf/trec/CroftCB93:::W. Bruce Croft::James P. Callan::John Broglio:::TREC-2 Routing and Ad-Hoc Retrieval Evaluation using the INQUERY System.
+conf/trec/SavoyP99:::Jacques Savoy::Justin Picard:::Report on the TREC-8 Experiment: Searching on the Web and in Distributed Collections.
+conf/tsdm/Estivill-CastroH00:::Vladimir Estivill-Castro::Michael E. Houle:::Fast Randomized Algorithms for Robust Estimation of Location.
+conf/uist/AdelsteinJE92:::Bernard D. Adelstein::Eric R. Johnston::Stephen R. Ellis:::A Testbed for Characterizing Dynamic Response of Virtual Environment Spatial Sensors.
+conf/uist/Mackinlay88:::Jock D. Mackinlay:::Applying a Theory of Graphical Presentation to the Graphic Design of User Interfaces.
+conf/uist/TruongAB99:::Khai N. Truong::Gregory D. Abowd::Jason A. Brotherton:::Personalizing the Capture of Public Experiences.
+conf/uist/TrevorHSK01:::Jonathan Trevor::David M. Hilbert::Bill N. Schilit::Tzu Khiau Koh:::From desktop to phonetop: a UI for web interaction on very small devices.
+conf/uist/Bos92:::Edwin Bos:::Some Virtues and Limitations of Action Inferring Interfaces.
+conf/uist/BellF00:::Blaine Bell::Steven Feiner:::Dynamic space management for user interfaces.
+conf/uist/Arons92:::Barry Arons:::Tools for Building Asynchronous Servers to Support Speech and Audio Applications.
+conf/uist/Rekimoto96:::Jun Rekimoto:::Tilting Operations for Small Screen Interfaces.
+conf/uist/DourishELS99:::Paul Dourish::W. Keith Edwards::Anthony LaMarca::Michael Salisbury:::Using Properties for Uniform Interaction in the Presto Document System.
+conf/uist/HsuLW93:::S. C. Hsu::I. H. H. Lee::Neil E. Wiseman:::Skeletal Strokes.
+conf/uist/BedersonAaa01:::Benjamin B. Bederson:::PhotoMesa: a zoomable image browser using quantum treemaps and bubblemaps.
+conf/uist/Beaudouin-Lafon01:::Michel Beaudouin-Lafon:::Novel interaction techniques for overlapping windows.
+conf/uist/RauS94:::Harald Rau::Steven Skiena:::Dialing for Documents: An Experiment in Information Theory.
+conf/uist/ChungD96:::Goopeel Chung::Prasun Dewan:::A Mechanism for Supporting Client Migration in a Shared Window System.
+conf/uist/MukaiSNWM99:::Toshiro Mukai::Susumu Seki::Masayuki Nakazawa::Keiko Watanuki::Hideo Miyoshi:::Multimodal Agent Interface Based on Dynamical Dialogue Model.
+conf/uist/ChokM98:::Sitt Chen Chok::Kim Marriott:::Automatic Construction of Intelligent Diagram Editors.
+conf/uist/SnibbeMSRVS01:::Scott S. Snibbe::Karon E. MacLean::Rob Shaw::Jayne Roderick::William Verplank::Mark Scheeff:::Haptic techniques for media control.
+conf/uist/Rumbaugh88:::James E. Rumbaugh:::State Trees as Structured Finite State Machines for User Interfaces.
+conf/uist/BharatB94:::Krishna Bharat::Marc H. Brown:::Building Distributed, Multi-User Applications by Direct Manipulation.
+conf/uist/RaoRM93:::Ramana Rao::Daniel M. Russell::Jock D. Mackinlay:::System Components for Embedded Information Retrieval from Multiple Disparate Information Sources.
+conf/uist/BedersonMG00:::Benjamin B. Bederson::Jon Meyer::Lance Good:::Jazz: an extensible zoomable user interface graphics toolkit in Java.
+conf/uist/Jones98:::Steve Jones:::Graphical Query Specification and Dynamic Result Previews for a Digital Library.
+conf/uist/Cardelli88:::Luca Cardelli:::Building User Interfaces by Direct Manipulation.
+conf/uist/ButzBF98:::Andreas Butz::Clifford Beshers::Steven Feiner:::Of Vampire Mirrors and Privacy Lamps: Privacy Management in Multi-User Augmented Environments.
+conf/uist/MoranSMGFH99:::Thomas P. Moran::Eric Saund::William van Melle::Anuj Gujar::Kenneth P. Fishkin::Beverly L. Harrison:::Design and Technology for Collaborage: Collaborative Collages of Information on Physical Walls.
+conf/uist/FoxGCPHLB97:::Armando Fox::Steven D. Gribble::Yatin Chawathe::Anthony S. Polito::Andrew C. Huang::Benjamin C. Ling::Eric A. Brewer:::Orthogonal Extensions to the WWW User Interface Using Client-Side Technologies.
+conf/uist/MillerM01:::Robert C. Miller::Brad A. Myers:::Outlier finding: focusing user attention on possible errors.

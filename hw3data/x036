@@ -1,0 +1,200 @@
+journals/spe/CallisonS91:::H. Rebecca Callison::Alan C. Shaw:::Building a Real-time Kernel: First Steps in Validating a Pure Process/Adt Model.
+journals/spe/PurserHS84:::Michael Purser::Chris Horn::John Sheehan:::The PHS Protocol.
+journals/spe/Riche88:::P. J. Le Riche:::K6-A Protected Mode Kernel for the iAPX286.
+journals/spe/LurieV73:::D. Lurié::C. Vandoni:::Statistics for FORTRAN Identifiers and Scatter Storage Techniques.
+journals/spe/SmithH98:::Peter Smith::Norman C. Hutchinson:::Heterogeneous Process Migration: The Tui System.
+journals/spe/KramerK88:::Jeff Kramer::Nr Keng:::Animation of Requirements Specifications.
+journals/spe/Dannenberg90:::Roger B. Dannenberg:::A Structure for Efficient Update, Incremental Redisplay and Undo in Graphical Editors.
+journals/spe/Sewell82:::B. T. Sewell:::A Rapid Lookup Table Method for Trigonometric Functions.
+journals/spe/HamburyKB72:::J. N. Hambury::S. Karniel::G. C. Barney:::A Display Package for CAD of Control Systems.
+journals/spe/AgbariaF02:::Adnan Agbaria::Roy Friedman:::Virtual-machine-based heterogeneous checkpointing.
+journals/spe/Hansen76c:::Per Brinch Hansen:::Disk Scheduling at Compile Time.
+journals/spe/Wieczerzycki96:::Waldemar Wieczerzycki:::Software Reusability Through Versions.
+journals/spe/Ben-Ari81:::Mordechai Ben-Ari:::Cheap Concurrent Programming.
+journals/spe/Hanson99a:::David R. Hanson:::A Machine-Independent Debugger - Revisited.
+journals/spe/DoddR92:::Paul S. Dodd::Chinya V. Ravishankar:::Monitoring and Debugging Distributed Real-time Programs.
+journals/spe/MunakataY87:::Toshinori Munakata::D. Yun Yeh:::Multiple Stack Performance Near Saturation.
+journals/spe/BushPS00:::William R. Bush::Jonathan D. Pincus::David J. Sielaff:::A static analyzer for finding dynamic programming errors.
+journals/spe/DandamudiS88:::Sivarama P. Dandamudi::Paul G. Sorenson:::Performance Analysis of Particle-match Search Algorithms for BD Trees.
+journals/spe/RamachandranK91:::Umakishore Ramachandran::Yousef Y. A. Khalidi:::An Implementation of Distributed Shared Memory.
+journals/spe/GuerraouiEFGM00:::Rachid Guerraoui::Patrick Th. Eugster::Pascal Felber::Benoît Garbinato::Karim Mazouni:::Experiences with object group systems.
+journals/spe/KornerupKM80:::Peter Kornerup::Bent Bruun Kristensen::Ole Lehrmann Madsen:::Interpretation and Code Generation Based on Intermediate Languages.
+journals/spe/Wrench88:::K. L. Wrench:::CSP-i: An Implementation of Communicating Sequential Processes.
+journals/spe/Flores72:::Ivan Flores:::Intraprogram Documentation.
+journals/spe/BlackTM81:::James P. Black::David J. Taylor::David E. Morgan:::A Case Study in Fault Tolerant Software.
+journals/spe/TheakerF79:::C. J. Theaker::G. R. Frank:::MUSS-A Portable Operating System.
+journals/spe/BaxterH82:::Anthony Q. Baxter::Johnson M. Hart:::Software Segmented Virtual Memory.
+journals/spe/Grosse-LindemannN76:::D. O. Grosse-Lindemann::Hans-Hellmut Nagel:::Postlude to a PASCAL-Compiler Bootstrap on a DECSystem-10.
+journals/spe/HansonHR93:::Eric N. Hanson::Tina M. Harvey::Mark A. Roth:::Experiences in Database System Implementation Using a Persistent Programming Language.
+journals/spe/StoneK96:::Roger G. Stone::Gada F. Kadoda:::Token-by-token Syntax-directed Editing (Using an LR Parser).
+journals/spe/ZastreH01:::Michael M. J. Zastre::R. Nigel Horspool:::Exploiting exceptions.
+journals/spe/LarusB94:::James R. Larus::Thomas Ball:::Rewriting Executable Files to Measure Program Behavior.
+journals/spe/BarakS85:::Amnon Barak::Amnon Shiloh:::A Distributed Load-balancing Policy for a Multicomputer.
+journals/spe/WeberSB96:::D. Weber::Madalene Spezialetti::H. Barada:::VidNet: Distributed Processing Environment for Computer Generated Animation.
+journals/spe/Young81:::S. J. Young:::Improving the Structure of Large Pascal Programs.
+journals/spe/CifuentesG95:::Cristina Cifuentes::K. John Gough:::Decompilation of Binary Programs.
+journals/spe/Frailey74:::Dennis J. Frailey:::A Note on Deleting Trailing Blanks.
+journals/spe/Lopriore89:::Lanfranco Lopriore:::A User Interface Specification for a Program Debuggung and Measuring Environment.
+journals/spe/CannonD94:::Scott R. Cannon::David Dunn:::Adding Fault-tolerant Transaction Processing to LINDA.
+journals/spe/GalpinR95:::V. C. Galpin::S. T. Rock:::A Lift Simulation Prototype.
+journals/spe/Peterson76:::Norman D. Peterson:::Cobol Generation of Source Programs and Reports.
+journals/spe/Barton83:::David Barton:::Distributed Processing in a Small Office.
+journals/spe/Ellis79:::T. M. R. Ellis:::Parallel Processing in an Adaptable Application Oriented Language Processor.
+journals/spe/LecarmePT82:::Olivier Lecarme::Mireille Pellissier::Marie-Claude Thomas:::Computer-aided Production of Language Implementation Systems: A Review and Classification.
+journals/spe/BrookesWA82:::G. R. Brookes::I. R. Wilson::A. M. Addyman:::A Static Analysis of Pascal Program Structures.
+journals/spe/Sites79:::Richard L. Sites:::Resolving Ambiguous Identifiers.
+journals/spe/ThomasB72:::R. E. Thomas::J. C. Baldwin:::What Was, What Is and What Should Have Been. A Critical Evaluation of the Chilton Multi-Access System.
+journals/spe/Matos94:::Armando B. Matos:::A Matrix Model for the Flow of Control in Prolog Programs with Applications to Profiling.
+journals/spe/SantucciS93:::Giuseppe Santucci::Pier Angelo Sottile:::Query by Diagram: a Visual Environment for Querying Databases.
+journals/spe/RisingC92:::Linda Rising::Frank W. Calliss:::Problems with Determining Package Cohesion and Coupling.
+journals/spe/ChangMCH92:::Pohua P. Chang::Scott A. Mahlke::William Y. Chen::Wen-mei W. Hwu:::Profile-guided Automatic Inline Expansion for C Programs.
+journals/spe/Ammann77:::Urs Ammann:::On Code Generation in a PASCAL Compiler.
+journals/spe/SykesTS83:::Floyd Sykes::Raymund T. Tillman::Ben Shneiderman:::The Effect of Scope Delimiters on Program Comprehension.
+journals/spe/AmmarR93:::Reda A. Ammar::Carolyn Pe Rosiene:::Visualizing a Hierarchy of Performance Models for Software Systems.
+journals/spe/BernsteinK77:::N. Bernstein::B. Knobe:::A Non-general-purpose Operating System.
+journals/spe/SuzukiT01:::Tetsuya Suzuki::Takehiro Tokuda:::The DeltaUp constraint solver: minimizing the number of method selections in DeltaBlue.
+journals/spe/Koopman87:::Pieter W. M. Koopman:::Interactive Programs in a Functional Language: A Functional Implementation of an Editor.
+journals/spe/LoiaQ99:::Vincenzo Loia::Michel Quaggetto:::Embed Finite Domain Constraint Programming into Java and some Web-based Applications.
+journals/spe/Bengtson89:::Neal M. Bengtson:::Microcomputers vs. Mainframe Simulations: a Case Study.
+journals/spe/Allison89:::Lloyd Allison:::Circular Programs and Self-referential Structures.
+journals/spe/BowieL79:::William S. Bowie::J. G. Linders:::A Software Trace Facility for OS/MVT.
+journals/spe/BrinkleyP97:::James F. Brinkley::Jeffrey S. Prothero:::Slisp: A Flexible Software Toolkit for Hybrid, Embedded and Distributed Applications.
+journals/spe/YehudaiL95:::Amiram Yehudai::Fernando Libedinsky:::On Tuning Recursive Procedures
+journals/spe/RichardsonC89:::Joel E. Richardson::Michael J. Carey:::Persistence in the E Language: Issues and Implementation.
+journals/spe/RichardsonH77:::M. G. Richardson::Stephen J. Hague:::The Design and Implementation of the NAG Master Library File System.
+journals/spe/Terry86:::P. D. Terry:::A Modula-2 Kernel for Supporting Monitors.
+journals/spe/MuraliS83:::V. Murali::R. K. Shyamasundar:::A Sentence Generator for a Compiler for PT, a Pascal Subset.
+journals/spe/RamanathanS86:::Jay Ramanathan::Charley Shubra:::Template Design for File Processing Applications.
+journals/spe/Oestreicher71:::M. D. Oestreicher:::The Design of the Internal Structure of the ICL GEORGE 3 Operating System.
+journals/spe/Darmont00:::Jérôme Darmont:::DESP-C++: a discrete-event simulation package for C++.
+journals/spe/Fleck82:::Arthur C. Fleck:::Verifying Abstract Data Types with SNOBOL4.
+journals/spe/Tichy85:::Walter F. Tichy:::RCS - A System for Version Control.
+journals/spe/GirardRS74:::P. M. Girard::I. H. Rose::D. B. Scott:::Implementation of a Graphics and Test Output Retrieval System.
+journals/spe/LunnB81:::K. Lunn::Keith H. Bennett:::Message Transport on the Cambridge Ring-A Simulation study.
+journals/spe/WittenW83:::Ian H. Witten::Brian Wyvill:::On the Generation and Use of Space-filling Curves.
+journals/spe/Doolan92:::E. P. Doolan:::Experience with Fagan's Inspection Method.
+journals/spe/ErtlGKP02:::M. Anton Ertl::David Gregg::Andreas Krall::Bernd Paysan:::Vmgen - a generator of efficient virtual machine interpreters.
+journals/spe/CortesBC00:::Toni Cortes::Yolanda Becerra::Raúl Cervera:::Swap compression: resurrecting old ideas.
+journals/spe/Stroustrup83:::Bjarne Stroustrup:::Adding Classes to the C Language: An Exercise in Language Evoluation.
+journals/spe/LimHSCG95:::Ee-Peng Lim::San-Yih Hwang::Jaideep Srivastava::Dave Clements::M. Ganesh:::Myriad: Design and Implementation of a Federated Database Prototype.
+journals/spe/Fenwick01:::Peter M. Fenwick:::Fast string matching for multiple searches.
+journals/spe/KrintzGSC01:::Chandra Krintz::David Grove::Vivek Sarkar::Brad Calder:::Reducing the overhead of dynamic compilation.
+journals/spe/McCaig83:::J. M. McCaig:::FUMBLR: A Pascal Program for Initializin Memory.
+journals/spe/CunninghamZ83:::Jim Cunningham::Silvana Zappacosta-Amboldi:::Software Tools for First-Order Logic.
+journals/spe/AndrewsVM96:::Kristy Andrews::Paul Del Vigna::Mark Molloy:::Macro and File Structure Preservation in Source-to-source Translation.
+journals/spe/BosschereT96:::Koenraad De Bosschere::Paul Tarau:::Blackboard-based Extensions in Prolog.
+journals/spe/Dunlavey93:::Michael Dunlavey:::Differential Evaluation: a Cahe-based Technique for Incremental Update of Graphical Displays of Structures.
+journals/spe/Linderman98:::John P. Linderman:::Letter to the Editor.
+journals/spe/Nilsen90:::Kelvin D. Nilsen:::High-level Goal-directed Concurrent Processing in Icon.
+journals/spe/MarcottyS74:::Michael Marcotty::Henrik Schutz:::The Systems Programming Language, Malus.
+journals/spe/Beaumont78:::W. P. Beaumont:::An Implementation of Structured Multiprogramming.
+journals/spe/HillmanS77:::A. L. Hillman::D. Schofield:::EDIT-an Interactive Network Service; Design and Implementation.
+journals/spe/NedjahWE99:::Nadia Nedjah::Colin D. Walter::Stephen E. Eldridge:::Efficient Automata-Driven Pattern-Matching for Equational Programs.
+journals/spe/Failey75:::Dennis J. Failey:::DSOS-A Skeletal, Real-Time, Minicomputer Operating System.
+journals/spe/Bernstein85:::Robert L. Bernstein:::Producing Good Code for the Case Statement.
+journals/spe/MuckeT78:::F. U. Mucke::W. Trier:::Improvement of Relocatable Linkage Editor (loader) Input.
+journals/spe/Collinson82:::R. P. A. Collinson:::The Cambridge Ring and UNIX.
+journals/spe/AtkinsonCCM83:::Malcolm P. Atkinson::Kenneth Chisholm::W. Paul Cockshott::Richard Marshall:::Algorithms for a Persistent Heap.
+journals/spe/Ringland84:::Gill Ringland:::Software Engineering in a Development Group.
+journals/spe/BellCLRWWZ94:::Brigham Bell::Wayne Citrin::Clayton Lexis::John Rieman::Robert P. Weaver::Nick Wilder::Benjamin G. Zorn:::Using the Programming Walkthrough to Aid in Programming Language Design.
+journals/spe/Heuring86:::Vincent P. Heuring:::The Automatic Generation of Fast Lexical Analysers.
+journals/spe/HahnA72:::K. W. Hahn::J. G. Athey:::Diagnostic Messages.
+journals/spe/Taliaferro71:::W. M. Taliaferro:::Modularity. The Key to System Growth Potential.
+journals/spe/ButlerK87:::Gregory Butler::Matthew J. Kendall:::The Suitability for Master/Slave Concurrency of Concurrent Euclid, Ada and Modula.
+journals/spe/CarpenterC84:::B. E. Carpenter::Robert Cailliau:::Experience with Remote Procedure Calls in a Real-time Control System.
+journals/spe/AritsugiM00:::Masayoshi Aritsugi::Akifumi Makinouchi:::Multiple-type objects in an enhanced C++ persistent programming language.
+journals/spe/Jackson85:::M. I. Jackson:::Developing Ada Programs Using the Vienna Development Method (VDA).
+journals/spe/SayreG93:::Kirk Sayre::Michael A. Gray:::Backtalk: A Generalized Dynamic Communication System for DAI.
+journals/spe/Boyland01:::John Boyland:::Alias burying: Unique variables without destructive reads.
+journals/spe/Wolberg82:::John R. Wolberg:::A Costing Model for Software Conversions.
+journals/spe/CohenGR00:::William E. Cohen::Rhonda Kay Gaede::Jeremy B. Rodgers:::A demonstration of repeatable, non-intrusive measurement of program performance and compiler optimization in Linux using IN-Tune.
+journals/spe/AwadZ97a:::Maher Awad::Jürgen Ziegler:::A Practical Approach to the Design of Concurrency in Object-Oriented Systems.
+journals/spe/ChaeKB00:::Heung Seok Chae::Yong Rae Kwon::Doo-Hwan Bae:::A cohesion measure for object-oriented classes.
+journals/spe/Shrivastava79:::Santosh K. Shrivastava:::Concurrent Pascal with Backward Error Recovery: Language Features and Examples.
+journals/spe/TraceyCMM00:::Nigel Tracey::John Clark::Keith Mander::John A. McDermid:::Automated test-data generation for exception conditions.
+journals/spe/Madsen95:::Ole Lehrmann Madsen:::Open Issues in Object-Oriented Programming - A Scandinavian Perspective
+journals/spe/AbeB89:::Kris K. Abe::Daniel M. Berry:::indx and findphrases, A System for Generating Indexes for Ditroll Documents.
+journals/spe/Craddock76:::J. M. Craddock:::Designing a FORTRAN Based System for Meteorological Statistics.
+journals/spe/BriggsCS97:::Preston Briggs::Keith D. Cooper::L. Taylor Simpson:::Value Numbering.
+journals/spe/Spooner71:::C. R. Spooner:::A Software Architecture for the 70's: Part I - The General Approach.
+journals/sqj/LiH99:::J. Jenny Li::J. Robert Horgan:::cSuds-SDL: A Tool for Testing Software Architecture Specifications.
+journals/sqj/Ammar-BoudjelalLL98:::F. Ammar-Boudjelal::Jean-Yves Lafaye::G. Louis:::Evaluating, comparing and improving the quality of system structure during the specification process. Application example with SDL.
+journals/sqj/MartinsSA99:::Eliane Martins::Selma B. Sabião::Ana Maria Ambrosio:::ConData: A Tool for Automating Specification-Based Test Case Generation for Communication Systems.
+journals/sqj/ViscontiC98:::Marcello Visconti::Curtis R. Cook:::Evolution of a maturity model - critical evaluation and lessons learned.
+journals/stp/NavratB96:::Pavol Návrat::Mária Bieliková:::Knowledge-Controlled Version Selection in Software Configuration Management.
+journals/stp/ParrC98:::Gerard Parr::Kevin Curran:::Dynamic multimedia protocol stacks.
+journals/stp/HirakawaI94:::Masahito Hirakawa::Tadao Ichikawa:::Visual Language Studies - A Perspective.
+journals/stp/MargariaS96:::Tiziana Margaria::Bernhard Steffen:::Foreword.
+journals/stp/Boles93:::D. Boles:::Parallel Object-Oriented Programming with QPC++.
+journals/stp/Pomberger89:::Gustav Pomberger:::Editorial Welcome.
+journals/stp/Pomberger90:::Gustav Pomberger:::Editorial.
+journals/stp/LalisS95:::Spyros Lalis::Beverly A. Sanders:::From Persistent Objects to Object Transmission in Distributed Systems Using Oberon.
+journals/stp/Lampe98:::Jürgen Lampe:::Depot4 - A generator for dynamically extensible translators.
+journals/stp/Salomon97:::Ralf Salomon:::Improving the Preformance of Genetic Algorithms through Derandomization.
+journals/stp/Volpano95:::Dennis M. Volpano:::Type Checking Coherent Overloading.
+journals/stp/DolinskyP98:::Jens-Uwe Dolinsky::Thorsten Pawletta:::A lightweight class library for extended persistent object management in C++.
+journals/stp/MichelisG93:::Giorgio De Michelis::Maria Antonietta Grasso:::Routines and Conversations.
+journals/stp/CiampoliniLM96:::Anna Ciampolini::Evelina Lamma::Paola Mello:::An Optimized Implementation of a Dynamic Modular Logic Language.
+journals/stp/Templ91:::Josef Templ:::Design and Implementation of SPARC-Oberon.
+journals/stp/MossenbockW91a:::Hanspeter Mössenböck::Niklaus Wirth:::The Programming Language Oberon-2.
+journals/stp/Christensen93:::H. Christensen:::Synthesis of Programs from Logic Specifications Using Programming Methodology.
+journals/stp/Heuberger98:::Philipp A. Heuberger:::The minimal user interface of a simple refinement tool.
+journals/stp/Szyperski98:::Clemens A. Szyperski:::Emerging component software technologies - a strategic comparison.
+journals/stp/Braunl89:::Thomas Bräunl:::Structured SIMD Programming in Parallaxis.
+journals/stp/Fuchs92:::Norbert E. Fuchs:::Hoare Logic, Executable Specifications and Logic Programs.
+journals/stp/BoudrigaMM92:::Noureddine Boudriga::Ali Mili::Roland Mittermeir:::Semantic-Based Software Retrieval to Support Rapid Prototyping.
+journals/stp/RosselloBP89:::Celestí Rosselló::José L. Balcázar::Ricardo Pena:::Deriving Specifications of Embeddings in Recursive Program Design.
+journals/stp/Odersky89:::Martin Odersky:::MINOS: A New Approach to the Design of an Input/Output Library for Modula-2.
+journals/tit/Verdu98:::S. Verdú:::Information Theory: 1948-1998 - Guest Editorial.
+journals/tit/ChenGV97:::Feng Chen::Zheng Gao::John D. Villasenor:::Lattice vector quantization of generalized Gaussian sources.
+journals/tit/BaiKZ89:::Zhi-Dong Bai::Paruchuri R. Krishnaiah::Lin-Cheng Zhao:::On rates of convergence of efficient detection criteria in signal processing with white noise.
+journals/tit/DodunekovaDK97:::R. Dodunekova::Stefan M. Dodunekov::T. Klove:::Almost-MDS and near-MDS codes for error detection.
+journals/tit/BassalygoP97:::Leonid A. Bassalygo::Mark S. Pinsker:::On codes correcting weakly localized errors.
+journals/tit/MontiP89:::Carlo M. Monti::Gianfranco L. Pierobon:::Codes with a multiple spectral null at zero frequency.
+journals/tit/OSullivanBS98:::J. A. O'Sullivan::Richard E. Blahut::D. L. Snyder:::Information-Theoretic Image Formation.
+journals/tit/BarronRY98:::Andrew R. Barron::Jorma Rissanen::B. Yu:::The Minimum Description Length Principle in Coding and Modeling.
+journals/tit/KohdaT97:::T. Kohda::A. Tsuneda:::Statistics of chaotic binary sequences.
+journals/tit/FairWB97:::I. J. Fair::Qiang Wang::Vijay K. Bhargava:::Characteristics of guided scrambling encoders and their coded sequences.
+journals/tit/RuszinkoV97:::M. Ruszinko::Peter Vanroose:::How an Erdöos-Rényi-type search approach gives an explicit code construction of rate 1 for random access with multiplicity feedback.
+journals/tit/BergerY89a:::Toby Berger::Raymond W. Yeung:::Multiterminal source encoding with encoder breakdown.
+journals/stt/Doberkat00a:::Ernst-Erich Doberkat:::Ernst-Erich Doberkat über Mary Shaw und David Garlan: Software Architecture - Perspectives on an Emerging Discipline.
+journals/stt/Hasselbring01:::Wilhelm Hasselbring:::Bericht über die 8th European Software Engineering Conference and 9th ACM SIGSOFT Symp. on the Foundations of Software Engineering im September 2001 in Wien.
+journals/stt/BeyerH02:::Mario Beyer::Wolfgang Hesse:::Einsatz von UML zur Software-Prozeßmodellierung.
+journals/stt/Rausch01:::Andreas Rausch:::Componentware: Methodik des evolutionären Architekturentwurfs.
+journals/stt/Doberkat00:::Ernst-Erich Doberkat:::Ernst-Erich Doberkat über J. Leslie KEEDY: In Stufen zum Ziel - Zur Einführung von Bachelor- und Master-Graden an deutschen Universitäten.
+journals/stt/Ebert00:::Christof Ebert:::Improving the Validation Process for a Better Field Quality in a Product Line Architecture.
+journals/stt/GieseP01:::Holger Giese::Stephan Philippi:::FG 2.1.9: Bericht vom 8. Workshop des GI-Arbeitskreises GROOM am 13. und 14. November 2000 in Münster.
+journals/stt/Mehner00:::Katharina Mehner:::Bericht über den GI-Workshop Modellierung 2000 vom 5. - 7. April 2000 in St. Goar.
+journals/stt/GorlitzM02:::Gudrun Görlitz::Stefan Müller:::Didaktisches Design für eine Online-Programmierausbildung.
+journals/stt/Borghoff00:::Uwe M. Borghoff:::UniBw Muenchen.
+journals/stt/Jungmayr03:::Stefan Jungmayr:::Testability und Unit Testing.
+journals/stt/Giese01:::Holger Giese:::Bericht über die Modellierung 2001 vom 28. - 30. März 2001 in Bad Lippspringe.
+journals/stt/SauerH01:::Stefan Sauer::Reiko Heckel:::Bericht über die ETAPS 2001 vom 02. - 06. April 2001 in Genua.
+journals/stt/Grein00a:::Christoph Grein:::Ada Magica.
+journals/stt/Spillner02:::Andreas Spillner:::FG 2.1.7: Ankündigung des 19. FG-Treffens am 20. und 21. Februar 2003 und weitere Hinweise.
+journals/stt/ConradS02:::Mirko Conrad::Sadegh Sadeghipour:::Einsatz von Überdeckungskriterien auf Modellebene - Erfahrungsbericht und experimentelle Ergebnisse.
+journals/tjs/Vigo-AguiarQ01:::Jesús Vigo-Aguiar::Luis M. Quintales:::A Parallel ODE Solver Adapted to Oscillatory Problems.
+journals/tjs/Tsaoussidis01:::Vassilios Tsaoussidis:::Editorial Comments.
+journals/tjs/ChungKRCJC01:::Sang-Hwa Chung::Hyuk-Chul Kwon::Kwang Ryel Ryu::Yoojin Chung::Hankook Jang::Cham-Ah Choi:::Information Retrieval on an SCI-Based PC Cluster.
+journals/tjs/ChungC02:::Soon Myoung Chung::Arindam Chatterjee:::An Adaptive Parallel Distributive Join Algorithm on a Cluster of Workstations.
+journals/tjs/SusantoM01:::Kong Woei Susanto::Thomas F. Melham:::Formally Analyzed Dynamic Synthesis of Hardware.
+journals/tjs/Bhalla01:::Subhash Bhalla:::The Performance of an Efficient Distributed Synchronization and Recovery Algorithm.
+journals/tjs/RodionovCY02:::Alexey S. Rodionov::Hyunseung Choo::Hee Yong Youn:::Process Simulation Using Randomized Markov Chain and Truncated Marginal Distribution.
+journals/tjs/ChangCL01:::Rong-Guey Chang::Tyng-Ruey Chuang::Jenq Kuen Lee:::Parallel Sparse Supports for Array Intrinsic Functions of Fortran 90.
+journals/tmc/LouW02:::Wei Lou::Jie Wu:::On Reducing Broadcast Redundancy in Ad Hoc Wireless Networks.
+journals/tmc/WangZA03:::Jingao Wang::Qing-An Zeng::Dharma P. Agrawal:::Performance Analysis of a Preemptive and Priority Reservation Handoff Scheme for Integrated Service-Based Wireless Mobile Networks.
+journals/tmc/HarroudAK03:::Hamid Harroud::Mohamed Ahmed::Ahmed Karmouch:::Policy-Driven Personalized Multimedia Services for Mobile Users.
+journals/tmc/CapkunBH03:::Srdjan Capkun::Levente Buttyán::Jean-Pierre Hubaux:::Self-Organized Public-Key Management for Mobile Ad Hoc Networks.
+journals/tmc/BergerBBLLOPS03:::Michael Berger::Makram Bouzid::Mark Buckland::Habin Lee::Nicolas Lhuillier::Dieter Olpp::Jérôme Picault::John W. Shepherdson:::An Approach to Agent-Based Service Composition and Its Application to Mobile Business Processes.
+journals/tmc/ZhaoSM03:::Dongmei Zhao::Xuemin Shen::Jon W. Mark:::Radio Resource Management for Cellular CDMA Systems Supporting Heterogeneous Services.
+journals/tmm/StauderMO99:::Jürgen Stauder::Roland Mech::Jörn Ostermann:::Detection of Moving Cast Shadows for Object Segmentation.
+journals/tmm/ChenSAA99:::Jyh-Chen Chen::Krishna M. Sivalingam::Prathima Agrawal::Raj Acharya:::Scheduling Multimedia Services in a Low-Power MAC for Wireless and Mobile ATM Networks.
+journals/tmm/ScheirerVH99:::Eric D. Scheirer::Riitta Väänänen::Jyri Huopaniemi:::AudioBIFS: Describing Audio Scences with MPEG-4 Multimedia Standard.
+journals/tmm/SevettoN01:::Sergio D. Servetto::Klara Nahrstedt:::Broadcast quality video over IP.
+journals/tmm/Smith99:::John R. Smith:::VideoZoom Spatio-Temporal Video Browser.
+journals/tmm/ChouMWM01:::Philip A. Chou::Alexander E. Mohr::Albert Wang::Sanjeev Mehrotra:::Error control for receiver-driven layered multicast of audio and video.
+journals/tmm/LombaedoSM01:::A. Lombaedo::Giovanni Schembra::Giacomo Morabito:::Traffic specifications for the transmission of stored MPEG video on the Internet.
+journals/tog/RodhamO94:::Kenneth J. Rodham::Dan R. Olsen:::Smart telepointers: maintaining telepointer consistency in the presence of user interface customization.
+journals/tog/Rappoport91:::Ari Rappoport:::Rendering Curves and Surfaces with Hybrid Subdivision and Forward Differencing.
+journals/tog/GuGH02:::Xianfeng Gu::Steven J. Gortler::Hugues Hoppe:::Geometry images.
+journals/tog/ParkR97:::F. C. Park::Bahram Ravani:::Smooth Invariant Interpolation of Rotations.

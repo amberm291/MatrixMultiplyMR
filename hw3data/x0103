@@ -1,0 +1,200 @@
+conf/gecco/AngelovZWHB03:::Plamen P. Angelov::Y. Zhang::Jonathan A. Wright::V. I. Hanby::R. A. Buswell:::Automatic Design Synthesis and Optimization of Component-Based Systems by Evolutionary Algorithms.
+conf/gecco/KarrWM03:::Charles L. Karr::Eric L. Wilson::Sherri L. Messimer:::Genetic Algorithm Optimization of a Filament Winding Process.
+conf/gecco/BhattacharyyaT00:::Siddhartha Bhattacharyya::Marvin D. Troutt:::Crossover in Probability Spaces.
+conf/gecco/ChanNR99:::Zeke S. H. Chan::H. W. Ngan::A. B. Rad:::Minimum-Allele-Reserve-Keeper (MARK): A Fast and Effective Mutation Scheme for Genetic Algorithm (GA).
+conf/gecco/Gronroos99:::Marko Gronroos:::A Comparison of Some Methods for Evolving Neural Networks.
+conf/fosad/SyversonC00:::Paul F. Syverson::Iliano Cervesato:::The Logic of Authentication Protocols.
+conf/fosad/Ryan00:::Peter Y. A. Ryan:::Mathematical Models of Computer Security.
+conf/fosad/Guttman00:::Joshua D. Guttman:::Security Goals: Packet Trajectories and Strand Spaces.
+conf/forte/GrozR97:::Roland Groz::Nathalie Risser:::Eight Years of Experience in Test Generation from FDTs using TVEDA.
+conf/forte/Wu94:::Deh-Min Wu:::Semantic-oriented description techniques for network management information modelling.
+conf/forte/UralW93:::Hasan Ural::Alan Williams:::Test Generation by Exposing Control and Data Dependencies Within System Specifications in SDL.
+conf/forte/Beeck00:::Michael von der Beeck:::A Concise Compositionalj Statecharts Semantics Definition.
+conf/forte/Lai95:::Luming Lai:::A Unified Model for CSP-like Languages with Specifications.
+conf/forte/LaroussinieL98:::François Laroussinie::Kim Guldstrand Larsen:::CMC: A Tool for Compositional Model-Checking of Real-Time Systems.
+conf/forte/WangS02:::Farn Wang::Karsten Schmidt:::Symmetric Symbolic Safety-Analysis of Concurrent Software with Pointer Data Structures.
+conf/forte/FernandezVV91:::D. Fernández::Enrique Vázquez::Juan Vinyes:::Io: An Estelle Simulator for Performance Evaluation.
+conf/forte/Leon90:::Gonzalo León:::On the Technology Transfer of Formal Methods: An Experience on LOTOS.
+conf/forte/Ultes-NitscheJ01:::Ulrich Ultes-Nitsche::Simon St. James:::Testing Liveness Properties: Approximating Liveness Properties by Safety Properties.
+conf/forte/EckerleL98:::Jürgen Eckerle::Thomas Lais:::Limits and possibilities of sequential hashing with supertrace.
+conf/forte/Frutos-EscrigLN99:::David de Frutos-Escrig::Natalia López::Manuel Núñez:::Global Timed Bisimulation: An Introduction.
+conf/forte/EspinosaRP90:::J. M. Martin Espinosa::J. M. Robles Roman::L. Fuertes Prieto:::Concurrent Modelling in LOTOS as a Solution to Real Time Problems.
+conf/forte/QueirozSCN90:::J. Queiroz::Ahmed Serhrouchni::P. Cunha::Elie Najm:::PIL: A Tool for Pre-implementation of LOTOS.
+conf/forte/Rusu01:::Vlad Rusu:::Verifying a Sliding Window Protocol using PVS.
+conf/forte/KristensenM02:::Lars Michael Kristensen::Thomas Mailund:::A Compositional Sweep-Line State Space Exploration Method.
+conf/forte/BorealeNP00:::Michele Boreale::Rocco De Nicola::Rosario Pugliese:::Process Algebraic Analysis of Cryptographic Protocols.
+conf/forte/FischerS97:::Clemens Fischer::Graeme Smith:::Combining CSP and Object-Z: Finite or Infinite Trace Semantics?
+conf/forte/Mitschele-ThielLH96:::Andreas Mitschele-Thiel::Peter Langendörfer::Ralf Henke:::Design and Optimization of High-Performance Protocols with the DO-IT Toolbox.
+conf/forte/Garavel89:::Hubert Garavel:::Compilation of LOTOS Abstract Data Types.
+conf/forte/Saqui-SannesC89:::Pierre de Saqui-Sannes::Jean-Pierre Courtiat:::From the Simulation to the Verification of Estelle Specifications.
+conf/forte/SalahDL01:::A. Salah::Rachida Dssouli::G. Lapalme:::Compiling Real-Time Scenarios into a Timed Automaton.
+conf/forte/YiPD94:::Wang Yi::Paul Pettersson::Mats Daniels:::Automatic verification of real-time communicating systems by constraint-solving.
+conf/forte/TwarokLK01:::S. Twarok::Peter Langendörfer::Hartmut König:::Automated Derivation of ILP Implementations from SDL Specifications.
+conf/forte/MiguelFV92:::Carlos Miguel::Angel Fernández::Leon Vidaller:::Extending LOTOS towards performance evaluation.
+conf/forte/Phalippou94:::Marc Phalippou:::Test sequence generation using Estelle or SDL structure information.
+conf/forte/MoriTTHH01:::T. Mori::K. Tokuda::H. Tada::Masahiro Higuchi::Teruo Higashino:::A Method to Generate Conformance Test Sequences for FSM with Timer System Call.
+conf/forte/GagnonGZ95:::Francois Gagnon::Jean-Charles Gregoire::D. Zampuniéris:::Sharing Trees for "on-the-fly" Verification.
+conf/forte/TrossenCK99:::Dirk Trossen::Christian Cseh::Roman Kogan:::Framework for Automatic SDL to C++ Translation.
+conf/forte/CarrascoG92:::F. J. Carrasco::J. J. Gil:::A method for specifying and validating communication protocols in LOTOS.
+conf/forte/ArakawaPRS92:::Noriyasu Arakawa::Marc Phalippou::Nathalie Risser::Terunao Soneoka:::Combination of conformance and interoperability testing.
+conf/forte/Delzanno00:::Giorgio Delzanno:::Verification of Consistency Protocols via Infinite-Stae Symbolic Model Checking.
+conf/forte/KristoffersenVZ92:::Finn Kristoffersen::Louis Verhaard::Michael Zeeberg:::Test derivation for SDL based on ACTs.
+conf/forte/VorosTVABBMA98:::Nikos S. Voros::S. Tsasakou::C. Valderrama::S. Arab::Alexios N. Birbas::Michael K. Birbas::Evaggelinos P. Mariatos::A. Andritsou:::Hardware - Software Co-design of embedded telecommunication systems using multiple formalisms for application development.
+conf/forte/LampsonLS93:::Butler W. Lampson::Nancy A. Lynch::Jørgen F. Søgaard-Andersen:::Correctness of At-Most-Once Message Delivery Protocols.
+conf/forte/SekarLR94:::R. C. Sekar::Yow-Jian Lin::C. R. Ramakrishnan:::Modelling techniques for evolving distributed applications.
+conf/forte/VerdejoM00:::Alberto Verdejo::Narciso Martí-Oliet:::Implementing CCS in Maude.
+conf/forte/FeckoUSA98:::Mariusz A. Fecko::M. Ümit Uyar::Adarshpal S. Sethi::Paul D. Amer:::Issues in conformance testing: multiple semicontrollable interfaces.
+conf/forte/BehnkeGKSFM95:::Ulf Behnke::Michael Geipl::Gerd Kurzbach::Ralf Schröder::Nils Fischbeck::Renée Mundstock:::Development of Broadband ISDN Telecommunication Services Using SDL'92, ASN.1 and Automatic Code Generation.
+conf/forte/EijkS91:::Peter van Eijk::J. Schot:::An Exercise in Protocol Synthesis.
+conf/forte/NunezF95:::Manuel Núñez::David de Frutos-Escrig:::Testing Semantics for Probabilistic LOTOS.
+conf/forte/NunezR01:::Manuel Núñez::Ismael Rodríguez:::PAMR: A Process Algebra for the Management of Resources in Concurrent Systems.
+conf/forte/NunezR03:::Manuel Núñez::Ismael Rodríguez:::Towards Testing Stochastic Timed Systems.
+conf/forte/Bolognesi92:::Tommaso Bolognesi:::The electric power of LOTOS - Results of a joint academic/industrial experiment.
+conf/forte/Danthine96:::André A. S. Danthine:::The Video Dial Tone Service and the ATM Environment.
+conf/forte/KerbratA95:::Alain Kerbrat::Slim Ben Atallah:::Formal Specification of a Framework for Groupware Development.
+conf/forte/BillingtonWKP91:::Jonathan Billington::Geoff Wheeler::Brian Keck::Ken R. Parker:::Tool Demonstration: FORSEE.
+conf/forte/Bowman01:::Howard Bowman:::Time and Action Lock Freedom Properties for Timed Automata.
+conf/forte/Fidge91:::Colin J. Fidge:::Process Algebra Traces Augmented with Causal Relationships.
+conf/forte/Dembinski92:::Piotr Dembinski:::Queueing network model for Estelle.
+conf/forte/FabbriMMDW95:::Sandra Camargo Pinto Ferraz Fabbri::José Carlos Maldonado::Paulo Cesar Masiero::Márcio E. Delamaro::W. Eric Wong:::Mutation Testing Applied to Validate Specifications Based on Petri Nets.
+conf/forte/PickinJTJJG02:::Simon Pickin::Claude Jard::Yves Le Traon::Thierry Jéron::Jean-Marc Jézéquel::Alain Le Guennec:::System Test Synthesis from UML Models of Distributed Software.
+conf/forte/TaghdiriJ03:::Mana Taghdiri::Daniel Jackson:::A Lightweight Formal Analysis of a Multicast Key Management Scheme.
+conf/forte/BaetenM94:::Jos C. M. Baeten::Sjouke Mauw:::Delayed choice: an operator for joining Message Sequence Charts.
+conf/forte/ZhangS92:::Shipei Zhang::Scott A. Smolka:::Towards efficient parallelization of equivalence checking algorithms.
+conf/forte/Hogrefe90:::Dieter Hogrefe:::Conformance Testing Based on Formal Methods.
+conf/forte/ChoiYSY01:::Jin-Young Choi::Hee Yong Youn::Soonuk Seol::Chuck Yoo:::Distributed Test using Logical Clock.
+conf/forte/JagerJWW90:::Paul de Jager::Willem Jonker::Albert Wammes::Johan Wester:::An Interactive Programming Environment for LOTOS.
+conf/forte/GehrkeHRW98:::Thomas Gehrke::Michaela Huhn::Arend Rensink::Heike Wehrheim:::An Algebraic Semantics for Message Sequence Chart Documents.
+conf/forte/SatoKM89:::Fumiaki Sato::Kotaro Katsuyama::Tadanori Mizuno:::TENT: Test Sequence Generation Tool for Communication Systems.
+conf/forte/HigashinoNIT95:::Teruo Higashino::Akio Nakata::Tatsuo Itoh::Kenichi Taniguchi:::Verification of Liveness Property for Communicating FSM's with Conditional Transitions Depending on State Visiting Numbers.
+conf/forte/BolognesiL91:::Tommaso Bolognesi::Ferdinando Lucidi:::LOTOS-like Process Algebras with Urgent or Timed Interactions.
+conf/forte/Zuidweg90:::Han Zuidweg:::Synchronic Distance in Process Algebra.
+conf/forte/EngelsMR97:::André Engels::Sjouke Mauw::Michel A. Reniers:::A Hierarchy of Communication Models for Message Sequence Charts.
+conf/forte/LarrabeitiQP96:::David Larrabeiti::Juan Quemada::Santiago Pavón:::From LOTOS to Petri Nets through Iexpansion.
+conf/forum/Neuhaus90:::H. Joachim Neuhaus:::Die Architektur eines Shakespeare Hypertext- Systems.
+conf/forum/Weizsacker90:::Ernst Ulrich von Weizsäcker:::Ganzheitlicher Umweltschutz- die Herausforderung.
+conf/forum/Warnatz90:::Jürgen Warnatz:::Simulation von chemisch reaktiven Strömungen.
+conf/forum/Kohler90:::Reinhard Köhler:::Interaktive Anwendungen mit optischen Speichersystemen in den Geisteswissenschaften.
+conf/ftdcs/KimKKK95:::Tai Woo Kim::Eui Hong Kim::Joong Kwon Kim::Tai Yun Kim:::A leader election algorithm in a distributed computing system.
+conf/ftdcs/McDonald99:::Ian McDonald:::Distributed, Configurable Memory Management in an Operating System Supporting Quality of Service.
+conf/ftdcs/LizambriDW99:::Todd Lizambri::Fernando Duran::Shukri Wakid:::Priority Scheduling and Buffer Management for ATM Traffic Shaping.
+conf/ftdcs/EmmerichSF99:::Wolfgang Emmerich::Walter Schwarz::Anthony Finkelstein:::Markup Meets Middleware.
+conf/ftdcs/MahalingamTX03:::Mallik Mahalingam::Chunqiang Tang::Zhichen Xu:::Towards a Semantic, Deep Archival File System.
+conf/ftdcs/AhmadAM99:::Hafiz Farooq Ahmad::Hélène Arfaoui::Kinji Mori:::Autonomous Information Fading by Mobile Agents for Improving User's Access Time and Fault Tolerance.
+conf/ftdcs/YauY95:::S. S. Yau::Haiqing Ying:::A clustering algorithm for object-oriented development of distributed computing system software.
+conf/ftdcs/RuggaberSS99:::Rainer Ruggaber::Jochen H. Schiller::Jochen Seitz:::Using WAP as the Enabling Technology for CORBA in Mobile and Wireless Environments.
+conf/ftdcs/EckardtMP95:::Tim O. Eckardt::Thomas Magedanz::Radu Popescu-Zeletin:::Application of X.500 and X.700 Standards for supporting personal communications in distributed computing environments.
+conf/ftdcs/CruzD99:::Juan Carlos Cruz::Stephane Ducasse:::Coordinating Open Distributed Systems.
+conf/ftdcs/JangPCY97:::Ikhyeon Jang::Jaehyung Park::Jung Wan Cho::Hyunsoo Yoon:::An Efficient Causal Order Algorithm for Message Delivery in Distributed System.
+conf/ftdcs/EliassenGKPARYBCCSH99:::Frank Eliassen::Vera Goebel::Tom Kristensen::Thomas Plagemann::Anders Andersen::Hans Ole Rafaelsen::Weihai Yu::Gordon S. Blair::Fábio M. Costa::Geoff Coulson::Katia B. Saikoski::Øyvind Hansen:::Next Generation Middleware: Requirements, Architecture, and Prototypes.
+conf/ftdcs/KooRX03:::Simon G. M. Koo::Catherine Rosenberg::Dongyan Xu:::Analysis of Parallel Downloading for Large File Distribution.
+conf/ftdcs/HuangWW95:::Kuo-Chan Huang::Pei-Chi Wu::Feng-Jian Wang:::Developing High-Performance Scientific Applications in Distributed Computing Environments.
+conf/ftdcs/YauCCLR03:::Stephen S. Yau::Carl K. Chang::Randy Chow::Luca Limoncini::Michel Raynal:::Challenges of Future Distributed Computing Systems.
+conf/ftdcs/ShiratoriCS95:::Norio Shiratori::Goutam Chakraborty::Kenji Sugawara:::Flexible computing: basic concepts, design and application.
+conf/ftdcs/ChungBML03:::IlYoung Chung::Bharat K. Bhargava::Malika Mahoui::Leszek Lilien:::Autonomous Transaction Processing Using Data Dependency in Mobile Environments.
+conf/ftdcs/BaldoniB01:::Roberto Baldoni::Roberto Beraldi:::Low Cost Routing in Mobile Ad-hoc Networks: Is It Achievable?
+conf/ftdcs/LamannaSE03:::D. Davide Lamanna::James Skene::Wolfgang Emmerich:::SLAng: A Language for Defining Service Level Agreements.
+conf/ftdcs/CorradiMS99:::Antonio Corradi::Rebecca Montanari::Cesare Stefanelli:::Security Issues in Mobile Agent Technology.
+conf/ftdcs/BoudrigeG97:::N. Boudrige::S. Guemara-Elfatmi:::Extended connection models for advanced applications.
+conf/ftdcs/MontT01:::M. Mont::L. Tomasi:::A Distributed System, Adaptive to Trust Assessment, Based on Peer-to-Peer E-Records Replication and Storage.
+conf/ftdcs/SinderenP97:::Marten van Sinderen::Luís Ferreira Pires:::Protocols versus Objects: Can Models for Telecommunications and Distributed Processing Coexist?
+conf/ftdcs/ChangZJ01:::C. Chang::J. Zhang::T. Jiang:::Formalization of Computer Supported Cooperative Work Applications.
+conf/ftdcs/HefeedaB03:::Mohamed Hefeeda::Bharat K. Bhargava:::On-Demand Media Streaming Over the Internet.
+conf/ftdcs/Farias03:::Cléver Ricardo Guareis de Farias:::Using UML for Service Creation.
+conf/fuzzy/Mihaila97:::Dan Mihaila:::Genetic Algorithms with Optimal Structure Applied to Evolvable Hardware (EHW).
+conf/fuzzy/Schmidt92:::Ulrich Schmidt:::Fertigungsleittechnik mit Fuzzy-Logic.
+conf/fuzzy/Butkiewicz01:::Bohdan S. Butkiewicz:::Inference in Fuzzy Models of Physical Processes.
+conf/fuzzy/Bongards99:::Michael Bongards:::Controlling Biological Wastewater Treatment Plants Using Fuzzy Control and Neural Networks.
+conf/fuzzy/RennersGS01:::Ingo Renners::Adolf Grauel::Ernesto Saavedra:::Methodology for Optimizing Fuzzy Classifiers Based on Computational Intelligence.
+conf/fuzzy/MonsieursF01:::Patrick Monsieurs::Eddy Flerackers:::Reducing Bloat in Genetic Programming.
+conf/fuzzy/ThomasPG99:::Marc Thomas::Christian Pacha::Karl Goser:::Parameter Determination for Nano-Scale Modelling.
+conf/fuzzy/Hullermeier99:::Eyke Hüllermeier:::A Possibilistic Formalization of Case-Based Reasoning and Decision Making.
+conf/fuzzy/AlbertS97:::J. Albert::J. Schoof:::Interactive Genetic Algorithms and Evolution Based Cooperative Problem-Solving.
+conf/fuzzy/AgapieC97:::Alexandru Agapie::Doina Caragea:::Genetic Algorithms, Schemata Construction and Statistics.
+conf/fuzzy/SchreiberH94:::Henrik Schreiber::Steffen Heine:::Einsatz von Neuro-Fuzzy-Technologien für die Prognose des Elektroengergieverbrauches an "besonderen" Tagen.
+conf/fuzzy/Baczynski99:::Michal Baczynski:::Characterization of Dienes Implication.
+conf/fuzzy/Georgieva97:::O. Georgieva:::Fuzzy Control Design of an Activated Sludge Plant.
+conf/fuzzy/CockK01:::Martine De Cock::Etienne E. Kerre:::Fuzzy Topologies Induced by Fuzzy Relation Based Modifiers.
+conf/fuzzy/Stieger92:::Klaus Stieger:::Der Einsatz von Fuzzy-Prozessoren zur Klassifizierung und Analyse mechanischer Systeme.
+conf/fuzzy/CiucaW97:::Ion Ciuca::J. Andrew Ware:::Layered Neural Networks as Universal Approximators.
+conf/fuzzy/JukarainenKV94:::Tarmo Jukarainen::Esko Kärpänoja::Petri Vuorimaa:::Gas Recognition Using Fuzzy Self-Organizing Map.
+conf/fuzzy/Benmakrouha97:::Farida Benmakrouha:::Construction of a Fuzzy Model with Few Examples.
+conf/fuzzy/HalinkaSW99a:::Adrian Halinka::Michal Szewczyk::B. Witek:::Intelligent, ANN-Based Identification System of Complex Generating Sets Operating Mode.
+conf/fuzzy/Zadeh92:::Lotfi A. Zadeh:::The Calculus of Fuzzy If/Then Rules.
+conf/fuzzy/Pelaez01:::J. I. Peláez:::AMA: An OWA Operator Based on the Majority Process.
+conf/fuzzy/HeiderTM94:::Henning Heider::Viktor Tryba::Eike Mühlenfeld:::Automatische Generierung von Fuzzy-Systemen mit Genetischen Algorithmen.
+conf/fuzzy/NolleAHW99:::Lars Nolle::Adrun Armstrong::Adrian A. Hopgood::J. Andrew Ware:::Optimum Work Roll Profile Selection in the Hot Rolling of Wide Steel Strip Using Computational Intelligence.
+conf/fuzzy/OrhanAK01:::Ahmet Orhan::Erhan Akin::Mehmet Karakose:::DSP Implementation of Fuzzy Controlled Magnetic Levitation System.
+conf/fuzzy/AizenbergMSR01:::Igor N. Aizenberg::Ekaterina Myasnikova::Maria Samsonova::John Reinitz:::Application of the Neural Networks Based on Multi-valued Neurons to Classification of the Images of Gene Expression Patterns.
+conf/fuzzy/SchmiedleGDB01:::Frank Schmiedle::Daniel Große::Rolf Drechsler::Bernd Becker:::Too Much Knowledge Hurts: Acceleration of Genetic Programs for Learning Heuristics.
+conf/fuzzy/Knappe92:::H. Knappe:::Regeln mit "Fuzzy-Expertensystemen".
+conf/fuzzy/SeifipourM01:::Navid Seifipour::Mohammad Bagher Menhaj:::A GA-Based Algorithm with a Very Fast Rate of Convergence.
+conf/fuzzy/KinzelKK94:::Jens Kinzel::Frank Klawonn::Rudolf Kruse:::Anpassung Genetischer Algorithmen zum Erlernen und Optimieren von Fuzzy-Reglern.
+conf/fuzzy/Nakov01:::Preslav Nakov:::Latent Semantic Analysis for German Literature Investigation.
+conf/fuzzy/Hoffmann92:::Michael Hoffmann:::Entwurf, Simulation und Implementierung von Fuzzy-Logic in einer integrierten Entwicklungsumgebung.
+conf/fuzzy/PykaczDZ01:::Jaroslaw Pykacz::Bart D'Hooghe::Roman R. Zapatrin:::Quantum Computers as Fuzzy Computers.
+conf/fuzzy/HollsteinHKG94:::Thomas Hollstein::Saman K. Halgamuge::Andreas Kirschbaum::Manfred Glesner:::Rapid-Prototyping von anwendungsspezifischen Fuzzy Controllern mit Field Programmable Gate Arrays.
+conf/fuzzy/VarshavskyM01:::Victor Varshavsky::Vyacheslav Marakhovsky:::A Neuron-MOS Threshold Element with Switching Capacitors.
+conf/fuzzy/SaavedraRGCR01:::Ernesto Saavedra::Ingo Renners::Adolf Grauel::Harold J. Convey::A. Razak:::Gaussians-Based Hybrid System for Prediction and Classification.
+conf/fuzzy/KolarK01:::Radim Kolár::Jirí Kozumplík:::Fuzzy Approach in Ultrasound Image Segmentation.
+conf/fuzzy/TemmeT97:::Karl-Heinz Temme::Helmut Thiele:::On the Chaining of Fuzzy IF-THEN Rule Bases Interpreted by the Principle FATI-II. The Case of Non-singleton Inputs.
+conf/fuzzy/Martyna97:::Jerzy Martyna:::Application of Genetic Agorithms to Computer Assignment Problem in Distributed Hard Real-Time Systems.
+conf/fuzzy/WasiewiczM97:::Piotr Wasiewicz::Jan J. Mulawka:::Genetic Programming in Optimization of Algorithms.
+conf/fuzzy/Habtom99:::Ressom Habtom:::Modeling a Refrigeration System Using Recurrent Neural Networks.
+conf/fuzzy/FukudaS97:::Toshio Fukuda::Koji Shimojima:::Adaptation, Learning and Evolutionary Computing for Intelligent Robots.
+conf/group/BusherHTRO99:::Monika Büsher::John A. Hughes::Jonathan Trevor::Tom Rodden::Jon O'Brien:::Supporting cooperation across shared virtual environments.
+conf/group/KreifeltsP93:::Thomas Kreifelts::Wolfgang Prinz:::ASCW: an assistant for cooperative work.
+conf/group/Bertino91:::Elisa Bertino:::Method precomputation in object-oriented databases.
+conf/group/RosemanG93:::Mark Roseman::Saul Greenberg:::Building flexible groupware through open protocols.
+conf/group/HoT01:::Jinwon Ho::Rong Tang:::Towards an optimal resolution to information overload: an infomediary approach.
+conf/group/Kock97:::Ned Kock:::Fostering interdepartmental knowledge communication through groupware: a process improvement perspective.
+conf/group/DivitiniSPS93:::Monica Divitini::Giuseppe Omodei Salè::Alberto Pozzoli::Carla Simone:::Supporting the dynamics of knowledge sharing within organizations.
+conf/group/LukR93:::Wai-Lan Luk::V. Srinivasan Rao:::Multi-user interfacefor group ranking: user-centered analysis.
+conf/group/Neal97:::Lisa Neal:::Collaborative technologies (tutorial).
+conf/group/Hassas91:::Salima Hassas:::GMAL: a reflective language for distributed AI.
+conf/group/Leiva-LobosMC97:::Edmundo P. Leiva-Lobos::Giorgio De Michelis::Eliana Covarrubias:::Augmenting and multiplying spaces for creative design.
+conf/group/MalcolmG91:::Nicholas Malcolm::Brian R. Gaines:::A minimalist approach to the development of a word processor supporting group writing activities.
+conf/group/Wulf99:::Volker Wulf:::"Let's see your search-tool!" - collaborative use of tailored artifacts in groupware.
+conf/group/GrassoKR99:::Antonietta Grasso::Michael Koch::Alessandro Rancati:::Augmenting recommender systems by embedding interfaces into practices.
+conf/group/JazzarS95:::Abdulaziz Jazzar::Walt Scacchi:::Understanding the requirements for information system documentation: an empirical investigation.
+conf/group/HarperPRR01:::Richard Harper::Rob Procter::Dave Randall::Mark Rouncefield:::'Safety in numbers': calculation and document re-use in knowledge work.
+conf/group/MahlingBILSR97:::Dirk Mahling::James Bair::William Ives::Nan Lower::David Smith::Rudy Ruggles:::The role for technology in knowledge management (panel).
+conf/group/TarumiKIYA97:::Hiroyuki Tarumi::Koji Kida::Yoshihide Ishiguro::Kenji Yoshifu::Takayoshi Asakura:::WorkWeb system - multi-workflow management with a multi-agent system.
+conf/group/Ellis97:::Clarence A. Ellis:::Team automata for groupware systems.
+conf/group/PetersSJJ95:::Peter Peters::Peter Szczurko::Matthias Jarke::Manfred A. Jeusfeld:::Business process oriented information management: conceptual models at work.
+conf/group/BlythinHKRR97:::Steve Blythin::John A. Hughes::Steinar Kristoffersen::Tom Rodden::Mark Rouncefield:::Recognising "success" and "failure": evaluating groupware in a commercial context.
+conf/group/MilewskiS97:::Allen E. Milewski::Thomas M. Smith:::An experimental system for transactional messaging.
+conf/group/VossNJ99:::Angi Voß::Keiichi Nakata::Marcus Juhnke:::Concept indexing.
+conf/group/HamalainenC91:::Hekki Hämäläinen::Chris Condon:::Form and room: metaphors for groupware.
+conf/group/AgostiniMGP93:::Alessandra Agostini::Giorgio De Michelis::Maria Antonietta Grasso::Stefano Patriarca:::Reengineering a business process with an innovative workflow management system: a case study.
+conf/group/LavanaKB97:::Hemang Lavana::Amit Khetawat::Franc Brglez:::Internet-based workflows: a paradigm for dynamically reconfigurable desktop environments.
+conf/group/Neal97a:::Lisa Neal:::Virtual classrooms and communities.
+conf/group/HaoKG95:::Ming C. Hao::Alan H. Karp::Daniel Garfinkel:::Collaborative computing: a multi-client multi-server environment.
+conf/group/LaufmannBTB91:::Steve Laufmann::Richard Blumenthal::Laural M. Thompson::Beth Bowen:::Direct end-user access to remote information.
+conf/group/GlanceMBA01:::Natalie Glance::Jean-Luc Meunier::Pierre Bernard::Damián Arregui:::Collaborative document monitoring.
+conf/hicss/Weatherall98:::Alan Weatherall:::Creative Problem Solving Using GroupSystems .
+conf/hicss/LucciGGH95:::Stephen Lucci::Izidor Gertner::Anil Gupta::Uday Hegde:::Reflective-memory multiprocessor.
+conf/hicss/PomerolB98:::Jean-Charles Pomerol::Patrick Brézillon:::From DSSs to Cooperative Systems: Some Hard Problems Still Remain.
+conf/hicss/SalminenTL99:::Airi Salminen::Pasi Tiitinen::Virpi Lyytikäinen:::Usability Evaluation of a Structured Document Archive.
+conf/hicss/PankoH94:::Raymond R. Panko::Richard P. Halverson Jr.:::Individual and Group Spreadsheet Design: Patterns of Errors.
+conf/hicss/PankoK95:::Raymond R. Panko::Susan T. Kinney:::Working relationships: assessing the need for media to support close personal relationships at work.
+conf/hicss/AltK98:::Rainer Alt::Stefan Klein:::Learning from Failure: The Myths and Magic of Electronic Transportation Markets.
+conf/hicss/Watson01a:::Hugh J. Watson:::Organizational Systems and Technology Track - Introduction.
+conf/hicss/Ko99:::Dong-Gil Ko:::Information Requirements Analysis and Multiple Knowledge Elicitation Techniques: Experience with the Pricing Scenario System.
+conf/hicss/NelsonN03:::H. James Nelson::Kay M. Nelson:::IT: What's It Good For?
+conf/hicss/Fogelgren-PedersenAL02:::Ann Fogelgren-Pedersen::Kim Andersen::Michael Holm Larsen:::Digital Auctions: Mapping the IT-Paved Road towards Market Efficiency.
+conf/hicss/HiltzHB03:::Starr Roxanne Hiltz::Hyo-Joo Han::Vladimir Brille:::Public Attitudes towards a National Identity "Smart Card: " Privacy and Security Concerns.
+conf/hicss/MillerDD94:::R. T. Miller::Richard J. Douthart::A. Keith Dunker:::Identifying Repeated Structural Elements in Folded Proteins.
+conf/hicss/ShibataSS95:::Yoshitaka Shibata::Naoya Seta::Shogo Shimizu:::Media synchronization protocols for packet audio-video system on multimedia information networks.
+conf/hicss/MillerWH99:::Harvey J. Miller::Yi-Hwa Wu::Ming-Chih Hung:::GIS-based Dynamic Traffic Congestion Modeling to Support Time-Critical Logistics.
+conf/hicss/Springer94:::Gordon K. Springer:::A National Scientific Computing Environment for the Biological Sciences.
+conf/hicss/MillerYN02:::L. L. Miller::Xin Yu::Sree Nilakanta:::Integration of Relational Databases and Record-Based Legacy Systems for Populating Data Warehouses.
+conf/hicss/FulcherPB99:::Chris Fulcher::Tony Prato::Yan Barnett:::Economic and Environmental Impact Assessment using WAMADSS.
+conf/hicss/Chai03:::Lin Chai:::To Have or Have Not: An Examination of Feedback, Learner Control and Knowledge Type in Online Learning.
+conf/hicss/ValacichMWW94:::Joseph S. Valacich::Brian E. Mennecke::Renee M. Wachter::Bradley C. Wheeler:::Extensions to Media Richness Theory: A Test of the Task-Media Fit Hypothesis.
+conf/hicss/Watson-ManheimB02:::Mary Beth Watson-Manheim::France Belanger:::Exploring Communication-Based Work Processes in Virtual Work Environments.
+conf/hicss/BuiS01:::Tung X. Bui::Melvin F. Shakun:::Negotiation Support Systems - Minitrack Introduction.
+conf/hicss/FalkowskiV03:::Tanja Falkowski::Stefan Voß:::Application Service Providing as Part of Intelligent Decision Support for Supply Chain Management.
+conf/hicss/Broggi94:::Alberto Broggi:::Speeding-up Mathematical Morphology Computations with Special-Purpose Array Processors.
+conf/hicss/ValacichSPG02:::Joseph S. Valacich::Saonee Sarker::Jamie Pratt::Mike Groomer:::Computer-Mediated and Face-to-Face Groups: Who Makes Riskier Decisions?.
+conf/hicss/KitamuraL96:::Keiko Kitamura::John J. Leggett:::Representing Ancient Books for Human Science Research Based on a Hypermedia Model.

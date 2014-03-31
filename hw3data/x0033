@@ -1,0 +1,200 @@
+conf/rsp/MuresanWMV00:::Valentin Muresan::Xiaojun Wang::Valentina Muresan::Mircea Vladutiu:::Power-Constrained Block-Test List Scheduling.
+conf/rsp/AlmsickDDM98:::Werner van Almsick::T. Drabe::Wilfried Daehn::Christian Müller-Schloer:::An Open Simulation and Modeling Environment for Embedded Real-Time Systems.
+conf/rsp/KamdemF00:::Romain Kamdem::Alain Fonkoua:::Coprocessor Synthesis of Multirate System Using Static Scheduling Theory.
+conf/rsp/DrusinkyS03:::Doron Drusinky::Man-Tak Shing:::Verification of Timing Properties in Rapid System Prototyping.
+conf/sip/SablakB99:::Sezai Sablak::Terrance E. Boult:::Multilevel Color Histogram Representation of Color Images by Peaks for Omni-Camera.
+conf/sip/LinL99:::Ming-Tzaw Lin::Ching-Kuen Lee:::Speaker-Independent Consonant Classification and Recognition for Mandarin Syllables.
+conf/sip/SeiffertM99:::Udo Seiffert::Bernd Michaelis:::Indirect Unsuperivised Training of Backpropagation Nets.
+conf/sip/RaySWS99:::S. Ray::R. Shakya::C. Wilson::B. Srinivasan:::On Image Thresholding by Entropic and Probabilistic Distance Criteria.
+conf/sip/Lopez-ferrerasCCA99:::Francisco López-ferreras::David Osés-Del Campo::Fernando Cruz-Roldán::Pedro Amo-López:::Impact of Limit Cycles in Different Types of Wave Digital Synthesis Approach.
+conf/sip/MorseHLBM99:::Bryan S. Morse::Thomas C. Howard::Steven Larson::Michael R. Bastian::Eric N. Mortenson:::Color Quantization and Dithering Gamuts.
+conf/sip/ConnerN99:::Charles D. Conner::Nader M. Namazi:::Recursive Estimator for Systems based upon Partial Differential Equations.
+conf/sis/AlhusseinA02:::Mohammed Alhussein::Khaled Al-Ghoneim:::Real-Time Network Intrusion Detection System Based on Neural Networks.
+conf/sma/KrakerDB97:::Klaas Jan de Kraker::Maurice Dohmen::Willem F. Bronsvoort:::Maintaining Multiple Views in Feature Modeling.
+conf/sma/Hel-OrRW93:::Yaacov Hel-Or::Ari Rappoport::Michael Werman:::Relaxed parametric design with probabilistic constraints.
+conf/sma/ChoL99:::Joohyung Cho::Kunwoo Lee:::Surface fairing preserving continuity with neighboring surfaces based on wavelet transform.
+conf/sma/ChengD99:::Siu-Wing Cheng::Tamal K. Dey:::Improved constructions of Delaunay based contour surfaces.
+conf/sma/Rappoport91:::Ari Rappoport:::The n-dimensional extended convex differences tree (ECDT) for representing polyhedra.
+conf/sma/HanY91:::Chia Yung Han::Penchuan Yu:::Object model reconstruction from complex planar cross sections.
+conf/sma/MannBR01:::Stephen Mann::Sanjeev Bedi::David Roth:::The swept surface of an elliptic cylinder.
+conf/sma/KeyserCFKM02:::John Keyser::Tim Culver::Mark Foskey::Shankar Krishnan::Dinesh Manocha:::ESOLID---A System for Exact Boundary Evaluation.
+conf/sma/LeeL01:::Sang-Hun Lee::Kunwoo Lee:::Partial entity structure: a compact non-manifold boundary representation based on partial topological entities.
+conf/sma/ChungHWJWBZ99:::Jack C. H. Chung::Teng-Shang Hwang::Chien-Tai Wu::Yu Jiang::Jai-Yi Wang::Yong Bai::Hongliu Zou:::Extended variational design technology-foundation for integrated design automation.
+conf/sma/WangLB97:::Liping Wang::Ming C. Leu::Denis Blackmore:::Generating Swept Solids for NC Verification Using the SEDE Method.
+conf/sma/WestgaardN01:::Geir Westgaard::Horst Nowacki:::Construction of fair surfaces over irregular meshes.
+conf/sma/EggliBE95:::Lynn Eggli::Beat Brüderlin::Gershon Elber:::Sketching as a solid modeling tool.
+conf/sma/KriegelHFM93:::Hans-Peter Kriegel::Stephan Heep::Andreas Fahldiek::Norbert Mysliwitz:::Handling geometric objects with free form curves in spatial databases.
+conf/sma/BushS99:::Roger Bush::Carlo H. Séquin:::Synthesis of bent sheet metal parts from design features.
+conf/sma/Clark01:::Alan L. Clark:::A solid modeling services architecture for KBE applications.
+conf/sma/VaishnavR93a:::Haresh Vaishnav::Alyn P. Rockwood:::Calculating offsets of a Bezier curve.
+conf/sma/GuptaN93:::Satyandra K. Gupta::Dana S. Nau:::Generation of alternative feature-based models and precedence orderings for machining applications.
+conf/sma/YoungKP91:::Robert Young::Walid Keirouz::Jahir Pabon:::An architecture for conceptual mechanical modeling.
+conf/sma/LimCC01:::T. Lim::Jonathan R. Corney::Doug E. R. Clark:::A laminae approach to constructing geometric feature volumes.
+conf/sma/LangbeinMMM01:::Frank C. Langbein::Bruce I. Mills::A. David Marshall::Ralph R. Martin:::Finding approximate shape regularities in reverse engineered solid models bounded by simple surfaces.
+conf/sma/AttaliB02:::Dominique Attali::Jean-Daniel Boissonnat:::A linear bound on the complexity of the delaunay triangulation of points on polyhedral surfaces.
+conf/sma/LatombeW95:::Jean-Claude Latombe::Randall H. Wilson:::Assembly sequencing with toleranced parts.
+conf/sma/MarcheixP02:::David Marcheix::Guy Pierra:::A survey of the persistent naming problem.
+conf/sma/SheneJ91:::Ching-Kuang Shene::John K. Johnstone:::On the planar intersection of natural quadrics.
+conf/sma/CaumonSM03:::Guillaume Caumon::Charles H. Sword Jr.::Jean-Laurent Mallet:::Constrained modifications of non-manifold B-reps.
+conf/sma/PernotFGGL03:::Jean-Philippe Pernot::Bianca Falcidieno::Franca Giannini::Stephane Guillet::Jean-Claude Léon:::Modelling free-form surfaces using a feature-based approach.
+conf/sma/GaoHY02:::Xiao-Shan Gao::Christoph M. Hoffmann::Wei-Qiang Yang:::Solving spatial basic geometric constraint configurations with locus intersection.
+conf/sma/PataneS02:::Giuseppe Patané::Michela Spagnuolo:::Multi-resolution and slice-oriented feature extraction and segmentation of digitized data.
+conf/sma/SuzukiETH93:::Tatsuhiko Suzuki::Seiji Eguchi::Shigeki Tanimoto::Masato Honda:::Application of a surface-and-solid modeler to casting/forging die making and local restoration with a hierarchical non-manifold model.
+conf/sma/GoldmanM91:::Ronald N. Goldman::James R. Miller:::Combining algebraic rigor with geometric robustness for the detection and calculation of conic sections in the intersection of two natural quadric surfaces.
+conf/sma/FrischE02:::Norbert Frisch::Thomas Ertl:::Deformation of finite element meshes using directly manipulated free-form deformation.
+conf/sma/YamaguchiK91:::Yasushi Yamaguchi::Fumihiko Kimura:::Non-manifold topology model based on coupling entities.
+conf/sma/Jackson95:::David J. Jackson:::Boundary representation modelling with local tolerances.
+conf/sma/ShefferU01:::Alla Sheffer::Alper Üngör:::Efficient adaptive meshing of parametric models.
+conf/sma/MullinsA93:::S. H. Mullins::D. C. Anderson:::A positioning algorithm for mechanical assemblies with closed.
+conf/slp/Pietrzak97:::Pawel Pietrzak:::Type Inference for CLP(FD).
+conf/slp/GallierR85:::Jean H. Gallier::Stan Raatz:::Logic Programming and Graph Rewriting.
+conf/slp/MaherS89:::Michael J. Maher::Peter J. Stuckey:::Expanding Query Power in Constraint Logic Programming Languages.
+conf/slp/Dahl97:::Verónica Dahl:::Logic Programming for Processing Natural Language (Abstract).
+conf/slp/HidakaKTT91:::Yasuo Hidaka::Hanpei Koike::Jun'ichi Tatemura::Hidehiko Tanaka:::A Static Load Partitioning Method based on Execution Profile for Committed Choice Languages.
+conf/slp/StrooperH91:::Paul A. Strooper::Daniel Hoffman:::Prolog Testing of C Modules.
+conf/slp/HolldoblerT93:::Steffen Hölldobler::Michael Thielscher:::Actions and Specificity.
+conf/slp/Gelder86:::Allen Van Gelder:::Negation as Failure Using Tight Derivations for General Logic Programs.
+conf/slp/Malfon94:::Bernard Malfon:::Characterization of Some Semantics for Logic Programs with Negation and Applications to Program Validation.
+conf/slp/PodelskiR94:::Andreas Podelski::Peter Van Roy:::The Beauty and the Beast Algorithm: Quasi-Linear Incremental Tests of Entailment and Disentailment over Trees.
+conf/slp/Nystrom89:::Sven-Olof Nyström:::Variable-Free Execution of Concurrent Logic Languages.
+conf/slp/FilkornSTW91:::Thomas Filkorn::Richard Schmid::Erik Tidén::Peter Warkentin:::Experiences from a Large Industrial Circuit Design Application.
+conf/slp/OrosG94:::Miguel-Angel Oros::Paul Y. Gloess:::Inferring Inheritance from Datalog Programs.
+conf/slp/NakashimaN87:::Hiroshi Nakashima::Katsuto Nakajima:::Hardware Architecture of the Sequential Inference Machine: PSI-II.
+conf/slp/Bernth89:::Arendse Bernth:::Discourse Understanding in Logic.
+conf/slp/GanzingerH85:::Harald Ganzinger::Michael Hanus:::Modular Logic Programming of Compilers.
+conf/slp/CominiLM95:::Marco Comini::Giorgio Levi::Maria Chiara Meo:::Compositionality in SLD-Derivations and their Abstractions.
+conf/slp/MorenoPM93:::Lidia Moreno::Manuel Palomar::Antonio Molina:::he Incorporation of Logic Formalisms to Natural Language Through Logic Programming.
+conf/slp/Searls89:::David B. Searls:::Investigating the Linguistics of DNA with Definite Clause Grammars.
+conf/slp/PyoR89:::Changwoo Pyo::Uday S. Reddy:::Inference of Polymorphic Types for Logic Programs.
+conf/slp/Reps97:::Thomas W. Reps:::Program Analysis via Graph Reachability.
+conf/slp/Khabaza84:::Tom Khabaza:::Negation as Failure and Parallelism.
+conf/slp/Tsarchopoulos94:::Panagiotis Tsarchopoulos:::Analysis and Compilation of Constraint Solving Algorithms: A Case Study.
+conf/slp/GuptaJ90a:::Gopal Gupta::Bharat Jayaraman:::On Criteria for Or-Parallel Execution Models of Logic Programs.
+conf/slp/XuKT89:::Lu Xu::Hanpei Koike::Hidehiko Tanaka:::Distributed Garbage Collection for the Parallel Inference Engine PIE64.
+conf/slp/JonesM84:::Neil D. Jones::Alan Mycroft:::Stepwise Development of Operational and Denotational Semantics for Prolog.
+conf/slp/RodriguesL93:::Irene Pimenta Rodrigues::José Gabriel Lopes:::Temporal Reasoning for Temporal Information Retrieval From Text.
+conf/slp/AravindanB97:::Chandrabose Aravindan::Peter Baumgartner:::A Rational and Efficient Algorithm for View Deletion in Databases.
+conf/slp/Drabent87:::Wlodzimierz Drabent:::Do Logic Programs Resemble Programs in Conventional Languages?
+conf/slp/KempS91:::David B. Kemp::Peter J. Stuckey:::Semantics of Logic Programs with Aggregates.
+conf/slp/HeintzeMSY89:::Nevin Heintze::Spiro Michaylov::Peter J. Stuckey::Roland H. C. Yap:::On Meta-Programming in CLR(R).
+conf/slp/Gelernter84:::David Gelernter:::A Note on Systems Programming in Concurrent Prolog.
+conf/slp/SawamuraT85:::Hajime Sawamura::Taku Takeshima:::Recursive Unsolvability of Determinacy, Solvable Cases of Determinancy and their Applications to Prolog Optimization.
+conf/slp/Sagiv91:::Yehoshua Sagiv:::A Termination Test for Logic Programs.
+conf/slp/BekkersCRU86:::Yves Bekkers::Bernard Canet::Olivier Ridoux::Lucien Ungaro:::MALI: A Memory with a Real-time Garbage Collector for Implementing Logic Programming Languages.
+conf/slp/Hausman93:::Bogumil Hausman:::Turbo Erlang.
+conf/slp/GallagherBS95:::John P. Gallagher::Dmitri Boulanger::Hüseyin Saglam:::Practical Model-Based Static Analysis for Definite Logic Programs.
+conf/slp/Pimentel93:::Ernesto Pimentel:::L2||O2: A Concurrent Object-oriented Logic Language.
+conf/slp/TouatiD87:::Hervé J. Touati::Alvin M. Despain:::An Empirical Study of the Warren Abstract Machine.
+conf/slp/ShenH91:::Kish Shen::Manuel V. Hermenegildo:::A Simulation Study of Or- and and Independent And-parallelism.
+conf/slp/JansonH91:::Sverker Janson::Seif Haridi:::Programming Paradigms of the Andorra Kernel Language.
+conf/slp/YuanY94:::Li-Yan Yuan::Jia-Huai You:::A Simple but Effective Program Revision Method.
+conf/slp/OzawaHH90:::Toshihiro Ozawa::Akira Hosoi::Akira Hattori:::Generation Type Garbage Collection for Parallel Logic Languages.
+conf/slp/Mudambi89:::Shyam Mudambi:::Performance Analysis of Aurora on a Switch-Based Multiprocessor.
+conf/slp/Ait-KaciLN87:::Hassan Aït-Kaci::Patrick Lincoln::Roger Nasr:::Le Fun: Logic, Equations and Functions.
+conf/slp/Meyer93:::Bernd Meyer:::Logic and the Structure of Space - Towards a Visual Logic for Spatial Reasoning.
+conf/slp/FileR94:::Gilberto Filé::Francesco Ranzato:::Improving Abstract Interpretations by Systematic Lifting to the Powerset.
+conf/slp/Nakashima84:::Hideyuki Nakashima:::Knowledge representation in Prolog/KR.
+conf/slp/Andrews90:::James H. Andrews:::The Logical Structure of Sequential Prolog.
+conf/slp/DovierFP97:::Agostino Dovier::Andrea Formisano::Alberto Policriti:::On T Logic Programming.
+conf/slp/Meyden91:::Ron van der Meyden:::A Clausal Logic for Deontic Action Specification.
+conf/slp/Toman95:::David Toman:::Top-Down beats Bottom-Up for Constraint Based Extensions of Datalog.
+conf/slp/WassermanYS93:::Howard C. Wasserman::Keitaro Yukawa::Zhizhang Shen:::The Essential Inadequacy of Deductions in Logic Programming.
+conf/slp/BergerK94:::Thomas Berger::Andreas Krall:::A Progress Report on Incremental Global Compilation of Prolog.
+conf/slp/SterlingB86:::Leon Sterling::Randall D. Beer:::Incremental Flavor-Mixing of Meta-Interpreters for Expert System Construction.
+conf/slp/ChangD85:::Jung-Herng Chang::Alvin M. Despain:::Semi-Intelligent Backtracking of Prolog Based on Static Data Dependency Analysis.
+conf/tat/SteinbachK90:::Bernd Steinbach::Nico Kümmling:::Effiziente Lösung hochdimensionaler BOOLEscher Probleme mittels XBOOLE auf Transputer.
+conf/tat/ErbP89:::Michael Erb::Hubert Preißl:::Neuronale Netzwerkmodelle und ihre Implementation auf Transputernetzen.
+conf/tat/DrueHLD91:::Siegbert Drüe::Georg Hartmann::S. Lohmann::F. Drees:::Ein Transputersystem zur Untersuchung von Synchronisationsmechanismen zur Merkmalsverknüpfung in einem sich selbst organisierenden neuronalen Netzwerk.
+conf/tat/Wolf90:::Klaus Wolf:::Effizientes Broadcast auf Transputern.
+conf/tat/Lanches90:::Philipp Lanchès:::Konfigurierbare Transputernetze als CAD-Akzeleratoren.
+conf/tat/FreislebenS90:::Bernd Freisleben::Matthias Schulte:::Kombinatorische Optimierung durch einen parallelen Simulated-Annealing-Algorithmus.
+conf/tat/ArztMT91:::Ulrich Arzt::Daniela Merziger::Lothar Thiele:::Rekursive Prozeduraufrufe in VLSI-Occam.
+conf/tat/MeisSS92:::Theodor Meis::Ralf Scheurer::Wolfgang Siegel:::Bidirektionale Mehrzielmethode zur Lösung von Zweipunkt-Randwertaufgaben.
+conf/tat/FrankeL91:::Klaus Franke::Veit Lauterberg:::Ein Verfahren zur Konfiguration von Transputersystemen für Echtzeitapplikationen.
+conf/tat/ThielingFBMA89:::L. Thieling::R. Föhr::M. Beccard::A. Meisel::Walter Ameling:::UTOPIA, ein Bildverarbeitungssystem auch unter HELIOS.
+conf/tat/ThielingHMA91:::L. Thieling::P. Henn::A. Meisel::Walter Ameling:::Echtzeit-Bildverarbeitung unter HELIOS am Beispiel der Bahnverfolgung von Objekten.
+conf/tat/MeyerK92:::Jürgen W. Meyer::Volkhard Klinger:::Das Transputer-Lehrsystem.
+conf/tat/Bavendiek90:::Klaus Bavendiek:::Transputer Grafik-System VEPIGS für die Farbbild-Entwicklung und Darstellung auf Flugzeug-Cockpit Vektor-Röhren.
+conf/smi/ToblerMW02a:::Robert F. Tobler::Stefan Maierhofer::Alexander Wilkie:::A Multiresolution Mesh Generation Approach for Procedural Definition of Complex Geometry (color plates 1, 2, 3, 4, 5, and 6).
+conf/smi/Alexa99:::Marc Alexa:::Merging Polyhedral Shapes with Scattered Features.
+conf/smi/Diamond02:::Sara Diamond:::Mapping Conversations: Art and Understanding.
+conf/smi/Sherstyuk99:::Andrei Sherstyuk:::Interactive Shape Design with Convolution Surfaces.
+conf/smi/Hart99:::John C. Hart:::Computational Topology for Shape Modeling.
+conf/smi/Kim99:::Myung-Soo Kim:::Intersecting Surfaces of Special Types.
+conf/smi/RudominBC02:::Isaac Rudomín::Adriana Bojórquez::Hector Cuevas:::Statistical Generation of 3D Facial Animable Models.
+conf/smi/ChuBK99:::Lillian Chu::Brian A. Barsky::Stanley A. Klein:::Cylindrical Coordinate Representations for Modeling Surfaces of the Cornea and Contact Lenses.
+conf/smi/DurikovicM99:::Roman Durikovic::Teruaki Motooka:::Modeling Material Behavior: Molecular Dynamics Simulation and Visualization.
+conf/smi/Johnstone01:::John K. Johnstone:::A Parametric Solution to Common Tangents.
+conf/smi/WyvillH01:::Geoff Wyvill::Chris Handley:::The 'Thermodynamics' of Shape.
+conf/smi/DurandH99:::Cassiano Durand::Christoph M. Hoffmann:::Variational Constraints in 3D.
+conf/smi/ArataTTY99:::Hideki Arata::Yoshiaki Takai::Nami K. Takai::Tsuyoshi Yamamoto:::Free-form Shape Modeling by 3D Cellular Automata.
+conf/smi/ZhangY01:::Jian J. Zhang::Lihua You:::Surface Representation Using Second, Fourth and Mixed Order Partial Differential Equations.
+conf/smi/BloomenthalL99:::Jules Bloomenthal::Chek T. Lim:::Skeletal Methods of Shape Manipulation.
+conf/tdb/LeungP95:::T. Y. Cliff Leung::Hamid Pirahesh:::Querying Historical Data in IBM DB2 C/S DBMS Using Recursive SQL
+conf/tcs/KreitzW83:::Christoph Kreitz::Klaus Weihrauch:::Complexity theory on real numbers and functions.
+conf/tcs/Gati77:::G. Gati:::Aspects of unbounded parallelism.
+conf/tcs/BestM83:::Eike Best::Agathe Merceron:::Discreteness, k-density and d-continuity of occurrence nets.
+conf/tcs/Pin81:::Jean-Eric Pin:::Un analogue du théorème des variétés pour les cones et les cylindres.
+conf/tcs/Bibel77:::Wolfgang Bibel:::A syntactic connection between proof procedures and refutation prcedures.
+conf/tcs/Kott77:::Laurent Kott:::systèmes schématiques généralises.
+conf/tcs/Pansiot81:::Jean-Jacques Pansiot:::A Decidable Property of Iterated Morphisms.
+conf/tcs/Paterson77:::Mike Paterson:::New bounds on formula size.
+conf/tcs/Friede79:::Dietmar Friede:::Transition Diagrams and Strict Deterministic Grammars.
+conf/tcs/OttmannRSW79:::Thomas Ottmann::Arnold L. Rosenberg::Hans-Werner Six::Derick Wood:::Node-Visit Optimal 1-2 Brother Trees.
+conf/tcs/Priese79:::Lutz Priese:::Über eine minimale universelle Turing-Maschine.
+conf/tcs/Thomas83:::Wolfgang Thomas:::A hierarchy of sets of infinite trees.
+conf/tcs/Kuich81:::Werner Kuich:::Cycle-Free N-Algebraic Systems.
+conf/tcs/Schonhage79:::Arnold Schönhage:::Storage Modification Machines.
+conf/tcs/KlaerenS81:::Herbert Klaeren::Martin Schulz:::Computable Algebras, Word Problems and Canonical Term Algebras.
+conf/tcs/Eichner77:::Lutz Eichner:::Bemerkungen zu den Übergangshalbgruppen linear realisierbarer Automaten.
+conf/tcs/Henke77:::Friedrich W. von Henke:::Towards automation of proofs by induction.
+conf/tcs/Muller81:::Horst Müller:::Reachability Analysis with Assertion Systems.
+conf/tes/HerzogG01:::Marcus Herzog::Georg Gottlob:::InfoPipes: A Flexible Framework for M-Commerce Applications.
+conf/tes/HelalL02:::Abdelsalam Helal::Jingting Lu:::E-service Based Information Fusion: A User-Level Information Integration Framework.
+conf/spw/Gligor01:::Virgil D. Gligor:::Negotiation of Access Control Policies (Transcript of Discussion).
+conf/spw/Paulson98:::Lawrence C. Paulson:::Inductive Analysis of the Internet Protocol TLS (Position Paper).
+conf/spw/Yahalom98:::Raphael Yahalom:::Optimistic Trust with Realistic <i>e</i>Nvestigators (Position Paper).
+conf/spw/Thucydides01:::Thucydides:::The Last Word.
+conf/spw/Ryan00:::Peter Y. A. Ryan:::Open Questions (Transcript of Discussion).
+conf/spw/KhuranaG00:::Himanshu Khurana::Virgil D. Gligor:::Review and Revocation of Access Privileges Distributed with PKI Certificates.
+conf/spw/Price01a:::Geraint Price:::Thwarting Timing Attacks Using ATM Networks (Transcript of Discussion).
+conf/spw/Harbison98:::William S. Harbison:::Delegating Trust (Transcript of Discussion).
+conf/spw/Jurjens01a:::Jan Jürjens:::Encapsulating Rules of Prudent Security Engineering (Transcript of Discussion).
+conf/spw/Christianson98:::Bruce Christianson:::Delegation and Not-So Smart Card (Transcript of Discussion).
+conf/spw/Needham01:::Roger M. Needham:::Keynote Address: Mobile Computing versus Immobile Security.
+conf/spw/Needham99:::Roger M. Needham:::Keynote Address: The Changing Environment.
+conf/spw/Pedersen96:::Torben P. Pedersen:::Electronic Payments of Small Amounts.
+conf/tex/Wonneberger86:::Reinhard Wonneberger:::"Verheißung und Versprechen", A third generation approach to theological typesetting.
+conf/ssd/AngS89:::Chuan-Heng Ang::Hanan Samet:::Node Distribution in a PR Quadtree.
+conf/ssd/Ang93:::Chuan-Heng Ang:::An Optimal Quadtree Translation Algorithm.
+conf/ssd/KnorrNS97:::Edwin M. Knorr::Raymond T. Ng::David L. Shilvock:::Finding Boundary Shape Matching Relationships in Spatial Data.
+conf/ssd/SchollV89:::Michel Scholl::Agnès Voisard:::Thematic Map Modeling.
+conf/ssd/BlottV95:::Stephen Blott::Andrej Vckovski:::Accessing Geographical Metafiles through a Database Storage System.
+conf/ssd/DrogeS93:::Gisbert Dröge::Hans-Jörg Schek:::Query-Adaptive Data Space Partitioning using Variable-Size Storage Clusters.
+conf/ssd/ChomickiR97:::Jan Chomicki::Peter Z. Revesz:::Constraint-Based Interoperability of Spatiotemporal Databases.
+conf/ssd/HinzeV03:::Annika Hinze::Agnès Voisard:::Locations- and Time-Based Information Delivery in Tourism.
+conf/ssd/EsterKS97:::Martin Ester::Hans-Peter Kriegel::Jörg Sander:::Spatial Data Mining: A Database Approach.
+conf/ssd/ShekharRKCT95:::Shashi Shekhar::Sivakumar Ravada::Vipin Kumar::Douglas Chubb::Greg Turner:::Load Balancing in High Performance GIS: Declustering Polygonal Maps.
+conf/ssd/Winter95:::Stephan Winter:::Topological Relations between Regions in Raster.
+conf/ssd/BeckerGHV99:::Ludger Becker::André Giesen::Klaus Hinrichs::Jan Vahrenhold:::Algorithms for Performing Polygonal Map Overlay and Spatial Join on Massive Data Sets.
+conf/ssd/LaruePV93:::Thierry Larue::Dominique Pastre::Yann Viémont:::Strong Integration of Spatial Domains and Operators in a relational Database System.
+conf/ssd/Samet91:::Hanan Samet:::Why Does GIS Industry Ignore University Research? (Panel abstract).
+conf/ssd/Nievergelt89:::Jürg Nievergelt:::7 ± 2 Criteria for Assessing and Comparing Spatial data Structures.
+conf/ssd/ZhuSI01:::Hongjun Zhu::Jianwen Su::Oscar H. Ibarra:::On Multi-way Spatial Joins with Direction Predicates.
+conf/ssd/Ottmann91:::Thomas Ottmann:::Geometric Algorithms and their Complexity.
+conf/ssd/ShekharH01:::Shashi Shekhar::Yan Huang:::Discovering Spatial Co-location Patterns: A Summary of Results.
+conf/ssd/AggarwalWYE97:::Charu C. Aggarwal::Joel L. Wolf::Philip S. Yu::Marina Epelman:::The S-Tree: An Efficient Index for Multidimensional Objects.
+conf/ssd/TheodoridisSN99:::Yannis Theodoridis::Jefferson R. O. Silva::Mario A. Nascimento:::On the Generation of Spatiotemporal Datasets.
+conf/ssd/HuangS93:::Zhexue Huang::Per Svensson:::Neighborhood Query and Analysis with GeoSAL, a Spatial Database Language.
+conf/ssd/RodriguezEB03:::M. Andrea Rodríguez::Max J. Egenhofer::Andreas D. Blaser:::Query Pre-processing of Topological Constraints: Comparing a Composition-Based with Neighborhood-Based Approach.
+conf/ssd/ShekharFG97:::Shashi Shekhar::Andrew Fetterer::Bjajesh Goyal:::Materialization Trade-Offs in Hierarchical Shortest Path Algorithms.
+conf/ssd/WangVLP01:::Min Wang::Jeffrey Scott Vitter::Lipyeow Lim::Sriram Padmanabhan:::Wavelet-Based Cost Estimation for Spatial Queries.
+conf/ssd/BeckerGOSW93:::Bruno Becker::Stephan Gschwind::Thomas Ohler::Bernhard Seeger::Peter Widmayer:::On Optimal Multiversion Access Structures.
+conf/tic/Elsman03:::Martin Elsman:::Garbage collection safety for region-based memory management.
+conf/tic/Thiemann98:::Peter Thiemann:::Formalizing Resourve Allocation in a Compiler.
+conf/tic/ShaoT98:::Zhong Shao::Valery Trifonov:::Type-Directed Continuation Allocation.
+conf/tic/Grossman03:::Dan Grossman:::Type-safe multithreading in cyclone.
+conf/ssr/Henninger95:::Scott Henninger:::Developing Domain Knowledge Through the Reuse of Project Experiences.
+conf/ssr/PriceND01:::Margaretha W. Price::Donald M. Needham::Steven A. Demurjian:::Producing reusable object-oriented components: a domain-and-organization-specific perspective.
+conf/ssr/Wasmund95:::Michael Wasmund:::The Spin-Off Illusion: Reuse Is Not a By-Product.
+conf/ssr/DeLine99:::Robert DeLine:::A Catalog of Techniques for Resolving Packaging Mismatch.

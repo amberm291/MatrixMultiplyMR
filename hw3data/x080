@@ -1,0 +1,200 @@
+journals/bioinformatics/Dibdin89:::G. H. Dibdin:::A simple add-on algorithm to extend one-dimensional finite difference diffusion calculations to include charge coupling.
+journals/bioinformatics/Parsons95:::J. D. Parsons:::Improved tools for DNA comparison and clustering.
+journals/bioinformatics/Gefeller92:::O. Gefeller:::A simple method of avoiding the computational problems of the delta method for the end-user of statistical packages.
+journals/bioinformatics/Aires-de-SousaA03:::João Aires-de-Sousa::Luisa Aires-de-Sousa:::Representation of DNA sequences with virtual potentials and their processing by (SEQREP) Kohonen self-organizing maps.
+journals/bioinformatics/HvidstenLK03:::Torgeir R. Hvidsten::Astrid Lægreid::Henryk Jan Komorowski:::Learning Rule-based Models of Biological Process from Gene Expression Time Profiles Using Gene Ontology.
+journals/bioinformatics/KarlinMGL88:::Samuel Karlin::Macdonald Morris::G. Ghandour::M.-Y. Leung:::Algorithms for identifying local molecular sequence features.
+journals/bioinformatics/GellerGHR03:::Sue C. Geller::Jeff P. Gregg::Paul Hagerman::David M. Rocke:::Transformation and normalization of oligonucleotide microarray data.
+journals/bioinformatics/HoebekeCNB01:::Mark Hoebeke::Hélène Chiapello::Philippe Noirot::Philippe Bessières:::SPiD: a subtilis protein interaction database.
+journals/bioinformatics/Galat86:::A. Galat:::Computer-aided analysis of infrared, circular dichroism and absorption spectra.
+journals/bioinformatics/KingKCD01:::Ross D. King::Andreas Karwath::Amanda Clare::Luc Dehaspe:::The utility of different representations of protein sequence for predicting functional class.
+journals/bioinformatics/BujnickiRF02:::Janusz M. Bujnicki::Leszek Rychlewski::Daniel Fischer:::Fold-recognition detects an error in the Protein Data Bank.
+journals/bioinformatics/RifkinK02:::S. A. Rifkin::J. Kim:::Geometry of gene expression dynamics.
+journals/bioinformatics/MrazekK88:::J. Mrazek::J. Kypr:::Computer program Jamsek combining statistical and stereochemical rules for the prediction of protein secondary structure.
+journals/bioinformatics/KingSSS97:::Ross D. King::Mansoor A. S. Saqi::Roger A. Sayle::Michael J. E. Sternberg:::DSC: public domain protein secondary structure predication.
+journals/bioinformatics/KuoJBOK02:::Winston Patrick Kuo::Tor-Kristian Jenssen::Atul J. Butte::Lucila Ohno-Machado::Isaac S. Kohane:::Analysis of matched mRNA measurements from two different microarray technologies.
+journals/bioinformatics/WesselinkIJDRR02:::Jan-Jaap Wesselink::Beatriz de la Iglesia::Stephen A. James::Jo L. Dicks::Ian N. Roberts::Victor J. Rayward-Smith:::Determining a unique defining DNA sequence for yeast species using hashing techniques.
+journals/bioinformatics/JamisonMS96:::D. C. Jamison::B. Mills::B. Schatz:::An extensible network query unification system for biological databases.
+journals/bioinformatics/MacCallumKS00:::Robert M. MacCallum::Lawrence A. Kelley::Michael J. E. Sternberg:::SAWTED: Structure Assignment With Text Description-Enhanced detection of remote homologues with automated SWISS-PROT annotation comparisons.
+journals/bioinformatics/Golding94:::B. Golding:::Exploratory analysis of multiple sequence alignments using phylogenies.
+journals/bioinformatics/Henneke89:::C. M. Henneke:::A multiple sequence alignment algorithm for homologous proteins using secondary structure information and optionally keying alignments to functionally important sites.
+journals/bioinformatics/JonesTT92:::David T. Jones::William R. Taylor::Janet M. Thornton:::The rapid generation of mutation data matrices from protein sequences.
+journals/bioinformatics/ZhangJ03:::Kun Zhang::Li Jin:::HaploBlockFinder: Haplotype Block Analyses.
+journals/bioinformatics/Moore91:::C. G. Moore:::A didactic computer simulation of the environmental impact of a pollution discharge.
+journals/bioinformatics/HorimotoSTMO98:::Katsuhisa Horimoto::M. Suyama::Hiroyuki Toh::Kentaro Mori::Jinya Otsuka:::A method for comparing circular genomes from gene locations: application to mitochondrial genomes.
+journals/bioinformatics/GouyGALP85:::M. Gouy::Christian Gautier::Marcella Attimonelli::Cecilia Lanave::G. di Paola:::ACNUC--a portable retrieval system for nucleic acid sequence databases: logical and physical designs and usage.
+journals/bioinformatics/HermjakobFA99:::Henning Hermjakob::Wolfgang Fleischmann::Rolf Apweiler:::Swissknife - 'lazy parsing' of SWISS-PROT entries.
+journals/bioinformatics/ScapoliRVB93:::C. Scapoli::A. Rodriguez-Larralde::S. Volinia::I. Barrai:::Enrichment of oligonucleotide sets with transcription control signals. III: DNA from non-mammalian vertebrates.
+journals/bioinformatics/DanckaertCH91:::A. Danckaert::Colombe Chappey::Serge A. Hazout:::'Size leap' algorithm: an efficient extraction of the longest common motifs from a molecular sequence set. Application to the DNA sequence reconstruction.
+journals/bioinformatics/MilosavljevicJ93:::Aleksandar Milosavljevic::Jerzy Jurka:::Discovering simple DNA sequences by the algorithmic significance method.
+journals/bioinformatics/NavaSACTP03:::Jorge García de la Nava::Daniel Franco Santaella::Jesús Cuenca Alba::José María Carazo::Oswaldo Trelles::Alberto D. Pascual-Montano:::Engene: the processing and exploratory analysis of gene expression data.
+journals/bioinformatics/RiikonenV99:::Pentti Riikonen::Mauno Vihinen:::MUTbase: maintenance and analysis of distributed mutation databases.
+journals/bioinformatics/HuangW92:::X. Huang::Michael S. Waterman:::Dynamic programming algorithms for restriction map comparison.
+journals/bioinformatics/RodriguezAL94:::F. Rodriguez::A. Altibelli::A. Lopez:::BUILD: a program generator for modelling experimental biological data.
+journals/bioinformatics/TogawaAM01:::R. C. Togawa::J. F. Antoniw::J. G. L. Mullins:::TMCompare: transmembrane region sequence and structure.
+journals/bioinformatics/Fuchs90:::Rainer Fuchs:::Free molecular biological software available from the EMBL file server.
+journals/bioinformatics/BansalBR95:::M. Bansal::D. Bhattacharyya::B. Ravi:::NUPARM and NUCGEN: software for analysis and generation of sequence dependent nucleic acid structures.
+journals/bioinformatics/KurtzS99:::Stefan Kurtz::Chris Schleiermacher:::REPuter: fast computation of maximal repeats in complete genomes.
+journals/bioinformatics/AltimirasFAT94:::J. Altimiras::M. Feliu::A. Aissaoui::L. Tort:::Computing heart rate variability using spectral analysis techniques: HRVUAB, a ready-to-use program.
+journals/bioinformatics/Morgenstern99:::Burkhard Morgenstern:::DIALIGN 2: improvement of the segment-to-segment approach to multiple sequence alignment.
+journals/bioinformatics/EllisK99:::L. B. Ellis::D. Kalumbi:::Financing a future for public biological data.
+journals/bioinformatics/Campione-Piccardo88:::J. Campione-Piccardo:::Algorithms for determining the fate of sites and domain boundaries in computer simulations of recombinant DNA procedures.
+journals/bioinformatics/SujathaBS01:::S. Sujatha::S. Balaji::N. Srinivasan:::PALI: a database of alignments and phylogeny of homologous protein structures.
+journals/bioinformatics/Sicheritz-Ponten97:::T. Sicheritz-Ponten:::BioWish: a molecular biology command extension to Tcl/Tk.
+journals/bioinformatics/SammonsD94:::S. A. Sammons::D. P. Dykes:::OLGCG: an OPEN LOOK interface to the GCG sequence analysis package.
+journals/bioinformatics/Lengauer99:::Thomas Lengauer:::Editorial. The Seventh International Conference on Intelligent Systems for Molecular Biology (ISMB'99).
+journals/bioinformatics/JanssenEACGHKO03:::Paul Janssen::Anton J. Enright::Benjamin Audit::Ildefonso Cases::Leon Goldovsky::Nicola Harte::Victor Kunin::Christos A. Ouzounis:::COmplete GENome Tracking (COGENT): A Flexible Data Environment for Computational Genomics.
+journals/bioinformatics/IlyinPSMMS03:::Valentin A. Ilyin::Ursula Pieper::Ashley C. Stuart::Marc A. Martí-Renom::Linda McMahan::Andrej Sali:::ModView, visualization of multiple protein sequences and structures.
+journals/bioinformatics/AhmadG02:::Shandar Ahmad::M. Michael Gromiha:::NETASA: neural network based prediction of solvent accessibility.
+journals/bioinformatics/PfeifferSNMS99:::Thomas Pfeiffer::I. Sanchez-Valdenebro::J. C. Nuno::F. Montero::Stefan Schuster:::METATOOL: for studying metabolic networks.
+journals/bioinformatics/AndreVBH01:::Cécile André::Pierre Vincens::Jean-François Boisvieux::Serge A. Hazout:::MOSAIC: segmenting multiple aligned DNA sequences.
+journals/bioinformatics/McShanRS03:::D. C. McShan::S. Rao::Imran Shah:::PathMiner: predicting metabolic pathways by heuristic search.
+journals/bioinformatics/MoseykoF02:::Nick Moseyko::Lewis J. Feldman:::VIZARD: analysis of Affymetrix Arabidopsis GeneChi® data.
+journals/bioinformatics/SinghR01:::Harpreet Singh::G. P. S. Raghava:::ProPred: prediction of HLA-DR binding sites.
+journals/bioinformatics/Mallios97:::R. R. Mallios:::An iterative algorithm for converting a class II MHC binding motif into a quantitative predictive model.
+journals/bioinformatics/Gomel90:::J. Gomel:::A fast algorithm for evaluating an approximation to the information enclosed within coronas and their sectors in square matrices.
+journals/bioinformatics/Gotoh95:::Osamu Gotoh:::A weighting system and algorithm for aligning many phylogenetically related sequences.
+journals/bioinformatics/PaleyK02:::Suzanne M. Paley::Peter D. Karp:::Evaluation of computational metabolic-pathway predictions for Helicobacter pylori.
+journals/bioinformatics/SternAB03:::Michael D. Stern::Sergey V. Anisimov::Kenneth R. Boheler:::Can transcriptome size be estimated from SAGE catalogs?
+journals/bioinformatics/MonardoBGL94:::P. J. Monardo::T. Boutell::J. I. Garrels::G. I. Latter:::A distributed system for two-dimensional gel analysis.
+journals/bioinformatics/ChaoHM93:::Kun-Mao Chao::Ross C. Hardison::Webb Miller:::Locating well-conserved regions within a pairwise alignment.
+journals/bioinformatics/ChalkS02:::Alistair M. Chalk::Erik L. L. Sonnhammer:::Computational antisense oligo prediction with a neural network model.
+journals/bioinformatics/HaderT87:::D. P. Hader::M. Truss:::High resolution scanning of absorbing and fluorescent electrophoresis gels using video image analysis.
+journals/bioinformatics/PosadaW03:::David Posada::Carsten Wiuf:::Simulating haplotype blocks in the human genome.
+journals/bioinformatics/PanekV97:::J. Panek::Jiri Vohradsky:::Object-oriented developmental environment for image-analysis applications: implementation for 2D gel electrophoretogram analysis.
+journals/bioinformatics/NedelmanHL92:::J. Nedelman::P. Heagerty::C. Lawrence:::Quantitative PCR with internal controls.
+journals/bioinformatics/ReczkoHMZS95:::Martin Reczko::Artemis G. Hatzigeorgiou::Niels Mache::Andreas Zell::Sándor Suhai:::A parallel neural network simulator on the connection machine CM-5.
+journals/envsoft/SozziRG01:::Roberto Sozzi::Federica Rossi::Teodoro Georgiadis:::Parameter estimation of surface layer turbulence from wind speed vertical profile.
+journals/envsoft/HeLM02:::H. S. He::D. R. Larsen::D. J. Mladenoff:::Exploring component-based approaches in forest landscape modeling.
+journals/envsoft/HuP01:::Xiandeng Hu::John Pigram:::Computer-aided design of effluent irrigation.
+journals/envsoft/LiL02:::Fuqin Li::T. J. Lyons:::Remote estimation of regional evapotranspiration.
+journals/envsoft/LamS01:::David Lam::David A. Swayne:::Issues of EIS software design: some lessons learned in the past decade.
+journals/envsoft/LiuD03:::Ling Liu::Shuming Du:::A computationally efficient particle-puff model for concentration variance from steady releases.
+journals/envsoft/InkalaM02:::Arto Inkala::Kai Myrberg:::Comparison of hydrodynamical models of the Gulf of Finland in 1995: a case study.
+journals/envsoft/Harris02:::G. Harris:::Integrated assessment and modelling: an essential way of doing science.
+journals/envsoft/MineterJD03:::Michael J. Mineter::C. H. Jarvis::Steve Dowers:::From stand-alone programs towards grid-aware services and components: a case study in agricultural modelling with interpolated climate data.
+journals/envsoft/LopesCV02:::A. M. G. Lopes::M. G. Cruz::D. X. Viegas:::FireStation - an integrated software system for the numerical simulation of fire spread on complex topography.
+journals/envsoft/Tunick03:::Arnold Tunick:::CN2 model to calculate the micrometeorological influences on the refractive index structure parameter.
+journals/envsoft/SarkarH03:::Ujjaini Sarkar::Stephen E. Hobbs:::Landfill odour: assessment of emissions by the flux footprint method.
+journals/envsoft/OglethorpeHHS00:::David Oglethorpe::N. Hanley::S. Hussain::R. Sanderson:::Modelling the transfer of the socio-economic benefits of environmental management.
+journals/envsoft/Denzer01:::Ralf Denzer:::Integrating heterogeneous systems using meta information networks.
+journals/envsoft/Ragab02:::R. Ragab:::A holistic generic integrated approach for irrigation, crop and field management: the SALTMED model.
+journals/envsoft/PetonDPMV00:::N. Peton::G. Dray::D. Pearson::M. Mesbah::B. Vuillot:::Modelling and analysis of ozone episodes.
+journals/envsoft/Feidas03:::H. Feidas:::A software tool for monitoring the features of convective cloud systems with the use of Meteosat images.
+journals/envsoft/LiBMS99:::L. Li::D. A. Barry::J. Morris::F. Stagnitti:::CXTANNEAL: an improved program for estimating solute transport parameters.
+journals/envsoft/ReedCR99:::Michael Reed::Susan M. Cuddy::Andrea E. Rizzoli:::A framework for modelling multiple resource management issues - an open modelling approach.
+journals/envsoft/ClinchHK01:::J. Peter Clinch::John D. Healy::Ciarán King:::Modelling improvements in domestic energy efficiency.
+journals/envsoft/ThomasRUGYH01:::Callum Thomas::David Raper::Paul Upham::David Gillingwater::Yingjie Yang::Chris Hinde:::A strategic decision support tool for indicating airport sustainability.
+journals/envsoft/Florinsky00:::Igor v. Florinsky:::Relationships between topographically expressed zones of flow accumulation and sites of fault intersection: analysis by means of digital terrain modelling.
+journals/envsoft/OzaPNK01:::R. B. Oza::N. S. Panchal::K. S. V. Nambi::T. M. Krishnamoorthy:::Coupling of mesoscale meteorological model with particle trajectory model to study the atmospheric dispersion under sea breeze conditions.
+journals/envsoft/GotoM01:::Ujo Goto::C. R. McKenzie:::An event study of environmentally conscious shareholders in the Japanese power industry.
+journals/envsoft/TuletCR00:::P. Tulet::V. Crassier::R. Rosset:::Air pollution modelling at a regional scale.
+journals/aiedam/Rosenman00:::Mike Rosenman:::Case-based evolutionary design.
+journals/aiedam/BorgYJ00:::Jonathan C. Borg::Xiu-Tian Yan::Neal P. Juster:::Exploring decisions' influence on life-cycle performance to aid "design for Multi-X".
+journals/bapmam/Mackowiak73:::T. Mackowiak:::Open Mappings and Smoothness of Continua.
+journals/bapmam/Charzynski73:::Z. K. Charzynski:::Remark on the Pseudogroupps of Golab in the Topological Theory of Atlases.
+journals/bapmam/Pelezar73b:::A. Pelezar:::Stability Questions in Generalized Processes and in Pseudo-dynamical Systems.
+journals/annals/Reitwiesner97:::George W. Reitwiesner:::The First Operating System for the EDVAC.
+journals/annals/Johnson98:::Luanne (James) Johnson:::A View From the 1960s: How the Software Industry Began.
+journals/annals/Campbell-Kelly01:::Martin Campbell-Kelly:::The Charles Babbage Institute Reprint Series for the History of Computing.
+journals/annals/Hall00:::Eldon C. Hall:::From the Farm to Pioneering with Digital Control Computers: An Autobiography.
+journals/annals/Lee99:::John A. N. Lee:::Biographies.
+journals/annals/HuskeyTAY97:::Harry D. Huskey::R. Thorensen::B. F. Ambrosio::E. C. Yowell:::The SWAC Design Features and Operating Experience.
+journals/annals/Rojas03a:::Raúl Rojas:::Reviews.
+journals/annals/Bergin00:::Tim Bergin:::About This Issue.
+journals/annals/Ensmenger01:::Nathan L. Ensmenger:::The 'Question of Professionalism' in the Computer Fields.
+journals/annals/Usselman96:::Steven W. Usselman:::Fostering a Capacity for Compromise: Business, Government, and the Stages of Innovation in American Computing.
+journals/annals/Owens96:::Larry Owens:::Where Are We Going, Phil Morse? Changing Agendas and the Rhetoric of Obviousness in the Transformation of Computing at MIT, 1939-1957.
+journals/annals/StierhoffD98:::George C. Stierhoff::Alfred G. Davis:::A History of the IBM Systems Journal.
+journals/annals/FitzpatrickC01a:::Anne Fitzpatrick::Mary Croarken:::Events and Sightings.
+journals/annals/Kidwell00b:::Peggy Aldrich Kidwell:::Reviews.
+journals/annals/Kidwell00d:::Peggy Aldrich Kidwell:::Reviews.
+journals/annals/Tomayko00:::James E. Tomayko:::Anecdotes.
+journals/annals/BregzisGM02:::Ritvars Bregzis::C. C. Gotlieb::Carole Moore:::The Beginning of Automation in the University of Toronto Library, 1963-1972.
+journals/annals/Fitzpatrick02:::Anne Fitzpatrick:::Anecdotes.
+journals/annals/Speiser98:::Ambros P. Speiser:::IBM Research Laboratory Zurich: The Early Years.
+journals/annals/Rojas97:::Raúl Rojas:::Konrad Zuse's Legacy: The Architecture of the Z1 and Z3.
+journals/annals/Wright98:::Tom Wright:::History and Technology of Computer Fonts.
+journals/annals/Aspray01:::William Aspray:::Adelle and Erwin Tomash: Honoring a Couple's Contributions to Computer History.
+journals/annals/Cortada97:::James W. Cortada:::Economic Preconditions That Made Possible Application of Commercial Computing in the United States.
+journals/annals/Williams01:::Michael R. Williams:::Calvin Mooers, the NOL Computer Project, and John Vincent Atanasoff: An Introduction.
+journals/annals/Williams96:::Michael R. Williams:::New EIC.
+journals/annals/Ceruzzi97:::Paul E. Ceruzzi:::Crossing the Divide: Architectural Issues and the Emergence of the Stored Program Computer, 1935-1955.
+journals/annals/Bowles96:::Mark D. Bowles:::U.S. Technological Enthusiasm and British Technological Skepticism in the Age of the Analog Brain.
+journals/annals/ImpagliazzoCDLW99:::John Impagliazzo::Martin Campbell-Kelly::Gordon B. Davis::John A. N. Lee::Michael R. Williams:::IFIP TC3/TC9 Joint Task Group: History in the Computing Curriculum.
+journals/annals/Weiss96a:::Eric A. Weiss:::Biographies.
+journals/annals/Puchta96:::Susann Puchta:::On the Role of Mathematics and Mathematical Knowledge in the Invention of Vannevar Bush's Early Analog Computers.
+journals/annals/Williams96a:::Michael R. Williams:::About this Issue.
+journals/annals/Williams97c:::Michael R. Williams:::About This Issue.
+journals/annals/Williams98c:::Michael R. Williams:::The "Last Word" on Charles Babbage.
+journals/annals/Fritz96:::W. Barkley Fritz:::The Women of ENIAC.
+journals/annals/Swartzlander98a:::Earl E. Swartzlander Jr.:::Calculators.
+journals/annals/Goyal96:::Amita Goyal:::Women in Computing: Historical Roles, the Perpetual Glass Ceiling, and Current Opportunities.
+journals/ansoft/Barr97:::Valerie Barr:::Rule-Base Coverage Analysis Applied to Test Case Selection.
+journals/ansoft/BarbierH00:::Franck Barbier::Brian Henderson-Sellers:::Object modelling languages: An evaluation and some key expectations for the future.
+journals/ansoft/Abrahamsson02:::Pekka Abrahamsson:::Commitment Nets in Software Process Improvement.
+journals/ansoft/Sommerville98:::Ian Sommerville:::Systems Engineering for software Engineers.
+journals/ansoft/BoehmCHWMS95:::Barry W. Boehm::Bradford Clark::Ellis Horowitz::J. Christopher Westland::Raymond J. Madachy::Richard W. Selby:::Cost Models for Future Software Life Cycle Processes: COCOMO 2.0.
+journals/ansoft/YuL95:::X. Yu::David Alex Lamb:::Metrics Applicable to Software Design.
+journals/ansoft/CaseHL96:::T. Case::Brian Henderson-Sellers::Graham C. Low:::A Generic Object-Oriented Design Methodology Incorporating Database Considerations.
+journals/ansoft/ArbaouiDOV02:::Selma Arbaoui::Jean-Claude Derniame::Flávio Oquendo::Hervé Verjus:::A Comparative Review of Process-Centered Software Engineering Environments.
+journals/ansoft/TokunoY99:::Koichi Tokuno::Shigeru Yamada:::Stochastic software safety/reliability measurement and its application.
+journals/ansoft/FavaroFF98:::John M. Favaro::Kenneth R. Favaro::Paul F. Favaro:::Value Based Software Reuse Investment.
+journals/ansoft/BhatCL99:::Girish Bhat::Rance Cleaveland::Gerald Lüttgen:::A Practical Approach to Implementing Real-Time Semantics.
+journals/ansoft/Tomayko98:::James E. Tomayko:::Forging a Discipline: An Outline History of software Engineering Education.
+journals/ansoft/KitcharoensakkulW01:::Supanat Kitcharoensakkul::Vilas Wuwongse:::Unified Versioning Using Resource Description Framework.
+journals/ansoft/Laski97:::Janusz W. Laski:::Programming Faults and Errors: Towards a Theory of Software Incorrectness.
+journals/ansoft/Tilley00:::Scott R. Tilley:::The canonical activities of reverse engineering.
+journals/ansoft/LerchBH97:::Javier Lerch::Deborah J. Ballou::Donald E. Harter:::Using Simulation-Based Experiments for Software Requirements Engineering.
+journals/ansoft/MeadLML01:::Nancy R. Mead::Richard C. Linger::John McHugh::Howard F. Lipson:::Managing Software Development for Survivable Systems.
+journals/ansoft/McGregorMS96:::John D. McGregor::Brian A. Malloy::Rebecca L. Siegmund:::A Comprehensive Program Representation of Object-Oriented Software.
+journals/ansoft/HsiaKS97:::Pei Hsia::David Chenho Kung::Chris Sell:::Software Requirements and acceptance Testing.
+journals/ansoft/DalalHW99:::Siddhartha R. Dalal::Michael S. Hamada::Tzyh-Jong Wang:::How to improve performance of software systems: A methodology and a case study for tuning performance.
+journals/ansoft/Bastani99:::Farokh B. Bastani:::Relational Programs: An Architecture for Robust Real-Time Safety-Critical Process-Control Systems.
+journals/ansoft/Henderson-Sellers02:::Brian Henderson-Sellers:::Process Metamodelling and Process Construction: Examples Using the OPEN Process Framework (OPF).
+journals/ansoft/ReisRSN02:::Rodrigo Quites Reis::Carla Alessandra Lima Reis::Heribert Schlebbe::Daltro José Nunes:::Automatic Verification of Static Policies on Software Process Models.
+journals/ansoft/Humphrey98:::Watts S. Humphrey:::Why Don't They Practice What Ee Preach?
+journals/ansoft/SaiedianGN02:::Hossein Saiedian::Nabil Ghanem::Jeyabarathi Natarajan:::A Framework for Evaluating Distributed Object Models and its Application to Web Engineering.
+journals/arscom/DaneshgarN03:::Amir Daneshgar::Reza Naserasr:::On Some Parameters Related to Uniquely Vertex-Colourable Graphs and Defining Sets.
+journals/arscom/BrownH02:::Jason I. Brown::Carl A. Hickman:::On chromatic roots with negative real part.
+journals/arscom/Prodinger02:::Helmut Prodinger:::On the Analysis of an Algorithm to Generate a Random Cyclic Permutation.
+journals/arscom/Haas02:::Ruth Haas:::Characterizations of arboricity of graphs.
+journals/arscom/KimR02:::Suh-Ryung Kim::Fred S. Roberts:::Competition graphs of semiorders and the conditions C(p) and C*(p).
+journals/arscom/Ling02:::Alan C. H. Ling:::Packings with block size five and index one: v \equiv 2 (mod 4).
+journals/arscom/Martinova03:::Marina Martinova:::About Multicoloured Cycles In K_{24n+1}.
+journals/arscom/Hsieh02:::Yi-Chih Hsieh:::De Bruijn sequences: Generation, reproduction and applications.
+journals/arscom/IsaksenR02:::Daniel Isaksen::Beth Robinson:::Triangle-Free Polyconvex Graphs.
+journals/arscom/Hammack02:::Richard Hammack:::A note on the complexity of computing cyclicity.
+journals/arscom/Guerin03:::E. E. Guerin:::Plane Partition Cores.
+journals/arscom/Develin02:::Mike Develin:::Avoidable Sets in Groups.
+journals/arscom/CrescenziAS02:::Pierluigi Crescenzi::Sergio De Agostino::Riccardo Silvestri:::A note on the spatiality degree of graphs.
+journals/arscom/Robbins02:::Neville Robbins:::Some properties of two-color partitions.
+journals/arscom/Grytczuk02:::Jaroslaw Grytczuk:::Pattern avoiding colorings of Euclidean spaces.
+journals/arscom/JohnsonW02:::Peter D. Johnson Jr.::E. B. Wantland:::Which Graphs Have Hall Number Two?
+journals/arscom/ZhangF03:::Zhizheng Zhang::Hong Feng:::Notes on Two Properties of the Generalized Sequences {Wn} Relevant to Recurring Decimal.
+journals/arscom/BialostockiV03:::Arie Bialostocki::William Voxman:::On Monochromatic-Rainbow Generalizations of Two Ramsey Type Theorems.
+journals/arscom/Chandramouli02:::B. S. Chandramouli:::New determinantal identities on Stirling Numbers.
+journals/artmed/KukarKGKF99:::Matjaz Kukar::Igor Kononenko::Ciril Groselj::Katarina Kralj::Jure Fettich:::Analysing and improving the diagnosis of ischaemic heart disease with machine learning.
+journals/artmed/ChoR93:::S. Cho::James A. Reggia:::Multiple disorder diagnosis with adaptive competitive neural networks.
+journals/artmed/EmersonPW94:::T. Emerson::J. Prothero::Suzanne Weghorst:::A resource guide to VR in medicine.
+journals/artmed/Sadegh-Zadeh94:::Kazem Sadegh-Zadeh:::Fundamentals of clinical methodology: 1. Differential indication.
+journals/artmed/Berman02:::Jules J. Berman:::Confidentiality issues for medical data miners.
+journals/artmed/TafazzoliABHD02:::Ali Gerhard Tafazzoli::Udo Altmann::Thomas Bürkle::Simon Hölzer::Joachim Dudeck:::Integrated decision support in a hospital cancer registry.
+journals/artmed/SorensenTMKP01:::Thomas Sangild Sørensen::Søren Vorre Therkildsen::Piotr Makowski::Jørgen Lindskov Knudsen::Erik Morre Pedersen:::A new virtual reality approach for planning of cardiac interventions.
+journals/artmed/TaylorFT97:::Paul Taylor::John Fox::Andrew Todd-Pokropek:::A model for integrating image processing into decision aids for diagnostic radiology.
+journals/artmed/Chuan93:::R. Y. Chuan:::A constraint logic programming framework for constructing DNA restriction maps.
+journals/artmed/GuimaraesPPU01:::Gabriela Guimarães::J.-H. Peter::T. Penzel::Alfred Ultsch:::A method for automated temporal knowledge acquisition applied to sleep-related breathing disorders.
+journals/artmed/WainerR97:::Jacques Wainer::Alexandre de Melo Rezende:::A temporal extension to the parsimonious covering theory.
+journals/artmed/LovisBRMS98:::Christian Lovis::Robert H. Baud::Anne-Marie Rassinoux::P. A. Michel::Jean-Raoul Scherrer:::Medical dictionaries for patient encoding systems: a methodology.
+journals/artmed/RadetzkyN02:::Arne Radetzky::Andreas Nürnberger:::Visualization and simulation techniques for surgical simulators using actual patient's data.
+journals/artmed/CalveloCPR00:::Daniel Calvelo::Marie-Christine Chambrin::Denis Pomorski::Pierre Ravaux:::Towards symbolization using data-driven extraction of local trends for ICU monitoring.
+journals/artmed/Steimann98:::Friedrich Steimann:::Dependency parsing for medical language and concept representation.
+journals/artmed/SmithBJJA95:::Jack W. Smith::A. Bayazitoglu::Todd R. Johnson::K. A. Johnson::N. K. Amra:::One framework, two systems: flexible abductive methods in the problem-space paradigm applied to antibody identification and biopsy interpretation.
+journals/artmed/GonzalezVN00:::Julio Solano Gonzalez::Katya Rodríguez-Vázquez::Fabian Garcia Nocetti:::Model-based spectral estimation of Doppler signals using parallel genetic algorithms.
+journals/artmed/BoniventoDF01:::C. Bonivento::A. Davalli::C. Fantuzzi:::Tuning of myoelectric prostheses using fuzzy logic.
+journals/artmed/SeitzUD99:::Alexander Seitz::Adelinde Uhrmacher::D. Damm:::Case-based prediction in experimental medical studies.
+journals/artmed/Engestrom95:::Yrjö Engeström:::Objects, contradictions and collaboration in medical cognition: an activity-theoretical perspective.
+journals/artmed/Rector01:::Alan L. Rector:::AIM: a personal view of where I have been and where we might be going.
+journals/artmed/TuEGSM95:::Samson W. Tu::Henrik Eriksson::John H. Gennari::Yuval Shahar::Mark A. Musen:::Ontology-based configuration of problem-solving methods and generation of knowledge-acquisition tools: application of PROTEGE-II to protocol-based decision support.
+journals/artmed/GiuseGM93:::D. A. Giuse::N. B. Giuse::R. A. Miller:::Consistency enforcement in medical knowledge base construction.
+journals/artmed/FogelWBP98:::David B. Fogel::Eugene C. Wasson III::Edward M. Boughton::Vincent W. Porto:::Evolving artificial neural networks for screening features from mammograms.

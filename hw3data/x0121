@@ -1,0 +1,200 @@
+conf/parco/SzularzCW97:::Marek Szularz::Maurice Clint::Jim Weston:::Lanczos Algorithms for Massively Parallel Processors.
+conf/parco/EbnerP97:::Ralf Ebner::Alexander Pfaffinger:::Higher Level Programming and Efficient Automatic Parallelization: A Functional Data Flow Approach with FASAN.
+conf/parco/Giglmayr97:::Josef Giglmayr:::Self-Routing in 2-D Shuffle Networks with Dimension-Independent Switches of Size &gt;= 8x8.
+conf/parle/ZhongR91:::Xiaoxiong Zhong::Sanjay V. Rajopadhye:::Deriving Fully Efficient Systolic Arrays by Quasi-Linear Allocation Functions.
+conf/parle/LioupisS94:::Dimitris Lioupis::Michael Stefanidakis:::Dynamic Load Balancing on a Virtually-Shared Memory Parallel Computer System.
+conf/parle/Gluck-HiltropRS89:::Elvira Glück-Hiltrop::Matthias Ramlow::Ute Schürfeld:::The Stollmann Data Flow Machine.
+conf/parle/Hopkins94:::Richard P. Hopkins:::Voting on Synchronous Communications.
+conf/parle/RauberR94:::Thomas Rauber::Gudula Rünger:::Load Balancing for Extraplation Methods on Distributed Memory Multiprocessors.
+conf/parle/Shapiro91:::Ehud Y. Shapiro:::Embeddings Among Concurrent Programming Languages (Abstract).
+conf/parle/DarlingtonFHKSW93:::John Darlington::A. J. Field::Peter G. Harrison::Paul H. J. Kelly::D. W. N. Sharp::Q. Wu:::Parallel Programming Using Skeleton Functions.
+conf/parle/LiuS92:::Shan Fan Liu::Mary Lou Soffa:::Parallel Task Assignment by Graph Partitioning.
+conf/parle/Fanchon92:::Jean Fanchon:::Dynamic Concurrent Processes.
+conf/parle/ChachatyBW92:::Carla Chachaty::Pascale Borla-Salamet::Mike Ward:::A Compositional Approach for the Design of a Parallel Query Processing Language.
+conf/parle/DagevilleCB94:::Benoît Dageville::Patrick Casadessus::Pascale Borla-Salamet:::The Impact of the KSR1 Allcache Architecture on the Behavior of the DBS3 Parallel DBMS.
+conf/parle/Iliffe87:::J. K. Iliffe:::The Use of Parallel Functions in System Design.
+conf/parle/FarrellK93:::C. A. Farrell::Dorota H. Kieronska:::Load Balanced Optimisation of Virtualised Algorithms for Implementation on Massively Parallel SIMD Architectures.
+conf/parle/BuchsG93:::Didier Buchs::Nicolas Guelfi:::Formal Development of Actor Programs Using Structured Algebraic Petri Nets.
+conf/parle/HankinMS93:::Chris Hankin::Daniel Le Métayer::David Sands:::A Parallel Programming Style and Its Algebra of Programs.
+conf/parle/LitaizeEHLMSS89:::Daniel Litaize::Fatimazhra Elkhlifi::Omar Hammami::Mustapha Lalam::Abdelaziz Mzoughi::Pascal Sainrat::Jean-Claude Salinier:::Serial Multiport Memory Multiprocessors.
+conf/parle/RochangeSL93:::Christine Rochange::Pascal Sainrat::Daniel Litaize:::Performance of M3S for the SOR algorithm.
+conf/parle/DawidsL87:::Ulla Gamwell Dawids::Hans Henrik Løvengreen:::Rigorous Development of a Distributed Calendar System.
+conf/parle/PearsF93:::Arnold Pears::Rhys S. Francis:::Barrier Semantics in Very Weak Memory.
+conf/parle/JanickiK94:::Ryszard Janicki::Maciej Koutny:::Deriving Histories of Nets with Priority Relation.
+conf/parle/GuptaE89:::Rajiv Gupta::Michael Epstein:::Achieving Low Cost Synchronization in a Multiprocessor System.
+conf/parle/BahsounF92:::Jean Paul Bahsoun::Louis Féraud:::A Model to Design Reusable Parallel Software Components.
+conf/parle/Cherief92:::Ferroudja Cherief:::Back and Forth Bisimulations On Prime Event Structures.
+conf/parle/CaplainLS94:::Gilbert Caplain::René Lalement::Thierry Salset:::Checking the Serial Correctness of Control-Parallel Programs.
+conf/parle/BarendregtEGKPS87:::Hendrik Pieter Barendregt::Marko C. J. D. van Eekelen::John R. W. Glauert::Richard Kennaway::Marinus J. Plasmeijer::M. Ronan Sleep:::Term Graph Rewriting.
+conf/parle/LoyensM94:::L. D. J. C. Loyens::Jean R. Moonen:::ILIAS, a Sequential Language for Parallel Matrix Computations.
+conf/parle/Alonso93:::Luis M. Alonso:::Using State Variables for the Specification and Verfication of TCSP Processes.
+conf/parle/BeaumontRSW91:::Anthony Beaumont::S. Muthu Raman::Péter Szeredi::David H. D. Warren:::Flexible Scheduling of OR-Parallel Logic Programming Systems.
+conf/parle/SmaiT94:::Abdel-Halim Smai::Lars-Erik Thorelli:::Dynamic Allocation of Communication Bandwidth in Multicomputers.
+conf/parle/NockerSEP91:::E. G. J. M. H. Nöcker::J. E. W. Smetsers::Marko C. J. D. van Eekelen::Marinus J. Plasmeijer:::Concurrent Clean.
+conf/parle/Misra91:::Jayadev Misra:::Loosely-Coupled Processes.
+conf/parle/Johnsson91:::Thomas Johnsson:::Parallel Evaluation of Functional Programs: The (v, G)-Machine Approach.
+conf/parle/MarinoS89:::Giuseppe Marino::Giancarlo Succi:::Data structures for parallel execution of functional languages.
+conf/parle/MongenetP87:::Catherine Mongenet::Guy-René Perrin:::Synthesis of Systolic arrays for Inductive Problems.
+conf/parle/Gribomont87:::E. Pascal Gribomont:::Design and Proof of Communicating Sequential Processes.
+conf/parle/BosschereJ92:::Koenraad De Bosschere::Jean-Marie Jacquet:::Comparative Semantics of <i>µLog</i>.
+conf/parle/MourlasH94:::Constantin Mourlas::Constantin Halatsis:::MAGE: A Massively Agent Execution System for Logic Programming.
+conf/parle/HargerupSS91:::Torben Hagerup::Arno Schmitt::Helmut Seidl:::FORK: A High-Level Language for PRAMs.
+conf/parle/JohanssonB94:::Thomas Johansson::Ewert Bengtsson:::A New Parallel MIMD Connected Component Labeling Algorithm.
+conf/patat/BouffletN95:::Jean Paul Boufflet::Stéphane Nègre:::Three Methods Used to Solve an Examination Timetable Problem.
+conf/patat/McCollum97:::Barry McCollum:::The Implementation of a Central Timetabling System in a Large British Civic University.
+conf/patat/BurkeNW95:::Edmund K. Burke::James P. Newall::Rupert F. Weare:::A Memetic Algorithm for University Exam Timetabling.
+conf/patat/SosnowskaR00:::Danuta Sosnowska::José D. P. Rolim:::Fleet Scheduling Optimization: A Simulated Annealing Approach.
+conf/paste/Eng02:::David Eng:::Combining static and dynamic data in code visualization.
+conf/paste/BowringOH02:::Jim Bowring::Alessandro Orso::Mary Jean Harrold:::Monitoring deployed software using software tomography.
+conf/paste/Griswold01:::William G. Griswold:::Making slicing practical: the final mile (Abstract).
+conf/paste/Naumovich02:::Gleb Naumovich:::Using the observer design pattern for implementation of data flow analyses.
+conf/paste/Krinke98:::Jens Krinke:::Static Slicing of Threaded Programs.
+conf/paste/DorRS98:::Nurit Dor::Michael Rodeh::Shmuel Sagiv:::Detecting Memory Errors via Static Pointer Analysis (Preliminary Experience).
+conf/paste/TiceG98:::Caroline Tice::Susan L. Graham:::OPTVIEW: A New Approach for Examining Optimized Code.
+conf/paste/KokaiNN99:::Gabriella Kókai::Jörg Nilson::Christian Niss:::GIDTS: A Graphical Programming Environment for Prolog.
+conf/oodbs/KachhwahaH86:::P. Kachhwaha::R. Hogan:::An Object-Oriented Data Model for the Research Laboratory.
+conf/oodbs/Thatte86:::Satish M. Thatte:::Persistent Memory: A Storage Architecture for Object-Oriented Database Systems.
+conf/oodbs/Wilkes88:::Wolfgang Wilkes:::Instance Inheritance Mechanisms for Object-Oriented Databases.
+conf/oodbs/CopelandK86:::George P. Copeland::Setrag Khoshafian:::Identity And Versions For Complex Objects.
+conf/oodbs/Dayal92:::Umeshwar Dayal:::An Activity/Transaction Model for a Distributed Multi-Service System.
+conf/oodbs/PorterEEAS88:::Harry H. Porter::Earl F. Ecklund::Denise J. Ecklund::T. Lougenia Anderson::Bruce Schneider:::A Distributed Object Server.
+conf/oodbs/Nestor86:::John R. Nestor:::Re-creation and Evolution in a Programming Environment.
+conf/oodbs/RaoGR88:::Kotcherlakota V. Bapa Rao::Anat Gafni::Georg Raeder:::The Design of Dynamo: A General-purpose Information Processing Model with a Time Dimension.
+conf/oodbs/RiegelMS88:::Steve Riegel::Fred Mellender::Andrew Straw:::Integration of Database Management with an Object-Oriented Programming Language.
+conf/oodbs/Maier86:::David Maier:::Why Object-Oriented Databases Can Succeed Where Others Have Failed.
+conf/oodbs/DarmontFRGS00:::Jérôme Darmont::Christophe Fromantin::Stephane Régnier::Le Gruenwald::Michel Schneider:::Dynamic Clustering in Object-Oriented Databases: An Advocacy for Simplicity.
+conf/oodbs/MossS88:::J. Eliot B. Moss::Steven Sinofsky:::Managing Persistent Data with Mneme: Designing a Reliable, Shared Object Interface.
+conf/oodbs/KarlapalemNM92:::Kamalakar Karlapalem::Shamkant B. Navathe::Magdi M. A. Morsi:::Issues in Distribution Design of Object-Oriented Databases.
+conf/oodbs/HubelM88:::Christoph Hübel::Bernhard Mitschang:::Object Orientation within the PRIMA-NDBS.
+conf/oodbs/NyanchamaO92:::Matunda Nyanchama::Sylvia L. Osborn:::Database Security Issues in Distributed Object-Oriented Databases.
+conf/pcomp/BartschiF81:::M. Bärtschi::Hans-Peter Frei:::A Data Organization for Information Retrieval on a Personal Computer.
+conf/pcomp/Remmele81:::Werner Remmele:::Personal Computing: Trends.
+conf/pcrcw/Stunkel97:::Craig B. Stunkel:::Challenges in the Design of Contemporary Routers.
+conf/pcrcw/NguyenPPW94:::John Nguyen::John Pezaris::Gill A. Pratt::Steve Ward:::Three-Dimensional Network Topologies.
+conf/pcrcw/WillsLC94:::D. Scott Wills::W. Stephen Lacy::José Cruz-Rivera:::The Offset Cube: An Optoelectronic Interconnection Network.
+conf/pcrcw/AbaliA94:::Bülent Abali::Cevdet Aykanat:::Routing Algorithms for IBM SP1.
+conf/pearl/HeverhagenT01:::Torsten Heverhagen::Rudolf Tracht:::Echtzeitanforderungen bei der Integration von IEC 61131-3 Funktionsbausteinen und UML-RT Capsules.
+conf/pearl/ElzerS01:::Peter F. Elzer::Karl-H. Sauermann:::Das Clausthaler Labor für "Plant Design and Virtual Manufacturing".
+conf/pearl/Halang89:::Wolfgang A. Halang:::Schwerpunkte der internationalen Forschung im Bereich Echtzeitsysteme.
+conf/pearl/Halang90:::Wolfgang A. Halang:::Erweiterung und Anwendung von PEARL zur Programmierung speicherprogrammierbarer Steuerungen.
+conf/pearl/BeestermollerT96:::H. J. Beestermöller::G. Thiele:::Wirtschaftliche Fehlertoleranz in Funktionsblock-konfigurierbaren Feldstationen.
+conf/pearl/ElnakhalR89:::Abd E. Elnakhal::Helmut Rzehak:::Der Zeitbedarf für Kommunikationsaufträge in MAP-Netzen.
+conf/pearl/Stieger89:::Klaus Stieger:::PEARL 90 - Die Weiterentwicklung von PEARL.
+conf/pearl/HofschulteG01:::J. Hofschulte::Wilfried Gerth:::Objektorientiertes Programmieren unter PEARL90 bei einem Roboterprojekt.
+conf/pearl/StreichW99:::Hermann Streich::Rainer Worst:::GMD-Snake2 - Eine Roboterschlange mit verteilter Steuerung.
+conf/pearl/Bartels98:::Jan Bartels:::PC-basierte Automatisierungstechnik - Anwendungsmöglichkeiten und Grenzen.
+conf/pearl/HalangHD99:::Wolfgang A. Halang::Bernhard Heulmanns::Jutta Düring:::Ein netz- und multimediagestütztes Fernpraktikum.
+conf/pearl/FitzH01:::Robert Fitz::Wolfgang A. Halang:::Schutz von Automatisierungssystemen durch gerätetechnisch unterstützte Sicherheitsmaßnahmen.
+conf/pearl/DoblerS93:::Gabriele Dobler::Michael Slopianka:::Kommunikationsunterstützung für verteilte Transaktionen mit Echtzeitanforderungen.
+conf/pearl/RascheSS90:::V. Rasche::R. Siemens::W. Schepper:::Betriebsdatenerfassung in der CD Production.
+conf/pearl/JasperneiteNW01:::Jürgen Jasperneite::Peter Neumann::Kym Watson:::Real-Time Communication in Industrial Automation with Switched Ethernet Networks.
+conf/pearl/Tempelmeier90:::Theodor Tempelmeier:::Eine Übersicht über die Software-Entwurfsmethode HOOD.
+conf/pearl/BergerE89:::U. Berger::O. Eggenberger:::Multitasking-Betriebssysteme für Realzeitaufwendungen auf AT-kompatiblen Personal Computern.
+conf/pearl/HalangF98:::Wolfgang A. Halang::Alceu Heinke Frigeri:::PEARL in der Sicherheitstechnik.
+conf/pdpta/A00:::Fabio Arciniegas A.:::Introduction to Perceval: AO Design Using XML Schema and Groves.
+conf/pdpta/PinkstonZD03:::Timothy Mark Pinkston::Bilal Zafar::José Duato:::A Method for Applying Double Scheme Dynamic Reconfiguration over InfiniBand<sup>TM</sup>.
+conf/pdpta/Tu03:::Huan-Yu Tu:::Relational Methods in Regular Networks.
+conf/pdpta/ZhangAP03:::Yueyue Zhang::Amy W. Apon::Peter Pulay:::Array Files for Out-of-Core Computations.
+conf/pdpta/DawsonPW00:::C. Dawson::V. J. Parr::M. F. Wheeler:::Issues in Parallel Computation of Flow and Transport in Surface Waters.
+conf/pdpta/HisleyBP02:::Dixie Hisley::Matthew J. Bridges::Lori L. Pollock:::Static Interprocedural Slicing of Shared Memory Parallel Programs.
+conf/pdpta/CahitA00:::I. Cahit::A. Adalier:::Multi-Stage Interconnection Network Layouts Suitable For Photonic Switching.
+conf/pdpta/PresserB03:::Clifton G. M. Presser::Arthur Jonathan Branham:::Servlets and JSP in an Undergraduate Database Course.
+conf/pdpta/PresserT02:::Clifton G. M. Presser::John J. Thomas:::Java Smart Card Technologies in the Classroom.
+conf/pdpta/OksaA00:::Gabriel Oksa::Vassil Alexandrov:::Regular Array for the Solution of Toeplitz System of Linear Equations by Monte Carlo Method.
+conf/pdpta/LukschRS00:::Peter Luksch::Sabine Rathmayer::Vaidy S. Sunderam:::Internet-based Collaborative Simulation in Computational Prototyping and Scientific Research.
+conf/pdpta/ViolardF02:::Eric Violard::Francis Filbet:::Parallelization of a Vlasov Solver by Communication Overlapping.
+conf/pdpta/ParkC02:::Hyoungwoo Park::Jin-Wook Chung:::Study on Performance Improvement of Grid Computing Using GRIS and TCP Stats Information.
+conf/pdpta/HeH00:::Xin He::Chun-Hsi Huang:::Scalable Coarse Grained Parallel Interval Graph Algorithms.
+conf/pdpta/JiL02:::ByoungJun Ji::KwangMo Lee:::Benchmark Independent Load Balancing of Heterogeneous Workstation Cluster.
+conf/pdpta/Lee02:::Yong Woo Lee:::A Component Based Performance Modeling Method Using a Virtual Server Queueing Network Concept for Metacomputing.
+conf/pdpta/NaJ03:::Hoon Na::Dae-Gwon Jeong:::Parallel Processing of the Frame-Based MPEG-4 Video Encoder Using Marco Block-Based Decomposition.
+conf/pdpta/DerrienR00:::Steven Derrien::Tanguy Risset:::Interfacing compiled FPGA programs: the MMAlpha approach.
+conf/pdpta/ShiresMM00:::Dale R. Shires::Ram V. Mohan::Andrew Mark:::Improving Data Locality and Expanding the Use of HPF in Parallel FEM Implementations.
+conf/pdpta/RamirezS02:::Rafael Ramirez::Andrew E. Santosa:::Distributed Programming Using Constraint Logic Programs.
+conf/pdpta/SpitlerL00:::Stephen L. Spitler::Daniel C. Lee:::Optimal CAC Satisfying Cell and Call Level QoS Requirements for an ATM Switch with Output Buffering.
+conf/pdpta/KerrNPS03:::Amy J. Kerr::Todd W. Neller::Christopher J. La Pilla::Michael D. Schompert:::Java Resources for Teaching Reinforcement Learning.
+conf/pdpta/Matloff00:::Norman S. Matloff:::Decentralized Task Assignment Is Scalable.
+conf/pdpta/MpongMGH02:::Serge Moto Mpong::Pierre de Montleau::André Godinas::Anne Marie Habraken:::A Parallel Computing Model for the Acceleration of a Finite Element Software.
+conf/pdpta/MinK03:::Byoung-Joon Min::Sung Ki Kim:::A Replicated Server Architecture Supporting Survivable Services.
+conf/pdpta/MunK00:::Youngsong Mun::Jongoh Kim:::Mobility support between subnetworks in Differentiated Services.
+conf/pdpta/WongZW02:::Malone Wong::Cui Zhang::Don Warner:::The Design of a Dataflow Computer, it's Language and It's Implementation.
+conf/pdpta/KraftJ02:::Gerold Kraft::Pieter Jonker:::Real-time Stereo with Dense Output by a SIMD-computed Dynamic Programming Algorithm.
+conf/pdpta/GranmoJ02:::Ole-Christoffer Granmo::Finn Verner Jensen:::Real-time Hypothesis Driven Feature Extraction on Parallel Processing Architectures.
+conf/pdpta/RyuK00:::Tae-Wan Ryu::Haklin Kimm:::Clustered Computer Architecture For Automated Database Query Generation System.
+conf/pdpta/BoydD00:::Tom Boyd::Partha Dasgupta:::Injecting Distributed Capabilities into Legacy Applications Through Cloning and Virtualization.
+conf/pdpta/SumW03:::John Sum::Jie Wu:::On Two Allocation Methods for Web Services.
+conf/pdpta/ReileinR00:::Robert Reilein::Gudula Rünger:::Combining Thread Programming with Message Passing for Atmosphere Simulation.
+conf/pdpta/EilersVPKSK00:::Dirk Eilers::Alfred Voglgsang::Arnold Plankl::Gerri Körner::Helmut Steckenbiller::Rudi Knorr:::Implementation of an AAL for High Bit Rate Real-Time Data Transmission System over ATM Networks Using a RSE CODEC.
+conf/pdpta/WayP02:::Tom Way::Lori L. Pollock:::A Region-based Partial Inlining Algorithm for an ILP Optimizing Compiler.
+conf/pdpta/BarrettT00:::Stephen Barrett::Brendan Tangney:::Wilde: An Open Systems Paradigm for Groupware.
+conf/pdpta/Yang02:::Laurence Tianruo Yang:::The Parallel Accelerated Waveform IBiCGStab Technique for Transient Simulation of Semiconductor Devices.
+conf/pdpta/ItoKN02:::Shinya Ito::Ryosuke Kurebayashi::Hiroaki Nishkawa:::A Self-evolutionary Emulation Scheme for A Networking Oriented Data-driven Processor Architecture: CUE.
+conf/pdpta/DingleHK03:::Nicholas J. Dingle::Peter G. Harrison::William Knottenbelt:::HYDRA: HYpergraph-Based Distributed Response-Time Analyzer.
+conf/pdpta/Zhou02:::Bingyang Zhou:::Data Management of the MOR.
+conf/pdpta/RicksJW03:::Kenneth G. Ricks::David Jeff Jackson::B. Earl Wells:::The Application of Software Process Precedence Relationship Formalisms to Concurrent Hardware Systems.
+conf/pdpta/YanphanichGP02:::Wirachai Yanphanich::K. M. George::Naphill Park:::Clustering with Mobile Agents.
+conf/pdpta/NeilsenT00:::Mitchell L. Neilsen::Darrel M. Temple:::A Concurrent Simulation Model for Analysis of Water Control Structures at the Watershed Scale.
+conf/pdpta/DaoudKW00:::Daoud S. Daoud::Abdul-Qayyum M. Khaliq::Bruce A. Wade:::A Non-Overlapping Implicit Predictor-Corrector Scheme for Parabolic Equations.
+conf/pdpta/Bashirov00a:::Rza Bashirov:::On the rearrangeability of (2s-1)-stage nonsymmetric interconnection networks.
+conf/pdpta/NavauxKS00:::Philippe Navaux::Jacques Chassin de Kergommeaux::Denise Stringhini:::A Selection Mechanism to Group Processes in a Parallel Debugger.
+conf/pdpta/MikolajczakEG03:::Boleslaw Mikolajczak::Craig Eranosian::Carl Gallagher:::Performance Study of Parallel Algorithms of LU Decomposition for Dense Matrices.
+conf/pdpta/HossainP02:::Afzal Hossain::Daniel J. Pease:::Trace Cache Performance Analysis.
+conf/pdpta/AliMSK03:::Shoukat Ali::Anthony A. Maciejewski::Howard Jay Siegel::Jong-Kook Kim:::On the Robustness of Resource Allocation for Parallel and Distributed Computing and Communications.
+conf/pdpta/DingT00:::Kuo-Shun Ding::Jyh-Jong Tsay:::The Design of User-Level Distributed Shared Memory System in SCI-Based Clusters.
+conf/pdpta/OlejnikBT02:::R. Olejnik::A. Bouchi::Bernard Toursel:::A Java Object Observation Policy for Load Balancing.
+conf/pdpta/GoumasDAK02:::Georgios I. Goumas::Nikolaos Drosinos::Maria Athanasaki::Nectarios Koziris:::Data Parallel Code Generation for Arbitrarily Tiled Loop Nests.
+conf/pdpta/SantoFRZ02:::Michele Di Santo::Franco Frattolillo::Wilma Russo::Eugenio Zimeo:::Efficient Content-aware Connections Despatching in Clustered Web Servers.
+conf/pdpta/Bashirov00:::Rza Bashirov:::Combinatorial model of the class of rearrangeable nonsymmetric interconnection networks.
+conf/pdpta/RomanoMCP00:::Luigi Romano::Nicola Mazzocca::Antonio Coronato::Giuseppe De Pietro:::Experimental Evaluation of the Recovery Strategies of a Distributed VoD Application.
+conf/pdpta/RebaiaiaBJH03:::Mohamed Larbi Rebaiaia::Mohamed Benmohamed::Jihad Mohamad Jaam::Ahmad Hasnah:::A Rewriting Logic-Based Computation and Deduction Approach to Avoid Reactive System Malfunctions.
+conf/pdpta/YoungN02:::G. Young::P. Ng:::Large Scale Network of PCs Connected by SCSI.
+conf/pdpta/Schamberger03:::Stefan Schamberger:::Heuristic Graph Bisection with Less Restrictive Balance Constraints.
+conf/pdpta/MaglogiannisZ03:::Ilias Maglogiannis::Elias P. Zafiropoulos:::Utilizing Support Vector Machines for the Characterization of Digital Dermatological Images.
+conf/pdpta/SubhaS03:::Srinivasan Subha::Weijia Shang:::On Data Locality in Supernode Transformation.
+conf/pdpta/SaitoHUJK00:::Shoichi Saito::Akihito Hayashi::Tetsutaro Uehara::Kazuki Joe::Yoshitoshi Kunieda:::Wind : a Low-Costs Communication Module for Software DSM Systems.
+conf/pdpta/UlmerY00:::Craig Ulmer::Sudhakar Yalamanchili:::An Extensible Message Layer for High-Performance Clusters.
+conf/pdpta/GhoseK02:::Debasish Ghose::Hyoung Joong Kim:::Large Matrix-vector Product Computations on Multicast Bus-oriented Workstation Clusters.
+conf/pdpta/MacheBE00:::Jens Mache::Robert Broadhurst::Jeffrey Ely:::Ray Tracing on Cluster Computers.
+conf/pdpta/ShahF00:::Mehul J. Shah::Paul G. Flikkema:::Minimum-Power Dynamic TDMA for Multimedia Wireless Networks.
+conf/pdpta/FukudaHSJ02:::Kyoko Fukuda::Toshihiko Hayakawa::Hayaru Shouno::Kazuki Joe:::Parallelization of Seismic Wave Calculation by Impulse Response Functions.
+conf/pdpta/BaderCEFN00:::Atef Bader::Constantinos Constantinides::Tzilla Elrad::T. Fuller::Paniti Netinant:::Building Reusable Concurrent Software Systems.
+conf/pdpta/AtheyA03:::David E. Athey::Jeannie R. Albrecht:::Applying Caching Techniques for Dynamic Personalized Content in Software Engineering Projects.
+conf/pdpta/Maeda00:::Kazuaki Maeda:::Runtime Code Generation for Object Serialization.
+conf/pdpta/NonakaPON02:::Jorji Nonaka::Gerson H. Pfitscher::Katsumi Onisi::Hideo Nakano:::An Evaluation of Low Cost Hardware-assisted Internal Clock Synchronization in PC Cluster Environment.
+conf/pdpta/ZhouD00:::Hau Zhou::Jeffrey J. Derby:::Parallel Implementation of Finite Element Method with MPI: Application to Three-Dimensional Free Surface Stokes Flow.
+conf/pdpta/BrzezinskiS02:::Jerzy Brzezinski::Michal Szychowiak:::Fast and Low Cost Recovery Techniques for Distributed Shared Memory.
+conf/pdpta/TahaL03:::Thiab R. Taha::Ruihua Liu:::Parallel Split-Step Fourier Methods for the CMKdV Equation.
+conf/pdpta/LingYH03:::Anthony Wong Kee Ling::Chan Huah Yong::Fazilah Haron:::A Mobile Agent-Based Fault Recovery Service for Distributed Environment.
+conf/pdpta/ChuanshanRX02:::Gao Chuanshan::Chen Ruiliang::Zhou Xin:::A Distributed Call Admission Control Scheme for QoS Support in Wireless ATM Networks Based on Auto-adaptive Motion Prediction.
+conf/pdpta/RowanFL03:::Robert W. Rowan::Pierre M. Fiorini::Lester Lipsky:::Assessing the Performability of Computing Systems Subject to Failure and Repair Using Non-Exponentially Distributed Task Times.
+conf/pdpta/NolanSS02:::James J. Nolan::Arun K. Sood::Robert Simon:::Composing and Deploying Distributed Applications Using a Semantic Service Discovery Mechanism.
+conf/pdpta/Al-AkaidiBB00:::Marwan Al-Akaidi::S. Badran::J. Blackledge:::Real Time Speech Coder: CELP for Telecommunication.
+conf/pdpta/EisenringP00:::Michael Eisenring::Marco Platzner:::An Implementation Framework for Run-time Reconfigurable Systems.
+conf/pdpta/ButnevGMPSVVZ00:::O. I. Butnev::A. A. Gorbunov::V. D. Malshakov::V. A. Pronin::I. D. Sofronov::S. G. Volkov::B. L. Voronin::B. M. Zhogov:::Parallelization of 2D Heat Conduction Problem Computation on Unstructured Grids on Distributed-Memory Computer System MP-3.
+conf/pdpta/InverardiM00:::Paola Inverardi::Henry Muccini:::A Coordination Process Based on UML and a Software Architectural Description.
+conf/pdpta/BornotHL00:::Sébastien Bornot::Ralf Huuck::Ben Lukoschus:::Verification of Sequential Function Charts Using SMV.
+conf/pdpta/Mudawwar00:::Muhammed F. Mudawwar:::A Switch-Free Router for k-ary m-way Networks.
+conf/pdpta/SongJH03:::MoonBae Song::SoonYoung Jung::Chong-Sun Hwang:::Reducing Location Update Cost in Location-Aware Environment.
+conf/pdpta/KochmarNSSS00:::J. Kochmar::P. Nowoczynski::J. Ray Scott::J. Sommerfield::N. Stone:::Alnilam: An Extensible Python-Based Job Scheduler.
+conf/pdpta/HuangE02:::En-Hsin Huang::Tzilla Elrad:::A Configurable Resource Management Aspects System for Distributed Computing.
+conf/pdpta/ZhengS03:::Zonghui Zheng::Nariman Sepehri:::A Corba-Based Distributed Real-Time Crane Simulator with 3D Visualization.
+conf/pdpta/AlbertiV03:::Pedro V. Alberti::Antonio M. Vidal:::Parallel Broyden Approach to the Inverse Additive Eigenvalue Problem.
+conf/pdpta/KamioTF03:::Satoshi Kamio::Akiko Takehara::Akihiro Fujiwara:::Procedures for Computing the Maximum with DNA Strands.
+conf/pdpta/FayyaziKN03:::Morteza Fayyazi::David R. Kaeli::Zainalabedin Navabi:::Dynamic Input Buffer Allocation (DIBA) for Fault Tolerant Ethernet Packet Switching.
+conf/pdpta/AdlyE00:::Noha Adly::Amal El-Nahas:::Location Management Techniques for Future PCS: An Overview.
+conf/pdpta/KreuzingerPSUBK00:::Jochen Kreuzinger::Matthias Pfeffer::A. Schulz::Theo Ungerer::Uwe Brinkschulte::C. Krakowski:::Performance Evaluations of a Multithreaded Java Microcontroller.
+conf/pdpta/OMullane00:::John J. O'Mullane:::A Multi-Granular Parallel Processing Framework.
+conf/pdpta/FioriniL03:::Pierre M. Fiorini::Lester Lipsky:::Availability Versus Performance.
+conf/pdpta/WelchAF02:::Peter H. Welch::Jo R. Aldous::Jon Foster:::JCSP.net - A Network Extension for JCSP.
+conf/ordal/SimonT94:::Klaus Simon::Paul Trunz:::A Cleanup on Transitive Orientation.
+conf/pgldb/BrazS03:::Maria Helena L. Baptista Braz::Sean W. M. Siqueira:::E-Learning Environments: An Integrated View.
+conf/pgldb/PortoMFFSCC03:::Fabio Porto::Ana Maria de Carvalho Moura::Adriana P. Fernandez::Abílio Fernandes::Fábio José Coutinho da Silva::Gilda Helena Bernardino de Campos::Laura Coutinho:::ROSA: A Data Model and Query Language for e-Learning Objects.
+conf/plilp/JourdanS93:::Jean Jourdan::Thierry Sola:::The Versatility of Handling Disjunctions as Constraints.
+conf/plilp/Boye91:::Johan Boye:::S-SLD-resolution - An Operational Semantics for Logic Programs with External Procedures.
+conf/plilp/AltSW93:::Martin Alt::Georg Sander::Reinhard Wilhelm:::Generation of Synchronization Code for Parallel Compilers.
+conf/plilp/ParigotRJD96:::Didier Parigot::Gilles Roussel::Martin Jourdan::Étienne Duris:::Dynamic Attribute Grammars.
+conf/plilp/GrahamK91:::T. C. Nicholas Graham::Gerd Kock:::Domesticating Imperative Constructs So That They Can Live in a Functional World.
+conf/plilp/Pettersson94:::Mikael Pettersson:::RML - A New Language and Implementation for Natural Semantics.
+conf/plilp/CorsiniMRC93:::Marc-Michel Corsini::Kaninda Musumbu::Antoine Rauzy::Baudouin Le Charlier:::Efficient Bottom-up Abstract Interpretation of Prolog by Means of Constraint Solving over Symbolic Finite Domains.
+conf/plilp/Holzbaur92:::Christian Holzbaur:::Metastructures versus Attributed Variables in the Context of Extensible Unification.
+conf/plilp/Achten95:::Peter Achten:::A Functional Framework for Deterministically Interleaved Interactive Programs

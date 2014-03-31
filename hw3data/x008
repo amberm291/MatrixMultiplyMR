@@ -1,0 +1,200 @@
+journals/pc/Senechaud91:::Pascale Sénéchaud:::A MIMD Implementation of the Buchberger Algorithm for Boolean Polynomials.
+journals/pc/MuhlenbeinSB91:::Heinz Mühlenbein::M. Schomisch::Joachim Born:::The parallel genetic algorithm as function optimizer.
+journals/pc/Gurke88:::R. Gurke:::The approximate solution of the Euclidean traveling salesman problem on a CRAY X-MP.
+journals/pc/BrugueraAZ93:::Javier D. Bruguera::Elisardo Antelo::Emilio L. Zapata:::Design of a Pipelined Radix 4 CORDIC Processor.
+journals/pc/Schimmler91:::Manfred Schimmler:::Parallel strong orientation on a mesh connected computer.
+journals/pc/ParkLY02:::Taesoon Park::Inseon Lee::Heon Young Yeom:::An efficient causal logging scheme for recoverable distributed shared memory systems.
+journals/pc/FilinF92:::Anatol G. Filin::Michael A. Frumkin:::A systolic array for inversion of a finite Radon transform.
+journals/pc/HammondLDS95:::Steven W. Hammond::Richard D. Loft::John M. Dennis::Richard K. Sato:::Implementation and Performance Issues of a Massively Parallel Atmospheric Model.
+journals/pc/Kuznetsov98:::S. V. Kuznetsov:::Orthogonal Reduction of Dense Matrices to Bidiagonal Form on Computers with Distributed Memory Architectures.
+journals/pc/MorelBK97:::É. Morel::J. Briat::Jacques Chassin de Kergommeaux:::Cuts and Side-Effects in Distributed Memory OR-Parallel Prolog.
+journals/pc/HuEB96:::Y. F. Hu::D. R. Emerson::R. J. Blake:::The Communication Performance of the Cray T3D and its Effect on Iterative Solvers.
+journals/pc/Lin01:::Hai-Xiang Lin:::A unifying graph model for designing parallel algorithms for tridiagonal systems.
+journals/pc/Loh96:::Peter K. K. Loh:::Artificial Intelligence Search Techniques as Fault-Tolerant Routing Strategies.
+journals/pc/Rao97:::S. Chandra Sekhara Rao:::Existence and Uniqueness of WZ Factorization.
+journals/pc/Wen95:::Zhaofang Wen:::Fast Parallel Algorithms for the Maximum Sum Problem.
+journals/pc/WuS94:::Shen Shen Wu::David Sweeting:::Heuristic Algorithms for Task Assignment and Scheduling in a Processor Network.
+journals/pc/KehL00:::Huan-Chao Keh::Jen-Chih Lin:::On fault-tolerant embedding of Hamiltonian cycles, linear arrays and rings in a Flexible Hypercube.
+journals/pc/Calvin96:::Christophe Calvin:::Implementation of Parallel FFT Algorithms on Distributed Memory Machines with a Minimum Overhed of Communication.
+journals/pc/Blomvall03:::Jörgen Blomvall:::A multistage stochastic programming algorithm suitable for parallel computing.
+journals/pc/KimH97:::Seong-Pyo Kim::Taisook Han:::Fault-Tolerant Wormhole Routing in Mesh with Overlapped Solid Fault Regions.
+journals/pc/KimL90:::Hyoung Joong Kim::Jang Gyu Lee:::A parallel algorithm solving a tridiagonal Toeplitz linear system.
+journals/pc/McBryan88:::Oliver A. McBryan:::The Connection Machine: PDE solution on 65536 processors.
+journals/pc/LaiL88:::C.-H. Lai::Heather M. Liddell:::Finite elements using long vectors of the DAP.
+journals/pc/LeeC02:::PeiZong Lee::Wen-Yao Chen:::Generating communication sets of array assignment statements for block-cyclic distribution on distributed memory parallel computers.
+journals/pc/Al-SadiDO01:::Jehad Al-Sadi::Khaled Day::Mohamed Ould-Khaoua:::Fault-tolerant routing in hypercubes using probability vectors.
+journals/pc/LinC99:::W.-Y. Lin::C.-L. Chen:::Minimum communication cost reordering for parallel sparse Cholesky factorization.
+journals/pc/LinX00:::W.-M. Lin::W. Xie:::Load-skewing task assignment to minimize communication conflicts on network of workstations.
+journals/pc/AmestoyDLL03:::Patrick Amestoy::Iain S. Duff::Jean-Yves L'Excellent::Xiaoye S. Li:::Impact of the implementation of MPI point-to-point communications on the performance of two general sparse solvers.
+journals/pc/MinM96:::Dugki Min::Matt W. Mutka:::A Model for Analyzing Interactions in 2-D Mesh Wormhole-Routed Multicomputers.
+journals/pc/SakaiKY93:::Shuichi Sakai::Yuetsu Kodama::Yoshinori Yamaguchi:::Design and Implementation of a Circular Omega Network in the EM-4.
+journals/pc/Feitelson91:::Dror G. Feitelson:::Deadlock detection without wait-for graphs.
+journals/pc/SheehanSPPLD98:::Timothy J. Sheehan::William A. Shelton::Thomas J. Pratt::Philip M. Papadopoulos::Philip F. LoCascio::Thomas H. Dunigan:::The Locally Self-Consistent Multiple Scattering Code in a Geographically Distributed Linked MPP Environment.
+journals/pc/ClementQ97:::Mark J. Clement::Michael J. Quinn:::Automated Performance Prediction for Scalable Parallel Computing.
+journals/pc/GramaKS98:::Ananth Grama::Vipin Kumar::Ahmed H. Sameh:::Scalable Parallel Formulations of the Barnes-Hut Method for <i>n</i>-Body Simulations.
+journals/pc/AdamsO89:::Loyce M. Adams::Elizabeth G. Ong:::Additive polynomial preconditioners for parallel computers.
+journals/pc/GroppLDS96:::William Gropp::Ewing L. Lusk::Nathan Doss::Anthony Skjellum:::A High-Performance, Portable Implementation of the MPI Message Passing Interface Standard.
+journals/pc/RaoM97:::P. S. Rao::G. Mouney:::Data Communication in Parallel Block Predictor-Corrector Methods for Solving ODE's.
+journals/pc/EvansB94:::D. J. Evans::W. U. N. Butt:::Load Balancing With Network Partitioning Using Host Groups.
+journals/pc/EvansR89:::D. J. Evans::A. M. S. Rahma:::The numerical solution of Fredholm integral equations on parallel computers.
+journals/pc/Shen97:::Hong Shen:::Optimal Parallel Multiselection on EREW PRAM.
+journals/pc/Taft01:::James R. Taft:::Achieving 60 GFLOP/s on the production CFD code OVERFLOW-MLP.
+journals/pc/HouleT98:::Michael E. Houle::Gavin Turner:::Dimension-Exchange Token Distribution on the Mesh and the Torus.
+journals/pc/NielsenZ92:::Soren S. Nielsen::Soren A. Zenios:::Data structures for network algorithms on massively parallel architectures.
+journals/pc/Stpiczynski92:::Przemyslaw Stpiczynski:::Parallel Cholesky factorization on orthogonal multiprocessors.
+journals/pc/WestonC90:::Jim Weston::Maurice Clint:::Two algorithms for the parallel computation of eigenvalues and eigenvectors of large symmetric matrices using the ICL DAP.
+journals/pc/Baillie88:::C. F. Baillie:::Comparing shared and distributed memory computers.
+journals/pc/ChenF91:::Wen-Tsuen Chen::Ming-Yi Fang:::An efficient procedure for theorem proving in propositional logic on vector computers.
+journals/pc/ChenS97:::Yuh-Shyan Chen::Jang-Ping Sheu:::Tolerating Faults in Injured Hypercubes Using Maximal Fault-Free Subcube-Ring.
+journals/pc/GarbeyL90:::Marc Garbey::David Levine:::Massively parallel computation of conservation laws.
+journals/pc/ZocklerSH97:::Malte Zöckler::Detlev Stalling::Hans-Christian Hege:::Parallel Line Integral Convolution.
+journals/pc/HoeflingerAJK01:::Jay Hoeflinger::Prasad Alavilli::Thomas Jackson::Bob Kuhn:::Producing scalable performance with OpenMP: Experiments with two CFD applications.
+journals/pc/Butel92:::R. Butel:::A Cray-2 versus CM-2 comparison using several polynomial benchmarks.
+journals/pc/Eckardt90:::H. Eckardt:::System performance and execution of scientific algorithms on the parallel computer Parawell.
+journals/pc/Zhou93:::H. B. Zhou:::Two-Stage m-Way Graph Partitioning.
+journals/pc/Milyukova01:::O. Yu. Milyukova:::Parallel approximate factorization method for solving discrete elliptic equations.
+journals/pc/DasuP02:::Aravind Dasu::Sethuraman Panchanathan:::Reconfigurable media processing.
+journals/pc/LlorentePD01:::Ignacio Martín Llorente::Manuel Prieto-Matías::Boris Diskin:::A parallel multigrid solver for 3D convection and convection-diffusion problems.
+journals/pc/BenkahlaAR98:::Oum-El-Kheir Benkahla::C. Aktouf::Chantal Robach:::Performance Evaluation of Distributed Diagnosis Algorithms in Parallel Systems.
+journals/pc/VaidyanathanTL03:::Ramachandran Vaidyanathan::Jerry L. Trahan::Chun-ming Lu:::Degree of scalability: scalable reconfigurable mesh algorithms for multiple addition and matrix-vector multiplication.
+journals/pc/BabbSE88:::Robert G. Babb II::L. Storc::Peter G. Eltgroth:::Parallelization schemes for 2-D hydrodynamics codes using the independent time step method.
+journals/pc/GutierrezAPZ00:::Eladio Gutiérrez::Rafael Asenjo::Oscar G. Plata::Emilio L. Zapata:::Automatic parallelization of irregular applications.
+journals/pc/Brandes88:::Thomas Brandes:::Determination of dependencies in a knowledge-based parallelization tool.
+journals/pc/Zambonelli99:::Franco Zambonelli:::Exploiting biased load information in direct-neighbour load balancing policies.
+journals/pc/BhandarkarMCA98:::Suchendra M. Bhandarkar::Salem Machaka::Sridhar Chirravuri::Jonathan Arnold:::Parallel Computing for Chromosome Reconstruction via Ordering of DNA Sequences.
+journals/pc/Mascagni98:::Michael Mascagni:::Parallel Linear Congruential Generators with Prime Moduli.
+journals/pc/StojcevMM90:::Mile K. Stojcev::Emina I. Milovanovic::Igor Z. Milovanovic:::An algorithm for multiplication of concatenated matrices.
+journals/pc/WedemannBD99a:::Roseli S. Wedemann::Valmir C. Barbosa::Raul Donangelo:::Erratum to ``Defeasible time-stepping'' [Parallel Computing 25(4): 461-489 (1999)].
+journals/pc/StarkB92:::S. Stark::A. N. Beris:::LU decomposition optimized for a parallel computer with a hierarchical distributed memory.
+journals/pc/Serafino97:::Daniela di Serafino:::A Parallel Implementation of a Multigrid Multiblock Euler Solver on Distributed Memory Machines.
+journals/pc/RibeiroB92:::C. Ribeiro::Didier El Baz:::A parallel optimal routing algorithm.
+journals/pc/HackRWBT95:::James J. Hack::James M. Rosinski::David L. Williamson::Byron A. Boville::John E. Truesdale:::Computational Design of the NCAR Community Climate Model.
+journals/pc/Lahlou00:::Chams Lahlou:::Approximation algorithms for scheduling with a limited number of communications.
+journals/pc/NicolescuJ02:::Cristina Nicolescu::Pieter Jonker:::A data and task parallel image processing environment.
+journals/pc/McCombsS03:::James R. McCombs::Andreas Stathopoulos:::Parallel, multigrain iterative solvers for hiding network latencies on MPPs and networks of clusters.
+journals/pc/Weberpals90:::Helmut Weberpals:::Architectural approach to the IBM 3090E vector performance.
+journals/pc/StubenMTT96:::Klaus Stüben::Hermann Mierendorff::Clemens-August Thole::Owen Thomas:::Industrial Parallel Computing with Real Codes.
+journals/pc/CorreaKS03:::Wagner Toledo Corrêa::James T. Klosowski::Cláudio T. Silva:::Out-of-core sort-first parallel rendering for cluster-based tiled displays.
+journals/pc/GuptaH92:::Ajay K. Gupta::Susanne E. Hambrusch:::Load balanced tree embeddings.
+journals/pc/KramerM89:::Ottmar Krämer::Heinz Mühlenbein:::Mapping strategies in message-based multiprocessor systems.
+journals/pc/PaprzyckiG91:::Marcin Paprzycki::Ian Gladwell:::Solving almost block diagonal systems on parallel computers.
+journals/pc/PaprzyckiG93:::Marcin Paprzycki::Ian Gladwell:::A Parallel Chopping Algorithm for ODE Boundary Value Problems.
+journals/pc/Gusken99:::Stephan Güsken:::Stochastic estimator techniques and their implementation on distributed parallel computers.
+journals/pc/SwaaijCM90:::M. F. X. B. van Swaaij::Francky Catthoor::Hugo De Man:::Deriving ASIC architectures for the Hough transform.
+journals/pc/LefebvreF98:::Vincent Lefebvre::Paul Feautrier:::Automatic Storage Management for Parallel Programs.
+journals/pc/DesprezT95:::Frederic Desprez::Bernard Tourancheau:::Basic Routines for the Rank-2k Update: 2D Torus vs Reconfigurable Network.
+journals/pc/CaronCCDFGGQJLLNPRRRSSU01:::Eddy Caron::Serge Chaumette::Sylvain Contassot-Vivier::Frederic Desprez::Eric Fleury::C. Gomez::M. Goursat::Martin Quinson::Emmanuel Jeannot::Dominique Lazure::Frédéric Lombard::Jean-Marc Nicod::Laurent Philippe::Pierre Ramet::Jean Roman::Frank Rubi::S. Steer::Frédéric Suter::Gil Utard:::SCILAB to SCILAB<sub>//</sub>: The OURAGAN project.
+journals/pc/SanchesSY02:::Carlos Alberto Alonso Sanches::Nei Yoshihiro Soma::Horacio Hideki Yanasse:::Comments on parallel algorithms for the knapsack problem.
+journals/pc/BeazleyL94:::David M. Beazley::Peter S. Lomdahl:::Message-Passing Multi-Cell Molecular Dynamics on the Connection Machine 5.
+journals/pc/Phillips91:::C. Phillips:::The performance of the BLAS and LAPACK on a shared memory scalar multiprocessor.
+journals/pc/WestermannE97:::Rüdiger Westermann::Thomas Ertl:::Distributed Volume Visualization: A Step Towards Integrated Data Analysis and Image Synthesis.
+journals/pc/GuskenLS99:::Stephan Güsken::Thomas Lippert::Klaus Schilling:::Lattice QCD with two dynamical Wilson fermions on APE100 parallel systems.
+journals/pc/KumarYLH01:::B. V. Rathish Kumar::T. Yamaguchi::H. Liu::Ryutaro Himeno:::A parallel 3D unsteady incompressible flow solver on VPP700.
+journals/pc/PengWY03:::Liang Peng::Weng-Fai Wong::Chung-Kwong Yuen:::SilkRoad II: mixed paradigm cluster computing with RC_dag consistency.
+journals/pc/BergamaschiPS01:::Luca Bergamaschi::Giorgio Pini::Flavio Sartoretto:::Parallel preconditioning of a sparse eigensolver.
+journals/pc/BlockFM90:::U. Block::Andreas Frommer::G. Mayer:::Block colouring schemes for the SOR method on local memory parallel computers.
+journals/pc/Fiebach96:::Peter Fiebach:::Cyclic Block-Algorithms for Solving Triangular Systems on Distributed-Memory Multiprocessors with Mesh Topology.
+journals/pc/KergommeauxSB00:::Jacques Chassin de Kergommeaux::Benhur de Oliveira Stein::Pierre-Eric Bernard:::Pajé, an interactive visualization tool for tuning multi-threaded parallel applications.
+journals/pc/CrookesMMKS88:::Danny Crookes::Philip J. Morrow::Peter Milligan::P. L. Kilpatrick::N. S. Scott:::An array processing language for transputer networks.
+journals/pc/GutjahrHM97:::Walter J. Gutjahr::Martin Hitz::Thomas A. Mück:::Task Assignment in Cayley Interconnection Topologies.
+journals/pc/DontjeLPS92:::T. Dontje::Thomas Lippert::N. Petkov::Klaus Schilling:::Statistical analysis of simulation-generated time series: Systolic vs. semi-systolic correlation on the Connection Machine.
+journals/pc/BarthL99:::Dominique Barth::Christian Laforest:::Scattering and multi-scattering in trees and meshes, with local routing and without buffering.
+journals/pc/NagelL91:::Wolfgang E. Nagel::Markus A. Linn:::Benchmarking parallel programs in a multiprogramming environment: the PAR-Bench system.
+journals/pc/Laforenza02:::Domenico Laforenza:::Grid programming: some indications where we are headed.
+journals/pc/BalaBBCJEFHHIKLS94:::Vasanth Bala::Jehoshua Bruck::Raymond Bryant::Robert Cypher::Peter de Jong::Pablo Elustondo::Daniel D. Frye::Alex Ho::Ching-Tien Ho::Gail Irwin::Shlomo Kipnis::Richard Lawrence::Marc Snir:::The IBM External User Interface for Scalable Parallel Systems.
+journals/pc/Globisch95:::Gerhard Globisch:::PARMESH - A Parallel Mesh Generator.
+journals/pc/MadeV01:::Mardochée Magolu monga Made::Henk A. van der Vorst:::Parallel incomplete factorizations with pseudo-overlapped subdomains.
+journals/pc/DongarraSCP88:::Jack Dongarra::Danny C. Sorensen::K. Connolly::J. Patterson:::Programming methodology and performance issues for advanced computer architectures.
+journals/pc/Sanders02:::Peter Sanders:::Reconciling simplicity and realism in parallel disk models.
+journals/pc/GendreauLS01:::Michel Gendreau::Gilbert Laporte::Frédéric Semet:::A dynamic model and parallel tabu search heuristic for real-time ambulance relocation.
+journals/pc/KohoutG03:::James Kohout::Alan D. George:::A high-performance communication service for parallel computing on distributed DSP systems.
+journals/pc/Fischer91:::D. Fischer:::On superlinear speedups.
+journals/pc/BarendregtEPGKS89:::Hendrik Pieter Barendregt::Marko C. J. D. van Eekelen::Marinus J. Plasmeijer::John R. W. Glauert::Richard Kennaway::M. Ronan Sleep:::LEAN: an intermediate language based on graph rewriting.
+journals/pc/KacsukCDLFA97:::Péter Kacsuk::José C. Cunha::Gábor Dósza::João Lourenço::Tibor Fadgyas::Tiago Antão:::A Graphical Development and Debugging Environment for Parallel Programs.
+journals/pc/AltmanIO95:::Tom Altman::Yoshihide Igarashi::Koji Obokata:::Hyper-Ring Connection Machines.
+journals/pc/Megson90a:::Graham M. Megson:::Rank annihilation on a ring of processors.
+journals/pc/DriesscheR95:::Rafael Van Driessche::Dirk Roose:::An Improved Spectral Bisection Algorithm and its Application to Dynamic Load Balancing.
+journals/pc/Evans89:::D. J. Evans:::A systolic design for the Aitken extrapolation formula.
+journals/pc/Torralba91:::A. Torralba:::A systolic array with applications to image processing and wire-routing in VLSI circuits.
+journals/pc/CorradiLZ01:::Antonio Corradi::Letizia Leonardi::Franco Zambonelli:::Parallel object allocation via user-specified directives: A case study in traffic simulation.
+journals/pc/Maheshwari96:::Piyush Maheshwari:::Improving Granularity and Locality of Data in Multiprocessor Execution of Functional Programs.
+journals/pc/BeckaOV02:::Martin Becka::Gabriel Oksa::Marián Vajtersic:::Dynamic ordering for a parallel block-Jacobi SVD algorithm.
+journals/pc/ShadidHHMDS97:::John Shadid::Scott Hutchinson::Gary Hennigan::Harry Moffat::Karen Devine::A. G. Salinger:::Efficient Parallel Computation of Unstructured Finite Element Reacting Flow Solutions.
+journals/pc/GiolmasWCHYS99:::Nicholas Giolmas::Daniel W. Watson::David M. Chelberg::Peter V. Henstock::June-Ho Yi::Howard Jay Siegel:::Aspects of computational mode and data distribution for parallel range image segmentation.
+journals/pc/SamadH90:::T. Samad::P. Harper:::High-order Hopfield and Tank optimization networks.
+journals/pc/IbarraR93:::Louis Ibarra::Dana S. Richards:::Efficient Parallel Graph Algorithms Based on Open Ear Decomposition.
+journals/pc/ChronopoulosG89:::Anthony T. Chronopoulos::C. William Gear:::On the efficient implementation of preconditioned s-step conjugate gradient methods on multiprocessors with memory hierarchy.
+journals/pc/Mohd-SamanE93:::M. Y. Mohd-Saman::D. J. Evans:::Investigation of a Set of Bernstein Tests for the Detection of Loop Parallelization.
+journals/pc/Lanteri96:::Stéphane Lanteri:::Parallel Solutions of Compressible Flows Using Overlapping and Non-Overlapping Mesh Partitioning Strategies.
+journals/pc/NasriM01:::Wahid Nasri::Zaher Mahjoub:::Optimal parallelization of a recursive algorithm for triangular matrix inversion on MIMD computers.
+journals/pc/AntoniuBHMMN01:::Gabriel Antoniu::Luc Bougé::Philip J. Hatcher::Mark MacBeth::Keith McGuigan::Raymond Namyst:::The Hyperion system: Compiling multithreaded Java bytecode for distributed execution.
+journals/pc/Joubert02:::Gerhard R. Joubert:::Editorial.
+journals/pc/ZhangE92:::G. Zhang::H. C. Elman:::Parallel sparse Cholesky factorization on a shared memory multiprocessor.
+journals/pc/MisraNP93:::Manavendra Misra::David Nassimi::Viktor K. Prasanna:::Efficient VLSI Implementation of Iterative Solutions to Sparse Linear Systems.
+journals/pc/TervolaY91:::P. Tervola::W. Yeung:::Parallel Jacobi algorithm for matrix diagonalisation on transputer networks.
+journals/pc/CarlsonS89:::David A. Carlson::Binay Sugla:::Adapting shuffle-exchange like parallel processing organizations to work as systolic arrays.
+journals/pc/VarvarigosB95:::Emmanouel A. Varvarigos::Dimitri P. Bertsekas:::Transposition of Banded Matrices in Hypercubes: A Nearly Isotropic Task.
+journals/pc/MilovanovicMS90:::Igor Z. Milovanovic::Emina I. Milovanovic::Mile K. Stojcev:::An optimal algoPaulrajrithm for Gaussian elimination of band matrices on an MIMD computer.
+journals/pc/Globisch95a:::Gerhard Globisch:::On an Automatically Parallel Generation Technique for Tetrahedral Meshes.
+journals/pc/Giloi94:::Wolfgang K. Giloi:::The SUPRENUM Supercomputer: Goals, Achievements, and Lessons Learned.
+journals/pc/Wittenbrink98:::Craig M. Wittenbrink:::Extensions to Permutation Warping for Parallel Volume Rendering.
+journals/pc/Kanada93:::Yasusi Kanada:::A Method of Vector Processing for Shared Symbolic Data.
+journals/pc/BrewerDS88:::Orlie Brewer::Jack Dongarra::Danny C. Sorensen:::Tools to aid in the analysis of memory access patterns for FORTRAN programs.
+journals/pc/WangLCG02:::P. Wang::Karen Y. Liu::Tom Cwik::Robert Green:::MODTRAN on supercomputers and parallel computers.
+journals/pc/SunderamG99:::Vaidy S. Sunderam::Al Geist:::Heterogeneous parallel and distributed computing.
+journals/pc/ErhardG92:::W. Erhard::A. Grefe:::Improved parallel algorithms for the classification of electroencephalograms (EEGs) on the DAP510.
+journals/pc/DelvesAA94:::L. M. Delves::Cliff Addison::O. A. Aziz:::The Design and Implementation of a Portable Parallel Numerical Library.
+journals/pc/El-AmawyR93:::Ahmed El-Amawy::Ramachander Raja:::Split Sequence Generation Algorithms for Efficient Identification of Operational Subcubes in Faulty Hypercubes.
+journals/pc/BiaseCC89:::Giuseppe A. De Biase::P. Ciucci::M. Cottone:::Vectorized algorithms for astronomical image processing.
+journals/pc/BarrosDIMW95:::Saulo R. M. Barros::David Dent::Lars Isaksen::G. Mozdzynski::Fritz G. Wollenweber:::The IFS Model: A Parallel Production Weather Code.
+journals/pc/BolengM01:::Jeff Boleng::Manavendra Misra:::Load balanced parallel QR decomposition on shared memory multiprocessors.
+journals/pc/AlnuweiriK89:::Hussein M. Alnuweiri::Viktor K. Prasanna:::An efficient VLSI architecture with applications to geometric problems.
+journals/pc/LuthiMKH97:::Johannes Lüthi::Shikharesh Majumdar::Gabriele Kotsis::Günter Haring:::Performance Bounds for Distributed Systems with Workload Variabilities and Uncertainties.
+journals/pc/MontagneRSB94:::E. Montagne::M. Rukoz::R. Surós::F. Breant:::Modeling Optimal Granularity when Adapting Systolic Algorithms to Transputer Based Supercomputers.
+journals/pe/Li91:::San-qi Li:::Performance of Trunk Grouping in Packet Switch Design.
+journals/pe/AliZH03:::Mustafa K. Mehmet Ali::X. Zhang::Jeremiah F. Hayes:::A performance analysis of a discrete-time queueing system with server interruption for modeling wireless ATM multiplexer.
+journals/pe/Ait-HellalAJK99:::Omar Ait-Hellal::Eitan Altman::Alain Jean-Marie::Irina A. Kurkova:::On Loss Probabilities in Presence of Redundant Packets and Several Traffic Sources.
+journals/pe/IbeC89:::Oliver C. Ibe::Xian Cheng:::Performance Analysis of Asymmetric Single-Buffer Polling Systems.
+journals/pe/Pekergin99:::Nihal Pekergin:::Stochastic Performance Bounds by State Space Reduction.
+journals/pe/BrassilC96:::Jack Brassil::Rene L. Cruz:::Nonuniform Traffic in the Manhattan Street Network.
+journals/pe/SharmaV02:::Vinod Sharma::Jorma T. Virtamo:::A finite buffer queue with priorities.
+journals/pe/LuiG99:::John C. S. Lui::Leana Golubchik:::Stochastic Complement Analysis of Multi-Server Threshold Queues with Histeresis.
+journals/pe/VernonJS89:::Mary K. Vernon::Rajeev Jog::Gurindar S. Sohi:::Performance Analysis of Hierarchical Cache-Consistent Multiprocessors.
+journals/pe/JaffeR88:::Jeffrey M. Jaffe::Zvi Rosberg:::Maximal Throughput in a Tandem Multi-Hop Radio Network.
+journals/pe/DuboisJN02:::Michel Dubois::Jaeheon Jeong::Ashwini K. Nanda:::Shared cache architectures for decision support systems.
+journals/pe/Wieber86:::Gerold K. Wieber:::Performance Analysis of a Virtual Circuit Protocol with Local Control.
+journals/pe/RyuT87:::In Kyung Ryu::Alexander Thomasian:::Performance Analysis of Centralized Databases with Optimistic Concurrency Control.
+journals/pe/GhoshBM86:::Sukumar Ghosh::Somprakash Bandyopadhyay::Chandan Mazumdar:::Study of a Simulated Stream Machine for Dataflow Computation.
+journals/pe/MondragonAP01:::R. J. Mondragón::D. K. Arrowsmith::Jonathan M. Pitts:::Chaotic maps for traffic modelling and queueing performance analysis.
+journals/pe/FischerS92:::Wolfgang Fischer::David A. Stanford:::Approximations for the Per-Class Waiting Time and Interdepearture Time in the Sigma_i GI_i/GI_i/1 Queue.
+journals/pe/ChenC99:::Jin-Ru Chen::Yaw-Chung Chen:::Improving Data Transport Performance Through SSCOP with Rate-Based Flow Control.
+journals/pe/GrassiD92:::Vincenzo Grassi::Lorenzo Donatiello:::Sensitivity Analysis of Performability.
+journals/pe/EndrissSZ91:::Oliver Endriss::Michael Steinbrunn::Martina Zitterbart:::NETMON-II A Monitoring Tool for Distributed and Multiprocessor Systems.
+journals/pe/Yang95:::Oliver W. W. Yang:::Performance Comparison of Some Discrete Service Time Systems.
+journals/pe/JinKC97:::Jin Seek Choi::Kye Sang Lee::Chong Kwan Un:::Performance Comparison of Nonpreemptive and Preemptive Priority Queueing Strategies in ATM Packet Switch with Input Buffers.
+journals/pe/GraveyH92:::Annie Gravey::Gérard Hébuterne:::Simultaneity in Discrete-Time Single Server Queues with Bernoulli Inputs.
+journals/pe/SivaramanC99:::Vijay Sivaraman::Fabio M. Chiussi:::Statistical Analysis of Delay Bound Violations at an Earliest Deadline First (EDF) Scheduler.
+journals/pe/Takagi85:::Hideaki Takagi:::On the Analysis of a Symmetric Polling System with Single-Message Buffers.
+journals/pe/TakineRH94:::Tetsuya Takine::Jing-Fei Ren::Toshiharu Hasegawa:::Analysis of the Resequencing Buffer in a Homogeneous M/M/2 Queue.
+journals/pe/HeszbergerZB02:::Zalán Heszberger::János Zátonyi::József Bíró:::Performance bounds for rate envelope multiplexing.
+journals/pe/AkyildizB88:::Ian F. Akyildiz::Gunter Bolch:::Mean Value Analysis Approximation for Multiple Server Queueing Networks.
+journals/pe/BadrGP86:::Hussein G. Badr::David Gelernter::Sunil Podar:::An Adaptive Communications Protocol for Network Computers.
+journals/pe/Tedijanto92:::Theodore E. Tedijanto:::A Note on the Comparison Between Bernoulli and Limited Policies in Vacation Models.
+journals/pe/SquillanteXZ02:::Mark S. Squillante::Cathy H. Xia::Li Zhang:::Optimal scheduling in queuing network models of high-volume commercial web sites.
+journals/pe/ChengCC03:::Sheng-Tzong Cheng::Chi-Ming Chen::Ing-Ray Chen:::Performance evaluation of an admission control algorithm: dynamic threshold with negotiation.
+journals/pe/SteyaertY96:::Bart Steyaert::Xiong Yijun:::Analysis of a Discrete-Time Queue with General Three-State Markovian Traffic Sources.
+journals/pe/NilssonP02:::Pål Nilsson::Michal Pióro:::Solving dimensioning tasks for proportionally fair networks carrying elastic traffic.
+journals/pe/DziongR87:::Zbigniew Dziong::James W. Roberts:::Congestion Probabilities in a Circuit-Switched Integrated Services Network.
+journals/pe/LaevensB96:::K. Laevens::Herwig Bruneel:::Discrete-Time Queueing Models with Feedback for Input-Buffered ATM Switches.
+journals/pe/HaverkortN96:::Boudewijn R. Haverkort::Ignas G. Niemegeers:::Performability Modelling Tools and Techniques.
+journals/pe/BernardoBR02:::Marco Bernardo::Nadia Busi::Marina Ribaudo:::Integrating TwoTowers and GreatSPN through a compact net semantics.
+journals/pe/Saito90:::Hiroshi Saito:::The Departure Process of an N/G/1 Queue.
+journals/pe/XiongSB94:::Yijun Xiong::Bart Steyaert::Herwig Bruneel:::An ATM Statistical Multiplexer with On/Off Sources and Spacing: Numerical and Analytical Performance Studies.
+journals/pe/BouhchouchFD96:::A. Bouhchouch::Yannik Frein::Yves Dallery:::Performance Evaluation of Closed Tandem Queueing Networks with Finite Buffers.
+journals/pe/LevyK91:::Hanoch Levy::Leonard Kleinrock:::Polling Systems with Zero Switch-Over Periods: A General Method for Analyzing the Expected Delay.
+journals/pe/GopalK89:::Prabandham M. Gopal::Bharath K. Kadaba:::Network Delay Considerations for Packetized Voice.
+journals/pe/EagerFV00:::Derek L. Eager::Michael C. Ferris::Mary K. Vernon:::Optimized caching in systems with heterogeneous client populations.
+journals/pe/GeistRS94:::Robert Geist::Robert G. Reynolds::Darrell Suggs:::Minimizing Mean Seek Distance in Mirrored Disk Systems by Cylinder Remapping.
+journals/pe/Falin96:::Gennadi Falin:::Heavy Traffic Analysis of Integrated Services Systems.
+journals/pe/Silva92:::Edmundo de Souza e Silva:::TIMS XXX-SOBRAPO XXIII Joint International Meeting, Performance Evaluation Cluster, 15-17 July 1991, Rio de Janeiro, Brazil.
+journals/pe/BorstM96:::Sem C. Borst::Debasis Mitra:::Optimal Connection Admission Control in ATM Networks.

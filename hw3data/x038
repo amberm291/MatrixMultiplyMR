@@ -1,0 +1,200 @@
+journals/tse/Evanco03:::William M. Evanco:::Comments on "The Confounding Effect of Class Size on the Validity of Object-Oriented Metrics".
+journals/tse/JaffeLHM91:::Matthew S. Jaffe::Nancy G. Leveson::Mats Per Erik Heimdahl::Bonnie E. Melhart:::Software Requirements Analysis for Real-Time Process-Control Systems.
+journals/tse/CameronCGKNUV88:::E. Jane Cameron::David M. Cohen::B. Gopinath::William M. Keese II::Linda Ness::Prem Uppaluru::John R. Vollaro:::The IC* Model of Parallel Computation and Programming Environment.
+journals/tse/HerlihyM89:::Maurice Herlihy::Martin S. McKendry:::Timestamp-Based Orphan Elimination.
+journals/tse/Boswell95:::Anthony Boswell:::Specification and Validation of a Security Policy Model.
+journals/tse/SeamanB98:::Carolyn B. Seaman::Victor R. Basili:::Communication and Organization: An Empirical Study of Discussion in Inspection Meetings.
+journals/tse/Bradley88:::J. Bradley:::A Group-Select Operation for Relational Algebra and Implications for Database Machine Design.
+journals/tse/RaskLL93:::Raimo Rask::Petteri Laamanen::Kalle Lyytinen:::Simulation and Comparison of Albrecht's Function Point and DeMarco's Function Bang Metrics in a CASE Environment.
+journals/tse/StankovicZ02:::Nenad Stankovic::Kang Zhang:::A Distributed Parallel Programming Framework.
+journals/tse/SymesO77:::Lawrence R. Symes::R. R. Oldehoeft:::Context of Problem-Solving Systems.
+journals/tse/Howden80:::William E. Howden:::Functional Program Testing.
+journals/tse/GriswoldN95:::William G. Griswold::David Notkin:::Architectural Tradeoffs for a Meaning-Preserving Program Restructuring Tool.
+journals/tse/ChenY94:::Tsong Yueh Chen::Yuen-Tak Yu:::On the Relationship Between Partition and Random Testing.
+journals/tse/LecerofP98:::Andreas Lecerof::Fabio Paternò:::Automatic Support for Usability Evaluation.
+journals/tse/Buchholz99:::Peter Buchholz:::Hierarchical Structuring of Superposed GSPNs.
+journals/tse/ChinO82:::Francis Y. L. Chin::Gultekin Özsoyoglu:::Auditing and Inference Control in Statistical Databases.
+journals/tse/ChinR87:::Francis Y. L. Chin::K. V. S. Ramarao:::An Information-Based Model for Failure-Handling in Distributed Database Systems.
+journals/tse/LimBJRMPSPMK95:::Sung-Soo Lim::Young Hyun Bae::Gyu Tae Jang::Byung-Do Rhee::Sang Lyul Min::Chang Yun Park::Heonshik Shin::Kunsoo Park::Soo-Mook Moon::Chong-Sang Kim:::An Accurate Worst Case Timing Analysis for RISC Processors.
+journals/tse/BatiniBS93:::Carlo Batini::Giuseppe Di Battista::Giuseppe Santucci:::Structuring Primitives for a Dictionary of Entity Relationship Data Schemas.
+journals/tse/Minsky91:::Naftaly H. Minsky:::The Imposition of Protocols Over Open Distributed Systems.
+journals/tse/Voas92:::Jeffrey M. Voas:::PIE: A Dynamic Failure-Based Technique.
+journals/tse/KruskalW85:::Clyde P. Kruskal::Alan Weiss:::Allocating Independent Subtasks on Parallel Processors.
+journals/tse/ChuSL91:::Wesley W. Chu::Chi-Man Sit::Kin K. Leung:::Task Response Time For Real-Time Distributed Systems With Resource Contentions.
+journals/tse/SmithHP01:::Randy K. Smith::Joanne E. Hale::Allen S. Parrish:::An Empirical Study Using Task Assignment Patterns to Improve the Accuracy of Software Effort Estimation.
+journals/tse/SmithKW85:::Douglas R. Smith::Gordon Kotik::Stephen J. Westfold:::Research on Knowledge-Based Software Environments at Kestrel Institute.
+journals/tse/WuCJ02:::Hui Wu::Wei-Ngan Chin::Joxan Jaffar:::An Efficient Distributed Deadlock Avoidance Algorithm for the AND Model.
+journals/tse/XieY03:::Min Xie::Bo Yang:::A Study of the Effect of Imperfect Debugging on Software Development Cost.
+journals/tse/RavnRH93:::Anders P. Ravn::Hans Rischel::Kirsten Mark Hansen:::Specifying and Verifying Requirements of Real-Time Systems.
+journals/tse/KramerGR01:::Jeff Kramer::David Garlan::David S. Rosenblum:::Guest Editors' Introduction: 1999 International Conference on Software Engineering.
+journals/tse/Yang89:::Chao-Chih Yang:::Deduction Graphs: An Algorithm and Applications.
+journals/tse/Holzmann87:::Gerard J. Holzmann:::Automated Protocol Validation in <i>Argos: </i> Assertion Proving and Scatter Searching.
+journals/tse/Osterbye95:::Kasper Østerbye:::Literate Smalltalk Programming Using Hypertext.
+journals/tse/StewartS84:::William J. Stewart::Wayne P. Stohs:::Some Equivalence Results for Load-Independent Exponential Queueing Networks.
+journals/tse/IndurkhyaSX86:::Bipin Indurkhya::Harold S. Stone::Lu Xi-Cheng:::Optimal Partitioning of Randomly Generated Distributed Programs.
+journals/tse/YenS93:::Minnie Yi-Miin Yen::Richard W. Scamell:::A Human Factors Experimental Comparison of SQL and QBE.
+journals/tse/Shilling93:::John J. Shilling:::Incremental LL(1) Parsing in Language-Based Editors.
+journals/tse/Ferrari86:::Domenico Ferrari:::Considerations in the Insularity of Performance Evaluation.
+journals/tse/MalhotraMTPB89:::Ashok Malhotra::H. M. Markowitz::Yakov Tsalalikhin::Donald P. Pazel::Luanne M. Burns:::An Entity Relationship Programming Language.
+journals/tse/McMullinG83:::Paul R. McMullin::John D. Gannon:::Combining Testing with Formal Specifications: A Case Study.
+journals/tse/Siegrist88a:::Kyle Siegrist:::Reliability of Systems with Markov Transfer of Control, II.
+journals/tse/ElmagarmidSL88:::Ahmed K. Elmagarmid::Neelam Soundararajan::Ming T. Liu:::A Distributed Deadlock Detection and Resolution Algorithm and Its Correctness Proof.
+journals/tse/SelbyP88:::Richard W. Selby::Adam A. Porter:::Learning from Examples: Generation and Evaluation of Decision Trees for Software Resource Analysis.
+journals/tse/HeilemanGR92:::Gregory L. Heileman::Michael Georgiopoulos::William D. Roome:::A General Framework for Concurrent Simulation of Neural Network Models.
+journals/tse/Karam90:::Gerald M. Karam:::Computational Improvements in Prolog Applications by Predicate Variable Pointers.
+journals/tse/Turski02:::Wladyslaw M. Turski:::The Reference Model for Smooth Growth of Software Systems Revisited.
+journals/tse/Turski84:::Wladyslaw M. Turski:::On Programming by Iterations.
+journals/tse/WolfsonSY91:::Ouri Wolfson::Soumitra Sengupta::Yechiam Yemini:::Managing Communication Networks by Monitoring Databases.
+journals/tse/DeanC95:::Thomas R. Dean::James R. Cordy:::A Syntactic Theory of Software Architecture.
+journals/tse/RamamoorthyUPT90:::C. V. Ramamoorthy::Yutaka Usuda::Atul Prakash::W. T. Tsai:::The Evolution Support Environment System.
+journals/tse/ShepardG91:::Terry Shepard::J. A. Martin Gagné:::A Pre-Run-Time Scheduling Algorithm For Hard Real-Time Systems.
+journals/tse/YounisMST99:::Mohamed F. Younis::Thomas J. Marlowe::Alexander D. Stoyen::Grace Tsai:::Statically Safe Speculative Execution for Real-Time Systems.
+journals/tse/HalpernOPW87:::J. Daniel Halpern::Sam Owre::Norman Proctor::William F. Wilson:::Muse - A Computer Assisted Verification System.
+journals/tse/GerrardCG90:::Christopher Paul Gerrard::Derek Coleman::Robin M. Gallimore:::Formal Specification and Design Time Testing.
+journals/tse/YauC80a:::Stephen S. Yau::James S. Collofello:::Some Stability Measures for Software Maintenance.
+journals/tse/GrammatikakisL00:::Miltos D. Grammatikakis::Stefan Liesche:::Priority Queues and Sorting Methods for Parallel Simulation.
+journals/tse/Ottenstein79:::Linda M. Ottenstein:::Quantitative Estimates of Debugging Requirements.
+journals/tse/WegnerS83:::Peter Wegner::Scott A. Smolka:::Processes, Tasks, and Monitors: A Comparative Study of Concurrent Programming Primitives.
+journals/tse/BhargavanGKLOSV02:::Karthikeyan Bhargavan::Carl A. Gunter::Moonjoo Kim::Insup Lee::Davor Obradovic::Oleg Sokolsky::Mahesh Viswanathan:::Verisim: Formal Analysis of Network Simulations.
+journals/tse/JohnsonFH92:::W. Lewis Johnson::Martin S. Feather::David R. Harris:::Representation and Presentation of Requirements Knowledge.
+journals/tse/HolzmannS02:::Gerard J. Holzmann::Margaret H. Smith:::An Automated Verification Method for Distributed Systems Software Based on Model Extraction.
+journals/tse/BaerS76a:::Jean-Loup Baer::Gary R. Sager:::Correction to "Dynamic Improvement of Locality in Virtual Memory Systems".
+journals/tse/Kurki-Suonio93:::Reino Kurki-Suonio:::Stepwise Design of Real-Time Systems.
+journals/tse/ConcepcionZ88:::Arturo I. Concepcion::Bernard P. Zeigler:::DEVS Formalism: A Framework for Hierarchical Model Development.
+journals/tse/BastaniYC88:::Farokh B. Bastani::I-Ling Yen::Ing-Ray Chen:::A Class of Inherently Fault Tolerant Distributed Programs.
+journals/tse/Stavely95:::Allan M. Stavely:::Verifying Definite Iteration Over Data Structures.
+journals/tse/Alford77:::Mack W. Alford:::A Requirements Engineering Methodology for Real-Time Processing Requirements.
+journals/tse/BoisvertRH79:::Ronald F. Boisvert::John R. Rice::Elias N. Houstis:::A System for Performance Evaluation of Partial Differential Equations Software.
+journals/tse/JanickiS01:::Ryszard Janicki::Emil Sekerinski:::Foundations of the Trace Assertion Method of Module Interface Specification.
+journals/tse/ItaiKWZ90:::Alon Itai::Shay Kutten::Yaron Wolfstahl::Shmuel Zaks:::Optimal Distributed t-Resilient Election in Complete Networks.
+journals/tse/BoehmP88:::Barry W. Boehm::Philip N. Papaccio:::Understanding and Controlling Software Costs.
+journals/tse/StempleVR86:::David W. Stemple::Stephen Vinter::Krithi Ramamritham:::Functional Addressing in Gutenberg: Interprocess Communication without Process Indentifiers.
+journals/tse/Agrawal88:::Rakesh Agrawal:::Alpha: An Extension of Relational Algebra to Express a Class of Recursive Queries.
+journals/tse/MicallefK93:::Josephine Micallef::Gail E. Kaiser:::Support Algorithms for Incremental Attribute Evaluation of Asynchronous Subtree Replacements.
+journals/tse/Smith81a:::Alan Jay Smith:::Analysis of Long Term File Reference Patterns for Application to File Migration Algorithms.
+journals/tse/BagrodiaCM87:::Rajive Bagrodia::K. Mani Chandy::Jayadev Misra:::A Message-Based Approach to Discrete-Event Simulation.
+journals/tse/Kemper96:::Peter Kemper:::Numerical Analysis of Superposed GSPNs.
+journals/tse/Neighbors84:::James M. Neighbors:::The Draco Approach to Constructing Software from Reusable Components.
+journals/tse/HelmanL93:::Paul Helman::Gunar E. Liepins:::Statistical Foundations of Audit Trail Analysis for the Detection of Computer Misuse.
+journals/tse/EisenstadtDRM90:::Marc Eisenstadt::John Domingue::Tim Rajan::Enrico Motta:::Visual Knowledge Engineering.
+journals/tse/MayrhauserV96:::Anneliese von Mayrhauser::A. Marie Vans:::Identification of Dynamic Comprehension Processes During Large Scale Maintenance.
+journals/tse/KochK83:::Harvey S. Koch::Peter Kubat:::Optimal Release Time of Computer Software.
+journals/tse/AlankoEH84:::Timo O. Alanko::Hannu Erkiö::Ilkka J. Haikala:::Virtual Memory Behavior of Some Sorting Algorithms.
+journals/tse/StiemerlingC98:::Oliver Stiemerling::Armin B. Cremers:::The Use of Cooperation Scenarios in the Design and Evaluation of a CSCW System.
+journals/tse/HealyW02:::Christopher A. Healy::David B. Whalley:::Automatic Detection and Exploitation of Branch Constraints for Timing Analysis.
+journals/tse/Korel88:::Bogdan Korel:::PELAS - Program Error-Locating Assistant System.
+journals/tse/FaimanK80:::R. Neil Faiman Jr.::Alan A. Kortesoja:::An Optimizing Pascal Compiler.
+journals/tse/ZaveJ96:::Pamela Zave::Michael Jackson:::Where Do Operations Come From: A Multiparadigm Specification Technique.
+journals/tse/JosephC88:::Thomas Joseph::Alfonso F. Cardenas:::PICQUERY: A High Level Query Language for Pictorial Database Management.
+journals/tse/HabermannN86:::A. Nico Habermann::David Notkin:::Gandalf: Software Development Environments.
+journals/tse/SneedM85:::Harry M. Sneed::András Mérey:::Automated Software Quality Assurance.
+journals/tse/Sears93:::Andrew Sears:::Layout Appropriateness: A Metric for Evaluating User Interface Widget Layout.
+journals/tse/FlateboD94:::Mitchell Flatebo::Ajoy Kumar Datta:::Two-State Self-Stabilizing Algorithms for Token Rings.
+journals/tse/Camilleri90:::Albert John Camilleri:::Mechanizing CSP Trace Theory in Higher Order Logic.
+journals/tse/LuntDSHS90:::Teresa F. Lunt::Dorothy E. Denning::Roger R. Schell::Mark Heckman::William R. Shockley:::The SeaView Security Model.
+journals/tse/Ross85a:::Sheldon M. Ross:::Software Reliability: The Stopping Rule Problem.
+journals/tse/EichG90:::Margaret H. Eich::Sharon M. Garard:::The Performance of Flow Graph Locking.
+journals/tse/Stone78a:::Harold S. Stone:::Critical Load Factors in Two-Processor Distributed Systems.
+journals/tse/HarbourKL94:::Michael González Harbour::Mark H. Klein::John P. Lehoczky:::Timing Analysis for Fixed-Priority Scheduling of Hard Real-Time Systems.
+journals/tse/WhittenM75:::Douglas E. Whitten::Paul A. D. de Maine:::A Machine and Configuration Independent Fortran: Portable Fortran (PFortran).
+journals/tse/BifflH03:::Stefan Biffl::Michael Halling:::Investigating the Defect Detection Effectiveness and Cost Benefit of Nominal Inspection Teams.
+journals/tse/BustardW94:::David W. Bustard::Adam C. Winstanley:::Making Changes to Formal Specifications: Requirements and an Example.
+journals/tse/PeterkaM89:::George Peterka::Tadao Murata:::Proof Procedure and Answer Extraction in Petri Net Model of Logic Programs.
+journals/tse/StensrudM03:::Erik Stensrud::Ingunn Myrtveit:::Identifying High Performance ERP Projects.
+journals/tse/Lipow82:::M. Lipow:::Number of Faults per Line of Code.
+journals/tse/Lipow86:::Myron Lipow:::Comments on "Estimating the Number of Faults in Code" and Two Corrections to Published Data.
+journals/tse/Jayaraman88:::Bharat Jayaraman:::Semantics of EqL.
+journals/tse/AggarwalBM88:::Sudhir Aggarwal::Daniel Barbará::Kalman Z. Meth:::A Software Environment for the Specification and Analysis of Problems of Coordination and Concurrency.
+journals/tse/YuGBC89:::Clement T. Yu::Keh-Chang Guh::David Brill::Arbee L. P. Chen:::Partition Strategy for Distributed Query Processing in Fast Local Networks.
+journals/tse/LaviBB87:::Jonah Z. Loeb (Lavi)::Moshe I. Ben-Porat::Amram Ben-David:::IAI Corporate Software Engineering Training and Education Program.
+journals/tse/Kundu86:::Sukhamay Kundu:::The Call-Return Tree and Its Application to Program Performance Analysis.
+journals/tse/SiffR99:::Michael Siff::Thomas W. Reps:::Identifying Modules via Concept Analysis.
+journals/tse/GligorN85:::Virgil D. Gligor::Peter A. Ng:::Foreword.
+journals/tse/DeWittFS87:::David J. DeWitt::Raphael A. Finkel::Marvin H. Solomon:::The Crystal Multicomputer: Design and Implementation Experience.
+journals/tse/TucciVC94:::Maurizio Tucci::Giuliana Vitiello::Gennaro Costagliola:::Parsing Nonlinear Languages.
+journals/tse/MeklyY80:::Leon J. Mekly::Stephen S. Yau:::Software Design Representation Using Abstract Process Networks.
+journals/tse/ParnasL03:::David Lorge Parnas::Mark Lawford:::The Role of Inspection in Software Quality Assurance.
+journals/tse/Summers87:::Rita C. Summers:::A Resource Sharing System for Personal Computers in a LAN: Concepts, Design, and Experience.
+journals/tse/BasiliSL99:::Victor R. Basili::Forrest Shull::Filippo Lanubile:::Building Knowledge through Families of Experiments.
+journals/tse/SobelC03:::Ann E. Kelley Sobel::Michael R. Clarkson:::Response to "Comments on 'Formal Methods Application: An Empirical Tale of Software Development'".
+journals/tse/BurnsTW95:::Alan Burns::Ken Tindell::Andy J. Wellings:::Effective Analysis for Engineering Real-Time Fixed Priority Schedulers.
+journals/tse/McKeeman87:::William M. McKeeman:::Experience with a Software Engineering Project Course.
+journals/tse/HendrixCM02:::T. Dean Hendrix::James H. Cross II::Saeed Maghsoodloo:::The Effectiveness of Control Structure Diagrams in Source Code Comprehension Activities.
+journals/tse/JuanTMZ01:::Eric Y. T. Juan::Jeffrey J. P. Tsai::Tadao Murata::Yi Zhou:::Reduction Methods for Real-Time Systems Using Delay Time Petri Nets.
+journals/tse/LoweR97:::Gavin Lowe::A. W. Roscoe:::Using CSP to Detect Errors in the TMN Protocol.
+journals/tse/BasiliR88:::Victor R. Basili::H. Dieter Rombach:::The TAME Project: Towards Improvement-Oriented Software Environments.
+journals/tse/KearnsD83:::John P. Kearns::Samuel DeFazio:::Locality of Reference in Hierarchical Database Systems.
+journals/tse/BalsamoI85:::Simonetta Balsamo::Giuseppe Iazeolla:::Product-Form Synthesis of Queueing Networks.
+journals/tse/CremersH78:::Armin B. Cremers::Thomas N. Hibbard:::Formal Modeling of Virtual Machines.
+journals/tse/Spirn79:::Jeffrey R. Spirn:::Queuing Networks with Random Selection for Service.
+journals/tse/NehmerHMWR87:::Jürgen Nehmer::Dieter Haban::Friedemann Mattern::Dieter Wybranietz::H. Dieter Rombach:::Key Concepts of the INCAS Multicomputer Project.
+journals/tse/Terry87:::Douglas B. Terry:::Caching Hints in Distributed Systems.
+journals/tse/Knight03:::John C. Knight:::Editorial: AE Introduction.
+journals/tse/ShihLL93:::Wei Kuan Shih::Jane W.-S. Liu::C. L. Liu:::Modified Rate-Monotonic Algorithm for Scheduling Periodic Jobs with Deferred Deadlines.
+journals/tse/Spinellis03:::Diomidis Spinellis:::Global Analysis and Transformations in Preprocessed Languages.
+journals/tse/ShinKL89:::Kang G. Shin::C. M. Krishna::Yann-Hang Lee:::Optimal Dynamic Control of Resources in a Distributed System.
+journals/tse/MurataB00:::Takahiro Murata::Alexander Borgida:::Handling of Irregularities in Human Centered Systems: A Unified Framework for Data and Processes.
+journals/tse/SchwanRVO88:::Karsten Schwan::Rajiv Ramnath::Sridhar Vasudevan::David M. Ogle:::A Language and System for the Construction and Tuning of Parallel Programs.
+journals/tse/LockmanM82:::Abe Lockman::Naftaly H. Minsky:::Unidirectional Transport of Rights and Take-Grant Control.
+journals/tse/BloomCD97:::Bard Bloom::Allan Cheng::Ashvin Dsouza:::Using a Protean Language to Enhance Expressiveness in Specification.
+journals/tse/BuckleyP84:::Fletcher J. Buckley::Robert M. Poston:::Software Quality Assurance.
+journals/tse/TeichroewH77:::Daniel Teichroew::Ernest A. Hershey III:::PSL/PSA: A Computer Aided Technique for Structured Documentation and Analysis of Information Processing Systems.
+journals/tse/BiermannK76:::Alan W. Biermann::Ramachandran Krishnaswamy:::Constructing Programs from Example Computations.
+journals/tse/JohnsonS85:::W. Lewis Johnson::Elliot Soloway:::PROUST: Knowledge-Based Program Understanding.
+journals/tse/Govindarajan93:::R. Govindarajan:::Exception Handlers in Functional Programming Languages.
+journals/tse/Khayat84:::Mohammad G. Khayat:::A Concurrency Measure.
+journals/tse/Claybrook82:::Billy G. Claybrook:::A Specification Method for Specifying Data and Procedural Abstractions.
+journals/tse/JilaniDM01:::Lamia Labed Jilani::Jules Desharnais::Ali Mili:::Defining and Applying Measures of Distance Between Specifications.
+journals/tse/BankerKZ93:::Rajiv D. Banker::Robert J. Kauffman::Dani Zweig:::Repository Evaluation of Software Reuse.
+journals/tse/Sanden89:::Bo Sanden:::The Case for Electric Design of Real-Time Software.
+journals/tse/Silberschatz79:::Abraham Silberschatz:::Communication and Synchronization in Distributed Systems.
+journals/tse/Woodside95:::C. Murray Woodside:::A Three-View Model for Performance Engineering of Concurrent Software.
+journals/tse/WhittakerT94:::James A. Whittaker::Michael G. Thomason:::A Markov Chain Model for Statistical Software Testing.
+journals/tse/JaccheriC93:::Maria Letizia Jaccheri::Reidar Conradi:::Techniques for Process Model Evolution in EPOS.
+journals/tse/GriffethM85:::Nancy D. Griffeth::John A. Miller:::Performance Modeling of Database Recovery Protocols.
+journals/tse/TenmaTTI88:::Takao Tenma::Hideaki Tsubotani::Minoru Tanaka::Tadao Ichikawa:::A System for Generating Language-Oriented Editors.
+journals/tse/SidhuC88:::Deepinder P. Sidhu::Carole S. Crall:::Executable Logic Specifications for Protocol Service Interfaces.
+journals/tse/ZhangQ91:::Xiaodong Zhang::Xiaohan Qin:::Performance Prediction and Evaluation of Parallel Processing on a NUMA Multiprocessor.
+journals/tse/Bochmann88:::Gregor von Bochmann:::Delay-Independent Design for Distributed Systems.
+journals/tse/SrinivasanS81:::B. Srinivasan::R. Sankar:::Algorithms to Distribute a Database for Parallel Searching.
+journals/tse/TsaiGC90:::Chii-Ren Tsai::Virgil D. Gligor::C. Sekar Chandersekaran:::On the Identification of Covert Storage Channels in Secure Systems.
+journals/tse/BirrellN80:::Andrew Birrell::Roger M. Needham:::A Universal File Server.
+journals/tse/ManzoniP03:::Lisandra V. Manzoni::Roberto T. Price:::Identifying Extensions Required by RUP (Rational Unified Process) to Comply with CMM (Capability Maturity Model) Levels 2 and 3.
+journals/tse/FelderMM94:::Miguel Felder::Dino Mandrioli::Angelo Morzenti:::Proving Properties of Real-Time Systems Through Logical Specifications and Petri Net Models.
+journals/tse/CasavantK88a:::Thomas L. Casavant::Jon G. Kuhl:::Effects of Response and Stability on Scheduling in Distributed Computing Systems.
+journals/tse/Fryer85:::Michael O. Fryer:::Risk Assessment of Computer Controlled Systems.
+journals/tse/PurushothamanS87:::S. Purushothaman::P. A. Subrahmanyam:::Reasoning About Probabilistic Behavior in Concurrent Systems.
+journals/tse/McGill84:::James P. McGill:::The Software Engineering Shortage: A Third Choice.
+journals/tse/Nicol89:::David M. Nicol:::Optimal Partitioning of Random Programs Across two Processors.
+journals/tse/RallisL01:::Nancy E. Rallis::Zachary F. Lansdowne:::Reliability Estimation for a Software System with Sequential Independent Reviews.
+journals/tse/Ravindran02:::Binoy Ravindran:::Engineering Dynamic Real-Time Distributed Systems: Architecture, System Description Language, and Middleware.
+journals/tse/BoralDFJW82:::Haran Boral::David J. DeWitt::Dina Friedland::Nancy F. Jarrell::W. Kevin Wilkinson:::Implementation of the Database Machine DIRECT.
+journals/tse/CornellY89:::Douglas W. Cornell::Philip S. Yu:::On Optimal Site Assignment for Relations in the Distributed Database Environment.
+journals/tse/KangLK00:::Inhye Kang::Insup Lee::Young-Si Kim:::An Efficient State Space Generation for the Analysis of Real-Time Systems.
+journals/tse/Nixon00:::Brian A. Nixon:::Management of Performance Requirements for Information Systems.
+journals/tse/BudzinskiD81:::Robert L. Budzinski::Edward S. Davidson:::A Comparison of Dynamic and Static Virtual Memory Allocation Algorithms.
+journals/tse/LaprieKBK91:::Jean-Claude Laprie::Karama Kanoun::Christian Béounes::Mohamed Kaâniche:::The KAT (Knowledge-Action-Transformation) Approach to the Modeling and Evaluation of Reliability and Availability Growth.
+journals/tse/ButlerF93:::Ricky W. Butler::George B. Finelli:::The Infeasibility of Quantifying the Reliability of Life-Critical Real-Time Software.
+journals/tse/HallZ86:::William E. Hall III::Stuart H. Zweben:::The Cloze Procedure and Software Comprehensibility Measurement.
+journals/tse/FarragO87:::Abdel Aziz Farrag::M. Tamer Özsu:::Towards a General Concurrency Control Algorithm for Database Systems.
+journals/tse/CidonJS87:::Israel Cidon::Jeffrey M. Jaffe::Moshe Sidi:::Local Distributed Deadlock Detection by Cycle Detection and Clustering.
+journals/tse/TaylorO80:::Richard N. Taylor::Leon J. Osterweil:::Anomaly Detection in Concurrent Software by Static Data Flow Analysis.
+journals/tse/AhmadG91:::Ishfaq Ahmad::Arif Ghafoor:::Semi-Distributed Load Balancing For Massively Parallel Multicomputer Systems.
+journals/tse/BlackburnSW96:::Joseph D. Blackburn::Gary D. Scudder::Luk Van Wassenhove:::Improving Speed and Productivity of Software Development: A Global Survey of Software Developers.
+journals/tse/JajodiaM89:::Sushil Jajodia::David Mutchler:::A Pessimistic Consistency Control Algorithm for Replicated Files which Achieves High Availability.
+journals/tse/JajodiaN84:::Sushil Jajodia::Peter A. Ng:::Representative Instances and gamma-Acyclic Relational Schemes.
+journals/tse/CorriganS84:::Neil B. Corrigan::J. Denbigh Starkey:::A Concurrent General Purpose Operator Interface.
+journals/tse/FerrucciTTV96:::Filomena Ferrucci::Genoveffa Tortora::Maurizio Tucci::Giuliana Vitiello:::Semantics-Based Inference Algorithms for Adaptive Visual Environments.
+journals/tse/KaramB90:::Gerald M. Karam::Raymond J. A. Buhr:::Starvation and Critical Race Analyzers for Ada.
+journals/tse/Brender80:::Ronald F. Brender:::Generation of BLISSes.
+journals/tse/WolfDIY89:::Joel L. Wolf::Daniel M. Dias::Balakrishna R. Iyer::Philip S. Yu:::Multisystem Coupling by a Combination of Data Sharing and Data Partitioning.
+journals/tse/Gouda02:::Mohamed G. Gouda:::Multiphase Stabilization.
+journals/tse/BlancF84:::Richard J. LeBlanc::Charles N. Fischer:::A Simple Separate Compilation Mechanism for Block-Structured Languages.
+journals/tse/LieberherrX93:::Karl J. Lieberherr::Cun Xiao:::Object-Oriented Software Evolution.
+journals/tse/BankerK89:::Rajiv D. Banker::Chris F. Kemerer:::Scale Economies in New Software Development.
+journals/tse/Jorgensen95:::Magne Jørgensen:::Experience With the Accuracy of Software Maintenance Task Effort Prediction Models.
+journals/tse/ChangF80:::Ning-San Chang::King-sun Fu:::Query-by-Pictorial-Example.
+journals/tse/Gries76:::David Gries:::An Illustration of Current Ideas on the Derivation of Correctness Proofs and Correct Programs.
+journals/tse/BoehmMU75:::Barry W. Boehm::Robert K. McClean::D. B. Urfrig:::Some Experience with Automated Aids to the Design of Large-Scale Reliable Software.
+journals/tse/Mullin90:::James K. Mullin:::Optimal Semijoins for Distributed Database Systems.
+journals/vlc/AndriesE96:::Marc Andries::Gregor Engels:::A Hybrid Query Language for an Extended Entity-Relationship Model.

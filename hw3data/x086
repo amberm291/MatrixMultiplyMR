@@ -1,0 +1,200 @@
+journals/sigmod/RoantreeMH99:::Mark Roantree::John Murphy::Wilhelm Hasselbring:::The OASIS Multidatabase Prototype.
+journals/sigmod/BawaCCDGGKMSSVY03:::Mayank Bawa::Brian Cooper::Arturo Crespo::Neil Daswani::Prasanna Ganesan::Hector Garcia-Molina::Sepandar D. Kamvar::Sergio Marti::Mario T. Schlosser::Qi Sun::Patrick Vinograd::Beverly Yang:::Peer-to-peer research at Stanford.
+journals/sigmod/UrbanW91:::Susan Darling Urban::Jian Wu:::Resolving Semantic Heterogeneity Through the Explicit Representation of Data Model Semantics.
+journals/sigmod/Cingil02:::Ibrahim Cingil:::Supporting Global User Profiles Through Trusted Authorities.
+journals/sigmod/Roussopoulos98:::Nick Roussopoulos:::Materialized Views and Data Warehouses.
+journals/sigmod/Merrett83:::T. H. Merrett:::Why Sort-Merge Gives the Best Implementation of the Natural Join.
+journals/sigmod/YaoG02:::Yong Yao::Johannes Gehrke:::The Cougar Approach to In-Network Query Processing in Sensor Networks.
+journals/sigmod/PrattC92:::J. Michael Pratt::Maxine S. Cohen:::A Process-Oriented Scientific Database Model.
+journals/sigmod/Qian95a:::Xiaolei Qian:::Turmoil at NASA, and Numerous Funding Announcements.
+journals/sigmod/Wilson92:::Peter R. Wilson:::EUG'91 Meeting Notes.
+journals/sigmod/BuchnerM98:::Alex G. Büchner::Maurice D. Mulvenna:::Discovering Internet Marketing Intelligence through Online Analytical Web Usage Mining.
+journals/sigmod/ArpinarDE93:::Ismailcem Budak Arpinar::Asuman Dogac::Cem Evrendilek:::MoodView: An Advanced Graphical User Interface for OODBMSs.
+journals/sigmod/Codd73a:::E. F. Codd:::Understanding Relations.
+journals/sigmod/PitouraB95:::Evaggelia Pitoura::Bharat K. Bhargava:::A Framework for Providing Consistent and Recoverable Agent-Based Access to Heterogeneous in Mobile Databases.
+journals/sigmod/DenningHWFM82:::Peter J. Denning::Michael A. Harrison::Kathleen A. Wagner::Aaron Finerman::Daniel D. McCracken:::Executive Committee Position on VLDB Conferences
+journals/sigmod/Cook81c:::Thomas J. Cook:::Editor's Notes.
+journals/sigmod/Cook82b:::Thomas J. Cook:::Editor's Notes.
+journals/sigmod/Grinoch74:::Etelle Grinoch:::Database Map.
+journals/sigmod/Shneiderman74:::Ben Shneiderman:::Opportunities for Data Base Reorganization.
+journals/sigmod/Shneiderman82:::Ben Shneiderman:::Response to N. C. Rowe's Rewiew.
+journals/sigmod/SpynsMJ02:::Peter Spyns::Robert Meersman::Mustafa Jarrar:::Data Modelling versus Ontology Engineering.
+journals/sigmod/BichlerSZ98:::Martin Bichler::Arie Segev::J. Leon Zhao:::Component-based E-Commerce: Assesment of Current Practices and Future Directions.
+journals/sigmod/Robinson91:::John T. Robinson:::Some Further Analysis of the Essential Blocking Recurrence.
+journals/sigmod/Pirotte82:::Alain Pirotte:::A Precise Definition of Basic Relational Notions and of the Relational Algebra.
+journals/sigmod/McLaughlinHBRHH88:::Maureen E. McLaughlin::Kathryn Bates Hill::Douglas D. Brown::Mark A. Rogers::Alissa M. Howell::Pamela P. Hatch:::An Integrated Methodology and Toolset for Database Design.
+journals/sigmod/NeimatS91:::Marie-Anne Neimat::Ming-Chien Shan:::Database Research at HP Labs.
+journals/sigmod/SchmidtWKFCMB01:::Albrecht Schmidt::Florian Waas::Martin L. Kersten::Daniela Florescu::Michael J. Carey::Ioana Manolescu::Ralph Busse:::Why And How To Benchmark XML Databases.
+journals/sigmod/Dogac02:::Asuman Dogac:::Guest Editor's Introduction.
+journals/sigmod/DogacAOD95:::Asuman Dogac::Mehmet Altinel::Cetin Ozkan::Ilker Durusoy:::Implementation Aspects of an Object-Oriented DBMS.
+journals/sigmod/Libkin99:::Leonid Libkin:::Some Remarks on Variable Independence, Closure, and Orthographic Dimension in Constraint Databases.
+journals/sigmod/SofferMC02:::Aya Soffer::Yoëlle S. Maarek::Bay-Wei Chang:::Report on the Mobile Search Workshop at WWW 2002.
+journals/sigmod/Snodgrass03a:::Richard T. Snodgrass:::TODS Reviewers.
+journals/sigmod/Snodgrass03b:::Richard T. Snodgrass:::Journal relevance.
+journals/sigmod/Stonebraker81b:::Michael Stonebraker:::Chaiman's Column.
+journals/sigmod/AbiteboulH95:::Serge Abiteboul::Richard Hull:::Response to "A Close Look at the IFO Data Model".
+journals/sigmod/DImperio69:::M. E. D'Imperio:::Information Structures: Tools in Problem Solving.
+journals/sigmod/DadamK97:::Peter Dadam::Wolfgang Klas:::The Database and Information System Research Group at the University of Ulm.
+journals/sigmod/ShanmugasundaramSKKVNT01:::Jayavel Shanmugasundaram::Eugene J. Shekita::Jerry Kiernan::Rajasekar Krishnamurthy::Stratis Viglas::Jeffrey F. Naughton::Igor Tatarinov:::A General Techniques for Querying XML Documents using a Relational Database System.
+journals/sigmod/Abiteboul99:::Serge Abiteboul:::On Views and XML.
+journals/sigmod/DoanPK95:::Dac Khoa Doan::Norman W. Paton::Alistair C. Kilgour:::Design and User Testing of a Multi-Paradigm Query Interface to an Object-Oriented Database.
+journals/sigmod/ShinM94:::Dong Keun Shin::Arnold Charles Meltzer:::A New Join Algorithm.
+journals/sigmod/Fagin02:::Ronald Fagin:::Combining Fuzzy Information: an Overview.
+journals/sigmod/NascimentoSP03:::Mario A. Nascimento::Jörg Sander::Jeffrey Pound:::Analysis of SIGMOD's co-authorship graph.
+journals/sigmod/Colliat96:::George Colliat:::OLAP, Relational, and Multidimensional Database Systems.
+journals/sigmod/SilberschatzZ97:::Abraham Silberschatz::Stanley B. Zdonik:::Database Systems - Breaking Out of the Box.
+journals/sigmod/BarbaraCJW01:::Daniel Barbará::Julia Couto::Sushil Jajodia::Ningning Wu:::ADAM: A Testbed for Exploring the Use of Data Mining in Intrusion Detection.
+journals/sigmod/PourabbasR00:::Elaheh Pourabbas::Maurizio Rafanelli:::Hierarchies and Relative Operators in the OLAP Environment.
+journals/sigmod/PourabbasR02:::Elaheh Pourabbas::Maurizio Rafanelli:::A Pictorial Query Language for Querying Geographic Databases using Positional and OLAP Operators.
+journals/sigmod/MukhopadhyayGS03:::Debajyoti Mukhopadhyay::Debasis Giri::Sanasam Ranbir Singh:::An approach to confidence based page ranking for user oriented Web search.
+journals/sigmod/Winslett02a:::Marianne Winslett:::David DeWitt Speaks Out.
+journals/sigmod/Winslett02b:::Marianne Winslett:::Hector Garcia-Molina Speaks Out.
+journals/sigmod/Winslett93c:::Marianne Winslett:::NSF and HPCC Under Attack.
+journals/sigmod/GruenwaldBDGSSV99:::Le Gruenwald::Leonard Brown::Ravi A. Dirckze::Sylvain Guinepain::Carlos Sanchez::Brian Summers::Sirirut Vanichayobon:::Database Research at the University of Oklahoma.
+journals/sigmod/SommerGB02:::Rainer A. Sommer::Thomas R. Gulledge::David Bailey:::The n-Tier Hub Technology.
+journals/sigmod/BurtonM98:::Bradley F. Burton::V. Wiktor Marek:::Applications of the JAVA Programming Language to Database Management.
+journals/sigmod/BultzingsloewenDILLS88:::Günter von Bültzingsloewen::Klaus R. Dittrich::Cirano Iochpe::Rolf-Peter Liedke::Peter C. Lockemann::Michael Schryro:::KARDAMOM - A Dataflow Database Machine For Real-Time Applications.
+journals/sigmod/RisheSBDOALOSS95:::Naphtali Rishe::Wei Sun::David Barton::Yi Deng::Cyril U. Orji::Michael Alexopoulos::Leonard Loureiro::Carlos Ordonez::Mario Sanchez::Artyom Shaposhnikov:::Florida International University High Performance Database Research Center.
+journals/sigmod/Saltor89:::Fèlix Saltor:::Congresses on Databases.
+journals/sigmod/Aberer01a:::Karl Aberer:::Book Review Column.
+journals/sigmod/KumarS87:::Akhil Kumar::Michael Stonebraker:::The Effect of Join Selectivities on Optimal Nesting Order.
+journals/sigmod/RossAKSSY00:::Kenneth A. Ross::Charu C. Aggarwal::Alfons Kemper::Sunita Sarawagi::S. Sudarshan::Mihalis Yannakakis:::Reminiscences on Influential Papers.
+journals/sigmod/KuokFW98:::Chan Man Kuok::Ada Wai-Chee Fu::Man Hon Wong:::Mining Fuzzy Association Rules in Databases.
+journals/sigmod/FowlerPNB99:::Jerry Fowler::Brad Perry::Marian H. Nodine::Bruce Bargmeyer:::Agent-Based Semantic Interoperability in InfoSleuth.
+journals/sigmod/Selinger83a:::Patricia G. Selinger:::Notes from the Vice Chairperson.
+journals/sigmod/Bernstein98:::Philip A. Bernstein:::Repositories and Object Oriented Databases.
+journals/sigmod/BonifatiC00:::Angela Bonifati::Stefano Ceri:::Comparative Analysis of Five XML Query Languages.
+journals/sigmod/HasselbringHHKRRS00:::Wilhelm Hasselbring::Willem-Jan van den Heuvel::Geert-Jan Houben::Ralf-Detlef Kutsche::Bodo Rieger::Mark Roantree::Kazimierz Subieta:::Research and Practice in Federated Information Systems, Report of the EFIS '2000 International Workshop.
+journals/sigmod/EllisR69:::Max E. Ellis::Gene Raichelson:::Skteches.
+journals/sigmod/AndersonEM86:::T. Lougenia Anderson::Earl F. Ecklund Jr.::David Maier:::The Proteus Bibliography: Representation and Interactive Display in Databases.
+journals/sigmod/Critchlow01:::Terence Critchlow:::Report on XEWA-00: The XML Enabled Wide-Area Searches for Bioinformatics Workshop.
+journals/sigmod/OConnell71:::Daniel O'Connell:::Editor's Remarks.
+journals/sigmod/ChienTZ01:::Shu-Yao Chien::Vassilis J. Tsotras::Carlo Zaniolo:::XML Document Versioning.
+journals/sigmod/Snodgrass03:::Richard T. Snodgrass:::ACM TODS in this Internet Age.
+journals/sigmod/Selinger83:::Patricia G. Selinger:::Notes from the Vice Chairperson.
+journals/sigops/PatiyootS98:::Danai Patiyoot::S. J. Shepherd:::Techniques for Authentication Protocols and Key Distribution on Wireless ATM Networks.
+journals/sigops/Dion80:::Jeremy Dion:::The Cambridge File Server.
+journals/sigops/ZhuLX01a:::Ming-Yuan Zhu::Lei Luo::Guang-Zhe Xiong:::The Minimal Model of Operating Systems.
+journals/sigops/KulkarniBC94:::Dinesh C. Kulkarni::Arindam Banerji::David L. Cohn:::Operating Systems and Cost Management.
+journals/sigops/FlorinT92:::Gerard Florin::C. Toinard:::A New Way to Design Causally and Totally Ordered Multicast Protocols.
+journals/sigops/JiTCLW00:::Li Ji::Li Tianning::Guihai Chen::Xie Lie::C. L. Wang:::Strategies Optimization and Integration in DSM.
+journals/sigops/Harter93a:::Paul K. Harter Jr.:::Book Review: Verifying Temporal Properties of Systems by Julian Charles Bradfield.
+journals/sigops/HuC95:::Ping Hu::Bruce Christianson:::Is Your Computing Environment Secure? Security Problems With Interrupt Handling Mechanisms.
+journals/sigops/Jin99:::Hai Jin:::On-the-fly Reconstruction of Failed Disk in RAID.
+journals/sigops/Waite95:::William M. Waite:::Book Review: Building in Big Brother: The Cryptographic Policy Debate edited by Lance J. Hoffman.
+journals/sigops/LiW01:::Yuhong Li::Lars C. Wolf:::Collection of Network Information in Active Networks.
+journals/sigops/Woo90:::Tai-Kuo Woo:::A Note on Lamport's Mutual Exclusion Algorithm.
+journals/sigops/Waite97b:::William M. Waite:::Book Review: The Web Publisher's Illustrated Quick Reference by Paph Grabowski.
+journals/sigops/JuXT93:::Jiubin Ju::Gaochao Xu::Jie Tao:::Parallel Computing Using Idle Workstations.
+journals/sigops/PeiCP00:::Pengjun Pei::Guohua Cui::Kun Peng:::On a Session Key Compromise Problem in [KC95] protocol.
+journals/sigops/Hsieh89:::C. Samuel Hsieh:::Further Comments on Implementation of General Semaphores.
+journals/sigops/Satyanarayanan00:::Mahadev Satyanarayanan:::Caching Trust Rather Than Content.
+journals/sigops/Satyanarayanan95:::Mahadev Satyanarayanan:::Workshop on Mobile Computing Systems and Applications, December 1994, Digest of Proceedings.
+journals/sigops/Mooney92:::James D. Mooney:::The CTRON Approach to Operating System Support for Software Portability.
+journals/sigops/Blackman95:::Sally Blackman:::Book Review: The WEB Empowerment Book by Ralph Abraham, Fran Jas and Willard Russell.
+journals/sigops/LevinR83:::Roy Levin::David D. Redell:::An Evaluation of the Ninth SOSP Submissions or: How (and How Not) to Write a Good Systems Paper.
+journals/sigops/AdamsB82:::J. Mack Adams::Andrew P. Black:::On Proof Rules for Monitors.
+journals/sigops/BrabanS89:::Bruno Braban::Peter Schlenk:::A Well Structured Parallel File System for PM.
+journals/sigops/TaiC96:::Kuo-Chung Tai::Richard H. Carver:::VP: A New Operating for Semaphores.
+journals/sigops/Ryan98:::Stein Jørgen Ryan:::Synchronization in Portable Device Drivers.
+journals/sigops/KavkaPG93:::C. Kavka::M. Pritista::Raúl Héctor Gallard:::Extending Device Management in Minix.
+journals/sigops/Vivo96:::Marco de Vivo:::Book Review: Distributed Operating Systems by Andrew S. Tanenbaum.
+journals/sigops/Ward76:::Mitchel R. Ward:::A Simple Approach to Operating System Generation and Initialization.
+journals/sigops/WeiJ99:::Xiaohui Wei::Jiubin Ju:::SCR Algorithm: Saving/Restoring States of File Systems.
+journals/sigops/WenL01:::Jun Wen::Xiang-liang Li:::Realize Network subsystem QoS gurantee.
+journals/sigops/Wong93:::C. K. Wong:::Determining the Shorest Process Migration Paths for Program Compilation Using a Dynamic Programming Approach.
+journals/sigops/SierraS00:::J. M. Sierra::S. J. Shepherd:::New Phase 1 Exchange Mode for IKE framework.
+journals/sigops/BouabdallahL00:::Abdelmadjid Bouabdallah::Christian Laforest:::A Distributed token/based Algorithm for the Dynamic Resource Allocation Problem.
+journals/sigops/Wilkes94:::Maurice V. Wilkes:::Operating Systems in a Changing World.
+journals/sigops/KantS82:::Krishna Kant::Abraham Silberschatz:::On the Generalized Critical Region Construct.
+journals/sigops/Turton80:::Trevor Turton:::The Management of Operating System State Data.
+journals/sigops/Herlihy86:::Maurice Herlihy:::Comparing How Atomicity Mechanisms Support Replication.
+journals/sigops/CampbellJR87:::Roy H. Campbell::Gary Johnston::Vincent F. Russo:::Choices (Class Hierarchical Open Interface for Custom Embedded Systems).
+journals/sigops/PatiyootS99b:::Danai Patiyoot::S. J. Shepherd:::Modeling and Evaluation of security induced delays in Wireless ATM Networks.
+journals/sigops/YangM93:::Zhonghua Yang::T. Anthony Marsland:::Annotated Bibliography on Global States and Times in Distributed Systems.
+journals/sigops/InouyeKWS92:::Jon Inouye::Ravindranath Konuru::Jonathan Walpole::Bart Sears:::The Effects of Virtually Addressed Caches on Virtual Memory Design and Performance.
+journals/sigops/HuangSPC01:::Z. Huang::C. Sun::Martin K. Purvis::Stephen Cranefield:::View-based Consistency and False Sharing Effect in Distributed Shared Memory.
+journals/sigops/Eskicioglu96:::M. Rasit Eskicioglu:::A Comprehensive Bibliography of Distributed Shared Memory.
+journals/sigops/Stonebraker84:::Michael Stonebraker:::Virtual Memory Transaction Management.
+journals/sigops/Newton79:::Glen Newton:::Deadlock Prevention, detection, and Resolution: An Annotated Bibliography.
+journals/sigops/Peacock89:::J. Kent Peacock:::Deadlock Avoidance in Loosely-Coupled Multiprocessors with Finite Buffer Pools.
+journals/sigops/DingH95:::Yun Ding::Patrick Horster:::Undetectable On-line Password Guessing Attacks.
+journals/sigops/YeoAK93:::A. K. Yeo::A. L. Ananda::E. K. Koh:::A Taxonomy of Issues in Name Systems Design and Implementation.
+journals/sigops/Druschel92:::Peter Druschel:::Modularity and Protection are Orthogonal, or "Why µ-kernel Architectures are Flawed" (Abstract).
+journals/sigops/GuangchunJXJ03:::Luo Guangchun::Zhang Jun::Lu Xianliang::Lu Jun:::HCCM: a novel cache consistence mechanism.
+journals/sigops/Robinson96:::John T. Robinson:::Analysis of Steady-State Segment Storage Utilizations in a Log-Structured File System with Least-Utilized Segment Cleaning.
+journals/sigops/OlagunjuB86:::Amos O. Olagunju::Elvis Borders:::Emulators: Prospective Instruments for Instruction in Systems Programming.
+journals/sigops/LannB91:::Gérard Le Lann::G. Bres:::Reliable Atomic Broadcast in Distributed Systems with Omission Faults.
+journals/sigops/Fleisch83:::Brett D. Fleisch:::Operating Systems: A Perspective on Future Trends.
+journals/sigops/BanatreK93:::Jean-Pierre Banâtre::Sacha Krakowiak:::Models and Paradigms for Distributed Systems Structuring - Introduction.
+journals/sigops/JosephP78:::M. Joseph::V. R. Prasad:::More on Nested Monitor Calls.
+journals/sigops/DuchienFS00:::Laurence Duchien::Gerard Florin::Lionel Seinturier:::Partial Order Relations in Distributed Object Environments.
+journals/sigops/CheungK86:::David Wai-Lok Cheung::Tiko Kameda:::Site Optimal termination Protocols for a Distributed Database under Network Partitioning.
+journals/sigops/Dimitoglou98:::George Dimitoglou:::Deadlocks and Methods for their Detection, Prevention and Recovery in Modern Operating Systems.
+journals/sigops/Hemmendinger88:::David Hemmendinger:::A Correct Implementation of General Semaphores.
+journals/sigops/OikawaT95:::Shuichi Oikawa::Hideyuki Tokuda:::Reflection of Developing User-Level Real-Time Thread Packages.
+journals/sigops/LauerN79:::Hugh C. Lauer::Roger M. Needham:::On the Duality of Operating System Structures.
+journals/sigops/Lions78:::John Lions:::An Operating System Case Study.
+journals/sigops/Faber98:::Theodore Faber:::Optimizing Throughput in a Workstation-based Network File System over a High Bandwidth Local Area Network.
+journals/sigops/Liedtke94a:::Jochen Liedtke:::A Short Note on Implementing "New" Machine Instructions by Software for Efficient Test of Page Accessibility.
+journals/sigops/Stroud93:::Robert J. Stroud:::Transparency and Reflection in Distributed Systems.
+journals/sigops/LingML00:::Yibei Ling::Tracy Mullen::Xiaola Lin:::Analysis of Optimal Thread Pool Size.
+journals/sigops/Crichlow94:::Joel M. Crichlow:::Combining Optimism and Pessimism to Produce High Availability in Distributed Transaction Processing.
+journals/sigops/Smith81:::Alan Jay Smith:::Bibliography on File and I/O System Optimization and related Topics.
+journals/sigops/CenaCG95:::M. Cena::M. L. Crespo::Raúl H. Gallard:::Transparent Remote Execution in Lahnos by Means of a Neural Network Device.
+journals/sigops/Metzner82:::J. R. Metzner:::Structuring Operating Systems Literature for the Graduate Course.
+journals/sigops/Guenther87:::G. R. Guenther:::Running 7th Edition UNIX Programs on a VAX in Compatibility Mode.
+journals/sigops/Mills77:::Philip M. Mills:::Control Functions for a Multiprocessor.
+journals/sigops/LitiuP01:::Radu Litiu::Atul Prakash:::DACIA: A Mobile Component Framework for Buildinh Adaptive Distributed Applications.
+journals/sigops/MitchellC96:::Chris J. Mitchell::Liqun Chen:::Comments on the S/KEY User Authentication Scheme.
+journals/sigops/Loepere89:::Keith Loepere:::The Covert Channel Limiter Revisited.
+journals/sigops/Naimi93:::Mohamed Naimi:::Distributed Algorithm for K-Entries to Critical Section Based on the Directed Graphs.
+journals/sigops/Sibley76:::Edgar H. Sibley:::Economic Justification of an OSCL/OSRL.
+journals/sigops/LantzEH86:::Keith A. Lantz::Judy L. Edighoffer::Bruce L. Hitson:::Towards a Universal Directory Service.
+journals/sigops/LeslieMM93:::Ian M. Leslie::Derek McAuley::Sape J. Mullender:::Pegasus - Operating System Support for Distributed Multimedia Systems.
+journals/sigops/ZhangL86:::Du Zhang::Meiliu Lu:::Process Name Resolution in Fault-Tolerant CSP Programs.
+journals/sigops/Oliver90:::Roger Oliver:::Protection in a Distributed Document Processing System.
+journals/sigops/BaconHLM94:::Jean Bacon::Richard Hayton::Sai Lai Lo::Ken Moody:::Extensible Access Control for a Hierarchy of Servers.
+journals/sigops/BartoliMV93:::Alberto Bartoli::Sape J. Mullender::Martijn van der Valk:::Wide-Address Spaces - Exploring the Design Space.
+journals/sigops/BurrowsAN90:::Michael Burrows::Martín Abadi::Roger M. Needham:::Rejoinder to Nessett.
+journals/sigops/CiancariniG93:::Paolo Ciancarini::N. Guerrini:::Linda meets Minix.
+journals/sigops/KangPL99:::Sung-Il Kang::Kihyun Pyun::Heung-Kyu Lee:::Performance Evaluation of Non-preemptive Policies for Scheduling Readers and Writers.
+journals/sigops/LeeKKY03:::Sung-Woon Lee::Woo-Hun Kim::Hyun-Sung Kim::Kee-Young Yoo:::Parallizable simple authenticated key agreement protocol .
+journals/sigops/BershadCEMMPSS95:::Brian N. Bershad::Craig Chambers::Susan J. Eggers::Chris Maeda::Dylan McNamee::Przemyslaw Pardyak::Stefan Savage::Emin Gün Sirer:::SPIN - An Extensible Microkernel for Application-specific Operating System Services.
+journals/sigops/ButenuthBH96:::Roger Butenuth::Wolfgang Burke::Hans-Ulrich Heiss:::COSY: An Operating System for Highly Parallel Computers.
+journals/sigops/Shrivastava94:::Santosh K. Shrivastava:::To CATOCS or not to CATOCS, that is the ...
+journals/sigops/Haddon93:::Bruce K. Haddon:::Book Review: Global Software: Developing Applications for the International Market by Dave Taylor.
+journals/sigops/BabaogluDM97:::Özalp Babaoglu::Renzo Davoli::Alberto Montresor:::Group Membership and View Synchrony in Partitionable Asynchronous Distributed Systems: Specifications.
+journals/sigops/ChangC97:::Ye-In Chang::Yao-Jen Chang:::A Fault-Tolerant Dynamic Triangular Mesh Protocol for Distributed Mutual Exclusion.
+journals/sigops/Madsen81:::Johannes Madsen:::A Computer System Supporting Data Abstraction.
+journals/simpra/ThevenonF00:::Luc Thevenon::Jean-Marie Flaus:::Modular representation of complex hybrid systems: application to the simulation of batch processes.
+journals/simpra/JuricicKRS96:::D. Juricic::E. Krasevec::Massimiliano Rak::Stanko Strmcnik:::Concept of the simulation environment for prototyping design of fault detection and diagnostic systems.
+journals/simpra/Shapiro98:::Eugene Shapiro:::Overview: New directions for simulation and modeling of complex systems.
+journals/simpra/BrunoL99:::Domenico Bruno::A. Leonardi:::Nonlinear structural models in cableway transport systems.
+journals/simpra/NewP00:::Michael H. New::Andrew Pohorille:::An inherited efficiencies model of non-genomic evolution.
+journals/simpra/BeraldiN98:::Roberto Beraldi::Libero Nigro:::Performance of a Time Warp based simulator of large scale PCS networks.
+journals/simpra/NikoukaranP99:::Jalal Nikoukaran::Ray J. Paul:::Software selection for simulation in manufacturing: a review.
+journals/simpra/LehmannSW93:::Fritz Lehmann::Rudolf Seising::Ellen Walther-Klaus:::Simulation of learning in communication networks.
+journals/simpra/Corbin98:::Malcolm Corbin:::Applications of mobile agents and ambassadors in distributed simulation.
+journals/simpra/MukherjeeKS99:::Amalendu Mukherjee::Ranjit Karmakar::Arun K. Samantaray:::Modelling of basic induction motors and source loading in rotor-motor systems with regenerative force field.
+journals/simpra/JungblutSVBM97:::Jörg Jungblut::M. Sievers::A. Vogelpohl::B. R. Bracio::Dietmar P. F. Möller:::Dynamic simulation of wastewater treatment: the process of nitrification.
+journals/simpra/Wong98:::Kam-Fai Wong:::Performance evaluation of three logging schemes for a shared-nothing database server.
+journals/simpra/ChandrasekharanMVPI96:::N. Chandrasekharan::Zhi-Hai Ma::Udaya B. Vemulapati::William J. Porthouse Jr.::Allen T. Irwin:::MasPaWS - A Massively Parallel War Simulator.
+journals/simpra/BahnasawiME97:::Ahmed A. Bahnasawi::Magdi S. Mahmoud::Shawki Z. Eid:::Priority analysis of patrolled machines.
+journals/simpra/DoganMW97:::Can A. Dogan::Todd F. McClain::Steven A. Wicklund:::Simulation modeling and analysis of a hardwood sawmill.
+journals/simpra/AngelidesP93:::Marios C. Angelides::Ray J. Paul:::Developing an intelligent tutoring system for a business simulation game.
+journals/simpra/Ould-KhaouaMSS96:::Mohamed Ould-Khaoua::Lewis M. Mackenzie::Rob J. Sutherland::Reza Sotudeh:::Constraint-based evaluation of hypergraph and graph networks.
+journals/simpra/WilcoxBH00:::Pauline A. Wilcox::Albert Burger::Peter R. Hoare:::Advanced distributed simulation: a review of developments and their implication for data collection and analysis.
+journals/simpra/KilkisSU94:::Í. B. Kilkis::S. S. Sager::Mahmut Uludag:::A simplified model for radiant heating and cooling panels.
+journals/simpra/AronsB01:::Henk de Swaan Arons::Csaba Attila Boer:::Storage and retrieval of discrete-event simulation models.
+journals/simpra/Georges94:::Didier Georges:::Optimal unit commitment in simulations of hydrothermal power systems: an augmented Lagrangian approach.
+journals/simpra/JuizP02:::Carlos Juiz::Ramón Puigjaner:::Performance modelling of pools in soft real-time design architectures.
+journals/simpra/BirtwistleT01a:::Graham M. Birtwistle::Chris M. N. Tofts:::Getting Demos models right. (II) ... and theory.
+journals/simpra/CascettaC93:::Ennio Cascetta::Giulio Erberto Cantarella:::Modelling dynamics in transportation networks: State of the art and future developments.
+journals/simpra/LoCWR01:::C. H. Lo::K. M. Chow::Y. K. Wong::A. B. Rad:::Qualitative system identification with the use of on-line genetic algorithms.
+journals/simpra/DumitrescuPD97:::Monica Dumitrescu::Ileana Popescu::Horia Dumitrescu:::On stochastic systems with complete connections modelling the random flow: A simulation study.
+journals/simpra/BalsamoM98:::Simonetta Balsamo::C. Manconi:::Rollback overhead reduction methods for time warp distributed simulation.
+journals/simpra/DelgadoP99:::Marisol Delgado::Cesar Pichardo:::Use of MATLAB and 20-sim to simulate a flash separator.
+journals/simpra/MeinertTE99:::Timothy S. Meinert::G. Don Taylor::John R. English:::A modular simulation approach for automated material handling systems.
+journals/simpra/KosturiakG98:::Ján Kosturiak::Milan Gregor:::FMS simulation: Some experience and recommendations.
+journals/simpra/MillerFTBS01:::John A. Miller::Paul A. Fishwick::Simon J. E. Taylor::Perakath C. Benjamin::Boleslaw K. Szymanski:::Research and commercial opportunities in Web-Based Simulation.

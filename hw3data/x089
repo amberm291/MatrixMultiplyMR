@@ -1,0 +1,169 @@
+journals/algorithmica/Liao92:::Andrew M. Liao:::Three Priority Queue Applications Revisited.
+journals/algorithmica/SajithS00:::G. Sajith::Sanjeev Saxena:::Optimal Sublogarithmic Time Parallel Algorithms on Rooted Forests.
+journals/algorithmica/FlorianiFNP91:::Leila De Floriani::Bianca Falcidieno::George Nagy::Caterina Pienovi:::On Sorting Triangles in a Delaunay Tessellation.
+journals/algorithmica/WengS01:::J. F. Weng::J. MacGregor Smith:::Steiner Minimal Trees with One Polygonal Obstacle.
+journals/algorithmica/Rosenberger91:::Harald Rosenberger:::Order-k Voronoi Diagrams of Sites with Additive Weights in the Plane.
+journals/algorithmica/ChoiSC95:::Seung-Hak Choi::Sung Yong Shin::Kyung-Yong Chwa:::Characterizing and Recognizing the Visibility Graph of a Funnel-Shaped Polygon.
+journals/algorithmica/Kazuyoshi03:::Hiroyuki Kazuyoshi:::An Approximation Algorithm for a Large-Scale Facility Location Problem.
+journals/algorithmica/ClementFV01:::Julien Clément::Philippe Flajolet::Brigitte Vallée:::Dynamical Sources in Information Theory: A General Analysis of Trie Structures.
+journals/algorithmica/HarelS98:::David Harel::Meir Sardas:::An Algorithm for Straight-Line of Planar Graphs.
+journals/algorithmica/Kreveld01:::Marc J. van Kreveld:::Guest Editor's Foreword.
+journals/algorithmica/LingasMS95:::Andrzej Lingas::Anil Maheshwari::Jörg-Rüdiger Sack:::Optimal Parallel Algorithms for Rectilinear Link-Distance Problems.
+journals/algorithmica/DrmotaGG01:::Michael Drmota::Danièle Gardy::Bernhard Gittenberger:::A Unified Presentation of Some Urn Models.
+journals/algorithmica/JaffeS89:::Jeffrey M. Jaffe::Moshe Sidi:::Distributed Deadlock Resolution in Store-and-Forward Networks.
+journals/algorithmica/Ben-David98:::Shai Ben-David:::Can Finite Samples Detect Singularities of Reao-Valued Functions?
+journals/algorithmica/Bar-NoyFL03:::Amotz Bar-Noy::Ari Freund::Shimon Landa:::Competitive On-Line Switching Policies.
+journals/algorithmica/BrodalMSTT02:::Gerth Stølting Brodal::Christos Makris::Spyros Sioutas::Athanasios K. Tsakalidis::Kostas Tsichlas:::Optimal Solutions for the Temporal Precedence Problem.
+journals/algorithmica/BilardiPPHS99:::Gianfranco Bilardi::Andrea Pietracaprina::Geppino Pucci::Kieran T. Herley::Paul G. Spirakis:::BSP versus LogP.
+journals/algorithmica/Kamimura98:::R. Kamimura:::Minimizing alpha-Information for Generalization and Interpretation.
+journals/algorithmica/AgostinoPS97:::Sergio De Agostino::Rossella Petreschi::Andrea Sterbini:::An O(n³) Recognition Algorithm for Bithreshold Graphs.
+journals/algorithmica/LucasS92:::Joan M. Lucas::Marian Gunsher Sackrowitz:::Efficient Parallel Algorithms for Path Problems in Directed Graphs.
+journals/algorithmica/GuptaKS00:::Arvind Gupta::Damon Kaller::Thomas C. Shermer:::Linear-Time Algorithms for Partial <i>k</i>-Tree Complements.
+journals/algorithmica/ChewF97:::L. Paul Chew::Steven Fortune:::Sorting Helps for Voronoi Diagrams.
+journals/algorithmica/BshoutyTW98a:::Nader H. Bshouty::Christino Tamon::David K. Wilson:::Learning Matrix Functions over Rings.
+journals/algorithmica/Voss92:::Stefan Voß:::Problems with Generalized Steiner Problems.
+journals/algorithmica/ChoiH88:::Hyeong-Ah Choi::S. Louis Hakimi:::Data Transfers in Networks.
+journals/algorithmica/ChorG90:::Benny Chor::Oded Goldreich:::An Improved Parallel Algorithm for Integer GCD.
+journals/algorithmica/NackmanS94:::Lee R. Nackman::V. Srinivasan:::Point Placement Algorithms for Delaunay Triangulation of Polygonal Domains.
+journals/algorithmica/Karpinski01:::Marek Karpinski:::Polynomial Time Approximation Schemes for Some Dense Instances of NP-Hard Optimization Problems.
+journals/algorithmica/Richards89:::Dana S. Richards:::Fast Heuristic Algorithms for Rectilinear Steiner Trees.
+journals/algorithmica/KearneyHM99:::Paul E. Kearney::Ryan Hayward::Henk Meijer:::Evolutionary Trees and Ordinal Assertions.
+journals/algorithmica/BaruahCPV96:::Sanjoy K. Baruah::N. K. Cohen::C. Greg Plaxton::Donald A. Varvel:::Proportionate Progress: A Notion of Fairness in Resource Allocation.
+journals/algorithmica/Fortune87:::Steven Fortune:::A Sweepline Algorithm for Voronoi Diagrams.
+journals/algorithmica/Iwata03:::Satoru Iwata:::Computing the Maximum Degree of Minors in Matrix Pencils via Combinatorial Relaxation.
+journals/algorithmica/GuibasHLST87:::Leonidas J. Guibas::John Hershberger::Daniel Leven::Micha Sharir::Robert Endre Tarjan:::Linear-Time Algorithms for Visibility and Shortest Path Problems Inside Triangulated Simple Polygons.
+journals/algorithmica/AdlerB94:::Ilan Adler::Peter A. Beling:::Polynomial Algorithms for Linear Programming over the Algebraic Numbers.
+journals/algorithmica/Pritchard99:::Paul Pritchard:::A Fast Bit-Parallel Algorithm for Computing the Subset Partial Order.
+journals/algorithmica/MehlhornN90:::Kurt Mehlhorn::Stefan Näher:::Dynamic Fractional Cascading.
+journals/algorithmica/Ben-DavidB94:::Shai Ben-David::Allan Borodin:::A New Measure for the Study of On-Line Algorithms.
+journals/algorithmica/BertolazziBD02:::Paola Bertolazzi::Giuseppe Di Battista::Walter Didimo:::Quasi-Upward Planarity.
+journals/algorithmica/BrussDL98:::F. T. Bruss::Michael Drmota::Guy Louchard:::The Complete Solution of the Competitive Rank Selection Problem.
+journals/algorithmica/PardalosX99:::Panos M. Pardalos::Guoliang Xue:::Algorithms for a Class of Isotonic Regression Problems.
+journals/algorithmica/VitterS94a:::Jeffrey Scott Vitter::Elizabeth A. M. Shriver:::Algorithms for Parallel Memory II: Hierarchical Multilevel Memories.
+journals/algorithmica/AzarBFFLR99:::Yossi Azar::Yair Bartal::Esteban Feuerstein::Amos Fiat::Stefano Leonardi::Adi Rosén:::On Capital Investment.
+journals/algorithmica/RaviW97:::R. Ravi::David P. Williamson:::An Approximation Algorithm for Minimum-Cost Vertex-Connectivity Problems.
+journals/algorithmica/GusfieldBN94:::Dan Gusfield::K. Balasubramanian::Dalit Naor:::Parametric Optimization of Sequence Alignment.
+journals/algorithmica/BaevME02:::Ivan D. Baev::Waleed Meleis::Alexandre E. Eichenberger:::An Experimental Study of Algorithms for Weighted Completion Time Scheduling.
+journals/algorithmica/FleischerMRWY92:::Rudolf Fleischer::Kurt Mehlhorn::Günter Rote::Emo Welzl::Chee-Keng Yap:::Simultaneous Inner and Outer Approximation of Shapes.
+journals/algorithmica/NilssonT02:::Stefan Nilsson::Matti Tikkanen:::An Experimental Study of Compression Methods for Dynamic Tries.
+journals/algorithmica/GuptaN98:::Arvind Gupta::Naomi Nishimura:::Finding Largest Subtrees and Smallest Supertrees.
+journals/algorithmica/Rimon97:::Elon Rimon:::Construction of C-Space Roadmaps from Local Sensory Data. What Should the Sensors Look For?
+journals/algorithmica/RamachandranY94:::Vijaya Ramachandran::Honghua Yang:::Finding the Closed Partition of a Planar Graph.
+journals/algorithmica/CormenC99:::Thomas H. Cormen::James C. Clippinger:::Performing BMMC Permutations Efficiently on Distributed-Memory Multiprocessors with MPI.
+journals/algorithmica/Parberry90:::Ian Parberry:::An Optimal Time Bound for Oblivious Routing.
+journals/algorithmica/FarrahiLS99:::Amir H. Farrahi::D. T. Lee::Majid Sarrafzadeh:::Two-Way and Multiway Partitioning of a Set of Intervals for Clique-Width Maximization.
+journals/algorithmica/KalyanasundaramP00:::Bala Kalyanasundaram::Kirk Pruhs:::Fault-Tolerant Real-Time Scheduling.
+journals/algorithmica/FloydK91:::Sally Floyd::Richard M. Karp:::FFD Bin Packing for Item Sizes with Uniform Distributions on [0, 1/2].
+journals/algorithmica/FrigioniMN98:::Daniele Frigioni::Alberto Marchetti-Spaccamela::Umberto Nanni:::Semidynamic Algorithms for Maintaining Single-Source Shortest Path Trees.
+journals/algorithmica/BoothW92:::R. S. Booth::J. F. Weng:::Steiner Minimal Trees for a Class of Zigzag Lines.
+journals/algorithmica/BoothW94:::Heather Booth::Jeffery Westbrook:::A Linear Algorithm for Analysis of Minimum Spanning and Shortest-Path Trees of Planar Graphs.
+journals/algorithmica/Gordon91:::Daniel M. Gordon:::Parallel Sorting on Cayley Graphs.
+journals/algorithmica/CherkasskyG97:::Boris V. Cherkassky::Andrew V. Goldberg:::On Implementing the Push-Relabel Method for the Maximum Flow Problem.
+journals/algorithmica/SmytheW01:::Robert T. Smythe::J. Wellner:::Stochastic Analysis of Shell Sort.
+journals/algorithmica/Sanchis02:::Laura A. Sanchis:::Experimental Analysis of Heuristic Algorithms for the Dominating Set Problem.
+journals/algorithmica/Ruger98:::Stefan M. Rüger:::A Class of Asymptotically Stable Algorithms for Learning-Rate Adaptation.
+journals/algorithmica/Grolmusz99:::Vince Grolmusz:::Harmonic Analysis, Real Approximation, and the Communication Complexity of Boolean Functions.
+journals/algorithmica/OvermarsS97:::Mark H. Overmars::Nicola Santoro:::Improved Bounds for Electing a Leader in a Synchronous Ring.
+journals/algorithmica/GrecoSS02:::John G. Del Greco::Chandra N. Sekharan::R. Sridhar:::Fast Parallel Reordering and Isomorphism Testing of k-Trees.
+journals/algorithmica/Feder94:::Tomás Feder:::Network Flow and 2-Satisfiability.
+journals/algorithmica/Smith92:::Warren D. Smith:::How To Find Steiner Minimal Trees in Euclidean d-Space.
+journals/algorithmica/AvidorAS01:::Adi Avidor::Yossi Azar::Jiri Sgall:::Ancient and New Algorithms for Load Balancing in the <i>l</i> <sub>p</sub> Norm.
+journals/algorithmica/AtallahHW91:::Mikhail J. Atallah::Susanne E. Hambrusch::Lynn E. Te Winkel:::Topological Numbering of Features on a Mesh.
+journals/algorithmica/Goodrich02:::Michael T. Goodrich:::Guest Editor's Foreword.
+journals/algorithmica/Bespamyatnikh97:::Sergei Bespamyatnikh:::On Constructing Minimum Spanning Trees in R<sup>k</sup> <sub>l</sub>.
+journals/algorithmica/Sangiovanni-Vincentelli91:::Alberto L. Sangiovanni-Vincentelli:::Editor's Foreword.
+journals/algorithmica/SaukasS99:::E. L. G. Saukas::S. W. Song:::A Note on Parallel Selection on Coarse-Grained Multicomputers.
+journals/algorithmica/Wenger97:::Rephael Wenger:::Randomized Quickhull.
+journals/algorithmica/ViolaP98:::Alfredo Viola::Patricio V. Poblete:::The Analysis of Linear Probing Hashing with Buckets.
+journals/algorithmica/CsirikJ01:::János Csirik::David S. Johnson:::Bounded Space On-Line Bin Packing: Best Is Better than First.
+journals/algorithmica/KhannaMW98:::Sanjeev Khanna::Rajeev Motwani::Randall H. Wilson:::On Certificates and Lookahead in Dynamic Graph Problems.
+journals/algorithmica/HwangCL93:::R. Z. Hwang::R. C. Chang::Richard C. T. Lee:::The Searching over Separators Strategy To Solve Some NP-Hard Problems in Subexponential Time.
+journals/algorithmica/GrebinskiK00:::Vladimir Grebinski::Gregory Kucherov:::Optimal Reconstruction of Graphs under the Additive Model.
+journals/algorithmica/CrochemoreIK98:::Maxime Crochemore::Costas S. Iliopoulos::M. Korda:::Two-Dimensional Prefix String Matching and Covering on Square Matrices.
+journals/algorithmica/ErlebachH02:::Thomas Erlebach::Torben Hagerup:::Routing Flow Through a Strongly Connected Graph.
+journals/algorithmica/WagnerWKS01:::Frank Wagner::Alexander Wolff::V. Kapoor::Tycho Strijk:::Three Rules Suffice for Good Label Placement.
+journals/algorithmica/BartalFYZ02:::Yair Bartal::Martin Farach-Colton::Shibu Yooseph::Lisa Zhang:::Fast, Fair and Frugal Bandwidth Allocation in ATM Networks.
+journals/algorithmica/BattitiB02:::Roberto Battiti::Alan A. Bertossi:::Foreword.
+journals/algorithmica/AdlerKR03:::Micah Adler::Sanjeev Khanna::Rajmohan Rajaraman:::Time-Constrained Scheduling of Weighted Packets on Trees and Meshes.
+journals/algorithmica/TeichmannM00:::Marek Teichmann::Bud Mishra:::Probabilistic Algorithms for Efficient Grasping and Fixturing.
+journals/algorithmica/DonaldX95a:::Bruce Randall Donald::Patrick G. Xavier:::Provably Good Approximation Algorithms for Optimal Kinodynamic Planning for Cartesian Robots and Open-Chain Manipulators.
+journals/algorithmica/GoldmanS95:::Sally A. Goldman::Robert H. Sloan:::Can PAC Learning Algorithms Tolerate Random Attribute Noise?
+journals/algorithmica/LiptonN93:::Richard J. Lipton::Jeffrey F. Naughton:::Clocked Adversaries for Hashing.
+journals/algorithmica/KumarRS99:::Ravi Kumar::A. Russell::Ravi Sundaram:::Approximating Latin Square Extensions.
+journals/algorithmica/Inamori02:::Hitoshi Inamori:::Security of Practical Time-Reversed EPR Quantum Key Distribution.
+journals/algorithmica/Schwarzkopf92:::Otfried Schwarzkopf:::Parallel Computation of Distance Transforms - Erratum.
+journals/algorithmica/Fleischer94:::Rudolf Fleischer:::A Tight Lower Bound for the Worst Case of Bottom-Up-Heapsort.
+journals/algorithmica/AtallahT92:::Mikhail J. Atallah::Jyh-Jong Tsay:::On the Parallel-Decomposability of Geometric Problems.
+journals/algorithmica/BuchsbaumGW01:::Adam L. Buchsbaum::Raffaele Giancarlo::Jeffery Westbrook:::An Approximate Determinization Algorithm for Weighted Finite-State Automata.
+journals/algorithmica/Kojima86:::Masakazu Kojima:::Determining Basic Variables of Optimal Solutions in Karmarkar's New LP Algorithm.
+journals/algorithmica/AlbersKS02:::Susanne Albers::Klaus Kursawe::Sven Schuierer:::Exploring Unknown Environments with Obstacles.
+journals/algorithmica/AggarwalCGOY88:::Alok Aggarwal::Bernard Chazelle::Leonidas J. Guibas::Colm Ó'Dúnlaing::Chee-Keng Yap:::Parallel Computational Geometry.
+journals/algorithmica/KaltofenL99:::Erich Kaltofen::A. Lobo:::Distributed Matrix-Free Solution of Large Sparse Linear Systems over Finite Fields.
+journals/algorithmica/Milenkovic97:::Victor Milenkovic:::Multiple Translational Containment. Part II: Exact Algorithms.
+journals/algorithmica/Bar-YehudaF94:::Reuven Bar-Yehuda::Sergio Fogel:::Variations on Ray Shooting.
+journals/algorithmica/HeideOW96:::Friedhelm Meyer auf der Heide::Brigitte Oesterdiekhoff::Rolf Wanka:::Strongly Adaptive Token Distribution.
+journals/algorithmica/TsukijiM01:::Tatsuie Tsukiji::Hosam M. Mahmoud:::A Limit Law for Outputs in Random Recursive Circuits.
+journals/electronicmarkets/Teuteberg03:::Frank Teuteberg:::Experimental Evaluation of a Model for Multilateral Negotiation with Fuzzy Preferences on an Agent-based Marketplace.
+journals/electronicmarkets/GebauerG03:::Judith Gebauer::Mark Ginsburg:::The US Wine Industry and the Internet: An Analysis of Success factors for Online Business models.
+journals/internet/FelberCGR03:::Pascal Felber::Chee Yong Chan::Minos N. Garofalakis::Rajeev Rastogi:::Scalable Filtering of XML Data for Web Services.
+journals/internet/Filman00:::Robert E. Filman:::Arachnoid Tourist: 2020 Hindsight.
+journals/internet/Gong01:::Li Gong:::A Software Architecture for Open Service Gateways.
+journals/internet/Schmidt97:::Eric Schmidt:::On the Intranet Wars: Can the Java Virtual Machine Really Challenge Microsoft? (Interview).
+journals/internet/Benda98:::Miroslav Benda:::Architecture Perspective: Shaping the Internet: The Dynamics.
+journals/internet/McBride02:::Brian McBride:::Jena: A Semantic Web Toolkit.
+journals/internet/Benda97b:::Miroslav Benda:::Architecture Perspective: Applications on the Global Computer.
+journals/internet/Manola99:::Frank Manola:::Technologies for a Web Object Model.
+journals/internet/Iyengar97:::Arun Iyengar:::Dynamic Argument Embedding: Preserving State on the World Wide Web.
+journals/internet/LeaV03:::Doug Lea::Steve Vinoski:::Guest Editors' Introduction: Middleware for Web Services.
+journals/internet/Metz01:::Christopher Metz:::On the Wire: Interconnecting ISP Networks.
+journals/internet/Huhns99:::Michael N. Huhns:::Agents on the Web: Networking Embedded Agents.
+journals/internet/MedjahedRBO03:::Brahim Medjahed::Abdelmounaam Rezgui::Athman Bouguettaya::Mourad Ouzzani:::Infrastructure for E-Government Web Services.
+journals/internet/LewisV98:::Ted G. Lewis::Dennis M. Volpano:::Wired Wired World: Wired and Wired-Er.
+journals/internet/Bhagwat01:::Pravin Bhagwat:::Industry Report: Bluetooth: Technology for Short-Range Wireless Apps.
+journals/internet/KosoresowK98:::Andrew P. Kosoresow::Gail E. Kaiser:::Collaborative Work: Using Agents to Enable Collaborative Work.
+journals/internet/Woods01:::Steve Woods:::WWW10 in Asia.
+journals/internet/Adida97b:::Ben Adida:::Weaving the Web: Java: More Than A Revolution.
+journals/internet/Adida97c:::Ben Adida:::Weaving the Web: Securing the Web.
+journals/internet/MaurerM02:::Frank Maurer::Sebastien Martel:::Extreme Programming: Rapid Development for Web-Based Applications.
+journals/internet/Kapp02a:::Steve Kapp:::802.11a: More Bandwidth without the Wires.
+journals/internet/FilmanP97c:::Robert E. Filman::Feniosky Peña-Mora:::The Arachnoid Tourist: Arachnoid Agent, at Your Service.
+journals/internet/FilmanP98a:::Robert E. Filman::Feniosky Peña-Mora:::Arachnoid Tourist: Spider on the Go.
+journals/internet/GudivadaRGK97:::Venkat N. Gudivada::Vijay V. Raghavan::William I. Grosky::Rajesh Kasanagottu:::Information Retrieval on the World Wide Web.
+journals/internet/Petrie97a:::Charles J. Petrie:::Webword: Bringing Up the Internet.
+journals/internet/Krulwich97:::Bruce Krulwich:::Automating the Internet: Agents as User Surrogates.
+journals/internet/GoldmannW99:::Sigrid Goldmann::Boris Kötting:::Collaborative Work: Software Engineering over the Internet.
+journals/internet/BakerPE99:::Albert D. Baker::H. Van Dyke Parunak::Kutluhan Erol:::Agents and the Internet: Infrastructure for Mass Customization.
+journals/internet/FuentesT99:::Lidia Fuentes::José M. Troya:::A Java Framework for Web-Based Multimedia and Collaborative Applications.
+journals/internet/Menasce03b:::Daniel A. Menascé:::Security Performance.
+journals/internet/Menasce03e:::Daniel A. Menascé:::Web Server Software Architectures.
+journals/internet/GannounFCSHH00:::Lassaâd Gannoun::Julien Francioli::Stanislav Chachkov::Frédéric Schütz::Jarle Hulaas::Jürgen Harms:::Domain Name eXchange: A Mobile-Agent-Based Shared Registry System.
+journals/internet/Stone03c:::Adam Stone:::Marching Toward Web Services.
+journals/internet/JoshiRH98:::Anupam Joshi::Naren Ramakrishnan::Elias N. Houstis:::Multiagent System Support of Networked Scientific Computing.
+journals/internet/GraupnerKAT03:::Sven Graupner::Vadim E. Kotov::Artur Andrzejak::Holger Trinks:::Service-Centric Globally Distributed Computing.
+journals/internet/HuhnsS97d:::Michael N. Huhns::Munindar P. Singh:::Agents on the Web: Ontologies for Agents.
+journals/internet/HuhnsS98e:::Michael N. Huhns::Munindar P. Singh:::Agents on the Web: Cognitive Agents.
+journals/internet/HeflinH03:::Jeff Heflin::Michael N. Huhns:::Guest Editors' Introduction: The Zen of the Web.
+journals/internet/BraniganBCW01:::Steve Branigan::Hal Burch::Bill Cheswick::Frank Wojcik:::What Can You Do with Traceroute?
+journals/internet/Thomas98e:::Brian Thomas:::Digital Toolbox: Burnt Offerings.
+journals/internet/Henzinger01:::Monika Rauch Henzinger:::Hyperlink Analysis for the Web.
+journals/internet/Petrie98:::Charles J. Petrie:::Webword: Legislating Software Standards.
+journals/internet/Durand01:::Alain Durand:::Standards: Deploying IPv6.
+journals/internet/Reiter99:::Michael K. Reiter:::High-Confidence Distributed Systems - Guest Editor's Introduction.
+journals/internet/LaenderSGRFM02:::Alberto H. F. Laender::Altigran Soares da Silva::Paulo Braz Golgher::Berthier A. Ribeiro-Neto::Irna M. R. Evangelista Filha::Karine V. Magalhães:::The Debye Environment for Web Data Management.
+journals/internet/Filman03a:::Robert E. Filman:::When Email Was Good.
+journals/internet/Filman03b:::Robert E. Filman:::From the Editor in Chief: Semantic Services.
+journals/internet/Filman03c:::Robert E. Filman:::From the Editor in Chief: End to End over Interplanetary Networks.
+journals/internet/Khare98c:::Rohit Khare:::Seventh Heaven: The Spec's in the Mail.
+journals/internet/MackayEDCC03:::Michael Mackay::Christopher Edwards::Martin Dunmore::Tim Chown::Graca Carvalho:::A Scenario-Based Review of IPv6 Transition Tools.
+journals/internet/Tolly97:::Kevin Tolly:::The Great Networking Correction: Frames Reaffirmed.
+journals/internet/DovalO03:::Diego Doval::Donal O'Mahony:::Overlay Networks: A Scalable Alternative for P2P.
+journals/internet/BertinoB02:::Elisa Bertino::Athman Bouguettaya:::Guest Editors' Introduction: Database Technology on the Web.
+journals/internet/JeonPC00:::Heecheol Jeon::Charles J. Petrie::Mark R. Cutkosky:::JATLite: A Java Agent Infrastructure with Message Routing.
+journals/internet/Singh00b:::Munindar P. Singh:::Being Interactive: Engineering Interoperation.
+journals/internet/Singh01c:::Munindar P. Singh:::The Invisible Wireless Web.
+journals/internet/BellavistaCMS03:::Paolo Bellavista::Antonio Corradi::Rebecca Montanari::Cesare Stefanelli:::Dynamic Binding in Mobile Applications: A Middleware Approach.
+journals/internet/HuhnsH02:::Michael N. Huhns::Vance T. Holderfield:::Robust Software.
+journals/internet/HuhnsV99:::Michael N. Huhns::José M. Vidal:::Agents on the Web: Online Auctions.
+journals/internet/Farber01:::David J. Farber:::Balancing Security and Liberty.
+journals/internet/BergentiPBC01:::Federico Bergenti::Agostino Poggi::Bernard Burg::Giovanni Caire:::Deploying FIPA-Compliant Systems on Handheld Devices.
+persons/Hall74:::Patrick A. V. Hall:::Common Subexpression Identification in General Algebraic Systems.

@@ -1,0 +1,200 @@
+conf/aaai/SakanashiSINYIKH98:::Hidenori Sakanashi::Mehrdad Salami::Masaya Iwata::Shogo Nakaya::Tsukasa Yamauchi::Takeshi Inuo::Nobuki Kajihara::Tetsuya Higuchi:::Evolvable Hardware Chip for High Precision Printer Image Compression.
+conf/aaai/Georgeff84:::Michael P. Georgeff:::A Theory of Action for MultiAgent Planning.
+conf/aaai/WeissKAUPBS82:::Sholom M. Weiss::Casimir A. Kulikowski::Chidanand Apté::Michael Uschold::Jay Patchett::Robert Brigham::Belynda Spitzer:::Building Expert Systems for Controlling Complex Programs.
+conf/aaai/ZabihMC87:::Ramin Zabih::David A. McAllester::David Chapman:::Non-Deterministic Lisp with Dependency-directed Backtracking.
+conf/aaai/BulitkoW99:::Vadim Bulitko::David C. Wilkins:::Automated Instructor Assistant for Ship Damage Control.
+conf/aaai/Myers97:::Karen L. Myers:::Abductive Completion of Plan Sketches.
+conf/aaai/Lytinen84:::Steven L. Lytinen:::Frame Selection in Parsing.
+conf/aaai/SimpsonL96:::Richard C. Simpson::Simon P. Levine:::Adaptive Shared Control for an Intelligent Power Wheelchair.
+conf/aaai/Rubinoff86:::Robert Rubinoff:::Adapting MUMBLE: Experience with Natural Language Generation.
+conf/aaai/Hellerstein90:::Joseph L. Hellerstein:::Obtaining Quantitative Predictions from Monotone Relationships.
+conf/aaai/Rychlik91:::Piotr Rychlik:::Some Variations on Default Logic.
+conf/aaai/BlankR97:::Douglas S. Blank::J. Oliver Ross:::Learning in a Fuzzy Logic Robot Controller.
+conf/aaai/Bylander91:::Tom Bylander:::The Qualitative Difference Resolution Rule.
+conf/aaai/VickreyK02:::David Vickrey::Daphne Koller:::Multi-Agent Algorithms for Solving Graphical Games.
+conf/aaai/BarachiniT88:::Franz Barachini::Norbert Theuretzbacher:::The Challenge of Real-Time Process Control for Production Systems.
+conf/aaai/MaedaS88:::Yasuyuki Maeda::Katsuya Shinohara:::Geometric Reasoning and Organized Optimization for Automated Process Planning.
+conf/aaai/CollinsP92:::Gregg Collins::Louise Pryor:::Achieving the Functionality of Filter Conditions in a Partial Order Planner.
+conf/aaai/ChangN94:::Yousong Chang::Donald Nute:::Abstract of the Forest Management Advisory Systems.
+conf/aaai/CalifanoM90:::Andrea Califano::Rakesh Mohan:::Generalized Shape Autocorrelation.
+conf/aaai/Craddock92:::A. Julian Craddock:::Common Sense Retrieval.
+conf/aaai/RaimanKSS91:::Olivier Raiman::Johan de Kleer::Vijay A. Saraswat::Mark Shirley:::Characterizing Non-Intermittent Faults.
+conf/accv/Cumani98:::Aldo Cumani:::Efficient Contour Extraction in Color Images.
+conf/accv/Mokhtarian98:::Farzin Mokhtarian:::Segmenting Objects at Multiple Scales: A Robust Approach.
+conf/accv/Cha98:::Sung-Hyuk Cha:::Fast Image Template and Dictionary Matching Algorithms.
+conf/accv/Wirtz98:::Brigitte Wirtz:::Technical Evaluation of Biometric Systems.
+conf/accv/ChungO98:::Jae-Moon Chung::Noboru Ohnishi:::Robust Matching and Hierarchical Recognition of 2-D Shapes Using "Chain of Circles".
+conf/accv/PapachristouPK95:::P. Papachristou::Maria Petrou::Josef Kittler:::Line Postprocessing Using Probabilistic Relaxation and Relative Measurements.
+conf/accv/Chien95:::Chiun-Hong Chien:::Applications of Computer Vision in Space Robotics.
+conf/accv/KuniyoshiKRS95:::Yasuo Kuniyoshi::Nobuyuki Kita::Sebastien Rougeaux::Takashi Suehiro:::Active Stereo Vision System with Foveated Wide Angle Lenses.
+conf/accv/WongC98:::Pak-Kwong Wong::Chorkin Chan:::Word-Class Bigram Statistics Language Model for a Hand-Written Chinese Character Recognizer.
+conf/accv/XieL95:::Ming Xie::Lai Yuan Liu:::Color Stereo Vision: Use of Appearance Constraint and Epipolar Geometry for Feature Matching.
+conf/accv/DaumD98:::Michael Daum::Gregory Dudek:::Out of the Dark: Using Shadows to Reconstruct 3D Surfaces.
+conf/accv/UtsumiMOY98:::Akira Utsumi::Hiroki Mori::Jun Ohya::Masahiko Yachida:::Multiple Camera Based Human Motion Estimation.
+conf/accv/HuangCSG98:::Qian Huang::Yuntao Cui::Supun Samarasekera::Michael Greiffenhagen:::Auto Cameraman Via Collaborative Sensing Agents.
+conf/accv/LiaoHYTCC98:::Hong-Yuan Mark Liao::Chin-Chuan Han::Gwo-Jong Yu::Hsiao-Rong Tyan::Meng Chang Chen::Liang-Hua Chen:::Face Recognition Using a Face-Only Database: A New Approach.
+conf/accv/LanMQ98:::Zhong-Dan Lan::Roger Mohr::Long Quan:::Precise Matching by Robust Estimation of Deformation and Local Coherence.
+conf/accv/Tominaga98:::Shoji Tominaga:::Estimation of Reflection Parameters from a Color Image.
+conf/accv/Zhang98:::Zhengyou Zhang:::Image-Based Geometrically-Correct Photorealistic Scene/Object Modeling (IBPhM): A Review.
+conf/accv/PollefeysGM95:::Marc Pollefeys::Luc J. Van Gool::Theo Moons:::Euclidean 3D Reconstruction from Stereo Sequences with Variable Focal Lengths.
+conf/accv/Nathan98:::Krishna Nathan:::Pen Computing - An Overview.
+conf/accv/Bab-HadiasharS98:::Alireza Bab-Hadiashar::David Suter:::Robust Total least Squares Based Optic Flow Computation.
+conf/accv/KuritaHM98:::Takio Kurita::Kazuhiro Hotta::Taketoshi Mishima:::Scale and Rotation Invariant Recognition Method Using Higher-Order Local Autocorrelation Features of Log-Polar Image.
+conf/accv/TanakaIA98:::Hiromi Tanaka::Akira Ishizawa::Hiroaki Adachi:::Live Facial Expression Generation Based on Mixed Reality.
+conf/accv/KatoPL98:::Zoltan Kato::Ting-Chuen Pong::John Chung-Mong Lee:::Motion Compensated Color Video Classification Using Markov Random Fields.
+conf/acil/Butkiewicz02:::Bohdan S. Butkiewicz:::About Robustness of Fuzzy Logic PD and PID Controller under Changes of Reasoning Methods.
+conf/acil/ApplB02:::Martin Appl::Wilfried Brauer:::Fuzzy Model-Based Reinforcement Learning.
+conf/adbt/GyssensP82:::Marc Gyssens::Jan Paredaens:::A Decomposition Methodology for Cyclic Databases.
+conf/adbt/KelloggKT77:::Charles Kellogg::Philip Klahr::Larry Travis:::Deductive Planning and Pathfinding for Relational Data Bases.
+conf/adbt/Janas79:::Jürgen M. Janas:::On the Feasibility of Informative Answers.
+conf/adbt/KelloggT79:::Charles Kellogg::Larry Travis:::Reasoning with Data in a Deductively Augmented Data Management System.
+conf/acpc/Pommer99:::Andreas Pommer:::Fractal Video Compression on Shared Memory Systems.
+conf/acpc/AmmeZ96:::Wolfram Amme::Eberhard Zehendner:::A/D Graphs - A Data Structure for Data Dependence Analysis in Programs with Pointers.
+conf/acpc/RobicS93:::Borut Robic::Jurij Silc:::High-Performance Computing on a Honeycomb Architecture.
+conf/acpc/BreiteneckerSHF91:::Felix Breitenecker::G. Schuster::Irmgard Husinsky::Josef Fritscher:::Parallelization of Simulation Tasks: Methodology-Implementation-Application.
+conf/acpc/SchmidU99:::Wolfgang Ch. Schmid::Andreas Uhl:::Parallel Quasi-Monte Carlo Integration Using (t, s)-Sequences.
+conf/acpc/KwongM96:::Peter Kwong::Shikharesh Majumdar:::Study of Data Distribution Strategies for Parallel I/O Management.
+conf/acpc/Neto93:::Álvaro Garcia Neto:::Further Results of the Relaxed Timing Model for Distributed Simulation.
+conf/acpc/EholdGKU99:::Harald J. Ehold::Wilfried N. Gansterer::Dieter F. Kvasnicka::Christoph W. Ueberhuber:::HPF and Numerical Libraries.
+conf/acpc/ChungP99:::Yongwha Chung::Jin-Won Park:::Solving Irregular Inter-processor Data Dependency in Image Understanding Tasks.
+conf/acpc/Wang91:::Paul S. Wang:::Symbolic Computation and Parallel Software.
+conf/acpc/EntacherUW99:::Karl Entacher::Andreas Uhl::Stefan Wegenkittl:::Parallel Random Number Generation: Long-Range Correlations Among Multiple Processors.
+conf/acpc/PhilippsenT91:::Michael Philippsen::Walter F. Tichy:::MODULA-2 and Its Compilation.
+conf/acpc/WilschutFA96:::Annita N. Wilschut::Jan Flokstra::Peter M. G. Apers:::Parallel Evaluation of Multi-join Queries.
+conf/acpc/Spalt93:::Alfred Spalt:::A Pipeline Algorithm for Interactive Volume Visualization.
+conf/acpc/BeckaRV99:::Martin Becka::Sophie Robert::Marián Vajtersic:::Experiments with Parallel One-Sided and Two-Sided Algorithms for SVD .
+conf/acpc/KoflerHGU99:::Helmut Kofler::Ernst J. Haunschmid::Wilfried N. Gansterer::Christoph W. Ueberhuber:::The Locality Property in Topological Irregular Graph Hierarchies.
+conf/acpc/PapakostasPT96:::N. Papakostas::George K. Papakonstantinou::Panayotis Tsanakas:::PPARDB/PVM: A Portable PVM Based Parallel Database Management System.
+conf/acri/BandiniFM96:::Stefania Bandini::R. Fesce::G. Malagutti:::A Composite Automaton Designed to Model Complex Biological Systems. Modeling the Calcium-Ion Distribution in the Living Cell.
+conf/acri/Forlani96:::Franco Forlani:::Complex Systems and Core Competencies for the Industrial Innovation.
+conf/acri/PessaPP96:::Eliano Pessa::Carlo Palma::Maria Pietronilla Penna:::Cellular Neural Networks for Realizing Associative Memories.
+conf/acri/Schonfisch00:::Birgitt Schönfisch:::Cellular Automata with Activation and Inhibition.
+conf/acri/SpezzanoT96:::Giandomenico Spezzano::Domenico Talia:::A High-Level Language for Programming Cellular Algorithms on Parallel Machines.
+conf/acri/TomassiniV02:::Marco Tomassini::Mattias Venzi:::Artificially Evolved Asynchronous Cellular Automata for the Density Task.
+conf/acri/Nagel02:::Kai Nagel:::Cellular Automata Models for Transportation Applications.
+conf/acri/Bandman02:::Olga L. Bandman:::Simulating Spatial Dynamics by Probabilistic Cellular Automata.
+conf/acsd/Kramer01:::Jeff Kramer:::Making Meaningful Models for Mere Mortal.
+conf/acsd/HansenVV03:::Henri Hansen::Heikki Virtanen::Antti Valmari:::Merging State-Based and Action-Based Verification.
+conf/acsd/Cortadella98:::Jordi Cortadella:::Combining Structural and Symbolic Methods for the Verification of Concurrent Systems.
+conf/acsd/GorrieriMPV03:::Roberto Gorrieri::Fabio Martinelli::Marinella Petrocchi::Anna Vaccarelli:::Compositional Verification of Integrity for Digital Stream Signature Protocols.
+conf/agdm/Richardson94:::Dianne Richardson:::Data Models for the Conceptual Generalisation of Geo-Data.
+conf/agdm/Veenendaal94:::Bert Veenendaal:::Developing a Model for Geographic Data Distribution in a Distributed Geographic Information System.
+conf/agdm/BertolottoFP94:::Michela Bertolotto::Leila De Floriani::Enrico Puppo:::Multiresolution Topological Maps.
+conf/afss/Pal02:::Tandra Pal:::Evolutionary Approaches to Rule Extraction for Fuzzy Logic Controllers.
+conf/afss/ChoiYKCL02:::WanKyoo Choi::HongSang Yoon::Kyungsu Kim::Ilyong Chung::SungJoo Lee:::A Traffic Light Controlling FLC Considering the Traffic Congestion.
+conf/afss/MukherjeeAN02:::Abhik Mukherjee::Partha Pratim Adhikari::P. K. Nandi:::Feature Identification for Fuzzy Logic Based Adaptive Kalman Filtering.
+conf/afss/IonitaS02:::Silviu Ionita::Emil Sofron:::The Fuzzy Model for Aircraft Landing Control.
+conf/afss/GhoshG02:::Susmita Ghosh::Ashish Ghosh:::A GA-FUZZY Approach to Evolve Hopfield Type Optimum Networks for Object Extraction.
+conf/afss/YamakawaH02:::Takeshi Yamakawa::Keiichi Horio:::Modeling of Nonlinear Systems by Employing Self-Organization and Evaluation - SOR Network.
+conf/afss/LinLWW02:::Chin-Teng Lin::Der-Jenq Liu::Rui-Cheng Wu::Gin-Der Wu:::Noisy Speech Segmentation/Enhancement with Multiband Analysis and Neural Fuzzy Networks.
+conf/afss/JawaharN02:::C. V. Jawahar::P. J. Narayanan:::Towards Fuzzy Calibration.
+conf/aics/Lutz02:::Rudi Lutz:::Recovering High-Level Structure of Software Systems Using a Minimum Description Length Principle.
+conf/aics/BuckeridgeS02:::Alan M. Buckeridge::Richard F. E. Sutcliffe:::Using Latent Semantic Indexing as a Measure of Conceptual Association for Noun Compound Disambiguation.
+conf/aics/JonesL02:::Gareth J. F. Jones::Adenike M. Lam-Adesina:::Combination Methods for Improving the Reliability of Machine Translation Based Cross-Language Information Retrieval.
+conf/aics/Brabazon02:::Anthony Brabazon:::Financial Time Series Modelling Using Neural Networks: An Assessment of the Utility of a Stacking Methodology.
+conf/aics/Fdez-RiverolaCT02:::Florentino Fdez-Riverola::Juan M. Corchado::Jesús M. Torres:::Neuro-symbolic System for Forecasting Red Tides.
+conf/aics/Glass02:::David H. Glass:::Coherence, Explanation, and Bayesian Networks.
+conf/aics/Madden02:::Michael G. Madden:::A New Bayesian Network Structure for Classification Tasks.
+conf/aicv/Basri93:::Ronen Basri:::Recognition by Combinations of Model Views: Alignment and Invariance.
+conf/aicv/Gros93:::Patrick Gros:::How to Use the Cross Ratio to Compute Projective Invariants from Two Images.
+conf/aicv/Hartley93:::Richard I. Hartley:::Euclidean Reconstruction from Uncalibrated Views.
+conf/aicv/KerenSC93:::Daniel Keren::Jayashree Subrahmonia::David B. Cooper:::Integrating Algebraic Curves and Surfaces, Algebraic Invariants and Bayesian Methods for 2D and 3D Object Recognition.
+conf/aiia/McIntyre91:::Angus McIntyre:::A Strategy for Design and Development of Complex Knowledge-Systems.
+conf/aiia/MagroT01:::Diego Magro::Pietro Torasso:::Supporting Product Configuration in a Virtual Store.
+conf/aiia/FranceschetM99:::Massimo Franceschet::Angelo Montanari:::Pairing Transitive Closure and Reduction to Efficiently Reason about Partially Ordered Events.
+conf/aiia/OmiciniDN95:::Andrea Omicini::Enrico Denti::Antonio Natali:::Agent Coordination and Control through Logic Theories.
+conf/aiia/Neri01:::Filippo Neri:::An Agent Based Approach to Virtual Market Place Simulation.
+conf/aiia/Oddi97:::Angelo Oddi:::A Weakly Backjumping Strategy to Solve Hard Scheduling Problems.
+conf/aiia/PirriP93:::Fiora Pirri::Clara Pizzuti:::Characterizing Prime Implicants as Projective Spaces.
+conf/aiia/LeonePR99:::Nicola Leone::Simona Perri::Pasquale Rullo:::Local Search Techniques for Disjunctive Logic Programs.
+conf/aiia/Jansen-WinkelnNR91:::Roman M. Jansen-Winkeln::Alassane Ndiaye::Norbert Reithinger:::FSS-WASTL: Interactive Knowledge Acquisition for a Semantic Lexicon.
+conf/aiia/Lombardo91:::Vincenzo Lombardo:::Parsing Dependency Grammars.
+conf/aiia/ArdissonoLLS93:::Liliana Ardissono::Leonardo Lesmo::Alessandro Lombardo::Dario Sestero:::Production of Cooperative Answers on the Basis of Partial Knowledge in Information-Seeking Dialogues.
+conf/aiia/LavelliM91:::Alberto Lavelli::Bernardo Magnini:::Lexical Discrimination within a Multilevel Semantics Approach.
+conf/aiia/GuidaZ95:::Giovanni Guida::Marina Zanella:::Preventive Diagnosis: Definition and Logical Model.
+conf/aiia/Monfroglio93:::Angelo Monfroglio:::Neural Networks for Constraint Satisfaction.
+conf/aiia/Bonarini95:::Andrea Bonarini:::Extending Q-learning to Fuzzy Classifier Systems.
+conf/aiia/PiastraB91:::Marco Piastra::Roberto Bolognesi:::An Efficient Context-Free Parsing Algorithm with Semantic Actions.
+conf/aiia/ArdissonoT91:::Liliana Ardissono::Paolo Terenziani:::Semantic Interpretation of Copulative Sentences.
+conf/aiia/Gaspar97:::Mauro Gaspar:::Efficient Support for Reactive Rules in Prolog.
+conf/aiia/ArdizzoneCP93:::Edoardo Ardizzone::Antonio Chella::Roberto Pirrone:::New Systems for Extracting 3-D Shape Information from Images.
+conf/aiia/KanellosZ95:::Ionnas Kanellos::Victor Hugo Zaldivar-Carillo:::Contextuality and Non-extensional Identity: the Inescapable Symbiosis in NLP.
+conf/aiia/BasiliPV91:::Roberto Basili::Maria Teresa Pazienza::Paola Velardi:::Using Word Association for Syntactic Disambiguation.
+conf/aiia/BottaBRSS91:::Marco Botta::Filippo Brancadori::S. Ravotto::Lorenza Saitta::S. B. Sperotto:::Use of a Causal Model to Learn Diagnostic Knowledge in a Real Domain.
+conf/aiia/KokaiCG97:::Gabriella Kókai::János Csirik::Tibor Gyimothy:::Learning the Syntax and Semantic Rules of an ECG Grammar.
+conf/aiia/Schaerf93:::Andrea Schaerf:::Reasoning with Individuals in Concept Languages.
+conf/aiia/AttardiGI91:::Giuseppe Attardi::Mauro Gaspari::Pietro Iglio:::Effiecient Compilation of First Order Predicates.
+conf/aime/OhmannEK97:::Christian Ohmann::Hans-Peter Eich::E. Keim:::Multilingual Decision-Support for the Diagnosis of Acute Abdominal Pain: A European Concerted Action (COPERNICUS 555).
+conf/aime/CremilleuxR97:::Bruno Crémilleux::C. Robert:::A Theoretical Framework for Decision Trees in Uncertain Domains: Application to Medical Data Sets.
+conf/aime/PeekO97:::Niels Peek::Jaap Ottenkamp:::Developing a Decision-Theoretic Network for a Congenital Heart Disease.
+conf/aime/BoazS03:::David Boaz::Yuval Shahar:::Idan: A Distributed Temporal-Abstraction Mediator for Medical Databases.
+conf/aime/PottsWA01:::Henry W. W. Potts::Jeremy C. Wyatt::Douglas G. Altman:::Challenges in Evaluating Complex Decision Support Systems: Lessons from Design-a-Trial.
+conf/aime/QuagliniSL95:::Silvana Quaglini::Mario Stefanelli::Franco Locatelli:::Decision Models for Cost-Effectiveness Analysis: A Means for Knowledge Sharing and Quality Control in Health Care Multidisciplinary Tasks.
+conf/aime/LanzolaFS95:::Giordano Lanzola::Sabina Falasconi::Mario Stefanelli:::Cooperative Software Agents for Patient Management.
+conf/aime/SentG03:::Danielle Sent::Linda C. van der Gaag:::Detailing Test Characteristics for Probabilistic Networks.
+conf/aime/Kukar03:::Matjaz Kukar:::Drifting Concepts as Hidden Factors in Clinical Studies.
+conf/aime/CombiOR03:::Carlo Combi::Barbara Oliboni::Rosalba Rossato:::Modeling Multimedia and Temporal Aspects.
+conf/aime/HerasO95:::J. Heras::Ramón P. Otero:::TKR-tool: An Expert System for Total Knee Replacement Management.
+conf/aime/SteeleF03:::Rory Steele::John Fox:::Enhancing Conventional Web Content with Intelligent Knowledge Processing.
+conf/aime/Grasso03:::Floriana Grasso:::Rhetorical Coding of Health Promotion Dialogues.
+conf/aime/Szallasi03:::Zoltan Szallasi:::Is It Time to Trade "Wet-Work" for Network?
+conf/aime/RomackerH01:::Martin Romacker::Udo Hahn:::Semantic Interpretation of Medical Language - Quantitative Analysis and Qualitative Yield.
+conf/aime/BianchiBGMS97:::Nadia Bianchi::Paolo Bottoni::Catherine Garbay::Piero Mussio::Corneliu Spinu:::Distributed Plan Construction and Execution for Medical Image Interpretation.
+conf/aime/SchmidtG03:::Rainer Schmidt::Lothar Gierl:::Prognosis of Approaching Infectious Diseases.
+conf/aina/BaiI03:::Yan Bai::Mabo Robert Ito:::User-Oriented Fair Buffer Management for MPEG Video Streams.
+conf/aina/ChenLK03:::Chao-Chun Chen::Chiang Lee::Chih-Horng Ke:::Compression-Based Broadcast Strategies in Wireless Information Systems.
+conf/aina/FuK03:::Xiaoming Fu::Cornelia Kappler:::Towards RSVP Lite: Light-Weight RSVP for Generic Signaling.
+conf/aina/LiuL03:::Hueying Liu::Yiyung Li:::A Location Based QoS Routing Protocol for Ad Hoc Networks.
+conf/aina/WangLH03:::Hongzhi Wang::Jianzhong Li::Zhenying He:::An Effective Wrapper Architecture to Heterogeneous Data Source.
+conf/aina/YounasCA03:::Muhammad Younas::Kuo-Ming Chao::Rachid Anane:::M-Commerce Transaction Management with Multi-Agent Support.
+conf/aina/ChanC03:::Chao-Wen Chan::Chin-Chen Chang:::Huffman Tree Decomposition and Its Coding Applications.
+conf/aina/KusumuraHN03:::Yukitaka Kusumura::Yoshinori Hijikata::Shogo Nishida:::Extracting Fixed Information from Miscellaneous Documents on Net Auction.
+conf/aina/DuWGW03a:::Xinjun Du::Ying Wang::Jianhua Ge::Yumin Wang:::A Group Key Establishment Scheme for Ad Hoc Networks.
+conf/aina/LiZWSZ03:::Yan Li::Zhifeng Zhao::Hai Wang::Shilei Shao::Shaoren Zheng:::An Estimation Based Adaptive Fairness Algorithm for Ad Hoc Networks.
+conf/aina/ChenLQ03a:::Zhen Chen::Zengji Liu::Zhiliang Qiu:::A Deadlock-Free Wormhole Routing Scheme in the Pan-Mesh.
+conf/aina/NakamuraUATHS03:::Daisuke Nakamura::Noriki Uchida::Hideaki Asahi::Kazuo Takahata::Koji Hashimoto::Yoshitaka Shibata:::Wide Area Disaster Information Network and Its Resource Management System.
+conf/aina/ChiangWTH03:::Jen-Shiun Chiang::Ying-Hong Wang::Chih-Hsiao Tsai::Chih-Peng Hsu:::Location Management and Multimedia Communication Service Based on Mobile IP and Cellular IP Network.
+conf/aina/KoyamaBOKS03:::Akio Koyama::Leonard Barolli::Yasutaka Okada::Noriyuki Kamibayashi::Norio Shiratori:::A Wavelength Assignment Method for WDM Networks Using Holding Strategy.
+conf/aina/ThilliezDLB03:::Marie Thilliez::Thierry Delot::Sylvain Lecomte::Nadia Bennani:::Hybrid Peer-To-Peer Model in Proximity Applications.
+conf/aina/XiaoZWLY03:::Song Xiao::Fang Zhang::Chengk Wu::Yunsong Li::Yaoping Yan:::A New Robust Multiple Description Coding Method Based on Region of Interest.
+conf/aina/ShenC03:::Jau-Ji Shen::Ming-Tsung Chen:::A Recycle Technique of Association Rule for Missing Value Completion.
+conf/aina/YueLL03:::Peng Yue::Zengji Liu::Jing Liu:::High Performance Fair Bandwidth Allocation Algorithm for Resilient Packet Ring .
+conf/aina/SheuCTC03:::Shiann-Tsong Sheu::Jenhui Chen::Hsueh-Wen Tseng::Hsien-Ta Chiang:::A Safe Multiple Access-Rates Transmission (SMART) Scheme for IEEE 802.11 Wireless Networks.
+conf/aina/ChangCH03:::Chin-Chen Chang::Chi-Shiang Chan::Ju Yuan Hsiao:::Lossless Image Compression Based on Two-Way Smaller Difference.
+conf/aipr/Ko02:::Teddy Ko:::Fingerprint Enhancement by Spectral Analysis Techniques.
+conf/aipr/Muhammed02:::Hamed Hamid Muhammed:::Using Hyperspectral Reflectance Data for Discrimination Between Healthy and Diseased Plants, and Determination of Damage-Level in Diseased Plants.
+conf/aipr/CushmanVPBB02:::Todd Cushman::James VanDamme::James Perretta::Robert Bonneau::Mark D. Barnell:::Using Optical Imagery to Enhance Radar Tracking Performance.
+conf/aipr/Hinnrichs02:::Michele Hinnrichs:::Hand Held Imaging Spectrometer.
+conf/aips/Coddington02:::Alexandra Coddington:::Handling Durative Actions in a Continuous Planning Framework.
+conf/aips/BonoPVMP90:::P. Dal Bono::A. Pelaggi::M. Volpa::S. Messina::F. Patricelli:::Multi-service digital access network planning with the expert system RAMSES.
+conf/aips/Edelkamp02:::Stefan Edelkamp:::Symbolic Pattern Databases in Heuristic Search Planning.
+conf/aips/DoK00:::Minh Binh Do::Subbarao Kambhampati:::Solving Planning-Graph by Compiling It into CSP.
+conf/aips/WilliamsonH96:::Mike Williamson::Steve Hanks:::Flaw Selection Strategies for Value-Directed Planning.
+conf/aips/Milani94:::Alfredo Milani:::Splitting Multiple Situations in Conditional Planning.
+conf/aips/HauskrechtOTU00:::Milos Hauskrecht::Luis E. Ortiz::Ioannis Tsochantaridis::Eli Upfal:::Computing Global Strategies for Multi-Market Commodity Trading.
+conf/aips/Iwamoto94:::Masahiko Iwamoto:::A Planner with Quality Goal and Its Speed-up Learning for Optimization Problem.
+conf/aips/FuchsGOC90:::J. J. Fuchs::A. Gasquet::B. Olalainty::Ken Currie:::PlanERS-1: An expert planning system for generating spacecraft mission plane.
+conf/aips/YangC94:::Qiang Yang::Alex Y. M. Chan:::Delaying Variable Binding Commitments in Planning.
+conf/aips/BarrosVB96:::Leliane Nunes de Barros::André Valente::V. Richard Benjamins:::Modeling Planning Tasks.
+conf/aips/Baumewerd-AhlmannK90:::Annegret Baumewerd-Ahlmann::Jürgen Kalinski:::Structuring techniques for knowledge-based planning systems in environmental impact assessment.
+conf/aips/GhallabL94:::Malik Ghallab::Hervé Laruelle:::Representation and Control in IxTeT, a Temporal Planner.
+conf/aips/GambardellaV94:::Luca Maria Gambardella::Cristina Versino:::Robot Motion Planning Integrating Planning Strategies and Learning Methods.
+conf/aips/JosephD90:::A. T. Joseph::B. J. Davies:::EXCAP: an expert process planning system for turned components.
+conf/aips/ReadyST90:::C. M. Ready::W. H. Simmonds::J. C. Taunton:::A knowledge based planning and scheduling toolkit for the process industry.
+conf/aips/MajercikR02:::Stephen M. Majercik::Andrew P. Rusczek:::Faster Probabilistic Planning through More Efficient Stochastic Satisfiability Problem Encodings.
+conf/aips/MaliK98:::Amol Dattatraya Mali::Subbarao Kambhampati:::Encoding HTN Planning in Propositional Logic.
+conf/aips/Burnell94:::Lisa J. Burnell:::Decision-theoretic Control of Failure Recovery.
+conf/aips/ColbryPP02:::Dirk Colbry::Bart Peintner::Martha E. Pollack:::Execution Monitoring with Quantitative Temporal Dynamic Bayesian Networks.
+conf/aips/Morignot94:::Philippe Morignot:::Embedded Planning.
+conf/aips/Haddock94:::Gail Haddock:::Planning for Dynamic Configuration of Component-based Architectures.
+conf/aips/GoldmanB94:::Robert P. Goldman::Mark S. Boddy:::Conditional Linear Planning.
+conf/aips/NgoHN98:::Liem Ngo::Peter Haddawy::Hien Nguyen:::A Modular Structured Approach to Conditional Decision-Theoretic Planning.
+conf/aips/FergusonA94:::George Ferguson::James F. Allen:::Arguing about Plans: Plan Representation and Reasoning for Mixed-initiative Planning.
+conf/aips/TonidandelR02:::Flavio Tonidandel::Marcio Rillo:::The FAR-OFF System: A Heuristic Search Case-Based Planning.
+conf/aips/Myers96:::Karen L. Myers:::A Procedural Knowledge Approach to Task-Level Control.
+conf/aips/WallaceF00:::Richard J. Wallace::Eugene C. Freuder:::Dispatchable Execution of Schedules Involving Consumable Resources.
+conf/aips/EphratiPR94:::Eithan Ephrati::Motty Perry::Jeffrey S. Rosenschein:::Plan Execution Motivation in Multi-agent Systems.
+conf/aipt/PennaS93:::Manoel Camillo Penna::José Neuman de Souza:::Unification of Heterogeneous Network Management.
+conf/aipt/BoutabaFS93:::Raouf Boutaba::Bertil Folliot::Pierre Sens:::Efficient Ressources Management in Local Area Networks.
+conf/aisa/Baek02:::Yuncheol Baek:::A Tool Measuring Operating System Supports for Squid Proxy Cache.
+conf/aisa/LeeK02:::Sangyeob Lee::Whoiyul Kim:::Robust Character Image Retrieval Method Using Bipartite Matching and Pseudo-bipartite Matching.

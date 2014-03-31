@@ -1,0 +1,200 @@
+journals/jacm/NassimiS82:::David Nassimi::Sartaj Sahni:::Parallel permutation and sorting algorithms and a new generalized connection network.
+journals/jacm/KafuraS78:::Dennis G. Kafura::V. Y. Shen:::An Algorithm to Design the Memory Configuration of a Computer Network.
+journals/jacm/Robson71:::John Michael Robson:::An Estimate of the Store Size Necessary for Dynamic Storage Allocation.
+journals/jacm/Gorn57:::Saul Gorn:::Standardized Programming Methods and Universal Coding.
+journals/jacm/Hobby89:::John D. Hobby:::Rasterizing curves of constant width.
+journals/jacm/RodehS99:::Michael Rodeh::Shmuel Sagiv:::Finding Circular Attributes in Attribute Grammars.
+journals/jacm/LiefvoortL86:::Appie van de Liefvoort::Lester Lipsky:::A matrix-algebraic solution to two K<sub>m</sub> servers in a loop.
+journals/jacm/Das77:::Shawpawn Kumar Das:::A Machine Representation of Finite T<sub>0</sub> Topologies.
+journals/jacm/ByrneL66:::George D. Byrne::Robert J. Lambert:::Pseudo-Runge-Kutta Methods Involving Two Points.
+journals/jacm/Wadel56:::Louis B. Wadel:::Simulation of Digital Filters on an Electronic Analog Computer.
+journals/jacm/Bellman60:::Richard Bellman:::Sequential Machines, Ambiguity, and Dynamic Programming.
+journals/jacm/Holdt56:::Richard Elton von Holdt:::An Iterative Procedure for the Calculation of the Eigenvalues and Eigenvectors of a Real Symmetric Matrix.
+journals/jacm/Lam82:::Simon S. Lam:::Dynamic Scaling and Growth Behavior of Queuing Network Normalization Constants.
+journals/jacm/Lee80:::D. T. Lee:::Two-Dimensional Voronoi Diagrams in the L<sub>p</sub>-Metric.
+journals/jacm/Kou77:::Lawrence T. Kou:::On Live-Dead Analysis for Global Data Flow Problems.
+journals/jacm/JaJa84:::Joseph JáJá:::The VLSI Complexity of Selected Graph Problems.
+journals/jacm/ManacherBM89:::Glenn K. Manacher::T. D. Bui::T. Mai:::Optimum combinations of sorting and merging.
+journals/jacm/Rao78:::Gururaj S. Rao:::Performance Analysis of Cache Memories.
+journals/jacm/Schnorr78:::Claus-Peter Schnorr:::Satisfiability Is Quasilinear Complete in NQL.
+journals/jacm/Arbib61:::Michael A. Arbib:::Turing Machines, Finite Automata and Neural Nets.
+journals/jacm/Itai78:::Alon Itai:::Two-Commodity Flow.
+journals/jacm/DolevDS87:::Danny Dolev::Cynthia Dwork::Larry J. Stockmeyer:::On the minimal synchronism needed for distributed consensus.
+journals/jacm/KamU76:::John B. Kam::Jeffrey D. Ullman:::Global Data Flow Analysis and Iterative Algorithms.
+journals/jacm/BhatN79:::U. Narayan Bhat::Richard E. Nance:::An Evaluation of CPU Efficiency Under Dynamic Quantum Allocation.
+journals/jacm/Greenberger61:::Martin Greenberger:::Notes on a New Pseudo-Random Number Generator.
+journals/jacm/BoeschG77:::Francis T. Boesch::James F. Gimpel:::Covering Points of a Digraph with Point-Disjoint Paths and Its Application to Code Optimization.
+journals/jacm/Klug88:::Anthony C. Klug:::On conjunctive queries containing inequalities.
+journals/jacm/HicksW67:::J. S. Hicks::J. Wei:::Numerical Solution of Parabolic Partial Differential Equations With Two-Point Boundary Conditions by Use of the Method of Lines.
+journals/jacm/AryaMNSW98:::Sunil Arya::David M. Mount::Nathan S. Netanyahu::Ruth Silverman::Angela Y. Wu:::An Optimal Algorithm for Approximate Nearest Neighbor Searching Fixed Dimensions.
+journals/jacm/CannyE00:::John F. Canny::Ioannis Z. Emiris:::A subdivision-based algorithm for the sparse resultant.
+journals/jacm/LiuL73:::C. L. Liu::James W. Layland:::Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment.
+journals/jacm/Lowe68:::Thomas C. Lowe:::The Influence of Data Base Characteristics and Usage on Direct Access File Organization.
+journals/jacm/Bryant82:::R. M. Bryant:::Maximum Processing Rates of Memory Bound Systems.
+journals/jacm/Fisher56:::Michael E. Fisher:::Higher Order Differences in the Analogue Solution of Partial Differential Equations.
+journals/jacm/BollobasBS90:::Béla Bollobás::Andrei Z. Broder::István Simon:::The Cost Distribution of Clustering in Random Probing
+journals/jacm/Hooper66:::Philip K. Hooper:::Monogenic Post Normal Systems of Arbitrary Degree.
+journals/jacm/Householder58a:::Alston S. Householder:::Generated Error in Rotational Tridiagonalization.
+journals/jacm/Shostak77:::Robert E. Shostak:::On the SUP-INF Method for Proving Presburger Formulas.
+journals/jacm/BerryL79:::Gérard Berry::Jean-Jacques Lévy:::Minimal and Optimal Computations of Recursive Programs.
+journals/jacm/CopiEW58:::Irving M. Copi::Calvin C. Elgot::Jesse B. Wright:::Realization of Events by Logical Nets.
+journals/jacm/McClure65:::Robert M. McClure:::A Programming Language for Simulating Digital Systems.
+journals/jacm/CaseRS01:::John Case::Dayanand S. Rajan::Anil M. Shende:::Lattice computers for approximating Euclidean space.
+journals/jacm/BlumC61:::Edward K. Blum::Philip C. Curtis Jr.:::Asymptotic Behavior of the Best Polynomial Approximation.
+journals/jacm/Matula82:::David W. Matula:::Basic digit sets for radix representation.
+journals/jacm/Negron66:::C. D. Negron:::Digital One-Third Octave Spectral Analysis.
+journals/jacm/JuncosaM60:::Mario L. Juncosa::T. W. Mullikin:::On the Increase of Convergence Rates of Relaxation Procedures for Elliptic Partial Difference Equations.
+journals/jacm/McNaughton67:::Robert McNaughton:::Parenthesis Grammars.
+journals/jacm/Maurer66:::Ward Douglas Maurer:::A Theory of Computer Instructions.
+journals/jacm/Slagle67:::James R. Slagle:::Automatic Theorem Proving With Renamable and Semantic Resolution.
+journals/jacm/Rosenkrantz69:::Daniel J. Rosenkrantz:::Programmed Grammars and Classes of Formal Languages.
+journals/jacm/Lieblein59:::Julius Lieblein:::A General Analysis of Variance Scheme Applicable to a Computer With a Very Large Memory.
+journals/jacm/FiatNSS92:::Amos Fiat::Moni Naor::Jeanette P. Schmidt::Alan Siegel:::Nonoblivious Hashing.
+journals/jacm/Roth70:::Richard H. Roth:::An Approach to Solving Linear Discrete Optimization Problems.
+journals/jacm/Ross94:::Kenneth A. Ross:::Modular Stratification and Magic Sets for Datalog Programs with Negation.
+journals/jacm/EisnerS76:::Mark J. Eisner::Dennis G. Severance:::Mathematical Techniques for Efficient Record Segmentation in Large Shared Databases.
+journals/jacm/AbateDW68:::Joseph Abate::Harvey Dubner::Sheldon B. Weinberg:::Queueing Analysis of the IBM 2314 Disk Storage Facility.
+journals/jacm/Shaw66:::H. Shaw:::Discrete Analogs for Continuous Filters.
+journals/jacm/Shaw67:::Brian Shaw:::Modified Multistep Methods Based on a Nonpolynomial Interpolant.
+journals/jacm/Shaw70:::Alan C. Shaw:::Parsing of Graph-Representable Pictures.
+journals/jacm/AwerbuchS97:::Baruch Awerbuch::Leonard J. Schulman:::The maintenance of common data in a distributed system.
+journals/jacm/BellmoreH74:::Mandell Bellmore::Saman Hong:::Transformation of Multisalesman Problem to the Standard Traveling Salesman Problem.
+journals/jacm/Rosenberg79:::Arnold L. Rosenberg:::Encoding Data Structures in Trees.
+journals/jacm/Rosenberg83:::Arnold L. Rosenberg:::Three-Dimensional VLSI: A Case Study
+journals/jacm/MilneR60:::W. E. Milne::R. R. Reynolds:::Stability of a Numerical Solution of Differential Equations - Part II.
+journals/jacm/Milner79:::Robin Milner:::Flowgraphs and Flow Algebras.
+journals/jacm/ChungG57:::J. H. Chung::C. C. Gotlieb:::Test of an Inventory Control System on FERUT.
+journals/jacm/KinariwalaR77:::Bharat Kinariwala::A. G. Rao:::Flow Switching Approach to the Maximum Flow Problem: I.
+journals/jacm/Ben-AmramG92:::Amir M. Ben-Amram::Zvi Galil:::On Pointers versus Addresses.
+journals/jacm/Brent74:::Richard P. Brent:::The Parallel Evaluation of General Arithmetic Expressions.
+journals/jacm/Brent76:::Richard P. Brent:::Fast Multiple-Precision Evaluation of Elementary Functions.
+journals/jacm/Kaltofen88:::Erich Kaltofen:::Greatest common divisors of polynomials given by straight-line programs.
+journals/jacm/Reischuk87:::Rüdiger Reischuk:::Simultaneous WRITES of parallel random access machines do not help to compute simple arithmetic functions.
+journals/jacm/Lombardi61:::Lionello Lombardi:::System Handling of Functional Operators.
+journals/jacm/Weeg65:::Gerard P. Weeg:::The Automorphism Group of the Direct Product of Strongly Related Automata.
+journals/jacm/Hibbard61:::Thomas N. Hibbard:::Least Upper Bounds on Minimal Terminal State Experiments for Two Classes of Sequential Machines.
+journals/jacm/Seiden02:::Steven S. Seiden:::On the online bin packing problem.
+journals/jacm/RotemV78:::Doron Rotem::Yaakov L. Varol:::Generation of Binary Trees from Ballot Sequences.
+journals/jacm/Curtis59a:::H. Allen Curtis:::Multifunctional Circuits in Functional Canonical Form.
+journals/jacm/CurtisF59:::Philip C. Curtis Jr.::Werner L. Frank:::An Algorithm for the Determination of the Polynomial of Best Minimax Approximation to a Function Defined on a Finite Point Set.
+journals/jacm/Abdelmalek71:::Nabih N. Abdelmalek:::Linear L<sub>1</sub> Approximation for a Discrete Point Set and L<sub>1</sub> Solutions of Overdetermined Linear Equations.
+journals/jacm/Willis70:::David G. Willis:::Computational Complexity and Probability Constructions.
+journals/jacm/Stanfel72:::Larry E. Stanfel:::Practical Aspects of Doubly Chained Trees for Retrieval.
+journals/jacm/BarvinokFJTWW03:::Alexander I. Barvinok::Sándor P. Fekete::David S. Johnson::Arie Tamir::Gerhard J. Woeginger::Russell Woodroofe:::The geometric maximum traveling salesman problem.
+journals/jacm/Winder71:::Robert O. Winder:::Chow Parameters in Threshold Logic.
+journals/jacm/JonesM78:::Neil D. Jones::Steven S. Muchnick:::The Complexity of Finite Memory Programs with Recursion.
+journals/jacm/Schwartz61:::Eugene S. Schwartz:::An Automatic Sequencing Procedure with Application to Parallel Programming.
+journals/jacm/LewisBB67:::P. A. W. Lewis::P. B. Baxendale::J. L. Bennett:::Statistical Discrimination of the Synonymy/Antonymy Relationship Between Words.
+journals/jacm/Glicksman65:::Stephen Glicksman:::Concerning the Merging of Equal Length Tape Files.
+journals/jacm/RowlandC86:::John H. Rowland::John R. Cowles:::Small Sample Algorithms for the Identification of Polynomials.
+journals/jacm/MitraW84:::Debasis Mitra::Peter J. Weinberger:::Probabilistic Models of Database Locking: Solutions, Computational Algorithms, and Asymptotics.
+journals/jacm/KarpZ98:::Richard M. Karp::Yangun Zhang:::On Parallel Evaluation of Game Trees.
+journals/jacm/KatzK74:::Steven Katz::Alan G. Konheim:::Priority Disciplines in a Loop System.
+journals/jacm/Brzozowski67:::Janusz A. Brzozowski:::Roots of Star Events.
+journals/jacm/KrishnaswamyP80:::Ramachandran Krishnaswamy::Arthur B. Pyster:::On the Correctness of Semantic-Syntax-Directed Translations.
+journals/jacm/CodyC76:::R. A. Cody::Edward G. Coffman Jr.:::Record Allocation for Minimizing Expected Retrieval Costs on Drum-Like Storage Devices.
+journals/jacm/Champeaux83:::Dennis de Champeaux:::Bidirectional Heuristic Search Again
+journals/jacm/MichieS74:::Donald Michie::E. E. Sibert:::Some Binary Derivation Systems.
+journals/jacm/EhrenfeuchtRR81:::Andrzej Ehrenfeucht::Grzegorz Rozenberg::Keijo Ruohonen:::A Morphic Representation of Complements of Recursively Enumerable Sets.
+journals/jacm/DiGriK59:::Vincent J. DiGri::Jane E. King:::The Share 709 System: Input-Output Translation.
+journals/jacm/PachlKR84:::Jan K. Pachl::Ephraim Korach::Doron Rotem:::Lower Bounds for Distributed Maximum-Finding Algorithms.
+journals/jacm/Ehrich82:::Hans-Dieter Ehrich:::On the Theory of Specification, Implementation, and Parametrization of Abstract Data Types.
+journals/jacm/Wirth68a:::Niklaus Wirth:::Corrigendum: ``PL360, a Programming Language for the 360 Computers''.
+journals/jacm/Erdelyi66:::Ivan Erdelyi:::On the ``Reverse Order Law'' Related to the Generalized Inverse of Matrix Products.
+journals/jacm/StorerS82:::James A. Storer::Thomas G. Szymanski:::Data compression via textural substitution.
+journals/jacm/PettieR02:::Seth Pettie::Vijaya Ramachandran:::An optimal minimum spanning tree algorithm.
+journals/jacm/ReifS94:::John H. Reif::Micha Sharir:::Motion Planning in the Presence of Moving Obstacles.
+journals/jacm/Crump76:::Kenny S. Crump:::Numerical Inversion of Laplace Transforms Using a Fourier Series Approximation.
+journals/jacm/Reiss79:::Steven P. Reiss:::Security in Databases: A Combinatorial Study.
+journals/jacm/Stineman65:::Russell W. Stineman:::Digital Time-Domain Analysis of Systems with Widely Separated Poles.
+journals/jacm/HooverKP84:::H. James Hoover::Maria M. Klawe::Nicholas Pippenger:::Bounding Fan-out in Logical Networks.
+journals/jacm/Leichner57:::Gene H. Leichner:::Designing Computer Circuits with a Computer.
+journals/jacm/GalilHLSW87:::Zvi Galil::Christoph M. Hoffmann::Eugene M. Luks::Claus-Peter Schnorr::Andreas Weber:::An O(n³log n) deterministic and an O(n³) Las Vegs isomorphism test for trivalent graphs.
+journals/jacm/Keitel56:::Glenn H. Keitel:::An Extension of Milne's Three-Point Method.
+journals/jacm/Tarjan75:::Robert Endre Tarjan:::Efficiency of a Good But Not Linear Set Union Algorithm.
+journals/jacm/CraneL62:::Roger L. Crane::Robert J. Lambert:::Stability of a Generalized Corrector Formula.
+journals/jacm/SethiT80:::Ravi Sethi::Adrian Tang:::Constructing Call-by-Value Continuation Semantics.
+journals/jacm/DonaldXCR93:::Bruce Randall Donald::Patrick G. Xavier::John F. Canny::John H. Reif:::Kinodynamic Motion Planning.
+journals/jacm/KapoorR89:::Sanjiv Kapoor::Edward M. Reingold:::Optimum lopsided binary trees.
+journals/jacm/BourneF61:::Charles P. Bourne::Donald F. Ford:::A Study of Methods for Systematically Abbreviating English Words and Names.
+journals/jacm/Rider76:::Kenneth Lloyd Rider:::A Simple Approximation to the Average Queue Size in the Time-Dependent M/M/1 Queue.
+journals/jacm/JumpT75:::J. Robert Jump::P. S. Thiagarajan:::On the Interconnection of Asynchronous Control Structures.
+journals/jacm/BakerCW85:::Brenda S. Baker::Edward G. Coffman Jr.::Dan E. Willard:::Algorithms for Resolving Conflicts in Dynamic Storage Allocation
+journals/jacm/Bailey66:::John S. Bailey:::Generalized Single-Ended Counters.
+journals/jacm/HanemanS55:::V. S. Haneman::J. W. Senders:::Correlation Computation on Analog Devices
+journals/jacm/ToyodaTK66:::Jun'ichi Toyoda::Yoshikazu Tezuka::Yoshiro Kasahara:::Analysis of the Address Assignment Problem for Clustered Keys.
+journals/jacm/Sahni75:::Sartaj Sahni:::Approximate Algorithms for the 0/1 Knapsack Problem.
+journals/jacm/Sahni76:::Sartaj Sahni:::Algorithms for Scheduling Independent Tasks.
+journals/jacm/Mendelzon79:::Alberto O. Mendelzon:::On Axiomatizing Multivalued Dependencies in Relational Databases.
+journals/jacm/AbramowitzC55:::Milton Abramowitz::William F. Cahill:::On the Vibration of a Square Clamped Plate
+journals/jacm/FranaszekW74:::Peter A. Franaszek::T. J. Wagner:::Some Distribution-Free Aspects of Paging Algorithm Performance.
+journals/jacm/Osborne60:::E. E. Osborne:::On Pre-Conditioning of Matrices.
+journals/jacm/KalyanasundaramP03:::Bala Kalyanasundaram::Kirk Pruhs:::Minimizing flow time nonclairvoyantly.
+journals/jacm/MiltersenPT96:::Peter Bro Miltersen::Mike Paterson::Jun Tarui:::The Asymptotic Complexity of Merging Networks.
+journals/jacm/EastonW75:::Malcolm C. Easton::C. K. Wong:::The Effect of a Capacity Constraint on the Minimal Cost of a Partition.
+journals/jacm/DiDonatoH59:::A. R. DiDonato::A. V. Hershey:::New Formulas for Computing Incomplete Elliptic Integrals of the First and Second Kind.
+journals/jacm/Pfaltz75:::John L. Pfaltz:::Representing Graphs by Knuth Trees.
+journals/jacm/Ullman69:::Jeffrey D. Ullman:::Halting Stack Automata.
+journals/jacm/Leung93:::Kin K. Leung:::An Execution/Sleep Scheduling Policy for Serving an Additional Job in Priority Queueing Systems.
+journals/jacm/Gonnet81:::Gaston H. Gonnet:::Expected Length of the Longest Probe Sequence in Hash Code Searching.
+journals/jacm/LundFKN92:::Carsten Lund::Lance Fortnow::Howard J. Karloff::Noam Nisan:::Algebraic Methods for Interactive Proof Systems.
+journals/jacm/Yoeli65:::Michael Yoeli:::Generalized Cascade Decompositions of Automata.
+journals/jacm/FeketeKL98:::Alan Fekete::M. Frans Kaashoek::Nancy A. Lynch:::Implementing Sequentially Consistent Shared Objects using Broadcast and Point-to-Point Communication.
+journals/jacm/Wasilkowski80:::Grzegorz W. Wasilkowski:::Can Any Stationary Iteration Using Linear Information Be Globally Convergent?.
+journals/jacm/Young58:::Frederick H. Young:::Analysis of Shift Register Counters.
+journals/jacm/AndreevCR98:::Alexander E. Andreev::Andrea E. F. Clementi::José D. P. Rolim:::A New General Derandomization Method.
+journals/jacm/ClarkeGH83:::Edmund M. Clarke::Steven M. German::Joseph Y. Halpern:::Effective Axiomatizations of Hoare Logics
+journals/jacm/Gordon56:::Barry Gordon:::An Optimizing Program for the IBM 650.
+journals/jacm/Lions71:::John Lions:::Some Results Concerning the Reduction of Binary Matrices.
+journals/jacm/BarnesF67:::Bruce H. Barnes::John M. Fitzgerald:::Minimal Experiments for Input-Independent Machines.
+journals/jacm/MahantiB85:::A. Mahanti::A. Bagchi:::AND/OR Graph Heuristic Search Methods
+journals/jacm/LiuNT97:::Zhen Liu::Philippe Nain::Donald F. Towsley:::Exponential bounds with applications to call admission.
+journals/jacm/Henrici56a:::Peter Henrici:::Automatic Computations with Power Series.
+journals/jacm/Netherwood59:::Douglas B. Netherwood:::Logic Matrices and the Truth Function Problem.
+journals/jacm/Williams54:::Samuel B. Williams:::The Association for Computing Machinery
+journals/jacm/KungT78:::H. T. Kung::J. F. Traub:::All Algebraic Functions Can Be Computed Fast.
+journals/jacm/OdellD67:::Patrick L. Odell::E. P. Decell:::On Computing the Fixed-Point Probability Vector of Ergodic Transition Matrices.
+journals/jacm/Clarkson95:::Kenneth L. Clarkson:::Las Vegas Algorithms for Linear and Integer Programming when the Dimension is Small.
+journals/jacm/BrookesHR84:::Stephen D. Brookes::C. A. R. Hoare::A. W. Roscoe:::A Theory of Communicating Sequential Processes.
+journals/jacm/BeimelBBKV00:::Amos Beimel::Francesco Bergadano::Nader H. Bshouty::Eyal Kushilevitz::Stefano Varricchio:::Learning functions represented as multiplicity automata.
+journals/jacm/Lawler64:::Eugene L. Lawler:::An Approach to Multilevel Boolean Minimization.
+journals/jacm/Shamir92:::Adi Shamir:::IP = PSPACE.
+journals/jacm/Sanders65:::Jerry Sanders:::Document Association and Classification Based on L-Languages.
+journals/jacm/Skeel79:::Robert D. Skeel:::Scaling for Numerical Stability in Gaussian Elimination.
+journals/jacm/StrandW68:::Otto Neall Strand::Ed. R. Westwater:::Statistical Estimation of the Numerical Solution of a Fredholm Integral Equation of the First Kind.
+journals/jacm/HannenhalliP99:::Sridhar Hannenhalli::Pavel A. Pevzner:::Transforming Cabbage into Turnip: Polynomial Algorithm for Sorting Signed Permutations by Reversals.
+journals/jacm/Summers77:::Phillip D. Summers:::A Methodology for LISP Program Construction from Examples.
+journals/jacm/KohfeldT67:::John J. Kohfeld::Gene Thomas Thompson:::Multistep Methods With Modified Predictors and Correctors.
+journals/jacm/AugustsonM70:::J. Gary Augustson::Jack Minker:::An Analysis of Some Graph Theoretical Cluster Techniques.
+journals/jacm/BernsteinC81:::Philip A. Bernstein::Dah-Ming W. Chiu:::Using Semi-Joins to Solve Relational Queries.
+journals/jacm/KearnsLV94:::Michael J. Kearns::Ming Li::Leslie G. Valiant:::Learning Boolean Formulas.
+journals/jacm/PetersonS81:::Gerald E. Peterson::Mark E. Stickel:::Complete Sets of Reductions for Some Equational Theories.
+journals/jacm/Smith84:::Douglas R. Smith:::Random Trees and the Analysis of Branch and Bound Procedures.
+journals/jacm/Richards73a:::Donald L. Richards:::Efficient Exercising of Switching Elements in Combinatorial Nets.
+journals/jacm/Waksman69:::Abraham Waksman:::A Model of Replication.
+journals/jacm/Coffman68:::Edward G. Coffman Jr.:::Analysis of Two Time-Sharing Algorithms Designed for Limited Swapping.
+journals/jacm/Shemer67:::Jack E. Shemer:::Some Mathematical Considerations of Time-Sharing Scheduling Algorithms.
+journals/jacm/GabrielianG74:::Armin Gabrielian::Seymour Ginsburg:::Grammar Schemata.
+journals/jacm/Anders65:::Edward B. Anders:::An Error Bound for a Numerical Filtering Technique.
+journals/jacm/FuchsK85:::Ken Fuchs::Dennis G. Kafura:::Memory-Constrained Task Scheduling on a Network of Dual Processors
+journals/jacm/MattsonF63:::R. L. Mattson::Oscar Firschein:::Feature Word Construction for Use with Pattern Recognition Algorithms: An Experimental Study.
+journals/jacm/FarachK99:::Martin Farach::Sampath Kannan:::Efficient Algorithms for Inverting Evolution.
+journals/jacm/Zerling85:::David Zerling:::Generating Binary Trees Using Rotations
+journals/jacm/TraubW79:::J. F. Traub::Henryk Wozniakowski:::Convergence and Complexity of Newton Iteration for Operator Equations.
+journals/jacm/Zohar69:::Shalhav Zohar:::Toeplitz Matrix Inversion: The Algorithm of W. F. Trench.
+journals/jacm/BlumofeL99:::Robert D. Blumofe::Charles E. Leiserson:::Scheduling Multithreaded Computations by Work Stealing.
+journals/jacm/Chazelle90b:::Bernard Chazelle:::Lower Bounds for Orthogonal Range Searching II. The Arithmetic Model
+journals/jacm/FlajoletP86:::Philippe Flajolet::Claude Puech:::Partial match retrieval of multidimensional data.
+journals/jacm/AttiyaD01:::Hagit Attiya::Eyal Dagan:::Improved implementations of binary universal operations.
+journals/jacm/AttiyaF03:::Hagit Attiya::Arie Fouren:::Algorithms adapting to point contention.
+journals/jacm/DobkinM81:::David P. Dobkin::J. Ian Munro:::Optimal Time Minimal Space Selection Algorithms.
+journals/jacm/DobkinS91:::David P. Dobkin::Subhash Suri:::Maintenance of Geometric Extrema.
+journals/jacm/RathmannWM94:::Peter K. Rathmann::Marianne Winslett::Mark S. Manasse:::Circumscription with Homomorphisms: Solving the Equality and Counterexample Problems.
+journals/jacm/MarekST93:::V. Wiktor Marek::Grigori F. Shvarts::Miroslaw Truszczynski:::Modal Nonmonotonic Logics: Ranges, Characterization, Computation.
+journals/jacm/KarloffR93:::Howard J. Karloff::Prabhakar Raghavan:::Randomized Algorithms and Pseudorandom Numbers.
+journals/jacm/Floyd67:::Robert W. Floyd:::Nondeterministic Algorithms.
+journals/jacm/Stone73:::Harold S. Stone:::An Efficient Parallel Algorithm for the Solution of a Tridiagonal Linear System of Equations.
+journals/jacm/Gauss60:::E. J. Gauss:::Corrigendum to ``A Comparison of Machine Organizations by Their Performance of the Iterative Solution of Linear Equations''.
+journals/jacm/Overheu66:::D. L. Overheu:::An Abstract Machine for Symbolic Computation.
+journals/jacm/HeacoxP72:::Harry C. Heacox Jr.::Paul Walton Purdom Jr.:::Analysis of Two Time-Sharing Queueing Models.
+journals/jacm/BenediktL00:::Michael Benedikt::Leonid Libkin:::Relational queries over interpreted structures.

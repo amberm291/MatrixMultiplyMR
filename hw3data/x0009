@@ -1,0 +1,200 @@
+conf/wg/Kahl96:::Wolfram Kahl:::Algebraic Graph Derivations for Graphical Calculi.
+conf/wg/FelsnerK98:::Stefan Felsner::Klaus Kriegel:::Triangles in Euclidean Arrangements.
+conf/wg/GoetzkeKK87:::Kai Goetzke::Hans-Joachim Klein::Peter Kandzia:::Automatic Crystal Chemical Classification of Silicates Using Direction-Labeled Graphs.
+conf/wg/Perko87:::Aarni Perko:::Externasl Labeling and Algorithms for Hierarchic Networks.
+conf/wg/Ihler91:::Edmund Ihler:::The Complexity of Approximating the Class Steiner Tree Problem.
+conf/wg/Jackel86:::Manfred Jackel:::ADA Concurrency Specified by Graph Grammars.
+conf/wg/Hartel88:::Pieter H. Hartel:::The Average Size of Ordered Binary Subgraphs.
+conf/wg/DehneK87:::Frank K. H. A. Dehne::Rolf Klein:::A Sweepcircle Algorithm for Voronoi Diagrams.
+conf/wg/DehneS86:::Frank K. H. A. Dehne::Jörg-Rüdiger Sack:::Seperability of Sets of Polygons.
+conf/wg/BattistaT87:::Giuseppe Di Battista::Roberto Tamassia:::Upward Drawings of Acyclic Digraphs.
+conf/wg/Rosenberg80:::Arnold L. Rosenberg:::Issues in the Study of Graph Embeddings.
+conf/wg/Wegener93:::Ingo Wegener:::The Size of Reduced OBDDs and Optimal Read-once Branching Programs for Almost all Boolean Functions.
+conf/wg/MontonenOT87:::Esa Montonen::Leo Ojala::Timo Tuuliniemi:::A PrT-Net Representation of Graph Grammars.
+conf/wg/KleinW86:::Rolf Klein::Derick Wood:::The Node Visit Cost of Brother Trees.
+conf/wg/KrumkeP02:::Sven Oliver Krumke::Diana Poensgen:::Online Call Admission in Optical Networks with Larger Demands.
+conf/wg/Skodinis97:::Konstantin Skodinis:::The Bounded Tree-Width Problem of Context-Free Graph Languages.
+conf/wg/ZundorfS91:::Albert Zündorf::Andy Schürr:::Nondeterministic Control Structures for Graph Rewriting Systems.
+conf/wg/Bodlaender93:::Hans L. Bodlaender:::On Reduction Algorithms for Graphs with Small Treewidth.
+conf/wg/Thorup92:::Mikkel Thorup:::On Shortcutting Digraphs.
+conf/wg/FominKM00:::Fedor V. Fomin::Dieter Kratsch::Haiko Müller:::On the Domination Search Number.
+conf/wg/Marchetti-Spaccamela88:::Alberto Marchetti-Spaccamela:::On the Estimate of a Directed Graph.
+conf/wg/Felsner92:::Stefan Felsner:::Tolerance Graphs and Orders.
+conf/wg/DewanganR86:::Ramesh Dewangan::C. Pandu Rangan:::A Simple Implementation of Warshall's Algorithm on a VLSI Chip.
+conf/wg/JakobyLR00:::Andreas Jakoby::Maciej Liskiewicz::Rüdiger Reischuk:::The Expressive Power and Complexity of Dynamic Process Graphs.
+conf/wg/KrumkeNRM95:::Sven Oliver Krumke::Hartmut Noltemeier::S. S. Ravi::Madhav V. Marathe:::Complexity and Approximability of Certain Bicriteria Location Problems.
+conf/wg/Bezrukov96:::Sergej L. Bezrukov:::On k-Partitioning the n-Cube.
+conf/wg/Tinhofer80:::Gottfried Tinhofer:::On the Use of Some Almost Sure Graph Properties.
+conf/wg/CiceroneDS01:::Serafino Cicerone::Gianluca D'Ermiliis::Gabriele Di Stefano:::(k, +)-Distance-Hereditary Graphs.
+conf/wg/FialaHKT02:::Jirí Fiala::Pinar Heggernes::Petter Kristiansen::Jan Arne Telle:::Generalized H-Coloring and H-Covering of Trees.
+conf/wg/Simon89:::Klaus Simon:::Finding a Minimal Transitive Reduction in a Strongly Connected Digraph within Linear Time.
+conf/wg/GustedtMV95:::Jens Gustedt::Michel Morvan::Laurent Viennot:::A Compact Data Structure and Parallel Algorithms for Permutation Graphs.
+conf/wg/LipeckF88:::Udo W. Lipeck::Dasu Feng:::Construction of Deterministic Transition Graphs from Dynamic Integrity Constraints.
+conf/wg/ReuterR90:::Klaus Reuter::Ivan Rival:::Genus of Order and Lattices.
+conf/wg/GolumbicR99:::Martin Charles Golumbic::Udi Rotics:::On the Clique-Width of Perfect Graph Classes.
+conf/wg/DendrisKT94:::Nick D. Dendris::Lefteris M. Kirousis::Dimitrios M. Thilikos:::Fugitive-Search Games on Graphs and Related Parameters.
+conf/wg/DinitzFZ97:::Yefim Dinitz::Marcelo Feighelstein::Shmuel Zaks:::On Optimal Graphs Embedded into Path and Rings, with Analysis Using l<sub>1</sub>-Spheres.
+conf/wg/Takaoka91:::Tadao Takaoka:::A New Upper Bound on the Complexity of the All Pairs Shortest Path Problem.
+conf/wg/BroersmaFNW02:::Hajo Broersma::Fedor V. Fomin::Jaroslav Nesetril::Gerhard J. Woeginger:::More about Subcolorings.
+conf/wg/DobrevR98:::Stefan Dobrev::Peter Ruzicka:::Broadcasting on Anonymous Unoriented Tori.
+conf/wg/Dahlhaus97:::Elias Dahlhaus:::Minimal Elimination Ordering Inside a Given Chordal Graph.
+conf/wg/DemgenskyNW00:::Ingo Demgensky::Hartmut Noltemeier::Hans-Christoph Wirth:::Optimizing Cost Flows by Modifying Arc Costs and Capacities.
+conf/wg/MeijerD88:::Henk Meijer::R. Dawes:::Fault Tolerant Networks of Specified Diameter.
+conf/wg/BertoniCP97:::Alberto Bertoni::Paola Campadelli::Roberto Posenato:::An Upper Bound for the Maximum Cut Mean Value.
+conf/wg/KrumkeNMRD96:::Sven Oliver Krumke::Hartmut Noltemeier::Madhav V. Marathe::S. S. Ravi::K. U. Drangmeister:::Modifying Networks to Obtain Low Cost Trees.
+conf/wg/HollowayRG93:::N. W. Holloway::Somasundaram Ravindran::Alan Gibbons:::Approximating Minimum Weight Perfect Matchings for Complete Graphs Satisfying the Triangle Inequality.
+conf/wg/KorenH02:::Yehuda Koren::David Harel:::A Multi-scale Algorithm for the Linear Arrangement Problem.
+conf/wi/Emde89:::Werner Emde:::Lernen im geschlossenen Kreislauf.
+conf/wi/Schliep89:::Wilfried Schliep:::Erfahrungen bei der Einführung von Expertensystemtechnik.
+conf/wi/Hahn87:::Walther von Hahn:::LOKI: A Logical Oriented Approach to Knowledge and Data Base Supporting a Natural User Interaction, ESPRIT Project 107.
+conf/wi/Schnupp87:::Peter Schnupp:::Wissensbasierte Softwareentwicklung für den Anwendungsalltag.
+conf/wi/Kese86:::Ralf Kese:::Wissensrepräsentation, Bedeutung und Reduktionismus - Einige neopositivistische Wurzeln der KI.
+conf/wi/Freksa86:::Christian Freksa:::Cognitive Science - Eine Standortbestimmung.
+conf/wi/FronhoferN87:::Bertram Fronhöfer::Gerd Neugebauer:::ESPRIT Project P973 ALPES: Advanced Logical Programming Environments.
+conf/wi/Puppe85:::Frank Puppe:::Erfahrungen aus drei Anwendungsprojekten mit MED1.
+conf/wi/ZimmerE86:::Hubert D. Zimmer::Johannes Engelkamp:::Invormationsverarbeitung zwischen Modalitätsspezifität und propositionalem Einheitssystem.
+conf/wi/WinklhoferK91:::Andreas Winklhofer::Gerhard Köstler:::Temporale Planung in Multiagentenumgebungen.
+conf/wi/Wittig85:::Thies Wittig:::Expertensysteme in der Prozeßleittechnik.
+conf/wi/Wittig89:::Thies Wittig:::ARCHON - Cooperation of Heterogeneous On-line Systems. ESPRIT-Project 2256.
+conf/wi/FaltingsB91:::Boi Faltings::Emmanuel Baechler:::Qualitative Modellierung kinematischer Systeme.
+conf/wi/RiskB89:::I. C. Risk::H. Boerner:::VIDIMUS: A Vision System Development Environment for Industrial Applications.
+conf/wi/BorgidaGM85:::Alexander Borgida::Sol J. Greenspan::John Mylopoulos:::Knowledge Reperesentation as the Basis for Requirements Specification (Reprint).
+conf/wi/Schachter-RadigK89:::Mina-Jaqueline Schachter-Radig::Reinhard Krickhahn:::KBSM - Strukturen und Modelle: Basis für einen wiederverwendbaren Entwurf Wissensbasierter Systeme.
+conf/wi/Mandl87:::Heinz Mandl:::Knowledge Psychology as a Basis of Intelligent Tutoring Systems.
+conf/wi/Seiffert89:::Roland Seiffert:::STUF: Ein flexibler Graphunifikationsformalismus und seine Anwendung in LILOG.
+conf/wi/Schieferle85:::D. Schieferle:::Erfahrungen beim Einsatz von Expertensystemen und der Integration in die Gesamtorganisation eines Unternehmens.
+conf/wi/Smith85:::John Miles Smith:::Large-Scale Knowledge Systems.
+conf/wi/Hrycej86:::Tomas Hrycej:::Transitivity in Relations between Time Intervals.
+conf/wi/ArlabosseGBW87:::F. Arlabosse::E. Gaussens::John Bigham::Thies Wittig:::Knowledge Representation and Inference Techniques in Industrial Control, ESPRIT P387 KRITIC.
+conf/wi/CengarleBMDWS91:::María Victoria Cengarle::Heiner Brand::Luis Mandel::Klaus Däßler::Martin Wirsing::Thekla Schneider:::Knowledge Representation in Kernel Lisp.
+conf/wi/Lutze89:::Rainer Lutze:::WISDOM - Wissensbasierte Unterstützung der Büroarbeit.
+conf/wi/Hecht89:::Angelika Hecht:::EBG - ein deduktives Lernverfahren.
+conf/vw/SemwalO98:::Sudhanshu Kumar Semwal::Jun Ohya:::The Scan&amp;Track Virtual Environment.
+conf/vw/BuendiaH00:::Axel Buendia::Jean-Claude Heudin:::Towards Digital Creatures in Real-Time 3D Games.
+conf/vw/HayemFPRK98:::Raphael Hayem::Tancrede Fourmaintraux::Keran Petit::Nicolas Rauber::Olga Kisseleva:::Avatars: New Fields of Implication.
+conf/vw/Ijspeert00:::Auke Jan Ijspeert:::A 3-D Biomechanical Model of the Salamander.
+conf/vw/CarraroEE98:::Gianpaolo U. Carraro::John T. Edmark::J. Robert Ensor:::Pop-Out Videos.
+conf/vw/GerardPJ98:::Philippe Gerard::Clifton B. Phillips::Ramesh Jain:::Color Segmentation and Color Correction Using Lighting and White Balance Shifts.
+conf/vw/ProctorW98:::Glenn Proctor::Chris Winter:::Information Flocking: Data Visualisation in Virtual Worlds Using Emergent Behaviours.
+conf/vw/DamerGBB00:::Bruce Damer::Stuart Gold::Jan de Bruin::Dirk-Jan de Bruin:::Conferences and Trade Shows in Inhabited Virtual Worlds: A Case Study of Avatars98 &amp; 99.
+conf/vw/RobertCC98:::Antony Robert::Fabrice Chantemargue::Michele Courant:::Grounding Agents in EMud Artificial Worlds.
+conf/wm/Ahrens03:::Daniela Ahrens:::Wissen und Neue Medien.
+conf/wm/WeishaarH03:::Andreas Weishaar::Felix Hess:::Bewertung von Wissenmanagement: Vom Business Case zum Eckpfeiler der Implementierung.
+conf/wm/HuthTEN03:::Carsten Huth::Numan Tas::Ingo Erdmann::Ludwig Nastansky:::GroupProzess Web: Graphische interaktive Management von Ad-hoc-Geschäftsprozessen im Web.
+conf/wm/Staiger03:::Mark Staiger:::Entwicklung eines Anreizsystems im Wissensmanagment.
+conf/wm/Nourani03:::Cyrus F. Nourani:::Worlds, Models, and KM.
+conf/wm/MartensG03:::Sonja Martens::Norbert Gronau:::Erschließung neuer Potentiale im Wissensmanagement über den mobilen Kanal.
+conf/wm/HagengruberS03:::Ruth Hagengruber::Hanno Schauer:::Prospektiv- konstruktiv - retrograd. Beurteilung von Methoden des Wissensmanagements aus philosophischer Perspektive.
+conf/wm/Smolle03:::Peter F. Smolle:::Knowledge Management durch Prozess Mining.
+conf/wm/FreudenthalerESB03:::Kurt Freudenthaler::Rolf Eisenhauer::Hans-Jürgen Stenger::Uwe M. Borghoff:::Entwicklung eines KM Framework und Implementation Guide.
+conf/wm/HindererG03:::Henning Hinderer::Thorsten Gurzki:::Prozessorientierte Wirtschaftlichkeitsbetrachtung von Unternehmensportalen.
+conf/wm/HusselmannAT03:::Claus Hüsselmann::Otmar Adam::Oliver Thomas:::Gestaltung und Steuerung wissensintensiver Geschäftsprozesse durch die Nutzung unscharfen Wissens.
+conf/xp/Sagiv86:::Yehoshua Sagiv:::Optimizing Datalog Programs.
+conf/xp/NguyenP86:::Van Nguyen::Kenneth J. Perry:::Do We Really Know What Knowledge Is?
+conf/xp/ParedaensB81:::Jan Paredaens::Paul De Bra:::On Horizontal Decompositions.
+conf/xp/Graham81:::Marc H. Graham:::Independence (Preliminary Report).
+conf/xp/Vardi83:::Moshe Y. Vardi:::Second-Order Dependency Theory.
+conf/c++/Hopkins87:::W. E. Hopkins:::Experience in Using C++ for Software System Development.
+conf/c++/Murray92:::Robert B. Murray:::A Statically Typed Abstract Representation for C++ Programs.
+conf/c++/Conrad87:::A. Conrad:::Modelling Graphical Data with C++.
+conf/c++/Parrington90:::Graham D. Parrington:::Reliable Distributed Programming in C++: The Arjuna Approach.
+conf/c++/GrassKS90:::Judith E. Grass::C. Kintala::Ravi Sethi:::Object-Oriented Redesign Using C++: Experience with Parser Generators.
+conf/c++/KirslisT88:::Peter A. Kirslis::Robert B. Terwilliger:::Implementing a LogiC-Based Executable Specification Language in C++.
+conf/c++/Kluth90:::Bernd Kluth:::SIC - A System for Stochastic Simulation in C++.
+conf/c++/Gorlen87:::Keith E. Gorlen:::An Object-Oriented Class Library for C++ Programs.
+conf/c++/Koenig92:::Andrew Koenig:::Space-Efficient Trees in C++.
+conf/c++/BanerjiKC94:::Arindam Banerji::Dinesh C. Kulkarni::David L. Cohn:::A Framework for Building Extensible C++ Class Libraries.
+conf/c++/FontanaN91:::Mary Fontana::Martin Neath:::Experiences in the Design of a C++ Class Library.
+conf/acl/JacqueminKT97:::Christian Jacquemin::Judith Klavans::Evelyne Tzoukermann:::Expansion of Multi-Word Terms for Indexing and Retrieval Using Morphology and Syntax.
+conf/acl/GinzburgC01:::Jonathan Ginzburg::Robin Cooper:::Resolving Ellipsis in Clarification.
+conf/acl/Aone91:::Chinatsu Aone:::Resolution of Collective-Distributive Ambiguity Using Model-Based Reasoning.
+conf/acl/LyonsH90:::Daniel Lyons::Graeme Hirst:::A Compositional Semantics for Focusing Subjuncts.
+conf/acl/MaedaKKI88:::Hiroyuki Maeda::Susumu Kato::Kiyoshi Kogure::Hitoshi Iida:::Parsing Japanese Honorifics in Unification-Based Grammar.
+conf/acl/ZhangDJ01:::Tong Zhang::Fred Damerau::David Johnson:::Text Chunking using Regularized Winnow.
+conf/acl/Litkowski80:::Kenneth C. Litkowski:::Requirements of Text - Processing-Lexicons.
+conf/acl/GaoL00:::Jianfeng Gao::Kai-Fu Lee:::Distribution-Based Pruning of Backoff Language Models.
+conf/acl/HajicH98:::Jan Hajic::Barbora Hladká:::Tagging Inflective Languages: Prediction of Morphological Categories for a Rich, Structured Tagset.
+conf/acl/Chiang00:::David Chiang:::Statistical Parsing with an Automatically-Extracted Tree Adjoining Grammar.
+conf/acl/HindleR91:::Donald Hindle::Mats Rooth:::Structural Ambiguity and Lexical Relations.
+conf/acl/PericlievV98:::Vladimir Pericliev::Raúl E. Valdés-Pérez:::A Procedure for Multi-Class Discrimination and some Linguistic Applications.
+conf/acl/Hays79:::David G. Hays:::Applications.
+conf/acl/GemanJ02:::Stuart Geman::Mark Johnson:::Dynamic programming for parsing and estimation of stochastic unification-based grammars.
+conf/acl/Beale88:::Andrew David Beale:::Lexicon and Grammar in Probabilistic Tagging of Written English.
+conf/acl/Hobbs85:::Jerry R. Hobbs:::Ontological Promiscuity.
+conf/acl/Kinyon99:::Alexandra Kinyon:::Parsing preferences with Lexicalized Trey Adjoining Grammars exploiting the derivation tree.
+conf/acl/Gan93:::Kok-Wee Gan:::Integrating Word Boundary Identification with Sentence Understanding.
+conf/acl/Hwa99:::Rebecca Hwa:::Supervised Grammar Induction using Training Data with Limited Constituent Information.
+conf/acl/Higgins98:::Derrick Higgins:::Parsing Parallel Grammatical Representation.
+conf/acl/Hovy88:::Eduard H. Hovy:::Planning Coherent Multisentential Text.
+conf/acl/RoeckA00:::Anne N. De Roeck::Waleed Al-Fares:::A Morphologically Sensitive Clustering Algorithm for Identifying Arabic Roots.
+conf/acl/NgL96:::Hwee Tou Ng::Hian Beng Lee:::Integrating Multiple Knowledge Sources to Disambiguate Word Sense: An Exemplar-Based Approach.
+conf/acl/Och03:::Franz Josef Och:::Minimum Error Rate Training in Statistical Machine Translation.
+conf/acl/BarthelemyBDC01:::François Barthélemy::Pierre Boullier::Philippe Deschamp::Eric Villemonte de la Clergerie:::Guided Parsing of Range Concatenation Languages.
+conf/acl/HarunoM97:::Masahiko Haruno::Yuji Matsumoto:::Mistake-Driven Mixture of Hierarchical Tag Context Trees.
+conf/acl/Pareschi88:::Remo Pareschi:::A Definite Clause Version of Categorial Grammar.
+conf/acl/LeeC98:::Seungmi Lee::Key-Sun Choi:::Automatic Acquisition of Language Model based on Head-Dependent Relation between Words.
+conf/acl/EugenioMJT98:::Barbara Di Eugenio::Johanna D. Moore::Pamela W. Jordan::Richmond H. Thomason:::An Empirical Investigation of Proposals in Collaborative Dialogues.
+conf/acl/Kuhn02:::Jonas Kuhn:::OT Syntax - Decidability of Generation-based Optimization.
+conf/acl/LitaIRK03:::Lucian Vlad Lita::Abraham Ittycheriah::Salim Roukos::Nanda Kambhatla:::tRuEcasIng.
+conf/acl/PantelL00:::Patrick Pantel::Dekang Lin:::An Unsupervised Approach to Prepositional Phrase Attachment using Contextually Similar Words.
+conf/acl/Walker89:::Marilyn A. Walker:::Evaluating Discourse Processing Algorithms.
+conf/acl/MinW98:::Kyongho Min::William H. Wilson:::Integrated Control of Chart Items for Error Repair.
+conf/acl/NgLK99:::Hwee Tou Ng::Chung Yong Lim::Jessica Li Teng Koo:::Learning to Recognize Tables in Free Text.
+conf/acl/Huang97:::Xiaorong Huang:::Planning Reference Choices for Argumentative Texts.
+conf/acl/MillerBIS94:::Scott Miller::Robert J. Bobrow::Robert Ingria::Richard Schwartz:::Hidden Understanding Models of Natural Language.
+conf/acl/WangCW03:::Gang Wang::Tat-Seng Chua::Yong-Cheng Wang:::Extracting Key Semantic Terms from Chinese Speech Query for Web Searches.
+conf/acl/OchN02:::Franz Josef Och::Hermann Ney:::Discriminative Training and Maximum Entropy Models for Statistical Machine Translation.
+conf/acl/Harper90:::Mary P. Harper:::Designer Definites in Logical Form.
+conf/acl/Cardie92:::Claire Cardie:::Corpus-Based Acquisition of Relative Pronoun Disambiguation Heuristics.
+conf/acl/Schuler99:::William Schuler:::Preserving Semantic Dependencies in Synchronous Tree Adjoining Grammar.
+conf/acl/ToutanovaM02:::Kristina Toutanova::Robert Moore:::Pronunciation Modeling for Improved Spelling Correction.
+conf/acl/WiebeR88:::Janyce Wiebe::William J. Rapaport:::A Computational Theory of Perspective and Reference in Narrative.
+conf/acl/Agarwal95:::Rajeev Agarwal:::Evaluation of Semantic Clusters.
+conf/acl/Shaw98:::James Shaw:::Segregatory Coordination and Ellipsis in Text Generation.
+conf/acl/Bosco01:::Cristina Bosco:::Grammatical Relations's System in Treebank Annotation.
+conf/acl/BaldridgeK02:::Jason Baldridge::Geert-Jan M. Kruijff:::Coupling CCG and Hybrid Logic Dependency Semantics.
+conf/acl/Pakhomov02:::Sergey V. Pakhomov:::Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation Normalization in Medical Texts.
+conf/acl/RigauA98:::German Rigau::Eneko Agirre:::Building Accurate Semantic Taxonomies from Monolingual MRDs.
+conf/acl/Church80:::Kenneth Ward Church:::On Parsing Strategies and Closure.
+conf/acl/ChenG96:::Stanley F. Chen::Joshua Goodman:::An Empirical Study of Smoothing Techniques for Language Modeling.
+conf/acl/EvertK01:::Stefan Evert::Brigitte Krenn:::Methods for the Qualitative Evaluation of Lexical Association Measures.
+conf/acl/AlshawiBD98:::Hiyan Alshawi::Srinivas Bangalore::Shona Douglas:::Automatic Acquisition of Hierarchical Transduction Models for Machine Translation.
+conf/acl/Ferrari96:::Stéphane Ferrari:::Using Textual Clues to Improve Metaphor Processing.
+conf/acl/LindenM90:::Erik-Jan van der Linden::Guido Minnen:::Algorithms for Generation in Lambek Theorem Proving.
+conf/acl/WiebeBO99:::Janyce Wiebe::Rebecca F. Bruce::Thomas P. O'Hara:::Development and Use of a Gold-Standard Data Set for Subjectivity Classifications.
+conf/acl/TangLR02:::Min Tang::Xiaoqiang Luo::Salim Roukos:::Active Learning for Statistical Natural Language Parsing.
+conf/acl/WilcockM98:::Graham Wilcock::Yuji Matsumoto:::Head-Driven Generation with HPSG.
+conf/acl/Kempe97:::André Kempe:::Finite State Transducers Approximating Hidden Markov Models.
+conf/acl/JoshiL80:::Aravind K. Joshi::Leon S. Levy:::Phrase Structure Trees Bear More Fruit than You Would Have Thought.
+conf/acl/ReedL98:::Chris Reed::Derek Long:::Generating the Structure of Argument.
+conf/acl/JohnstonCMOPS97:::Michael Johnston::Philip R. Cohen::David McGee::Sharon L. Oviatt::James A. Pittman::Ira A. Smith:::Unification-based Multimodal Integration.
+conf/acl/RimSS90:::Hae-Chang Rim::Jungyun Seo::Robert F. Simmons:::Transforming Syntactic Graphs into Semantic Graphs.
+conf/acl/AsherL94:::Nicholas Asher::Alex Lascarides:::Intentions and Indormation in Discourse.
+conf/acl/DubeyK03:::Amit Dubey::Frank Keller:::Probabilistic Parsing for German Using Sister-Head Dependencies.
+conf/acl/BillotL89:::Sylvie Billot::Bernard Lang:::The Structure of Shared Forests in Ambiguous Parsing.
+conf/acl/BlejerFK89:::Hatte Blejer::Sharon Flank::Andrew Kehler:::On Representing Governed Prepositions and Handling "Incorrect" and Novel Prepositions.
+conf/acl/ProudianP85:::Derek Proudian::Carl Pollard:::Parsing Head-Driven Phrase Structure Grammar.
+conf/acl/VogelN00:::Stephan Vogel::Hermann Ney:::Translation with Cascaded Finite State Transducers.
+conf/acl/Sakas03:::William Gregory Sakas:::A Word-Order Database for Testing Computational Models of Language Acquisition.
+conf/acl/Dorre91:::Jochen Dörre:::Feature Logic with Weak Subsumption Constraints.
+conf/acl/Bierner01:::Gann Bierner:::Alternative Phrases and Natural Languages Information Retrieval.
+conf/acl/KwasnyS79:::Stanley C. Kwasny::Norman K. Sondheimer:::Ungrammaticality and Extra-Grammaticality in Natural Language Understanding Systems.
+conf/acl/Levow98:::Gina-Anne Levow:::Characterizing and Recognizing Spoken Corrections in Human-Computer Dialogue.
+conf/acl/Vijay-ShankerW90:::K. Vijay-Shanker::David J. Weir:::Polynomial Time Parsing of Combinatory Categorial Grammars.
+conf/acl/StrzalkowskiP90:::Tomek Strzalkowski::Ping Peng:::Automated Inversion of Logic Grammars for Generation.
+conf/acl/WilenskyA80:::Robert Wilensky::Yigal Arens:::Phran - A Knowledge-Base Natural Language Understander.
+conf/acl/Briscoe97:::Ted Briscoe:::Co-evolution of Language and of the Language Acquisition Device.
+conf/acl/CucerzanY00:::Silviu Cucerzan::David Yarowsky:::Language Independent, Minimally Supervised Induction of Lexical Probabilities.
+conf/acl/GreenPDR01:::Rebecca Green::Lisa Pearl::Bonnie J. Dorr::Philip Resnik:::Mapping Lexical Entries in a Verbs Database to WordNet Senses.
+conf/acl/UchimotoMMOI00:::Kiyotaka Uchimoto::Qing Ma::Masaki Murata::Hiromi Ozaku::Hitoshi Isahara:::Named Entity Extraction Based on A Maximum Entropy Model and Transformation Rules.
+conf/acl/KitanoE91:::Hiroaki Kitano::Carol Van Ess-Dykema:::Toward a Plan-Based Understanding Model for Mixed-Initiative Dialogues.
+conf/acl/BerlandC99:::Matthew Berland::Eugene Charniak:::Finding Parts in Very Large Corpora.
+conf/acl/Shaked93:::Nava A. Shaked:::How do we count? The Problem of Tagging Phrasal Verbs in Parts.
+conf/acl/Slack80:::Jon M. Slack:::Metaphor Comprehension - A Special Mode of Language Processing?
+conf/acl/Gaussier98:::Éric Gaussier:::Flow Network Models for Word Alignment and Terminology Extraction from Bilingual Corpora.
+conf/acl/Alshawi96:::Hiyan Alshawi:::Head Automata and Bilingual Tiling: Translation with Minimal Representations.
+conf/acl/Regier91:::Terry Regier:::Learning Perceptually-Grounded Semantics in The L<sub>0</sub> Project.
+conf/acl/Durbin01:::Richard Durbin:::Interpreting the Human Genome Sequence, Using Stochastic Grammars.
+conf/acl/Sangster79:::Barbara C. Sangster:::On the Automatic Transformation of Class Membership Criteria.
+conf/acl/Marcken96:::Carl de Marcken:::Linguistic Structure as Composition and Perturbation.
+conf/acl/BrillFHM98:::Eric Brill::Radu Florian::John C. Henderson::Lidia Mangu:::Beyond N-Grams: Can Linguistic Sophistication Improve Language Modeling?

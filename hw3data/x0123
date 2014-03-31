@@ -1,0 +1,200 @@
+conf/sigir/Croft86:::W. Bruce Croft:::User-Specified Domain Knowledge for Document Retrieval.
+conf/sigir/DavulcuMSR02:::Hasan Davulcu::Saikat Mukherjee::Arvind Seth::I. V. Ramakrishnan:::CuTeX: a system for extracting data from text tables.
+conf/sigir/BergerCCFM00:::Adam L. Berger::Rich Caruana::David Cohn::Dayne Freitag::Vibhu O. Mittal:::Bridging the lexical chasm: statistical approaches to answer-finding.
+conf/sigir/FranzMWZ01:::Martin Franz::J. Scott McCarley::Todd Ward::Wei-Jing Zhu:::Unsupervised and Supervised Clustering for Topic Tracking.
+conf/sigir/Bruandet87:::Marie-France Bruandet:::Outline of a Knowledge Base Model for an Intelligent Information Retrieval System.
+conf/sigir/Rijsbergen02:::C. J. van Rijsbergen:::Landmarks in information retrieval: the message out of the bottle.
+conf/sigir/Veronis88:::Jean Véronis:::Correction of Phonographic Errors in Natural Language Interfaces.
+conf/sigir/SmithL82:::F. J. Smith::R. J. Linggard:::Information Retrieval by Voice Input and Output.
+conf/sigir/CuttingPKT92:::Douglas R. Cutting::Jan O. Pedersen::David R. Karger::John W. Tukey:::Scatter/Gather: A Cluster-based Approach to Browsing Large Document Collections.
+conf/sigir/EvansBH03:::David A. Evans::Jeffrey Bennett::David A. Hull:::Optimizing term vectors for efficient and robust filtering.
+conf/sigir/BakerM98:::L. Douglas Baker::Andrew McCallum:::Distributional Clustering of Words for Text Classification.
+conf/sigir/SchutzeHP95:::Hinrich Schütze::David A. Hull::Jan O. Pedersen:::A Comparison of Classifiers and Document Representations for the Routing Problem.
+conf/sigir/Landau79:::Robert M. Landau:::Productivity, Information Technology, and the Office.
+conf/sigir/JarvelinK00:::Kalervo Järvelin::Jaana Kekäläinen:::IR evaluation methods for retrieving highly relevant documents.
+conf/sigir/AslamM00:::Javed A. Aslam::Mark H. Montague:::Bayes optimal metasearch: a probabilistic model for combining the results.
+conf/sigir/Kwasnik89:::Barbara H. Kwasnik:::How a Personal Document's Intended Use or Purpose Affects its Classification in an Office.
+conf/sigir/Meghini95:::Carlo Meghini:::An Image Retrieval Model Based on Classical Logic.
+conf/sigir/KelloggBDF71:::Charles Kellogg::John D. Burger::Timothy Diller::Kenneth Fogt:::The Converse Natural Language Data Management System: Current Status and Plans.
+conf/sigir/SaltonB88:::Gerard Salton::Chris Buckley:::On the Use of Spreading Activation Methods in Automatic Information Retrieval.
+conf/sigir/SaltonS89:::Gerard Salton::Maria Smith:::On the Application of Syntactic Methodologies in Automatic Text Analysis.
+conf/sigir/WhiteJR01:::Ryen White::Joemon M. Jose::Ian Ruthven:::Query-Based Web Page Summarisation: A Task-Oriented Evaluation.
+conf/sigir/HansenPKBS02:::Preben Hansen::Daniela Petrelli::Jussi Karlgren::Micheline Beaulieu::Mark Sanderson:::User-centered interface design for cross-language information retrieval.
+conf/sigir/OommenM87:::B. John Oommen::Daniel C. Y. Ma:::Fast Object Partitioning Using Stochastic Learning Automata.
+conf/sigir/Gordon85:::M. Gordon:::A Learning Algorithm Applied to Document Description.
+conf/sigir/Henrichs82:::Norbert Henrichs:::The Growing Crisis of Traditional Information Retrieval Systems - What is to Follow?
+conf/sigir/LosadaB99:::David E. Losada::Alvaro Barreiro:::Using a Belief Revision Operator for Document Ranking in Extended Boolean Models.
+conf/sigir/CroftT84:::W. Bruce Croft::Roger Thompson:::The Use of Adaptive Mechanisms for Selection of Search Strategies in Document Retrieval Systems.
+conf/sigir/Tissen91:::Anne Tissen:::A Case-Based Architecture for A Dialogue Manager for Information Seeking.
+conf/sigir/BooksteinKR93:::Abraham Bookstein::Shmuel T. Klein::Timo Raita:::Is Huffman Coding Dead?
+conf/sigir/BenignoCd86:::M. Kathryn Di Benigno::George R. Cross::Cary deBessonet:::COREL - A Conceptual Retrieval System.
+conf/sigir/Ait-KaciNS88:::Hassan Aït-Kaci::Roger Nasr::Jungyun Seo:::BABEL: A Base for an Experimental Library.
+conf/sigir/GodinGP89:::Robert Godin::Jan Gecsei::Claude Pichet:::Design of a Browsing Interface for Information Retrieval.
+conf/sigir/SebrechtsCLVM99:::Marc M. Sebrechts::John Cugini::Sharon J. Laskowski::Joanna Vasilakis::Michael S. Miller:::Visualization of Search Results: A Comparative Evaluation of Text, 2D, and 3D Interfaces.
+conf/sigir/NieSID99:::Jian-Yun Nie::Michel Simard::Pierre Isabelle::Richard Durand:::Cross-Language Information Retrieval Based on Parallel Texts and Automatic Mining of Parallel Texts from the Web.
+conf/sigir/Westerveld02:::Thijs Westerveld:::Probabilistic multimedia retrieval.
+conf/sigir/LiuGXZ02:::Xin Liu::Yihong Gong::Wei Xu::Shenghuo Zhu:::Document clustering with cluster refinement and model selection capabilities.
+conf/sigir/LiuLYR96:::King-Lup Liu::G. Jack Lipovski::Clement T. Yu::Naphtali Rishe:::Efficient Processing of One and Two Dimensional Proximity Queries in Associative Memory.
+conf/sigir/CahoonM96:::Brendon Cahoon::Kathryn S. McKinley:::Performance Evaluation of a Distributed Architecture for Information Retrieval.
+conf/sigir/TakasuA00:::Atsuhiro Takasu::Kenro Aihara:::Variance based classifier comparison in text categorization.
+conf/sigir/ZaragozaHT03:::Hugo Zaragoza::Djoerd Hiemstra::Michael E. Tipping:::Bayesian extension to the language model for ad hoc information retrieval.
+conf/sigir/Bookstein80:::Abraham Bookstein:::A Comparison of Two Weighting Schemes for Boolean Retrieval.
+conf/sigir/SandersonC99:::Mark Sanderson::W. Bruce Croft:::Deriving Concept Hierarchies from Text.
+conf/sigir/Pevzner88:::B. Pevzner:::Precedental Data Bases: How and Why They are Worked Out and Used.
+conf/sigir/FoxNL88:::Edward A. Fox::Gary L. Nunn::Whay C. Lee:::Coefficients for Combining Concept Classes in a Collection.
+conf/sigir/Zadehi87:::Lotfi A. Zadeh:::Uncertainties in Information Retrieval.
+conf/sigir/SonnenbergerF95:::Gabriele Sonnenberger::Hans-Peter Frei:::Design of a Reusable IR Framework.
+conf/sigir/MazlackF80:::Lawrence J. Mazlack::Richard A. Feinauer:::Establishing a Basis for Mapping Natural-Language Statements Onto a Database Query Language.
+conf/sigir/SinghalBM96:::Amit Singhal::Chris Buckley::Mandar Mitra:::Pivoted Document Length Normalization.
+conf/sigir/HershTPCKSO00:::William R. Hersh::Andrew Turpin::Susan Price::Benjamin Chan::Dale Kraemer::Lynetta Sacherek::Daniel Olson:::Do batch and user evaluation give the same results?
+conf/sigir/NieBR96:::Jian-Yun Nie::Martin Brisebois::Xiaobo Ren:::On Chinese Text Retrieval.
+conf/sigir/Borgman83:::Christine L. Borgman:::End User Behavior on an Online Information Retrieval System: A Computer Monitoring Study.
+conf/sigir/Borgman85:::Christine L. Borgman:::The User's Mental Model of an Information Retrieval System.
+conf/sigir/FuhrK84:::Norbert Fuhr::Gerhard Knorz:::Retrieval Test Evaluation of a Rule Based Automatic Index (AIR/PHYS).
+conf/sigir/FuhrM87:::Norbert Fuhr::Peter Müller:::Probabilistic Search Term Weighting-Some Negative Results.
+conf/sigir/Jamieson79:::S. H. Jamieson:::The Economic Implementation of Experimental Retrieval Techniques on a Very Large Scale Using an Intelligent Terminal.
+conf/sigir/Downie99:::J. Stephen Downie:::Music Retrieval as Text Retrieval: Simple Yet Effective (poster abstract).
+conf/sigir/SormunenHKPS02:::Eero Sormunen::Sakari Hokkanen::Petteri Kangaslampi::Petri Pyy::Bemmu Sepponen:::Query performance analyser: a web-based tool for IR research and instruction.
+conf/sigir/Tseng02:::Yuen-Hsien Tseng:::Error correction in a Chinese OCR test collection.
+conf/sigir/CiravegnaDWP02a:::Fabio Ciravegna::Alexiei Dingli::Yorick Wilks::Daniela Petrelli:::Adaptive information extraction for document annotation in amilcare.
+conf/sigir/MandalaTT99:::Rila Mandala::Takenobu Tokunaga::Hozumi Tanaka:::Combining Multiple Evidence from Different Types of Thesaurus for Query Expansion.
+conf/sigir/AmirSPP99:::Arnon Amir::Savitha Srinivasan::Dulce B. Ponceleon::Dragutin Petkovic:::CueVideo: Automated Video/Audio Indexing and Browsing (demonstration abstract).
+conf/sigir/ChienHC97:::Lee-Feng Chien::T.-I. Huang::M-C. Chien:::Pat-tree-based Keyword Extraction for Chinese Information Retrieval.
+conf/sigir/Hiemstra02:::Djoerd Hiemstra:::Term-specific smoothing for the language modeling approach to information retrieval: the importance of a query term.
+conf/sigir/LeeKKL93:::Joon Ho Lee::Won Yong Kin::Myoung-Ho Kim::Yoon-Joon Lee:::On the Evaluation of Boolean Operators in the Extended Boolean Retrieval Framework.
+conf/sigir/MartinP73:::Thomas H. Martin::Edwin B. Parker:::Comparative Analysis of Interactive Retrieval Systems.
+conf/sigir/OzkarahanC86:::Esen A. Ozkarahan::Fazli Can:::An Automatic and Tunable Document Indexing System.
+conf/sigir/LavrenkoCC02:::Victor Lavrenko::Martin Choquette::W. Bruce Croft:::Cross-lingual relevance models.
+conf/sigir/SimpsonA87:::Patricia Simpson::Rafael Alonso:::Data Caching in Information Retrieval Systems.
+conf/sigir/BekkermanEWT01:::Ron Bekkerman::Ran El-Yaniv::Yoad Winter::Naftali Tishby:::On Feature Distributional Clustering for Text Categorization.
+conf/sigir/DanielsR95:::Jody J. Daniels::Edwina L. Rissland:::A Case-Based Approach To Intelligent Information Retrieval.
+conf/rules/Wood93:::Peter T. Wood:::Bottom-Up Evaluation of DataHiLog.
+conf/rules/GeppertD93:::Andreas Geppert::Klaus R. Dittrich:::Rule-Based Implementation of Transaction Model Specifications.
+conf/rules/HarrisonD93:::John V. Harrison::Suzanne W. Dietrich:::Integrating Active and Deductive Rules.
+conf/rules/PatonDWCDJ93:::Norman W. Paton::Oscar Díaz::M. Howard Williams::Jack Campin::Andrew Dinn::Arturo Jaime:::Dimensions of Active Behaviour.
+conf/rules/EtzionGS93:::Opher Etzion::Avigdor Gal::Arie Segev:::Data Driven and Temporal Rules in PARDES.
+conf/rules/EmburyGB93:::Suzanne M. Embury::Peter M. D. Gray::N. Bassiliades:::Constraint Maintenance using Generated Methods in the P/FDM Object-Oriented Database.
+conf/rules/ZurekT95:::Thomas Zurek::Peter Thanisch:::Strategies for Parallel Linear Recursive Query Processing.
+conf/tacas/WilliamsAH01:::Poul Frederick Williams::Henrik Reif Andersen::Henrik Hulgaard:::Satisfiability Checking Using Boolean Expression Diagrams.
+conf/tacas/Velev01:::Miroslav N. Velev:::Automatic Abstraction of Memories in the Formal Verification of Superscalar Microprocessors.
+conf/tacas/FislerFVY01:::Kathi Fisler::Ranan Fraer::Gila Kamhi::Moshe Y. Vardi::Zijiang Yang:::Is There a Best Symbolic Cycle-Detection Algorithm?
+conf/tacas/VelevB98:::Miroslav N. Velev::Randal E. Bryant:::Efficient Modeling of Memory Arrays in Symbolic Ternary Simulation.
+conf/tacas/BozzanoD02:::Marco Bozzano::Giorgio Delzanno:::Beyond Parameterized Verification.
+conf/tacas/Bryant98:::Randal E. Bryant:::Formal Verification of Pipelined Processors.
+conf/tacas/BodeveixF00:::Jean-Paul Bodeveix::Mamoun Filali:::FMona: A Tool for Expressing Validation Techniques over Infinite State Systems.
+conf/tacas/ArmoniBKV03:::Roy Armoni::Doron Bustan::Orna Kupferman::Moshe Y. Vardi:::Resets vs. Aborts in Linear Temporal Logic.
+conf/tacas/HavelundR02:::Klaus Havelund::Grigore Rosu:::Synthesizing Monitors for Safety Properties.
+conf/tacas/PnueliRZ01:::Amir Pnueli::Sitvanit Ruah::Lenore D. Zuck:::Automatic Deductive Verification with Invisible Invariants.
+conf/tacas/KurshanLMPY98:::Robert P. Kurshan::Vladdimir Levin::Marius Minea::Doron Peled::Hüsnü Yenigün:::Static Partial Order Reduction.
+conf/tacas/NielsenS01:::Brian Nielsen::Arne Skou:::Automated Test Generation from Timed Automata.
+conf/tacas/LarssonPY00:::Fredrik Larsson::Paul Pettersson::Wang Yi:::On Memory-Block Traversal Problems in Model-Checking Timed-Systems.
+conf/tacas/Yavuz-KahveciTB01:::Tuba Yavuz-Kahveci::Murat Tuncer::Tevfik Bultan:::A Library for Composite Symbolic Representations.
+conf/tacas/Penczek97:::Wojciech Penczek:::Model-Checking for a Subclass of Event Structures.
+conf/tacas/ClarkeFHKST03:::Edmund M. Clarke::Ansgar Fehnker::Zhi Han::Bruce H. Krogh::Olaf Stursberg::Michael Theobald:::Verification of Hybrid Systems Based on Counterexample-Guided Abstraction Refinement.
+conf/tacas/DelzannoR00:::Giorgio Delzanno::Jean-François Raskin:::Symbolic Representation of Upward-Closed Sets.
+conf/tacas/KwiatkowskaNP02:::Marta Z. Kwiatkowska::Gethin Norman::David Parker:::Probabilistic Symbolic Model Checking with PRISM: A Hybrid Approach.
+conf/tacas/ArmoniFFGGKLMSTVZ02:::Roy Armoni::Limor Fix::Alon Flaisher::Rob Gerth::Boris Ginsburg::Tomer Kanza::Avner Landver::Sela Mador-Haim::Eli Singerman::Andreas Tiemeyer::Moshe Y. Vardi::Yael Zbar:::The ForSpec Temporal Logic: A New Temporal Property-Specification Language.
+conf/tacas/Kleuker97:::Stephan Kleuker:::Incremental Development of Deadlock-Free Communicating Systems.
+conf/tacas/SteffenMCBNR96:::Bernhard Steffen::Tiziana Margaria::Andreas Claßen::Volker Braun::Rita Nisius::Manfred Reitenspieß:::A Constraint-Oriented Service Creation Environment.
+conf/tacas/Saidi96:::Hassen Saïdi:::A Tool for Proving Invariance Properties of Concurrent Systems Automatically.
+conf/tacas/ClarkeJM00:::Edmund M. Clarke::Somesh Jha::Wilfredo R. Marrero:::Partial Order Reductions for Security Protocol Verification.
+conf/tacas/AlurTM03:::Rajeev Alur::Salvatore La Torre::P. Madhusudan:::Modular Strategies for Recursive Game Graphs.
+conf/tacas/BolligLW01:::Benedikt Bollig::Martin Leucker::Michael Weber:::Parallel Model Checking for the Alternation Free µ-Calculus.
+conf/tacas/DamonJ96:::Craig Damon::Daniel Jackson:::Efficient Search as a Means of Executing Specifications.
+conf/tacas/KhomenkoK03:::Victor Khomenko::Maciej Koutny:::Branching Processes of High-Level Petri Nets.
+conf/tacas/KowalewskiP96:::Stefan Kowalewski::Jörg Preußig:::Timed Condition/Event Systems: A Framework for Modular Discrete Models of Chemical Plants and Verification of Their Real-Time Discrete Control.
+conf/tacas/AndersenSM97:::Henrik Reif Andersen::Jørgen Staunstrup::Niels Maretti:::Partial Model Checking with ROBDDs.
+conf/tacas/HeylMK96:::Carsten Heyl::Arnulf Mester::Heiko Krumm:::cTc - A Tool Supporting the Construction of cTLA-Specifications.
+conf/tacas/HeljankoKK02:::Keijo Heljanko::Victor Khomenko::Maciej Koutny:::Parallelisation of the Petri Net Unfolding Algorithm.
+conf/tacas/BustanG02:::Doron Bustan::Orna Grumberg:::Applicability of Fair Simulation.
+conf/tacas/ChocklerKV01:::Hana Chockler::Orna Kupferman::Moshe Y. Vardi:::Coverage Metrics for Temporal Logic Model Checking.
+conf/tacas/PhilippsS97:::Jan Philipps::Peter Scholz:::Formal Verification of Statecharts with Instantaneous Chain Reaction.
+conf/tacas/Lind-NielsenABHKL98:::Jørn Lind-Nielsen::Henrik Reif Andersen::Gerd Behrmann::Henrik Hulgaard::Kåre J. Kristoffersen::Kim Guldstrand Larsen:::Verification of Large State/Event Systems Using Compositionality and Dependency Analysis.
+conf/tacas/Aspinall00:::David Aspinall:::Proof General: A Generic Tool for Proof Development.
+conf/tacas/GunterP02:::Elsa L. Gunter::Doron Peled:::Temporal Debugging for Concurrent Systems.
+conf/smile/PollefeysKSCD00:::Marc Pollefeys::Sing Bing Kang::Gregory G. Slabaugh::Kurt Cornelis::Paul E. Debevec:::Panel Session on Visual Scene Representation.
+conf/smile/FalkenhagenW98:::Lutz Falkenhagen::Thomas Wedi:::Improving Block-Based Disparity Estimation by Considering the Non-uniform Distribution of the Estimation Error.
+conf/smile/Mellor00:::J. P. Mellor:::Geometry and Texture from Thousands of Images.
+conf/smile/ZhangS00:::Zhengyou Zhang::Ying Shan:::A Progressive Scheme for Stereo Matching.
+conf/sneps/SrihariR89:::Rohini K. Srihari::William J. Rapaport:::Combining Linguistic and Pictorial Information: Using Captions to Interpret Newspaper Photographs.
+conf/spire/BrisaboaCLPS02:::Nieves R. Brisaboa::Carlos Callón::Juan-Ramón López::Ángeles S. Places::Goretti Sanmartín:::Stemming Galician Texts.
+conf/spire/BodendorfG99:::Freimut Bodendorf::Robert Grebner:::Actor-Oriented Management of Cooperative Work.
+conf/spire/MarinN03:::Mauricio Marín::Gonzalo Navarro:::Distributed Query Processing Using Suffix Arrays.
+conf/spire/Heitsch01:::Christine E. Heitsch:::Exact Distribution of Deletion Sizes for Unavoidable Strings.
+conf/spire/ItohT99:::Hideo Itoh::Hozumi Tanaka:::An Efficient Method for in Memory Construction of Suffix Arrays.
+conf/spire/MoffatW01:::Alistair Moffat::Raymond Wan:::Re-Store: A System for Compressing, Browsing, and Searching Large Documents (Invited Paper).
+conf/spire/Gonnet02:::Gaston H. Gonnet:::String Matching Problems from Bioinformatics Which Still Need Better Solutions (Extended Abstract).
+conf/spire/MiliduPL98:::Ruy Luiz Milidiú::Artur Alves Pessoa::Eduardo Sany Laber:::In-Place Length-Restricted Prefix Coding.
+conf/spire/ProuxRJ00:::Denys Proux::François Rechenmann::Laurent Julliard:::Muninn: A Pragmatic Information Extraction System.
+conf/spire/Vicedo01:::José Luis Vicedo González:::Using Semantics for Paragraph Selection in Question Answering Systems.
+conf/spire/Baeza-YatesC99:::Ricardo A. Baeza-Yates::Walter Cunto:::The ADT Proximity and Text Proximity Problems.
+conf/spire/Baeza-YatesS03:::Ricardo A. Baeza-Yates::Felipe Saint-Jean:::A Three Level Search Engine Index Based in Query Log Distribution.
+conf/spire/CrestaniFV01:::Fabio Crestani::Pablo de la Fuente::Jesús Vegas:::Design of a Graphical User Interface for Structured Documents Retrieval.
+conf/spire/LaberMP99:::Eduardo Sany Laber::Ruy Luiz Milidiú::Artur Alves Pessoa:::Practical Constructions of L-restricted Alphabetic Prefix Codes.
+conf/spire/SilvaO03:::Gilberto Silva::Claudia Oliveira:::The Implementation and Evaluation of a Lexicon-Based Stemmer.
+conf/spire/Haddad03:::Hatem Haddad:::French Noun Phrase Indexing and Mining for an Information Retrieval System.
+conf/tfais/VelosoF85:::Paulo A. S. Veloso::Antonio L. Furtado:::Towards Simpler and Yet Complete Formal Specifications
+conf/ssdbm/Bass81:::Leonard J. Bass:::The Access Method Used in a Scientific Data Management System.
+conf/ssdbm/OzsoyogluHO90:::Gultekin Özsoyoglu::Wen-Chi Hou::Adegbemiga Ola:::Database Systems for Programmable Logic Controllers.
+conf/ssdbm/MaierC83:::Mauro Maier::Claudio Cirilli:::System/K: A Knowledge Base Management System.
+conf/ssdbm/HinterbergerB98:::Hans Hinterberger::Bettina Bauer-Messmer:::Discrete Object Detection and Motion Registration Based on a Data Management Approach.
+conf/ssdbm/Fayyad97:::Usama M. Fayyad:::Data Mining and Knowledge Discovery in Databases: Implications for Scientific Databases.
+conf/ssdbm/Fox83:::Michael A. Fox:::Data Management Without a Database Manager.
+conf/ssdbm/YuD97:::Jie-Bing Yu::David J. DeWitt:::Query Pre-Execution and Batching in Paradise: A Two-Pronged Approach to the Efficient Processing of Queries on Tape-Resident Raster Images.
+conf/ssdbm/KimU99:::Bowon Kim::Kyhyun Um:::2D+ String: A Spatial Metadata to Reason Topological and Directional Relationships.
+conf/ssdbm/Stephenson86:::Geoffrey A. Stephenson:::ARCHEDDA - A Prototype for a Heterogeneous Distributed Database System.
+conf/ssdbm/LeeBKOO96:::Taekyong Lee::Tolga Bozkaya::Huang-Cheng Kuo::Gultekin Özsoyoglu::Z. Meral Özsoyoglu:::A Scientific Multimedia Database System for Polymer Science Experiments.
+conf/ssdbm/Carter86:::M. R. Carter:::Design of a Fuel Statistics Database Using Focus.
+conf/ssdbm/Bonin98:::Olivier Bonin:::Attribute Uncertainty Propagation in Vector Geographic Information Systems: Sensitivity Analysis.
+conf/ssdbm/Rowe81:::Neil C. Rowe:::Rule/based Statistical Calculations on a "Database Abstract".
+conf/ssdbm/SvenssonPSC88:::Per Svensson::Martin Podehl::Geoffrey A. Stephenson::Michael Cawson:::Database Management Systems for Statistical and Scientific Applications: Are Commercially Available DBMS Good Enough? Panel.
+conf/ssdbm/Mannila96:::Heikki Mannila:::Data Mining: Machine Learning, Statistics, and Databases.
+conf/ssdbm/Wolfe83:::Richard G. Wolfe:::Integrating Data and Documentation in a Multi-National Research Project: The IEA Second International Mathematics Study.
+conf/ssdbm/BaldwinEAC03:::Chuck Baldwin::Tina Eliassi-Rad::Ghaleb Abdulla::Terence Critchlow:::The Evolution of a Hierarchical Partitioning Algorithm for Large-Scale Scientific Data: Three Steps of Increasing Complexity.
+conf/ssdbm/MalmborgS94:::Erik Malmborg::Bo Sundgren:::Integration of Statistical Information Systems - Theory and Practice.
+conf/ssdbm/LehnerAW98:::Wolfgang Lehner::Jens Albrecht::Hartmut Wedekind:::Normal Forms for Multidimensional Databases.
+conf/ssdbm/BassiouniRM88:::Mostafa A. Bassiouni::N. Ranganathan::Amar Mukherjee:::Software and Hardware Enhancement of Arithmetic Coding.
+conf/ssdbm/BishopF83:::Yvonne M. Bishop::Stanley R. Freedman:::Classification of Metadata.
+conf/ssdbm/LaneP98:::A. M. J. Lane::T. W. Parr:::Providing Information on Environmental Change: Data Management Strategies and Internet Access Approaches within the UK Environmental Change Network.
+conf/ssdbm/FengSF03:::Jianlin Feng::Hongjie Si::Yucai Feng:::Indexing and Incremental Updating Condensed Data Cube.
+conf/ssdbm/CabibboT98:::Luca Cabibbo::Riccardo Torlone:::From a Procedural to a Visual Query Language for OLAP.
+conf/ssdbm/GurretR00:::Christophe Gurret::Philippe Rigaux:::The Sort/Sweep Algorithm: A New Method for R-Tree Based Spatial Joins.
+conf/ssdbm/FerriPRR00:::Fernando Ferri::Elaheh Pourabbas::Maurizio Rafanelli::Fabrizio L. Ricci:::Extending Geographic Databases for a Query Language to Support Queries Involving Statistical Data.
+conf/ssdbm/Malmborg86:::Erik Malmborg:::On the Semantics of Aggregated Data.
+conf/ssdbm/QiaoAA03:::Lin Qiao::Divyakant Agrawal::Amr El Abbadi:::Supporting Sliding Window Queries for Continuous Data Streams.
+conf/ssdbm/Vassiliadis98:::Panos Vassiliadis:::Modeling Multidimensional Databases, Cubes and Cube Operations.
+conf/ssdbm/YuZZB99:::Dantong Yu::Lei Zhu::Aidong Zhang::Ling Bian:::GiView: A Multi-Resolution Geographical Data Retrieval System.
+conf/ssdbm/PalpanasKM03:::Themistoklis Palpanas::Nick Koudas::Alberto O. Mendelzon:::Space Constrained Selection Problems for Data Warehouses and Pervasive Computing.
+conf/ssdbm/RhindOG88:::David Rhind::Stan Openshaw::Nick Green:::The Analysis of Geographical Data: Data Rich, Technology Adequate, Theory Poor.
+conf/ssdbm/TrigoniM01:::Agathoniki Trigoni::Ken Moody:::Using Association Rules to Add or Eliminate Query Constraints Automatically.
+conf/ssdbm/ChenKMS97a:::I-Min A. Chen::Anthony Kosky::Victor M. Markowitz::Ernest Szeto:::Constructing and Maintaining Scientific Database Views in the Framework of the Object-Protocol Model.
+conf/ssdbm/BernardoNRS98:::Luis M. Bernardo::Henrik Nordberg::Doron Rotem::Arie Shoshani:::Determining the Optimal File Size on Tertiary Storage Systems Based on the Distribution of Query Sizes.
+conf/ssdbm/ZeebergWGOKM98:::Barry Zeeberg::Kevin Watanabe::Susumu Goto::Ross A. Overbeek::Larry Kerschberg::George Michaels:::Metabolic Pathway Interface to Molecular Biology Databases.
+conf/ssdbm/WuNNSWDK03:::Huanmei Wu::Becky Norum::Judith Newmark::Betty Salzberg::Carol M. Warner::Charles DiMarzio::David R. Kaeli:::The CenSSIS Image Database.
+conf/ssdbm/LuchianS92:::Henri Luchian::Daniel Stamate:::Statistical Protection for Statistical Databases.
+conf/ssdbm/YazdaniO96:::Nasser Yazdani::Z. Meral Özsoyoglu:::Sequence Matching of Images.
+conf/ssdbm/BurgerBYWHBD02:::Albert Burger::Richard A. Baldock::Yiya Yang::Andrew Waterhouse::Derek Houghton::Nick Burton::Duncan Davidson:::The Edinburgh Mouse Atlas and Gene-Expression Database: A Spatio-Temporal Database for Biological Research.
+conf/ssdbm/MarkowitzLMOZ92:::Victor M. Markowitz::Suzanna Lewis::John McCarthy::Frank Olken::Manfred Zorn:::Data Management for Genomic Mapping Applications: A Case Study.
+conf/ssdbm/FlournoyH81:::Nancy Flournoy::Leonard Hearne:::Effects of Database Management on the Organization and Administration of Clinical Trials.
+conf/ssdbm/NgWMN99:::Kenneth W. Ng::Zhenghao Wang::Richard R. Muntz::Silvia Nittel:::Dynamic Query Re-Optimization.
+conf/ssdbm/Ryssevik02:::Jostein Ryssevik:::Metadata for Traveling Statistics - The World of Statistics Meets the Semantic Web.
+conf/ssdbm/RaguenaudK02:::Cedric Raguenaud::Jessie B. Kennedy:::Multiple Overlapping Classifications: Issues and Solutions.
+conf/ssdbm/MehtaWS81:::Rajiv P. Mehta::J. Curtis Wilcott::Ken J. Shumate:::Statistical Analyses using FWS/MANAGE Database Management System.
+conf/ssdbm/KampSW97:::V. Kamp::L. Sitzmann::Frank Wietek:::A Spatial Data Cube Concept for Supporting Data Analysis in Environmental Epidemiology.
+conf/ssdbm/Teitel81:::Robert F. Teitel:::Volume Testing of Statistical/Database Software.
+conf/ssdbm/GoilC99:::Sanjay Goil::Alok N. Choudhary:::An Infrastructure for Scalable Parallel Multidimensional Analysis.
+conf/ssdbm/Farris94:::Alan Farris:::Modeling Complex Astrophysics Data.
+conf/ssiai/Magnor02:::Marcus A. Magnor:::Geometry-Based Automatic Object Localization and 3-D Pose Detection.
+conf/ssiai/KoshelevaKN02:::Olga Kosheleva::Vladik Kreinovich::Hung T. Nguyen:::On the Optimal Choice of Quality Metric in Image Compression.
+conf/ssiai/MetzlerAT02:::Volker Metzler::Til Aach::Christian Thies:::A Novel Object-Oriented Approach to Image Analysis and Retrieval.
+conf/ssiai/RayA02:::Nilanjan Ray::Scott T. Acton:::Active Contours for Cell Tracking.
+conf/ssiai/ChanH02:::H. B. Chan::Y. S. Hung:::Matching Patterns of Line Segments by Eigenvector Decomposition.
+conf/ssiai/OlmsteadF02:::Reed Olmstead::James B. Farison:::Linear Filtering of Spatially Invariant Image Sequences for Feature Separation and Compression under Three Types of Image Noise.
+conf/ssiai/CassabaumRRW02:::Mary L. Cassabaum::Jeffrey J. Rodríguez::Jack G. Riddle::Donald E. Waagen:::Feature Analysis Using Millimeter-Wave Real Beam and Doppler Beam Sharpening Techniques.
+conf/ssiai/BlackFP02:::John A. Black Jr.::Gamal Fahmy::Sethuraman Panchanathan:::A Method for Evaluating the Performance of Content-Based Image Retrieval Systems.
+conf/ssiai/YooNH02:::Jang-Hee Yoo::Mark S. Nixon::Chris J. Harris:::Extracting Human Gait Signatures by Body Segment Properties.
+conf/ssiai/DickensGS02:::Molly M. Dickens::Shaun S. Gleason::Hamed Sari-Sarraf:::Volumetric Segmentation via 3D Active Shape Models.
+conf/stacs/Hromkovic87:::Juraj Hromkovic:::Reversal Complexity of Multicounter and Multihead Machines.
+conf/stacs/CaiH89:::Jin-yi Cai::Lane A. Hemachandra:::On the Power of Parity Polynomial Time.
+conf/stacs/KoutsoupiasP99:::Elias Koutsoupias::Christos H. Papadimitriou:::Worst-case Equilibria.
+conf/stacs/HofmeisterSSW02:::Thomas Hofmeister::Uwe Schöning::Rainer Schuler::Osamu Watanabe:::A Probabilistic 3-SAT Algorithm Further Improved.

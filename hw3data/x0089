@@ -1,0 +1,200 @@
+conf/spaa/GerbessiotisS96:::Alexandros V. Gerbessiotis::Constantinos J. Siniolakis:::Deterministic Sorting and Randomized Median Finding on the BSP Model.
+conf/spaa/MostefaouiR01:::Achour Mostéfaoui::Michel Raynal:::Randomized k-set agreement.
+conf/spaa/BuschH99:::Costas Busch::Maurice Herlihy:::Sorting and Counting Networks of Small Depth and Arbitrary Width.
+conf/spaa/BermanGPS92:::Pablo E. Berman::Luis Gravano::Gustavo D. Pifarré::Jorge L. C. Sanz:::Adaptive Deadlock- and Livelock-Free Routing with all Minimal Paths in Torus Networks.
+conf/spaa/BlellochLMPSZ91:::Guy E. Blelloch::Charles E. Leiserson::Bruce M. Maggs::C. Greg Plaxton::Stephen J. Smith::Marco Zagha:::A Comparison of Sorting Algorithms for the Connection Machine CM-2.
+conf/spaa/BrownGK02:::Jeremy Brown::J. P. Grossman::Tom Knight:::A lightweight idempotent messaging protocol for faulty networks.
+conf/spaa/DietzfelbingerH89:::Martin Dietzfelbinger::Friedhelm Meyer auf der Heide:::An Optimal Parallel Dictionary.
+conf/spaa/HeideS95:::Friedhelm Meyer auf der Heide::Christian Scheideler:::Space-Efficient Routing in Vertex-Symmetric Networks (Extended Abstract).
+conf/spaa/MayrW92:::Ernst W. Mayr::Ralph Werchner:::Optimal Routing of Parentheses on the Hypercube.
+conf/spaa/DehneDH97:::Frank K. H. A. Dehne::Wolfgang Dittrich::David Hutchinson:::Efficient External Memory Algorithms by Simulating Coarse-Grained Parallel Algorithms.
+conf/spaa/GazitR90:::Hillel Gazit::John H. Reif:::A Randomized Parallel Algorithm for Planar Graph Isomorphism.
+conf/spaa/LeightonNRS89:::Frank Thomson Leighton::Mark Newman::Abhiram G. Ranade::Eric J. Schwabe:::Dynamic Tree Embeddings in Butterflies and Hypercubes.
+conf/spaa/FarachM95:::Martin Farach::S. Muthukrishnan:::Optimal Parallel Dictionary Matching and Compression (Extended Abstract).
+conf/spaa/AtallahDMRT91:::Mikhail J. Atallah::Frank K. H. A. Dehne::Russ Miller::Andrew Rau-Chaplin::Jyh-Jong Tsay:::Multisearch Techniques for Implementing Data Structures on a Mesh-Connected Computer (Preliminary Version).
+conf/spaa/StamatopoulosS94:::Jerry Stamatopoulos::Jon A. Solworth:::Increasing Network Bandwidth on Meshes.
+conf/spaa/ChakrabartiDY95:::Soumen Chakrabarti::James Demmel::Katherine A. Yelick:::Modeling the Benefits of Mixed Data and Task Parallelism.
+conf/spaa/Sibeyn97:::Jop F. Sibeyn:::Better Trade-Offs for Parallel List Ranking.
+conf/spaa/RauberRR01:::Thomas Rauber::Robert Reilein::Gudula Rünger:::Library support for orthogonal processor groups.
+conf/spaa/Garcia-MolinaLWZ98:::Hector Garcia-Molina::Wilburt Labio::Janet L. Wiener::Yue Zhuge:::Distributed and Parallel Computing Issues in Data Warehousing (Abstract).
+conf/spaa/HightowerPR92:::William L. Hightower::Jan Prins::John H. Reif:::Implementations of Randomized Sorting on Large Parallel Machines.
+conf/spaa/YamadaU03:::Toshinori Yamada::Shuichi Ueno:::Optimal fault-tolerant linear arrays.
+conf/spaa/KaklamanisKNT91:::Christos Kaklamanis::Danny Krizanc::Lata Narayanan::Thanasis Tsantilas:::Randomized Sorting and Selection on Mesh-Connected Processor Arrays (Preliminary Version).
+conf/spaa/BarriereFFS02:::Lali Barrière::Paola Flocchini::Pierre Fraigniaud::Nicola Santoro:::Capture of an intruder by mobile agents.
+conf/spaa/BalevQRR98:::Stephan Balev::Patrice Quinton::Sanjay V. Rajopadhye::Tanguy Risset:::Linear Programming Models for Scheduling Systems of Affine Recurrence Equations - A Comparative Study.
+conf/spaa/Schwiebert97:::Loren Schwiebert:::Deadlock-Free Oblivious Wormhole Routing with Cyclic Dependencies.
+conf/spaa/DietzfelbingerKR90:::Martin Dietzfelbinger::Miroslaw Kutylowski::Rüdiger Reischuk:::Exact Time Bounds for Computing Boolean Functions on PRAMs Without Simultaneous Writes.
+conf/spaa/TurekLWFTGSY94:::John Turek::Walter Ludwig::Joel L. Wolf::Lisa Fleischer::Prasoon Tiwari::Jason Glasgow::Uwe Schwiegelshohn::Philip S. Yu:::Scheduling Parallelizable Tasks to Minimize Average Response Time.
+conf/spaa/Vishkin00:::Uzi Vishkin:::A no-busy-wait balanced tree parallel algorithmic paradigm.
+conf/spaa/Vishkin02:::Uzi Vishkin:::Two techniques for reconciling algorithm parallelism with memory constraints.
+conf/spaa/KargerNP92:::David R. Karger::Noam Nisan::Michal Parnas:::Fast Connected Components Algorithms for the EREW PRAM.
+conf/spaa/LotkerPPP03:::Zvi Lotker::Elan Pavlov::Boaz Patt-Shamir::David Peleg:::MST construction in O(log log n) communication rounds.
+conf/spdp/ChlebusKS93:::Bogdan S. Chlebus::Michael Kaufmann::Jop F. Sibeyn:::Deterministic Permutation Routing on Meshes.
+conf/spdp/YangASS93:::Yulu Yang::Hideharu Amano::H. Shibamura::Toshinori Sueyoshi:::Recursive Diagonal Torus: An Interconnection Network for Massively Parallel Computers.
+conf/spdp/RampalA92:::Sanjeev Rampal::Dharma P. Agrawal:::Parallel Image Sequence Coding on Multiprocessor Systems.
+conf/spdp/MalkawiKA92:::Mohammed Malkawi::Deborah Knox::Mahmoud Abaza:::Page Replacement in Distributed Virtual Memory Systems.
+conf/spdp/SharmaP93:::Debendra Das Sharma::Dhiraj K. Pradhan:::A Fast and Efficient Strategy for Submesh Allocation in Mesh-Connected Parallel Computers.
+conf/spdp/CaspiD92:::Yuval Caspi::Eliezer Dekel:::A New Framework for Designing Parallel Algorithms on Series Parallel Graphs.
+conf/spdp/Shum93:::Chung-Dak Shum:::Parallel Implementations of Exclusion Joins.
+conf/spdp/HussakK93:::Walter Hussak::John A. Keane:::Representation of Coherency Classes for Parallel Systems.
+conf/spdp/ChanL90:::Mee Yee Chan::Shiang-Jen Lee:::Subcube Recognition, Allocation/Deallocation and Relocation in Hypercubes.
+conf/spdp/Mattingly93:::R. B. Mattingly:::Solving Markov Chains Using Bounded Aggregation on a Massively Parallel Processor.
+conf/spdp/GanapathyW93:::Kumar N. Ganapathy::Benjamin W. Wah:::Designing a Coprocessor for Recurrent Computations.
+conf/spdp/Keller93:::J. Keller:::Fast Rehashing in PRAM Emulations.
+conf/spdp/LinEMB93:::Xiaola Lin::Abdol-Hossein Esfahanian::Philip K. McKinley::A. Burago:::Adaptive Wormhole Routing in Hypercube Multicomputers.
+conf/spdp/NatarajanIS93:::Chitra Natarajan::Ravishankar K. Iyer::Sanjay Sharma:::Experimental Evaluation of Performance and Scalability of a Multiprogrammed Shared-Memory Multiprocessor.
+conf/spdp/Sibeyn90:::Jop F. Sibeyn:::Routing Permutations on MESH Interconnection Networks.
+conf/spdp/JurczykS93:::Michael Jurczyk::Thomas Schwederski:::On Partially Dilated Multistage Interconnection Networks with Uniform Traffic and Nonuniform Traffic Spots.
+conf/sosl/FitzgeraldM93:::John S. Fitzgerald::R. Moore:::Experiences in Developing a Proof Theory for VDM Specifications.
+conf/sosl/SaidouniC93:::Djamel-Eddine Saïdouni::Jean-Pierre Courtiat:::Syntactic Action Refinement in Presence of Multiway Synchronisation.
+conf/sosp/Cook79:::Douglas Cook:::In Support of Domain Structure for Operating Systems.
+conf/sosp/MeyrowitzM81:::Norman K. Meyrowitz::Margaret Moser:::BRUWIN: An Adaptable Design Strategy for Window Manager / Virtual Terminal Systems.
+conf/sosp/FoxGCB97:::Armando Fox::Steven D. Gribble::Yatin Chawathe::Eric A. Brewer::Paul Gauthier:::Cluster-Based Scalable Network Services.
+conf/sosp/Greenberg71:::Mark L. Greenberg:::An Algorithm for Drum Storage Management in Time-Sharing Systems.
+conf/sosp/Liedtke95:::Jochen Liedtke:::On micro-Kernel Construction.
+conf/sosp/ShapiroSF99:::Jonathan S. Shapiro::Jonathan M. Smith::David J. Farber:::EROS: a fast capability system.
+conf/sosp/AimesL79:::Guy T. Aimes::Edward D. Lazowska:::The Behavior of Ethernet-Like Computer Communication Networks.
+conf/sosp/Potier77:::Dominique Potier:::Analysis of Demand Paging Policies with Swapped Working Sets.
+conf/sosp/FitzgeraldR85:::Robert P. Fitzgerald::Richard F. Rashid:::The Integration of Virtual Memory Management and Interprocess Communication in Accent (Abstract).
+conf/sosp/MuellerMP83:::Erik T. Mueller::Johanna D. Moore::Gerald J. Popek:::A Nested Transaction Mechanism for LOCUS.
+conf/sosp/WelshCB01:::Matt Welsh::David E. Culler::Eric A. Brewer:::SEDA: An Architecture for Well-Conditioned, Scalable Internet Services.
+conf/sosp/FuCCSV03:::Yun Fu::Jeffrey S. Chase::Brent N. Chun::Stephen Schwab::Amin Vahdat:::SHARP: an architecture for secure resource peering.
+conf/sosp/ArdenB75:::Bruce W. Arden::Alan D. Bernbaum:::A Multi-Microprocessor Computer System Architecture.
+conf/sosp/PruittC75:::J. L. Pruitt::W. W. Case:::Architecture of a Real-Time Operating System.
+conf/sosp/WinogradMH71:::Joseph Winograd::S. J. Morganstein::R. Herman:::Simulation Studies of a Virtual Memory, Time Shared, Demand Paging Operating System.
+conf/sosp/Spector81:::Alfred Z. Spector:::Performing Remore Operations Efficiently on a Local Computer Network (Summary).
+conf/sosp/KingC03:::Samuel T. King::Peter M. Chen:::Backtracking intrusions.
+conf/sosp/CastroDKNRS03:::Miguel Castro::Peter Druschel::Anne-Marie Kermarrec::Animesh Nandi::Antony I. T. Rowstron::Atul Singh:::SplitStream: high-bandwidth multicast in cooperative environments.
+conf/sosp/Zayas87:::Edward R. Zayas:::Attacking the Process Migration Bottleneck.
+conf/sosp/GareyG73:::M. R. Garey::Ronald L. Graham:::Bounds on Scheduling with Limited Resources.
+conf/sosp/FeeleyMPKL95:::Michael J. Feeley::William E. Morgan::Frederic H. Pighin::Anna R. Karlin::Henry M. Levy::Chandramohan A. Thekkath:::Implementing Global Memory Management in a Workstation Cluster.
+conf/sosp/Alsberg71:::Peter Alsberg:::Extensible Data Features in the Operating System Language OSL/2.
+conf/sosp/VaswaniZ91:::Raj Vaswani::John Zahorjan:::The Implications of Cache Affinity on Processor Scheduling for Multiprogrammed, Shared Memory Multiprocessors.
+conf/sosp/BaskettHM77:::Forest Baskett::John H. Howard::John T. Montague:::Task Communication in DEMOS.
+conf/sosp/BakerHKSO91:::Mary Baker::John H. Hartman::Michael D. Kupfer::Ken Shirriff::John K. Ousterhout:::Measurements of a Distributed File System.
+conf/sosp/NeedhamB77:::Roger M. Needham::Andrew Birrell:::The Cap Filing System.
+conf/sosp/SchroederB89:::Michael D. Schroeder::Michael Burrows:::Performance of Firefly RPC.
+conf/sosp/HowardKMNSSW87:::John H. Howard::Michael L. Kazar::Sherri G. Menees::David A. Nichols::M. Satyanarayanan::Robert N. Sidebotham::Michael J. West:::Scale and Performance in a Distributed File System (Extended Abstract).
+conf/sosp/Adjie-WinotoSBL99:::William Adjie-Winoto::Elliot Schwartz::Hari Balakrishnan::Jeremy Lilley:::The design and implementation of an intentional naming system.
+conf/sosp/JonesCDSV79:::Anita K. Jones::Robert J. Chansler Jr.::Ivor Durham::Karsten Schwan::Steven R. Vegdahl:::StarOS, a Multiprocessor Operating System for the Support of Task Forces.
+conf/sosp/Walther73:::W. Walther:::Multiprocessor Self Diagnosis, Surgery, and Recovery in Air Traffic Control.
+conf/sosp/MahajanSWA03:::Ratul Mahajan::Neil T. Spring::David Wetherall::Thomas E. Anderson:::User-level internet path diagnosis.
+conf/sosp/RashidR81:::Richard F. Rashid::George G. Robertson:::Accent: A Communication Oriented Network Operating System Kernel.
+conf/sosp/CheritonD95:::David R. Cheriton::Kenneth J. Duda:::Logged Virtual Memory.
+conf/sosp/RitchieT73:::Dennis Ritchie::Ken Thompson:::The UNIX Time-Sharing System (Abstract).
+conf/sosp/Fontao71:::Rafael O. Fontao:::A Concurrent Algorithm for Avoiding Deadlocks.
+conf/spin/BallR00:::Thomas Ball::Sriram K. Rajamani:::Bebop: A Symbolic Model Checker for Boolean Programs.
+conf/spin/LerdaV01:::Flavio Lerda::Willem Visser:::Addressing Dynamic Issues of Program Model Checking.
+conf/spin/WeiningerC00:::Nicholas Weininger::Darren D. Cofer:::Modeling the ASCB-D Synchronization Algorithm with SPIN: A Case Study.
+conf/spin/AygunZ02:::Ramazan Savas Aygün::Aidong Zhang:::Modeling and Verification of Interactive Flexible Multimedia Presentations Using PROMELA/SPIN.
+conf/spin/PasareanuDH99:::Corina S. Pasareanu::Matthew B. Dwyer::Michael Huth:::Assume-Guarantee Model Checking of Software: A Comparative Case Study.
+conf/spin/GeldenhuysV03:::Jaco Geldenhuys::Antti Valmari:::A Nearly Memory-Optimal Data Structure for Sets and Mappings.
+conf/spin/Latvala03:::Timo Latvala:::Efficient Model Checking of Safety Properties.
+conf/spin/BolligLW02:::Benedikt Bollig::Martin Leucker::Michael Weber:::Local Parallel Model Checking for the Alternation-Free µ-Calculus.
+conf/spin/Dajani-BrownCHP03:::Samar Dajani-Brown::Darren D. Cofer::Gary Hartmann::Steve Pratt:::Formal Modeling and Analysis of an Avionics Triplex Sensor Voter.
+conf/spin/LuttgenC99:::Gerald Lüttgen::Victor Carreño:::Analyzing Mode Confusion via Model Checking.
+conf/spin/KamelL99:::Moataz Kamel::Stefan Leue:::VIP: A Visual Interface for Promela.
+conf/spin/DSouzaM03:::Deepak D'Souza::Madhavan Mukund:::Checking Consistency of SDL+MSC Specifications.
+conf/spin/BrowneSZ00:::Anca Browne::Henny Sipma::Ting Zhang:::Linking <i>ST<sub>e</sub>P</i> with SPIN.
+conf/splc/JaringB02:::Michel Jaring::Jan Bosch:::Representing Variability in Software Product Lines: A Case Study.
+conf/splc/Bosch02:::Jan Bosch:::Maturity and Evolution in Software Product Lines: Approaches, Artefacts and Organization.
+conf/splc/KishiNK02:::Tomoji Kishi::Natsuko Noda::Takuya Katayama:::A Method for Product Line Scoping Based on a Decision-Making Framework.
+conf/splc/Wijnstra02:::Jan Gerben Wijnstra:::Critical Factors for a Successful Platform-Based Product Family Approach.
+conf/tfcv/Gimelfarb94:::Georgy L. Gimel'farb:::Symmetric Bi- and Trinocular Stereo: Tradeoffs between Theoretical Foundations and Heuristics.
+conf/tfcv/PetrouGK98:::Maria Petrou::Nikos Georgis::Josef Kittler:::Sensitivity Analysis of Projective Geometry 3D Reconstruction.
+conf/tfcv/LudwigNN92:::Kai-Oliver Ludwig::Heiko Neumann::Bernd Neumann:::Local stereoscopic depth estimation using ocular stripe maps.
+conf/tfcv/FelsbergS00:::Michael Felsberg::Gerald Sommer:::Structure Multivector for Local Analysis of Images.
+conf/tfcv/Daniilidis94:::Konstantinos Daniilidis:::Attentive Visual Motion Processing: Computations in the Log-Polar Plane.
+conf/tfcv/BuhmannP98:::Joachim M. Buhmann::Jan Puzicha:::Unsupervised Learning for Robust Texture Segmentation.
+conf/srds/Maffeis96:::Silvano Maffeis:::A Fault-Tolerant CORBA Name Server.
+conf/srds/ZhongE98:::Qun Zhong::Nigel Edwards:::Security in the Large: Is Java's Sandbox Scalable?
+conf/srds/HurfinMRT99:::Michel Hurfin::Raimundo A. Macêdo::Michel Raynal::Frederic Tronel:::A General Framework to Solve Agreement Problems.
+conf/srds/Bacon91:::David F. Bacon:::File System Measurements and their Application to the Design of Efficient Operation Logging Algorithm.
+conf/srds/HuMK98:::Kexiang Hu::Sharad Mehrotra::Simon M. Kaplan:::Failure Handling in an Optimized Two-Safe Approach to Maintaining Primary-Backup Systems.
+conf/srds/PuN87:::Calton Pu::Jerre D. Noe:::Design and Implementation of Nested Transactions in Eden.
+conf/srds/HashimotoTK98:::Koji Hashimoto::Tatsuhiro Tsuchiya::Tohru Kikuno:::A Multiprocessor Scheduling Algorithm for Low Overhead Fault-Tolerance.
+conf/srds/Hiltunen95:::Matti A. Hiltunen:::Membership and System Diagnosis.
+conf/srds/LiskovH83:::Barbara Liskov::Maurice Herlihy:::Issues Process and Communication Structure for Distributed Programs.
+conf/srds/NajjarG89:::Walid A. Najjar::Jean-Luc Gaudiot:::Limits on Scalability in Gracefully Degradable Large-Scale Systems.
+conf/srds/CampeloRGS99:::J. C. Campelo::F. Rodríguez::P. J. Gil::J. J. Serrano:::Design and Validation of a Distributed Industrial Control System's Nodes.
+conf/srds/ClaessoLS01:::Vilgot Claesso::Henrik Lönn::Neeraj Suri:::Efficient TDMA Synchronization for Distributed Embedded Systems.
+conf/srds/ShiB89:::Shepherd S. B. Shi::Geneva G. Belford:::Consistent Replicated Transactions: A Highly Reliable Program Execution Environment.
+conf/srds/ShiM93:::Qi Shi::John A. McDermid:::Constructing Secure Distributed Systems Using Components.
+conf/srds/SoAK98:::Siu-Kai So::Ishfaq Ahmad::Kamalakar Karlapalem:::A Data Allocation Algorithm for Distributed Hypermedia Documents.
+conf/srds/AgbariaAFV01:::Adnan Agbaria::Hagit Attiya::Roy Friedman::Roman Vitenberg:::Quantifying Rollback Propagation in Distributed Checkpointing.
+conf/srds/MalkhiMR99:::Dahlia Malkhi::Yishay Mansour::Michael K. Reiter:::On Diffusing Updates in a Byzantine Environment.
+conf/srds/MalkhiR98a:::Dahlia Malkhi::Michael K. Reiter:::Survivable Consensus Objects.
+conf/srds/BriaticoCS84:::D. Briatico::Augusto Ciuffoletti::Luca Simoncini:::A Distributed Domino-Effect free recovery Algorithm.
+conf/srds/JhumkaHS01:::Arshad Jhumka::Martin Hiller::Neeraj Suri:::Assessing Inter-Modular Error Propagation in Distributed Software.
+conf/srds/DuarteN96:::Elias Procópio Duarte Jr.::Takashi Nanya:::Hierarchical Adaptive Distributed System-Level Diagnosis Applied for SNMP-based Network Fault Management.
+conf/srds/WilkinsonL84:::W. Kevin Wilkinson::Ming-Yee Lai:::Managing Replicate Data in JASMIN.
+conf/srds/SchlichtingP86:::Richard D. Schlichting::Titus D. M. Purdin:::Failure Handling in Distributed Programming Languages.
+conf/srds/LittleS99:::Mark C. Little::Santosh K. Shrivastava:::A Method for Combining Replication with Caching.
+conf/srds/SmithS83:::G. Smith::W. Shojinaga:::An Experimental Distributed Processing Facility - A Vehicle for Survivability.
+conf/srds/FrolundG00:::Svend Frølund::Rachid Guerraoui:::A Pragmatic Implementation of e-Transactions.
+conf/srds/BirmanJRA84:::Kenneth P. Birman::Thomas A. Joseph::Thomas Räuchle::Amr El Abbadi:::Implementing Fault-Tolerant Distributed Objects.
+conf/srds/BarteltM99:::Andreas Bartelt::Jochen Meyer:::A Practical Guideline to the Implementation of Online Shops.
+conf/srds/HerrmannK99:::Peter Herrmann::Heiko Krumm:::Formal Hazard Analysis of Hybrid Systems in cTLA.
+conf/srds/LongP87:::Darrell D. E. Long::Jehan-François Pâris:::On Improving the Availability of Replicated Files.
+conf/srds/LongP88:::Darrell D. E. Long::Jehan-François Pâris:::A Realistic Evaluation of Optimistic Dynamic Voting.
+conf/srds/PittelliG86:::Frank M. Pittelli::Hector Garcia-Molina:::Database Processing with Triple Modular Redundancy.
+conf/srds/BaldoniQF97:::Roberto Baldoni::Francesco Quaglia::Paolo Fornara:::An Index-Based Checkpointing Algorithm for Autonomous Distributed Systems.
+conf/srds/TsubotaniMTI84:::Hideaki Tsubotani::Noriaki Monden::Minoru Tanaka::Tadao Ichikawa:::A Computing System to Support Development of Reliable Software.
+conf/srds/RamanathanS88:::Parameswaran Ramanathan::Kang G. Shin:::Checkpointing and Rollback Recovery in a Distributed System Using Common Time Base.
+conf/srds/LeeperL89:::Kenneth R. Leeper::David W. Lyness:::Distributed Processing Test Simulator (DPTS).
+conf/srds/AnastasiBS99:::Giuseppe Anastasi::Alberto Bartoli::Francesco Spadoni:::Group Multicast in Distributed Mobile Systems with Unreliable Wireless Network.
+conf/srds/TongK88:::Zhijun Tong::Richard Y. Kain:::Vote Assignments in Weighted Voting Mechanisms.
+conf/srds/Jayasimha94:::D. N. Jayasimha:::Fault Tolerance in a Multisensor Environment.
+conf/srds/HuangJ89:::Yennun Huang::Pankaj Jalote:::Availability Analysis of the Primary Site Approach for Fault Tolerance.
+conf/srds/CouvetFN91:::D. Couvet::Gerard Florin::Stéphane Natkin:::A Statistical Clock Synchronization Algorithm for Anisotropic Networks.
+conf/srds/EzhilchelvanS86:::Paul D. Ezhilchelvan::Santosh K. Shrivastava:::A Characterisation of Faults in Systems.
+conf/srds/RamaniTD00:::Srinivasan Ramani::Kishor S. Trivedi::Balakrishnan Dasarathy:::Performance Analysis of the CORBA Event Service using Stochastic Reward Nets.
+conf/srds/BellissardPFHL99:::Luc Bellissard::Noel De Palma::A. Freyssinet::M. Herrmann::Serge Lacourte:::An Agent Platform for Reliable Asynchronous Distributed Programming.
+conf/srds/HelaryMNR97:::Jean-Michel Hélary::Achour Mostéfaoui::Robert H. B. Netzer::Michel Raynal:::Preventing Useless Checkpoints in Distributed Computations.
+conf/srds/MalkhiR98:::Dahlia Malkhi::Michael K. Reiter:::Secure and Scalable Replication in Phalanx.
+conf/srds/Rubino97:::Gerardo Rubino:::Predicting Dependability Properties On-line.
+conf/srds/Green97:::Paul A. Green Jr.:::The Art of Creating Reliable Software-based Systems using Off-the-Shelf Software Components.
+conf/sspr/Baja96:::Gabriella Sanniti di Baja:::Representing Shape by Line Patterns.
+conf/sspr/Amin02:::Adnan Amin:::Structural Description to Recognising Arabic Characters Using Decision Tree Learning Techniques.
+conf/sspr/Ho98:::Tin Kam Ho:::Nearest Neighbors in Random Subspaces.
+conf/sspr/ChaS00:::Sung-Hyuk Cha::Sargur N. Srihari:::Writer Identification: Statistical Analysis and Dichotomizer.
+conf/sspr/McLachlanP98:::Geoffrey J. McLachlan::David Peel:::Robust Cluster Analysis via Mixtures of Multivariate t-Distributions.
+conf/sspr/AhmadyfardK00:::Alireza Ahmadyfard::Josef Kittler:::Region-Based Representation for Object Recognition by Relaxation Labelling.
+conf/sspr/Gool96:::Luc J. Van Gool:::Invariants and Fixed Structures Lead the Way to Change.
+conf/sspr/HolzL00:::Hilary J. Holz::Murray H. Loew:::Design Choices and Theoretical Issues for Relative Feature Importance, a Metric for Nonparametric Discriminatory Power.
+conf/sspr/HuYY98:::Jianming Hu::Donggang Yu::Hong Yan:::Structural Boundary Feature Extraction for Printed Character Recognition.
+conf/sspr/RaghebH02:::Hossein Ragheb::Edwin R. Hancock:::Shape-from-Shading for Highlighted Surfaces.
+conf/sspr/ScheundersBN98:::Paul Scheunders::Steve De Backer::A. Naud:::Non-linear Mapping for Feature Extraction.
+conf/sspr/HlaouiW02:::Adel Hlaoui::Shengrui Wang:::A New Algorithm for Graph Matching with Application to Content-Based Image Retrieval.
+conf/sspr/LiuD98:::Wiu Liu::Dov Dori:::A Survey of Non-thinning Based Vectorization Methods.
+conf/sspr/MaZW00:::Matthew Ma::Chi Zhang::Patrick Shen-Pei Wang:::Studies of Radical Model for Retrieval of Cursive Chinese Handwritten Annotations.
+conf/sspr/LuoH00:::Bin Luo::Edwin R. Hancock:::Alignment and Correspondence Using Singular Value Decomposition.
+conf/sspr/WangCL96:::J. W. Wang::C. H. Chen::J. C. Luo:::Signal Decomposing by Multiscale Learning Algorithms.
+conf/sspr/PintoF96:::I. Pinto::Herbert Freeman:::The Feedback Approach to Cartographic Areal Text Placement.
+conf/sspr/CostaS96:::Mauro S. Costa::Linda G. Shapiro:::Relational Indexing.
+conf/sspr/Nishida96:::Hirobumi Nishida:::A Structural Analysis of Curve Deformation by Discontinuous Transformations.
+conf/sspr/Nishida98:::Hirobumi Nishida:::Structural Indexing of Line Pictures with Feature Generation Models.
+conf/sspr/BischofC00:::Walter F. Bischof::Terry Caelli:::Parallel Techniques for Rule-Based Scene Interpretation.
+conf/sspr/DelalandreHATO02:::Mathieu Delalandre::Pierre Héroux::Sébastien Adam::Éric Trupin::Jean-Marc Ogier:::A Statistical and Structural Approach for Symbol Recognition, Using XML Modelling.
+conf/sspr/AzuelaRB02:::Juan Humberto Sossa Azuela::Francisco Cuevas de la Rosa::Héctor Benitez:::Efficient Computation of 3-D Moments in Terms of an Object's Partition.
+conf/sspr/SemaniSFBC02:::Dahbia Semani::Christophe Saint-Jean::Carl Frélicot::Thierry Bouwmans::Pierre Courtellemont:::Alive Fishes Species Characterization from Video Sequences.
+conf/sspr/YangZD98:::Guangwen Yang::Weimin Zheng::Wang Dingxing:::A Statistical Clustering Model and Algorithm.
+conf/sspr/LazarescuTV02:::Mihai Lazarescu::Andrew Turpin::Svetha Venkatesh:::An Application of Machine Learning Techniques for the Classification of Glaucomatous Progression.
+conf/sspr/GimelfarbL02:::Georgy L. Gimel'farb::Uri Lipowezky:::Probabilistic Signal Models to Regularise Dynamic Programming Stereo.
+conf/sspr/MayerSHP00:::Helmut A. Mayer::Petr Somol::Reinhold Huber::Pavel Pudil:::Improving Statistical Measures of Feature Subsets by Conventional and Evolutionary Approaches.
+conf/sspr/TenmotoKS98:::Hiroshi Tenmoto::Mineichi Kudo::Masaru Shimbo:::MDL-Based Selection of the Number of Components in Mixture Models for Pattern Classification.
+conf/sspr/VenguerovC98:::Mark Venguerov::Padraig Cunningham:::Generalised Syntactiv Pattern Recognition as a Unifying Approach in Image Analysis.
+conf/sspr/MaloNEFA00:::J. Malo::R. Navarro::I. Epifanio::Francesc Ferri::J. M. Artigas:::Non-linear Invertible Representation for Joint Statistical and Perceptual Feature Decorrelation.
+conf/sspr/LopezP00:::Damián López::Ignacio Piñaga:::Syntactic Pattern Recognition by Error Correcting Analysis on Tree Automata.
+conf/sspr/ImiyaHT02:::Atsushi Imiya::Tetsu Hada::Ken Tatara:::The Hough Transform without the Accumulators.
+conf/sspr/PudilNSV98:::Pavel Pudil::Jana Novovicová::Petr Somol::R. Vrnata:::Feature Selection Expert - User Oriented Approach: Methodology and Concept of the System.
+conf/sspr/AdamOCMGL00:::Sébastien Adam::Jean-Marc Ogier::Claude Cariou::Rémy Mullot::Joël Gardes::Jacques Labiche:::Character Recognition, Orientation, and Scale Estimation Thanks to the Fourier Mellin Transform.
+conf/sspr/OommenL98:::B. John Oommen::R. K. S. Loke:::The Noisy Subsequence Tree Recognition Problem.
+conf/sspr/Dietterich02:::Thomas G. Dietterich:::Machine Learning for Sequential Data: A Review.
+conf/sspr/VitulanoV00:::Domenico Vitulano::Sergio Vitulano:::Texture Indexing by a Hierarchical Representation.
+conf/sspr/NyssenNT02:::Edgard Nyssen::Naren Naik::Bart Truyen:::Piecewise Multi-linear PDF Modelling, Using an ML Approach.
+conf/sspr/ChaineB98:::Raphaëlle Chaine::Saïda Bouakaz:::Image Segmentation by Label Anisotropic Diffusion.
+conf/sspr/FredJ02:::Ana L. N. Fred::Anil K. Jain:::Evidence Accumulation Clustering Based on the K-Means Algorithm.
+conf/sspr/SirlantzisHFR02:::Konstantinos Sirlantzis::Sanaul Hoque::Michael C. Fairhurst::Ahmad Fuad Rezaur Rahman:::Fusion of n-Tuple Based Classifiers for High Performance Handwritten Character Recognition.
+conf/sspr/Pagallo98:::Giulia Pagallo:::Constrained Attribute Grammars for Recognition of Multi-dimensional Objects.
+conf/sspr/BarandelaG00:::Ricardo Barandela::Eduardo Gasca:::Decontamination of Training Samples for Supervised Pattern Recognition Methods.

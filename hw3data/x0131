@@ -1,0 +1,200 @@
+conf/eurovav/HaoucheC95:::Corinne Haouche::Jean Charlet:::Using a KADS Inference Structure to Test a KBS Behaviour.
+conf/eurovav/Boulitreau-LefevreK95:::P. Boulitreau-Lefevre::Gilles Kassel:::Modelling Validation Seen as a Set of Problem Solving Tasks.
+conf/eurovav/Grisoni91:::Matthew Grisoni:::Foreword.
+conf/eurovav/BelancheC91:::Lluís Belanche::Ulises Cortés:::The Nought Attributes in Knowledge-Based Systems.
+conf/eurovav/CasamayorMD93:::Juan Carlos Casamayor::Francisco Marqués::Hendrik Decker:::A Mechanism for Verification of Knowledge Base Scheme Specifications.
+conf/eurovav/TalbotA91:::Stephane Talbot::Marc Ayel:::Consistency and Rules Subject to Exceptions.
+conf/agents/OdubiyiMHY99:::Jidé B. Odubiyi::George Meekins::Song Huang::Tracy Yin:::Proteus* - Adaptive Polling System for Proactive Management of ATM Networks Using Collaborative Intelligent Agents.
+conf/agents/Hu01:::Yuh-Jong Hu:::Some thoughts on agent trust and delegation.
+conf/agents/RanaWGP00:::Omer F. Rana::Thomas Wagner::Michael S. Greenberg::Martin K. Purvis:::Infrastructure Issues and Themes for Scalable Multi-Agent Systems.
+conf/agents/Birk00:::Andreas Birk:::Learning to Trust.
+conf/agents/KayERT98:::Jennifer Kay::Julius Etzl::Goutham Rao::Jon Thies:::The ATL Postmaster: A System for Agent Collaboration and Information Dissemination.
+conf/agents/SchutW00:::Martijn Schut::Michael Wooldridge:::Intention reconsideration in complex environments.
+conf/agents/DragoniGS00:::Aldo Franco Dragoni::Paolo Giorgini::Luciano Serafini:::Updating mental states from informative communication.
+conf/agents/HeckmanR99:::Carey Heckman::Alex Roetter:::Designing Government Agents for Constitutional Compliance.
+conf/agents/BellmanL97:::Kirstie L. Bellman::Christopher Landauer:::A Note on Improving the Capabilities of Software Agents.
+conf/agents/HuW98:::Junling Hu::Michael P. Wellman:::Online Learning about Other Agents in a Dynamic Multiagent System.
+conf/agents/BiswasS99a:::Anish Biswas::Sandip Sen:::Learning to Model Behaviors from Boolean Responses.
+conf/agents/WuS99:::Shih-Hung Wu::Von-Wun Soo:::Game Theoretic Reasoning in Multi-Agent Coordination by Negotiation with a Trusted Third Party.
+conf/agents/CassandraCN00:::Anthony R. Cassandra::Damith Chandrasekara::Marian H. Nodine:::Capability-based agent matchmaking.
+conf/agents/Nagi00:::Khaled Nagi:::Scalability of a Transactional Infrastructure for Multi-Agent Systems.
+conf/agents/NohG01:::Sanguk Noh::Piotr J. Gmytrasiewicz:::Identifying the scope of modeling in multi-agent settings.
+conf/agents/Mateas98:::Michael Mateas:::Subjective Avators.
+conf/agents/Rhodes97:::Bradley J. Rhodes:::PHISH Nets: Planning Heuristically In Situated Hybrid Networks.
+conf/agents/PynadathTK00:::David V. Pynadath::Milind Tambe::Gal A. Kaminka:::Adaptive Infrastructures for Agent Integration.
+conf/agents/BillardM00:::Aude Billard::Maja J. Mataric:::A biologically inspired robotic model for learning by imitation.
+conf/agents/Chaib-draa97:::Brahim Chaib-draa:::Connection Between Micro and Macro Aspects of Agent Modeling.
+conf/agents/CoxCPD01:::Jeffrey S. Cox::Bradley J. Clement::Pradeep M. Pappachan::Edmund H. Durfee:::Integrating multiagent coordination with reactive plan execution.
+conf/agents/GutknechtF00a:::Olivier Gutknecht::Jacques Ferber:::The MADKIT Agent Platform Architecture.
+conf/agents/WenM99:::Wu Wen::Fumio Mizoguchi:::Analysis and Verification of Multi-Agent Interaction Protocols.
+conf/agents/BickmoreCCS98:::Timothy W. Bickmore::Linda K. Cook::Elizabeth F. Churchill::Joseph W. Sullivan:::Animated Autonomous Personal Representatives.
+conf/agents/YapN99:::Mathew Yap::Wee Keong Ng:::Are Life-Like Characteristics Useful for Autonomous Agents?
+conf/agents/ArdissonoBGP99:::Liliana Ardissono::C. Barbero::Anna Goy::Giovanna Petrone:::An Agent Architecture for Personalized Web Stores.
+conf/agents/EaswaranPP99:::Aneurin M. Easwaran::Jeremy Pitt::Stefan Poslad:::The Agent Service Brokering Problem as a Generalised Travelling Salesman Problem.
+conf/agents/XieRS01:::Rong Xie::Daniela Rus::Cliff Stein:::Scheduling multi-task multi-agent systems.
+conf/agents/ParunakBC97:::H. Van Dyke Parunak::Albert D. Baker::Steven J. Clark:::The AARIA Agent Architecture: An Example of Requirements-Driven Agent-Based System Design.
+conf/agents/GoncalvesGO99:::Luiz M. G. Gonçalves::Roderic A. Grupen::Antonio A. F. Oliveira:::Multi-Modal Stereognosis.
+conf/agents/Deters00:::Ralph Deters:::Developing and deploying a multi agent system.
+conf/agents/YeBHT01:::Yiming Ye::Stephen J. Boies::Paul Huang::John K. Tsotsos:::Smart distance and WWWaware: a multi-agent approach.
+conf/agents/ParunakB00:::H. Van Dyke Parunak::Sven Brueckner:::Ant-like missionaries and cannibals: synthetic pheromones for distributed motion control.
+conf/agents/KosakayaY01:::Juichi Kosakaya::Katsunori Yamaoka:::Cooperative multi-agent intelligent field terminals.
+conf/agents/BeslonBH98:::Guillaume Beslon::Frédérique Biennier::Béat Hirsbrunner:::Multi-Robot Path-Planning Based on Implicit Cooperation in a Robotic Swarm.
+conf/agents/WolpertWT99:::David Wolpert::Kevin R. Wheeler::Kagan Tumer:::General Principles of Learning-Based Multi-Agent Systems.
+conf/agents/DecugisF98:::Vincent Decugis::Jacques Ferber:::Action Selection in an Autonmous Agent with a Hierarchical Distributed Reactive Planning Architecture.
+conf/agents/Washington98:::Richard Washington:::Markov Tracking for Agent Coordination.
+conf/agents/DurfeeKK97:::Edmund H. Durfee::Patrick G. Kenny::Karl C. Kluge:::Integrated Premission Planning and Execution for Unmanned Ground Vehicles.
+conf/agents/Letia99:::Ioan Alfred Letia:::A TLA+ Specification for Agent Communication that Enables Proofs.
+conf/agents/NooteboomKJ00:::Bart Nooteboom::Tomas Klos::Renè Jorna:::Adaptive Trust and Co-operation: An Agent-Based Simulation Approach.
+conf/agents/WeberMJ00:::Stefan Weber::Maja J. Mataric::Odest Chadwicke Jenkins:::Experiments in imitation using perceptuo-motor primitives.
+conf/agents/BarnesW99:::David P. Barnes::Javan B. Wardle:::Robust Gait Generation for Hexapodal Robot Locomotion.
+conf/agents/RousseauH98:::Daniel Rousseau::Barbara Hayes-Roth:::A Social-Psychological Model for Synthetic Actors.
+conf/agents/RubinsteinDP00:::Marcelo G. Rubinstein::Otto Carlos Muniz Bandeira Duarte::Guy Pujolle:::Improving management performance by using multiple mobile agents.
+conf/agents/ShenLW00:::Wei-Min Shen::Yimin Lu::Peter M. Will:::Hormone-based control for self-reconfigurable robots.
+conf/agents/Schroeder99:::Michael Schroeder:::Using Singular Value Decomposition to Visualise Relations Within Multi-Agent Systems.
+conf/agents/Weippl01:::Edgar Weippl:::Building secure knowledge bases: combining Java agents and DBagents.
+conf/agents/MatsumotoF01:::Yasuo Matsumoto::Satoru Fujita:::An auction agent for bidding on combinations of items.
+conf/agents/SchweissMGT99:::Elsa Schweiss::Soraia Raupp Musse::Fabien Garat::Daniel Thalmann:::An Architecture to Guide Crowds Using a Rule-Based Behavior System.
+conf/agents/HasegawaNK97:::Takaaki Hasegawa::Yukiko I. Nakano::Tsuneaki Kato:::A Collaborative Dialogue Model Based on Interaction between Reactivity and Deliberation.
+conf/agents/AmandiP97:::Analía Amandi::Ana Price:::Towards Object-Oriented Agent Programming: The Brainstorm Meta-Level Architecture.
+conf/agents/ScerriR99:::Paul Scerri::Nancy E. Reed:::Adapting an Agent to a Similar Environment.
+conf/agents/LiuQTW97:::Jiming Liu::Hong Qin::Yuan Yan Tang::Y. T. Wu:::Adaptation and Learning in Animated Creatures.
+conf/agents/Chatterjee98:::Sandeep Chatterjee:::SANI: A Seamless and Non-Intrustive Framework and Agent for Creatiang Intelligent Interactive Homes.
+conf/agents/WooldridgeJK99:::Michael Wooldridge::Nicholas R. Jennings::David Kinny:::A Methodology for Agent-Oriented Analysis and Design.
+conf/agents/CestaDB97:::Amedeo Cesta::Daniela D'Aloisi::Rodolfo Brancaleoni:::Mixed-Initiative Agenda Management with Software Agents.
+conf/agents/BarnesGAC97:::David P. Barnes::Robert A. Ghanea-Hercock::Ruth Aylett::Alex M. Coddington:::Many Hands Make Light Work? An Investigation into Behaviourally Controlled Co-operant Autonomous Mobile Robots.
+conf/agents/BredinMIBKR00:::Jonathan Bredin::Rajiv T. Maheswaran::Çagri Imer::Tamer Basar::David Kotz::Daniela Rus:::A game-theoretic formulation of multi-agent resource allocation.
+conf/agents/ElioHS00:::Renee Elio::Afsaneh Haddadi::Ajit Singh:::Abstract task specifications for conversation policies.
+conf/agents/HuberH97:::Marcus J. Huber::Tedd Hadley:::Multiple Roles, Multiple Teams, Dynamic Environments: Autonomous Netrek Agents.
+conf/agents/CollinsBG00:::John Collins::Corey Bilot::Maria L. Gini:::Mixed-initiative decision support in agent-based automated contracting.
+conf/agents/GoldbergM99:::Dani Goldberg::Maja J. Mataric:::Coordinating Mobile Robot Group Behavior Using a Model of Interaction Dynamics.
+conf/agents/BazzanB01:::Ana L. C. Bazzan::Rafael H. Bordini:::A framework for the simulation of agents with emotions.
+conf/agents/Thorisson97:::Kristinn R. Thórisson:::Gandalf: An Embodied Humanoid Capable of Real-Time Multimodal Dialogue with People.
+conf/agtive/FischerKB99:::Ingrid Fischer::Manuel Koch::Michael R. Berthold:::Learning and Rewriting in Fuzzy Rule Graphs.
+conf/agtive/MinasK99:::Mark Minas::Oliver Köth:::Generating Diagram Editors with <i>DiaGen</i>.
+conf/agtive/Minas99:::Mark Minas:::Creating Semantic Representations of Diagrams.
+conf/agtive/NiereZ99:::Jörg Niere::Albert Zündorf:::Using FUJABA for the Development of Production Control Systems.
+conf/agtive/HoffmannLS99:::Christoph M. Hoffmann::Andrew Lomonosov::Meera Sitharam:::Planning Geometric Constraint Decomposition via Optimal Graph Transformations.
+conf/agtive/PrusinkiewiczHM99:::Przemyslaw Prusinkiewicz::Jim Hanan::Radomír Mech:::An L-System-Based Plant Modeling Language.
+conf/mitjsme/Pentland89:::Alex Pentland:::ThingWorld: A Multibody Simulation System with Low Computational Complexity.
+conf/mitjsme/EastmanK89:::Charles M. Eastman::Ali R. Kutay:::Transaction Management in Design Databases.
+conf/mitjsme/BondR89:::Alan H. Bond::Richard J. Ricci:::Cooperation in Aircraft Design.
+conf/mitjsme/ShimizuK89:::Ken Shimizu::Takeo Koyama:::An Object-Oriented Design Tool Toward CIM for Shipbuilding.
+conf/mitjsme/BrownCT89:::D. R. Brown::Mark R. Cutkosky::Jay M. Tenenbaum:::Next-Cut: A Second Generation Framework for Concurrent Engineering.
+conf/mitjsme/Fukuda89:::Shuichi Fukuda:::Coded Shape Representation and its Application to Mechnanical and Structural Design.
+conf/aifipp/BahrHMP92:::Ernst Bahr::Andreas Holzmann::Eduard Mehofer::Günter Pollak:::PAMELA-C++: Tight Integration of Rule-Based Features into an Object-Oriented Language.
+conf/alenex/BreimerGKM01:::Eric Breimer::Mark Goldberg::Brian Kolstad::Malik Magdon-Ismail:::Experimental Evaluation of the Height of a Random Set of Points in a d-Dimensional Cube.
+conf/alenex/PettieRS02:::Seth Pettie::Vijaya Ramachandran::Srinath Sridhar:::Experimental Evaluation of a New Shortest Path Algorithm.
+conf/alenex/BrandesSWW01:::Ulrik Brandes::Frank Schulz::Dorothea Wagner::Thomas Willhalm:::Travel Planning with Self-Made Maps.
+conf/alenex/Makinen01:::Veli Mäkinen:::Trade Off Between Compression and Search Times in Compact Suffix Array.
+conf/alenex/ManeewongvatanaM01:::Songrit Maneewongvatana::David M. Mount:::An Empirical Study of a New Approach to Nearest Neighbor Searching.
+conf/RelMiCS/JifengH98:::Jifeng He::C. A. R. Hoare:::Unifying theories of programming.
+conf/RelMiCS/Buszkowski01:::Wojciech Buszkowski:::Pregroups: Models and Grammars.
+conf/RelMiCS/Kolowska-Gawiejnowics98:::Miroslawa Kolowska-Gawiejnowics:::Relational semantics for Lambek calculus.
+conf/RelMiCS/YahiaOJ97:::Sadok Ben Yahia::Habib Ounalli::Ali Jaoua:::Dynamic fuzzy functional dependency.
+conf/RelMiCS/DemriO98:::Stéphane Demri::Ewa Orlowska:::Classes of modal frames definable by closure relational operations.
+conf/RelMiCS/AmmariM00:::Habib Ammari::Ali Mili:::Lattice Based Distances.
+conf/RelMiCS/Balbiani01:::Philippe Balbiani:::Emptiness Relations in Property Systems.
+conf/RelMiCS/Stefanescu97:::Gheorghe Stefanescu:::Axiomatizing Mixed Relations.
+conf/RelMiCS/DuntschOW00:::Ivo Düntsch::Ewa Orlowska::Hui Wang:::An Algebraic and Logical Approach to the Approximation of Regions.
+conf/RelMiCS/Rewitzky98:::Ingrid Rewitzky:::Duality and simulations.
+conf/RelMiCS/KawaharaO00:::Yasuo Kawahara::Hitomi Ohkuma:::Relational Aspects of Relational Database Dependencies.
+conf/RelMiCS/StebletsovaV97:::Vera Stebletsova::Yde Venema:::Axioms for Jonsson's Q-Algebras.
+conf/RelMiCS/BerghammerH01:::Rudolf Berghammer::Thorsten Hoffmann:::Calculating a Relational Program for Transitive Reductions of Strongly Connected Graphs.
+conf/RelMiCS/BerghammerK97:::Rudolf Berghammer::Burghard von Karger:::Computing Kernels in Bicromatic Directed Relations (Abstract).
+conf/aluacs/AndrekaJN88:::Hajnal Andréka::B. Jónsson::István Németi:::Relatively free relation algebras.
+conf/bcshci/Chen96:::Chaomei Chen:::Behavioural Patterns of Collaborative Writing with Hypertext - A State Transition Approach.
+conf/bcshci/ThimblebyL95:::Harold W. Thimbleby::Peter B. Ladkin:::A Proper Explanation When You Need One.
+conf/bcshci/Johnson95:::Chris Johnson:::Time and the Web: Representing and Reasoning about Temporal Properties of Interaction with Distributed Systems.
+conf/bcshci/Johnson97:::Chris Johnson:::The Impact of Time and Place on the Operation of Mobile Computing Devices.
+conf/bcshci/Dix88:::Alan J. Dix:::Abstract, Generic Models of Interactive Systems.
+conf/bcshci/Rogers88:::Yvonne Rogers:::User Requirements for Expert System Explanation: What, Why and When?.
+conf/bcshci/Carroll95:::John M. Carroll:::History as Tool and Application: The Journey from HCI'91.
+conf/bcshci/KeaneJ87:::Mark Keane::Peter Johnson:::Preliminary Analysis for Design.
+conf/bcshci/FindlayDKLK88:::John M. Findlay::Simon P. Davies::Robert Kentridge::Anthony J. Lambert::Justine Kelly:::Optimum Display Arrangement for Presenting Visual Reminders.
+conf/bcshci/FowlerMS87:::Chris J. H. Fowler::Linda A. Macaulay::S. Siripoksup:::An Evaluation of the Effectiveness of the Adaptive Interface Module (AIM) n Matching Dialogues to Users.
+conf/bcshci/MartinBW97:::David Martin::John Bowers::David Graham Wastell:::The Interactional Affordances of Technology: An Ethnography of Human-Computer Interaction in an Ambulance Control Centre.
+conf/bcshci/CatarciS95:::Tiziana Catarci::Giuseppe Santucci:::Are Visual Query Languages Easier to Use than Traditional Ones? An Experimental Proof.
+conf/bcshci/StorkML95:::Adam Stork::James Middlemass::John Long:::Applying a Structured Method for Usability Engineering to Domestic Energy Management User Requirements: A Successful Case-study.
+conf/bcshci/YoungS87:::Richard M. Young::Tony J. Simon:::Planning in the Context of Human-Computer Interaction.
+conf/bcshci/StevensonMH88:::R. J. Stevenson::K. I. Manktelow::M. J. Howard:::Knowledge Elicitation: Dissociating Conscious Reflections from Automatic Processes.
+conf/bcshci/ParisOB98:::Cécile Paris::Nadine Ozkan::Flor Bonifacio:::The Design of New Technology for Writing On-line Help.
+conf/bcshci/Simon88:::Tony J. Simon:::Analyzing the Scope of Cognitive Models in Human-Computer Interaction: A Trade-Off Approach.
+conf/bcshci/CaultonD97:::David A. Caulton::Ken Dye:::Do Users Always Benefit When User Interfaces Are Consistent?
+conf/bcshci/RauterbergFKBLM97:::Matthias Rauterberg::Morten Fjeld::Helmut Krueger::Martin Bichsel::Ulf Leonhardt::M. Meier:::BUILD-IT: A Computer Vision-based Interaction Technique for a Planning Tool.
+conf/bcshci/Fulton94:::David Fulton:::The Use of Visual Indexing as an Interview Support Technique.
+conf/bcshci/Shorrock87:::Brian Shorrock:::Patterned Systems Design - HCI in Commercial Data Processing.
+conf/bcshci/DowellSZ94:::John Dowell::Ian Salter::Solaleh Zekrullahi:::A Domain Analysis of Air Traffic Managment Work can be Used to Rationalise Interface Design Issues.
+conf/bcshci/BealeW94:::Russell Beale::Andrew Wood:::Agent-Based Interaction.
+conf/bcshci/TimmerL97:::Peter Timmer::John Long:::Separating User Knowledge of Domain and Device: A Framework.
+conf/antalg/EyckelhofS02:::Casper Joost Eyckelhof::Marko Snoek:::Ant Systems for a Dynamic TSP.
+conf/antalg/GarlickB02:::Ryan M. Garlick::Richard S. Barr:::Dynamic Wavelength Routing in WDM Networks via Ant Colony Optimization.
+conf/antalg/SahinF02:::Erol Sahin::Nigel R. Franks:::Simulation of Nest Assessment Behavior by Ant Scouts.
+conf/appinf/FuerleS03:::Thomas Fuerle::Erich Schikuta:::A Transparent Communication Layer for Heterogenous, Distributed Systems.
+conf/appinf/PengV03:::Chengyuan Peng::Petri Vuorimaa:::An Intelligent Architecture for Mobile Digital Television Applications.
+conf/appinf/HongKC03:::Jiman Hong::Sangsu Kim::Yookun Cho:::On the Choice of Checkpoint Interval.
+conf/appinf/KikuchiN03:::Makoto Kikuchi::Ichiro Nagasaka:::On the Three Forms of Non-deductive Inferences: Induction, Abduction, and Design.
+conf/appinf/TauW03:::Chih-Shing Tau::Tzone-I Wang:::An Alternative Decoding Algorithm for EVENODD Code in Raid Architectures.
+conf/appinf/PuAGSM03:::Jian Pu::M. Mostofa Akbar::Eric Gowland::Gholamali C. Shoja::Eric G. Manning:::SLA Admission Controller for Reliable MPLS Networks.
+conf/appinf/JiangF03:::Mingfei Jiang::Ada Wai-Chee Fu:::Efficient Accessibility Lookup for XML.
+conf/appinf/McFadyenC03:::Ron McFadyen::Yangjan Chen:::A DTD Complexity Metric.
+conf/appinf/Zhao03:::Yanjie Zhao:::Developing Pattern Implementation Knowledge for Reinforcing Software Design Patterns.
+conf/appinf/PancurCTV03:::Matjaz Pancur::Mojca Ciglaric::Matej Trampus::Tone Vidmar:::Comparison of Frameworks and Tools for Test-driven Development.
+conf/appinf/GewaliKB03:::Laxmi Gewali::Prashu Kodela::J. Bhadury:::Approximation Algorithm for Multi-Facility Location.
+conf/appinf/HerickoJRR03:::Marjan Hericko::Matjaz B. Juriè::Matevz Rostaher::Peter Repinc:::Applying Practices of Extreme Programming.
+conf/appinf/Cangussu03:::João W. Cangussu:::Software Modelling, Simulation, and Optimization Convergence Assessment of the Calibration Algorithm for the State Variable Model of the Software Test Process.
+conf/appinf/MonroyC03:::Raul Monroy::Maya Carrillo:::On Automating the Formulation of Security Goals under the Inductive Approach.
+conf/appinf/RobertsonL03:::Paul Robertson::Robert Laddaga:::An Agent Architecture for Information Fusion and its Application to Robust Face Identification.
+conf/appinf/Braham03:::Tayeb Ould Braham:::A Documentary View on Distributed Databases - Thanks to an XML Schema.
+conf/appinf/Nariman-zadehDA03:::N. Nariman-zadeh::A. Darvizeh::G. R. Ahmad-zadeh:::Modelling of Explosive Welding Process using GMDH-type Neural Networks and Genetic Algorithms.
+conf/approx/SrivastavW98:::Anand Srivastav::Katja Wolf:::Finding Dense Subgraphs with Semidefinite Programming.
+conf/approx/Rabani02:::Yuval Rabani:::Search and Classification of High Dimensional Data.
+conf/approx/Sviridenko98:::Maxim Sviridenko:::Best Possible Approximation Algorithm for MAX SAT with Cardinality Constraint.
+conf/approx/PolzinD00:::Tobias Polzin::Siavash Vahdati Daneshmand:::Primal-dual approaches to the Steiner problem.
+conf/approx/Charikar00:::Moses Charikar:::Greedy approximation algorithms for finding dense components in a graph.
+conf/approx/AwerbuchAR00:::Baruch Awerbuch::Yossi Azar::Oded Regev:::Maximizing job benefits on-line.
+conf/approx/GiaroJKM02:::Krzysztof Giaro::Robert Janczewski::Marek Kubale::Michal Malafiejski:::A 27/26-Approximation Algorithm for the Chromatic Sum Coloring of Bipartite Graphs.
+conf/approx/Kortsarz98:::Guy Kortsarz:::On the Hardness of Approximation Spanners.
+conf/berlin/Pearce90:::David Pearce:::Reasoning with Negative Information, II: Hard Negation, Strong Negation and Logic Programs.
+conf/aspdac/BickerstaffARWS98:::M. Bickerstaff::T. Arivoli::P. J. Ryan::Neil Weste::David J. Skellern:::A Low Power 50MHz FFT Processor with Cyclic Extension and Shaping Filter.
+conf/aspdac/LeupersBM98:::Rainer Leupers::Anupam Basu::Peter Marwedel:::Optimized Array Index Computation in DSP Programs.
+conf/aspdac/ParameswaranG98:::Sri Parameswaran::Hui Guo:::Power Reduction in Pipelines.
+conf/aspdac/IsshikiSOAK98:::Tsuyoshi Isshiki::Takenobu Shimizugashira::Akihisa Ohta::Imanuddin Amril::Hiroaki Kunieda:::FPGA for High-Performance Bit-Serial Pipeline Datapath.
+conf/aspdac/KomatsuIA98:::Satoshi Komatsu::Makoto Ikeda::Kunihiro Asada:::Low Power Micoprocessors for Comparative Study on Bus Architecture and Multiplexer Architecture.
+conf/aspdac/HamamotoAH98:::Takayuki Hamamoto::Kiyoharu Aizawa::Mitsutoshi Hatori:::Motion Adaptive Image Sensor.
+conf/aspdac/LiCCL98:::Simon Cimin Li::Reggie Chien::Jerry Chien::Kaung-Long Lin:::A Simple Architecture of Low Voltage GHz BiCMOS Four-Quadrant Analogue Multiplier using Complementary Voltage Follower.
+conf/asplos/ThekkathE94:::Radhika Thekkath::Susan J. Eggers:::The Effectiveness of Multiple Hardware Contexts.
+conf/asplos/Wahbe92:::Robert Wahbe:::Efficient Data Breakpoints.
+conf/asplos/MaekawaSI82:::Mamoru Maekawa::Ken Sakamura::Chiaki Ishikawa:::Firmware Structure and Architectural Support for Monitors, Vertical Migration and User Microprogramming.
+conf/asplos/KimY02:::Dongkeun Kim::Donald Yeung:::Design and evaluation of compiler algorithms for pre-execution.
+conf/asplos/MagenheimerPPZ87:::Daniel J. Magenheimer::Liz Peters::Karl Pettis::Dan Zuras:::Integer Multiplication and Division on the HP Precision Architecture.
+conf/asplos/CmelikKDK91:::Robert F. Cmelik::Shing I. Kong::David R. Ditzel::Edmund J. Kelly:::An Analysis of SPARC and MIPS Instruction Set Utilization on the SPEC Benchmarks.
+conf/asplos/ChandraLR94:::Satish Chandra::James R. Larus::Anne Rogers:::Where is Time Spent in Message-Passing and Shared-Memory Programs?
+conf/asplos/EnglerP94:::Dawson R. Engler::Todd A. Proebsting:::DCG: An Efficient, Retargetable Dynamic Code Generation System.
+conf/asplos/Harbison82:::Samuel P. Harbison:::An Architectural Alternative to Optimizing Compilers.
+conf/asplos/KohlerMC02:::Eddie Kohler::Robert Morris::Benjie Chen:::Programming language optimizations for modular router configurations.
+conf/asplos/WeberG89:::Wolf-Dietrich Weber::Anoop Gupta:::Analysis of Cache Invalidation Patterns in Multiprocessors.
+conf/asplos/ArgadeCT94:::Pramod V. Argade::David K. Charles::Craig Taylor:::A Technique for Monitoring Run-Time Dynamics of an Operating System and a Microprocessor Executing User Applications.
+conf/asplos/MachanickSP98:::Philip Machanick::Pierre Salverda::Lance Pompe:::Hardware-Software Trade-Offs in a Direct Rambus Implementation of the RAMpage Memory Hierarchy.
+conf/asplos/GibsonNABCGHRRZ98:::Garth A. Gibson::David Nagle::Khalil Amiri::Jeff Butler::Fay W. Chang::Howard Gobioff::Charles Hardin::Erik Riedel::David Rochberg::Jim Zelenka:::A Cost-Effective, High-Bandwidth Storage Architecture.
+conf/asplos/SohiV89:::Gurindar S. Sohi::Sriram Vajapeyam:::Tradeoffs in Instruction Format Design for Horizontal Architectures.
+conf/asplos/KoldingerCE92:::Eric J. Koldinger::Jeffrey S. Chase::Susan J. Eggers:::Architectural Support for Single Address Space Operating Systems.
+conf/asplos/HenryJ92:::Dana S. Henry::Christopher F. Joerg:::A Tightly-Coupled Processor-Network Interface.
+conf/asplos/Temam98:::Olivier Temam:::Investigating Optimal Local Memory Performance.
+conf/asplos/HillLRW92:::Mark D. Hill::James R. Larus::Steven K. Renhardt::David A. Wood:::Cooperative Shared Memory: Software and Hardware Support for Scalable Multiprocesors.
+conf/asplos/ZhaiCSM02:::Antonia Zhai::Christopher B. Colohan::J. Gregory Steffan::Todd C. Mowry:::Compiler optimization of scalar value communication between speculative threads.
+conf/asplos/AndrewsS92:::Kristy Andrews::Duane Sand:::Migrating a CISC Computer Family onto RISC via Object Code Translation.
+conf/asplos/WitchelCA02:::Emmett Witchel::Josh Cates::Krste Asanovic:::Mondrian memory protection.
+conf/assets/Pentland98:::Alex Pentland:::Smart Rooms, Desks, and Clothes.
+conf/assets/BrewsterRK96:::Stephen A. Brewster::Veli-Pekka Räty::Atte Kortekangas:::Enhancing Scanning Input with Non-Speech Sounds.
+conf/assets/MynattBBMM98:::Elizabeth D. Mynatt::Douglas Blattner::Meera Blattner::Blair MacIntyre::Jennifer Mankoff:::Augmenting Home and Office Environments.
+conf/assets/Kurze98:::Martin Kurze:::TGuide: A Guidance System for Tactile Image Exploration.
+conf/assets/KeatesR98:::Simeon Keates::Peter Robinson:::The Use of Gestures in Multimodal Input.
+conf/assets/AndersonS96:::Tim Anderson::Clare Smith:::``Composability'': Widening Participation in Music Making for People with Disabilities via Music Software and Controller Solutions.
+conf/biosig/HertleinFN03:::Heinz Hertlein::Robert Frischholz::Elmar Nöth:::Pass Phrase Based Speaker Recognition for Authentication.
+conf/biosig/Thalheim03:::Lisa Thalheim:::A Simple Matching Algorithm for Fingerprint Minutiae Datasets in Accordance with DIN V 66400.
+conf/avmfss/AggarwalBCG89:::Sudhir Aggarwal::Daniel Barbará::Walter Cunto::M. R. Garey:::The Complexity of Collapsing Reachability Graphs.
+conf/cardis/DaemenR98a:::Joan Daemen::Vincent Rijmen:::The Block Cipher Rijndael.
+conf/cardis/CastellaDHP00:::Jordi Castellà::Josep Domingo-Ferrer::Jordi Herrera-Joancomartí::Jordi Planes:::A Performance Comparison of Java Cards for Micropayment Implementation.
+conf/cardis/Boudot00:::Fabrice Boudot:::Partial revelation of certified identity.
+conf/cardis/DaemenR98:::Joan Daemen::Vincent Rijmen:::The Block Cipher BKSQ.
+conf/cardis/CaelliCW98:::William J. Caelli::Vincent Cordonnier::Anthony Watson:::A Data Driven Model for Designing Applications with Smart Cards.

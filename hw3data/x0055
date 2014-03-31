@@ -1,0 +1,200 @@
+conf/grid/FurmentoMMNFD01:::Nathalie Furmento::Anthony Mayer::Stephen McGough::Steven Newhouse::Tony Field::John Darlington:::An Integrated Grid Environment for Component Applications.
+conf/grid/VraalsenAMR01:::Fredrik Vraalsen::Ruth A. Aydt::Celso L. Mendes::Daniel A. Reed:::Performance Contracts: Predicting and Monitoring Grid Application Behavior.
+conf/grid/FaermanBCB02:::Marcio Faerman::Adam Birnbaum::Henri Casanova::Francine Berman:::Resource Allocation for Steerable Parallel Parameter Searches.
+conf/grid/HeymannSLL00:::Elisa Heymann::Miquel A. Senar::Emilio Luque::Miron Livny:::Adaptive Scheduling for Master-Worker Applications on the Computational Grid.
+conf/hhci/WallH00:::Steven A. Wall::William Harwin:::Interaction of Visual and Haptic Information in Simulated Environments: Texture Perception.
+conf/hhci/StevensJ00:::Brett Stevens::Jennifer Jerrams-Smith:::The Sense of Object-Presence with Projection-Augmented Models.
+conf/hhci/ChallisE00:::Ben P. Challis::Alistair D. N. Edwards:::Design Principles for Tactile Interaction.
+conf/grpa/LiegeoisM91:::Alain Liégeois::Christophe Moignard:::Optimal Motion Planning of a Mobile Robot on a Triangulated Terrain Model.
+conf/grpa/ChasseryM91:::Jean-Marc Chassery::Annick Montanvert:::Geometrical Representation of Shapes and Objects for Visual Perception.
+conf/hipc/BricconiTNF00:::Giovanni Bricconi::Emma Tracanella::Elisabetta Di Nitto::Alfonso Fuggetta:::Analyzing the Behavior of Event Dispatching Systems through Simulation.
+conf/hipc/JeongHJK00:::Chang-Sung Jeong::Sun-Chul Hwang::Woo Young Jung::Sun-Mi Kim:::Parallel Congruent Regions on a Mesh-Connected Computer.
+conf/hipc/Al-OmariSM01:::R. Al-Omari::Arun K. Somani::G. Manimaran:::An Adaptive Scheme for Fault-Tolerant Scheduling of Soft Real-Time Tasks in Multiprocessor Systems.
+conf/hipc/PaulCC99:::Kolin Paul::D. Roy Choudhury::P. Pal Chaudhuri:::Cellular Automata Based Transform Coding for Image Compression.
+conf/hipc/PaulYD02:::Indrani Paul::Sudhakar Yalamanchili::José Duato:::Algorithms for Switch-Scheduling in the Multimedia Router for LANs.
+conf/hipc/HighamK00:::Lisa Higham::Jalal Kawash:::Memory Consistency and Process Coordination for SPARC Multiprocessors.
+conf/hipc/MayPIM99:::David May::Dan Page::James Irwin::Henk L. Muller:::Microcaches.
+conf/hipc/ShiT99:::Weisong Shi::Zhimin Tang:::Affinity-Based Self Scheduing for Software Shared Memory Systems.
+conf/hipc/ChagamDKRS00:::Anjaneya R. Chagam::Partha Dasgupta::Rajkumar Khandelwal::Shashi P. Reddy::Shantanu Sardesai:::Experiments with the CHIME Parallel Processing System.
+conf/hipc/Bhalla02:::Subhash Bhalla:::Asynchronous Transaction Processing for Updates by Client: With Elimination of Wait-for State.
+conf/hipc/HadjidoukasPP02:::Panagiotis E. Hadjidoukas::Eleftherios D. Polychronopoulos::Theodore S. Papatheodorou:::Runtime Support for Multigrain and Multiparadigm Parallelism.
+conf/hipc/SrinivasanSKHS02:::Srividya Srinivasan::Vijay Subramani::Rajkumar Kettimuthu::Praveen Holenarsipur::P. Sadayappan:::Effective Selection of Partition Sizes for Moldable Scheduling of Parallel Jobs.
+conf/hipc/Vajapeyam99:::Sriram Vajapeyam:::Whither Indian Computer Science R &amp; D?
+conf/hipc/OlariuPZ99:::Stephan Olariu::Maria Cristina Pinotti::Si-Qing Zheng:::An Optimal Hardware-Algorithm for Selection Using a Fixed-Size Parallel Classifier Device.
+conf/hipc/KarlssonLB02:::Sven Karlsson::Sung-Woo Lee::Mats Brorsson:::A Fully Compliant OpenMP Implementationon Software Distributed Shared Memory.
+conf/hipc/SharmaMRA99:::Manuj Sharma::Anupam Mandal::B. Shankar Rao::G. Athithan:::VME Bus-Based Memory Channel Architecture for High Performance Computing.
+conf/hipc/DjomehriBWY00:::M. Jahed Djomehri::Rupak Biswas::Rob F. Van der Wijngaart::Maurice Yarrow:::Parallel and Distributed Computational Fluid Dynamics: Experimental Results and Challenges.
+conf/hipc/LiuXL99:::Xicheng Liu::Yangzhao Xiang::Timothy J. Li:::Counter-Based Routing Policies.
+conf/hipc/LinZQZ99:::Jin Lin::Zhaoqing Zhang::Ruliang Qiao::Ningning Zhu:::An Interprocedural Framework for the Data and Loops Partitioning in the SIMD Machines.
+conf/hipc/Majumdar99:::Shikharesh Majumdar:::Scheduling Strategies for Controlling Resource Contention on Multiprocessor Systems.
+conf/hipc/Kosaraju01:::S. Rao Kosaraju:::Mesh Algorithms for Multiplication and Division.
+conf/hipc/Sibeyn99:::Jop F. Sibeyn:::Ultimate Parallel List Ranking?
+conf/hipc/SrinivasanS02:::S. H. Srinivasan::Pranay Singh:::Active File Systems for Data Mining and Multimedia.
+conf/hipc/RavindraS02:::D. V. Ravindra::Y. N. Srikant:::Improved Preprocessing Methods for Modulo Scheduling Algorithms.
+conf/hipc/DeckerK99:::Thomas Decker::Werner Krandick:::Parallel Real Root Isolation Using the Descartes Method.
+conf/hipc/GopinathN99:::K. Gopinath::K. S. Nandakumar:::Combining Conditional Constant Propagation and Interprocedural Alias Analysis.
+conf/hipc/BertossiM00:::Alan A. Bertossi::Alessandro Mei:::Optimal Segmented Scan and Simulation of Reconfigurable Architectures on Fixed Connection Networks.
+conf/hipc/PatraLL99:::Abani K. Patra::Jingping Long::Andras Laszloffy:::Efficient Parallel Adaptive Finite Element Methods Using Self-Scheduling Data and Computations.
+conf/hips/BenknerB01:::Siegfried Benkner::Thomas Brandes:::High-Level Data Mapping for Clusters of SMPs.
+conf/hips/DreierZU98:::Bernd Dreier::Markus Zahn::Theo Ungerer:::Parallel and Distributed Programming with Pthreads and Rthreads.
+conf/hips/HubandM01:::Simon Huband::Chris McDonald:::DEPICT: A Topology-Based Debugger for MPI Programs.
+conf/hips/WeissKH98:::Christian Weiß::Jürgen Knopp::Hermann Hellwagner:::Implementing Automatic Coordination on Networks of Workstations.
+conf/iaai/HaradaIOK90:::Minoru Harada::Zenichi Igarashi::Satoshi Okuide::Yasuhiro Kitagawa:::Development of Expert Systems Supported Construction Planning for Shield Tunneling Method.
+conf/iaai/Evertsz91:::Rick Evertsz:::The Development of SYLLABUS--An Interactive, Constraint-Based Scheduler for Schools and Colleges.
+conf/iaai/WrightWBVPM93:::Jon R. Wright::Elia Weixelbaum::Karen E. Brown::Gregg T. Vesonder::Stephen R. Palmer::Jay I. Berman::Harry H. Moore:::A Knowledge-Based Configurator that Supports Sales, Engineering, and Manufacturing at AT&amp;T Network Systems.
+conf/iaai/SpringerBW91:::Stephen Springer::Paul Buta::Thomas C. Wolf:::Automatic Letter Composition for Customer Service.
+conf/iaai/Atkinson90:::Gerald L. Atkinson:::Technology Transfer Utilizing Automated Knowledge Acquisition Tools.
+conf/iaai/NguyenCL93:::Trung Nguyen::Mary Czerwinski::Dan Lee:::COMPAQ QuickSource: Providing the Consumer with the Power of Artificial Intelligence.
+conf/iaai/AnandK92:::Tej Anand::Gary S. Kahn:::Making Sense of Gigabytes: A System for Knowledge-Based Market Analysis.
+conf/iaai/HeinzeGJBWLMO01:::Clinton Heinze::Simon Goss::Torgny Josefsson::Kerry Bennett::Sam Waugh::Ian J. Lloyd::Graeme Murray::Johnathan Oldfield:::Interchanging Agents and Humans in Military Simulation.
+conf/iaai/ShellBREGB92:::Peter Shell::Gonzalo Quiroga Barro::Juan Antonio Hernandez Rubio::Eduardo Encinas::Jose Garcia::Javier Berbiela:::Cresus: An Integrated Expert System for Cash Management.
+conf/iadt/SentissiP98:::Toufik Sentissi::E. Pichat:::Translation Methodology Based on Metamodel.
+conf/iadt/JuricS98:::Radmila Juric::Il-Yeol Song:::The Assessment of Object Oriented Modelling Elements of the UML 1.1.
+conf/iadt/Anfindsen98:::Ole J. Anfindsen:::Conditional Conflict Serializability - an Application-Oriented Correctness Criterion.
+conf/iadt/Kindler98:::Ekkart Kindler:::The Interplay of Transaction Models and Memory Models.
+conf/iadt/DignumH98:::Frank Dignum::Geert-Jan Houben:::Integrating Information Systems - Linking Global Business Goals to Local Database Applications.
+conf/iadt/Martens98:::Holger Märtens:::Skew-Insensitive Join Processing in Shared-Disk Database Systems.
+conf/iata/DaviesE98:::Guy Davies::Love Ekenberg:::Agent Metaphors for Analysing Telematic Services.
+conf/iata/BarbuceanuGM99:::Mihai Barbuceanu::Tom Gray::Serge Mankowski:::Providing Telecommunication Services through Multi-agent Negotiation.
+conf/iata/Abu-HakimaILZ98:::Suhayya Abu-Hakima::Roger Impey::Ramiro Liscano::Amir Zeid:::Multi-Agent Testbed and an Agent Launch Tool for Diverse Seamless Personal Information Networking Applications.
+conf/iata/BsufkaHS99:::Karsten Bsufka::Stefan Holst::Torge Schmidt:::Realization of an Agent-Based Certificate Authority and Key Distribution.
+conf/iccS/FiedlerH01:::Armin Fiedler::Helmut Horacek:::Argumentation in Explanations to Logical Problems.
+conf/iccS/KimCKH02:::Chinchol Kim::Byounguk Choi::Keecheon Kim::Sunyoung Han:::The Differentiated Call Processing Based on the Simple Priority-Scheduling Algorithm in SIP6.
+conf/iccS/Cook01:::David M. Cook:::Computation in Undergraduate Physics: The Lawrence Approach.
+conf/iccS/AlbertoNRV01:::Pedro Alberto::Fernando Nogueira::Humberto Rocha::Luís N. Vicente:::Pattern Search Methods for Use-Provided Points.
+conf/iccS/WooKHKC02:::B. K. Woo::D. S. Kim::S. S. Hong::K. H. Kim::T. M. Chung:::Interval Weighted Load Balancing Method for Multiple Application Gateway Firewalls.
+conf/iccS/SigalasT02:::Michael P. Sigalas::Vasilios I. Teberekidis:::Density Functional Studies of Halonium Ions of Ethylene and Cyclopentene.
+conf/iccS/PoschF02:::Harald A. Posch::Ch. Forster:::Lyapunov Instability and Collective Tangent Space Dynamics of Fluids.
+conf/iccS/HarterK01:::Derek Harter::Robert Kozma:::Task Environments for the Dynamic Development of Behavior.
+conf/iccS/Moreira01:::José E. Moreira:::Blue Gene: A Massively Parallel System.
+conf/iccS/Pan02:::Yi Pan:::Teaching Parallel Programming Using Both High-Level and Low-Level Languages.
+conf/iccS/Curley02:::Martin G. Curley:::Peer-to-Peer Computing Enabled Collaboration.
+conf/iccS/RonsseCB01:::Michiel Ronsse::Mark Christiaens::Koenraad De Bosschere:::Cyclic Debugging Using Execution Replay.
+conf/iccS/Beletskyy02:::Volodymyr Beletskyy:::A Correction Method for Parallel Loop Execution.
+conf/iccS/Blobel02:::Bernd Blobel:::Architecture of Secure Portable and Interoperable Electronic Health Records.
+conf/iccS/FalgoutY02:::Robert D. Falgout::Ulrike Meier Yang:::hypre: A Library of High Performance Preconditioners.
+conf/iccS/SchintkeSR01:::Florian Schintke::Jens Simon::Alexander Reinefeld:::A Cache Simulator for Shared Memory Systems.
+conf/iccS/BubakMZ03:::Marian Bubak::Maciej Malawski::Katarzyna Zajac:::Architecture of the Grid for Interactive Applications.
+conf/iccS/HoheiselD03:::Andreas Hoheisel::Uwe Der:::An XML-Based Framework for Loosely Coupled Applications on Grid Environments.
+conf/iccS/DOrazioS03:::Annunziata D'Orazio::Sauro Succi:::Boundary Conditions for Thermal Lattice Boltzmann Simulations.
+conf/iccS/AbubakarB02:::Aria Abubakar::Peter M. van den Berg:::Full Scale Nonlinear Electromagnetic Inversion for Biological Objects.
+conf/iccS/ShishloHD02:::Andrei Shishlo::Jeff Holmes::Viatcheslav Danilov:::Parallel Algorithms for Collective Processes in High Intensity Rings.
+conf/iccS/LangtangenM02:::Hans Petter Langtangen::Kent-Andre Mardal:::A Software Framework for Mixed Finite Element Programming.
+conf/iccS/Schurer01:::Rudolf Schürer:::Parallel High-Dimensional Integration: Quasi-Monte Carlo versus Adaptive Cubature Rules.
+conf/iccS/SaxK02:::Alexander F. Sax::Thomas Krüger:::Methodological Problems in the Calculations on Amorphous Hydrogenated Silicon, a-Si: H.
+conf/iccS/FattaRU02:::Guiseppe Di Fatta::Guiseppe Lo Re::Alfonso Urso:::A Fuzzy Approach for the Network Congestion Problem.
+conf/iccS/ChungK02:::Ji Yung Chung::Sungsoo Kim:::Efficient Memory Page Replacement on Web Server Clusters.
+conf/iccS/Coufal02:::David Coufal:::Incremental Structure Learning of Three-Layered Gaussian RBF Networks.
+conf/iccS/GabrielKLMR03:::Edgar Gabriel::Rainer Keller::Peggy Lindner::Matthias S. Müller::Michael Resch:::Software Development in the Grid: The DAMIEN Tool-Set.
+conf/iccS/CinarA01:::Ahmet Çinar::Ahmet Arslan:::Fuzzy Object Blending in 2-D.
+conf/iccS/SchuttSR03:::Thorsten Schütt::Florian Schintke::Alexander Reinefeld:::Efficient Synchronization of Replicated Data in Distributed Systems.
+conf/iccS/ForlaniF01:::Christian Forlani::Giancarlo Ferrigno:::Automatic Real-Time XRII Local Distortion Correction Method for Digital Linear Tomography.
+conf/iccS/ProdanP02:::Augustin Prodan::Radu Prodan:::A Collection of Java Class Libraries for Stochastic Modeling and Simulation.
+conf/iccS/JeltschN02:::Rolf Jeltsch::Kaspar Nipp:::CSE Program at ETH Zurich: Are We Doing the Right Thing?
+conf/iccS/DudkiewiczMNKMPSDC03:::Malgorzata Dudkiewicz::Pawel Mackiewicz::Aleksandra Nowicka::Maria Kowalczuk::Dorota Mackiewicz::Natalia Polak::Kamila Smolarczyk::Miroslaw R. Dudek::Stanislaw Cebrat:::Properties of the Genetic Code under Directional, Asymmetric Mutational Pressure.
+conf/iccS/NieterC02:::Chet Nieter::John R. Cary:::VORPAL as a Tool for the Study of Laser Pulse Propagation in LWFA.
+conf/iccS/CoxKR02:::Dennis Cox::Petr Kloucek::Daniel R. Reynolds:::The Computational Modeling of Crystalline Materials Using a Stochastic Variational Principle.
+conf/iccS/BadenS01:::Scott B. Baden::Daniel Shalit:::Performance Tradeoffs in Multi-tier Formulation of a Finite Difference Method.
+conf/iccS/SlootH01:::Peter M. A. Sloot::Alfons G. Hoekstra:::Cellular Automata as a Mesoscopic Approach to Model and Simulate Complex Systems.
+conf/iccS/HeimbachHG02:::Patrick Heimbach::Chris Hill::Ralf Giering:::Automatic Generation of Efficient Adjoint Code for a Parallel Navier-Stokes Solver.
+conf/iccS/Ferri-RamirezHR02:::C. Ferri-Ramírez::José Hernández-Orallo::M. José Ramírez-Quintana:::Induction of Decision Multi-trees Using Levin Search.
+conf/iccS/BalisBFW02:::Bartosz Balis::Marian Bubak::Wlodzimierz Funika::Roland Wismüller:::A Concept of Portable Monitoring of Multithreaded Programs.
+conf/iccS/Roanes-MaciasR02:::Eugenio Roanes-Macías::Eugenio Roanes-Lozano:::Geometric Determination of the Spheres Which Are Tangent to Four Given Ones.
+conf/iccS/SanseverinoM02:::Claudio M. Rocco Sanseverino::José Ali Moreno:::Reliability Evaluation Using Monte Carlo Simulation and Support Vector Machine.
+conf/iccS/OttogalliLOSKV01:::F.-G. Ottogalli::Cyril Labbé::V. Olive::Benhur de Oliveira Stein::Jacques Chassin de Kergommeaux::Jean-Marc Vincent:::Visualisation of Distributed Applications for Performance Debugging.
+conf/iccS/KimCK02:::Deok-Soo Kim::Youngsong Cho::Donguk Kim:::The Compression of the Normal Vectors of 3D Mesh Models Using Clustering.
+conf/iccS/MontenegroERMG03:::Rafael Montenegro::José María Escobar::Eduardo Rodríguez::Gustavo Montero::José María González-Yuste:::Improved Objective Functions for Tetrahedral Mesh Optimisation.
+conf/iccS/NguyenTK02:::Giang T. Nguyen::Viet D. Tran::M. Kotocova:::TOPAS - Parallel Programming Environment for Distributed Computing.
+conf/iccS/HoekstraHAS03:::Alfons G. Hoekstra::Jos van 't Hoff::Abdel Monim M. Artoli::Peter M. A. Sloot:::Lattice BGK Simulations of Unsteady Flow in a 2D Elastic Tube.
+conf/iccS/CastellanoCF02:::Giovanna Castellano::Ciro Castiello::Anna Maria Fanelli:::KERNEL: A Matlab Toolbox for Knowledge Extraction and Refinement by NEural Learning.
+conf/iccS/GangAZ02:::Xu Jun Gang::Wang Hong An::Dai Guo Zhong:::The Software Architecture of a Problem Solving Environment for Enterprise Computing.
+conf/iccS/YaziciEA03:::Ali Yazici::Tanil Ergenç::Irfan Altas:::Romberg Integration: A Symbolic Approach with Mathematica.
+conf/iccS/BandaS02:::Mapundi K. Banda::Mohammed Seaïd:::A Class of the Relaxation Schemes for Two-Dimensional Euler Systems of Gas Dynamics.
+conf/iccS/Puig-PeyGI03:::Jaime Puig-Pey::Akemi Gálvez::Andrés Iglesias:::A New Differential Approach for Parametric-Implicit Surface Intersection.
+conf/iccS/Essert-Villard02:::Caroline Essert-Villard:::Helping the Designer in Solution Selection: Applications in CAD.
+conf/iccS/GavrilovaR02:::M. L. Gavrilova::Jon G. Rokne:::Collision Detection Optimization in a Multi-particle System.
+conf/iccS/BogdanskiKMW03:::Maciej Bogdanski::Michal Kosiedowski::Cezary Mazurek::Malgorzata Wolniewicz:::Grid Service Provider: How to Improve Flexibility of Grid User Interfaces?
+conf/iccS/Barber01:::Michael J. Barber:::Neural Belief Propagation without Multiplication.
+conf/iccS/ChristakisCPCBAB02:::Nicholas Christakis::Pierre Chapelle::Mayur K. Patel::Mark Cross::Ian Bridle::Hadi Abou-Chakra::John Baxter:::Utilising Computational Fluid Dynamics (CFD) for the Modelling of Granular Material in Large-Scale Engineering Processes.
+conf/iccS/BistarelliBR03:::Stefano Bistarelli::Giandomenico Boffi::Fabio Rossi:::Computer Algebra for Fingerprint Matching.
+conf/iccS/BoctorSCKY01:::Emad Boctor::A. Saad::Dar-Jen Chang::Kevin Kamel::Adel M. Youssef:::PC-Based System for Calibration, Reconstruction, Processing, and Visualization of 3D Ultrasound Data Based on a Magnetic-Field Position and Orientation Sensing System.
+conf/iccS/MengLE01:::Sha Meng::Xin Kai Li::Gwynne Evans:::A Spectral Element Method for Oldroyd-B Fluid in a Contraction Channel.
+conf/iccS/Mirkovic01:::Dragan Mirkovic:::Automatic Performance Tuning in the UHFFT Library.
+conf/iccS/MarsdenCL02:::R. H. Marsden::T. N. Croft::C.-H. Lai:::Domain Decomposition Using a 2-Level Correction Scheme.
+conf/iccS/DmitrievaKS02:::Ludmila Dmitrieva::Yuri Kuperin::Irina Soroka:::Neural Network Prediction of Short-Term Dynamics of Futures on Deutsche Mark, Libor, and S&amp;P500.
+conf/iccS/AkbarMSK01:::M. Mostofa Akbar::Eric G. Manning::Gholamali C. Shoja::Shahadat Khan:::Heuristic Solutions for the Multiple-Choice Multi-dimension Knapsack Problem.
+conf/iccS/CraigCBNP01:::David Craig::Steven Carroll::Fabian Breg::Dimitrios S. Nikolopoulos::Constantine D. Polychronopoulos:::Improving Java Server Performance with Interruptlets.
+conf/iccS/Carenini01:::Giuseppe Carenini:::GEA: A Complete, Modular System for Generating Evaluative Arguments.
+conf/iccS/UngerK01:::Stefan Unger::Andrew Komornicki:::Computational Biology: IT Challenges and Opportunities.
+conf/iccS/ArtoliKHHS03:::Abdel Monim M. Artoli::Drona Kandhai::H. C. J. Hoefsloot::Alfons G. Hoekstra::Peter M. A. Sloot:::Lattice Boltzmann, a Robust and Accurate Solver for Interactive Computational Hemodynamics.
+conf/iccS/JoppichM01:::Wolfgang Joppich::Hermann Mierendorff:::Performance Prediction for Parallel Local Weather Forecast Programs.
+conf/iccS/MarirOZ02:::Farhi Marir::Karim Ouazzane::Kamel Zerzour:::OSCONVR: An Interactive Virtual Reality Interface to an Object-Oriented Database System for Construction Architectural Design.
+conf/iccS/SchaapKJWGR02:::Jorrit A. Schaap::Patrick J. H. de Koning::J. P. Janssen::J. J. M. Westenberg::Rob J. van der Geest::Johan H. C. Reiber:::3D Quantification Visualization of Vascular Structures in Magnetic Resonance Angiographic Images.
+conf/iccS/JacobSFTA01:::Robert L. Jacob::Chad Schafer::Ian T. Foster::Michael Tobis::John Anderson:::Computational Design and Performance of the Fast Ocean Atmosphere Model, Version One.
+conf/iccS/GoodyerB02:::Christopher Goodyer::Martin Berzins:::Eclipse and Ellipse: PSEs for EHL Solutions Using IRIS Explorer and SCIRun.
+conf/iccS/MohrV02:::Marcus Mohr::Bart Vanrumste:::Comparing the Performance of Solvers for a Bioelectric Field Problem.
+conf/iccS/FilbetLS02:::Francis Filbet::J.-L. Lemaire::E. Sonnendrücker:::Direct Axisymmetric Vlasov Simulations of Space Charge Dominated Beams.
+conf/iccS/Moore02:::Shirley V. Moore:::A Comparison of Counting and Sampling Modes of Using Performance Monitoring Hardware.
+conf/iccS/JurczykG02:::Tomasz Jurczyk::Barbara Glut:::Domain Decomposition Coupled with Delaunay Mesh Generation.
+conf/iccS/AnderssonGLN02:::Mattias Andersson::Joachim Gudmundsson::Christos Levcopoulos::Giri Narasimhan:::Balanced Partition of Minimum Spanning Trees.
+conf/iccS/PenenkoB01:::Vladimir Penenko::Alexander Baklanov:::Methods of Sensitivity Theory and Inverse Modeling for Estimation of Source Parameters and Risk/Vulnerability Areas.
+conf/iccS/MarirZOX02:::Farhi Marir::Kamel Zerzour::Karim Ouazzane::Yong Xue:::A Conceptual Model for Surveillance Video Content and Event-Based Indexing and Retrieval.
+conf/iccS/GallagherD01:::Ray Gallagher::Tony Doran:::Bayesian Parameter Estimation: A Monte Carlo Approach.
+conf/iccS/DvorakTM02:::Mike Dvorak::John A. Taylor::Sheri A. Mickelson:::Designing a Flexible Grid Enabled Scientific Modeling Interface.
+conf/iccS/Port-AgelQ01:::Fernando Port-Agel::Qiao Qin:::A Scale-Dependent Dynamic Model for Scalar Transport in the Atmospheric Boundary Layer.
+conf/iccS/YeoSWB01:::Ai Cheo Yeo::Kate A. Smith::Robert J. Willis::Malcolm Brooks:::Modelling the Effect of Premium Changes on Motor Insurance Customer Retention Rates Using Neural Networks.
+conf/iccS/PerezFL02:::Mariano Perez::Marcos Fernandez::Miguel Lozano:::Adding Synthetic Detail to Natural Terrain Using a Wavelet Approach.
+conf/iccS/IzworskiSL03:::Antoni Izworski::Slawomir Skowronski::Jozef B. Lewoc:::Simulation and Modelling of Computer Networks.
+conf/iccS/JanickiIG03:::Aleksander Janicki::Adam Izydorczyk::Przemyslaw Gradalski:::Computer Simulation of Stochastic Models with SDE-Solver Software Package.
+conf/iccS/Leszczynski03:::Jacek Leszczynski:::Computer Simulations of Multiparticle-Contacts Dynamics.
+conf/icai/KimKKC02:::Do-Hyeon Kim::Min-Kyeong Kang::Seong-Woo Kim::Eui-Yong Cha:::A Study on the Performance Improvement of the Hierarchical Neural Network by the Fitness Selection.
+conf/icai/MoradoS02:::Raymundo Morado::Leah Savion:::Rationality, Logic and Heurisitcs.
+conf/icai/Leloup02:::Benoît Leloup:::Dynamic Pricing with Local Interactions: Logistic Priors and Agent Technology.
+conf/icai/FletcherBW02:::Martyn Fletcher::Robert W. Brennan::James Wang:::Designing Holonic Real-time Coordination domains Using JACK Agents.
+conf/icai/Fan02:::Xinghua Fan:::A Fuzzy Reasoning Algorithm in Multi-value Causality Diagram.
+conf/icai/Sug03:::Hyontai Sug:::Comparison of Multidimensional Association Rules with Decision Trees for Large Database.
+conf/icai/SharmaR03:::Rupali Sharma::S. Raman:::A Phrase-Based Text Representation Approach for Effective Retrieval of Web Documents.
+conf/icai/CespedesG03:::M. L. M. Céspedes::D. Galar:::Detecting Attention Through Face Recognition.
+conf/icai/MatsonD03:::Eric T. Matson::Scott A. DeLoach:::Using Dynamic Capability Evaluation to Organize a Team of Cooperative, Autonomous Robots.
+conf/icai/ChoiY03:::Sook-Young Choi::Hyung Jeong Yang:::A Web-Based Tutoring System Using Fuzzy Concept for Adaptive Learning.
+conf/icai/McDonnelGL02:::John McDonnel::Nick Gizzi::Sushil J. Louis:::Strike Force Asset Allocation using Genetic Search.
+conf/icai/WojnickiJ03:::Igor Wojnicki::Cezary Z. Janikow:::Extending Data Processing Capabilities of Relational Database Management Systems.
+conf/icai/CastilloCM03:::Oscar Castillo::Luz Elena Cortez::Patricia Melin:::Plant Monitoring and Diagnostics Using Fuzzy Logic.
+conf/icai/HolmesH03:::Dawn E. Holmes::Rick C. Hou:::Extending Bayesian Networks to Decision Support Systems where the Prior Distribution is Incomplete: A Software Prototype.
+conf/icai/BerrarDD03:::Daniel Berrar::C. Stephen Downes::Werner Dubitzky:::A Probabilistic Neural Network for Gene Selection and Classification of Microarray Data.
+conf/icai/Sinha03:::R. M. K. Sinha:::Translating Opposing Word-Pairs with Same Initial Character.
+conf/icai/JardziochH03:::Andrzej Jardzioch::Jerzy Honczarenko:::Application of Fuzzy Logic for Dynamic Scheduling in Intelligent Manufacturing System.
+conf/icai/AkamaMIB02:::Kiyoshi Akama::Hiroshi Mabuchi::T. Ishikawa::E. Boyd:::A Basic Framework for Infinite Computation.
+conf/icai/KwonL02:::Ohjae Kwon::Chulhee Lee:::Handwritten Digit Recognition Using Decision Boundaries of Neural Networks.
+conf/icai/SilvestreP03:::Ricardo Sousa Silvestre::Tarcisio H. C. Pequeno:::A Logical Treatment of Scientific Anomalies or Artificial Intelligence Meets Philosophy of Science.
+conf/icai/Kalenka03:::Susanne Kalenka:::Towards Bridging the Gap between the Social and the Knowledge Level.
+conf/icai/SanieeFR03:::M. Saniee::M. Fathy::A. Rahmani:::Developing a Novel Adaptive Cruise Control System Using Fuzzy Logic.
+conf/icai/BoydAIK02:::E. Boyd::Kiyoshi Akama::T. Ishikawa::Hidekatsu Koike:::Dynamic Interaction of Syntactic and Semantic Analysis by Equivalent Transformation.
+conf/icai/CastilloMPN02:::Oscar Castillo::Patricia Melin::Ricardo Palma::Edgar Noriega:::Parallel Processing of Genetic Algorithms and Neural Networks for Control.
+conf/icai/Graham03:::Jonathan M. Graham:::Security Constraint Allocation in Distributed Object Databases.
+conf/icai/PinoPGM03:::Raúl Pino::José Parreño::Nazario García::María Mitre:::Forecasting the Electricity Market of Spain Using Box-Jenkins and Neural Networks.
+conf/icai/JiCPWH02:::Se-Jin Ji::Un-Don Choi::Jong-Hee Park::Young-Wook Woo::Won-Taek Hwang:::A Virtual SCG-based Model for Event Development.
+conf/icai/AkhterMH02:::Fahim Akhter::Zakaria Maamar::David Hobbs:::Agent-based Approach for Building Trusted e-commerce Systems.
+conf/icai/SchmidtC02:::Vincent A. Schmidt::C. L. Philip Chen:::Extracting Rules From the Aggregate feedforward Neural Network.
+conf/icai/EricksonKL02:::Damon Erickson::Charels Killmer::Alicia Lechner:::Solving the Brachistochrone Problem with Genetic Programming.
+conf/iccc/Bahr86:::Knut A. Bahr:::Interworking Between X.25, X.21, and ISDN Devices.
+conf/iccc/DeussingE86:::Peter Deussing::Bernd Eckhardt:::The Distributed 1PSS Architecture: A High Reliable Switch for High-Performance Packet Switching Networks.
+conf/iccc/SaitoHNMJI86:::Tadao Saito::Hiromichi Hashizume::Amane Nakajima::Akio Matsubara::Yusheng Ji::Hiroshi Inose:::An Experimental Network Operating System to Provide Network Transparent Computing Environment.
+conf/iccc/Palme86:::Jacob Palme:::Data Bases in Computer Messaging Systems.
+conf/iccc/RaggioP88:::Nora Raggio::Walter von Pattay:::An enhanced definition of open communication or the need for international harmonization of network and user interface.
+conf/iccc/CamardaG88:::Pietro Camarda::Mario Gerla:::Synthesis of reliable double loop topologies.
+conf/iccc/BenedettiMPM88:::Massimo Benedetti::Umberto Mazzei::Antonella Pelaggi::R. Mazzilli:::Applications of knowledge-based systems in telecommunications network design and network management.
+conf/iccc/Morard86:::Jean-Louis Morard:::The Evolution of Private Network Architectures and its Effects on TYMNET'S Business Strategies.
+conf/iccc/Otto88:::Jens Otto:::Videotex interworking: Gateways to the world of telematics.
+conf/iccc/JaffeS88:::Jeffrey M. Jaffe::Moshe Sidi:::Distributed deadlock resolution.
+conf/iccc/TakahashiYK88:::Osamu Takahashi::Shizuo Yoshitake::Shigekazu Kawano:::Experience with a remote conformance testing system.
+conf/iccc/Rozenblit88:::Moshe Rozenblit:::A synchronous virtual circuit network architecture for integrated services.
+conf/iccc/Zimmermann76:::Hubert Zimmermann:::High Level Protocols Standardization: Technical and Political Issues.
+conf/iccc/RieuMV88:::Christine Rieu::Jean-Jacques Mercier::M. Vialatte:::A tool for specification and semi-automatic implementation.
+conf/iccc/WongH86:::Johnny Wong::H. R. Hwa:::Q Queueing Model for Evaluating 95 Percentile of s-Delay in ISDN.
+conf/iccc/Freestone86:::David Freestone:::OSI-Architecture - A Mathematical Framework.
+conf/iccc/BuxKK88:::Werner Bux::Parviz Kermani::Wolfgang Kleinöder:::Performance of an improved data link control protocol.
+conf/iccc/YangZX86:::Xue-liang Yang::Yao-lin Zhang::Jun-ying Xing:::Distributed Computer Systems vs Local Area Networks.
+conf/iccc/Touillet88:::Dominique Touillet:::X.400 the key for new networking applications the example of ATLAS 400.
+conf/iccc/Albers88:::Raymond F. Albers:::Toward broadband network services.
+conf/iccc/Joyce76:::C. C. Joyce Jr.:::Should National Policy encourage an Information Services Industry?

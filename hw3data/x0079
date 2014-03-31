@@ -1,0 +1,200 @@
+conf/lpar/TourK92:::Thierry Boy de la Tour::Christoph Kreitz:::Building Proofs by Analogy via the Curry-Horward Isomorphism.
+conf/lpar/GabbrielliLT92:::Maurizio Gabbrielli::Giorgio Levi::Daniele Turi:::A Two Steps Semantics for Logic Programs with Negation.
+conf/mfcs/GasarchHH90:::William I. Gasarch::Lane A. Hemachandra::Albrecht Hoene:::On Checking Versus Evaluation of Multiple Queries.
+conf/mfcs/Ly00:::Olivier Ly:::Automatic Graphs and Graph <i>D</i>0<i>L</i>-Systems.
+conf/mfcs/Best80:::Eike Best:::Proof of a Concurrent Program Finding Euler Paths.
+conf/mfcs/HromkovicS97:::Juraj Hromkovic::Georg Schnitger:::Communication Complexity and Sequential Compuation.
+conf/mfcs/CaiC93:::Liming Cai::Jianer Chen:::On the Amount of Nondeterminism and the Power of Verifying (Extended Abstract).
+conf/mfcs/Buda76:::A. O. Buda:::Cannonizing Reducibility Method in the Theory of Program Schemata.
+conf/mfcs/Dahl74:::Ole-Johan Dahl:::An Approach to Correctness Proofs of Semicoroutines.
+conf/mfcs/WagnerS74:::Klaus W. Wagner::Ludwig Staiger:::Finite Automata Acceptation of Infinite Sequences.
+conf/mfcs/LiskiewiczR97:::Maciej Liskiewicz::Rüdiger Reischuk:::Computational Limitations of Stochastic Turing Machines and Arthur-Merlin Games with Small Space Bounds.
+conf/mfcs/DeganoLS80:::Pierpaolo Degano::A. Lomanto::Franco Sirovich:::On Finding the Optimal Access Path to Resolve a Relational Data Base Query.
+conf/mfcs/Bergmann76:::Eberhard Bergmann:::On the Termination of Simple Computer Programs.
+conf/mfcs/Barth78:::Gerhard Barth:::Mastering Contextsensitivity in Programming Languages.
+conf/mfcs/Stetsenko89:::Vladimir Stetsenko:::One More Method For Proving Lower Bounds on the Formula Complexity of Boolean Functions.
+conf/mfcs/GodskesenL95:::Jens Chr. Godskesen::Kim Guldstrand Larsen:::Synthesizing Distinguishing Formulae for Real Time Systems (Extended Abstract).
+conf/mfcs/Mossakowski02:::Till Mossakowski:::Comorphism-Based Grothendieck Logics.
+conf/mfcs/Ras74:::Zbigniew W. Ras:::Classification of Programs of a SPC.
+conf/mfcs/MannaP91:::Zohar Manna::Amir Pnueli:::On the Faithfulness of Formal Models.
+conf/mfcs/AmbainisBL98:::Andris Ambainis::David A. Mix Barrington::Huong LeThanh:::On Counting AC<sup>0</sup> Circuits with Negative Constants.
+conf/mfcs/Hoyer01:::Peter Høyer:::Introduction to Recent Quantum Algorithms.
+conf/mfcs/JanssenB77:::T. M. V. Janssen::Peter van Emde Boas:::The Expressive Power of Intensional Logic in the Semantics of Programming Languages.
+conf/mfcs/Zak95:::Stanislav Zák:::A Superpolynomial Lower Bound for (1, +k(n))-Branching Programs.
+conf/mfcs/Kelemen76:::Jozef Kelemen:::Heuristic Representation of State-Space by Finite Automata.
+conf/mfcs/Kann95:::Viggo Kann:::Strong Lower Bounds on the Approximability of some NPO PB-Complete Maximization Problems.
+conf/mfcs/Karhumaki02:::Juhani Karhumäki:::Applications of Finite Automata.
+conf/mfcs/Wedde81:::Horst Wedde:::A Starvation-Free Solution of the Dining Philosopher's Problem by Use of Interaction Systems.
+conf/mfcs/HromkovicJM90:::Juraj Hromkovic::Claus-Dieter Jeschke::Burkhard Monien:::Optimal Algorithms for Dissemination of Information in Some Interconnection Networks (Extended Abstract).
+conf/mfcs/Glabbeek93:::Rob J. van Glabbeek:::A Complete Axiomatization for Branching Bisimulation Congruence of Finite-State Behaviours.
+conf/mfcs/BloomE94:::Stephen L. Bloom::Zoltán Ésik:::Solving Polynomial Fixed Point Equations.
+conf/mfcs/Alberts90:::Maris Alberts:::Interrogative Complexity of omega-Languages' Recognition.
+conf/mfcs/ComynW79:::Gérard Comyn::G. Werner:::Computable Data Types.
+conf/mfcs/CarpiL00:::Arturo Carpi::Aldo de Luca:::Periodic-Like Words.
+conf/mfcs/KarpinskiH90:::Marek Karpinski::Friedhelm Meyer auf der Heide:::On the Complexity of Genuinely Polynomial Computation.
+conf/mfcs/KralKV01:::Daniel Král::Jan Kratochvíl::Heinz-Jürgen Voss:::Complexity Note on Mixed Hypergraphs.
+conf/mfcs/Mayordomo92:::Elvira Mayordomo:::Almost Every Set in Exponential Time is P-Bi-Immune.
+conf/mfcs/Treinen93:::Ralf Treinen:::Feature Constraints with First-Class Features.
+conf/mfcs/SalomaaWY94:::Kai Salomaa::Derick Wood::Sheng Yu:::Complexity of E0L Structural Equivalence.
+conf/mfcs/Flajolet86:::Philippe Flajolet:::The Evolution of Two Stacks in Bounded Space and Random Walks in a Triangle.
+conf/mfcs/GasieniecKKP96:::Leszek Gasieniec::Evangelos Kranakis::Danny Krizanc::Andrzej Pelc:::Minimizing Congestion of Layouts for ATM Networks with Faulty Links.
+conf/mfcs/Cerny84:::Anton Cerný:::On Generalized Words of Thue-Morse.
+conf/mfcs/Geidmanis90:::Dainis Geidmanis:::On Possibilities of One-Way Synchronized and Alternating Automata.
+conf/mfcs/Staiger81:::Ludwig Staiger:::Complexity and Entropy.
+conf/mfcs/LatteuxT90:::Michel Latteux::Erick Timmerman:::Rational omega-Transductions.
+conf/mfcs/Irlik78:::Jacek Irlik:::Transforming Recursive Equations to Algorithms.
+conf/mfcs/CostaSSE92:::José Félix Costa::Amílcar Sernadas::Cristina Sernadas::Hans-Dieter Ehrich:::Object Interaction.
+conf/mfcs/Wong80:::C. K. Wong:::On Some Discrete Optimization Problems in Mass Storage Systems.
+conf/mfcs/ValiantS81:::Leslie G. Valiant::Sven Skyum:::Fast Parallel Computation of Polynomials Using Few Processes.
+conf/mfcs/Jaromczyk81:::Jerzy W. Jaromczyk:::An Extension of Rabin's Complete Proof Concept.
+conf/mfcs/Genrich75:::Hartmann J. Genrich:::Extended Simple Regular Expressions.
+conf/mfcs/JanssensR80:::Dirk Janssens::Grzegorz Rozenberg:::Node-Label Controllel Graph Grammars.
+conf/mfcs/BergstraBTW81:::Jan A. Bergstra::Manfred Broy::J. V. Tucker::Martin Wirsing:::On the Power of Algebraic Specifications.
+conf/mfcs/WagnerTW78:::Eric G. Wagner::James W. Thatcher::Jesse B. Wright:::Programming Languages as Mathematical Objects.
+conf/mfcs/GenrichT76:::Hartmann J. Genrich::Gerda Thieler-Mevissen:::The Calculus of Facts.
+conf/mfcs/GoldsmithOR98:::Judy Goldsmith::Mitsunori Ogihara::Jörg Rothe:::Tally NP Sets and Easy Census Functions.
+conf/mfcs/HemaspaandraR98:::Lane A. Hemaspaandra::Jörg Rothe:::A Second Step Towards Circuit Complexity-Theoretic Analogs of Rice's Theorem.
+conf/mfcs/CaludeV89:::Cristian Calude::Dragos Vaida:::Ehrenfeucht Test Set Theorem and Hilbert Basis Theorem: A Constructive Glimpse.
+conf/mfcs/Sokolowski81:::Stefan Sokolowski:::Axioms for the Term-Wise Correctness of Programs.
+conf/mfcs/EhrigK76:::Hartmut Ehrig::Hans-Jörg Kreowski:::Parallelism of Manipulations in Multidimensional Information Structures.
+conf/mfcs/Lescanne91:::Pierre Lescanne:::Rewrite Orderings and Termination of Rewrite Systems.
+conf/mfcs/Olderog89:::Ernst-Rüdiger Olderog:::Correctness of Concurrent Processes.
+conf/mfcs/AgarwalM92:::Pankaj K. Agarwal::Jirí Matousek:::On Range Searching with Semialgebraic Sets.
+conf/mfcs/GiarratanaGM76:::V. Giarratana::F. Gimona::Ugo Montanari:::Observability Concepts in Abstract Data Type Specifications.
+conf/mfcs/HanselKM91:::Georges Hansel::Daniel Krob::Christian Michaux:::Stochastic Automata and Length Distributions of Rational Languages.
+conf/mfcs/Leszczylowski74a:::Jacek Leszczylowski:::Mathematical Model of Programs with Dynamic Allocation of Variables.
+conf/mfcs/Kramosil86:::Ivan Kramosil:::On Some Types of Pseudo-Random Sequences.
+conf/mfcs/KarhumakiK84:::Juhani Karhumäki::H. C. M. Kleijn:::On the Equivalence of Compositions of Morphisms and Inverse Morphisms on Regular Languages.
+conf/mfcs/Goerdt90:::Andreas Goerdt:::Unrestricted Resolution versus N-Resolution.
+conf/mfcs/DiekertM96:::Volker Diekert::Anca Muscholl:::Code Problems on Traces.
+conf/mfcs/Jukna88:::Stasys Jukna:::Two Lower Bounds for Circuits over the Basis (&amp;, V, -).
+conf/mfcs/Janicki76:::Ryszard Janicki:::Vectors of Coroutines.
+conf/mfcs/Richomme94:::Gwénaël Richomme:::Some Trace Monoids Where Both the Star Problem and the Finite Power Property Problem are Decidable.
+conf/mfcs/Kreczmar76:::Antoni Kreczmar:::On Memory Requirements of Strassen's Algorithms.
+conf/mfcs/DemetrescuI00:::Camil Demetrescu::Giuseppe F. Italiano:::What Do We Learn from Experimental Algorithmics?
+conf/mfcs/JousselinM89:::C. Jousselin::J.-P. Moskowitz:::Memory and Algebra.
+conf/mfcs/EpsteinF02:::Leah Epstein::Lene M. Favrholdt:::Optimal Non-preemptive Semi-online Scheduling on Two Related Machines.
+conf/mfcs/GibbonsAH96:::Alan Gibbons::Martyn Amos::David Hodgson:::Models of DNA Computation.
+conf/mfcs/Kozen90:::Dexter Kozen:::On Kleene Algebras and Closed Semirings.
+conf/mfcs/LoyerSS99:::Yann Loyer::Nicolas Spyratos::Daniel Stamate:::Computing and Comparing Semantics of Programs in Four-Valued Logics.
+conf/mfcs/MonienS88:::Burkhard Monien::Ivan Hal Sudborough:::Comparing Interconnection Networks.
+conf/mfcs/Leung92:::Hing Leung:::On Finite Automata with Limited Nondeterminism.
+conf/mfcs/KralD75:::Jaroslav Král::Jirí Demner:::Parsing as a Subtask of Compiling.
+conf/mfcs/LopezN98:::Luis-Miguel Lopez::Philippe Narbel:::D0L-Systems and Surface Automorphisms.
+conf/mfcs/Sakarovitch76:::Jacques Sakarovitch:::An Algebraic Framework for the Study of the Syntactic Monoids Application to the Group Languages.
+conf/mfcs/HartmanisR89:::Juris Hartmanis::Desh Ranjan:::Space Bounded Computations: Review And New Separation Results.
+conf/mfcs/Lukaszewicz78:::Leon Lukaszewicz:::On Functional Grammars.
+conf/mfcs/Regnier89:::Mireille Régnier:::Knuth-Morris-Pratt Algorithm: An Analysis.
+conf/mfcs/Petermann89:::Uwe Petermann:::An Extended Herbrand Theorem for First-Order Theories with Equality Interpreted in Partial Algebras.
+conf/mfcs/GregusovaK79:::Ludmila Gregusová::Ivan Korec:::Small Universal Minsky Machines.
+conf/mfcs/WeihrauchZ98:::Klaus Weihrauch::Xizhong Zheng:::A Finite Hierarchy of the Recursively Enumerable Real Numbers.
+conf/mfcs/Kuich98:::Werner Kuich:::Gaußian Elimination and a Characterization of Algebraic Power Series.
+conf/mfcs/Crestin74:::J. P. Crestin:::Ultralinear Expressions.
+conf/mfcs/Elgot77:::Calvin C. Elgot:::Finite Automaton from a Flowchart Scheme Point of View.
+conf/mfcs/Meinel89:::Christoph Meinel:::Switching Graphs and Their Complexity.
+conf/mfcs/ErshovI77:::Andrei P. Ershov::V. E. Itkin:::Correctness of Mixed Computation in Algol-Like Programs.
+conf/mfcs/Perrin95:::Dominique Perrin:::Symbolic Dynamics and Finite Automata.
+conf/mfcs/AndrekaNS81:::Hajnal Andréka::István Németi::Ildikó Sain:::A Characterization of Floyd-Provable Programs.
+conf/mfcs/HolzerM00:::Markus Holzer::Pierre McKenzie:::Alternating and Empty Alternating Auxiliary Stack Automata.
+conf/mfcs/Wabenhorst96:::Axel Wabenhorst:::On Fairness in Terminating and Reactive Programs.
+conf/mfcs/Kucera84:::Ludek Kucera:::Finding a Maximum Flow in /S, T/-Planar Network in Linear Expected Time.
+conf/mfcs/StepankovaH73:::Olga Stepánková::Ivan M. Havel:::Some Results Concerning the Situation Calculus.
+conf/mfcs/Hegedus94:::Tibor Hegedüs:::Combinatorial Results on the Complexity of Teaching and Learning.
+conf/mfcs/EhrigKMP80:::Hartmut Ehrig::Hans-Jörg Kreowski::Bernd Mahr::Peter Padawitz:::Compound Algebraic Implementations: An Approach to Stepwise Refinement of Software Systems.
+conf/mfcs/DurisM01:::Pavol Duris::Ján Manuch:::On the Computational Complexity of Infinite Words.
+conf/mfcs/Ibarra86:::Oscar H. Ibarra:::Systolic Arrays: Characterizations and Complexity.
+conf/mfcs/BiedlCCDDFW00:::Therese C. Biedl::Eowyn Cenek::Timothy M. Chan::Erik D. Demaine::Martin L. Demaine::Rudolf Fleischer::Ming-wei Wang:::Balanced <i>k</i>-Colorings.
+conf/mfcs/BarringtonMMTT00:::David A. Mix Barrington::Pierre McKenzie::Cristopher Moore::Pascal Tesson::Denis Thérien:::Equation Satisfiability and Program Satisfiability for Finite Monoids.
+conf/mfcs/Lipski74:::Witold Lipski Jr.:::Combinatorial Aspects of Information Storage and Retrieval.
+conf/mfcs/ArnoldN80:::André Arnold::Maurice Nivat:::Controlling Behaviours of Systems: Some Basic Concepts and some Applications.
+conf/mfcs/KranakisKL95:::Evangelos Kranakis::Danny Krizanc::Flaminia L. Luccio:::String Recognition on Anonymous Rings.
+conf/mfcs/DobkinL76:::David P. Dobkin::Richard J. Lipton:::A Lower Bound of ½n² on Linear Search Programs for the Knapsack Problem.
+conf/mfcs/Slusarek89:::Maciej Slusarek:::A Coloring Algorithm for Interval Graphs.
+conf/mfcs/JokinenU91:::Petteri Jokinen::Esko Ukkonen:::Two Algorithms for Approximate String Matching in Static Texts.
+conf/mfcs/Wechler74:::Wolfgang Wechler:::R-Fuzzy Automata with a Time-Variant Structure.
+conf/mfcs/PreilowskiDW92:::W. Preilowski::Elias Dahlhaus::Gerd Wechsung:::New Parallel Algorithms for Convex Hull and Triangulation in 3-Dimensional Space.
+conf/mfcs/SannellaT96:::Donald Sannella::Andrzej Tarlecki:::Mind the Gap! Abstract Versus Concrete Models of Specifications.
+conf/mfcs/IbarraR93:::Louis Ibarra::Dana S. Richards:::Efficient Parallel Graph Algorithms Based on Open Ear Decomposition.
+conf/mfcs/InverardiZ94:::Paola Inverardi::Marisa Venturini Zilli:::Rational Rewriting.
+conf/mfcs/Frougny99:::Christiane Frougny:::On-Line Addition in Real Base.
+conf/mfcs/DAtriMS88:::Alessandro D'Atri::Marina Moscarini::Antonio Sassano:::The Steiner Tree Problem and Homogeneous Sets.
+conf/mfcs/Ausiello77:::Giorgio Ausiello:::On the Structure and Properties of NP-Complete Problems and Their Associated Optimization Problems.
+conf/mfcs/PevznerL94:::Pavel A. Pevzner::Robert J. Lipshutz:::Towards DNA Sequencing Chips.
+conf/mfcs/Zucca96:::Elena Zucca:::From Static to Dynamic Abstract Data-Types.
+conf/mfcs/Suraj80:::Zbigniew Suraj:::A Resource Applocation Problem.
+conf/mfcs/WagnerWGT76:::Eric G. Wagner::Jesse B. Wright::Joseph A. Goguen::James W. Thatcher:::Some Fundamentals of Order-Algebraic Semantics.
+conf/mfcs/Wiedermann92:::Juraj Wiedermann:::Weak Parallel Machines: a New Class of Physically Feasible Parallel Machine Models.
+conf/mfcs/BernardinelloP97:::Luca Bernardinello::Lucia Pomello:::A Category of Transition Systems and Its Relations with Orthomodular Posets.
+conf/mfcs/Prusinkiewicz76:::P. Prusinkiewicz:::Error Detection Using Regular Languages.
+conf/mfcs/MooreTT01:::Cristopher Moore::Pascal Tesson::Denis Thérien:::Satisfiability of Systems of Equations over Finite Monoids.
+conf/mfcs/Sieber94:::Kurt Sieber:::Full Abstraction for the Second Order Subset of an Algol-Like Language.
+conf/mfcs/GinsburgM76:::Seymour Ginsburg::Otto Mayer:::On Strict Interpretations of Grammar Forms.
+conf/mfcs/Meznik75:::Ivan Mezník:::On Some Lattice-Theoretic Properties of Generable Languages.
+conf/mfcs/LautenbachW76:::Kurt Lautenbach::Horst Wedde:::Generating Control Mechanisms by Restrictions.
+conf/mfcs/Kwasowiec74:::W. Kwasowiec:::Set-Theoretic Properties of Programs in Stored Program Computers.
+conf/mfcs/Kowalczyk84:::Wojciech Kowalczyk:::Some Connections between Representability of Complexity Classes and the Power of Formal Systems of Reasoning.
+conf/mfcs/Toran90:::Jacobo Torán:::Counting the Number of Solutions.
+conf/mfcs/DiksHR89:::Krzysztof Diks::Torben Hagerup::Wojciech Rytter:::Optimal Parallel Algorithms For The Recognition And Colouring Outerplanar Graphs (Extended Abstract).
+conf/mfcs/Ershov81:::Andrei P. Ershov:::The Transformational Machine: Theme and Variations.
+conf/mfcs/FrancezHR78:::Nissim Francez::C. A. R. Hoare::Willem P. de Roever:::Semantics of Nondeterminism, Concurrency and Communication (Extended Abstract).
+conf/mfcs/Grigoriev78:::Dima Grigoriev:::Multiplicative Complexity of a Pair of Bilinear Forms and of the Polynomial Multiplication.
+conf/mfcs/GiniG75:::Giuseppina C. Gini::Maria L. Gini:::Conniver Programs by Logical Point of View.
+conf/mfcs/Klasing94:::Ralf Klasing:::The Relationship Between Gossiping in Vertex-Disjoint Paths Mode and Bisection Width.
+conf/mfcs/HennessyP80:::Matthew Hennessy::Gordon D. Plotkin:::A Term Model for CCS.
+conf/mfcs/BerstelB00:::Jean Berstel::Luc Boasson:::XML Grammars.
+conf/mfcs/BerstelS86:::Jean Berstel::Jacques Sakarovitch:::Recent Results in the Theory of Rational Sets.
+conf/mfcs/AbadiM95:::Martín Abadi::Stephan Merz:::An Abstract Account of Composition.
+conf/mfcs/Havel74:::Ivan M. Havel:::Finite Branching Automata: Automata Theory Motivated by Problem Solving.
+conf/mfcs/Havel75:::Ivan M. Havel:::Nondterministically Recognizable Sets of Languages.
+conf/mfcs/GroultLM02:::Richard Groult::Martine Léonard::Laurent Mouchard:::Evolutive Tandem Repeats Using Hamming Distance.
+conf/mfcs/MontanariS91:::Ugo Montanari::Vladimiro Sassone:::CCS Dynamic Bisimulation is Progressing.
+conf/mfcs/Heinemann97:::Bernhard Heinemann:::A Topological Generalization of Propositional Linear Time Temporal Logic.
+conf/mfcs/Tarlecki84:::Andrzej Tarlecki:::Free Constructions in Algebraic Institutions.
+conf/mfcs/KacewiczW77:::Boleslaw Kacewicz::Henryk Wozniakowski:::A Survey of Recent Problems and Results in Analytic Computational Complexity.
+conf/mfcs/Poigne90:::Axel Poigné:::Typed Horn Logic.
+conf/mfcs/Henke77:::Friedrich W. von Henke:::Formal Transformations and the Development of Programs.
+conf/mfcs/EpsteinIS02:::Leah Epstein::Csanád Imreh::Rob van Stee:::More on Weighted Servers or FIFO is Better than LRU.
+conf/mfcs/HoffmannS80:::Berthold Hoffmann::Ilse-R. Schiedecke:::A Mathematical Approach to Multi-Pass Parsing.
+conf/mfcs/Geffert86:::Viliam Geffert:::Grammars with Context Dependency Restricted to Synchronization.
+conf/mfcs/HenriksenMKT00:::Jesper G. Henriksen::Madhavan Mukund::K. Narayan Kumar::P. S. Thiagarajan:::Regular Collections of Message Sequence Charts.
+conf/mfcs/Becvar74:::Jirí Becvár:::Sequential Functions and Generalized Moore and Mealy Automata.
+conf/mfcs/Sipser84:::Michael Sipser:::A Topological View of Some Problems in Complexity Theory.
+conf/meta/Harmelen88:::Frank van Harmelen:::A Classification of Meta-level Architectures.
+conf/meta/Bonatti92:::Piero A. Bonatti:::Model Theoretic Semantics for Demo.
+conf/meta/Voda88:::Paul J. Voda:::The Logical Reconstruction of Cuts as One Solution Operators.
+conf/meta/TraffP92:::Jesper Larsson Träff::Steven David Prestwich:::Meta-Programming for Reordering Literals in Deductive Databases.
+conf/lpss/Dahl92:::Deborah A. Dahl:::PUNIT - Natural Language Interfaces.
+conf/lpss/Fox92:::John Fox:::Logic Engineering and Clinical Dilemmas.
+conf/lpss/Tsur92:::Shalom Tsur:::A (Gentle) Introduction to Deductive Databases.
+conf/lpss/Plumer92:::Lutz Plümer:::Expert Systems in Mining.
+conf/lpss/Chiopris92:::Carlo Chiopris:::The SECReTS Banking Expert System from Phase 1 to Phase 2.
+conf/mfps/Gray87:::John W. Gray:::A Categorical Treatment of Polymorphic Operations.
+conf/mfps/Rutten91:::Jan J. M. M. Rutten:::Nonwellfounded Sets and Programming Language Semantics.
+conf/mfps/Abramsky89:::Samson Abramsky:::A Generalized Kahn Principle for Abstract Asynchronous Networks.
+conf/mfps/Bradley87:::Laurette Bradley:::A Treatment of Languages with Stages of Evaluation.
+conf/mfps/AdamekH85:::Jirí Adámek::Horst Herrlich:::Cartesian Closed Categories, Quasitopoi and Topological Universes.
+conf/mfps/Doberkat87:::Ernst-Erich Doberkat:::Topological Completeness in an Ideal Model for Polymorphic Types.
+conf/mfps/Rishe85:::Naphtali Rishe:::On Denotational Semantics of Data Bases.
+conf/mfps/Mercouroff91:::Nicolas Mercouroff:::An Algorithm for Analyzing Communicating Processes.
+conf/mfps/CardelliM89:::Luca Cardelli::John C. Mitchell:::Operations on Records.
+conf/mfps/HerrlichH85:::Horst Herrlich::Miroslav Husek:::Galois Connections.
+conf/mfps/Smith85:::Jonathan D. H. Smith:::Modal Theory, Partial Orders, and Digital Geometry.
+conf/mfps/KamimuraT85:::Tsutomu Kamimura::Adrian Tang:::Retracts of SEP Objects.
+conf/mfps/Stark89:::Eugene W. Stark:::Connections between a Concrete and an Abstract Model of Concurrent Systems.
+conf/mfps/Mislove85:::Michael W. Mislove:::Detecting Local Finite Breadth in Continuous Lattices and Semilattices.
+conf/mfps/Mislove87:::Michael W. Mislove:::On the Smyth Power Domain.
+conf/mfps/JonesSS87:::Neil D. Jones::Peter Sestoft::Harald Søndergaard:::MIX: A Self-Applicable Partial Evaluator for Experiments in Compiler Generation (Extended Abstract).
+conf/mfps/Graham87:::Steven K. Graham:::Closure Properties of a Probabilistic Domain Construction.
+conf/mfps/PfenningP89:::Frank Pfenning::Christine Paulin-Mohring:::Inductively Defined Types in the Calculus of Constructions.
+conf/mhci/SokolerNP02:::Tomas Sokoler::Les Nelson::Elin Rønby Pedersen:::Low-Resolution Supplementary Tactile Cues for Navigational Assistance.
+conf/mhci/Costa-MontenegroGGVA02:::Enrique Costa-Montenegro::Francisco J. González-Castaño::Jaime García-Reinoso::Javier Vales-Alonso::Luis E. Anido-Rifón:::Pushing Web Pages into Personal Digital Assistants: Need, Tools and Solutions.
+conf/mhci/MacKenzie02:::I. Scott MacKenzie:::KSPC (Keystrokes per Character) as a Characteristic of Text Entry Techniques.
+conf/mhci/Paay03:::Jeni Paay:::Understanding and Modeling Physical Environments for Mobile Location Aware Information Services.
+conf/mhci/SoronenT02:::Anne Soronen::Veijo Tuomisto:::Mobile Image Messaging - Anticipating the Outlines of the Usage Culture.
+conf/mhci/BellottiBGM03:::Franscesco Bellotti::Riccardo Berta::Alessandro De Gloria::Massimiliano Margarone:::Supporting Efficient Design of Mobile HCI.
+conf/mhci/Tsutsumi03:::Fujio Tsutsumi:::Sound Visualization and Retrieval Technique for Assisting Hearing Memory of Patrol Worker.
+conf/mhci/Mayora-IbarraCMFP02:::O. Mayora-Ibarra::E. Cambranes-Martínez::C. Miranda-Palma::A. Fuentes-Penna::O. De la Paz-Arroyo:::UML Modelling of Device-Independent Interfaces and Services for a Home Environment Application.
+conf/mhci/Kindberg03:::Tim Kindberg:::The Zen of Everyday Encounters: Spontaneous Interaction in Ubiquitous Systems.
+conf/mhci/BradleyD02:::Nicholas A. Bradley::Mark D. Dunlop:::Understanding Contextual Interactions to Design Navigational Context-Aware Applications.
+conf/mhci/OsmanMT03:::Zaheer Osman::Martin Maguire::Mikko Tarkiainen:::Older Users' Requirements for Location Based Services and Mobile Phones.
+conf/lssc/Vijfvinkel01:::L. W. Vijfvinkel:::Picard-Uzawa Schemes: Errors, Convergence and Stopping Criterion.

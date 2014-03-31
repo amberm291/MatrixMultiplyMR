@@ -1,0 +1,145 @@
+books/bc/tanselCGSS93/Tuzhilin93:::Alexander Tuzhilin:::Applications of temporal Databases to Knowledge-based Simulations.
+books/bc/tanselCGSS93/Snodgrass93:::Richard T. Snodgrass:::An Overview of TQuel.
+books/aw/kimL89/DiederichM89:::Jim Diederich::Jack Milton:::Objects, Messages, and Rules in Database Design.
+books/aw/kimL89/Maier89:::David Maier:::Making Database Systems Fast Enough for CAD Applications.
+books/dp/kappel2003/GaedkeNJD03:::Martin Gaedke::Martin Nussbaumer::Oliver Jung::Markus Dieckmann:::Implementierungstechnologien für Web-Anwendungen.
+books/eh/campbell84/Davies84:::Julian Davies:::POLER - Implementation of a POP-2-based PLANNER.
+books/eh/campbell84/Kluzniak84:::Feliks Kluzniak:::The 'Marseille Interpreter' - a Personal Perspective.
+books/eh/grayL88/WilliamsMC88:::M. Howard Williams::P. A. Massey::Jim A. Crammond:::Benchmarking Prolog for Database Applications.
+books/eh/grayL88/Todd88:::S. Todd:::An Interface from Prolog to a Binary Relational Database.
+books/el/RV01/BockmayrW01:::Alexander Bockmayr::Volker Weispfenning:::Solving Numerical Constraints.
+books/el/RV01/BarendregtG01:::Henk Barendregt::Herman Geuvers:::Proof-Assistants Using Dependent Type Systems.
+books/el/leeuwen90/Boas90:::Peter van Emde Boas:::Machine Models and Simulation.
+books/el/leeuwen90/Kanellakis90:::Paris C. Kanellakis:::Elements of Relational Database Theory.
+books/el/leeuwen90/KozenT90:::Dexter Kozen::Jerzy Tiuryn:::Logics of Programs.
+books/el/leeuwen90/Milner90:::Robin Milner:::Operational and Algebraic Semantics of Concurrent Processes.
+books/el/leeuwen90/Barendregt90:::Hendrik Pieter Barendregt:::Functional Programming and Lambda Calculus.
+books/el/leeuwen90/Thomas90:::Wolfgang Thomas:::Automata on Infinite Objects.
+books/el/leeuwen90/Mitchell90:::John C. Mitchell:::Type Systems for Programming Languages.
+books/el/leeuwen90/BerstelB90:::Jean Berstel::Luc Boasson:::Context-Free Languages.
+books/el/alba85/AlbanoAL85:::Antonio Albano::Valeria De Antonellis::Antonio Di Leva:::Computer-Aided Database Design: the DATAID approach.
+books/el/ceri83/StaniszkisSMM83:::Witold Staniszkis::Domenico Saccà::F. Manfredi::A. Mecchia:::Physical Data Base Design for Codasyl DBMS.
+books/el/ceri83/BertainaLG83:::P. Bertaina::Antonio Di Leva::P. Giolito:::Logical Design in Codasyl and Relational Environment.
+books/el/beierleP95/Sauer95:::Jürgen Sauer:::Scheduling and Meta-Scheduling.
+books/el/beierleP95/CremersLR95:::Armin B. Cremers::Thomas Lemke::Mechthild Rohen:::Logic Program Modules for Interoperable Information Systems.
+books/el/beierleP95/BorgerR95:::Egon Börger::Dean Rosenzweig:::The WAM - Definition and Compiler Correctness.
+books/kl/jajodiaK97/HelalKNEH97:::Abdelsalam Helal::Y. Kim::Marian H. Nodine::Ahmed K. Elmagarmid::Abdelsalam Heddaya:::Transaction Optimization Techniques.
+books/kl/snodgrass95/SooS95:::Michael D. Soo::Richard T. Snodgrass:::Temporal Data Types.
+books/kl/motroS96/SmetsK96:::Philippe Smets::Rudolf Kruse:::The Transferable Belief Model for Belief Representation.
+books/kl/nwosuTB96/Orji96:::Cyril U. Orji:::Multimedia DBMS - Reality of Hype?
+books/kl/nwosuTB96/ThimmK96:::Heiko Thimm::Wolfgang Klas:::Playout Management in Multimedia Database Systems.
+books/kl/ortega2000/BravoRBOL00:::Crescencio Bravo::Miguel A. Redondo::José Bravo::Manuel Ortega::M. Lacruz:::Synchronous Drawing Actions in Environments of Collaborative Learning of Design.
+books/kl/ortega2000/Burguillo-RialABB00:::Juan C. Burguillo-Rial::Luis E. Anido-Rial::J. V. Benlloch::Félix Buendía:::Interconnecting Courseware Modules via WWW.
+books/kl/ortega2000/AlfonsecaL00:::Manuel Alfonseca::Juan de Lara:::Integration of Simulation and Multimedia in Automatically Generated Internet Courses.
+books/kl/ortega2001/Anido-RifonCNF01:::Luis E. Anido-Rifón::Manuel Caeiro::Martín Llamas Nistal::M. J. Fernández:::Creating Collaborative Environments for Web-based Training Scenarios.
+books/kl/ortega2001/GarciaMMGCB01:::Francisco José García::M. N. Moreno::A. M. Moreno::G. González::B. Curto::F. J. Blanco:::ADAM CASE. Using upper CASE tools in Software Engineering Laboratory.
+books/kl/ortega2001/PerezSPGZ01:::Tomás A. Pérez::Julián Gutiérrez Serrano::Ricardo López Pietro::A. González::José Ángel Vadillo Zorita:::Guiding the user. An element to aid knowledge construction in adaptive hypermedia systems.
+books/kl/ortega2001/GonzalezTC01:::F. J. González::S. Torres::R. Conejo:::Collares Ortofónicos. System for the training of the suprasegmental parameters of intensity and rhythm of the articulated sound.
+books/kl/ortega2001/LaraA01:::Juan de Lara::Manuel Alfonseca:::Using Simulation and Virtual Reality for Distance Education.
+books/kl/ortega2001/PerezSPGZ01a:::Tomás A. Pérez::Julián Gutiérrez Serrano::Ricardo López Pietro::A. González::José Ángel Vadillo Zorita:::Pedagogical Strategies With Hypermedia. Limiting access to hyperspace for educational purposes.
+books/kl/ortega2001/NavarroFFS01:::Antonio Navarro::Alfredo Fernández-Valmayor::Baltasar Fernández-Manjón::José Luis Sierra:::Using Analysis, Design and Development of Hypermedia Applications in the Educational Domain.
+books/mk/dittrichG01/BanerjeeKM01:::Sandeepan Banerjee::Vishu Krishnamurthy::Ravi Murthy:::All Your Data: The Oracle Extensibility Architecture.
+books/mk/gray91/Serlin91:::Omri Serlin:::The History of DebitCredit and the TPC.
+books/mk/gray91/ONeil91:::Patrick E. O'Neil:::The Set Query Benchmark.
+books/mk/freytagMV91/Scholl91:::Marc H. Scholl:::Physical Database Design for an Object-Oriented Database System.
+books/mk/minker88/Przymusinski88:::Teodor C. Przymusinski:::On the Declarative Semantics of Deductive Databases and Logic Programs.
+books/mk/minker88/ManchandraW88:::Sanjay Manchanda::David Scott Warren:::A Logic-based Language for Database Updates.
+books/mk/minker88/LassezMM88:::Jean-Louis Lassez::Michael J. Maher::Kim Marriott:::Unification Revisited
+books/mk/minker88/Maher88:::Michael J. Maher:::Equivalences of Logic Programs
+books/mk/bancilhonDK92/BancilhonCD92:::François Bancilhon::Sophie Cluet::Claude Delobel:::A Query Language for O2.
+books/mk/bancilhonDK92/AbiteboulKW92:::Serge Abiteboul::Paris C. Kanellakis::Emmanuel Waller:::Method Schemas.
+books/mk/bancilhonDK92/AbiteboulK92:::Serge Abiteboul::Paris C. Kanellakis:::Object Identity as a Query Language Primitive.
+books/mk/bancilhonDK92/DelobelKP92:::Claude Delobel::Paris C. Kanellakis::Didier Plateau:::Introduction to the Programming Environment.
+books/mk/bancilhonDK92/DeWittFMV92:::David J. DeWitt::Philippe Futtersack::David Maier::Fernando Vélez:::Three Alternative Workstation-Server Architectures.
+books/mk/bancilhonDK92/PlateauBLMT92:::Didier Plateau::Patrick Borras::Didier Lévêque::Jean-Claude Mamou::Didier Tallot:::Building User Interfaces with Looks.
+books/mk/bancilhonDK92/Zicari92:::Roberto Zicari:::A Framework for Schema Updates In An Object-Oriented Database System.
+books/ph/yao85/YaoWH85:::S. Bing Yao::Vance E. Waddle::Barron C. Housel:::An Interactive System for Database Design and Integration.
+books/ph/yao85/KingM85:::Roger King::Dennis McLeod:::Semantic Data Models.
+books/ph/yao85/HevnerY85:::Alan R. Hevner::S. Bing Yao:::Network Database Design Methods.
+books/ph/kumar96/LehmanG96:::Tobin J. Lehman::Vibby Gottemukkala:::The Design and Performance Evaluation of a Lock Manager for a Memory-Resident Database System.
+books/ph/kumar96/JajodiaM96:::Sushil Jajodia::Ravi Mukkamala:::Reduction in Transaction Conflicts Using Semantics-Based Concurrency Control.
+books/ph/deGrootL86/JaffarLM86:::Joxan Jaffar::Jean-Louis Lassez::Michael J. Maher:::Logic Programming Language Scheme.
+books/ph/deGrootL86/DarlingtonFP86:::John Darlington::A. J. Field::Helen Pull:::The Unification of Functional and Logic Languages.
+books/ph/frakesB92/Harman92:::Donna Harman:::Relevance Feedback and Other Query Modification Techniques.
+books/ph/frakesB92/WartikFHC92:::Steven P. Wartik::Edward A. Fox::Lenwood S. Heath::Qi Fan Chen:::Hashing Algorithms.
+books/ph/frakesB92/Frakes92a:::William B. Frakes:::Stemming Algorithms.
+books/ph/frakesB92/Stanfill92:::Craig Stanfill:::Parallel Information Retrieval Algorithms.
+books/sp/trends86/BarendregtL86:::Henk Barendregt::Marc van Leeuwen:::Functional Programming and the Language TALE.
+books/sp/trends86/SchneiderA86:::Fred B. Schneider::Gregory R. Andrews:::Concepts for Concurrent Programming.
+books/sp/informatik2001/Thoma01:::Helmut Thoma:::Wissen und Lernen.
+books/sp/omicini01/BryceC01:::Ciarán Bryce::Marco Cremonini:::Coordination and Security on the Internet.
+books/sp/omicini01/DeugoWK01:::Dwight Deugo::Michael Weiss::Elizabeth A. Kendall:::Reusable Patterns for Agent Coordination.
+books/sp/omicini01/BusiCGZ01:::Nadia Busi::Paolo Ciancarini::Roberto Gorrieri::Gianluigi Zavattaro:::Coordination Models: A Guided Tour.
+books/sp/omicini01/Omicini01a:::Andrea Omicini:::Basic Enabling Technologies, Introduction.
+books/sp/kimrb85/Yu85:::Clement T. Yu:::Distributed Database Query Processing.
+books/sp/dittrichDB91/Osborn91:::Sylvia L. Osborn:::Design Issues for Object-Oriented Database Systems.
+books/sp/franke2003/CiravegnaDWP03:::Fabio Ciravegna::Alexiei Dingli::Yorick Wilks::Daniela Petrelli:::Using Adaptive Information Extraction for Effective Human-Centred Document Annotation.
+books/sp/franke2003/ZavrelD03:::Jakub Zavrel::Walter Dealemans:::Feature-Rich Memory-Based Classification for Shallow NLP and Information Extraction.
+books/sp/patton99/Diaz99:::Oscar Díaz:::Tool Support.
+books/sp/patton99/KulkarniMC99:::Krishna G. Kulkarni::Nelson Mendonça Mattos::Roberta Cochrane:::Active Database Features in SQL3.
+books/sp/patton99/Hanson99:::Eric N. Hanson:::Ariel.
+books/sp/patton99/FraternaliP99:::Piero Fraternali::Stefano Paraboschi:::Chimera: A Language for Designing Rule Applications.
+books/sp/patton99/PattonDW99:::Norman W. Paton::Andrew Dinn::M. Howard Williams:::Optimization
+books/sp/wooldridgeV99/TarauD99:::Paul Tarau::Verónica Dahl:::Towards a Logic Programming Infrastructure for Internet Programming.
+books/sp/wooldridgeV99/ElliottRL99:::Clark Elliott::Jeff Rickel::James C. Lester:::Lifelike Pedagogical Agents and Affective Computing: An Exploratory Synthesis.
+books/sp/subrahmanianJ96/Jagadish96:::H. V. Jagadish:::Indexing for Retrieval by Similarity.
+books/sp/subrahmanianJ96/KashyapSS96:::Vipul Kashyap::Kshitij Shah::Amit P. Sheth:::Metadata for Building the MultiMedia Patch Quilt.
+books/sp/ohsawaM2003/ParsonsM03:::Simon Parsons::Peter McBurney:::Logics of Argumentation for Chance Discovery.
+books/sp/ohsawaM2003/Takama03:::Yasufumi Takama:::Awareness and Imagination of Hidden Factors and Rare Events.
+books/sp/ohsawaM2003/Shoji03:::Hiroko Shoji:::Human-to-Human Communication for Chance Discovery in Business.
+books/sp/ohsawaM2003/TakamaO03:::Yasufumi Takama::Yukio Ohsawa:::Effects of Scenic Information.
+books/sp/ohsawaM2003/SumiM03:::Yasuyuki Sumi::Kenji Mase:::Enhancing Daily Conversations.
+books/sp/cstoday95/Harel95:::David Harel:::Towards a theory of Recursive Structures.
+books/sp/cstoday95/Sandewall95:::Erik Sandewall:::Reasoning about Actions and Change with Ramification.
+books/ws/Wang03/Soderlund03:::Carol Soderlund::Fred Engler::James Hatfield::Steven Blundy:::Mapping Sequence to Rice FPC.
+books/ws/Wang03/RichardsonR03:::Jane S. Richardson::David C. Richardson:::High-Grade Ore for Data Mining in 3D Structures.
+books/ws/phaunRS01/Pin01:::Jean-Eric Pin:::Logic on Words.
+books/ws/phaunRS01/Karp01:::Richard M. Karp:::The Genomics Revolution and its Challenges for Algorithmic Research.
+books/ws/phaunRS01/EhrigM01:::Hartmut Ehrig::Bernd Mahr:::Theory and Practice of Software Development: A Review of Driving Forces and Expectations of TAPSOFT from 1985 to 1997.
+books/ws/phaunRS01/MateescuS01:::Alexandru Mateescu::Arto Salomaa:::Many-Valued Truth Functions, Cernys' Conjecture, and Road Coloring.
+books/ws/phaunRS01/MihalacheS01:::Valeria Mihalache::Arto Salomaa:::Lindenmayer and DNA: Watson-Crick D0L Systems.
+books/ws/phaunRS01/FogelM01:::David B. Fogel::Zbigniew Michalewicz:::Why Evolutionary Algorithms?
+books/acm/kim95/Kaiser95:::Gail E. Kaiser:::Cooperative Transactions for Multiuser Environments.
+books/crc/CRCcompiler2002/GuptaG02:::Rajiv Gupta::Neelam Gupta:::Data Flow Testing.
+books/crc/CRCcompiler2002/VenugopalK02:::R. Venugopal::Ravindra B. Keskar:::Compiling Safe Mobile Code.
+books/crc/CRCcompiler2002/RajagopalanM02:::Subramanian Rajagopalan::Sharad Malik:::Retargetable Very Long Instuction Word Compiler Framework for Digital Signal Processors.
+books/crc/CRCcompiler2002/Paleri02:::Vineeth Kumar Paleri:::Automatic Generation of Code Optimizers from Formal Specifications.
+books/crc/CRCcompiler2002/WilhelmRS02:::Reinhard Wilhelm::Thomas W. Reps::Shmuel Sagiv:::Shape Analysis and Applications.
+books/crc/tucker97/Pierce97:::Benjamin C. Pierce:::Foundational Calculi for Programming Languages.
+books/crc/tucker97/Stankovic97:::John A. Stankovic:::Real-Time and Embedded Systems.
+books/crc/tucker97/Feldman97:::James Feldman:::Digital Logic.
+books/crc/tucker97/Franklin97:::Michael J. Franklin:::Concurrency Control and Recovery.
+books/crc/tucker97/Watt97:::Alan Watt:::Mainstream Rendering Techniques.
+books/crc/tucker97/Forrest97:::Stephanie Forrest:::Genetic Algorithms.
+books/crc/tucker97/NoonanB97:::Robert E. Noonan::William L. Bynum:::Run Time Environments and Memory Management.
+books/crc/tucker97/JordanB97:::Michael I. Jordan::Christopher M. Bishop:::Neural Networks.
+books/crc/tucker97/JippingB97:::Michael J. Jipping::Kim B. Bruce:::The Imperative Language Paradigm.
+books/crc/tucker97/Demurjian97:::Steven A. Demurjian:::Traditional Software Design.
+books/crc/tucker97/SandhuS97:::Ravi S. Sandhu::Pierangela Samarati:::Authentication, Access Controls, and Intrusion Detection.
+books/crc/tucker97/ONeil97:::Patrick E. O'Neil:::Database Performance Measurement.
+books/crc/tucker97/ChandruR97:::Vijay Chandru::M. R. Rao:::Combinatorial Optimization.
+books/crc/tucker97/RiloffH97:::Ellen Riloff::Lee A. Hollaar:::Text Databases and Information Retrieval.
+books/crc/tucker97/Jajodia97:::Sushil Jajodia:::Database Security and Privacy.
+books/ios/omelayenkoK03/Omelayenko03:::Borys Omelayenko:::RDFT: A Mapping Meta-Ontology for Web Service Integration.
+books/ios/dalsgaard99/AntoniazziP99:::Stefano Antoniazzi::Matteo Pampolini:::Towards the Intelligent On-line Home Office.
+books/ios/dalsgaard99/ConfortoML99:::Paolo Conforto::Vincenzo Marziale::Giacinto Losquadro:::ACCORD Solutions for Flexible Working.
+books/mit/PF91/ZytkowB91:::Jan M. Zytkow::J. Baker:::Interactive Mining of Regularities in Databases.
+books/mit/PF91/WuSO91:::Q. Wu::Paul Suetens::André Oosterlinck:::Integration of Heuristic and Bayesian Approaches in a Pattern-Classification System.
+books/mit/PF91/SmythG91:::Padhraic Smyth::Rodney M. Goodman:::Rule Induction Using Information Theory.
+books/mit/pfenning92/YardeniFS92:::Eyal Yardeni::Thom W. Frühwirth::Ehud Y. Shapiro:::Polymorphically Typed Logic Programs.
+books/mit/shriverW87/MaierS87:::David Maier::Jacob Stein:::Development and Implementation of an Object-Oriented DBMS.
+books/mit/shriverW87/Wegner87:::Peter Wegner:::The Object-Oriented Classification Paradigm.
+books/mit/fayyadPSU96/ShenOMZ96:::Wei-Min Shen::KayLiang Ong::Bharat G. Mitbander::Carlo Zaniolo:::Metaqueries for Data Mining.
+books/idea/siau2001/FavreC01:::Liliana Favre::Silvia Clerici:::A Systematic Approach to Transform UML Static Models to Object-Oriented Code.
+books/idea/siau2001/Siau01:::Keng Siau:::Rational Unified Process and Unified Modeling Language - A GOMS Analysis.
+books/idea/siau2001/AlemanA01:::José Luis Fernández Alemán::José Ambrosio Toval Álvarez:::Seamless Formalizing the UML Semantics through Metamodels.
+books/idea/siau2001/HennickerK01:::Rolf Hennicker::Nora Koch:::Systematic Design of Web Applications with UML.
+books/idea/siau2002/BalabanS02:::Mira Balaban::Peretz Shoval:::Enforcing Cardinality Constraints in the ER Model with Integrity Methods.
+books/idea/siau2002/Halpin02:::Terry A. Halpin:::Information Analysis in UML and ORM: A Comparison.
+books/idea/siau2003/ChanL03:::Hock Chuan Chan::John Lim:::A Review of Experiments on Natural Language Interfaces.
+books/idea/doornR02/Schiel02:::Ulrich Schiel:::Integrity Maintenance in Extensible Databases.
+books/idea/doornR02/CuandraNMCV02:::Dolores Cuandra::Carlos Nieto::Paloma Martinez::Elena Castro::Manuel Velasco:::Preserving Relationship Cardinality Constraints in Relational Schemata.
+books/idea/becker2003/SerranoCP03:::Manuel Serrano::Coral Calero::Mario Piattini:::Metrics for Data Warehouse Quality.
+books/idea/rossi2001/Dietz01:::Jan L. G. Dietz:::Coherent, Consistent, and Comprehensive Modeling of Communication, Information, Action, and Organization.
+books/harwood/miranda2000/Widmer00:::Gerhard Widmer:::On the Potential of Machine Learning for Music Research.
+books/harwood/miranda2000/Dannenberg00:::Roger B. Dannenberg:::Dynamic Programming for Interactive Music Systems.

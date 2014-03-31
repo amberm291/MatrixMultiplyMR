@@ -1,0 +1,200 @@
+conf/sigcomm/FaberLM92:::Theodore Faber::Lawrence H. Landweber::Amarnath Mukherjee:::Dynamic Time Windows: Packet Admission control with Feedback.
+conf/sigcomm/CalvertL89:::Kenneth L. Calvert::Simon S. Lam:::Deriving a Protocol Converter: A Top-Down Method.
+conf/sigcomm/KeromytisMR02:::Angelos D. Keromytis::Vishal Misra::Dan Rubenstein:::SOS: secure overlay services.
+conf/sigcomm/BreslauKSSZ00:::Lee Breslau::Edward W. Knightly::Scott Shenker::Ion Stoica::Hui Zhang:::Endpoint admission control: Architectural issues and performance.
+conf/sigcomm/BrownGM89:::Geoffrey M. Brown::Mohamed G. Gouda::Raymond E. Miller:::Block Acknowledgement: Redesigning the Window Protocol.
+conf/sigcomm/HymanLP91:::Jay M. Hyman::Aurel A. Lazar::Giovanni Pacifici:::MARS: The Magnet II Real-Time Scheduling Algorithm.
+conf/sigcomm/GarrettW94:::Mark W. Garrett::Walter Willinger:::Analysis, Modeling and Generation of Self-Similar VBR Video Traffic.
+conf/sigcomm/FloydJ93:::Sally Floyd::Van Jacobson:::The Synchronization of Periodic Routing Messages.
+conf/sigcomm/SudaMN88:::Tatsuya Suda::Steve Morris::Thieu Q. Nguyen:::Tree LANs with collision avoidance: protocol, switch architecture, and simulated performance.
+conf/sigcomm/BrandriffLN85:::Robert K. Brandriff::Clifford A. Lynch::Mark H. Needleman:::Development of a TCP/IP for the IBM/370.
+conf/sigcomm/Auerbach89:::Joshua S. Auerbach:::A Protocol Conversion Software Toolkit.
+conf/sigcomm/Zhang00:::Zhi-Li Zhang:::Decoupling QoS control from core routers: A novel bandwidth broker architecture for scalable support of guaranteed services.
+conf/sigcomm/Zhang90:::L. Zhang:::Virtual Clock: A New Traffic Control Algorithm for Packet Switching Networks.
+conf/sigcomm/Zhang91:::Zhensheng Zhang:::Queueing Analysis of a Statistical Multiplexer with Multiple Slow Terminals.
+conf/sigcomm/AubinN85:::R. Aubin::P. Ng:::A path-oriented routing strategy for packet switching networks with end-to-end protocols.
+conf/sigcomm/SongL88:::Cheng Song::Lawrence H. Landweber:::Optimizing bulk data transfer performance: a packet train model.
+conf/sigcomm/Cheriton88:::David R. Cheriton:::Exploiting recursion to simplify RPC communication architectures.
+conf/sigcomm/Jacobson88:::Van Jacobson:::Congestion avoidance and control.
+conf/sigcomm/LabovitzMJ97:::Craig Labovitz::G. Robert Malan::Farnam Jahanian:::Internet Routing Instability.
+conf/sigcomm/SibalD94:::Sandeep Sibal::Antonio DeSimone:::Controlling Alternate Routing in General-Mesh Packet Flow Networks.
+conf/sigcomm/GrossglauserT97:::Matthias Grossglauser::David N. C. Tse:::A Framework for Robust Measurement-Based Admission Control.
+conf/sigcomm/WaldvogelVTP97:::Marcel Waldvogel::George Varghese::Jon Turner::Bernhard Plattner:::Scalable High Speed IP Routing Lookups.
+conf/sigcomm/Tsuchiya88:::Paul F. Tsuchiya:::The landmark hierarchy: a new hierarchy for routing in very large networks.
+conf/sigcomm/ZhangK91:::Hui Zhang::Srinivasan Keshav:::Comparison of Rate-Based Service Disciplines.
+conf/sigcomm/MisraGT00:::Vishal Misra::Weibo Gong::Donald F. Towsley:::Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED.
+conf/sigcomm/NonnenmacherBT97:::Jörg Nonnenmacher::Ernst Biersack::Donald F. Towsley:::Parity-Based Loss Recovery for Reliable Multicast Transmission.
+conf/sigcomm/Touch95:::Joseph D. Touch:::Performance Analysis of MD5.
+conf/sigcomm/BrakmoOP94:::Lawrence S. Brakmo::Sean W. O'Malley::Larry L. Peterson:::TCP Vegas: New Techniques for Congestion Detection and Avoidance.
+conf/sigcomm/PartridgeSSSCC00:::Craig Partridge::Alex C. Snoeren::W. Timothy Strayer::Beverly Schwartz::Matthew Condell::Isidro Castineyra:::FIRE: Flexible intra-AS routing environment.
+conf/sigcomm/ThekkathNML93:::Chandramohan A. Thekkath::Thu D. Nguyen::Evelyn Moy::Edward D. Lazowska:::Implementing Network Protocols at User Level.
+conf/sigcomm/Downey99:::Allen B. Downey:::Using Pathchar to Estimate Internet Link Characteristics.
+conf/sigcomm/HolbrookC99:::Hugh W. Holbrook::David R. Cheriton:::IP Multicast Channels: EXPRESS Support for Large-scale Single-source Applications.
+conf/sigcomm/JaminDSZ95:::Sugih Jamin::Peter B. Danzig::Scott Shenker::Lixia Zhang:::A Measurement-Based Admission Control Algorithm for Integrated Services Packet Networks.
+conf/sigecom/PorterS03:::Ryan Porter::Yoav Shoham:::On cheating in sealed-bid auctions.
+conf/sigecom/BryanG99:::Doug Bryan::Anatole Gershman:::Opportunistic exploration of large consumer product spaces.
+conf/sigecom/Ronen01a:::Amir Ronen:::Mechanism design with incomplete languages.
+conf/sigecom/SunS03:::Jiong Sun::Norman M. Sadeh:::Dynamic supply chain formation: integrating multi-attribute auctions and finite capacity scheduling.
+conf/sigecom/BrainovS99:::Sviatoslav Brainov::Tuomas Sandholm:::Contracting with uncertain level of trust.
+conf/sigecom/DuttaVDR01:::Kaushik Dutta::Debra E. VanderMeer::Anindya Datta::Krithi Ramamritham:::Discovering critical edge sequences in E-commerce catalogs.
+conf/sigecom/WurmanW00:::Peter R. Wurman::Michael P. Wellman:::A<i>k</i>BA: a progressive, anonymous-price combinatorial auction.
+conf/sigecom/DuttaR03:::Amitava Dutta::Rahul Roy:::Effects of information feedback loops on supply chain performance.
+conf/sigecom/WalshWY00:::William E. Walsh::Michael P. Wellman::Fredrik Ygge:::Combinatorial auctions for supply chain formation.
+conf/sigecom/Kazumori03:::Eiichiro Kazumori:::Selling online versus offline: theory and evidences from Sotheby's.
+conf/sigecom/ChangLS03:::Yuan-Chi Chang::Chung-Sheng Li::John R. Smith:::Searching dynamically bundled goods with pairwise relations.
+conf/sigecom/MenasceAFM99:::Daniel A. Menascé::Virgilio Almeida::Rodrigo C. Fonseca::Marco A. Mendes:::A methodology for workload characterization of E-commerce sites.
+conf/sigecom/ConitzerS03:::Vincent Conitzer::Tuomas Sandholm:::Complexity of determining nonemptiness of the core.
+conf/sigecom/KleinbergS03:::Jon M. Kleinberg::Mark Sandler:::Convergent algorithms for collaborative filtering.
+conf/sigopsE/GuedesCN94:::Paulo Guedes::Miguel Castro::Nuno Neves:::The DiSOM Distributed Shared Object Memory.
+conf/sigopsE/Mullender94:::Sape J. Mullender:::You and I are Past Our Dancing Days.
+conf/sigplan/MorganR82:::Thomas M. Morgan::Lawrence A. Rowe:::Analyzing Exotic Instructions for a Retargetable Code Generator.
+conf/sigplan/AvakianHHK82:::Arra Avakian::Sam Haradhvala::Julian Horn::Bruce Knobe:::The Design of an Integrated Support Software System.
+conf/sigplan/Shaw76:::Mary Shaw:::Research Directions in Abstract Data Structures.
+conf/sigplan/PrattM82:::Terrence W. Pratt::George D. Maydwell:::Experience with the Normal Semantic Definition of HAL/S.
+conf/sigplan/Senko76:::Michael E. Senko:::DIAM II and Levels of Abstraction.
+conf/sigplan/ZloofJ76:::Moshé M. Zloof::S. Peter de Jong:::The System for Business Automation: Programming Language.
+conf/sigplan/Crawford82:::John Crawford:::Engineering a Production Code Generator.
+conf/sigplan/HouselS76:::Barron C. Housel::Nan C. Shu:::A High-Level Data Manipulation Language for Hierarchical Data Structures.
+conf/sigsoft/DavisGPJU01:::Leigh A. Davis::Rose F. Gamble::Jamie Payton::Gerður Jónsdóttir::Dennis J. Underwood:::A notation for problematic architecture interactions.
+conf/sigsoft/ZhangRL96:::Sean Zhang::Barbara G. Ryder::William Landi:::Program Decomposition for Pointer Aliasing: A Step Toward Practical Analyses.
+conf/sigsoft/DwyerP98:::Matthew B. Dwyer::Corina S. Pasareanu:::Filter-Based Model Checking of Partial Systems.
+conf/sigsoft/PahlC03:::Claus Pahl::M. Casey:::Ontology support for web service processes.
+conf/sigsoft/Ran01:::Alexander Ran:::Fundamental concepts for practical software architecture.
+conf/sigsoft/AbowdD94:::Gregory D. Abowd::Alan J. Dix:::Integrating Status and Event Phenomena in Formal Specifications of Interactive Systems.
+conf/sigsoft/Chu-CarrollS00:::Mark Chu-Carroll::Sara Sprenkle:::Coven: brewing better collaboration through software configuration management.
+conf/sigsoft/NaumovichCO96:::Gleb Naumovich::Lori A. Clarke::Leon J. Osterweil:::Verification of Communication Protocols Using Data Flow Analysis.
+conf/sigsoft/VignaVK03:::Giovanni Vigna::Fredrik Valeur::Richard A. Kemmerer:::Designing and implementing a family of intrusion detection systems.
+conf/sigsoft/HollingsworthBW00:::Joseph E. Hollingsworth::Lori Blankenship::Bruce W. Weide:::Experience report: using RESOLVE/C++ for commercial software.
+conf/sigsoft/Jahnke01:::Jens H. Jahnke:::Engineering component-based net-centric systems for embedded applications.
+conf/sigsoft/MurphyNS95:::Gail C. Murphy::David Notkin::Kevin J. Sullivan:::Software Reflexion Models: Bridging the Gap Between Source and High-Level Models.
+conf/sigsoft/LopesFW02:::Antónia Lopes::José Luiz Fiadeiro::Michel Wermelinger:::Architectural primitives for distribution and mobility.
+conf/sigsoft/Holzmann02:::Gerard J. Holzmann:::The logic of bugs.
+conf/sigsoft/JacksonSS01:::Daniel Jackson::Ilya Shlyakhter::Manu Sridharan:::A micromodularity mechanism.
+conf/sigsoft/Krinke03:::Jens Krinke:::Context-sensitive slicing of concurrent programs.
+conf/sigsoft/JacksonS00:::Daniel Jackson::Kevin J. Sullivan:::COM revisited: tool-assisted modelling of an architectural framework.
+conf/sigsoft/OhstWK03:::Dirk Ohst::Michael Welle::Udo Kelter:::Differences between versions of UML diagrams.
+conf/sigsoft/KaplanW95:::Alan Kaplan::Jack C. Wileden:::Formalization and Application of a Unifying Model for Name Management.
+conf/sigsoft/CoadyKFS01:::Yvonne Coady::Gregor Kiczales::Mike Feeley::Greg Smolyn:::Using aspectC to improve the modularity of path-specific customization in operating system code.
+conf/sigsoft/Petroski96:::Henry Petroski:::Engineering Bridges: From Concept to Reality (Abstract).
+conf/sigsoft/Fekete95:::Alan Fekete:::Liveness Conditions in Model-Based Service Specifications: A Case Study.
+conf/sigsoft/OsterweilCEKRW00:::Leon J. Osterweil::Lori A. Clarke::Michael Evangelist::Jeff Kramer::H. Dieter Rombach::Alexander L. Wolf:::The impact project: determining the impact of software engineering research upon practice (panel session).
+conf/sigsoft/AllenG98:::Robert Allen::David Garlan:::Formal Modeling and Analysis of the HLA Component Integration Standard.
+conf/sigsoft/WalkerM00:::Robert J. Walker::Gail C. Murphy:::Implicit context: easing software evolution and reuse.
+conf/sigsoft/BalzerN93:::Robert Balzer::K. Narayanaswamy:::Mechanisms for Generic Process Support.
+conf/sigsoft/RepsHSR94:::Thomas W. Reps::Susan Horwitz::Shmuel Sagiv::Genevieve Rosay:::Speeding up Slicing.
+conf/sigsoft/MullerP03:::Matthias M. Müller::Frank Padberg:::On the economic evaluation of XP projects.
+conf/siguccs/Warrington95:::Carol L. Warrington:::Conversion to self-support status: responding to the challenges of making ends meet.
+conf/siguccs/Au95:::Sunny Au:::Hello, world! a guide for transmitting multilingual electronic mail.
+conf/siguccs/AntelmanL93:::Kristin Antelman::David Langenberg:::Collection development in the electronic library.
+conf/siguccs/ChiangDCRSW01:::Grace L. Chiang::Robin Deily::Jeanne Cavanaugh::Marge Rowell::Barbara Sydney::Colleen Wheeler:::Building bridges for learning within and between organizations.
+conf/siguccs/Sprung98:::Laura Sprung:::Using Cross-Divisional Projects to Deliver a Whole Product.
+conf/siguccs/Alofs01:::Matt Alofs:::In the outpost trenches: bridging physical gaps in customer service.
+conf/siguccs/Greenberg93:::Edward A. Greenberg:::Distributed academic computing support at Arizona State University.
+conf/siguccs/McGregor90a:::Patrick V. McGregor:::The distributed network: working with network user liaisons at far-flung campuses.
+conf/siguccs/McDonell98:::Frances C. McDonell:::UF's Student Computer Requirement - After the First Wave.
+conf/siguccs/Ford95:::Karen Susan Ford:::Converting from paper to HTML.
+conf/siguccs/DuBose00:::Kathy DuBose:::Manage All the Computer Labs on Campus? What Did I Do to Deserve This?
+conf/siguccs/Bellare95:::Nita B. Bellare:::They work hard for the money: the joy of student management.
+conf/siguccs/HallHJ00:::John F. Hall::Paul Hyde::Debbie Jeffers:::Introducing Technology to Educators in a Way that is Compelling - Not Intimidating: Support Issues.
+conf/siguccs/Hay91:::Susan E. Hay:::Supporting the supporters.
+conf/siguccs/Rea99:::Don Rea:::Bridging Worlds: The IT Support Professional as Interpreter Between Cultures.
+conf/siguccs/QuN01:::Changtao Qu::Wolfgang Nejdl:::Constructing a web-based asynchronous and synchronous collaboration environment using WebDAV and Lotus Sametime.
+conf/siguccs/Krey93:::Cynthia L. Krey:::Expanding the campus computing community: user support of non-traditional &amp; distance learners at a small, liberal arts college for women.
+conf/siguccs/Link02:::Matthew Link:::Transforming support: from helpdesk to information center.
+conf/siguccs/Walton02:::Jinx P. Walton:::Developing an enterprise information security policy.
+conf/siguccs/Martin95:::Jerry Martin:::Seamless integration of client server applications.
+conf/siguccs/WolffR91:::Jane Wolff::Aron Roberts:::The Sears, Roebuck of software distribution.
+conf/siguccs/Mateik00:::Deborah Mateik:::Self-paced Student Tutorial in the WebCT Environment.
+conf/siguccs/McGregor92:::Patrick V. McGregor:::Security and privacy (abstract).
+conf/siguccs/Mather95:::Dan Mather:::Automated installation and updating of Windows-based Internet applications at James Madison University.
+conf/siguccs/Hutchison95:::Dean Hutchison:::Improving customer support services: a total quality management approach.
+conf/siguccs/MerkelL91:::Vince Merkel::Deanne Loftus:::The death of personal computing at the University of Scranton.
+conf/siguccs/Krukowski01:::April Krukowski:::Providing file storage &amp; web space for students: which path to take?
+conf/siguccs/OwenH96:::Shelley Owen::Bronwen Heuer:::Telecommuting to the university (panel).
+conf/siguccs/Stunden98:::Ann Stunden:::Building Community in the IT Workplace: Dispelling Myths, Encouraging Openness, and Telling the Truth.
+conf/siguccs/Warren92:::Karen Warren:::Helping the help desk with a telephone menu.
+conf/siguccs/LongLGKP02:::Philip E. Long::Jonathan Lizee::Ann G. Green::Edward W. Kairiss::Charles Powell:::One size does not fit all (but a good model might): the academic media &amp; technology pyramid.
+conf/siguccs/Rezmierski91:::Virginia E. Rezmierski:::Creation and implementation of policy for information technology use: abounding ethics and values issues.
+conf/siguccs/BostickFRD98:::Jim Bostick::John Fritz::Rick Raughton::Mike Davis:::Migration to Standards-based Email and Beyond: an update.
+conf/siguccs/MorrowB94:::Charles T. Morrow::Judith V. Boettcher:::Technology classrooms at Penn State.
+conf/siguccs/Freund92:::William O. H. Freund III:::Bringing email services to the desktop.
+conf/siguccs/Yang01:::Catherine Yang:::Creating the Standard Desktop Environment in a Non-Standard World.
+conf/siguccs/Jones02b:::Christopher Jones:::Should you upgrade to Mac OS X in your computing labs?
+conf/siguccs/AdamsCM93:::Teri Adams::Jo Ella Coles::Patrick V. McGregor:::From the ladder to the matrix: moving to self-directed, cross-functional work teams.
+conf/siguccs/LarsenH97:::Lida L. Larsen::David J. Henry:::Molding diverse people into a unified web: Diversity Database and Diversity Web.
+conf/siguccs/HitesW97:::Bonnie R. Hites::Richard White:::Technology magic: software distribution at Indiana University.
+conf/siguccs/StackP90:::David Stack::Tom Phillip:::Befriending the faculty.
+conf/siguccs/Everingham-StoneS93:::Marilyn M. Everingham-Stone::Leo Sell:::Computing training culture crash.
+conf/siguccs/RhodesGS00:::Carol Rhodes::William Goveia::Brian Sierkowski:::Information Provision vs. Direct Services in User Support.
+conf/siguccs/SchillingsM02:::Volker Schillings::Christoph Meinel:::tele-TASK: teleteaching anywhere solution kit.
+conf/siguccs/Dunnavant01:::Susan T. Dunnavant:::Blackberries in support of technology.
+conf/siguccs/SamuelPNS02:::John V. Samuel::Christopher S. Peebles::Takuya Noguchi::Craig A. Stewart:::Gauging IT support strategies: user needs then and now.
+conf/siguccs/Quiner97:::Michael Quiner:::Escaping the paranoid-critical trap.
+conf/siguccs/DavidsonB90:::Phyllis H. Davidson::Donna G. Burrow:::Distributed support model for implementation of library automation (IO) at Indiana University.
+conf/siguccs/Smith90a:::John W. Smith:::The interaction of technology, economics, &amp; culture as a basis for understanding academic computing support needs.
+conf/siguccs/BrouiletteS02:::Gordana Brouilette::Cindy Stewart:::Benefits and strategies of implementing educational software site licenses.
+conf/siguccs/AllenW02:::Jon Allen::Jeff Wilson:::Securing a wireless network.
+conf/siguccs/KaddahE95:::Mona M. Kaddah::Maha Elkoshairy:::Round the clock user services: new concepts and experiences.
+conf/siguccs/Woodbury96:::Marsha Woodbury:::LEEP3 - distance education tips.
+conf/siguccs/Young90:::Karin Young:::Developing a catalog of software &amp; hardware.
+conf/siguccs/Major93:::John H. Major:::User services staff &amp; faculty collaboration: cruel and unusual punishment?
+conf/siguccs/Dunker94:::Jeffrey D. Dunker:::Employee empowerment in the computer consultant field: an ISC facilities management perspective.
+conf/siguccs/HaskettSTS91:::James A. Haskett::John W. Smith::George Town::Susan F. Stager:::Practical management of computer ethics: computer center and computer science department approaches.
+conf/siguccs/Peters93:::Sandra L. Peters:::Expanding the help desk to simplify customer access to CIT services: the integration of services across platforms, applications, and units.
+conf/siguccs/Smith01:::Carol L. Smith:::Strategies for supporting the 'human processes' in team-based instructional development projects.
+conf/siguccs/Smith90:::Andrew M. Smith:::Computer conferencing in the liberal arts classroom.
+conf/siguccs/Sponaugle98:::Jeffrey Sponaugle:::A Seven-Step Model for Achieving Year 2000 Compliance.
+conf/siguccs/Safian95:::Roger A. Safian:::Secure your network in ten easy steps.
+conf/siguccs/Durack92:::Katherine Durack:::Publishing on the cheap: one idea that worked.
+conf/siguccs/Gammill91:::Susan H. Gammill:::Strategies for small schools "reaching out to the community".
+conf/siguccs/Hawkins90:::Ben Hawkins:::Moving BITnet users from one operating system to another: problems &amp; solutions.
+conf/siguccs/DillardR01:::A. D. Dillard::Galen Raether:::IT staff training and development.
+conf/siguccs/Miller93b:::Mike W. Miller:::Managing Macs made painless: leveraging the right tools for the job.
+conf/siguccs/SommersH98:::Kay Sommers::Jane Hesler:::Shared Responsibility: An Approach to Productive LAN Management.
+conf/siguccs/ZannisM92:::Marie A. Zannis::Deborah Mateik:::Pursuit of excellence in a peer training program.
+conf/siguccs/Cepull99:::Jeffrey C. Cepull:::Technology Training Partnerships - University of Pittsburgh, Pittsburgh City Schools and Community College of Allegheny County.
+conf/siguccs/Stock93:::Robert B. Stock:::Future directions in online information at MetaCenter.
+conf/siguccs/August94:::Robert H. August:::Strategic planning in computer services: is the tail wagging the dog?
+conf/siguccs/Flynn99:::Nancy A. Flynn:::Schmoozing at the Home Office: Reflections on Telecommuting and Flexible Work Arrangements for IT Professionals.
+conf/siguccs/Gregory-Mix98:::Lisa Gregory-Mix:::A Student-run Helpdesk at Cornell University - Does it Work?
+conf/siguccs/TelatnikC93:::George M. Telatnik::Joel A. Cohen:::Working together: the library and the computer center.
+conf/siguccs/MajorMMMPS95:::John Major::Judy Martin::Robert Minato::Andrea Mox::Marlene Pratto::Martie Skinner:::Keeping it going: a progress report on the 2nd year of coast-to-coast consulting.
+conf/siguccs/Mojta99:::Debbie Mojta:::Facilitating netscape in a public PC lab for a mobile student population (poster).
+conf/siguccs/McGrath02:::Owen G. McGrath:::Building an instructional portal: channeling the writing lab.
+conf/siguccs/Walter93a:::Jenny E. Walter:::Striving for competent student consultants.
+conf/siguccs/McGarrity01:::Jerry McGarrity:::Implementing a knowledge management solution: from scattered, individual tools to a shared, fully-stocked workshop.
+conf/siguccs/KirchnerZJ98:::Kathy Kirchner::Sana Zeidan::Jerry Jones:::How We Survived the Tantrums and Stopped the Kicking and Screaming.
+conf/siguccs/Brandt94:::D. Scott Brandt:::Dynamic approaches to setting learning objectives when teaching with new technologies.
+conf/siguccs/Littleton94:::Linda Littleton:::HDD: a helpdesk database.
+conf/siguccs/PavolkaS91:::Rita Pavolka::Susan F. Stager:::Administrative workstation project: computer training for the vice president's office.
+conf/siguccs/Axlerod97:::Harvey Axlerod:::Creating an atmosphere of responsible computing.
+conf/siguccs/LercheyP00:::John K. Lerchey::Constance J. Paras:::Shaping a New Generation of Users - You Can Show Them the Policies, but You Can't Make Them Think.
+conf/siguccs/Steinwart97:::Marlane C. Steinwart:::Nightmare on Elm Street to It's a Wonderful Life: a port-per-pillow networking experience at Valparaiso University.
+conf/siguccs/TuncA01:::Yasemin Tunc::Marchal Armstead:::Computer based testing: the ball state experience.
+conf/Lsystems/Nielsen74:::Mogens Nielsen:::Equivalence of L-Systems.
+conf/Lsystems/Lindenmayer74:::Aristid Lindenmayer:::Adding Continuous Components to L-Systems.
+conf/Lsystems/Salomaa74:::Arto Salomaa:::Iteration Grammars and Lindenmayer AFL's.
+conf/Lsystems/Vitanyi74a:::Paul M. B. Vitányi:::Growth of Strings in Context Dependent Lindenmayer Systems.
+conf/Lsystems/Doucet74:::P. G. Doucet:::The Syntactic Inference Problem for D0L-Sequences.
+conf/Lsystems/Vitanyi74:::Paul M. B. Vitányi:::On the Size of D0L Languages.
+conf/sirocco/GvozdjakP99:::Peter Gvozdjak::Joseph G. Peters:::Gossiping in Inclined LEO Satellite Networks.
+conf/sirocco/DobrevRT98:::Stefan Dobrev::Peter Ruzicka::Gerard Tel:::Time and Bit Optimal Broadcasting on Anonymous Unoriented Hypercubes.
+conf/sirocco/VounckxDL95:::Johan Vounckx::Geert Deconinck::Rudy Lauwereins:::A Compact Fault-tolerant, Deadlock-free, Minimal Routing Algorithm for n-Dimensional Wormhole Switching Based Meshes.
+conf/sirocco/Barriere99:::Lali Barrière:::Triangulations and Chrodal Rings.
+conf/sirocco/VerweijT95:::Bram Verweij::Gerard Tel:::A Monte Carlo Algorithm for Election.
+conf/sirocco/FlocchiniMS95:::Paola Flocchini::Bernard Mans::Nicola Santoro:::Translation Capabilities of Sense of Direction.
+conf/sirocco/WattenhoferW98:::Roger Wattenhofer::Peter Widmayer:::The counting pyramid: an adaptive distributed counting scheme.
+conf/emmcvpr/Murino97:::Vittorio Murino:::Integration of Confidence Information by Markov Random Fields for Reconstruction of Underwater 3D Acoustic Images.
+conf/emmcvpr/LiuG97:::Tyng-Luh Liu::Davi Geiger:::Visual Deconstruction: Recognizing Articulated Objects.
+conf/emmcvpr/CamionY01:::Vincent Camion::Laurent Younes:::Geodesic Interpolating Splines.
+conf/emmcvpr/TorselloH03:::Andrea Torsello::Edwin R. Hancock:::Learning Mixtures of Tree-Unions by Minimizing Description Length.
+conf/emmcvpr/CazorlaEGR99:::Miguel Cazorla::Francisco Escolano::Domingo Gallardo::Ramón Rizo:::Bayesian Models for Finding and Grouping Junctions.
+conf/emmcvpr/FusielloCM01:::Andrea Fusiello::Umberto Castellani::Vittorio Murino:::Relaxing Symmetric Multiple Windows Stereo Using Markov Random Fields.
+conf/emmcvpr/SagivSZ01:::Chen Sagiv::Nir A. Sochen::Yehoshua Y. Zeevi:::Gabor Feature Space Diffusion via the Minimal Weighted Area Method.
+conf/emmcvpr/SamsonBAZ01:::Christophe Samson::Laure Blanc-Féraud::Gilles Aubert::Josiane Zerubia:::Two Variational Models for Multispectral Image Classification.
+conf/emmcvpr/Herbin03:::Stéphane Herbin:::Active Sampling Strategies for Multihyposthesis Testing.
+conf/emmcvpr/TupinSCV97:::Florence Tupin::Marc Sigelle::Ammar Chkeif::Jean-Pierre Véran:::Restoration of SAR Images Using Recovery of Discontinuities and Non-linear Optimization.
+conf/emmcvpr/BoykovK01:::Yuri Boykov::Vladimir Kolmogorov:::An Experimental Comparison of Min-cut/Max-flow Algorithms for Energy Minimization in Vision.
+conf/emmcvpr/SanchesM01:::João M. Sanches::Jorge S. Marques:::A Fast MAP Algorithm for 3D Ultrasound.
+conf/emmcvpr/AguiarM01:::Pedro M. Q. Aguiar::José M. F. Moura:::Maximum Likelihood Estimation of the Template of a Rigid Moving Object.
+conf/cognitive/Skousen72:::Royal Skousen:::Empirical Restrictions on the Power of Transformation Grammars.

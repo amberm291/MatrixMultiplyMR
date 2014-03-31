@@ -1,0 +1,200 @@
+conf/ki/Steels84:::Luc Steels:::Design Requirements for Knowledge Representation Systems.
+conf/ki/Gunter93:::Andreas Günter:::Modelle beim Konfigurieren.
+conf/ki/Latecki90:::Longin Jan Latecki:::Topologie in Depiktionen.
+conf/ki/KirnS91:::Stefan Kirn::Gunter Schlageter:::FRESCO: Eine Bankenapplikation als Testbed für die föderative Kooperation von Expertensystemen.
+conf/ki/AsherL94:::Nicholas Asher::Jérôme Lang:::When Nonmonotonicity Comes from Distances.
+conf/ki/HoracekKW86:::Helmut Horacek::Hermann Kaindl::Marcus Wagner:::Decision Making in Unclear Situations.
+conf/ki/KindermannQ88:::Carsten Kindermann::Joachim Quantz:::Wissenspräsentation und -repräsentation.
+conf/ki/DilgerJ83:::Werner Dilger::Agnes Janson:::Unifikationsgraphen für intelligentes Backtracking in Deduktionssystemen.
+conf/ki/BergmannQ95:::Frank W. Bergmann::Joachim Quantz:::Parallelizing Description Logics.
+conf/ki/BergmannV99:::Ralph Bergmann::Ivo Vollrath:::Generalized Cases: Representation and Steps Towards Efficient Similarity Assessment.
+conf/ki/Eschenbach89:::Carola Eschenbach:::Komplexe Individuen in Referentiellen Netzen.
+conf/ki/BauerS84:::Dorothea Bauer::Matthias Schneider:::STRUPPI: Ein graphischer Pretty-Printer für LISP-Strukturen.
+conf/ki/KraetzschmarS96:::Gerhard K. Kraetzschmar::Josef Schneeberger:::Managing Multiple Contexts Efficiently.
+conf/ki/Thiel90:::Ulrich Thiel:::Konversationale Modellierung graphisch-interaktiver Systeme: Ein Beispiel.
+conf/ki/BeckerL94:::Andreas Becker::Gerhard Lakemeyer:::Epistemic Queries in Classic.
+conf/ki/Gappa91:::Ute Gappa:::Graphische Wissensrepräsentationen.
+conf/ki/HertzbergGVFV88:::Joachim Hertzberg::Hans W. Guesgen::Angi Voß::Manfred Fidelak::Hans Voß:::Relaxing Constraint Networks to Resolve Inconsistencies.
+conf/ki/FronhoferCJ84:::Bertram Fronhöfer::Ricardo Caferra::Philippe Jacquet:::Improvement of Recursive Programs from a Logic Programming Point of View.
+conf/ki/Diederich87:::Joachim Diederich:::Techniken des Wissenserwerbs.
+conf/ki/Wahlster93:::Wolfgang Wahlster:::Verbmobil - Translation of Face-To-Face Dialogs.
+conf/ki/PaassK93:::Gerhard Paass::Franz J. Kurfess:::Wissensverarbeitung mit neuronalen Netzen.
+conf/ki/Kanngiesser89:::Siegfried Kanngießer:::Korrespondenzen zwischen KI und Linguistik.
+conf/ki/KasperK96:::Walter Kasper::Hans-Ulrich Krieger:::Integration of Prosodic and Grammatical Information in the Analysis of Dialogs.
+conf/ki/PomplunVR94:::Marc Pomplun::Boris Velichkovsky::Helge Ritter:::An Artificial Neural Network for High Precision Eye Movement Tracking.
+conf/ki/Fritzke99:::Bernd Fritzke:::Be Busy and Unique ... or Be History - The Utility Criterion for Removing Units in Self-Organizing Networks.
+conf/ki/EmdeHR82:::Werner Emde::Christopher Habel::Claus-Rainer Rollinger:::Automatische Akquisition von inferentiellem Wissen.
+conf/ki/PuppeP83:::Frank Puppe::Bernhard Puppe:::Overview on MED1: A Heuristic Diagnostics System with an Efficient Control-Structure.
+conf/ki/PuppeP84:::Frank Puppe::Bernhard Puppe:::Diagnostic Reasoning with a Working Memory.
+conf/ki/KerberK97:::Manfred Kerber::Michael Kohlhase:::Mechanising Partiality With Re-implementation.
+conf/ki/Eisinger81:::Norbert Eisinger:::Subsumption and Connectionsgraphs.
+conf/ki/Madler91:::Fritz Mädler:::Problemzerlegung als optimalitätserhaltende Operatorabstraktion.
+conf/ki/Schaedler94:::Kristina Schaedler:::Graphtheoretical Algorithms and Knowledge-Based Design.
+conf/kr/Schild94:::Klaus Schild:::Terminological Cycles and the Propositional µ-Calculus.
+conf/kr/BerN02:::Florence Le Ber::Amedeo Napoli:::Design and Comparison of Lattices of Topological Relations Based on Galois Lattice Theory.
+conf/kr/CalvaneseLN94:::Diego Calvanese::Maurizio Lenzerini::Daniele Nardi:::A Unified Framework for Class-Based Representation Formalisms.
+conf/kr/KautzS89:::Henry A. Kautz::Bart Selman:::Hard Problems for Simple Default Logics.
+conf/kr/Kaufman91:::Stephen G. Kaufman:::A Formal Theory of Spatial Reasoning.
+conf/kr/BrassDNP98:::Stefan Brass::Jürgen Dix::Ilkka Niemelä::Teodor C. Przymusinski:::A Comparison of the Static and the Disjunctive Well-Founded Semantics and its Implementation.
+conf/kr/Haas92:::Andrew R. Haas:::A Reactive Planner that Uses Explanation Closure.
+conf/kr/Lenzerini98:::Maurizio Lenzerini:::Description Logics and their Applications.
+conf/kr/Lin02:::Fangzhen Lin:::Reducing Strong Equivalence of Logic Programs to Entailment in Classical Propositional Logic.
+conf/kr/Lin98:::Fangzhen Lin:::On Measuring Plan Quality (A Preliminary Report).
+conf/kr/Levesque98a:::Hector J. Levesque:::What Robots Can Do.
+conf/kr/MarekT89:::V. Wiktor Marek::Miroslaw Truszczynski:::Relating Autoepistemic and Default Logics.
+conf/kr/CalvaneseGLV00:::Diego Calvanese::Giuseppe De Giacomo::Maurizio Lenzerini::Moshe Y. Vardi:::Containment of Conjunctive Regular Path Queries with Inverse.
+conf/kr/KoenigS94:::Sven Koenig::Reid G. Simmons:::Risk-Sensitive Planning with Probabilistic Decision Graphs.
+conf/kr/Pinto98:::Javier Pinto:::Concurrent Actions and Interacting Effects.
+conf/kr/GiacomoINR96:::Giuseppe De Giacomo::Luca Iocchi::Daniele Nardi::Riccardo Rosati:::Moving a Robot: The KR&amp;R Approach at Work.
+conf/kr/GreinerS92:::Russell Greiner::Dale Schuurmans:::Learning Useful Horn Approximations.
+conf/kr/Ryan92:::Mark Ryan:::Representing Defaults as Sentences with Reduced Priority.
+conf/kr/KautzMS96:::Henry A. Kautz::David A. McAllester::Bart Selman:::Encoding Plans in Propositional Logic.
+conf/kr/FriedmanH94:::Nir Friedman::Joseph Y. Halpern:::A Knowledge-Based Framework for Belief Change, Part II: Revision and Update.
+conf/kr/MorrisM00:::Robert A. Morris::Paul H. Morris:::On the complexity of reasoning about repeating events.
+conf/kr/EtzioniHWDLW92:::Oren Etzioni::Steve Hanks::Daniel S. Weld::Denise Draper::Neal Lesh::Mike Williamson:::An Approach to Planning with Incomplete Information.
+conf/kr/Delgrande92:::James P. Delgrande:::Accessibility in Logics of Explicit Belief.
+conf/kr/LakemeyerM94:::Gerhard Lakemeyer::Susanne Meyer:::Enhancing the Power of a Decidable First-Order Reasoner.
+conf/kr/SkinnerL92:::James M. Skinner::George F. Luger:::An Architecture for Integrating Reasoning Paradigms.
+conf/kr/Bennett98:::Brandon Bennett:::Modal Semantics for Knowledge Bases Dealing with Vague Concepts.
+conf/kr/BaralMS00:::Chitta Baral::Sheila A. McIlraith::Tran Cao Son:::Formulating diagnostic problem solving using an action language with narratives and sensing.
+conf/kr/Galton00:::Antony Galton:::Continuous Motion in Discrete Space.
+conf/kr/BaaderHNPF92:::Franz Baader::Bernhard Hollunder::Bernhard Nebel::Hans-Jürgen Profitlich::Enrico Franconi:::An Empirical Analysis of Optimization Techniques for Terminological Representation Systems, or Making KRIS Get a Move On.
+conf/kr/DohertyLM98:::Patrick Doherty::Witold Lukaszewicz::Ewa Madalinska-Bugaj:::The PMA and Relativizing Minimal Change for Action Update.
+conf/kr/EiterL00:::Thomas Eiter::Thomas Lukasiewicz:::Complexity Results for Default Reasoning from Conditional Knowledge Bases.
+conf/kr/GinsbergP00:::Matthew L. Ginsberg::Andrew J. Parkes:::Satisfiability Algorithms and Finite Quantification.
+conf/kr/Williams94:::Mary-Anne Williams:::Transmutations of Knowledge Systems.
+conf/kr/DierbachC91:::Charles Dierbach::Daniel L. Chester:::A Formal Basis for Analogical Reasoning.
+conf/kr/CrawfordGLR96:::James M. Crawford::Matthew L. Ginsberg::Eugene M. Luks::Amitabha Roy:::Symmetry-Breaking Predicates for Search Problems.
+conf/kr/LiberatoreS00:::Paolo Liberatore::Marco Schaerf:::BReLS: A System for the Integration of Knowledge Bases.
+conf/kr/Schmidt-Schauss89:::Manfred Schmidt-Schauß:::Subsumption in KL-ONE is Undecidable.
+conf/kr/InoueS94:::Katsumi Inoue::Chiaki Sakama:::On Positive Occurrences of Negation as Failure.
+conf/kr/InoueS98:::Katsumi Inoue::Chiaki Sakama:::Specifying Transactions for Extended Abduction.
+conf/kr/Konolige94:::Kurt Konolige:::Easy to be Hard: Difficult Problems for Greedy Algorithms.
+conf/kr/BasinMV96:::David A. Basin::Seán Matthews::Luca Viganò:::Implementing Modal and Relevance Logics in a Logical Framework.
+conf/kr/GiunchigliaG98:::Fausto Giunchiglia::Chiara Ghidini:::Local Models Semantics, or Contextual Reasoning = Locality + Compatibility.
+conf/kr/Bochman96:::Alexander Bochman:::Biconsequence Relations for Nonmonotonic Reasoning.
+conf/kr/CadoliEG94:::Marco Cadoli::Thomas Eiter::Georg Gottlob:::Default Logic as a Query Language.
+conf/kr/Lakemeyer92:::Gerhard Lakemeyer:::All You Ever Wanted to Know about Tweety (But Were Afraid to Ask).
+conf/kr/RychtyckyjR00:::Nestor Rychtyckyj::Robert G. Reynolds:::Long-Term Maintanability of Deployed Knowledge Representation Systems.
+conf/kr/Padghamd94:::Lin Padgham:::Systems vs. Theory vs. ... : KR&amp;R Research Methodologies (Abstract).
+conf/kr/Nebel89:::Bernhard Nebel:::A Knowledge Level Analysis of Belief Revision.
+conf/kr/CroccoL92:::Gabriella Crocco::Philippe Lamarre:::On the Connection between Non-monotonic Inference Systems and Conditional Logics.
+conf/kr/Karlsson98:::Lars Karlsson:::Anything Can Happen: On Narratives and Hypothetical Reasoning.
+conf/kr/MoinardR94:::Yves Moinard::Raymond Rolland:::Preferential Entailments for Circumscriptions.
+conf/kr/TeijeH96:::Annette ten Teije::Frank van Harmelen:::Computing Approximate Diagnoses By Using Approximate Entailment.
+conf/kr/Weydert98:::Emil Weydert:::SYSTEM JZ - How to Build a Canonical Ranking Model of a Default Knowledge Base.
+conf/kr/Poesio92:::Massimo Poesio:::Conversational Events and Discourse State Change: A Preliminary Report.
+conf/kr/CadoliDLS96:::Marco Cadoli::Francesco M. Donini::Paolo Liberatore::Marco Schaerf:::Comparing Space Efficiency of Propositional Knowledge Representation Formalisms.
+conf/kr/Bylander91:::Tom Bylander:::The Monotonic Abduction Problem: A Functional Characterization on the Edge of Tractability.
+conf/kr/Voronkov00:::Andrei Voronkov:::Deciding K using inverse-K.
+conf/kr/Kusters98:::Ralf Küsters:::Characterizing the Semantics of Terminological Cycles in ALN Using Finite Automata.
+conf/kr/Geffner91:::Hector Geffner:::Beyond Negation as Failure.
+conf/ma/HurstCS97:::Leon Hurst::Padraig Cunningham::Fergal Somers:::Mobile Agents - Smart Messages.
+conf/ma/ChenL97:::Wen-Shyen E. Chen::Chun-Wu Roger Leng:::A Novel Mobile Agent Search Algorithm.
+conf/ma/MilojicicBBCCFKLOOTVW98:::Dejan S. Milojicic::Markus Breugst::Ingo Busse::John Campbell::Stefan Covaci::Barry Friedman::Kazuya Kosaka::Danny B. Lange::Kouichi Ono::Mitsuru Oshima::Cynthia Tham::Sankar Virdhagriswaran::Jim White:::MASIF: The OMG Mobile Agent System Interoperability Facility.
+conf/ma/BrandtR01:::Raimund Brandt::Helmut Reiser:::Dynamic Adaptation of Mobile Agents in Heterogenous Environments.
+conf/ma/KupperP98:::Axel Küpper::Anthony Sang-Bum Park:::Stationary vs. Mobile User Agents in Future Mobile Telecommunication Networks.
+conf/ma/Satoh00:::Ichiro Satoh:::MobiDoc: A Framework for Building Mobile Compound Documents from Hierarchical Mobile Agents.
+conf/ma/GazitBH00:::Hovav Gazit::Israel Ben-Shaul::Ophir Holder:::Monitoring-Based Dynamic Relocation of Components in FarGo.
+conf/ma/BaldiGP97:::Mario Baldi::Silvano Gai::Gian Pietro Picco:::Exploiting Code Mobility in Decentralized and Flexible Network Management.
+conf/ma/ThatiCA01:::Prasannaa Thati::Po-Hao Chang::Gul Agha:::Crawlets: Agents for High Performance Web Search Engines.
+conf/ma/CalistiF00:::Monique Calisti::Boi Faltings:::Agent-Based Negotiations for Multi-provider Interactions.
+conf/ma/SilvaK97:::Flávio M. Assis Silva::Sven Krause:::A Distributed Transaction Model based on Mobile Agents.
+conf/ma/ChangC97:::Daniel T. Chang::Stefan Covaci:::The OMG Mobile Agent Facility: A Submission.
+conf/lp/Terada88:::Minoru Terada:::Implementation of Full GHC by Communicating Processes.
+conf/lp/ShiA89:::Yihua Shi::Setsuo Arikawa:::Time-Bounded Reasoning in First Order Knowledge Base Systems.
+conf/lp/DongN89:::Fangqing Dong::Hirosi Nakagawa:::Semantics of Non-montonic Reasoning based on Perfect Model.
+conf/lp/ImanakaUT87:::Takeshi Imanaka::Kuniaki Uehara::Jun'ichi Toyoda:::Analogical Program Synthesis from Program Components.
+conf/lp/KurataN87:::Akiko Kurata::Hideyuki Nakashima:::Manipulation of Embedded Context Using the Multiple World Mechanism.
+conf/lp/Shintani87:::Toramatsu Shintani:::An Approach to Speeding Up the Prolog=based Inference Engine KORE/IE.
+conf/lp/TakahashiK86:::Kazuko Takahashi::Tadashi Kanamori:::On Parallel Programming Methodology in GHC.
+conf/lp/TakahashiS85:::Hidehisa Takahashi::Etsuya Shibayama:::PRESET - A Debugging Environment for Prolog.
+conf/lp/NodaKOHH85:::Yasunori Noda::Tetsuo Kinoshita::Akira Okumura::Tatsuro Hirano::Tadashi Hiruta:::A Parallel Logic Simulator Based on Concurrent Prolog.
+conf/mi/BainS93:::Michael Bain::Ashwin Srinivasan:::Inductive Logic Programming With Large-Scale Unstructured Data.
+conf/mi/Tate93:::Austin Tate:::Putting knowledge rich plan representations to use.
+conf/mi/HandaNM94:::Ken'ichi Handa::M. Nishikimi::Hitoshi Matsubara:::Utilizing Structure Information in Concept Formation.
+conf/mi/Copeland95a:::B. Jack Copeland:::A Lecture and Two Radio Broadcasts on Machine Intelligence by Alan Turing.
+conf/mi/Steels95:::Luc Steels:::The Spontaneous Self-organization of an Adaptive Language.
+conf/mi/NumaoMK95:::Masayuki Numao::Shigekazu Morita::Kenichi Karaki:::A Learning Mechanism for Logic Programs Using Dynamically Shared Substructures.
+conf/mi/Davies95:::Donald W. Davies:::Repairs to Turing's Universal Computing Machine.
+conf/mi/Bratko93:::Ivan Bratko:::Deriving qualitative control for dynamic systems.
+conf/mm/DixonO01:::John Dixon::Charles B. Owen:::Fast client-server video summarization for continuous capture.
+conf/mm/Brooks96:::Kevin M. Brooks:::Do Story Agents Use Rocking Chairs? The Theory and Implementation of One Model for Computational Narrative.
+conf/mm/FoxHLW99:::Edward A. Fox::Rachelle S. Heller::Anna Long::David Watkins:::CRIM: curricular resources in interactive multimedia.
+conf/mm/Fels00:::Sidney Fels:::Intimacy and embodiment: implications for art and technology.
+conf/mm/Even95:::Tirtza Even:::CityQuilt.
+conf/mm/GutfreundDP93:::Yechezkal-Shimon Gutfreund::José P. Diaz-Gonzalez::Russell Sasnett::Vincent Phuah:::CircusTalk: An Orchestration Service for Distributed Multimedia.
+conf/mm/PochuevaMP99:::Julie Pochueva::Ethan V. Munson::Denis Pochuev:::Optimizing video-on-demand through requestcasting.
+conf/mm/HanS96:::Jefferson Han::Brian C. Smith:::CU-SeeMe VR Immersive Desktop Teleconferencing.
+conf/mm/Subramanya99:::S. R. Subramanya:::A distributed algorithm for the classification of images on a network of workstations.
+conf/mm/PappB96:::Albert L. Papp III::Meera Blattner:::Dynamic Presentation of Asynchronous Auditory Output.
+conf/mm/Jiao00:::Binjia Jiao:::Multimedia presentation database system.
+conf/mm/LargeBBR94:::Andrew Large::Jamshid Beheshti::Alain Breuleux::Andre Renaud:::The Influence of Multimedia on Learning: A Cognitive Study.
+conf/mm/KauT94:::S. C. Kau::J. Tseng:::MQL - A Query Language for Multimedia Databases.
+conf/mm/KimS95:::Michelle Y. Kim::Junehwa Song:::Multimedia Documents with Elastic Time.
+conf/mm/LiYCWZXNWWS01:::Jiang Li::Keman Yu::Gang Chen::Yong Wang::Hanning Zhou::Jizheng Xu::King To Ng::Kaibo Wang::Lijie Wang::Heung-Yeung Shum:::Portrait video phone.
+conf/mm/NamT99:::Jeho Nam::Ahmed H. Tewfik:::Dynamic video summarization and visualization.
+conf/mm/ChoiLR00:::Kyung-Sam Choi::Chi-Hoon Lee::Phill-Kyu Rhee:::Document ontology based personalized filtering system (poster session).
+conf/mm/OlbrichP01:::Stephan Olbrich::Helmut Pralle:::A tele-immersive, virtual laboratory approach based on real-time streaming of 3D scene sequences.
+conf/mm/SampaioC00:::Paulo Nazareno Maia Sampaio::Jean-Pierre Courtiat:::A formal approach for the presentation of interactive multimedia documents.
+conf/mm/PonceleonASSP99:::Dulce B. Ponceleon::Arnon Amir::Savitha Srinivasan::Tanveer Fathima Syeda-Mahmood::Dragutin Petkovic:::CueVideo: automated multimedia indexing and retrieval.
+conf/mm/DelisPM98:::Vasilis Delis::Dimitris Papadias::Nikos Mamoulis:::Assessing Multimedia Similarity: A Framework for Structure and Motion.
+conf/mm/Rada93:::Roy Rada:::Multimedia CD-Rom Conference Publishing (Panel Session).
+conf/mm/Danskin94:::John M. Danskin:::Higher Bandwidth X.
+conf/mm/ChungC00:::Jae Chung::Mark Claypool:::Dynamic-CBT and ChIPS - router support for improved multimedia performance on the Internet.
+conf/mm/GovilYN00:::Alok Govil::Suya You::Ulrich Neumann:::A video-based augmented reality golf simulator.
+conf/mm/WangZZLZ02:::Yijin Wang::Peng Zhao::Dong Zhang::Mingjing Li::HongJiang Zhang::: <i>MyVideos</i>: a system for home video management.
+conf/mm/DanSS94:::Asit Dan::Dinkar Sitaram::Perwez Shahabuddin:::Scheduling Policies for an On-Demand Video Server with Batching.
+conf/mm/SundaramC00:::Hari Sundaram::Shih-Fu Chang:::Determining computable scenes in films and their structures using audio-visual memory models.
+conf/mm/CamposRMB99:::Sérgio Vale Aguiar Campos::Berthier A. Ribeiro-Neto::Autran Macedo::Luciano Bertini:::Formal verification and analysis of multimedia systems.
+conf/mm/FischerLE95a:::Stephan Fischer::Rainer Lienhart::Wolfgang Effelsberg:::Automatic Recognition of Film Genres (Demonstration).
+conf/mm/Holfelder95:::Wieland Holfelder:::MBone VCR: Video Conference Recording on the MBone.
+conf/mm/DagtasMA00:::Serhan Dagtas::Thomas McGee::Mohamed Abdel-Mottaleb:::SmartWatch: an automated video event finder.
+conf/mm/WijayaratneR01:::Ravi Wijayaratne::A. L. Narasimha Reddy:::System support for providing integrated services from networked multimedia storage servers.
+conf/mm/TangWH02:::Wai-Kwan Tang::Tien-Tsin Wong::Pheng-Ann Heng:::The immersive cockpit.
+conf/mm/PfeifferFE96:::Silvia Pfeiffer::Stephan Fischer::Wolfgang Effelsberg:::Automatic Audio Content Analysis.
+conf/mm/ArmanHC93:::Farshid Arman::Arding Hsu::Ming-Yee Chiu:::Image Processing on Compressed Data for Large Video Databases.
+conf/mm/ChandramouliM00:::R. Chandramouli::Nasir D. Memon:::A distributed detection framework for Steganalysis.
+conf/mm/HibinoR97:::Stacie Hibino::Elke A. Rundensteiner:::User Interface Evaluation of a Direct Manipulation Temporal Visual Query Language.
+conf/mm/McCanneJ95:::Steven McCanne::Van Jacobson::: <i>vic</i>: A Flexible Framework for Packet Video.
+conf/mm/KimKK99:::Sang Gil Kim::Sang Taek Kim::Young Sun Kim:::A work area adjustment method of a shared document in a multipoint multimedia conference system.
+conf/mm/ItohIT99:::Yasumasa Itoh::Yoshinori Izumi::Yutaka Tanaka:::A study on estimation of high resolution component for image enhancement using wavelet.
+conf/mm/MerialdoLLR99:::Bernard Mérialdo::Kyung Tak Lee::Dario Luparello::Jeremie Roudaire:::Automatic construction of personalized TV news programs.
+conf/mm/RadenkovicG02:::Milena Radenkovic::Chris Greenhalgh:::Multi-party distributed audio service with TCP fairness.
+conf/mm/Drapeau93:::George D. Drapeau:::Synchronization in the MAEstro Multimedia Authoring Environment.
+conf/mm/ValleD02:::Ana C. Andrés del Valle::Jean-Luc Dugelay:::Online face analysis: coupling head pose-tracking with face expression analysis.
+conf/mm/SebeL99:::Nicu Sebe::Michael S. Lew:::Robust color indexing.
+conf/mm/MostefaouiFB02:::Ahmed Mostefaoui::Loic Favory::Lionel Brunie:::SIRSALE: a large scale video indexing and content-based retrieving system.
+conf/mm/HuangKM97:::Jing Huang::Ravi Kumar::Mandar Mitra:::Combining Supervised Learning with Color Correlograms for Content-Based Image Retrieval.
+conf/mm/LiangSG01:::Yi J. Liang::Eckehard G. Steinbach::Bernd Girod:::Real-time voice communication over the internet using packet path diversity.
+conf/mm/ShimC00:::Choon-Bo Shim::Jae-Woo Chang:::Spatio-temporal representation and retrieval using moving object's trajectories.
+conf/mm/GinsbergA95:::Allen Ginsberg::Sid Ahuja:::Automating Envisionment of Virtual Meeting Room Histories.
+conf/mm/RollandRG99:::Pierre-Yves Rolland::Gailius Raskinis::Jean-Gabriel Ganascia:::Musical content-based retrieval: an overview of the Melodiscov approach and system.
+conf/mm/Yankelovich95:::Nicole Yankelovich:::SpeechActs: A Conversational Speech System (Video).
+conf/mm/MackayP94:::Wendy E. Mackay::Daniele Pagani:::Video Mosaic: Laying Out Time in a Physical Space.
+conf/mm/McGeeDA99:::Thomas McGee::Nevenka Dimitrova::Lalitha Agnihotri:::ADVISO demonstration: a video content management system.
+conf/mm/SunFKM01:::Xinding Sun::Jonathan Foote::Don Kimber::B. S. Manjunath:::Panoramic video capturing and compressed domain virtual camera control.
+conf/mm/Roussel02:::Nicolas Roussel:::Experiences in the design of the <i>well</i>, a group communication device for <i>teleconviviality</i>.
+conf/mm/SunZZL02:::Yanfeng Sun::HongJiang Zhang::Lei Zhang::Mingjing Li::: <i>MyPhotos</i>: a system for home photo management and processing.
+conf/mm/HallABRS99:::Wendy Hall::Philippe Aigrain::Dick C. A. Bulterman::Lawrence A. Rowe::Brian Smith:::Multimedia research: the grand challenges for the next decade (panel session).
+conf/mm/LittleAFGRSV93:::Thomas D. C. Little::Gulrukh Ahanger::R. J. Folz::J. F. Gibbon::F. W. Reeve::D. H. Schelleng::Dinesh Venkatesh:::A Digital On-Demand Video Service Supporting Content-Based Queries.
+conf/mm/DonTLA94:::Abbe Don::Laura Teodosio::Joe Lambert::Dana Atchley:::From Generation to Generation: Multimedia, Community and Personal Stories (Panel).
+conf/mm/NackL00:::Frank Nack::Craig A. Lindley:::Production and maintenance environments for interactive audio-visual stories.
+conf/mm/FaradayS96:::Peter Faraday::Alistair G. Sutcliffe:::An Empirical Study of Attending and Comprehending Multimedia Presentations.
+conf/mm/LibsieK02:::Mulugeta Libsie::Harald Kosch:::Content adaptation of multimedia delivery and indexing using MPEG-7.
+conf/mm/TansleyDLH99:::Robert Tansley::Mark R. Dobie::Paul H. Lewis::Wendy Hall:::MAVIS 2: an architecture for content and concept based multimedia information exploration.
+conf/mm/RossumJMB93:::Guido van Rossum::Jack Jansen::K. Sjoerd Mullender::Dick C. A. Bulterman:::CMIFed: A Presentation Environment for Portable Hypermedia Documents.
+conf/mm/BornardLLC02:::Raphaél Bornard::Emmanuelle Lecan::Louis Laborelli::Jean-Hugues Chenot:::Missing data correction in still images and image sequences.
+conf/mm/ChambersLD01:::Desmond Chambers::Gerard Lyons::Jim Duggan:::Stream enhancements for the CORBA event service.
+conf/mm/BlechschmittS02:::Eric Blechschmitt::Christoph Strödecke:::An architecture to provide adaptive, synchronized and multimodal human computer interaction.
+conf/mm/GilPF02:::José A. Gil::Ana Pont::Emilio Forcén:::Interactive guide to valencia.
+conf/mm/Mayer-PatelLC02:::Ketan Mayer-Patel::Long Le::Georg Carle:::An MPEG performance model and its application to adaptive forward error correction.
+conf/mm/KohrsM99:::Arnd Kohrs::Bernard Mérialdo:::Improving collaborative filtering with multimedia indexing techniques to create user-adapting Web sites.
+conf/mm/Elliot93:::Chip Elliot:::High-Quality Multimedia Conferencing Through a Long-Haul Packet Network.
+conf/mm/HemphillT95:::Charles T. Hemphill::Philip R. Thrift:::Surfing the Web by Voice.
+conf/mm/KalvaCE99:::Hari Kalva::Lai-Tee Cheok::Alexandros Eleftheriadis:::MPEG-4 systems and applications.
+conf/mm/GohLC02:::King-Shy Goh::Beitao Li::Edward Y. Chang:::DynDex: a dynamic and non-metric space indexer.
+conf/mm/BaileyKC01:::Brian Bailey::Joseph A. Konstan::John V. Carlis:::DEMAIS: designing multimedia applications with interactive storyboards.
+conf/mm/MaojunWSLY99:::Zhang Maojun::Linda Wu::Lifeng Sun::Yunhao Li::Bing Yang:::VCS: a virtual environment support for awareness and collaboration.
+conf/mm/TurnerR99:::David A. Turner::Keith W. Ross:::Optimal streaming of synchronized multimedia presentations.
+conf/mm/GriwodzMDS98:::Carsten Griwodz::Oliver Merkel::Jana Dittmann::Ralf Steinmetz:::Protecting VoD the Easier Way.

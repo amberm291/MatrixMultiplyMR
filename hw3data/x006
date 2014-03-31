@@ -1,0 +1,200 @@
+journals/ec/HofmeyrF00:::Steven A. Hofmeyr::Stephanie Forrest:::Architecture for an Artificial Immune System.
+journals/ec/ZhangM95:::Byoung-Tak Zhang::Heinz Mühlenbein:::Balancing Accuracy and Parsimony in Genetic Programming.
+journals/ec/NeriS96:::Filippo Neri::Lorenza Saitta:::An Analysis of the ``Universal Suffrage'' Selection Operator.
+journals/ec/FonsecaF95:::Carlos M. Fonseca::Peter J. Fleming:::An Overview of Evolutionary Algorithms in Multiobjective Optimization.
+journals/dr/Jensen99a:::Christian S. Jensen:::Review - Multi-Step Processing of Spatial Joins.
+journals/dr/Bettini00a:::Claudio Bettini:::Review - Temporal Entity-Relationship Models - A Survey.
+journals/dr/Bettini00c:::Claudio Bettini:::Review - Temporal Logic in Information Systems.
+journals/dr/Jagadish99" reviewid="DBLP:conf/vldb/AcharyaGP99__jag" rating="SUPERB:::H. V. Jagadish:::Review - Aqua: A Fast Decision Support Systems Using Approximate Query Answers.
+journals/dr/Carey00:::Michael J. Carey:::Review - Context-Based Prefetch for Implementing Objects on Relations.
+journals/dr/Widom99a:::Jennifer Widom:::Review - Access Path Selection in a Relational Database Management System.
+journals/dr/Ross00:::Kenneth A. Ross:::Review - Description Logics in Data Management
+journals/dr/Jagadish99c:::H. V. Jagadish:::Review - A Novel Index Supporting High Volume Data Warehouse Insertion.
+journals/dr/Jagadish99e:::H. V. Jagadish:::Review - Relational Databases for Querying XML Documents: Limitations and Opportunities.
+journals/dr/Atzeni00a" reviewid="BookShashaTuning__atzeni" rating="SUPERB:::Paolo Atzeni:::Review - Database Tuning - A Principled Approach.
+journals/dr/Lesk99b:::Michael Lesk:::Review - Digital Library Technology for Locating and Accessing Scientific Data
+journals/dr/Snodgrass00a" reviewid="DBLP:conf/vldb/JagadishMN99__rts" rating="SUPERB:::Richard T. Snodgrass:::Review - Semantic Compression and Pattern Extraction with Fascicles.
+journals/dr/Snodgrass00d" reviewid="DBLP:conf/vldb/ChengGKLLQS99__rts" rating="SUPERB:::Richard T. Snodgrass:::Review - Implementation of Two Semantic Query Optimization Techniques in DB2 Universal Database.
+journals/dr/Snodgrass00e" reviewid="DBLP:journals/tkde/MaiocchiP91__rts" rating="SUPERB:::Richard T. Snodgrass:::Review - Temporal Data Management Systems: A Comparative View.
+journals/dr/Snodgrass99a:::Richard T. Snodgrass:::Review - Semantic Compression and Pattern Extraction with Fascicles.
+journals/dr/Bernstein99c:::Philip A. Bernstein:::Review - Versioning and Configuration Management in an Object-Oriented Data Model
+journals/dr/Weikum00b" reviewid="DBLP:conf/sigmod/GarofalakisGRSS00__weikum" rating="SUPERB:::Gerhard Weikum:::Review - XTRACT: A System for Extracting Document Type Descriptors from XML Documents.
+journals/dr/Winslett01b" reviewid="blp.benchmark.handbook__winslett" rating="SUPERB:::Marianne Winslett:::Review - The Benchmark Handbook for Database and Transaction Systems.
+journals/dr/Sellis00a" reviewid="DBLP:conf/sigmod/AcharyaGPR99__timos" rating="POS:::Timos K. Sellis:::Review - The Aqua Approximate Query Answering System.
+journals/hm/WaterworthC91:::John A. Waterworth::Mark H. Chignell:::A Model of Information Exploration.
+journals/hm/LeventhalTIF94:::Laura M. Leventhal::Barbee Teasley::Keith Instone::John Farhat:::Age related differences in the use of hypertext: Experiment and design guidelines.
+journals/hm/HutchingsCH92:::Gerard Hutchings::Les Carr::Wendy Hall:::StackMaker: An Environment for Creating Hypermedia Learning Material.
+journals/hm/HardmanBR93:::Lynda Hardman::Dick C. A. Bulterman::Guido van Rossum:::The Amsterdam Hypermedia Model: Extending Hypertext to Support Real Multimedia.
+journals/hm/Brown91:::Peter J. Brown:::Higher Level Hypertext Facilities: Procedures with Arguments.
+journals/hm/FurutaPS89:::Richard Furuta::Catherine Plaisant::Ben Shneiderman:::A Spectrum of Automatic Hypertext Constructions.
+journals/hm/KnuthB90:::Randy A. Knuth::Thomas A. Brush:::Results of the Hypertext'89 Design Survey.
+journals/ir/Campbell00:::Iain Campbell:::Interactive Evaluation of the Ostensive Model Using a New Test Collection of Images with Multiple Relevance Assessments.
+journals/ir/PirkolaHKJ01:::Ari Pirkola::Turid Hedlund::Heikki Keskustalo::Kalervo Järvelin:::Dictionary-Based Cross-Language Information Retrieval: Problems, Methods, and Research Findings.
+journals/ir/HugheyB00:::M. K. Hughey::Michael W. Berry:::Improved Query Matching Using kd-Trees: A Latent Semantic Indexing Enhancement.
+journals/ir/Yager00:::Ronald R. Yager:::A Hierarchical Document Retrieval Language.
+journals/ir/McCallumNRS00:::Andrew McCallum::Kamal Nigam::Jason Rennie::Kristie Seymore:::Automating the Construction of Internet Portals with Machine Learning.
+journals/ir/Sanderson00:::Mark Sanderson:::Retrieving with Good Sense.
+journals/ir/Holbrooks02:::M. Zoe Holbrooks:::The Text in the Machine: Electronic Texts in the Humanities.
+journals/is/DattaMKVB96:::Anindya Datta::Sarit Mukherjee::Prabhudev Konana::Igor R. Viguier::Akhilesh Bajaj:::Multiclass Transaction Scheduling and Overload Management in Firm Real-Time Database Systems.
+journals/is/Subieta87:::Kazimierz Subieta:::Denotational semantics of query languages.
+journals/is/Sciore94:::Edward Sciore:::Query Abbreviation in the Entity-Relationship Model.
+journals/is/Brodie80:::Michael L. Brodie:::The application of data types to database semantic integrity.
+journals/is/BertinoJS95:::Elisa Bertino::Sushil Jajodia::Pierangela Samarati:::Database Security: Research and Practice
+journals/is/DeHK82:::Prabuddha De::William D. Haseman::Charles H. Kriebel:::An extended model for database implementation.
+journals/is/BykowskiR03:::Artur Bykowski::Christophe Rigotti:::DBC: a condensed representation of frequent patterns for efficient mining.
+journals/is/DeHS81:::Prabuddha De::William D. Haseman::Yuk Ho So:::Four-schema approach: An extended model for database architecture.
+journals/is/PitouraZB97:::Evaggelia Pitoura::Aidong Zhang::Bharat K. Bhargava:::On Relaxing Serializability by Constraining Transaction Readsets.
+journals/is/LamKKLC02:::Kam-yiu Lam::Tei-Wei Kuo::Ben Kao::Tony S. H. Lee::Reynold Cheng:::Evaluation of concurrency control strategies for mixed soft real-time database systems.
+journals/is/Olive83:::Antoni Olivé:::Input output timing in information systems.
+journals/is/BalabanS02:::Mira Balaban::Peretz Shoval:::MEERAn EER model enhanced with structure methods.
+journals/is/MoilyM93:::Jaya P. Moily::Thomas J. Murray:::A modularization for PROLOG knowledge bases.
+journals/is/Wagner03:::Gerd Wagner:::The Agent-Object-Relationship metamodel: towards a unified view of state and behavior.
+journals/is/AmanoCMM84:::Kaname Amano::Masaki Chiba::Akeno Mochida::Takashi Maeda:::An approach toward integrated algorithm information system.
+journals/is/HongC91:::Eui Kyeong Hong::Jung Wan Cho:::Performance evaluation of catalog management schemes in distributed database systems.
+journals/is/Ngu90:::Anne H. H. Ngu:::Specification and verification of temporal relationships in transaction modelling.
+journals/is/OhP03:::Sejong Oh::Seog Park:::Task-role-based access control model.
+journals/is/Jain84:::Hemant K. Jain:::A comprehensive model for the storage structure design of codasyl databases.
+journals/is/MiuraMA87:::Takao Miura::Kunihiko Moriya::Hiroshi Arisawa:::On the irreducible non first normal form relations.
+journals/is/ArefB99:::Walid G. Aref::Daniel Barbará:::Supporting Electronic Ink Databases.
+journals/is/GehaniRSS98:::Narain H. Gehani::Krithi Ramamritham::Jayavel Shanmugasundaram::Oded Shmueli:::Accessing Extra-Database Information: Concurrency Control and Correctness.
+journals/is/ItoN89:::Tetsuro Ito::Makoto Nakashima:::Modification of a multilevel indexed descriptor file.
+journals/is/ChoPWS96:::Wan-Sup Cho::Chong-Mok Park::Kyu-Young Whang::Sang Hyuk Son:::A New Method for Estimating the Number of Objects Satisfying an Object-Oriented Query Involving Partial Participation of Classes.
+journals/is/LamV81:::C. L. Lam::Zvonko G. Vranesic:::Key compression using segment strings.
+journals/is/ChungKMMMV91:::Lawrence Chung::Panagiotis Katalagarianos::Manolis Marakakis::Michalis Mertikas::John Mylopoulos::Yannis Vassiliou:::From information system requirements to designs: a mapping framework.
+journals/is/Holten03:::Roland Holten:::Specification of management views in information warehouse projects.
+journals/is/LimN97:::Seung Jin Lim::Yiu-Kai Ng:::Vertical Fragmentation and Allocation in Distributed Deductive Database Systems.
+journals/is/Orman98:::Levent V. Orman:::Storage and Retrieval of Database Constraints.
+journals/is/TheodoulidisLW91:::Charalampos I. Theodoulidis::Pericles Loucopoulos::Benkt Wangler:::A conceptual modelling formalism for temporal database applications.
+journals/is/NegriZ84:::Mauro Negri::Roberto Zicari:::A storage structure definiton language for Codasyl Data Bases.
+journals/is/DehneN87:::Frank K. H. A. Dehne::Hartmut Noltemeier:::Voronoi trees and clustering problems.
+journals/is/SunK92:::Xian-He Sun::Nabil Kamel:::Preprocessing predicates and queries.
+journals/is/HammadR78:::Pierre Hammad::Jean-Marie Raviart:::Formulation of choice criterions for file organizations.
+journals/is/LorentzosJ88:::Nikos A. Lorentzos::Roger G. Johnson:::Extending relational algebra to manipulate temporal data.
+journals/is/WongL90:::Man Hon Wong::K. S. Leung:::A fuzzy database-query language.
+journals/is/NiemiJ92a:::Timo Niemi::Kalervo Järvelin:::Operation-oriented query language approach for recursive queries - Part 2. Prototype implementation and its integration with relational databases.
+journals/is/Wijsen98:::Jef Wijsen:::Reasoning about Qualitative Trends in Databases.
+journals/is/AdibaP78:::Michel E. Adiba::Dominique Portal:::A cooperation system for heterogeneous data base management systems.
+journals/is/PalopoliSU99:::Luigi Palopoli::Domenico Saccà::Domenico Ursino:::DLP: A Description Logic for Extracting and Managing Complex Terminological and Structural Properties from Database Schemes.
+journals/is/Triantafillou97:::Peter Triantafillou:::An Approach to Deadlock Detection in Multidatabases.
+journals/is/RoussopoulosB85:::Nick Roussopoulos::Christian Bader:::Dynamic access control for relational views.
+journals/is/KleinPT91:::Timothy M. Klein::Kenneth J. Parzygnat::Alan L. Tharp:::Optimal B-tree packing.
+journals/is/CorradiCMS99:::Antonio Corradi::Marco Cremonini::Rebecca Montanari::Cesare Stefanelli:::Mobile Agents Integrity for Electronic Commerce Applications.
+journals/is/SilvaCS02:::Sônia Fernandes Silva::Tiziana Catarci::Ulrich Schiel:::Formalizing visual interaction with historical databases.
+journals/is/SilvaLC00:::Altigran Soares da Silva::Alberto H. F. Laender::Marco A. Casanova:::On the relational representation of complex specialization structures.
+journals/is/RastogiS01:::Rajeev Rastogi::Kyuseok Shim:::Mining optimized support rules for numeric attributes.
+journals/is/JarkeS00:::Matthias Jarke::Dennis Shasha:::Message from the Editors-in-Chief.
+journals/is/TangFL85:::C. Y. Tang::D. J. Fuehrer::Richard C. T. Lee:::On the complexity of some multi-attribute file design problems.
+journals/is/Christodoulakis83:::Stavros Christodoulakis:::Estimating record selectivities.
+journals/is/Christodoulakis84:::Stavros Christodoulakis:::Estimating Block Selectivities.
+journals/is/TompaB88:::Frank Wm. Tompa::José A. Blakeley:::Maintaining materialized views without accessing base data.
+journals/is/BommelHW91:::Patrick van Bommel::Arthur H. M. ter Hofstede::Theo P. van der Weide:::Semantics and verification of object-role models.
+journals/is/BarrosPH79:::Oscar Barros::V. Pérez::A. Holgado:::Structured logical design of information systems: a methodology, documentation and experience.
+journals/is/NeuwirthR82:::E. Neuwirth::L. Reisinger:::Dissimilarity and distance coefficients in automation-supported thesauri.
+journals/is/AlagicKD76:::Suad Alagic::Adnan Kulenovic::Muhamed Darajlic:::Structured extension of COBOL for handling data bases.
+journals/is/LivariH96:::Juhani Livari::Rudy Hirschheim:::Analyzing Information Systems Development a Comparison and Analysis of Eight IS Development Approaches.
+journals/is/Falkenberg76:::Eckhard D. Falkenberg:::Significations: The key to unify data base management.
+journals/is/BooksteinK91:::Abraham Bookstein::Shmuel T. Klein:::Compression of correlated bit-vectors.
+journals/is/Mendelson83:::Haim Mendelson:::Analysis of linear probing with buckets.
+journals/is/AtzeniT93:::Paolo Atzeni::Riccardo Torlone:::A metamodel approach for the management of multiple models and translation of schemes.
+journals/is/ZakiS87:::M. Zaki::R. Salama:::Linkage versus integration for binding database and interactive graphics systems.
+journals/is/Ewusi-Mensah89:::Kweku Ewusi-Mensah:::Evaluating information systems projects: a perspective on cost-benefit analysis.
+journals/is/MertensFS94:::Peter Mertens::Jürgen Falk::Stefan Spieck:::Comparisons of Agent Approaches with Centralized Alternatives Based on Logistical Scenarios.
+journals/is/GardyP84:::Danièle Gardy::Claude Puech:::On the sizes of projections: a generating function approach.
+journals/is/Patel-Schneider90:::Peter F. Patel-Schneider:::Practical, object-based knowledge representation for knowledge-based systems.
+journals/is/ChnagHW92:::Chin-Chen Chang::Ren-Junn Hwang::Tzong-Chen Wu:::Crypographic key assignment scheme for access control in a hierarchy.
+journals/is/Barros81:::Oscar Barros:::Management information systems structure, types and integration.
+journals/is/AntonellisL85a:::Valeria De Antonellis::Antonio Di Leva:::A case stuy of database design using the DATAID approach.
+journals/is/Malvestuto86:::Francesco M. Malvestuto:::Statistical treatment of the information content of a database.
+journals/is/Soloviev96:::Valery Soloviev:::An Incremental Memory Allocation Method for Mixed Workloads.
+journals/is/DockeryM89:::John T. Dockery::Edward Murray:::Fuzzy linguistic data bases: an application.
+journals/is/Biller79:::Horst Biller:::On the equivalence of data base schemas - a semantic approach to data translation.
+journals/is/BergamaschiS86:::Sonia Bergamaschi::Maria Rita Scalas:::Choice of the optimal number of blocks for data access by an index.
+journals/is/Kobayashi94:::Isamu Kobayashi:::Complete Decompositions of Join Dependencies.
+journals/is/GlinzBJ02:::Martin Glinz::Stefan Berner::Stefan Joos:::Object-oriented modeling with A.
+journals/is/FurtadoSC81:::Antonio L. Furtado::Clesio Saraiva dos Santos::José Mauro V. de Castilho:::Dynamic modelling of a simple existence constraint.
+journals/is/FurtadoSS79:::Antonio L. Furtado::Kenneth C. Sevcik::Clesio Saraiva dos Santos:::Permitting updates through views of data bases.
+journals/is/CeriGP86:::Stefano Ceri::Georg Gottlob::Giuseppe Pelagatti:::Taxonomy and formal properties of distributed joins.
+journals/is/BuitendijkL91:::Rob B. Buitendijk::Harm van der Lek:::Direct manipulation of a data dictionary with SQL.
+journals/is/MaierRSSW87:::David Maier::David Rozenshtein::Sharon C. Salveter::Jacob Stein::David Scott Warren:::PIQUE: a relational query language without relations.
+journals/is/Dathan93:::B. Dathan:::Transaction management in N-version programmed database systems.
+journals/is/ErbeHLMS80:::R. Erbe::R. Hartwig::H. Lehmann::G. Mueller::Ulrich Schauer:::Integrated data analysis and management for the problem solving environment.
+journals/is/Sacks-DavisR83:::Ron Sacks-Davis::Kotagiri Ramamohanarao:::A two level superimposed coding scheme for partial match retrieval.
+journals/is/Unwalla94:::Michael Unwalla:::A mixed transaction cost model for coarse grained multi-column partitioning in a shared-nothing database machine.
+journals/is/Plateau84:::Didier Plateau:::A pruned trie to index a sorted file and its evaluation.
+journals/is/DavisR80:::Larry S. Davis::Nick Roussopoulos:::Approximate pattern matching in a pattern database system.
+journals/is/KarlapalemNA96:::Kamalakar Karlapalem::Shamkant B. Navathe::Mostafa H. Ammar:::Optimal Redesign Policies to Support Dynamic Processing of Applications on a Distributed Relational Database System.
+journals/is/GreenR00:::Peter Green::Michael Rosemann:::Integrated Process Modeling: An Ontological Evaluation.
+journals/is/TranB00:::Nicholas Q. Trân::Rajiv Bagai:::Efficient Representation and Algebraic Manipulation of Infinite Relations in Paraconsistent Databases.
+journals/is/VermeirN82:::Dirk Vermeir::G. M. Nijssen:::A procedure to define the object type structure of a conceptual schema.
+journals/is/Niemi83:::Timo Niemi:::A seven-tuple representation for hierarchical data structures.
+journals/is/TsaiC01:::Pauray S. M. Tsai::Chien-Ming Chen:::Discovering Knowledge From Large Databases Using Prestored Information.
+journals/is/FialkowskiM80:::Konrad Fialkowski::Mieczyslaw Muraszkiewicz:::Matrix for retrieval and sorting.
+journals/is/PlodzienK00:::Jacek Plodzien::Anna Kraken:::Object Query Optimization through Detecting Independent Subqueries.
+journals/is/Hacid04:::Mohand-Said Hacid:::Special issue on web data integration.
+journals/is/HolsappleSW82:::Clyde W. Holsapple::Sheldon Shen::Andrew B. Whinston:::A consulting system for data base design.
+journals/is/ClementiFC95:::Eliseo Clementini::Paolino Di Felice::Gianluca Califano:::Composite Regions in Topological Queries
+journals/is/SchneiderD75:::G. Michael Schneider::Edouard J. Desautels:::Creation of a File Translation Language for Networks.
+journals/is/FiadeiroS86:::José Luiz Fiadeiro::Amílcar Sernadas:::The INFOLOG linear tense propositional logic of events and transactions.
+journals/is/BalasubramanianBI01:::Venkatraman Balasubramanian::Michael Bieber::Tomás Isakowitz:::A case study in systematic hypermedia design.
+journals/is/BoulangerD98:::Danielle Boulanger::Gilles Dubois:::An Object Approach for Information System Cooperation.
+journals/is/LaineMP79:::Harri Laine::Olavi Maanavilja::Eero Peltola:::Grammatical data base model.
+journals/is/Ramamritham87:::Krithi Ramamritham:::Verification of resource controller processes.
+journals/is/Palvia91:::Prashant Palvia:::Approximating block accesses in random files: the case of blocking factors lower than one.
+journals/is/HeuserPR93:::Carlos A. Heuser::Eduardo Meira Peres::Gernot Richter:::Towards a complete conceptual model: Petri nets and entity-relationship diagrams.
+journals/it/Swoboda65:::Joachim Swoboda:::Binäre Gruppencodes zur Sicherung logischer Schaltkreise gegen Fehler.
+journals/it/Both81:::Rüdiger Both:::Einfluß der Struktur des Prozessor-Speicher-Verbindungssystems auf die Leistung von Multiprozessor-Anlagen - Untersuchungen mit Hilfe der Simulation.
+journals/it/Forner67:::Helmut Forner:::CSMP - Blockorientierte Sprachen zur digitalen Simulation dynamischer Systeme.
+journals/it/Hunger82:::Axel Hunger:::Mikroprozessor-Selbsttest auf der Basis des Befehlssatzes.
+journals/it/Schurmann67:::Jürgen Schürmann:::Ein Lichtpunktabtaster hoher Auflösung als Eingabegerät für ein Simulationssystem zum Studium optischer Zeichenerkennungsprobleme.
+journals/it/Wettstein76:::Horst D. Wettstein:::Einlagerung von Synchronisationsoperationen in Prozeßsysteme.
+journals/it/Spruth63:::Wilhelm G. Spruth:::Erkennbarkeit logischer Schaltzeichen.
+journals/it/Heimann83:::Walter Heimann:::Der Mensch zwischen Automat und Werkzeug.
+journals/it/Edelmann68:::Hans Edelmann:::Maßnahmen zur Reduktion des Rechenaufwands bei der Berechnung großer elektrischer Netze.
+journals/it/Horn67:::G. Horn:::Postprocessor.
+journals/it/Groenke77:::Lutz Groenke:::Jahresbericht 1976 des Normenausschusses Informationsverarbeitung (FNI) im DIN Deutsches Institut für Normung e. V..
+journals/it/Groenke79:::Lutz Groenke:::Jahresbericht 1978 des Normenausschusses Informationsverarbeitung (NI) im DIN Deutsches Institut für Normung e.V..
+journals/it/MetzdorfR63:::Werner Metzdorf::Helmut Rabl:::Die wesentlichen Eigenschaften von Ferrit-Ringkernen mit rechteckförmiger Hystereseschleife und ihre Wechselbeziehungen (Teil I).
+journals/it/WalkeK71:::Bernhard Walke::Hans-Jürgen Küspert:::Teilnehmerrechensysteme: Mittlere Verweilzeiten bei optimaler Rechenzeitzuteilung.
+journals/it/Wendt70:::Siegfried Wendt:::Eine Methode zum Enfwurf komplexer Schaltwerke unter Verwendung speziller Ablaufdiagramme.
+journals/it/Zemanek83a:::Heinz Zemanek:::25 Jahre internationaler Zusammenarbeit aus der Sicht des deutschsprachigen Raumes.
+journals/it/Mohr64:::Curt Mohr:::Jahresbericht 1963 des Fachnormenausschusses Informationsverarbeitung im Deutschen Normenausschuß.
+journals/it/Huber75:::Herbert Huber:::Speicherung und Verwaltung symbolischer Programme.
+journals/it/RothermelBB03:::Kurt Rothermel::Martin Bauer::Christian Becker:::Sonderforschungsbereich 627: Nexus - Umgebungsmodelle für mobile kontextbezogene Systeme.
+journals/it/Jacobs65:::Klaus Jacobs:::Möglichkeiten einer elektronischen Verkehrssteuerung mit IBM 1800.
+journals/it/Pade75:::Ellen Pade:::Ein heuristisches Verfahren für die Kostenoptimierung von Konzentratornetzen.
+journals/it/Trobliger83:::Alfred Tröbliger:::Der vollintegrierte Versicherungsbetrieb.
+journals/it/LehmannS03:::Helge Lehmann::Wilhelm G. Spruth:::Eigenschaften einer modernen Ein-/Ausgabe-Architektur.
+journals/it/Schulze77:::Wolfgang Schulze:::Allgemeine Buddy-Systeme und interne Fragmentierung bei der Hauptspeicherverwaltung.
+journals/it/Rabl64:::Helmut Rabl:::Das Verhalten von Ferrit-Speicherringkernen bei Temperaturänderungen während ihres Arbeitszyklus.
+journals/it/Rupp75:::Martin Rupp:::Tabellengesteuerte Entschlüsselung von Kommandosprachen mit geringem Speicheraufwand.
+journals/it/Franke83:::Herbert W. Franke:::Das neue visuelle Zeitalter: Der Einfluß der Computergrafik auf Kunst und Gesellschaft.
+journals/it/Rasche83:::Günter Rasche:::Die speziellen Anforderungen des Unfall-Marktes.
+journals/it/Ganzhorn73:::Karl E. Ganzhorn:::Prinzipien in Rechnerstrukturen.
+journals/it/Schmeling80:::Dietrich Schmeling:::Das topographische Datenbank- und Verarbeitungssystem der Deutschen Bundespost.
+journals/it/EversL64:::Helmut Evers::K. Leipold:::Simultanarbeit und ihre Programmierung in einer Datenverarbeitungsanlage.
+journals/it/Entler72:::Heinrich Entler:::Analyse von elektrischen Schaltwerken mittels Computer.
+journals/it/Burkhardt75:::Walter H. Burkhardt:::SIXTRAN: Ein erweiterungsfähiges Programmiersystem mit strukturierter FORTRAN-Sprache.
+journals/it/Lagemann72:::Klaus Lagemann:::Das Blockschachtelungsverfahren, eine Strategie beim rechnergestützten Entwurf von integrierten Großschaltungen (LSI).
+journals/it/Fricke79:::Hans-Peter Fricke:::Zur Lastregelung in Betriebssystemen von Timesharing-Anlagen.
+journals/it/Hartenstein80:::Reiner W. Hartenstein:::VLSI-Bausteine in geringen Stückzahlen für Spezial-Anwendungen.
+journals/it/Hansalik62:::W. E. Hansalik:::Redundancy and reliability.
+journals/it/ValdorfGW81:::Günter Valdorf::Johann Gietl::Ursula Wiesinger:::PORTOS: Ein Beispiel für Strukturierung und Standardisierung in einer Familie von Betriebssystemen.
+journals/it/Adolph66:::Eberhard Adolph:::Das Datenverarbeitungssystem als Hilfsmittel im Börsengeschäft.
+journals/it/SchurmannK74:::Jürgen Schürmann::Peter Krause:::Vergleich zweier quadratischer Klassifikatoren am gleichen Datenmaterial.
+journals/it/Schneeweiss78:::Winfrid G. Schneeweiss:::Berichtigung zum Aufsatz Verfügbarkeit und mittlere Betriebsdauer redundanter Systeme bei zufälliger Wartung der Untersysteme.
+journals/it/Hruschka83:::Peter Hruschka:::PROMOD - ein durchgängiges Projektmodell.
+journals/it/Jutzi72:::Wilhelm Jutzi:::Ein Vergleich von MOS- und MES-Feldeffekttransistoren mit 1 µm Kanallänge für integrierte Gleichstrom-gekoppelte Schaltungen.
+journals/it/Ebert80:::H. Ebert:::Computersysteme für Radardatenverarbeitung und Luftraumkontrolle.
+journals/it/Meyer-Brotz59:::Günter Meyer-Brötz:::Über Operationsverstärker mit Transistoren für Gleichspannungs-Analogrechner.
+journals/it/Meyer-Brotz62:::Günter Meyer-Brötz:::Die Messung von Kenngrößen stochastischer Prozesse mit dem elektronischen Analogrechner.
+journals/it/Veenker65:::Gerd Veenker:::Ein Programm zur Lösung von Schachaufgaben.
+journals/it/Auerbach63:::Isaac L. Auerbach:::The Impact of Information Processing on Mankind.
+journals/it/PilotyZ59:::Robert Piloty::H. Zschekel:::Ein elektronisches Auskunftssystem über die Verfügbarkeit von Passagierplätzen im Flugverkehr.
+journals/it/Wedekind83:::Hartmut Wedekind:::Datenintegrität der Anwendung aus wissenschaftstheoretischer Sicht.
+journals/it/Mierzowski83:::Kristin Mierzowski:::Von der Kellerwerkstatt zum Großunternehmen.
+journals/it/Albrecht68:::Peter Albrecht:::Behandlung parameterabhängiger Probleme auf einem hybriden Analogrechner.
+journals/it/Marte73:::Gert Marte:::Die Synthese von Teilnehmerrechensystemen mit mehreren Teilaufgaben pro Aufgabe.
+journals/it/Barthel03:::Kai Uwe Barthel:::Verlustlose Bildkompression.
+journals/it/Meier60:::Franz Meier:::Elektronische Datenverarbeitung in der chemischen Industrie.
+journals/it/Thierer75:::Martin H. Thierer:::Das Steuerprogramm des Vermittlungssystems IBM 3750.
+journals/it/MetzdorfR63a:::Werner Metzdorf::Helmut Rabl:::Die wesentlichen Eigenschaften von Ferrit-Ringkernen mit rechteckförmiger Hystereseschleife und ihre Wechselbeziehungen (Teil II).

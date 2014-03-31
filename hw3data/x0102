@@ -1,0 +1,200 @@
+conf/ewcbr/Munoz-AvilaABNW00:::Hector Muñoz-Avila::David W. Aha::Len Breslow::Dana S. Nau::Rosina Weber-Lee:::Integrating Conversational Case Retrieval with generative Planning.
+conf/ewcbr/SullivanWS02:::Derry O'Sullivan::David Wilson::Barry Smyth:::Improving Case-Based Recommendation: A Collaborative Filtering Approach.
+conf/ewcbr/HuaSF93:::Kefeng Hua::Ian Smith::Boi Faltings:::Integrated Case-Based Building Desing.
+conf/ewcbr/SebagS93:::Michèle Sebag::Marc Schoenauer:::A Rule-Based Similarity Measure.
+conf/ewcbr/ArmengolP94:::Eva Armengol::Enric Plaza:::Integrating Induction in a Case-Based Reasoner.
+conf/ewcbr/Brown93:::Mike Brown:::An Underlying Memory Model to Support Case Retrieval.
+conf/ewcbr/MelisLN98:::Erica Melis::Jean Lieber::Amedeo Napoli:::Reformulation in Case-Based Reasoning.
+conf/ewcbr/OkamotoS94:::Seishi Okamoto::Ken Satoh:::An Average Predictive Accuracy of the Nearest Neighbor Classifier.
+conf/ewcbr/MougouieB02:::Babak Mougouie::Ralph Bergmann:::Similarity Assessment for Generalizied Cases by Optimization Methods.
+conf/ewcbr/KhanH00:::Abdus Salam Khan::Achim G. Hoffmann:::A New Apporach for the Incremental Development of Adaptation Functions for CBR.
+conf/ewcbr/MalekTWV98:::Maria Malek::Marc-Philippe Toitgans::Jean Luc Wybo::Michel Vincent:::An Operator Support System Based on Case-Based Reasoning for the Plastic Moulding Injection Process.
+conf/ewcbr/DaengdejLTBP96:::Jirapun Daengdej::Dickson Lukose::Eric Tsui::Paul Beinat::Laura Prophet:::Dynamically Creating Indices for Two Million Cases: A Real World Problem.
+conf/ewcbr/PernerPM02:::Petra Perner::Horst Perner::Bernd Müller:::Similarity Guided Learning of the Case Description and Improvement of the System Performance in an Image Classification System.
+conf/ewcbr/PortinaleM02:::Luigi Portinale::Stefania Montani:::A Fuzzy Case Retrieval Approach Based on SQL for Implementing Electronic Catalogs.
+conf/ewcbr/Nakakoji93:::Kumiyo Nakakoji:::Case-Deliverer: Making Cases Relevant to the Task at Hand.
+conf/ewcbr/Borner93:::Katy Börner:::Structural Similarity as Guidance in Case-Based Design.
+conf/ewcbr/FuchsM00:::Béatrice Fuchs::Alain Mille:::Representing Knowledge for Case-Based Reasoning: The ROCADE System.
+conf/ewcbr/SurmaT98:::Jerzy Surma::Janusz Tyburcy:::A Study on Competence-Preserving Case Replacing Strategies in Case-Based Reasoning.
+conf/ewcbr/FaganC98:::Michael Fagan::Stephen Corley:::CBR for the Reuse of Corporate SQL Knowledge.
+conf/ewcbr/SchmittDD02:::Sascha Schmitt::Philipp Dopichaj::Patricia Domínguez-Marín:::Entropy-Based vs. Similarity-Influenced: Attribute Selection Methods for Dialogs Tested on Different Electronic Commerce Domains.
+conf/ewhci/BodartHLSV93:::François Bodart::Anne-Marie Hennebert::Jean-Marie Leheureux::Isabelle Sacré::Jean Vanderdonckt:::Architecture Elements for Highly-Interactive Business-Oriented Applications.
+conf/ewhci/Prokhorov95:::Vladimir V. Prokhorov:::PYTHAGORAS: Multienvironment Software.
+conf/ewhci/BoeveBP93:::Eddy Boeve::Lon Barfield::Steven Pemberton:::WYSWYG Editors: And What Now?
+conf/ewhci/BrusilovskyBK93:::Peter Brusilovsky::Ivan Burmistrov::Victor Kaptelinin:::Structuring the Field of HCI: An Empirical Study of Experts' Representations.
+conf/ewhci/BrusilovskyPZ93:::Peter Brusilovsky::Leonid Pesin::Mikhail Zyryanov:::Towards an Adaptive Hypermedia Component for an Intelligent Learning Environment.
+conf/ewhci/Tolsby93:::Haakon Tolsby:::Navigating in a Process Landscape.
+conf/ewhci/InstoneBLT93:::Keith Instone::Erik Brown::Laura M. Leventhal::Barbee Teasley:::The CHallenge of Effectively Integrating Graphics into Hypertext.
+conf/ewhci/CoutazNS93:::Joëlle Coutaz::Laurence Nigay::Daniel Salber:::The MSM Framework: A Design Space for Multi-Sensori-Motor Systems.
+conf/ewhci/ThomasC95:::Bruce H. Thomas::Paul R. Calder:::Animating Widgets in the InterViews Toolkit.
+conf/ewhci/Uzilevsky94:::Gennady Uzilevsky:::Ergosemiotics of User Interface Research and Design: Foundations, Objectives, Potential.
+conf/fmcad/HarlowB98:::Justin E. Harlow III::Franc Brglez:::Design of Experiments for Evaluation of BDD Packages Using Controlled Circuit Mutations.
+conf/fmcad/NarasimhanV96:::Naren Narasimhan::Ranga Vemuri:::Specification of Control Flow Properties for Verification of Synthesized VHDL Designs.
+conf/fmcad/WangH02:::Chao Wang::Gary D. Hachtel:::Sharp Disjunctive Decomposition for Language Emptiness Checking.
+conf/fmcad/MoonHS00:::In-Ho Moon::Gary D. Hachtel::Fabio Somenzi:::Border-Block Triangular Form and Conjunction Schedule in Image Computation.
+conf/fmcad/BjesseC00:::Per Bjesse::Koen Claessen:::SAT-Based Verification without State Space Traversal.
+conf/fmcad/Pace00:::Gordon J. Pace:::The Semantics of Verilog Using Transition System Combinators.
+conf/fmcad/RufK98:::Jürgen Ruf::Thomas Kropf:::Using MTBDDs for Compostion and Model Checking of Real-Time Systems.
+conf/fmcad/Arditi96:::Laurent Arditi:::BMDs Can Delay the Use of Theorem Proving for Verifying Arithmetic Assembly Instructions.
+conf/fmcad/AagaardJMOS00:::Mark Aagaard::Robert B. Jones::Thomas F. Melham::John W. O'Leary::Carl-Johan H. Seger:::A Methodology for Large-Scale Hardware Verification.
+conf/fmcad/DeharbeSC98:::David Déharbe::Subash Shankar::Edmund M. Clarke:::Model Checking VHDL with CV.
+conf/fmcad/CantuBSB96:::Francisco J. Cantu::Alan Bundy::Alan Smaill::David A. Basin:::Experiments in Automating Hardware Verification Using Inductive Proof Planning.
+conf/fmcad/Sharp02:::Richard Sharp:::Functional Design Using Behavioural and Structural Components.
+conf/fmcad/Ruess96:::Harald Rueß:::Hierarchical Verification of Two-Dimensional High-Speed Multiplication in PVS: A Case Study.
+conf/fmcad/WilsonDB00:::Chris Wilson::David L. Dill::Randal E. Bryant:::Symbolic Simulation with Approximate Values.
+conf/fmcad/KamhiFB98:::Gila Kamhi::Limor Fix::Ziv Binyamini:::Symbolic Model Checking Visualization.
+conf/ewnlg/HallerS93:::Susan M. Haller::Stuart C. Shapiro:::IDP - An Interactive Discourse Planner.
+conf/ewnlg/DalianisH93:::Hercules Dalianis::Eduard H. Hovy:::Aggregation in Natural Language Generation.
+conf/ewnlg/SmedtHZ93:::Koenraad De Smedt::Helmut Horacek::Michael Zock:::Architectures for Natural Language Generation: Problems and Perspectives.
+conf/ewnlg/Daradoumis93:::Thanasis Daradoumis:::Towards a Representation of the Rhetorical Structure of Interrupted Exchanges.
+conf/flops/Ogawa99:::Mizuhito Ogawa:::Automatic Verification Based on Abstract Interpretation.
+conf/flops/Hinze99:::Ralf Hinze:::Polytypic Programming With Ease (Extended Abstract).
+conf/flops/Ohori99:::Atsushi Ohori:::The Logical Abstract Machine: A Curry-Howard Isomorphism for Machine Code.
+conf/flops/Iranzo02:::Pascual Julián Iranzo:::On the Correctness of the Factoring Transformation.
+conf/flops/Meer02:::Klaus Meer:::On Consistency and Width Notions for Constraint Programs with Algebraic Constraints.
+conf/flops/ChakravartyGK98:::Manuel M. T. Chakravarty::Yike Guo::Martin Köhler:::Distributed Haskell: Goffin on the Internet.
+conf/flops/Danvy99:::Olivier Danvy:::An Extensional Characterization of Lambda-Lifting and Lambda-Dropping.
+conf/flops/Sakurai98:::Takafumi Sakurai:::Categorial Model Construction for Proving Syntactic Properties.
+conf/flops/Hasegawa02:::Masahito Hasegawa:::Linearly Used Effects: Monadic and CPS Transformations into the Linear Lambda Calculus.
+conf/flops/DanvyN01:::Olivier Danvy::Lasse R. Nielsen:::A Higher-Order Colon Translation.
+conf/flops/AntoyT99:::Sergio Antoy::Andrew P. Tolmach:::Typed Higher-Order Narrowing without Higher-Order Strategies.
+conf/ewspt/Gruhn03:::Volker Gruhn:::Process Landscaping: From Software Process Modelling to Designing Mobile Business Processes.
+conf/ewspt/Lehman98:::M. M. Lehman:::FEAST-Feedback, Evolution and Software Technology.
+conf/ewspt/Favaro92:::John M. Favaro:::Process Modelling at the European Space Agency.
+conf/ewspt/Lonchamp92:::Jacques Lonchamp:::Supporting Social Activities of Software Process.
+conf/ewspt/GruhnW00:::Volker Gruhn::Ursula Wellen:::Structuring Complex Software Processes by "Process Landscaping" (Short Paper).
+conf/ewspt/ChristieEKR96:::Alan M. Christie::Anthony N. Earl::Marc I. Kellner::William E. Riddle:::A Reference Model for Process Technology.
+conf/ewspt/Perry94:::Dewayne E. Perry:::Enactment Control in Interact/Intermediate.
+conf/ewspt/BasileCNFG96:::C. Basile::S. Calanna::Elisabetta Di Nitto::Alfonso Fuggetta::M. Gemo:::Mechanisms and Policies for Federated PSEEs: Basic Concepts and Open Issues.
+conf/ewspt/Lehman96a:::M. M. Lehman:::Laws of Software Evolution Revisited.
+conf/ewspt/DemirorsD98:::Onur Demirörs::Elif Demirörs:::Software Process Improvement in a Small Organization: Difficulties and Suggestions.
+conf/ewspt/DemirorsO98:::Onur Demirörs::H. Nevzat Ozguven:::Assistance to Develop Indigenous Software Industry.
+conf/ewspt/SommervilleM94:::Ian Sommerville::Simon R. Monk:::Supporting Informality in the Software Process.
+conf/ewspt/Becker-KornstaedtN03:::Ulrike Becker-Kornstaedt::Holger Neu:::Empirical Validation of the Prospect Method for Systematic Software Process Elicitation.
+conf/ewspt/TankoanoDK94:::Joachim Tankoano::Jean-Claude Derniame::Badara Ali Kaba:::Software Process Design Based on Products and the Object Oriented Paradigm.
+conf/ewspt/YanYR03:::Jun Yan::Yun Yang::Gitesh K. Raikundalia:::Decentralised Coordination for Software Process Enactment.
+conf/ewspt/Estublier94:::Jacky Estublier:::Architecture Session.
+conf/ewspt/Derniame96:::Jean-Claude Derniame:::Organizational Modelling and Management Session.
+conf/ewspt/SommervilleKVS95:::Ian Sommerville::Gerald Kotonya::Steve Viller::Peter Sawyer:::Process Viewpoints.
+conf/ewspt/DemirorsD98a:::Elif Demirörs::Onur Demirörs:::A Notation Based on Process Product Unification.
+conf/ewspt/Leymann01:::Frank Leymann:::Web Services and Their Composition.
+conf/ewspt/PodnarMC00:::Ivana Podnar::Branko Mikac::Antun Caric:::SDL Based Approach to Software Process Modeling.
+conf/ewspt/RoddenKHS94:::Tom Rodden::Val King::John A. Hughes::Ian Sommerville:::Process Modelling and Development Practice.
+conf/ewspt/HalvorsenC01:::Christian Printzell Halvorsen::Reidar Conradi:::A Taxonomy to Compare SPI Frameworks.
+conf/ewspt/PerezEM95:::Graciela Pérez::Khaled El Emam::Nazim H. Madhavji:::Customising Software Process Models.
+conf/ewspt/GrawG95:::Günter Graw::Volker Gruhn:::Process Management In-the-Many.
+conf/fmldo/Brock99a:::Bert De Brock:::Declarative Specifications of Complex Transactions.
+conf/fmldo/AlagicA91:::Suad Alagic::Mara Alagic:::Joins as Pullbacks.
+conf/fmldo/Aoumeur99a:::Nasreddine Aoumeur:::Specifying Distributed and Dynamically Evolving Information Systems Using an Extended CO-Nets Approach.
+conf/fmldo/SanderRB89:::Peter Sander::Simone Rehm::Jan Van den Bussche:::Working Group Report: Negation, Functions and Construction in Rule-Based Languages for Complex Objects.
+conf/fmldo/Pons98:::Claudia Pons::Gabriel Baum::Miguel Felder:::Foundations of Object-Oriented Modeling Notation in a Dynamic Logic Framework.
+conf/fmldo/PetersB00:::Randal J. Peters::Ken Barker:::Change Propagation in an Axiomatic Model of Schema Evolution for Objectbase Management Systems.
+conf/fmldo/ClaypoolRH00:::Kajal T. Claypool::Elke A. Rundensteiner::George T. Heineman:::Evolving the Software of a Schema Evolution System.
+conf/fmldo/SaakeTC00:::Gunter Saake::Can Türker::Stefan Conrad:::Evolving Objects: Conceptual Description of Adaptive Information Systems.
+conf/fmldo/OliveP90:::Antoni Olivé::Joan Antoni Pastor:::Integrity Constraints Checking in Deductive Databases with the Internal Events Method.
+conf/fmldo/Neven98:::Frank Neven:::Structured Document Query Languages Based on Attribute Grammars: Locality and Non-Determinism.
+conf/fmldo/Bussche91:::Jan Van den Bussche:::Active Complex Object Databases (Working Paper).
+conf/fmldo/Berztiss99:::Alfs T. Berztiss:::Transactional Computation: Overview and Discussion.
+conf/fmldo/ScheweT96:::Klaus-Dieter Schewe::Bernhard Thalheim:::Active Consistency Enforcement for Repairable Database Transitions.
+conf/gbrpr/WykW03:::Barend J. van Wyk::Michaël A. van Wyk:::Orthonormal Kernel Kronecker Product Graph Matching.
+conf/gbrpr/FosserGLP03:::Paolo Fosser::Roland Glantz::Marco Locatelli::Marcello Pelillo:::Swap Strategies for Graph Matching.
+conf/foiks/EngelH02:::Konrad Engel::Sven Hartmann:::Minimal Sample Databases for Global Cardinality Constraints.
+conf/foiks/Kern-Isberner02:::Gabriele Kern-Isberner:::The Principle of Conditional Preservation in Belief Revision.
+conf/foiks/Tichler00:::Krisztián Tichler:::Minimum Matrix Representation of Some Key System.
+conf/foiks/Goldin00:::Dina Q. Goldin:::Persistent Turing Machines as a Model of Interactive Computation.
+conf/gecco/Hu00:::Yuh-Jyh Hu:::Global Gene Expression Analysis with genetic Programming.
+conf/gecco/BuiS02:::Thang Nguyen Bui::Lisa C. Strite:::An Ant System Algorithm For Graph Bisection.
+conf/gecco/DebB99:::Kalyanmoy Deb::Hans-Georg Beyer:::Self-Adaptation in Real-Parameter Genetic Algorithms with Simulated Binary Crossover.
+conf/gecco/ShepherdF03:::Rob Shepherd::James A. Foster:::Inherent Fault Tolerance in Evolved Sorting Networks.
+conf/gecco/DinersteinGDD02:::Jonathan Dinerstein::Hugo de Garis::Sabra Dinerstein::Nelson Dinerstein:::TiPo - A New Dynamic Neural Net Model for Implementation in a Brain Building Machine.
+conf/gecco/BosmanT99:::Peter A. N. Bosman::Dirk Thierens:::Linkage Information Processing In Distribution Estimation Algorithms.
+conf/gecco/IbaT00:::Hitoshi Iba::Makoto Terao:::Controlling Effective Introns for Multi-Agent Learning by Genetic Programming.
+conf/gecco/ByasseeM02:::Jason S. Byassee::Keith E. Mathias:::Expediting Genetic Search With Dynamic Memory.
+conf/gecco/HoK02:::Alex C. H. Ho::Sam Kwong:::Optimization Of CDMA Based Wireless System.
+conf/gecco/IshibuchiS03:::Hisao Ishibuchi::Youhei Shibata:::A Similarity-Based Mating Scheme for Evolutionary Multiobjective Optimization.
+conf/gecco/StephensZ03:::Christopher R. Stephens::Adolfo Zamora:::EC Theory: A Unified Viewpoint.
+conf/gecco/NorthernS03:::James Northern III::Michael A. Shanblatt:::Evaluation of Parameter Sensitivity for Portable Embedded Systems through Evolutionary Techniques.
+conf/gecco/LeungL03a:::Kwong-Sak Leung::Yong Liang:::Adaptive Elitist-Population Based Genetic Algorithm for Multimodal Function Optimization.
+conf/gecco/RobinsonS02:::Alan J. Robinson::Lee Spector:::Using Genetic Programming with Multiple Data Types and Automatic Modularization to Evolve Decentralized and Coordinated Navigation in Multi-Agent Systems.
+conf/gecco/Rothlauf02:::Franz Rothlauf:::The Influence Of Binary Representations Of Integers On The Performance Of Selectorecombinative Genetic Algorithms.
+conf/gecco/YuM02:::Tina Yu::Julian F. Miller:::Climbing Unimodal Landscapes With Neutrality: A Case Study Of The One-max Problem.
+conf/gecco/KivijarviFN00:::Juha Kivijärvi::Pasi Fränti::Olli Nevalainen:::Efficient clustering with a self-adaptive genetic algorithm.
+conf/gecco/KimM00:::Yong-Hyuk Kim::Byung Ro Moon:::A Hybrid Genetic Search for Graph Partitioning Based on Lock Gain.
+conf/gecco/GolovkinML99:::Igor E. Golovkin::Roberto C. Mancini::Sushil J. Louis:::Plasma X-ray Spectra Analysis Using Genetic Algorithms.
+conf/gecco/Merz02:::Peter Merz:::A Comparison Of Memetic Recombination Operators For The Traveling Salesman Problem.
+conf/gecco/Misevicius03:::Alfonsas Misevicius:::Ruin and Recreate Principle Based Approach for the Quadratic Assignment Problem.
+conf/gecco/RiopkaB00:::Terry P. Riopka::Peter Bock:::Intelligent Recombination Using Individual Learning in a Collective Learning Genetic Algorithm.
+conf/gecco/Neri00:::Filippo Neri:::Modeling TCP/IP network traffic for intrusion detection by genetic evolution.
+conf/gecco/MundheS00:::Manisha Mundhe::Sandip Sen:::Evolving agent socienties that avoid social dilemmas.
+conf/gecco/MurataKI03:::Tadahiko Murata::Shiori Kaige::Hisao Ishibuchi:::Generalization of Dominance Relation-Based Replacement Rules for Memetic EMO Algorithms.
+conf/gecco/SeoM03:::Dong-il Seo::Byung Ro Moon:::A Hybrid Genetic Algorithm Based on Complete Graph Representation for the Sequential Ordering Problem.
+conf/gecco/CarrHKHBS02:::Robert Carr::William Hart::Natalio Krasnogor::Jonathan Hirst::Edmund K. Burke::James Smith:::Alignment Of Protein Structures With A Memetic Evolutionary Algorithm.
+conf/gecco/Cantu-Paz99:::Erick Cantú-Paz:::Topologies, Migration Rates, and Multi-Population Parallel Genetic Algorithms.
+conf/gecco/GlickmanS99:::Matthew R. Glickman::Katia P. Sycara:::Evolution of Goal-Directed Behavior from Limited Information in a Complex Environment.
+conf/gecco/KrantzLTN02:::Thomas Krantz::Oscar Lindberg::Gunnar Thorburn::Peter Nordin:::Programmatic Compression of Natural Video.
+conf/gecco/BrankeSS03:::Jürgen Branke::Michael Stein::Hartmut Schmeck:::A Unified Framework for Metaheuristics.
+conf/gecco/RossFY00:::Brian J. Ross::Frank Fueten::Dmytro Y. Yashkir:::Edge Dection of Petrographic Image Using Genetic Programming.
+conf/gecco/HangOST03:::Dehua Hang::Charles Ofria::Thomas M. Schmidt::Eric Torng:::The Effect of Natural Selection on Phylogeny Reconstruction Algorithms.
+conf/gecco/XianghuiD03:::Dong Xianghui::Ruwei Dai:::Study Diploid System by a Hamiltonian Cycle Problem Algorithm.
+conf/gecco/CutelloNP03:::Vincenzo Cutello::Giuseppe Nicosia::Mario Pavone:::A Hybrid Immune Algorithm with Information Gain for the Graph Coloring Problem.
+conf/gecco/OkabeJS02:::Tatsuya Okabe::Yaochu Jin::Bernhard Sendhoff:::On The Dynamics Of Evolutionary Multi-objective Optimization.
+conf/gecco/RossGFB02:::Brian J. Ross::Anthony G. Gualtieri::Frank Fueten::Paul Budkewitsch:::Hyperspectral Image Analysis Using Genetic Programming.
+conf/gecco/SoperWC00:::Alan J. Soper::Chris Walshaw::Mark Cross:::A Combined Evolutionary Search and Multilevel Approach to Graph Partitioning.
+conf/gecco/PiresMO03:::E. J. Solteiro Pires::J. A. Tenreiro Machado::P. B. de Moura Oliveira:::Fractional Order Dynamical Phenomena in a GA.
+conf/gecco/Bottaci02:::Leonardo Bottaci:::Instrumenting Programs With Flag Variables For Test Data Search By Genetic Algorithms.
+conf/gecco/DupasCG99:::R. Dupas::G. Cavory::G. Goncalves:::Real-World Applications. Optimising the throughput of a manufacturing production line using a genetic algortihm.
+conf/gecco/BrizuelaS99:::Carlos A. Brizuela::Nobuo Sannomiya:::A Diversity Study in Genetic Algorithms for Job Shop Scheduling Problems.
+conf/gecco/Yamada00:::Seiji Yamada:::Evolutionary Design of Behaviors for Action-Based Environment Modeling by a Mobile Robot.
+conf/gecco/Tangen02:::Uwe Tangen:::An Evolvable Micro-controller Or What's New About Mutations?
+conf/gecco/CutelloP03:::Vincenzo Cutello::Francesco Pappalardo:::The Hitting Set Problem and Evolutionary Algorithmic Techniques with ad-hoc Viruses (HEAT-V).
+conf/gecco/Yang02a:::Shengxiang Yang:::Adaptive Non-Uniform Mutation Based on Statistics for Genetic Algorithms.
+conf/gecco/KimbroughLWW03:::Steven O. Kimbrough::Ming Lu::David Harlan Wood::Dong-Jun Wu:::Exploring a Two-Population Genetic Algorithm.
+conf/gecco/Hackworth99:::Tim Hackworth:::India and Pakistan, a classic "Richardson" Arms Race: A Genetic Algorithmic approach.
+conf/gecco/SakumaK00:::Jun Sakuma::Shigenobu Kobayashi:::Extrapolation-Directed Crossover for Job-shop Scheduling Problems: Complementary Combination with JOX.
+conf/gecco/KeymeulenKZSS00:::Didier Keymeulen::Gerhard Klimeck::Ricardo Salem Zebulum::Adrian Stoica::Carlos Salazar-Lazaro:::EHWPack: a parallel Software/Hardware Environment for Evolvable Hardware.
+conf/gecco/KimM03d:::Yong-Hyuk Kim::Byung Ro Moon:::Multi-campaign Assignment Problem and Optimizing Lagrange Multipliers.
+conf/gecco/DevogelaereR02:::Dirk Devogelaere::Marcel Rijckaert:::Influences Of Clustering Modifications On The Performatnce Of The Genetic Algorithm Driven Clustering Algorithm.
+conf/gecco/RasheedH00:::Khaled Rasheed::Haym Hirsh:::Informed operators: Speeding up genetic-algorithm-based design optimization using reduced models.
+conf/gecco/SmithB03:::Robert E. Smith::Claudio Bonacina:::Mating Restriction and Niching Pressure: Results from Agents and Implications for General EC.
+conf/gecco/Guerra-SalcedoW99:::Cesar Guerra-Salcedo::Darrell Whitley:::Genetic Approach to Feature Selection for Ensemble Creation.
+conf/gecco/Kosorukoff02:::Alexander Kosorukoff:::Using Incremental Evaluation And Adaptive Choice Of Operators In A Genetic Algorithm.
+conf/gecco/TominagaKO00:::Daisuke Tominaga::Nobuto Koga::Masahiro Okamoto:::Efficient Numerical Optimization Algorithm Based on Genetic Algorithm for Inverse Problem.
+conf/gecco/Oliver-MoralesV02:::Carlos Oliver-Morales::Katya Rodríguez-Vázquez:::MB GP In Modelling And Prediction.
+conf/gecco/SantosKS03:::Eugene Santos Jr.::Keum Joo Kim::Eunice E. Santos:::Effective Search of the Energy Landscape for Protein Folding.
+conf/gecco/GomezD02:::Jonathan Gomez::Dipankar Dasgupta:::Using Competitive Operators and a Local Selection Scheme in Genetic Search.
+conf/gecco/GomezM03:::Faustino J. Gomez::Risto Miikkulainen:::Active Guidance for a Finless Rocket Using Neuroevolution.
+conf/gecco/GarrettW02:::Simon M. Garrett::Joanne H. Walker:::Combining Evolutionary And Non-evolutionary Methods In Tracking Dynamic Global Optima.
+conf/gecco/LiangZH02:::Suihong Liang::A. Nur Zincir-Heywood::Malcolm I. Heywood:::Intelligent Packets For Dynamic Network Routing Using Distributed Genetic Algorithm.
+conf/gecco/BrabazonOMR02:::Anthony Brabazon::Michael O'Neill::Robin Matthews::Conor Ryan:::Grammatical Evolution And Corporate Failure Prediction.
+conf/gecco/BallesterC03:::Pedro J. Ballester::Jonathan N. Carter:::Real-Parameter Genetic Algorithms for Finding Multiple Optimal Solutions in Multi-modal Optimization.
+conf/gecco/OteroSF02:::Fernando E. B. Otero::Monique M. S. Silvia::Alex Alves Freitas:::Genetic Programming For Attribute Construction In Data Mining.
+conf/gecco/SastryG03:::Kumara Sastry::David E. Goldberg:::Scalability of Selectorecombinative Genetic Algorithms for Problems with Tight Linkage.
+conf/gecco/KatagiriHHM02:::Hironobu Katagiri::Kotaro Hirasawa::Jinglu Hu::Junichi Murata:::A New Model To Realize Variable Size Genetic Network Programming.
+conf/gecco/CoelloB02:::Carlos A. Coello Coello::Ricardo Landa Becerra:::Adding Knowledge And Efficient Data Structures To Evolutionary Programming: A Cultural Algorithm For Constrained Optimization.
+conf/gecco/Gaivoronski99:::Alexei A. Gaivoronski:::Modeling of Complex Economic Systems with Agent Nets.
+conf/gecco/Mauch03:::Holger Mauch:::Evolving Petri Nets with a Genetic Algorithm.
+conf/gecco/BoryczkaCW03:::Mariusz Boryczka::Zbigniew J. Czech::Wojciech Wieczorek:::Ant Colony Programming for Approximation Problems.
+conf/gecco/GrossAKB02:::R. Groß::K. Albrecht::Wolfgang Kantschik::Wolfgang Banzhaf:::Evolving Chess Playing Programs.
+conf/gecco/GerardS03:::Pierre Gérard::Olivier Sigaud:::Designing Efficient Exploration with MACS: Modules and Function Approximation.
+conf/gecco/MeyesenburgHMF02:::Mark M. Meyesenburg::Daniel Hoelting::Duane McElvain::James A. Foster:::How Random Generator Quality Impacts GA Performance.
+conf/gecco/Greene02a:::William A. Greene:::A Kernighan-Lin Local Improvement Heuristic that Softens Some Hard Problems in Genetic Algorithms.
+conf/gecco/SeoFHGR03:::Kisung Seo::Zhun Fan::Jianjun Hu::Erik D. Goodman::Ronald C. Rosenberg:::Dense and Switched Modular Primitives for Bond Graph Model Design.
+conf/gecco/MitchellM02:::Brian S. Mitchell::Spiros Mancoridis:::Using Heuristic Search Techniques To Extract Design Abstractions From Source Code.
+conf/gecco/SunBW03:::Dazhi Sun::Rahim F. Benekohal::S. Travis Waller:::Multi-objective Traffic Signal Timing Optimization Using Non-dominated Sorting Genetic Algorithm II.
+conf/gecco/LenaertsDRM02:::Tom Lenaerts::Anne Defaweux::Piet van Remortel::Bernard Manderick:::An Individual-based Approach To Multi-level Selection.
+conf/gecco/Cantu-Paz99a:::Erick Cantú-Paz:::Migration Policies and Takeover Times in Genetic Algorithms.
+conf/gecco/Cantu-PazG03:::Erick Cantú-Paz::David E. Goldberg:::Are Multiple Runs of Genetic Algorithms Better than One?
+conf/gecco/SongHZ03:::Dong Song::Malcolm I. Heywood::A. Nur Zincir-Heywood:::A Linear Genetic Programming Approach to Intrusion Detection.
+conf/gecco/CervoneKM02:::Guido Cervone::Kenneth A. Kaufman::Ryszard S. Michalski:::Recent Results from the Experimental Evaluation of the Learnable Evolution Model.
+conf/gecco/CastilloMGK03:::Flor A. Castillo::Ken A. Marshall::James L. Green::Arthur K. Kordon:::A Methodology for Combining Symbolic Regression and Design of Experiments to Improve Empirical Model Building.
+conf/gecco/Congdon02:::Clare Bates Congdon:::Gaphyl: An Evolutionary Algorithms Approach For The Study Of Natural Evolution.
+conf/gecco/TongP03:::Siu Shing Tong::David J. Powell:::Genetic Algorithms: A Fundamental Component of an Optimization Toolkit for Improved Engineering Designs.
+conf/gecco/SeffensD00:::William Seffens::David W. Digby:::Fitness Function Analysis of Biological Genetic Codes using an Evolutionary Algorithm.
+conf/gecco/WakundaZ00:::Jürgen Wakunda::Andreas Zell:::A new Selection Scheme for Steady-State Evolution Strategies.
+conf/gecco/HuangL03:::Gaofeng Huang::Andrew Lim:::Designing A Hybrid Genetic Algorithm for the Linear Ordering Problem.
+conf/gecco/BensonBCR00:::Karl Benson::David Booth::James Cubillo::Colin Reeves:::Automatic Detection of Ships in Spaceborne SAR Imagery.
+conf/gecco/Greene03:::William A. Greene:::A Kernighan-Lin Local Improvement Heuristic That Solves Some Hard Problems in Genetic Algorithms.
+conf/gecco/ColettiLMMM99:::Mark Coletti::Thomas D. Lash::Ryszard S. Michalski::Craig Mandsager::Rida E. Moustafa:::Comparing Performance of the Learnable Evolution Model and Genetic Algorithms.
+conf/gecco/KaliskerC03:::Tom Kalisker::Doug Camens:::Solving Mastermind Using Genetic Algorithms.
+conf/gecco/PeysakhovGR00:::Maxim Peysakhov::Vlada Galinskaya::William C. Regli:::Genetic Algorithm for Optimization of Lego Assemblies.
+conf/gecco/Montano-MaranonT02:::Sergio Daniel Montaño-Marañón::Hugo Terashima-Marin:::Optimizing Weight and Torque of Squirrel-Cage Induction Motors Using Genetic Algorithms.

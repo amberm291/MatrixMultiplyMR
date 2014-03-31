@@ -1,0 +1,200 @@
+conf/ftrtft/FixS94:::Limor Fix::Fred B. Schneider:::Hybrid Verification by Exploiting the Environment.
+conf/ftrtft/Shankar92:::Natarajan Shankar:::Mechanical Verification of a Generalized Protocol for Byzantine Fault Tolerant Clock Synchronization.
+conf/ftrtft/Shankar96:::Natarajan Shankar:::Unifying Verification Paradigms.
+conf/ftrtft/DeylonM92:::Bernard Deylon::Oded Maler:::On Fault-Tolerant Symbolic Computations.
+conf/ftrtft/KarsistoV96:::Konsta Karsisto::Antti Valmari:::Verification-Driven Development of a Collision-Avoidance Protocol for the Ethernet.
+conf/ftrtft/Naik92:::Yogesh Naik:::A Temporal Approach to Requirements Specification of Real-Time Systems.
+conf/ftrtft/Buttazzo02:::Giorgio C. Buttazzo:::Real-Time Operating Systems: Problems and Novel Solutions.
+conf/ftrtft/Jaray88:::Jacques Jaray:::Timed Specifications for the Development of Real-time Systems.
+conf/ftrtft/KishoreMAMG94:::J. K. Kishore::R. S. Manjunatha::V. K. Agrawal::N. K. Malik::P. S. Goel:::A Real Time Fault Tolerant Microprocessor Based On-Board Computer System for INSAT-2 Spacecraft.
+conf/ftrtft/SpelbergTA98:::R. F. Lutje Spelberg::Hans Toetenel::Marcel Ammerlaan:::Partition Refinement in Real-Time Model Checking.
+conf/ftrtft/Zhou94:::Chaochen Zhou:::Linear Duration Invariants.
+conf/ftrtft/KestenP92:::Yonit Kesten::Amir Pnueli:::Timed and Hybrid Statecharts and Their Textual Representation.
+conf/ftrtft/JifengHFMOSHRR94:::Jifeng He::C. A. R. Hoare::Martin Fränzle::Markus Müller-Olm::Ernst-Rüdiger Olderog::Michael Schenke::Michael R. Hansen::Anders P. Ravn::Hans Rischel:::Provably Correct Systems.
+conf/ftrtft/Kurki-SuonioSV92:::Reino Kurki-Suonio::Kari Systä::Jüri Vain:::Scheduling in Real-Time Models.
+conf/ftrtft/PilaudH88:::Daniel Pilaud::Nicolas Halbwachs:::From a Synchronous Declarative Language to a Temporal Logic Dealing with Multiform Time.
+conf/ftrtft/ZhaoXXTG02:::Jianhua Zhao::He Xu::Xuandong Li::Tao Zheng::Guoliang Zheng:::Partial Order Path Technique for Checking Parallel Timed Automata.
+conf/ftrtft/Cardell-OliverG98:::Rachel Cardell-Oliver::Tim Glover:::A Practical and Complete Algorithm for Testing Real-Time Systems.
+conf/ftrtft/FranzleL98:::Martin Fränzle::Karsten Lüth:::Compiling Graphical Real-Time Specifications into Silicon.
+conf/ftrtft/GeilenD00:::Marc Geilen::Dennis Dams:::An On-the-Fly Tableau Construction for a Real-Time Temporal Logic.
+conf/ftrtft/Khoumsi02:::Ahmed Khoumsi:::A Method for Testing the Conformance of Real Time Systems.
+conf/ftrtft/Paynter96:::Stephen Paynter:::Real-Time Mode-Machines.
+conf/ftrtft/DSouza00:::Deepak D'Souza:::A Logical Characterisation of Event Recording Automata.
+conf/ftrtft/BouchenebB94:::Hanifa Boucheneb::Gérard Berthelot:::Predicting Logical and Temporal Properties of Real-Time Systems Using Synchronized Elementary Nets.
+conf/ftrtft/BosscherPV94:::Doeko Bosscher::Indra Polak::Frits W. Vaandrager:::Verification of an Audio Control Protocol.
+conf/ftrtft/Moses00:::Yoram Moses:::Issues in the Refinement of Distributed Programs.
+conf/ftrtft/Pnueli94:::Amir Pnueli:::Development of Hybrid Systems.
+conf/ftrtft/MaraninchiH96:::Florence Maraninchi::Nicolas Halbwachs:::Compiling ARGOS into Boolean Equations.
+conf/future/IshikawaIKH92:::Hiroshi Ishikawa::Yoshio Izumida::Nobuaki Kawato::Tatsuya Hayashi:::An Object-Oriented Database System and its View Mechanism for Schema Integration.
+conf/future/BertinoDR92:::Elisa Bertino::Maria Damiani::Paolo Randi:::Multimedia Data Handling in a Knowledge Representation System.
+conf/future/SeppanenMA92:::Veikko Seppänen::Yoshihiro Matsumoto::Tsuneo Ajisaka:::Modeling of a Flexible Software Factory in KYOTODB.
+conf/future/SatohHHI92:::Tetsuji Satoh::Y. Hirano::Takashi Honishi::Ushio Inoue:::Design and Implementation of Parallel Database Processing on a Shared Memory Multiprocessor System.
+conf/future/BertinoBDMMR92:::Elisa Bertino::Sandro Bottarelli::Maria Damiani::M. Marcadella::M. Migliorati::Paolo Randi:::The ADKMS Knowledge Acquisition System.
+conf/future/Miranda92:::Serge Miranda:::Semantically-Extended Relationsl Data Models: A Formal Way to Handle Object-Oriented Data Bases.
+conf/future/Kuntz92:::Michel Kuntz:::A Versatile Browser-Editor for NF² Relations.
+conf/glakes/ConlonSE89:::Sumali Pin-Ngern Conlon::Robert Strutz::Martha W. Evens:::Lexical Acquisition for Lexical Databases.
+conf/glakes/Makowski89:::Greg Makowski:::A More Flexible Method for Recognizing Signals Using Back Propagation: Piecewise Linear Regression Vectors.
+conf/glakes/SagerL89:::Thomas J. Sager::Shi-Jen Lin:::A Color-Exchange Algorithm for Exact Graph Coloring.
+conf/glakes/RizkiTZ89:::Mateen M. Rizki::Louis A. Tamburino::Michael A. Zmuda:::Biological Evolution as a Paradigm for Performance Driven Design Processes.
+conf/glvlsi/ChenS03a:::Jiwei Chen::Bingxue Shi:::New approach to CMOS current reference with very low temperature coefficient.
+conf/glvlsi/HanKKY03:::Yun Cheol Han::Kwang il Kim::Jun Kim::Kwang Sub Yoon:::A dual band CMOS VCO with a balanced duty cycle buffer.
+conf/glvlsi/FullerMHB03:::Michael I. Fuller::James P. Mabry::John A. Hossack::Travis N. Blalock:::40 MHz 0.25 um CMOS embedded 1T bit-line decoupled DRAM FIFO for mixed-signal applications.
+conf/glvlsi/MerloBC03:::Edward Merlo::Kwang-Hyun Baek::Myung-Jun Choe:::Exponential split accumulator for high-speed reduced area low-power direct digital frequency synthesizers.
+conf/glvlsi/HarrisBED03:::David Harris::Genevieve Breed::Matt Erler::David Diaz:::Comparison of noise tolerant precharge (NTP) to conventional feedback keepers for dynamic logic.
+conf/glvlsi/QiLFYKMMP03:::Xiaoning Qi::Goetz Leonhardt::Daniel Flees::Xiao-Dong Yang::Sangwoo Kim::Stephan Mueller::Hendrik Mau::Lawrence T. Pileggi:::A fast simulation approach for inductive effects of VLSI interconnects.
+conf/glvlsi/PalermoSVZ03:::Gianluca Palermo::Cristina Silvano::S. Valsecchi::Vittorio Zaccaria:::A system-level methodology for fast multi-objective design space exploration.
+conf/glvlsi/LowyBT03:::Menahem Lowy::Neal Butler::Rosanne Tinkler:::Low power VLSI sequential circuit architecture using critical race control.
+conf/glvlsi/BeniniMMOPP03:::Luca Benini::Alberto Macii::Enrico Macii::Elvira Omerbegovic::Massimo Poncino::Fabrizio Pro:::A novel architecture for power maskable arithmetic units.
+conf/gosler/FreivaldsKW95a:::Rusins Freivalds::Efim B. Kinber::Rolf Wiehagen:::Learning from Good Examples.
+conf/gosler/Ambainis95:::Andris Ambainis:::Optimization Problem in Inductive Inference.
+conf/gosler/ZeugmannL95:::Thomas Zeugmann::Steffen Lange:::A Guided Tour Across the Boundaries of Learning Recursive Languages.
+conf/category/OnatG74:::E. Turan Onat::James Geary:::Representation of a class of nonlinear systems.
+conf/category/Anderson74:::B. D. O. Anderson:::A control theorist looks at abstract nonsense.
+conf/category/Manes88:::Ernest G. Manes:::Monads, Matrices and Generalized Dynamic Algebra.
+conf/category/Melton88:::Austin Melton:::Topological Spaces for Cpos.
+conf/icaris/Sokolova03:::Ludmilla Sokolova:::Index Design by Immunocomputing.
+conf/iccbss/Baker02:::Thomas G. Baker:::Lessons Learned Integrating COTS into Systems.
+conf/iccbss/BaderMBR03:::Adnan Bader::Christine Mingins::David Bennett::Sita Ramakrishan:::Establishing Trust in COTS Components.
+conf/iccbss/QuangC02:::Nguyen Thanh Quang::Isabelle Comyn-Wattiau:::COTS-Based System Engineering: The Linguistics Approach.
+conf/iccbss/SmithH02:::James D. Smith::Duane Hybertson:::Implementing Large-Scale COTS Reengineering within the United States Department of Defense.
+conf/iccbss/CarvalloFQ03:::Juan Pablo Carvallo::Xavier Franch::Carme Quer:::Defining a Quality Model for Mail Servers.
+conf/icdcsw/JoE00:::Manhee Jo::Yoshihiko Ebihara:::A Study on Delayed Packet Discard Schemes.
+conf/icdcsw/LiW03:::Xiang-Yang Li::Yu Wang:::Efficient Localized Routing for Wireless Ad Hoc Networks.
+conf/icdcsw/RobinsonR02:::Ricky Robinson::Andry Rakotonirainy:::Multimedia Customisation Using an Event Notification Protocol.
+conf/icdcsw/PeiGC00:::Guangyu Pei::Mario Gerla::Tsu-Wei Chen:::Fisheye State Routing in Mobile Ad Hoc Networks.
+conf/icdcsw/HashimotoSS02:::Koji Hashimoto::Yoshitaka Shibata::Norio Shiratori:::Mobile Angent-Based Transcoding Functions.
+conf/icdcsw/MirandaR03:::Hugo Miranda::Luís Rodrigues:::Friends and Foes: Preventing Sel.shness in Open Mobile Ad Hoc Networks.
+conf/icdcsw/Pardo-Castellote03:::Gerardo Pardo-Castellote:::OMG Data-Distribution Service: Architectural Overview.
+conf/icdcsw/ChunCCLK02:::Jae-Kyu Chun::Ki-Yong Cho::Seok-Hyung Cho::Young-Woo Lee::Young-Il Kim:::Network Management Based On PC Communication Platform With SNMP AND MOBILE AGENTS.
+conf/icdcsw/GallardoM00:::María-del-Mar Gallardo::Pedro Merino:::Verifying Distributed Systems with Model Checking and Static Analysis.
+conf/icdcsw/Cecchet02:::Emmanuel Cecchet:::Whoops! : A Clustered Web Cache for DSM Systems using Memory Mapped Networks.
+conf/icdcsw/PaakkonenL03:::P. Pääkkönen::J. Latvakoski:::IPv6 Prefix Delegation-Based Addressing Solution for a Mobile Personal Area Network.
+conf/icdcsw/StearnsP02:::Mary Stearns::Giacomo Piccinelli:::Managing Interaction Concerns in Web-Service Systems.
+conf/icdcsw/ShigiltchoffCP03:::Oleg Shigiltchoff::Panos K. Chrysanthis::Evaggelia Pitoura:::Broadcast Data Organizations and Client Side Cache.
+conf/icdcsw/PradhanH03:::Pushkar Pradhan::Abdelsalam Helal:::An Efficient Algorithm for Maintaining Consistent Group Membership in Ad Hoc Networks.
+conf/icdcsw/RodriguezM00:::Guillermo Rodriguez::Pedro Merino:::Modelling and Simulation of Active Network Protocols.
+conf/icdcsw/KangM03:::Seung-Seok Kang::Matt W. Mutka:::Mobile Peer Membership Management to Support Multimedia Streaming.
+conf/icdcsw/YangGY00:::Yiling Yang::Xudong Guan::Jinyuan You:::Enhanced Algorithm for Mining Frequently Visited Page Groups.
+conf/icdcsw/KimSSLC03:::Sooyeon Kim::Sang Hyuk Son::John A. Stankovic::Shuoqi Li::Yanghee Cho:::SAFE: A Data Dissemination Protocol for Periodic Updates in Sensor Network.
+conf/icdcsw/YaizH03:::Rachid Ait Yaiz::Geert J. Heijenk:::Providing Delay Guarantees in Bluetooth.
+conf/icdcsw/PrasadBDSPNM03:::Sushil K. Prasad::Anu G. Bourgeois::Erdogan Dogdu::Raj Sunderraman::Yi Pan::Shamkant B. Navathe::Vijay K. Madisetti:::Enforcing Interdependencies and Executing Transactions Atomically over Autonomous Mobile Data Stores Using SyD Link Technology.
+conf/icdcsw/ChenSGL03:::Shu-Ching Chen::Mei-Ling Shyu::Irina Gray::Hongli Luo:::An Adaptive Multimedia Transmission Protocol for Distributed Multimedia Applications.
+conf/icdcsw/TaguchiET03:::Kojiro Taguchi::Tomoya Enokido::Makoto Takizawa:::Causality in Hierarchical Group Communication.
+conf/icdcsw/MatsumotoTWM02:::Masayuki Matsumoto::Tadao Tsurumaki::Dai Watanabe::Kinji Mori:::Modeling of Train Control System and a Method of Assurance Evaluation.
+conf/icdcsw/BradfordG03:::Phillip G. Bradford::Olga V. Gavrylyako:::Foundations of Security for Hash Chains in Ad Hoc Networks.
+conf/icdcsw/LeeCC02:::C. L. Lee::J. R. Chen::Y. C. Chen:::A Scalable Architecture for Differentiated Services.
+conf/icdcsw/LeeHY03:::Chung-wei Lee::Wen-Chen Hu::Jyh-haw Yeh:::A System Model for Mobile Commerce.
+conf/icdcsw/LeeLS03:::Ken C. K. Lee::Hong Va Leong::Antonio Si:::Approximating Object Location for Moving Object Database.
+conf/icdcsw/KongZ03:::Jun Kong::Kang Zhang:::Toward a Graphical Approach to Multimedia Document Design.
+conf/icdcsw/HuangCC02:::Chich-Ling Huang::Yuh-Ren Choo::Pau-Choo Chung:::Combining Region-Based Differential and Matching Algorithms to Obtain Accurate Motion Vectors for Moving Object in a Video Sequence.
+conf/icdcsw/ShaoSGZO03:::Huai-Rong Shao::Chia Shen::Daqing Gu::Jinyun Zhang::Philip V. Orlik:::Dynamic Resource Control for High-Speed Downlink Packet Access Wireless Channel.
+conf/icdcsw/QuinteroV02:::Antonia M. Reina Quintero::Jesus Torres Valderrama:::Separating the Navigational Aspect.
+conf/icdcsw/ZhouW03:::Dan Zhou::Jie Wu:::Survivable Multi-Level Ad-Hoc Group Operations.
+conf/icdcsw/Al-MuhtadiRCM02:::Jalal Al-Muhtadi::Anand Ranganathan::Roy H. Campbell::M. Dennis Mickunas:::A Flexible, Privacy-Preserving Authentication Framework for Ubiquitous Computing Environments.
+conf/icdcsw/KawaiTAMY03:::Hidetoshi Kawai::Fumio Takayama::Takayuki Anzai::Takanobu Manome::Hiroki Yoshida:::Objectives and Features of e-Learning Oriented Programming Courseware for Freshmen.
+conf/icdcsw/DengSSCL02:::Lawrence Y. Deng::Timothy K. Shih::Sheng-Hua Shiau::Wen-Chih Chang::Yi-Jen Liu:::Implementing a Distributed Lecture-on-Demand Multimedia Presentation System.
+conf/icdcsw/TranGG02:::Phong Tran::Paul Greenfield::Ian Gorton:::Behavior and Performance of Message-Oriented Middleware Systems.
+conf/icdcsw/VilleD03:::Lyndell St. Ville::Peter Dickman:::Garnet: A Middleware Architecture for Distributing Data Streams Originating in Wireless Sensor Networks.
+conf/icdcsw/KhuranaEM00:::Ramandeep Singh Khurana::Hesham El-Rewini::Imad Mahgoub:::On the Use of DNS to Locate Nomadic Hosts on the Internet.
+conf/icdcsw/AggarwalWWY00:::Charu C. Aggarwal::Joel L. Wolf::Kun-Lung Wu::Philip S. Yu:::The Intelligent Recommendation Analyzer.
+conf/icdcsw/TakahataUS03:::Kazuo Takahata::Norihiko Uchida::Yoshitaka Shibata:::Packet Error and Frame Rate Controls for Real Time Video Stream over Wireless LANs.
+conf/icdcsw/GraupnerKT02:::Sven Graupner::Vadim E. Kotov::Holger Trinks:::Resource-Sharing and Service Deployment in Virtual Data Centers.
+conf/icdcsw/RandellM02:::Cliff Randell::Henk L. Muller:::The eSleeve: A Novel Wearable Computer Configuration for the Discovery of Situated Information.
+conf/icdcsw/AkkayaY03:::Kemal Akkaya::Mohamed F. Younis:::An Energy-Aware QoS Routing Protocol for Wireless Sensor Networks.
+conf/icdcsw/CabriLZ02:::Giacomo Cabri::Letizia Leonardi::Franco Zambonelli:::Separation of Concerns in Agent Applications by Roles.
+conf/icdcsw/AndradeF02:::Luis Filipe Andrade::José Luiz Fiadeiro:::An Architectural Approach to Auto-Adaptive Systems.
+conf/icdcsw/AokiNT02:::Soko Aoki::Jin Nakazawa::Hideyuki Tokuda:::Autonomous and Asynchronous Operation of Networked Appliances with Mobile Agent.
+conf/icdcsw/KirdaRGF02:::Engin Kirda::Gerald Reif::Harald Gall::Pascal Fenkam:::TWSAPI: A Generic Teamwork Services Application Programming Interface.
+conf/iceccs/TakeuchiMY00:::Ryo Takeuchi::Akira Miura::Masanobu Yoshimi:::Interworking among Intelligent Networks and Different Networks: Service Control Interfaces and Their Applications.
+conf/iceccs/McDonaldMLS01:::Jason McDonald::Leesa Murray::Peter Lindsay::Paul A. Strooper:::Module Testing Embedded Software--An Industrial Pilot Project.
+conf/iceccs/AlagarOZ00:::Vangalur S. Alagar::Olga Ormandjieva::Mao Zheng:::Managing Complexity in Real-Time Reactive Systems.
+conf/iceccs/GeorgRF02:::Geri Georg::Indrakshi Ray::Robert B. France:::Using Aspects to Design a Secure System.
+conf/iceccs/AbdurazikADO00:::Aynur Abdurazik::Paul Ammann::Wei Ding::Jeff Offutt:::Evaluation of Three Specification-Based Testing Criteria.
+conf/iceccs/MartenaOP02:::Vincenzo Martena::Alessandro Orso::Mauro Pezzè:::Interclass Testing of Object Oriented Software.
+conf/iceccs/VignaM02:::Giovanni Vigna::Andrew Mitchel:::Mnemosyne: Designing and Implementing Network Short-Term Memory.
+conf/iceccs/BlackburnBNKK02:::Mark R. Blackburn::Robert Busser::Aaron Nauman::Robert Knickerbocker::Richard Kasuda:::Mars Polar Lander Fault Identification Using Model-based Testing.
+conf/iceccs/RamaniGT02:::Srinivasan Ramani::Katerina Goseva-Popstojanova::Kishor S. Trivedi:::A Framework for Performability Modeling of Messaging Services in Distributed Systems.
+conf/iceccs/Kajko-Mattsson01a:::Mira Kajko-Mattsson:::Motivating the Corrective Maintenance Maturity Model (CM3).
+conf/icftcs/Hess89:::Wilfried Heß:::Quantitative Bewertung der Fehlertoleranz am Beispiel eines verteilten Prozeß-Leitsystems.
+conf/icftcs/SchumannM89:::R. Schumann::Michael Mock:::Efficient Commit/Abort Procedures in the RelaX Distributed Transaction Layer.
+conf/icftcs/Schrock84:::Werner Schröck:::Ein Fehlertolerantes Lokales Netz mit Schleifenstruktur auf Lichtwellenleiter-Basis.
+conf/icftcs/Federmutz84:::Horst Federmutz:::Selbstdiagnoseverfahren auf der Grundlage der mathematischen Logik.
+conf/icftcs/Rahm87:::Erhard Rahm:::A Reliable and Efficient Synchronization Protocol for Database Sharing Systems.
+conf/icftcs/FreislebenKT91:::Bernd Freisleben::Hans-Henning Koch::Oliver E. Theel:::The Electoral District Strategy of Replicated Data in Distrinuted Systems.
+conf/icftcs/PachaliK87:::L. Pachali::M. Kuhn:::An Automated Material Flow Control System on a Fault-Tolerant Computer System for an Industrial Serial Manufacturer - A Report upon Practical Experience.
+conf/icftcs/Kelly89:::John P. J. Kelly:::Current Experiences with Fault Tolerant Software Design: Dependability Through Diverse Formal Specifications?
+conf/icftcs/Schneeweiss84:::Winfrid G. Schneeweiss:::Einzelfehler tolerierende Kommunikationsnetze.
+conf/icftcs/StamelosH87:::I. Stamelos::C. Halatsis:::Efficient test Generation for Register Transfer Level Descriptions.
+conf/icftcs/ClematisG89:::Andrea Clematis::Vittoria Gianuzzi:::A Conversation Structure for Remote Procedure Call Oriented Languages.
+conf/icftcs/Fischer91:::H. D. Fischer:::Special Features of a Computer-Based German Reactor Protection System.
+conf/icftcs/Reisig87:::Reinhard Reisig:::Test Pattern Obtainment from Algorithmic Descriptions.
+conf/icftcs/GoswamiI91:::Kumar K. Goswami::Ravishankar K. Iyer:::A Simulation-Based Study of a Triple Modular Redundant System Using DEFEND.
+conf/icftcs/Stopp91:::Andreas Stopp:::Adaptive Fault Tolerance in Multi-Computer Systems Using Data Compation and Two-Level Voting.
+conf/icftcs/MaehleMW84:::Erik Maehle::Klaus Moritzen::Klaus Wirl:::Experimente mit N-Version Programming auf dem DIRMU Multiprozessorsystem.
+conf/icftcs/Sosnowski89:::Janusz Sosnowski:::Concurrent Error Detection Using Signature Monitors.
+conf/icftcs/SchneeweissH91:::Winfrid G. Schneeweiss::F. P. Holtmann:::Star Type Networks with Fault Tolerance.
+conf/icftcs/Kuspert84:::Klaus Küspert:::Effiziente Verfahren zur 'online'-Fehlererkennung in Baumstrukturen von Datenbankssystemen.
+conf/icmens/BoussaidBB03:::F. Boussaid::A. Bermak::A. Bouzerdoum:::Programmable Multi-Task On-Chip Processing for CMOS Imagers.
+conf/icmens/KirchmayerMC03:::Bradley J. Kirchmayer::Walied A. Moussa::M. David Checkel:::Finite Element Modeling of a Capacitive Micromachined Ultrasonic Transducer.
+conf/icmens/Manago03:::T. Manago:::Spin Detection and Injection Using Ferromagnetic Metal and Semiconductor Hybrid Structure.
+conf/icmens/Zhu03:::Xiaoyang Zhu:::Monolayer Surface Coatings Solve Stiction and Drift Problems in MEMS.
+conf/icmens/DunbarPSSB03:::A. D. F. Dunbar::J. G. Partridge::M. Schulze::S. Scott::S. A. Brown:::Measurement of the Conductivity Exponent in Random Percolating Networks of Nanoscale Bismuth Clusters.
+conf/icmens/AntoniuSR03:::Angela Antoniu::Mark Salomons::Nicolae Reus:::Effects of Electrostatic Charge Accumulation During MEMS Fabrication.
+conf/icmens/YoonRM03:::J. Yoon::C. Q. Ru::A. Mioduchowski:::Terahertz Wave Propagation in Multiwall Carbon Nanotubes.
+conf/icmens/TuszynskiCCBMD03:::J. A. Tuszynski::E. J. Carpenter::E. Crawford::J. A. Brown::W. Malinski::J. M. Dixon:::Molecular Dynamics Calculations of the Electrostatic Properties of Tubulin and Their Consequences for Microtubules.
+conf/icmens/Budiman03:::R. A. Budiman:::Energetics and Strain Field of Surface Steps.
+conf/icmens/SharafAKB03:::Rashad Sharaf::Priyanka Aggarwal::Karan V. I. S. Kaler::Wael M. Badawy:::On The Design of an Electronic Mosquito: Design and Analysis of the Micro-Needle.
+conf/icmens/SivakumarP03:::Kousik Sivakumar::Balaji Panchapakesa:::Electric Field Assisted Deposition of Nanowires from Carbon Nanotubes for Nanoelectronics and Sensor Applications.
+conf/icpads/DaneshgarR00:::Farhad Daneshgar::Pradeep Ray:::Awareness Modeling and Its Application in Cooperative Network Management.
+conf/icpads/ChiT97:::Hsin-Chou Chi::Chih-Tsung Tang:::A Deadlock-Free Routing Scheme for Interconnection Networks with Irregular Topologies.
+conf/icpads/ChuT94:::Chih-Ping Chu::Chi-Jen Tzeng:::On the Development Paradigm of Distributed Applications.
+conf/icpads/Byun01:::Tae Young Byun:::SIMMT-II: Implementation of Network Simulator for IP Multicast Using Mutiple MCSs on the ATM Networks.
+conf/icpads/BaeOS97:::Ihn-Han Bae::Sun-Jin Oh::Mukesh Singhal:::Design and Evaluation of a Distributed Multimedia Synchronization Algorithm using Media Scalings and Variable Service Rates.
+conf/icpads/ChenL00a:::Wen-Tsuen Chen::Jyh-Shin Lee:::Some Mechanisms to Improve TCP/IP Performance over Wireless and Mobile Computing Environment.
+conf/icpads/ChenJS00:::Yuh-Shyan Chen::Tong-Ying Juang::Ying-Ying Shen:::Multi-Node Broadcasting in an Arrangement Graph Using Multiple Spanning Trees.
+conf/icpads/ZhangBC94:::C. N. Zhang::T. M. Bachtiar::W. K. Chou:::An Optimal Fault-Tolerant Design Approach for Array Processors.
+conf/icpads/NakanoASM96:::Nobumasa Nakano::Tsutomu Ando::Fumiaki Sato::Tadanori Mizuno:::Studies for realizing soft TCCS residing on top of Ethernet LAN .
+conf/icpads/Kiniwa01:::Jun Kiniwa:::Avoiding Faulty Privileges in Self-Stabilizing Depth-First Token Passing.
+conf/icpads/ParkB02:::HeaSook Park::Doo-Kwon Baik:::Modeling for an Integration of Distributed Business Information Using EPEM.
+conf/icpads/ParkL01:::Jung Gyu Park::Arthur H. Lee:::Specializing the Java Object Serialization Using Partial Evaluation for a Faster RMI.
+conf/icpads/ChiuCC02:::Shih-Yen Chiu::Hsung-Pin Chang::Ruei-Chuan Chang:::Providing Mobile LAN Access Capability for Bluetooth Devices.
+conf/icpads/Lai01:::Yuan-Cheng Lai:::Improving the Performance of TCP Vegas in a Heterogeneous Environment.
+conf/icpads/WangC97:::Chin-Dong Wang::Ruay Shiung Chang:::Improve HTTP/TCP Performance over ATM Networks: New Schemes and Performance Comparisons.
+conf/icpads/WangS01:::Zhou Wang::Jochen Seitz:::An Agent-Based Distributed Service Model for Nomadic Users.
+conf/icpads/WangT98:::Sheng-De Wang::Ming-Jer Tsai:::Adaptive and Fault-Tolerant Routing with 100% Node Utilization for Mesh Multicomputer.
+conf/icpads/HarukiH00:::Ryoji Haruki::Takahiko Horiuchi:::Improved and Extended Scalable Image Coding by Spline Approximation for a Binary, Gray-Scale and Color Image.
+conf/icpads/WuB02:::Ching-Farn Eric Wu::Anthony Bolmarcich:::Gantt Chart Visualization for MPI and Apache Multi-Dimensional Trace Files.
+conf/icpads/XuR96:::Jie Xu::Brian Randell:::Roll-forward error recovery in embedded real-time systems.
+conf/icpads/Tsuhara96:::Susumu Tsuhara:::RDB structure chart display using fuzzy rules.
+conf/icpads/KwonHC01:::MoonSang Kwon::Jiman Hong::Yookun Cho:::Ethernet Wrapper: Extension of the TCP Wrapper.
+conf/icpads/DuatoHLNS94:::José Duato::C. T. Howard Ho::Ferng-Ching Lin::Lionel M. Ni::Earl E. Swartzlander Jr.:::Is It Possible to Fairly Compare Interconnection Networks?.
+conf/icpads/LeeL01:::Yun-kyung Lee::Sunggu Lee:::Path Selection Algorithms for Real-Time Communication.
+conf/icpads/LeiZ94:::S. Lei::K. Zhang:::Performance Tuning of Message Passing Programs Through Visual Analysis.
+conf/icpads/HamdiTK96:::Mounir Hamdi::J. Tong::C. W. Kin:::Fast sorting algorithms on reconfigurable array of processors with optical buses.
+conf/icpads/HsuSY00:::Windsor W. Hsu::Alan Jay Smith::Honesty C. Young:::Projecting the Performance of Decision Support Workloads on Systems with Smart Storage (SmartSTOR).
+conf/icpads/WangYC02:::Shu-Chin Wang::Kuo-Qin Yan::M. L. Chiang:::Reach Reliable Decision by Using Secret Agreement Method.
+conf/icpads/OjstersekZP97:::Milan Ojstersek::Viljem Zumer::Ljubo Pipan:::Efficient execution of parallel programs using partial strict triggering of program graph nodes.
+conf/icpads/LeungY00:::K. Y. Leung::K. H. Yeung:::The Design and Implementation of a WWW Traffic Generator.
+conf/icpads/JeaCW02:::Kuen-Fang Jack Jea::Shih-Ying Chen::Sheng-Hsien Wang:::Concurrency Control in XML Document Databases: XPath Locking Protocol.
+conf/icpads/LeungSTV01:::Kin Leung::Junho Shim::Dmitri Tcherevik::Anders Vinberg:::A Scalable yet Transparent Infrastructure for Distributed Applications: Core Design of Jasmine ii Framework.
+conf/icpads/Noguchi00:::Shoichi Noguchi:::Network Computing Technology and Information Society toward 21st Century.
+conf/icpads/FannYTT98:::Yun-Woei Fann::Chao-Tung Yang::Chang-Jiun Tsai::Shian-Shyong Tseng:::IPLS: An Intelligent Parallel Loop Scheduling for Multiprocessor Systems.
+conf/icpads/Chen97a:::Lin Chen:::Optimal Computation of Shortest Paths on Doubly Convex Bipartite Graphs.
+conf/icpads/ChenT94:::C.-S. Chen::C.-C. Tseng:::Integrated Support to Improve Inter-Thread Communication and Synchronization in a Multithreaded Processor.
+conf/icpads/ChiuC96:::Ge-Ming Chiu::Kai-Shung Chen:::Fault-tolerant routing strategy using routing capability in hypercube multicomputers.
+conf/icpads/JangLH97:::Hung-Chin Jang::Yao-Nan Lien::Jyh-Shyan Huang:::Client Location Tracking in Ubiquitous Information Service Network.
+conf/icpads/YipB96:::Steven M. P. Yip::Nicholas Bambos:::Scalable routing schemes for massively parallel processing using reconfigurable optical interconnect.
+conf/icpads/YamawakiI02:::Akira Yamawaki::Masahiko Iwane:::Organization of Shared Memory with Synchronization for Multiprocessor-on-a-chip.
+conf/icpads/BaderE98:::Atef Bader::Tzilla Elrad:::The Adaptive Arena: Language Constructs and Architectural Abstractions for Concurrent Object-Oriented Systems.
+conf/icpads/YehVL98:::Chi-Hsiang Yeh::Emmanouel A. Varvarigos::Hua Lee:::An Optimal Routing Scheme for Multiple Broadcast.
+conf/icpads/ChenYHG02:::Gang Chen::Zhonghua Yang::Hao He::Kiah Mok Goh:::Coordinating Multi-Agents using JavaSpaces.
+conf/icpads/PornavalaiCCS00:::Chotipat Pornavalai::Debasish Chakraborty::Goutam Chakraborty::Norio Shiratori:::Dynamic Multicast Routing in Advance Resource Reservation Environment.
+conf/icpads/KongL02:::Chun Wai Kong::Jack Y. B. Lee:::Slice-and-Patch - An Algorithm to Support VBR Video Streaming in a Multicast-based Video-on-Demand System.
+conf/icpads/RameshLG97:::S. Ramesh::R. Lakshmi::R. Govindarajan:::Distributed Shared Memory on IBM SP2.
+conf/icpads/TachikawaT97:::Takayuki Tachikawa::Makoto Takizawa:::Delta-Causality in Wide-Area Group Communications.
+conf/icpads/GelfandEM02:::Boris Gelfand::Abdol-Hossein Esfahanian::Matt W. Mutka:::An Agent-Based Approach to Enforcing Fairness in Peer-to-Peer Distributed File Systems.
+conf/icpads/HuangLC01:::Chung-Ming Huang::Pei-Chuan Liu::Rey-Lun Chang:::QoS Streaming Based on Media Filtering System.
+conf/icpads/LienY94:::H.-M. Lien::S.-M. Yuan:::A New Approach of Constructing Information Structure for Mutual Exclusion in Distrbuted Systems.
+conf/icpads/BasuDD94:::S. K. Basu::Jayasree Dattagupta::R. Dattagupta:::CCT: A New VLSI Architecture for Parallel Processing.
+conf/icpads/Shiratori97:::Norio Shiratori:::Post Modern Distributed Systems.
+conf/icpads/LiuDWN96:::Yew-Huey Liu::Paul Dantzig::Ching-Farn Eric Wu::Lionel M. Ni:::A distributed connection manager interface for web services on IBM SP systems.

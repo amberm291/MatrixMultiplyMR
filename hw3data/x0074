@@ -1,0 +1,200 @@
+conf/ipps/Singh94:::Ambuj K. Singh:::A Framework for Programming Using Non-Atomic Variables.
+conf/ipps/ZhouL01:::Jipeng Zhou::Francis C. M. Lau:::Adaptive Fault-tolerant Wormhole Routing in 2D Meshes.
+conf/ipps/KamachiKSS96:::Tsunehiko Kamachi::Kazuhiro Kusano::Kenji Suehiro::Yoshiki Seo:::Generating Realignment-Based Communication for HPF Programs.
+conf/ipps/NakanoOS98:::Koji Nakano::Stephan Olariu::James L. Schwing:::Broadcast-Efficient Algorithms on the Coarse-Grain Broadcast Communication Model with Few Channels.
+conf/ipps/BrennerFGKLMNPPRSSW91:::Alfred Brenner::Richard F. Freund::R. Stockton Gaines::Rob Kelly::Louis Lome::Richard McAndrew::Alexandru Nicolau::Janak H. Patel::Thomas Probert::John H. Reif::Jorge L. C. Sanz::Howard Jay Siegel::Jon A. Webb:::How Do We Make Parallel Processing a Reality? Bridging the Gap Between Theory and Practice.
+conf/ipps/AlhusainiRP01:::Ammar H. Alhusaini::C. S. Raghavendra::Viktor K. Prasanna:::Run-Time Adaptation with Resource Co-Allocation for Grid Environments.
+conf/ipps/BungaleSK03:::Prashanth P Bungale::Swaroop Sridhar::Vinay Krishnamurthy:::An Approach to Heterogeneous Process State Capture/Recovery to Achieve Minimum Performance Overhead During Normal Execution.
+conf/ipps/ThiruvathukalC91:::George K. Thiruvathukal::Thomas W. Christopher:::A Simulation of Demand-Driven Dataflow: Translation from Lucid into MDC Language.
+conf/ipps/BusbyNA00:::Robert E. Busby Jr.::Mitchell L. Neilsen::Daniel Andresen:::Enhancing NWS for Use in an SNMP Managed Internetwork.
+conf/ipps/TschokeLM95:::Stefan Tschöke::Reinhard Lüling::Burkhard Monien:::Solving the traveling salesman problem with a distributed branch-and-bound algorithm on a 1024 processor network.
+conf/ipps/GiloiM91:::Wolfgang K. Giloi::Sergio Montenegro:::Choosing the Interconnect of Distributed Memory Systems by Cost and Blocking Behavior.
+conf/ipps/FrachtenbergFPF03:::Eitan Frachtenberg::Dror G. Feitelson::Fabrizio Petrini::Juan Fernández:::Flexible CoScheduling: Mitigating Load Imbalance and Improving Utilization of Heterogeneous Resources.
+conf/ipps/ZoppettiAK02:::Gary M. Zoppetti::Gagan Agrawal::Rishi Kumar:::Compiler and Runtime Support for Irregular Reductions on a Multithreaded Architecture.
+conf/ipps/BradfordRS94:::Phillip G. Bradford::Gregory J. E. Rawlins::Gregory E. Shannon:::Efficient Matrix Chain Ordering in Polylog Time.
+conf/ipps/BenoitPS03:::Anne Benoit::Brigitte Plateau::William J. Stewart:::Memory-Efficient Kronecker Algorithms with Applications to the Modelling of Parallel Systems.
+conf/ipps/Louri91:::Ahmed Louri:::Design of an Optical Content-Addressable Parallel Processor with Applications to Fast Searching and Information Retrieval.
+conf/ipps/OliveiraS00:::Suely Oliveira::Takako Soma:::A Multilevel Algorithm for Spectral Partitioning with Extended Eigen-Models.
+conf/ipps/KobayashiYTN96:::Hiroaki Kobayashi::Hitoshi Yamauchi::Yuichiro Toh::Tadao Nakamura:::A Hierarchical Parallel Processing System for the Multipass-Rendering Method.
+conf/ipps/LeMahieuBB98:::Paul S. LeMahieu::Vasken Bohossian::Jehoshua Bruck:::Fault-Tolerant Switched Local Area Networks.
+conf/ipps/BertossiPT02:::Alan A. Bertossi::Maria Cristina Pinotti::Richard B. Tan:::Channel Assignment with Separation for Special Classes of Wireless Networks: Grids and Rings.
+conf/ipps/NolotV00:::Florent Nolot::Vincent Villain:::Limits and Power of the Simplest Uniform and Self-Stabilizing Phase Clock Algorithm.
+conf/ipps/LattnerSSA02:::Chris Lattner::Shashank Shekhar::Anand Shukla::Vikram S. Adve:::Addressing Fundamental Bottlenecks in Link-Time and Dynamic Optimization.
+conf/ipps/WelchB01:::Lonnie R. Welch::Scott Brandt:::Toward a Realization of the Value of Benefit in Real-Time Systems.
+conf/ipps/MunzSMLBZNBS98:::Frank Munz::T. Stephan::Ursula Maier::Thomas Ludwig II::Arndt Bode::Sibylle Ziegler::Stephan G. Nekolla::P. Bartenstein::Markus Schwaiger:::NOW Parallel Reconstruction of Functional Images.
+conf/ipps/RanaweeraA00:::Samantha Ranaweera::Dharma P. Agrawal:::A Task Duplication Based Scheduling Algorithm for Heterogeneous Systems.
+conf/ipps/HamdaouiR93:::Moncef Hamdaoui::Parameswaran Ramanathan:::A Dynamic Multiple Copy Approach for Message Passing in a Virtual Cut-Through Environment.
+conf/ipps/AggarwalMSS92:::A. Aggarwal::W. T. Ma::G. vH. Sandri::S. Sarkar:::Adaptive Graph Computations with a Connection Machine.
+conf/ipps/PassosSB94:::Nelson L. Passos::Edwin Hsing-Mean Sha::Steven C. Bass:::Schedule-Based Multi-Dimensional Retiming on Data Flow Graphs.
+conf/ipps/CameronS03:::Kirk W. Cameron::Xian-He Sun:::Quantifying Locality Effect in Data Access Delay: Memory logP.
+conf/ipps/TaylorRPWS03:::Ian J. Taylor::Omer F. Rana::Roger Philp::Ian Wang::Matthew S. Shields:::Supporting Peer-2-Peer Interactions in the Consumer Grid.
+conf/ipps/Fernandez-ZepedaVT99:::José Alberto Fernández-Zepeda::Ramachandran Vaidyanathan::Jerry L. Trahan:::Improved Scaling Simulation of the General Reconfigurable Mesh.
+conf/ipps/KlonowskaLL03:::Kamilla Klonowska::Lars Lundberg::Håkan Lennerstad:::Using Golomb Rulers for Optimal Recovery Schemes in Fault Tolerant Distributed Computing.
+conf/ipps/BuntinasPS01:::Darius Buntinas::Dhabaleswar K. Panda::P. Sadayappan:::Fast NIC-Based Barrier over Myrinet/GM.
+conf/ipps/NigamS93:::Madhusudan Nigam::Sartaj Sahni:::Sorting <i>n</i> <sup>2</sup> Numbers on <i>n</i> x <i>n</i> Meshes.
+conf/ipps/BanderaZ99:::Gerardo Bandera::Emilio L. Zapata:::Sparse Matrix Block-Cyclic Redistribution.
+conf/ipps/AnjanP95:::K. V. Anjan::Timothy Mark Pinkston:::DISHA: a deadlock recovery scheme for fully adaptive routing.
+conf/ipps/ChronopoulosS02:::Anthony T. Chronopoulos::Jagannathan Sarangapani:::A Distributed Discrete-Time Neural Network Architecture for Pattern Allocation and Control.
+conf/ipps/FischerBKRSW00:::Markus Fischer::Ulrich Brüning::Jörg Kluge::Lars Rzymianowicz::Patrick Schulz::Mathias Waack:::ATOLL, a New Switched, High Speed Interconnect in Comparison to Myrinet and SCI.
+conf/ipps/ScaleskBT96:::Daniel J. Scales::Michael Burrows::Chandramohan A. Thekkath:::Experience with Parallel Computing on the AN2 Network.
+conf/ipps/SuhKC03:::Jinwoo Suh::Dong-In Kang::Stephen P. Crago:::Dynamic Power Management of Heterogeneous Systems.
+conf/ipps/HoffmannVH03:::Rolf Hoffmann::Klaus-Peter Völkmann::Wolfgang Heenes:::GCA: A Massively Parallel Model.
+conf/ipps/PresselSH01:::David M. Pressel::J. Sahu::K. R. Heavey:::Using Loop-Level Parallelism to Parallelize Vectorizable Programs.
+conf/ipps/ShiraziWRCYBH99:::Behrooz Shirazi::Lonnie R. Welch::Binoy Ravindran::Charles Cavanaugh::Barath Yanamula::Russ Brucks::Eui-nam Huh:::DynBench: A Dynamic Benchmark Suite for Distributed Real-Time Systems.
+conf/ipps/Kshemkalyani98:::Ajay D. Kshemkalyani:::Testing of Synchronization Conditions for Distributed Real-Time Applications.
+conf/ipps/GunterRG01:::Brian C. Gunter::Wesley C. Reiley::Robert A. van de Geijn:::Parallel Out-of-Core Cholesky and QR Factorization with POOCLAPACK.
+conf/ipps/BaratlooIKZ99:::Arash Baratloo::Ayal Itzkovitz::Zvi M. Kedem::Yuanyuan Zhao:::Mechanisms for Just-in-Time Allocation of Resources to Adaptive Parallel Programs.
+conf/ipps/GravenstreterMCLT95:::Greg Gravenstreter::Rami G. Melhem::Donald M. Chiarulli::Steven P. Levitan::J. P. Teza:::The Partitioned Optical Passive Stars (POPS) topology.
+conf/ipps/JonesSA97:::Chris R. Jones::Ambuj K. Singh::Divyakant Agrawal:::Low Latency MPI for Meiko CS/2 and ATM Clusters.
+conf/ipps/MogaD96:::Adrian Moga::Michel Dubois:::Performance of Asynchronous Linear Iterations with Random Delays.
+conf/ipps/ZhangY03:::Zhenghao Zhang::Yuanyuan Yang:::Distributed Scheduling Algorithms for Wavelength Convertible WDM Optical Interconnects.
+conf/ipps/Nikolopoulos03:::Dimitrios S. Nikolopoulos:::Malleable Memory Mapping: User-Level Control of Memory Bounds for Effective Program Adaptation.
+conf/ipps/Moore03:::Michelle Moore:::An Accurate and Efficient Parallel Genetic Algorithm to Schedule Tasks on a Cluster.
+conf/ipps/TalbiGHK98:::El-Ghazali Talbi::Jean-Marc Geib::Z. Hafidi::Djemai Kebbal:::A Fault-Tolerant Parallel Heuristic for Assignment Problems.
+conf/ipps/TrahanLV96:::Jerry L. Trahan::Chun-ming Lu::Ramachandran Vaidyanathan:::Integer and Floating Point Matrix-Vector Multiplication on the Reconfigurable Mesh.
+conf/ipps/YehPLV99:::Chi-Hsiang Yeh::Behrooz Parhami::Hua Lee::Emmanouel A. Varvarigos:::2.5n-Step Sorting on n*n Meshes in the Presence of o(sqrt(n)) Worst-Case Faults.
+conf/ipps/KulaczewskiS98:::Mark Bernd Kulaczewski::Howard Jay Siegel:::SIMD and Mixed-Mode Implementations of a Visual Tracking Algorithm.
+conf/ipps/KielmannBG00:::Thilo Kielmann::Henri E. Bal::Sergei Gorlatch:::Bandwidth-Efficient Collective Communication for Clustered Wide Area Systems.
+conf/ipps/YoshimotoAT02:::Hiromasa Yoshimoto::Daisaku Arita::Rin-ichiro Taniguchi:::Real-Time Communication for Distributed Vision Processing Based on Imprecise Computation Model.
+conf/ipps/KaneshiroS96:::Shaun Kaneshiro::Tatsuya Shindo:::Profiling Optimized Code: A Profiling System for an HPF Compiler.
+conf/ipps/GonzalezSMOALN00:::Marc González::Albert Serra::Xavier Martorell::José Oliver::Eduard Ayguadé::Jesús Labarta::Nacho Navarro:::Applying Interposition Techniques for Performance Analysis of OpenMP Parallel Applications.
+conf/ipps/OguchiK00:::Masato Oguchi::Masaru Kitsuregawa:::Parallel Data Mining on ATM-Connected PC Cluster and Optimization of Its Execution Environments.
+conf/ipps/HartensteinBHKN96:::Reiner W. Hartenstein::Jürgen Becker::Michael Herz::Rainer Kress::Ulrich Nageldinger:::A Partitioning Programming Environment for a Novel Parallel Architecture.
+conf/ipps/Schwarzkopf93:::Otfried Schwarzkopf:::Computing Convolutions on Mesh-Like Structures.
+conf/ipps/ChangKK99:::Fangzhe Chang::Vijay Karamcheti::Zvi M. Kedem:::Exploiting Application Tunability for Efficient, Predictable Parallel Resource Management.
+conf/ipps/TsengCS96:::Yu-Chee Tseng::Shu-Hui Chang::Jang-Ping Sheu:::Fault-Tolerant Ring Embedding in Star Graphs.
+conf/ipps/El-Kebbe03:::Dania A El-Kebbe:::Real-Time Hybrid Task Scheduling Upon Multiprocessor Production Stages.
+conf/ipps/StriegelM01:::Aaron Striegel::G. Manimaran:::A Scalable QoS Adaptation Scheme for Media Servers.
+conf/ipps/TsengB01:::Kevin K.-H. Tseng::Buntono:::A Java-Based Distributed Computation Framework for Finite Element Analysis.
+conf/ipps/Troyer03:::Lisa Troyer:::Incorporating Theories of Group Dynamics in Group Decision Support System (GDSS) Design.
+conf/ipps/VorbachB03:::Martin Vorbach::Jürgen Becker:::Reconfigurable Processor Architectures for Mobile Phones.
+conf/ipps/MongenetCP91:::Catherine Mongenet::Philippe Clauss::Guy-René Perrin:::A Geometrical Coding to Compile Affine Recurrence Equations on Regular Arrays.
+conf/ipps/SchneiderW00:::Reinhard Schneider::Reinhold Weiss:::Hardware Support for Simulated Annealing and Tabu Search.
+conf/ipps/RooholaminiH98:::M. Rooholamini::Seyed H. Hosseini:::Self-Testing Fault-Tolerant Real-Time Systems.
+conf/ipps/TangmunarunkitS98:::Hongsuda Tangmunarunkit::Peter Steenkiste:::Network-Aware Distributed Computing: A Case Study.
+conf/ipps/XavierLC03:::Percival Xavier::Bu-Sung Lee::Wentong Cai:::A Decentralized Hierarchical Scheduler for a Grid-Based Clearinghouse.
+conf/ipps/WangNKS94:::Haigeng Wang::Alexandru Nicolau::Stephen Keung::Kai-Yeung Siu:::Scalable Techniques for Computing Band Linear Recurrences on Massively Parallel and Vector Supercomputers.
+conf/ipps/JonssonLS99:::Jan Jonsson::Henrik Lönn::Kang G. Shin:::Non-Preemptive Scheduling of Real-Time Threads on Multi-Level-Context Architectures.
+conf/ipps/IreyCHMOP00:::Philip M. Irey IV::Brett L. Chappell::Robert W. Hott::David T. Marlow::Karen O'Donoghue::T. R. Plunkett:::Metrics, Methodologies, and Tools for Analyzing Network Fault Recovery Performance in Real-Time Distributed Systems.
+conf/ipps/Dixit-RadiyaP94:::Vibha A. Dixit-Radiya::Dhabaleswar K. Panda:::Clustering and Intra-Processor Scheduling for Explicitly-Parallel Programs on Distributed-Memory Systems.
+conf/ipps/Baskiyar01:::Sanjeev Baskiyar:::Scheduling Task In-Trees on Distributed Memory Systems.
+conf/ipps/SrinivasN98:::M. Srinivas::Alexandru Nicolau:::Analyzing the Individual/Combined Effects of Speculative and Guarded Execution on a Superscalar Architecture.
+conf/ipps/ChoudharyLWVLL98:::Alok N. Choudhary::Wei-keng Liao::Donald Weiner::Pramod K. Varshney::Richard W. Linderman::Mark H. Linderman:::Design, Implementation and Evaluation of Parallel Pipelined STAP on Parallel Computers.
+conf/ipps/Scherson91:::Isaac D. Scherson:::Multidimensional Access Shared Memory Parallel Processing Systems.
+conf/ipps/LoukopoulosA00:::Thanasis Loukopoulos::Ishfaq Ahmad:::Replicating the Contents of a WWW Multimedia Repository to Minimize Download Time.
+conf/ipps/BrebnerL03:::Paul Brebner::Ben Logan:::Project JebX: A Java ebXML Experience.
+conf/ipps/HeberGB99:::Gerd Heber::Guang R. Gao::Rupak Biswas:::A New Approach to Parallel Dynamic Partitioning for Adaptive Unstructured Meshes.
+conf/ipps/PontelliGH95:::Enrico Pontelli::Gopal Gupta::Manuel V. Hermenegildo:::&amp;ACE: a high-performance parallel Prolog system.
+conf/ipps/AbduLB01:::Hasina Abdu::Hanan Lutfiyya::Michael A. Bauer:::Towards efficient resource allocation in distributed systems management.
+conf/ipps/ElradL98:::Tzilla Elrad::Jinlong Lin:::Evolving Processes and Evolution Schedulers for Concurrent Scheduling Controls and Parallel Evolutionary Computation.
+conf/ipps/ZhuPYZRH03:::H Zhu::Manish Parashar::Jingmei Yang::Yeliang Zhang::S Rao::Salim Hariri:::Self-Adapting, Self-Optimizing Runtime Management of Grid Applications Using PRAGMA.
+conf/ipps/Mueller01:::Frank Mueller:::Fault-Tolerance for Token-based Synchronization Protocols.
+conf/ipps/Chandy93:::K. Mani Chandy:::Writing Correct Parallel Programs.
+conf/ipps/MichaelS97:::Maged M. Michael::Michael L. Scott:::Relative Performance of Preemption-Safe Locking and Non-Blocking Synchronization on Multiprogrammed Shared Memory Multiprocessors.
+conf/ipsn/WangCZLS03:::Qixin Wang::Wei-Peng Chen::Rong Zheng::Kihwal Lee::Lui Sha:::Acoustic Target Tracking Using Tiny Wireless Sensor Devices.
+conf/ipsn/YipCCHYV03:::L. Yip::K. Comanor::J. C. Chen::R. E. Hudson::K. Yao::L. Vandenberghe:::Array Processing for Target DOA, Localization, and Classification Based on AML and SVM Algorithms in Sensor Networks.
+conf/ipsn/SpyropoulosRP03:::Akis Spyropoulos::C. S. Raghavendra::Viktor K. Prasanna:::A Distributed Algorithm for Waking-up in Heterogeneous Sensor Networks.
+conf/ipsn/SavvidesGAMS03:::Andreas Savvides::Wendy Garber::Sachin Adlakha::Randolph Moses::Mani B. Srivastava:::On the Error Characteristics of Multihop Node Localization in Ad-Hoc Sensor Networks.
+conf/ipsn/KreucherKH03:::Chris Kreucher::Keith Kastella::Alfred O. Hero III:::Multi-target Sensor Management Using Alpha-Divergence Measures.
+conf/ipsn/HuangLR03:::Qingfeng Huang::Chenyang Lu::Gruia-Catalin Roman:::Mobicast: Just-in-Time Multicast for Sensor Networks under Spatiotemporal Constraints.
+conf/ipsy/HoppeP89:::Heinz Ulrich Hoppe::Rolf Plötzner:::Inductive knowledge acquisition for a UNIX coach.
+conf/ipsy/Rohr86:::Gabriele Rohr:::How people comprehend unknown system structure: conceptual primitives in systems' surface representations.
+conf/ipsy/WettlerG87:::Manfred Wettler::Angelika Glöckner-Rist:::Empirical study of the reference interview in bibliographic online retrieval.
+conf/ipsy/Innocent89:::Peter R. Innocent:::Usability testing: a practical use for mental model construction.
+conf/ipsy/Lansky88:::Milos Lansky:::Intrinsic geometry in LOGO - Distance of linear segments.
+conf/ipsy/Lansky89:::Milos Lansky:::Aristotelian syllogisms in mental models.
+conf/ipsy/PolakG88:::J. Polak::S. P. Guest:::A graphical representation of the Prolog programmer's knowledge.
+conf/irep/LewisDG95:::Brian T. Lewis::L. Peter Deutsch::Theodore C. Goldstein:::Clarity MCode: A Retargetable Intermediate Representation for Compilation.
+conf/isca/DeWitt78:::David J. DeWitt:::DIRECT - A Multiprocessor Organization for Supporting Relational Data Base Management Systems.
+conf/isca/JensenB76:::John E. Jensen::Jean-Loup Baer:::A Model of Interference in a Shared Resource Multiprocessor.
+conf/isca/JensenK77:::E. Douglas Jensen::Richard Y. Kain:::The Honeywell Modular Microprogram Machine: M3.
+conf/isca/BaerW88:::Jean-Loup Baer::Wen-Hann Wang:::On the Inclusion Properties for Multi-Level Cache Hierarchies.
+conf/isca/Allen76:::Jonathan Allen:::A Course in Computer Structures.
+conf/isca/Dowd91:::Patrick W. Dowd:::High Performance Interprocessor Communication through Optical Wavelength Division Multiple Access Channels.
+conf/isca/Russell78:::Robert D. Russell:::The PDP-11: A Case Study of How Not to Design Condition Codes.
+conf/isca/GuillierS80:::P. Guillier::D. Slosberg:::An Architecture with Comprehensive Facilities of Inter-Process Synchronization and Communication.
+conf/isca/ParkFV03:::Il Park::Babak Falsafi::T. N. Vijaykumar:::Iimplicitly-Multithreaded Processors.
+conf/isca/GurumurthiSKF03:::Sudhanva Gurumurthi::Anand Sivasubramaniam::Mahmut T. Kandemir::Hubertus Franke:::DRPM: Dynamic Speed Control for Power Mangagement in Server Class Disks.
+conf/isca/ButlerAB88:::P. L. Butler::J. D. Allen Jr.::Donald W. Bouldin:::Parallel Architecture for OPS5.
+conf/isca/LoBEGLP98:::Jack L. Lo::Luiz André Barroso::Susan J. Eggers::Kourosh Gharachorloo::Henry M. Levy::Sujay S. Parekh:::An Analysis of Database Workload Performance on Simultaneous Multithreaded Processors.
+conf/isca/HoYHD95:::Richard C. Ho::C. Han Yang::Mark Horowitz::David L. Dill:::Architecture Validation for Processors.
+conf/isca/Berstis80:::Viktors Berstis:::Security and Protection of Data in the IBM System/38.
+conf/isca/Bic84:::Lubomir Bic:::Execution of Logic Programs on a Dataflow Architecture.
+conf/isca/WadeS74:::James F. Wade::Paul D. Stigall:::Instruction Design To Minimize Program Size.
+conf/isca/ParkC83:::Young Gil Park::Jung Wan Cho:::Fault Diagnosis of Bit-Slice Processor
+conf/isca/Patel98:::Janak H. Patel:::Retrospective: Improving the Throughput of a Pipeline by Insertion of Delays.
+conf/isca/HakuraG97:::Ziyad S. Hakura::Anoop Gupta:::The Design and Analysis of a Cache Architecture for Texture Mapping.
+conf/isca/Hwu98:::Wen-mei W. Hwu:::Retrospective: IMPACT: An Architectural Framework for Multiple-Instruction Issue.
+conf/isca/Greenfeld81:::Norton Greenfeld:::Jericho: A Professional's Personal Computer System.
+conf/isca/KernerB76:::Helmut Kerner::Werner Beyerle:::A PMS Level Language for Performance Evaluation Modelling (V-PMS).
+conf/isca/WooOTSG95:::Steven Cameron Woo::Moriyoshi Ohara::Evan Torrie::Jaswinder Pal Singh::Anoop Gupta:::The SPLASH-2 Programs: Characterization and Methodological Considerations.
+conf/isca/Freeman74:::Martin Freeman:::An Instruction Class for an Extensible Interpreter.
+conf/isca/Kehl76:::Theodore H. Kehl:::Basil Architecture - An HLL Minicomputer.
+conf/isca/KimC96:::Jae H. Kim::Andrew A. Chien:::Rotating Combined Queueing (RCQ): Bandwidth and Latency Guarantees in Low-Cost, High-Performance Networks.
+conf/isca/LeeW84:::Manjai Lee::Chuan-lin Wu:::Performance Analysis of Circuit Switching Baseline Interconnection Networks.
+conf/isca/AmamiyaTHM86:::Makoto Amamiya::Masaru Takesue::Ryuzo Hasegawa::Hirohide Mikami:::Implementation and Evaluation of a List-Processing-Oriented Data Flow Machine.
+conf/isca/BlumrichLADFS98:::Matthias A. Blumrich::Kai Li::Richard Alpert::Cezary Dubnicki::Edward W. Felten::Jonathan Sandberg:::Retrospective: Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer.
+conf/isca/BurgerKG97:::Doug Burger::Stefanos Kaxiras::James R. Goodman:::DataScalar Architectures.
+conf/isca/HongPF86:::Yang-Chang Hong::Thomas H. Payne::Le Baron O. Ferguson:::Graph Allocation in Static Dataflow Systems.
+conf/isca/DwarkadasKCZ93:::Sandhya Dwarkadas::Peter J. Keleher::Alan L. Cox::Willy Zwaenepoel:::Evaluation of Release Consistent Software Distributed Shared Memory on Emerging Network Technology.
+conf/isca/SullivanBK77:::Herbert Sullivan::Theodore R. Bashkow::David Klappholz:::A Large Scale, Homogeneous, Fully Distributed Parallel Machine, II.
+conf/isca/YoussefA90:::Abdou Youssef::Bruce W. Arden:::A New Approach to Fast Control of r2 x r2 3-Stage Benes Networks of r x r Crossbar Switches.
+conf/isca/ButlerYPASS91:::Michael Butler::Tse-Yu Yeh::Yale N. Patt::Mitch Alsup::Hunter Scales::Michael Shebanow:::Single Instruction Stream Parallelism is Greater Than Two.
+conf/isca/FullerSS73:::Samuel H. Fuller::Daniel P. Siewiorek::R. J. Swan:::Computer Modules: An Architecture for Large Digital Modules.
+conf/isca/Cooper73:::Richard Cooper:::Micromodules: Microprogrammable Building Blocks for Hardware Development.
+conf/isca/Pier83:::Kenneth A. Pier:::A Retrospective on the Dorado, A High-Performance Personal Computer
+conf/isca/FarrensP91a:::Matthew K. Farrens::Andrew R. Pleszkun:::Strategies for Achieving Improved Processor Throughput.
+conf/isca/RauR77:::B. Ramakrishna Rau::George E. Rossman:::The Effect of Instruction Fetch Strategies upon the Performance of Pipelined Instruction Units.
+conf/isca/HorstC85:::Robert W. Horst::Timothy C. K. Chou:::An Architecture for High Volume Transaction Processing.
+conf/isca/Riad80:::Mokhtar Boshra Riad:::A Combination of Field and Current Access Techniques for Effiecient and Cost-Effective Bubble Memories.
+conf/isca/CheungSSP87:::Kifung C. Cheung::Gurindar S. Sohi::Kewal K. Saluja::Dhiraj Pradham:::Organization and Analysis of a Gracefully-Degrading Interleaved Memory System.
+conf/isca/ReinhardtLW98a:::Steven K. Reinhardt::James R. Larus::David A. Wood:::Tempest and Typhoon: User-Level Shared Memory.
+conf/isca/HerlihyM93:::Maurice Herlihy::J. Eliot B. Moss:::Transactional Memory: Architectural Support for Lock-Free Data Structures.
+conf/isca/BradleeEH91:::David G. Bradlee::Susan J. Eggers::Robert R. Henry:::The Effect on RISC Performance of Register Set Size and Structure Versus Code Generation Strategy.
+conf/isca/Goodman83:::James R. Goodman:::Using Cache Memory to Reduce Processor-Memory Traffic
+conf/isca/LeungMND76:::C. Leung::David Misunas::A. Neczwid::Jack B. Dennis:::A Computer Simulation Facility for Packet Communication Architecture.
+conf/isca/BoydD93:::Eric L. Boyd::Edward S. Davidson:::Hierarchical Performance Modeling with MACS: A Case Study of the Convex C-240.
+conf/isca/Tick88:::Evan Tick:::Data Buffer Performance for Sequential Prolog Architectures.
+conf/isca/FranklinKS79:::Mark A. Franklin::S. A. Kahn::M. J. Stucki:::Design Issues in the Development of a Modular Mutliprocessor Communications Network.
+conf/isca/SoundararajanHVGGH98:::Vijayaraghavan Soundararajan::Mark Heinrich::Ben Verghese::Kourosh Gharachorloo::Anoop Gupta::John L. Hennessy:::Flexible Use of Memory for Replication/Migration in Cache-Coherent DSM Multiprocessors.
+conf/isca/ChenS89:::Ming-Syan Chen::Kang G. Shin:::Task Migration in Hypercube Multiprocessors.
+conf/isca/WeiL88:::Sizheng Wei::Gyungho Lee:::Extra Group Network: A Cost-Effective Fault-Tolerant Multistage Interconnection Network.
+conf/isca/ChoiY96:::Lynn Choi::Pen-Chung Yew:::Compiler and Hardware Support for Cache Coherence in Large-Scale Multiprocessors: Design Considerations and Performance Study.
+conf/isca/ChouS00:::Yuan C. Chou::John Paul Shen:::Instruction path coprocessors.
+conf/isca/ChangMCWH91:::Pohua P. Chang::Scott A. Mahlke::William Y. Chen::Nancy J. Warter::Wen-mei W. Hwu:::IMPACT: An Architectural Framework for Multiple-Instruction-Issue Processors.
+conf/isca/XiaT96:::Chun Xia::Josep Torrellas:::Instruction Prefetching of Systems Codes with Layout Optimized for Reduced Cache Misses.
+conf/isca/XuBH03:::Min Xu::Rastislav Bodik::Mark D. Hill:::A "Flight Data Recorder" for Enabling Full-System Multiprocessor Deterministic Replay.
+conf/isca/IrwinH80:::Mary Jane Irwin::Don Heller:::Online Pipeline Systems for Recursive Numeric Computations.
+conf/isca/FortesM84:::José A. B. Fortes::Dan I. Moldovan:::Data Broadcasting in Linearly Scheduled Array Processors.
+conf/isca/Dennis98:::Jack B. Dennis:::Retrospective: A Preliminary Architecture for a Basic Data Flow Processor.
+conf/isca/KaviB84:::Krishna M. Kavi::Edward W. Banios:::Message Repository Definitional Facility: An Architectural Model for Interprocess Communication.
+conf/isca/BhargavaJ03:::Ravi Bhargava::Lizy Kurian John:::Improving Dynamic Cluster Assignment for Clustered Trace Cache Processors.
+conf/isca/HorieHSI93:::Takeshi Horie::Kenichi Hayashi::Toshiyuki Shimizu::Hiroaki Ishihata:::Improving AP1000 Parallel Computer Performance with Message Communication.
+conf/isca/PnevmatikatosS94:::Dionisios N. Pnevmatikatos::Gurindar S. Sohi:::Guarded Executing and Branch Prediction in Dynamic ILP Processors.
+conf/isca/PattersonGHLNSD83:::David A. Patterson::Phil Garrison::Mark D. Hill::Dimitris Lioupis::Chris Nyberg::Tim Sippel::Korbin Van Dyke:::Architecture of a VLSI Instruction Cache for a RISC
+conf/isca/KecklerDMCCL98:::Stephen W. Keckler::William J. Dally::Daniel Maskit::Nicholas P. Carter::Andrew Chang::Whay Sing Lee:::Exploiting Fine-grain Thread Level Parallelism on the MIT Multi-ALU Processor.
+conf/isca/SimoniH91:::Richard Simoni::Mark Horowitz:::Modeling the Performance of Limited Pointers Directories for Cache Coherence.
+conf/isca/BodinS95:::François Bodin::André Seznec:::Skewed Associativity Enhances Performance Predictability.
+conf/isca/AustinPS95:::Todd M. Austin::Dionisios N. Pnevmatikatos::Gurindar S. Sohi:::Streamlining Data Cache Access with Fast Address Calculation.
+conf/isca/Reghbati79:::Hassan K. Reghbati:::An Efficient Time-Shared Link Processor for Supporting Communication in Parallel Systems with Dynamic Structure.
+conf/isca/CorlissLR03:::Marc L. Corliss::E. Christopher Lewis::Amir Roth:::DISE: A Programmable Macro Engine for Customizing Applications.
+conf/isca/FosterK80:::M. J. Foster::H. T. Kung:::Design of Special-Purpose VLSI Chips: Example and Opinions.
+conf/isca/MukherjeeFHW96:::Shubhendu S. Mukherjee::Babak Falsafi::Mark D. Hill::David A. Wood:::Coherent Network Interfaces for Fine-Grain Communication.
+conf/isca/AdveH98a:::Sarita V. Adve::Mark D. Hill:::Weak Ordering - A New Definition.
+conf/isca/SmithP85:::James E. Smith::Andrew R. Pleszkun:::Implementation of Precise Interrupts in Pipelined Processors.
+conf/isca/SeznecFKS02:::André Seznec::Stephen Felix::Venkata Krishnan::Yiannakis Sazeides:::Design Tradeoffs for the Alpha EV8 Conditional Branch Predictor.
+conf/isca/RanganathanAJ00:::Parthasarathy Ranganathan::Sarita V. Adve::Norman P. Jouppi:::Reconfigurable caches and their application to media processing.
+conf/isca/SorinPAVW98:::Daniel J. Sorin::Vijay S. Pai::Sarita V. Adve::Mary K. Vernon::David A. Wood:::Analytic Evaluation of Shared-memory Systems with ILP Processors.
+conf/isca/Kronlof83:::Klaus Kronlof:::Execution Control and Memory Management of a Data Flow Signal Processor
+conf/isca/KesslerJLH89:::Richard E. Kessler::Richard Jooss::Alvin R. Lebeck::Mark D. Hill:::Inexpensive Implementations of Set-Associativity.
+conf/isca/LeeYL87:::Roland L. Lee::Pen-Chung Yew::Duncan H. Lawrie:::Multiprocessor Cache Design Considerations.
+conf/isca/Koren81:::Israel Koren:::A Reconfigurable and Fault-Tolerant VLSI Multiprocessor Array.
+conf/isca/WunderlichWFH03:::Roland E. Wunderlich::Thomas F. Wenisch::Babak Falsafi::James C. Hoe:::SMARTS: Accelerating Microarchitecture Simulation via Rigorous Statistical Sampling.
+conf/isca/SherwoodC01:::Timothy Sherwood::Brad Calder:::Automated design of finite state machine predictors for customized processors.
+conf/isca/Margolus00:::Norman Margolus:::An embedded DRAM architecture for large-scale spatial-lattice computations.
+conf/isca/KaxirasHM01:::Stefanos Kaxiras::Zhigang Hu::Margaret Martonosi:::Cache decay: exploiting generational behavior to reduce cache leakage power.
+conf/isca/Jagannathan80:::Anand Jagannathan:::A Technique for the Architectural Implementation of Software Subsystems.
+conf/isca/WeberG89:::Wolf-Dietrich Weber::Anoop Gupta:::Exploring the Benefits of Multiple Hardware Contexts in a Multiprocessor Architecture: Preliminary Results.
+conf/isca/Abu-SufahK85:::Walid A. Abu-Sufah::Alex Y. Kwok:::Performance Prediction Tools for Cedar: A Multiprocessor Supercomputer.
+conf/isca/Burkowski84:::Forbes J. Burkowski:::A Vector and Array Multiprocessor Extension of the Sylvan Architecture.
+conf/isca/Gumpertz83:::Richard H. Gumpertz:::Combining Tags With Error Codes

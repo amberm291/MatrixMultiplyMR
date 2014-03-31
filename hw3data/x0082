@@ -1,0 +1,200 @@
+conf/ondm/MikacIT98:::Branko Mikac::Robert Inkret::F. Tillerot:::Wavelength Assignment in WDM Networks - A Comparison of Approaches.
+conf/ondm/MoreschiniMS01:::M. Moreschini::Francesco Matera::Marina Settembre:::Wavelength Assignment in Optical Networks According to Traffic Requirements and Transmission Impairments.
+conf/ondm/KitayamaOM02:::Ken-ichi Kitayama::Kiyoshi Onohara::Masayuki Murata:::Capability of Optical Code-Based MPLS (OC-MPLS).
+conf/ondm/MaachB02:::Abdelilah Maach::Gregor von Bochmann:::Segmented Burst Switching: Enhancement of Optical Burst Switching to Decrease Loss Rate and Support Quality of Service.
+conf/oois/XuandongG97:::Xuandong Li::Guoliang Zheng:::Enhancing Reusability and Maintainability in NDOOM.
+conf/oois/Nunes03:::Nuno Jardim Nunes:::Representing User-Interface Patterns in UML.
+conf/oois/KovseH02:::Jernej Kovse::Theo Härder:::Generic XMI-Based UML Model Transformations.
+conf/oois/Higgins95:::Catherine Higgins:::A Formal Preparation for Object-Oriented Query Optimisation.
+conf/oois/Smordal97:::Ole Smørdal:::Classifying Approaches to Object Oriented Analysis of Work with Activity Theory.
+conf/oois/LeeC97:::Hakgene Shin::Heeju Lee::Jae-Woo Chang:::A Concatenated Signature Scheme on Path Dictionary for Query Processing of Composite Objects.
+conf/oois/Jaaksi96:::Ari Jaaksi:::Type-Safe Callbacks with Abstract Partners.
+conf/oois/Bryant96:::Antony Bryant:::Extending and Universalizing Object Orientation: Living in Cloud CuckOO Land?
+conf/oois/LagunaGLG03:::Miguel A. Laguna::Bruno González-Baixauli::Oscar López::Francisco José García:::Software Process and Reuse: A Required Unification.
+conf/oois/SlembekG00:::Ingrid Slembek::Valérie Gay:::An Architecture for the Support of Knowledge-Intensive e-Business Processes.
+conf/oois/Lafourcade02:::Mathieu Lafourcade:::Guessing Hierarchies and Symbols for Word Meanings through Hyperonyms and Conceptual Vectors.
+conf/oois/FurtadoRWZB97:::Paula Furtado::Roland Ritsch::Norbert Widmann::Peter Zoller::Peter Baumann:::Object-Oriented Design of a Database Engine for Multidimensional Discrete Data.
+conf/oois/RasheedZ97:::Aamir Rasheed::Arkady B. Zaslavsky:::A Transaction Model to Support Disconnected Operation in a Mobile Computing Environment.
+conf/oois/CherfiL02:::Samira Si-Said Cherfi::Nadira Lammari:::Towards an Assisted Reorganization of Is_A Hierarchies.
+conf/oois/LeeJH96:::SangKeun Lee::Soon Young Jung::Chong-Sun Hwang:::A New Weaker Conflict Relation in Semantics-Based Concurrency Control.
+conf/oois/Bellahsene97:::Zohra Bellahsene:::Updating Virtual Complex Objects.
+conf/oois/MathiassenMNS94:::Lars Mathiassen::Andreas Munk-Madsen::P. A. Nielsen::J. Stage:::Modelling Events in Object-Oriented Analysis.
+conf/oois/ValetR94:::L. C. Valet::S. A. Roberts:::Identifying the Requirement for History of Time-Varying Objects During an Object-Oriented Analysis.
+conf/oois/HabelaS03:::Piotr Habela::Kazimierz Subieta:::Overcoming the Complexitz of Object-Oriented DBMS Metadata Management.
+conf/oois/NguyenD97:::Kinh Nguyen::Tharam S. Dillon:::A Practical Formally-Based Modelling Method for Object Oriented Information Systems.
+conf/oois/GrantFVCB00:::Emanuel Grant::Robert B. France::Ramchander Varadarajan::Adam Carheden::Jean-Michel Bruel:::UML2Z: An UML-Based Object-Oriented Modeling Tool for an Internet Integrated Formalization Process.
+conf/oois/ChoukairLS00:::Zièd Choukair::Guy Leonhard::Safouane Sfar:::Towards an Auto-Adaptive Model to Compose Multimedia Telecom Services.
+conf/oois/Ducournau02:::Roland Ducournau:::"Real World" as an Argument for Covariant Specialization in Programming and Modeling.
+conf/oois/GrosseKK95:::Arnd G. Grosse::Dietmar A. Kottmann::Ludwig Keller:::Exploiting the Trading-Paradigm for Locating Entry-Points into Distributed Object-Oriented Databases.
+conf/oois/NajaM97:::Hala Naja::Noureddine Mouaddib:::Viewpoints in Object-Oriented Databases.
+conf/oois/BrooksMT95:::William Brooks::V. Wiktor Marek::Miroslaw Truszczynski:::Algorithms for Maintaining Authorization Bases.
+conf/oois/Pigneur02:::Yves Pigneur:::A Framework for Defining E-business Models.
+conf/oois/MoonH97:::Sang-Ho Moon::Bonghee Hong:::Design and Implementation of Object-Oriented Spatial Views.
+conf/oois/Berrisford96:::Graham Berrisford:::Discrete Event Modelling.
+conf/oois/DarlingtonG94:::John Darlington::Yike Guo:::Formalising Actors in Linear Logic.
+conf/oois/BiskupFKS97:::Joachim Biskup::Jürgen Freitag::Yücel Karabulut::Barbara Sprick:::Query Evaluation in an Object-Oriented Multimedia Mediator.
+conf/oois/BekaertDDS02:::Pieter Bekaert::Geert Delanote::Frank Devos::Eric Steegmans:::Specialization/Generalization in Object-Oriented Analysis: Strengthening and Multiple Partitioning.
+conf/oois/BielkowiczPT02:::Peter Bielkowicz::Preeti Patel::Thein Than Tun:::Evaluating Information Systems Development Methods: A New Framework.
+conf/oois/BenattouB02:::Mohammed Benattou::Jean-Michel Bruel:::Active Objects for Coordination in Distributed Testing.
+conf/oois/CappiRF02:::Juan Cappi::Gustavo Rossi::Andres Fortier:::Customization Policies Need more than Rule Objects.
+conf/pdis/DasguptaB91:::R. Dasgupta::S. Bhattacharya:::An Efficient Data Organization for Parallel Algorithmic Design of Cartographic Database
+conf/pdis/Himes93:::David A. Himes:::Database Interoperability and Portability through Standards.
+conf/pdis/Marshall91:::R. G. Marshall:::A Hardware and Software Architectural Model for the Representation and Manipulation of Integrated Genetic Databases.
+conf/pdis/KellerB94:::Arthur M. Keller::Julie Basu:::A Predicate-based Caching Scheme for Client-Server Database Architectures.
+conf/pdis/SuCL91:::Stanley Y. W. Su::Yaw-Huei Chen::Herman Lam:::Multiple Wavefront Algorithms for Pattern-based Processing of Object-Oriented Databases.
+conf/pdis/ChenW96:::Ing-Ray Chen::Ding-Chau Wang:::Repairman Models for Replicated Data Management: A Case Study.
+conf/pdis/RabinovichL93:::Michael Rabinovich::Edward D. Lazowska:::An Efficient and Highly Available Read-One Write-All Protocol for Replicated Data Management.
+conf/pdis/MehrotraRKS91:::Sharad Mehrotra::Rajeev Rastogi::Henry F. Korth::Abraham Silberschatz:::Non-Serializable Executions in Heterogeneous Distributed Database Systems.
+conf/pdis/KaufmannS96:::Helmut Kaufmann::Hans-Jörg Schek:::Extending TP-Monitors for Intra-Transaction Parallelism.
+conf/pdis/MaheshwariL94:::Umesh Maheshwari::Barbara Liskov:::Fault-Tolerant Distributed Garbage Collection in a Client-Server Object-Oriented Database.
+conf/pdis/MatsliachS91:::Gabriel Matsliach::Oded Shmueli:::An Efficient Method for Distributing Search Structures.
+conf/pdis/DeMaraM91:::Ronald F. DeMara::Dan I. Moldovan:::Marker-Passing on a Parallel Knowledge Processing Testbed.
+conf/pdis/RiegelM96:::Jeff Riegel::Jai Menon:::Performance of Recovery Time Improvement Algorithms for Software RAIDs.
+conf/pdis/DeWittLM93:::David J. DeWitt::Daniel F. Lieuwen::Manish Mehta:::Pointer-Based Join Techniques for Object-Oriented Databases.
+conf/pdis/TaitD91:::Carl D. Tait::Dan Duchamp:::Service Interface and Replica Management Algorithm for Mobile File System Clients
+conf/pdis/HiranoSIT91:::Y. Hirano::Tetsuji Satoh::Ushio Inoue::K. Teranaka:::Load Balancing Algorithms for Parallel Database Processing on Shared Memory Multiprocessors.
+conf/pdis/Silberberg91:::David Silberberg:::Populating Databases from Multiple Sources: The Hubble Space Telescope Paradigm.
+conf/pdis/MogiK94:::Kazuhiko Mogi::Masaru Kitsuregawa:::Dynamic Parity Stripe Reorganizations for RAID5 Disk Arrays.
+conf/pdis/WolfDYT91:::Joel L. Wolf::Daniel M. Dias::Philip S. Yu::John Turek:::Comparative Performance of Parallel Join Algorithms.
+conf/pdos/Schmutz89:::Hermann Schmutz:::Key Research Directions in Distributed Operating Systems.
+conf/pdos/LuxHK89:::Wolfgang Lux::Hermann Härtig::Winfried E. Kühnhauser:::On the Implementation of Abstract Data Types in BirliX.
+conf/pdse/Li99:::Xiaoshan Li:::Specification and Simulation of a Concurrent Real-Time System.
+conf/pdse/MillettT99:::Lynette I. Millett::Tim Teitelbaum:::Channel Dependence Analysis for Slicing Promela.
+conf/pdse/RaniSR00:::P. Manjula Rani::A. Vijay Srinivas::D. Janaki Ram:::Scalability Issues in CORBA.
+conf/pdse/BlairCABCCDPS00:::Gordon S. Blair::Geoff Coulson::Anders Andersen::Lynne Blair::Michael Clarke::Fábio M. Costa::Hector A. Duran::Nikos Parlavantzas::Katia B. Saikoski:::A Principled Approach to Supporting Adaptation in Distributed Mobile Environments.
+conf/pdse/JeronJG98:::Thierry Jéron::Jean-Marc Jézéquel::Alain Le Guennec:::Validation and Test Generation for Object-Oriented Distributed Software.
+conf/pdse/Thurner98:::Veronika Thurner:::A Formally Founded Description Technique for Business Processes.
+conf/pdse/Gorton98:::Ian Gorton:::Distributed Information Systems - Issues and Challenges for the Software Engineering Research Community.
+conf/pdse/SuarezGG00:::Francisco Suárez::Daniel F. García::Javier García:::Performance Debugging of Parallel and Distributed Embedded Systems.
+conf/pepm/DwyerH99:::Matthew B. Dwyer::John Hatcliff:::Slicing Software for Model Construction.
+conf/pepm/LeoneL94:::Mark Leone::Peter Lee:::Lightweight Run-Time Code Generation.
+conf/pepm/LiuT95:::Yanhong A. Liu::Tim Teitelbaum:::Caching Intermediate Results for Program Improvement.
+conf/pepm/Debray97:::Saumya K. Debray:::Resource-Bounded Partial Evaluation.
+conf/pepm/Consel93:::Charles Consel:::Polyvariant Binding-Time Analysis For Applicative Languages.
+conf/pepm/HarnettM92:::Sheila Harnett::Margaret Montenyohl:::Towards Efficient Compilation of a Dynamic Object-Oriented Language.
+conf/pepm/GluckJ98:::Robert Glück::Jesper Jørgensen:::Multi-Level Specialization (Extended Abstract).
+conf/pepm/RufW92:::Erik Ruf::Daniel Weise:::Improving the Accuracy of Higher-Order Specialization using Control Flow Analysis.
+conf/pepm/Pfenning00:::Frank Pfenning:::On the Logical Foundations of Staged Computation (Abstract of Invited Talk).
+conf/pepm/ChirokoffC99:::Sandrine Chirokoff::Charles Consel:::Combining Program and Data Specialization.
+conf/pepm/AsaiMY97:::Kenichi Asai::Hidehiko Masuhara::Akinori Yonezawa:::Partial Evaluation of Call-by-Value lambda-Calculus with Side-Effects.
+conf/pepm/Sands95:::David Sands:::Higher Order Expression Procedures.
+conf/pepm/GomezL02:::Gustavo Gomez::Yanhong A. Liu:::Automatic time-bound analysis for a higher-order language.
+conf/pepm/Leuschel98a:::Michael Leuschel:::Advanced Logic Program Specialisation.
+conf/pepm/PueblaH95:::German Puebla::Manuel V. Hermenegildo:::Implementation of Multiple Specialization in Logic Programs.
+conf/pepm/HatcliffDDJRR03:::John Hatcliff::William Deng::Matthew B. Dwyer::Georg Jung::Venkatesh Prasad Ranganath::Robby:::Slicing and partial evaluation of CORBA component model designs for avionics system.
+conf/pepm/BartheU02:::Gilles Barthe::Tarmo Uustalu:::CPS translating inductive and coinductive types.
+conf/pepm/Lisper91:::Björn Lisper:::Detecting Static Algorithms by Partial Evaluation.
+conf/pepm/MullerVM97:::Gilles Muller::Eugen-Nicolae Volanschi::Renaud Marlet:::Scaling up Partial Evaluation for Optimizing the Sun Commercial RPC Protocol.
+conf/pepm/BerlinS94:::Andrew A. Berlin::Rajeev J. Surati:::Partial Evaluation for Scientific Computing: The Supercomputer Toolkit Experience.
+conf/pepm/Jorgensen98:::Jesper Jørgensen:::SIMILIX: A Self-Applicable Partial Evaluator for Scheme.
+conf/osdi/SeltzerESS96:::Margo I. Seltzer::Yasuhiro Endo::Christopher Small::Keith A. Smith:::Dealing with Disaster: Surviving Misbehaved Kernel Extensions.
+conf/osdi/FreehLA94:::Vincent W. Freeh::David K. Lowenthal::Gregory R. Andrews:::Distributed Filaments: Efficient Fine-Grain Parallelism on a Cluster of Workstations.
+conf/osdi/ZekauskasSB94:::Matthew J. Zekauskas::Wayne Sawdon::Brian N. Bershad:::Software Write Detection for a Distributed Shared Memory.
+conf/osdi/Waldspurger02:::Carl A. Waldspurger:::Memory Resource Management in VMware ESX Server.
+conf/osdi/KimCKNMCK00:::Jong Min Kim::Jongmoo Choi::Jesung Kim::Sam H. Noh::Sang Lyul Min::Yookun Cho::Chong-Sang Kim:::A Low-Overhead, High-Performance Unified Buffer Management Scheme That Exploits Sequential and Looping References.
+conf/osdi/BrustoloniS96:::Jose Carlos Brustoloni::Peter Steenkiste:::Effects of Buffering Semantics on I/O Performance.
+conf/osdi/CastroL99:::Miguel Castro::Barbara Liskov:::Practical Byzantine Fault Tolerance.
+conf/osdi/RomerLBC94:::Theodore H. Romer::Dennis Lee::Brian N. Bershad::J. Bradley Chen:::Dynamic Page Mapping Policies for Cache Conflict Resolution on Standard Hardware.
+conf/osdi/GamsaKAS99:::Benjamin Gamsa::Orran Krieger::Jonathan Appavoo::Michael Stumm:::Tornado: Maximizing Locality and Concurrency in a Shared Memory Multiprocessor Operating System.
+conf/osdi/GopalM99:::Burra Gopal::Udi Manber:::Integrating Content-Based Access Mechanisms with Hierarchical File Systems.
+conf/osdi/TamchesM99:::Ariel Tamches::Barton P. Miller:::Fine-Grained Dynamic Instrumentation of Commodity Operating System Kernels.
+conf/osdi/VenkataramaniKD02:::Arun Venkataramani::Ravi Kokku::Michael Dahlin:::TCP Nice: A Mechanism for Background Transfers.
+conf/osdi/Tennenhouse96:::David L. Tennenhouse:::Active Networks (Abstract).
+conf/osdi/NeculaL96:::George C. Necula::Peter Lee:::Safe Kernel Extensions Without Run-Time Checking.
+conf/osdi/MeterG00:::Rodney Van Meter::Minxi Gao:::Latency Management in Storage Systems.
+conf/osdi/GrunwaldLFMN00:::Dirk Grunwald::Philip Levis::Keith I. Farkas::Charles B. Morrey III::Michael Neufeld:::Policies for Dynamic Clock Scheduling.
+conf/osdi/DouglisCKLMT94:::Fred Douglis::Ramón Cáceres::M. Frans Kaashoek::Kai Li::Brian Marsh::Joshua A. Tauber:::Storage Alternatives for Mobile Computers.
+conf/osdi/ChangG99:::Fay W. Chang::Garth A. Gibson:::Automatic I/O Hint Generation Through Speculative Execution.
+conf/osdi/HutchinsonMFHHKO99:::Norman C. Hutchinson::Stephen Manley::Mike Federwisch::Guy Harris::Dave Hitz::Steven Kleiman::Sean W. O'Malley:::Logical vs. Physical File System Backup.
+conf/pics/Cui01:::Chengwu Cui:::On the Repeatability of Paired Comparison Based Scaling Methods.
+conf/pics/Christens-BarryBB01:::William A. Christens-Barry::Johanna R. Bernstein::Mark R. Blackburn:::Imaging the Third Dimension of the Archimedes Palimpsest.
+conf/pics/Benton01:::Stephen A. Benton:::Autostereoscopic Photos: Old and New (Focal).
+conf/pics/ChoiLH01:::Dong-Hwan Choi::Sang-Hak Lee::Chan-Sik Hwang:::Error Concealment Scheme for H.263 Coded Video Transmissions.
+conf/pics/KipmanJ01:::Yair Kipman::Kate Johnson:::Dot Placement Analysis Using a Line Scan Camera and Rigid Body Rotation.
+conf/pics/MorimotoKK01:::Norishige Morimoto::Kohichi Kamijoh::Akio Koide:::Framework of Trustworthy Digital Photo Management System.
+conf/pics/Wang01:::Demin Wang:::Algorithm for Improving the Performance of JPEG Image Coding.
+conf/pics/FaheemLA01:::Faraz Faheem::Daniel Leo Lau::Gonzalo R. Arce:::Multilevel Halftoning using Bilevel Quantization.
+conf/pics/Castegnier01:::Pierre Castegnier:::Hi-Volume Digital Photo Finishing System Using Elcography Technology.
+conf/pics/DuboisP01:::Eric Dubois::Anita Pathak:::Reduction of Bleed-through in Scanned Manuscript Documents.
+conf/pics/Dainty01:::J. Christopher Dainty:::Adaptive Optics in Imaging (Focal).
+conf/pics/Laihanen01:::Pekka Laihanen:::A Two-dimensional Adjustment Tool for Color Image Enhancement.
+conf/pics/WilliamsB01:::Don Williams::Peter D. Burns:::Diagnostics for Digital Capture Using MTF.
+conf/pics/MongeonDR01:::Michael Mongeon::Edul Dalal::Rene Rasmussen:::Utilizing Flatbed Scanners to Measure Printer Motion Quality Error.
+conf/pics/SembaSS01:::Satoshi Semba::Masayoshi Shimizu::Sho'ji Suzuki:::Skin Color Based Lightness Correction Method for Digital Color Images.
+conf/pics/YodaTON01:::Akira Yoda::Fumito Takemoto::Akito Ohkubo::Nobuyoshi Nakajima:::Color Image Processing in Fujifilm's Digital Imaging Services.
+conf/pics/JeranB01:::Paul Jeran::Norman Burningham:::Measurement of Electrophotographic Ghosting.
+conf/phsn/WatsonT92:::Greg C. Watson::Samir Tohmé:::A Performance Analysis of S++: A MAC Protocol for High Speed Networks.
+conf/phsn/BasuW99:::A. Basu::Z. Wang:::Fair Bandwidth Allocation for Differentiated Services.
+conf/phsn/Zimmer92:::Wolfgang Zimmer:::FINE: A High-Speed Transport Protocol Family and its Advanced Service Interface.
+conf/phsn/BlondiaCCW02:::Chris Blondia::Olga Casals::Peter De Cleyn::Gert Willems:::Performance Analysis of IP Micro-mobility Handoff Protocols.
+conf/phsn/Braun94:::Torsten Braun:::PATROCLOS: a flexible and high-performance transport subsystem.
+conf/phsn/GriecoM02:::Luigi Alfredo Grieco::Saverio Mascolo:::TCP Westwood and Easy RED to Improve Fairness in High-Speed Networks.
+conf/phsn/KuhnsOSOP99:::Fred Kuhns::Carlos O'Ryan::Douglas C. Schmidt::Ossama Othman::Jeff Parsons:::The Design and Performance of a Pluggable Protocols Framework for CORBA Middleware.
+conf/phsn/MoldeklevG94:::Kjersti Moldeklev::Per Gunningberg:::Deadlock situations in TCP over ATM.
+conf/phsn/MenthM02:::Michael Menth::Rüdiger Martin:::Performance Evaluation of the Extensions for Control Message Retransmissions in RSVP.
+conf/phsn/ShiroshitaSTYYK96:::Teruji Shiroshita::Takeshi Sano::Osamu Takahashi::Masahide Yamashita::N. Yamanouchi::T. Kushida:::Performance evaluation of reliable multicast transport protocol for large-scale delivery.
+conf/phsn/FlorissiY94:::Danilo Florissi::Yechiam Yemini:::Protocols for loosely synchronous networks.
+conf/phsn/BuddhikotSW99:::Milind M. Buddhikot::Subhash Suri::Marcel Waldvogel:::Space Decomposition Techniques for Fast Layer-4 Switching.
+conf/phsn/WangCTC02:::Pi-Chung Wang::Chia-Tai Chan::Wei-Chun Tseng::Yaw-Chung Chen:::A Fast Packet Classification by Using Enhanced Tuple Pruning.
+conf/phsn/SchmidtS94:::Douglas C. Schmidt::Tatsuya Suda:::Measuring the impact of alternative parallel process architecture on communication subsystem performance.
+conf/pkdd/BonchiGMP03a:::Francesco Bonchi::Fosca Giannotti::Alessio Mazzanti::Dino Pedreschi:::ExAnte: Anticipated Data Reduction in Constrained Pattern Mining.
+conf/pkdd/KlosgenM02:::Willi Klösgen::Michael May:::Spatial Subgroup Mining Integrated in an Object-Relational Spatial Database.
+conf/pkdd/MuradP99:::Uzi Murad::Gadi Pinkas:::Unsupervised Profiling for Identifying Superimposed Fraud.
+conf/pkdd/MunteanuC00:::Paul Munteanu::Denis Cau:::Efficient Score-Based Learning of Equivalence Classes of Bayesian Networks.
+conf/pkdd/BrewerK00:::Sam Brewer::Tom Khabaza:::Inductive Logic Programming in Clementine.
+conf/pkdd/HongC01:::Theodore W. Hong::Keith L. Clark:::Using Grammatical Inference to Automate Information Extraction from the Web.
+conf/pkdd/Oja02:::Erkki Oja:::Finding Hidden Factors UsingIndependent Component Analysis.
+conf/pkdd/ZhongOLKZ97:::Ning Zhong::Setsuo Ohsuga::Chunnian Liu::Yoshitsugu Kakemoto::Xiaosong Zhang:::On Meta Levels of an Organized Society of KDD Agents.
+conf/pkdd/PernelleRV01:::Nathalie Pernelle::Marie-Christine Rousset::Véronique Ventos:::Automatic Construction and Refinement of a Class Hierarchy over Multi-valued Data.
+conf/pkdd/LuiC00:::Chung-Leung Lui::Fu-Lai Chung:::Discovery of Generalized Association Rules with Multiple Minimum Supports.
+conf/pkdd/Freitas97:::Alex Alves Freitas:::The Pronciple of Transformation between Efficiency and Effectiveness: Towards a Fair Evaluation of the Cost-Effectiveness of KDD Techniques.
+conf/pkdd/SlezakW99:::Dominik Slezak::Jakub Wroblewski:::Classification Algorithms Based on Linear Combinations of Features.
+conf/pkdd/Stepaniuk97:::Jaroslaw Stepaniuk:::Attribute Discovery and Rough Sets.
+conf/pkdd/Geurts01:::Pierre Geurts:::Pattern Extraction for Time Series Classification.
+conf/pkdd/Widmer01:::Gerhard Widmer:::The Musical Expression Project: A Challenge for Machine Learning and Knowledge Discovery.
+conf/pkdd/CiampiZC00:::Antonio Ciampi::Djamel A. Zighed::Jérémy Clech:::Trees and Induction Graphs for Multivariate Response.
+conf/pkdd/RobertsPR01:::Felice M. Roberts::Richard J. Povinelli::Kristina M. Ropella:::Identification of ECG Arrhythmias Using Phase Space Reconstruction.
+conf/pkdd/DasGM97:::Gautam Das::Dimitrios Gunopulos::Heikki Mannila:::Finding Similar Time Series.
+conf/pkdd/PoddingH99:::Thorsten Podding::Claus Huber:::A Comparison of Model Selection Procedures for Predicting Turning Points in Financial Time Series.
+conf/pkdd/HollandEK03:::Stefan Holland::Martin Ester::Werner Kießling:::Preference Mining: A Novel Approach on Mining User Preferences for Personalized Applications.
+conf/pkdd/HildermanH00:::Robert J. Hilderman::Howard J. Hamilton:::Applying Objective Interestingness Measures in Data Mining Systems.
+conf/pkdd/GambergerL00:::Dragan Gamberger::Nada Lavrac:::Confirmation Rule Sets.
+conf/pkdd/BarberH00:::Brock Barber::Howard J. Hamilton:::Algorithms for Mining Share Frequent Itemsets Containing Infrequent Subsets.
+conf/pkdd/FeltyM02:::Amy P. Felty::Stan Matwin:::Privacy-Oriented Data Mining by Proof Checking.
+conf/pkdd/KomorowskiPS97:::Henryk Jan Komorowski::Lech Polkowski::Andrzej Skowron:::Rough Sets for Data Mining and Knowledge Discovery (Abstract).
+conf/pkdd/KindermannP98:::Jörg Kindermann::Gerhard Paass:::Model Switching for Bayesian Classification Trees with Soft Splits.
+conf/pkdd/UysalG99:::Ilhan Uysal::H. Altay Güvenir:::Regression by Feature Projections.
+conf/pkdd/NockSJ99:::Richard Nock::Marc Sebban::Pascal Jappy:::Experiments on a Representation-Independent "Top-Down and Prune" Induction Scheme.
+conf/pkdd/KohlerK99:::Susanne Köhler::Michael Krieger:::The ESPRIT Project CreditMine and Its Relevance for the Internet Market.
+conf/pkdd/HiranoT02:::Shoji Hirano::Shusaku Tsumoto:::Multiscale Comparison of Temporal Patternsin Time-Series Medical Databases.
+conf/pkdd/StummeWW98:::Gerd Stumme::Rudolf Wille::Uta Wille:::Conceptual Knowledge Discovery in Databases Using Formal Concept Analysis Methods.
+conf/pkdd/HeinoT03:::Jaana Heino::Hannu Toivonen:::Automated Detection of Epidemics from the Usage Logs of a Physicians' Reference Database.
+conf/pkdd/SuzukiK98:::Einoshin Suzuki::Yves Kodratoff:::Discovery of Surprising Exception Rules Based on Intensity of Implication.
+conf/pkdd/WeissI01:::Sholom M. Weiss::Nitin Indurkhya:::Lightweight Collaborative Filtering Method for Binary-Encoded Data.
+conf/pkdd/RobardetF01:::Céline Robardet::Fabien Feschet:::Comparison of Three Objective Functions for Conceptual Clustering.
+conf/pkdd/LudlW00:::Marcus-Christopher Ludl::Gerhard Widmer:::Relative Unsupervised Discretization for Association Rule Mining.
+conf/pkdd/DietterichW01:::Thomas G. Dietterich::Xin Wang:::Support Vectors for Reinforcement Learning.
+conf/pkdd/BiochMP97:::Jan C. Bioch::Onno van der Meer::Rob Potharst:::Bivariate Decision Trees.
+conf/pkdd/Feelders99:::A. J. Feelders:::Handling Missing Data in Trees: Surrogate Splits or Statistical Imputation.
+conf/pkdd/SebbanZP99:::Marc Sebban::Djamel A. Zighed::S. Di Palma:::Selection and Statistical Validation of Features and Prototypes.
+conf/pkdd/NedellecVB01:::Claire Nedellec::Mohamed Ould Abdel Vetah::Philippe Bessières:::Sentence Filtering for Information Extraction in Genomics, a Classification Problem.
+conf/pkdd/BaralisG03:::Elena Baralis::Paolo Garza:::Majority Classification by Means of Association Rules.
+conf/pkdd/GiannottiMT01:::Fosca Giannotti::Giuseppe Manco::Franco Turini:::Specifying Mining Algorithms with Iterative User-Defined Aggregates: A Case Study.
+conf/pkdd/XiongL99:::N. Xiong::Lothar Litz:::Generating Linguistic Fuzzy Rules for Pattern Classification with Genetic Algorithms.
+conf/pkdd/JeudyB02:::Baptiste Jeudy::Jean-François Boulicaut:::Using Condensed Representations for Interactive Association Rule Mining.
+conf/pldi/AmmonsMBL03:::Glenn Ammons::David Mandelin::Rastislav Bodík::James R. Larus:::Debugging temporal specifications with concept analysis.
+conf/pldi/FlanaganQ03:::Cormac Flanagan::Shaz Qadeer:::A type and effect system for atomicity.
+conf/pldi/DuesterwaldGS93:::Evelyn Duesterwald::Rajiv Gupta::Mary Lou Soffa:::A Practical Data Flow Framework for Array Reference Analysis and its Use in Optimizations.
+conf/pldi/HuguetLT87:::Miquel Huguet::Tomás Lang::Yuval Tamir:::A block-and-actions generator as an alternative to a simulator for collecting architecture measurements.
+conf/pldi/ChiD89:::Chi-Hung Chi::Henry G. Dietz:::Unified Management of Registers and Cache Using Liveness and Cache Bypass.
+conf/pldi/CooperL97:::Keith D. Cooper::John Lu:::Register Promotion in C Programs.
+conf/pldi/CooperM99:::Keith D. Cooper::Nathaniel McIntosh:::Enhanced Code Compression for Embedded RISC Processors.
+conf/pldi/FosterTA02:::Jeffrey S. Foster::Tachio Terauchi::Alexander Aiken:::Flow-Sensitive Type Qualifiers.
+conf/pldi/ChatterjeePHL01:::Siddhartha Chatterjee::Erin Parker::Philip J. Hanlon::Alvin R. Lebeck:::Exact Analysis of the Cache Behavior of Nested Loops.
+conf/pldi/LeeL96:::Peter Lee::Mark Leone:::Optimizing ML with Run-Time Code Generation.
+conf/pldi/DeanCG95:::Jeffrey Dean::Craig Chambers::David Grove:::Selective Specialization for Object-Oriented Languages.
+conf/pldi/ProebstingF91:::Todd A. Proebsting::Charles N. Fischer:::Linear-Time, Optimal Code Scheduling for Delayed-Load Architectures.
+conf/pldi/BurgerWD95:::Robert G. Burger::Oscar Waddell::R. Kent Dybvig:::Register Allocation Using Lazy Saves, Eager Restores, and Greedy Shuffling.
+conf/pldi/AppelG01:::Andrew W. Appel::Lal George:::Optimal Spilling for CISC Machines with Few Registers.
+conf/pldi/MarletCB99:::Renaud Marlet::Charles Consel::Philippe Boinot:::Efficient Incremental Run-Time Specialization for Free.
+conf/pldi/Necula00:::George C. Necula:::Translation validation for an optimizing compiler.

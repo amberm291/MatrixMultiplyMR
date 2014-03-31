@@ -1,0 +1,200 @@
+journals/pe/Lloyd86:::Errol L. Lloyd:::Two Processor Scheduling with Limited Preemption.
+journals/pe/FranksW99:::Greg Franks::C. Murray Woodside:::Effectiveness of Early Replies in Client-Server Systems.
+journals/pe/Donatelli93:::Susanna Donatelli:::Superposed Stochastic Automata: A Class of Stochastic Petri Nets with Parallel Solution and Distributed State Space.
+journals/pe/KaufmanR96:::J. S. Kaufman::Kiran M. Rege:::Blocking in a Shared Resource Environment with Batched Poisson Arrival Processes.
+journals/pe/HsiehL89:::Ching-Tarng Hsieh::Simon S. Lam:::PAM - A Noniterative Approximate Solution Method for Closed Multichain Queueing Networks.
+journals/pe/MeoSM01:::Michela Meo::Edmundo de Souza e Silva::Marco Ajmone Marsan:::A method for calculating successive approximate solutions for a class of block banded M/G/1 type Markovian models.
+journals/pe/GelenbeKK97:::Erol Gelenbe::Samir Kotia::David Krauss:::Call Establishment Overload in Large ATM Networks.
+journals/pe/SahasrabuddheM98:::Laxman H. Sahasrabuddhe::Biswanath Mukherjee:::Probability Distribution of the Receiver Busy Time in a Multicasting Local Lightwave Network.
+journals/pe/IshizakiTH95:::Fumio Ishizaki::Tetsuya Takine::Tshiharu Hasegawa:::Analysis of a Discrete-Time Queue with Gated Priority.
+journals/pe/KnottenbeltHMK00:::William Knottenbelt::Peter G. Harrison::Mark Mestern::Pieter S. Kritzinger:::A probabilistic dynamic technique for the distributed generation of very large state spaces.
+journals/pe/Al-RousanAB01:::Mohammad Al-Rousan::James K. Archibald::LeRoy Bearnson:::Evaluating the impact of locality on the performance of large-scale SCI multiprocessors.
+journals/pe/AndersenN00:::Allan T. Andersen::Bo Friis Nielsen:::On the statistical implications of certain random permutations in Markovian arrival processes (MAPs) and second-order self-similar processes.
+journals/pe/Woodside89:::C. Murray Woodside:::Throughput Calculation for Basic Stochastic Rendezvous Networks.
+journals/pe/ChoiHJC98:::Bong D. Choi::Gang U. Hwang::Yong W. Jung::Hae Chung:::The Periodic Markov Modulated Batch Bernoulli Process and its Application to MPEG Video Traffic.
+journals/pe/BoxmaLW93:::Onno J. Boxma::Hanoch Levy::Jan A. Weststrate:::Efficient Visit Orders for Polling Systems.
+journals/pe/ZhangH92:::Bin Zhang::Yu-Chi Ho:::Improvements in the Likelihood Ratio Method for Steady-State Sensitivity Analysis and Simulation.
+journals/pe/KurasugiK99:::Toshiyasu Kurasugi::Issei Kino:::Approximation Methods for Two-Layer Queueing Models.
+journals/pe/Neuts85:::Marcel F. Neuts:::A Queueing Model for a Storage Buffer in Which the Arrival Rate is Controlled by a Switch with a Random Delay.
+journals/pe/HoustisW86:::Catherine E. Houstis::Mike C. Wescott:::Modeling and Analysis of a Communication Switching Processor.
+journals/pe/Sarbazi-AzadOM01:::Hamid Sarbazi-Azad::Mohamed Ould-Khaoua::Lewis M. Mackenzie:::An accurate analytical model of adaptive wormhole routing in k-ary n-cubes interconnection networks.
+journals/pe/TsaiC89:::Wei K. Tsai::Pierce E. Cantrell:::A Simple Derivation of Transient Queue Statistics and Applications.
+journals/pe/BergerW00:::Arthur W. Berger::Ward Whitt:::Workload bounds in fluid models with priorities.
+journals/pe/CaponeS96:::Jeffrey M. Capone::Ioannis Stavrakakis:::Achievable QoS and Scheduling Policies for Integrated Services Wireless Networks.
+journals/pe/LebahP93:::M. Lebah::Jean M. Pellaumail:::Transient Behavior for Some Jackson Networks.
+journals/pe/AdanR00:::Ivo Adan::Jacques Resing:::A two-level traffic shaper for an on-off source.
+journals/pe/SilvaM87:::Edmundo de Souza e Silva::Richard R. Muntz:::Approximate Solutions for a Class of Non-Product Form Queueing Network Models.
+journals/pe/Filipiak86:::Janusz Filipiak:::Location of a Boundary for Diffusion Equation of a Single Server Queue.
+journals/pe/Kouvatsos02:::Demetres D. Kouvatsos:::Performance modelling and evaluation of ATM&amp;IP networks.
+journals/pr/YaoC02:::Cheng-Hao Yao::Shu-Yuan Chen:::Retrieval of translated, rotated and scaled color textures.
+journals/re/GrossY01:::Daniel Gross::Eric S. K. Yu:::From Non-Functional Requirements to Design through Patterns.
+journals/re/IsazadehLS99:::A. Isazadeh::David Alex Lamb::Terry Shepard:::Behavioural Views for Software Requirements Engineering.
+journals/re/Patel99:::Nandish V. Patel:::The Spiral of Change Model for Coping with Changing and Ongoing Requirements.
+journals/re/KantorowitzGA97:::Eliezer Kantorowitz::A. Guttmann::L. Arzi:::The Performance of the N-Fold Requirement Inspection Method.
+journals/re/Smith97:::S. R. Smith:::Constructing and Revising Formal Arguments in Requirements Engineering.
+journals/re/AntonCDDS01:::Annie I. Antón::Ryan A. Carter::Aldo Dagnino::John H. Dempster::Devon F. Siege:::Deriving Goals from a Use-Case Based Requirements Specification.
+journals/re/Macaulay99:::Linda A. Macaulay:::Seven-Layer Model of the Role of the Facilitator in Requirements Engineering.
+journals/re/DagRCAK02:::Johan Natt och Dag::Björn Regnell::Pär Carlshamre::Michael Andersson::Joachim Karlsson:::A Feasibility Study of Automated Natural Language Requirements Analysis in Market-Driven Development.
+journals/re/LeiteHDK00:::Julio Cesar Sampaio do Prado Leite::Graciela D. S. Hadad::Jorge Horacio Doorn::Gladys N. Kaplan:::A Scenario Construction Process.
+journals/re/Mullery96:::Geoff Mullery:::The Perfect Requirement Myth.
+journals/tc/Dasgupta78:::Subrata Dasgupta:::Comments on ``The Identification of Maximal Parallelism in Straight-Line Microprograms''.
+journals/tc/ManningF76:::Frank B. Manning::Robert Fenichel:::Synchronous Counters Constructed Entirely of <i>J-K</i> Flip-Flops.
+journals/tc/Ho92:::Ching-Tien Ho:::An Observation on the Bisectional Interconnection Networks.
+journals/tc/Douglass93:::Barry G. Douglass:::Rearrangeable Three-Stage Interconnection Networks and Their Routing Properties.
+journals/tc/Wu03:::Jie Wu:::A Fault-Tolerant and Deadlock-Free Routing Protocol in 2D Meshes Based on Odd-Even Turn Model.
+journals/tc/KrishnaSB85:::C. M. Krishna::Kang G. Shin::Ricky W. Butler:::Ensuring Fault Tolerance of Phase-Locked Clocks.
+journals/tc/ChoyCCC96:::Oliver Shiu-sing Choy::Lap-kong Chan::Ray Chan::Cheong F. Chan:::Test Generation with Dynamic Probe Points in High Observability Testing Environment.
+journals/tc/RaghavanS83:::Raghunath Raghavan::Sartaj Sahni:::Single Row Routing.
+journals/tc/KrishnanT99:::Venkata Krishnan::Josep Torrellas:::A Chip-Multiprocessor Architecture with Speculative Multithreading.
+journals/tc/MillerS88a:::Russ Miller::Quentin F. Stout:::Simulating Essential Pyramids.
+journals/tc/CardRMM98:::Howard C. Card::G. K. Rosendahl::Dean K. McNeill::Robert D. McLeod:::Competitive Learning Algorithms and Neurocomputer Architecture.
+journals/tc/HamdaouiR95a:::Moncef Hamdaoui::Parameswaran Ramanathan:::A Dynamic Priority Assignement Technique for Streams with (m, k)-Firm Deadlines.
+journals/tc/ConteHH98:::Thomas M. Conte::Mary Ann Hirsch::Wen-mei W. Hwu:::Combining Trace Sampling with Single Pass Methods for Efficient Cache Simulation.
+journals/tc/Chen82:::Chung-Ho Chen:::An Algebraic Model of Arithmetic Codes.
+journals/tc/BezdekD75:::James C. Bezdek::Joseph C. Dunn:::Optimal Fuzzy Partitions: A Heuristic for Estimating the Parameters in a Mixture of Normal Distributions.
+journals/tc/CattellM96:::Kevin Cattell::Jon C. Muzio:::Analysis of One-Dimensional Linear Hybrid Cellular Automata over GF(q).
+journals/tc/Aupperle83:::Eric M. Aupperle:::Merit's Evolution - Statistically Speaking.
+journals/tc/HaynalB01:::Steve Haynal::Forrest Brewer:::Automata-Based Symbolic Scheduling for Looping DFGs.
+journals/tc/GuhaK92:::Aloke Guha::Larry L. Kinney:::Relating the Cyclic Behavior of Linear and Intrainverted Feedback Shift Registers.
+journals/tc/Coan88:::Brian A. Coan:::A Compiler that Increases the Fault Tolerance of Asynchronous Protocols.
+journals/tc/SistoV95:::Riccardo Sisto::Adriano Valenzano:::Mapping Petri Nets with Inhibitor Arcs onto Basic LOTOS Behavior Expressions.
+journals/tc/AbadirR86:::Magdy S. Abadir::Hassan K. Reghbati:::Functional Test Generation for Digital Circuits Described Using Binary Decision Diagrams.
+journals/tc/Mahmud94:::Syed Masud Mahmud:::Comments on ``Synthetic Traces for Trace-Driven Simulation of Cache Memories''.
+journals/tc/Schurmann78:::Jürgen Schürmann:::A Multifont Word Recognition System for Postal Address Reading.
+journals/tc/BlazewiczDW86:::Jacek Blazewicz::Mieczyslaw Drabowski::Jan Weglarz:::Scheduling Multiprocessor Tasks to Minimize Schedule Length.
+journals/tc/Wustmann81:::Gerhard Wustmann:::Comments on ``Autocorrelation Function of Sequential <i>M</i>-Bit Words Taken from an <i>N</i>-Bit Shift Register (PN) Sequence''.
+journals/tc/ChenCY00:::Chichyang Chen::Rui-Lin Chen::Chih-Huan Yang:::Pipelined Computation of Very Large Word-Length LNS Addition/Subtraction with Polynomial Hardware Cost.
+journals/tc/BaerK79:::Jean-Loup Baer::Barbara Koyama:::On the Minimization of the Width of the Control Memory of Microprogammed Processors.
+journals/tc/Dias75:::Francisco J. O. Dias:::Fault Masking in Combinational Logic Circuits.
+journals/tc/ChengL79:::David K. Cheng::James J. Liu:::A Generalized Orthogonal Transformation Matriz.
+journals/tc/Shedletsky78a:::John J. Shedletsky:::Error Correction by Alternate-Data Retry.
+journals/tc/MorrisVW79:::S. Brent Morris::Arthur Valliere III::Richard A. Wisniewski:::Processes for Random and Sequential Accessing in Dynamic Memories.
+journals/tc/BochmannR83:::Gregor von Bochmann::Michel Raynal:::Structured Specification of Communicating Systems.
+journals/tc/GregussW75:::Pal Greguss::Wilhelm Waidelich:::Ultrasonic Holographic Fourier Spectroscopy via Optical Fourier Transforms.
+journals/tc/ChampernowneBRS90:::Arthur F. Champernowne::Louis B. Bushard::John T. Rusterholz::John R. Schomburg:::Latch-to-Latch Timing Rules.
+journals/tc/Doty84:::Karl W. Doty:::New Designs for Dense Processor Interconnection Networks.
+journals/tc/Minnick75:::Robert C. Minnick:::A System of Magnetic Bubble Logic.
+journals/tc/SuenagaKK79:::Yasuhito Suenaga::Takahiko Kamae::Tomonori Kobayashi:::A High-Speed Algorithm for the Generation of Straight Lines and Circular Arcs.
+journals/tc/DormidoC82:::S. Dormido::M. A. Canto:::An Upper Bound for the Synthesis of Generalized Parallel Counters.
+journals/tc/TekumallaM00:::Ramesh C. Tekumalla::Premachandran R. Menon:::On Redundant Path Delay Faults in Synchronous Sequential Circuits.
+journals/tc/SimonciniSF80:::Luca Simoncini::F. Saheban::Arthur D. Friedman:::Design of Self-Diagnosable Multiprocessor Systems with Concurrent Computation and Diagnosis.
+journals/tc/TruongLR83:::T. K. Truong::K. Y. Liu::Irving S. Reed:::A Parallel-Pipeline Architecutre of the Fast Polynomial Transform for Computing a Two-Dimensional Cyclic Convolution.
+journals/tc/IgnizioPM82:::James P. Ignizio::David F. Palmer::Catherine M. Murphy:::A Multicriteria Approach to Supersystem Architecture Definition.
+journals/tc/SinghLLKBF00:::Hartej Singh::Ming-Hau Lee::G. Lu::Fadi J. Kurdahi::Nader Bagherzadeh::Eliseu M. Chaves Filho::: <i>MorphoSys</i>: An Integrated Reconfigurable System for Data-Parallel and Computation-Intensive Applications.
+journals/tc/BolligW96:::Beate Bollig::Ingo Wegener:::Improving the Variable Ordering of OBDDs Is NP-Complete.
+journals/tc/El-DessoukiH80:::Ossama Ibrahim El-Dessouki::Wing H. Huen:::Distributed Enumaration on Between Computers.
+journals/tc/Johnson80:::Everett L. Johnson:::A Digital Quarter Square Multiplier.
+journals/tc/Johnson95:::Theodore Johnson:::Characterizing the Performance of Algorithms for Lock-Free Objects.
+journals/tc/BanerjeeCKT79:::Utpal Banerjee::Shyh-Ching Chen::David J. Kuck::Ross A. Towle:::Time and Parallel Processor Bounds for Fortran-Like Loops.
+journals/tc/YamamotoM88:::Yoshinori Yamamoto::Masao Mukaidono:::Meaningful Special Classes of Ternary Logic Functions - Regular Ternary Logic Functions and Ternary Majority Functions.
+journals/tc/BondavalliCGG00:::Andrea Bondavalli::Silvano Chiaradonna::Felicita Di Giandomenico::Fabrizio Grandoni:::Threshold-Based Mechanisms to Discriminate Transient from Intermittent Faults.
+journals/tc/MassonM83:::Gerald M. Masson::S. Brent Morris:::Expected Capacity of (m over 2)-Networks.
+journals/tc/Rescigno01:::Adele A. Rescigno:::Optimally Balanced Spanning Tree of the Star Network.
+journals/tc/Redinbo98:::G. Robert Redinbo:::Generalized Algorithm-Based Fault Tolerance: Error Correction via Kalman Estimation.
+journals/tc/DimakopoulosSPN95:::Vassilios V. Dimakopoulos::G. Sourtziotis::Antonis M. Paschalis::Dimitris Nikolos:::On TSC Checkers for m-out-n Codes.
+journals/tc/FinkFS92:::Franz Fink::Karl Fuchs::Michael H. Schulz:::Robust and Nonrobust Path Delay Fault Simulation by Parallel Processing of Patterns.
+journals/tc/SinhaBGS86:::Bhabani P. Sinha::Bhargab B. Bhattacharya::Suranjan Ghose::Pradip K. Srimani:::A Parallel Algorithm to Compute the Shortest Paths and Diameter of a Graph and Its VLSI Implementation.
+journals/tc/ColemanCSK00:::J. N. Coleman::E. I. Chester::C. I. Softley::J. Kadlec:::Arithmetic on the European Logarithmic Microprocessor.
+journals/tc/Towsley86:::Donald F. Towsley:::Approximate Models of Multiple Bus Multiprocessor Systems.
+journals/tc/Hill79:::J. S. Hill:::Revision of the Buffer Length Derivation for a Modified <i>E<sub>k</sub>/D/</i>1 Systems by Maritsas and Hartley.
+journals/tc/PaulGS95:::Steffen Paul::Jürgen Götze::Matthias Sauer:::Error Analysis of CORDIC-Based Jacobi Algorithms.
+journals/tc/Coy79:::Wolfgang Coy:::On the Design of Easily Testable Iterative Systems of Combinational Cells.
+journals/tc/KanawatiKA95:::Ghani A. Kanawati::Nasser A. Kanawati::Jacob A. Abraham:::FERRARI: A Flexible Software-Based Fault and Error Injection System.
+journals/tc/DuL87:::David Hung-Chang Du::Lee-Chin Hsu Liu:::Heuristic Algorithms for Single Row Routing.
+journals/tc/Reyhani-MasolehH03a:::Arash Reyhani-Masoleh::M. Anwarul Hasan:::Fast Normal Basis Multiplication Using General Purpose Processors.
+journals/tc/ParkA96:::Hyunmin Park::Dharma P. Agrawal:::WICI: An Efficient Hybrid Routing Scheme for Scalable and Hierarchical Networks.
+journals/tc/RangarajanF92:::Sampath Rangarajan::Donald S. Fussell:::Diagnosing Arbitrarily Connected Parallel Computers with High Probability.
+journals/tc/Parks00:::Michael Parks:::Number-Theoretic Test Generation for Directed Rounding.
+journals/tc/ShapiraF77:::Ruth Shapira::Herbert Freeman:::A Cyclic-Order Property of Bodies with Three-Face Vertices.
+journals/tc/Patel80:::Janak H. Patel:::An Alternative to the Distributed Pipeline.
+journals/tc/Patel81:::Janak H. Patel:::Performance of Processor-Memory Interconnections for Multiprocessors.
+journals/tc/FuR76:::King-sun Fu::Azriel Rosenfeld:::Pattern Recognition and Image Processing.
+journals/tc/Shapiro78a:::Henry D. Shapiro:::Theoretical Limitations on the Efficient Use of Parallel Memories.
+journals/tc/JenkinsH80:::Jesse H. Jenkins::James A. Howard:::Control Overhead - A Performance Metric for Evaluating Control-Unit Designs.
+journals/tc/Belik90:::Ference Belik:::An Efficient Deadlock Avoidance Rechnique.
+journals/tc/Hong85:::Yang-Chang Hong:::Efficient Computing of Relational Algebraic Primitives in a Database Machine Architecture.
+journals/tc/KeT99:::Jenn-Yang Ke::Jong-Chuang Tsay:::An Approach to Checking Link Conflicts in the Mapping of Uniform Dependence Algorithms into Lower Dimensional Processor Arrays.
+journals/tc/Hlawiczka86:::Andrzej Hlawiczka:::Compression of Three-State Data Serial Streams by Means of a Parallel LFSR Signature Analyzer.
+journals/tc/HongP89:::Yang-Chang Hong::T. H. Payne:::Parallel Sorting in a Ring Network of Processors.
+journals/tc/BruckB92:::Jehoshua Bruck::Mario Blaum:::New Techniques for Constructing EC/AUED Codes.
+journals/tc/NgA80:::Ying W. Ng::Algirdas Avizienis:::A Unified Reliability Model for Ault-Tolerant Computers.
+journals/tc/ZilicV02:::Zeljko Zilic::Zvonko G. Vranesic:::A Deterministic Multivariate Interpolation Algorithm for Small Finite Fields.
+journals/tc/HuaS93:::Kien A. Hua::Jeffrey X. W. Su:::Dynamic Load Balancing in Very Large Shared-Nothing Hypercube Database Computers.
+journals/tc/FiolYM84:::Miguel Angel Fiol::J. Luis A. Yebra::Ignacio Alegre de Miquel:::Line Digraph Iterations and the (<i>d, k</i>) Digraph Problem.
+journals/tc/BergK87:::Menachem Berg::Israel Koren:::On Switching Policies for Modular Redundancy Fault-Tolerant Computing Systems.
+journals/tc/WangM85:::Yung-Terng Wang::Robert J. T. Morris:::Load Sharing in Distributed Systems.
+journals/tc/WangM96:::Yuke Wang::Carl McCrosky:::Negation Trees: A Unified Approach to Boolean Function Complementation.
+journals/tc/WannF83:::Donald F. Wann::Mark A. Franklin:::Asynchronous and Clocked Control Structures for VSLI Based Interconnection Networks.
+journals/tc/Belser76:::Karl Belser:::Comment on ``An Improved Algorithm for the Generation of Nonparametric Curves''.
+journals/tc/Skillicorn88:::David B. Skillicorn:::A New Class of Fault-Tolerant Static Interconnection Networks.
+journals/tc/JanO93:::Ching Yuh Jan::A. Yavuz Oruç:::Fast Self-Routing Permutation Switching on an Asymptotically Minimum Cost Network.
+journals/tc/SuD80:::Stephen Y. H. Su::Edgar DuCasse:::A Hardware Redundancy Reconfiguration Scheme for Tolerating Multiple Module Failures.
+journals/tc/SuL90:::Chien-Chun Su::Hao-Yung Lo:::An Algorithm for Scaling and Single Residue Error Correction in Residue Number Systems.
+journals/tc/Arazi93:::Benjamin Arazi:::Architectures for Exponentiation Over GF(2^n) Adopted for Smartcard Application.
+journals/tc/WuF81:::Chuan-lin Wu::Tse-Yun Feng:::The Universality of the Shuffle-Exchange Network.
+journals/tc/WuL81:::Shyue B. Wu::Ming T. Liu:::A Cluster Structure as an Interconnection Network for Large Multimicrocomputer Systems.
+journals/tc/Curtis76:::H. Allen Curtis:::Simplified Decomposition of Boolean Functions.
+journals/tc/RobinsonY82:::John P. Robinson::Chia-Lung Yeh:::A Method for Modulo-2 Minimization.
+journals/tc/XuS85:::Shiyi Xu::Stephen Y. H. Su:::Detecting I/O and Internal Feedback Bridging Faults.
+journals/tc/Freeman79:::Martin Freeman:::Aspects of the Upper Bounds of Finite Input-Memory and Finite Output-Memory Sequential Machines.
+journals/tc/Hiasat00:::Ahmad A. Hiasat:::New Efficient Structure for a Modular Multiplier for RNS.
+journals/tc/Calahan88:::Donald A. Calahan:::An Analysis of Vector Startup Access Delays.
+journals/tc/RahaKJZ99:::Amitava Raha::Sanjay Kamat::Xiaohua Jia::Wei Zhao:::Using Traffic Regulation to Meet End-to-End Deadlines in ATM Networks.
+journals/tc/KimR93:::Jung Hwan Kim::Phill K. Rhee:::The Rule-Based Approach to Reconfiguration of 2-D Processor Arrays.
+journals/tc/MaritsasH81:::D. G. Maritsas::M. G. Hartley:::Comments on ``Revision of the Buffer Length Derivation for a Modified <i>E<sub>k</sub>/D/</i>1 System by Maritsas and Hartley.
+journals/tc/Lee89a:::Gyungho Lee:::A Performance Bound of Multistage Combining Networks.
+journals/tc/LeeB90:::Joo-Kang Lee::Jon T. Butler:::A Characterization of t/s-Diagnosability an Sequential t-Diagnosability in Designs.
+journals/tc/LeeC98:::Tsern-Huei Lee::Jin-Jye Chou:::Some Topological Properties of Bitonic Sorters.
+journals/tc/LeeY91:::Kyungsook Y. Lee::Hyunsoo Yoon:::Indirect Star-Type Networks for Large Multiprocessor Systems.
+journals/tc/LiCF89:::Chung-Chi Jim Li::Paul Peichuan Chen::W. Kent Fuchs:::Local Concurrent Error Detection and Dorrection in Data Structures Using Virtual Backpointers.
+journals/tc/PangratzW79:::Heinrich Pangratz::Hans Weinrichter:::Pseudo-Random Number Generator Based on Binary and Quinary Maximal-Length Sequences.
+journals/tc/LeuD94:::Yean-Shiang Leu::David Hung-Chang Du:::Cycle Compensation Protocol: A Fair Protocol for the Unidirectional Twin-Bus Architecture.
+journals/tc/RamakrishnaFB97:::M. V. Ramakrishna::E. Fu::E. Bahcekapili:::Efficient Hardware Hashing Functions for High Performance Computers.
+journals/tc/ChakrabortyCC96:::Supratik Chakraborty::Dipanwita Roy Chowdhury::Parimal Pal Chaudhuri:::Theory and Application of Nongroup Cellular Automata for Synthesis of Easily Testable Finite State Machines.
+journals/tc/LinO97:::Ming-Bo Lin::A. Yavuz Oruç:::The Design of an Optoelectronic Arithmetic Processor Based on Permutation Networks.
+journals/tc/LinS94:::Tein-Hsiang Lin::Kang G. Shin:::An Optimal Retry Policy Based on Fault Classification.
+journals/tc/LinS98:::Tein-Hsiang Lin::Kang G. Shin:::Damage Assessment for Optimal Rollback Recovery.
+journals/tc/Liu84a:::T. S. Liu:::The Role of a Maintenance Processor for a General-Purpose Computer System.
+journals/tc/LiuC87:::Steven S. Liu::Q. C. Chow:::Performance Analysis of a Multiprocessor-Based Packet Switch in Networks with Link-Level Sliding-Window Flow Control.
+journals/tc/BalkenholK00:::Bernhard Balkenhol::Stefan Kurtz:::Universal Data Compression Based on the Burrows-Wheeler Transformation: Theory and Practice.
+journals/tc/KuoL92:::Sy-Yen Kuo::Sheng-Chiech Liang:::Concurrent Error Detection and Correction in Real-Time Systolic Sorting Arrays.
+journals/tc/KuoM00:::Tei-Wei Kuo::Aloysius K. Mok:::Real-Time Data Semantics and Similarity-Based Concurrency Control.
+journals/tc/StellingMOR98:::Paul F. Stelling::Charles U. Martel::Vojin G. Oklobdzija::R. Ravi:::Optimal Circuits for Parallel Multipliers.
+journals/tc/PayneM77:::Harold J. Payne::William S. Meisel:::An Algorithm for Constructing Optimal Binary Decision Trees.
+journals/tc/BruckCH95:::Jehoshua Bruck::Robert Cypher::Ching-Tien Ho:::Wildcard Dimensions, Coding Theory and Fault-Tolerant Meshes and Hypercubes.
+journals/tc/Fisher81:::Joseph A. Fisher:::Trace Scheduling: A Technique for Global Microcode Compaction.
+journals/tc/Mili82:::Ali Mili:::Self-Stabilizing Programs: The Fault-Tolerant Capability of Self-Checking Programs.
+journals/tc/LapointeHF93:::Marcel Lapointe::Huu Tue Huynh::Paul Fortier:::Systematic Design of Pipelined Recursive Filters.
+journals/tc/LukP89:::Franklin T. Luk::Haesun Park:::A Proof of Convergence for Two Parallel Jacobi SVD Algorithms.
+journals/tc/HwangC82:::Kai Hwang::Yeng-Heng Cheng:::Partitioned Matrix Algorithms for VLSI Arithmetic Systems.
+journals/tc/Nair95:::Ravi Nair:::Optimal 2-Bit Branch Predictors.
+journals/tc/Cristian82:::Flaviu Cristian:::Exception Handling and Software Fault Tolerance.
+journals/tc/DaumasM97:::Marc Daumas::David W. Matula:::Validated Roundings of Dot Products by Sticky Accumulation.
+journals/tc/ChoiM88a:::Yoon-Hwa Choi::Miroslaw Malek:::A Fault-Tolerant Systolic Sorter.
+journals/tc/NikolosGP86:::Dimitris Nikolos::Nicolas Gaitanis::George Philokyprou:::Systematic <i>t</i>-Error Correcting/All Unidirectional Error Detecting Codes.
+journals/tc/Sridhar89:::M. A. Sridhar:::A Fast Algorithm for Testing Isomorphism of Permutation Networks.
+journals/tc/VairavanD76:::K. Vairavan::Richard A. DeMillo:::On the Computational Complexity of a Generalized Scheduling Problem.
+journals/tc/WangJM95:::Zhongde Wang::Graham A. Jullien::William C. Miller:::A New Design Technique for Column Compression Multipliers.
+journals/tc/IchikawaIKTS91:::Haruhisa Ichikawa::Masaki Itoh::June Kato::Akira Takura::Masashi Shibasaki:::SDE: Incremental Specification and Development of Communications Software.
+journals/tc/TreuerAF87:::Robert P. Treuer::Vinod K. Agarwal::Hideo Fujiwara:::A New Built-In Self-Test Design for PLA's with High Fault Coverage and Low Overhead.
+journals/tc/ErcegovacL90c:::Milos D. Ercegovac::Tomás Lang:::Fast Multiplication Without Carry-Propagate Addition.
+journals/tc/HungP95:::Ching Yu Hung::Behrooz Parhami:::Error Analysis of Approximate Chinese-Reminder-Theorem Decoding.
+journals/tc/KanitkarD02:::Vinay Kanitkar::Alex Delis:::Real-Time Processing in Client-Server Databases.
+journals/tc/DhawanV88a:::Sudhir Dhawan::Ronald C. de Vries:::Design of Self-Checking Sequential Machines.
+journals/tc/Park86:::Jong Won Park:::An Efficient Memory System for Image Processing.
+journals/tc/Oikonomou92:::Kostas N. Oikonomou:::Abstractions of Finite-State Machines and Immediately-Detectable Output Faults.
+journals/tc/NikolosV99:::Dimitris Nikolos::Haridimos T. Vergos:::On the Yield of VLSI Processors with On-Chip CPU Cache.
+journals/tc/Nikolos98:::Dimitris Nikolos:::Optimal Self-Testing Embedded Parity Checkers.
+journals/tc/Agrawal79a:::Vishwani D. Agrawal:::Author's Reply.
+journals/tc/AgrawalJ82:::Dharma P. Agrawal::Ramesh Jain:::A Pipelined Pseudoparallel System Architecture for Real-Time Dynamic Scene Analysis.
+journals/tc/LlosaVAG98:::Josep Llosa::Mateo Valero::Eduard Ayguadé::Antonio González:::Modulo Scheduling with Reduced Register Pressure.
+journals/tc/Dunning85:::Larry A. Dunning:::SEC-BED-DED Codes for Error Control in Byte-Organized Memory Systems.
+journals/tc/IkenagaO98:::Takeshi Ikenaga::Takeshi Ogura:::CAM<sup>2</sup>: A Highly-Parallel Two-Dimensional Cellular Architecture.
+journals/tc/SebanS84:::Robert R. Seban::Howard Jay Siegel:::Shuffling with the Illiac and PM21 SIMD Networks.
+journals/tc/MouftahJ77:::H. T. Mouftah::I. B. Jordan:::Design of Ternary COS/MOS Memory and Sequential Circuits.
+journals/tc/RaiK96:::S. Rai::V. P. Kirpalani:::A Modified TRAM Architecture.
+journals/tc/RaoB78:::C. V. Kamesvara Rao::Kenneth Balck:::Finding the Core Point in a Fingerprint.
+journals/tc/Reed84:::Daniel A. Reed:::The Performance of Multimicrocomputer Networks Supporting Dynamic Workloads.
+journals/tc/ReyneriF91:::Leonardo Maria Reyneri::Enrica Filippi:::An Analysis on the Performance of Silicon Implementations of Backpropagation Algorithms for Artificial Neural Networks.
+journals/tc/MukherjeeRT97:::Nilanjan Mukherjee::Janusz Rajski::Jerzy Tyszer:::Design of Testable Multipliers for Fixed-Width Data Paths.
+journals/tc/RoyN95:::Kaushik Roy::Sudip Nag:::On Routability for FPGAs under Faulty Conditions.

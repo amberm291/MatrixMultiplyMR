@@ -1,0 +1,200 @@
+journals/jpdc/SzubaS97:::Tadeusz Szuba::Robert Stras:::Parallel Evolutionary Computing with the Random PROLOG Processor.
+journals/jpdc/LeeKK94:::Gyungho Lee::Clyde P. Kruskal::David J. Kuck:::On the Effectiveness of Combining in Resolving "Hot Spot" Contention.
+journals/jpdc/LeeWY97:::Cheolwhan Lee::Yuan-Fang Wang::Tao Yang:::Global Optimization for Mapping Parallel Image Processing Tasks on Distributed Memory Machines.
+journals/jpdc/FengBRW03:::Xizhou Feng::Duncan A. Buell::John R. Rose::Peter J. Waddell:::Parallel algorithms for Bayesian phylogenetic inference.
+journals/jpdc/DupratM88:::Jean Duprat::Jean-Michel Muller:::Hardwired Polynomial Evaluation.
+journals/jpdc/DhodhiSAU99:::Muhammad K. Dhodhi::John A. Saghri::Imtiaz Ahmad::Raza Ul-Mustafa:::D-ISODATA: A Distributed Algorithm for Unsupervised Classification of Remotely Sensed Data on Network of Workstations.
+journals/jpdc/KaushikHS96:::S. D. Kaushik::Chua-Huang Huang::P. Sadayappan:::Efficient Index Set Generation for Compiling HPF Array Statements on Distributed-Memory Machines.
+journals/jpdc/GuoMHCL91:::Zicheng Guo::Rami G. Melhem::Richard W. Hall::Donald M. Chiarulli::Steven P. Levitan:::Pipelined Communications in Optically Interconnected Arrays.
+journals/jpdc/DuZDZ01:::Xing Du::Xiaodong Zhang::Yingfei Dong::Lin Zhang:::Architectural Effects of Symmetric Multiprocessors on TPC-C Commercial Workload.
+journals/jpdc/KavianpourSB94:::Alireza Kavianpour::S. Shoari::Nader Bagherzadeh:::A New Approach for Circle Detection on Multiprocessors.
+journals/jpdc/KontothanassisS95:::Leonidas I. Kontothanassis::Michael L. Scott:::High Performance Software Coherence for Current and Future Architectures.
+journals/jpdc/HuangWW96:::Kuo-Chan Huang::Feng-Jian Wang::Pei-Chi Wu:::Parallelizing a Level 3 BLAS Library for LAN-Connected Workstations.
+journals/jpdc/CodenottiLR90:::Bruno Codenotti::Grazia Lotti::Francesc Romani:::Area-Time Trade-Offs for Matrix-Vector Multiplication.
+journals/jpdc/AlBdaiwiB03:::Bader F. AlBdaiwi::Bella Bose:::On resource placements in 3D tori.
+journals/jpdc/ObenausS97:::Stefan Thomas Obenaus::Ted H. Szymanski:::Embeddings of Star Graphs into Optical Meshes without Bends.
+journals/jpdc/TollenaereHO92:::Tom Tollenaere::Marc M. Van Hulle::Guy A. Orban:::Parallel Implementation and Capabilities of Entropy-Driven Artifical Neural Networks.
+journals/jpdc/BrzezinskiHRS96:::Jerzy Brzezinski::Jean-Michel Hélary::Michel Raynal::Mukesh Singhal:::Erratum: Deadlock Models and a General Algorithm for Distributed Deadlock Detection.
+journals/jpdc/BermondMM01:::Jean-Claude Bermond::Xavier Muñoz::Alberto Marchetti-Spaccamela:::A Broadcasting Protocol in Line Digraphs.
+journals/jpdc/BarthP98:::Dominique Barth::Petrisor Panaite:::Routing Permutations on Graphs via Factors.
+journals/jpdc/ShenZ00:::Xiaojun Shen::Yixin Zhang:::Partitionability of k-Extra-Stage Omega Networks and an Optimal Task Migration Algorithm.
+journals/jpdc/LiuWP02:::Wenheng Liu::Cho-Li Wang::Viktor K. Prasanna:::Portable and Scalable Algorithm for Irregular All-to-All Communication.
+journals/jpdc/GoudaH96:::Mohamed G. Gouda::F. Furman Haddix:::The Stabilizing Token Ring in Three Bits.
+journals/jpdc/AkyildizCDFS93:::Ian F. Akyildiz::Liang Chen::Samir Ranjan Das::Richard Fujimoto::Richard F. Serfozo:::The Effect of Memory Capacity on Time Warp Performance.
+journals/jpdc/NandaSTN91:::Arun K. Nanda::Honda Shing::Ten H. Tzen::Lionel M. Ni:::Resource Contention in Shared-Memory Multiprocessors: A Parameterized Performance Degradation Model.
+journals/jpdc/BeguelinN94:::Adam Beguelin::Gary J. Nutt:::Visual Parallel Programming and Determinancy: A Language Specification, an Analysis Technique, and a Programming Tool.
+journals/jpdc/DailBC03:::Holly Dail::Francine Berman::Henri Casanova:::A decoupled scheduling approach for Grid application development environments.
+journals/jpdc/AltmanGG98:::Erik R. Altman::Ramaswamy Govindarajan::Guang R. Gao:::A Unified Framework for Instruction Scheduling and Mapping for Function Units with Structural Hazards.
+journals/jpdc/NandaB93:::Ashwini K. Nanda::Laxmi N. Bhuyan:::Efficient Mapping of Applications on Cache Based Multiprocessors.
+journals/jpdc/FujitaY96:::Satoshi Fujita::Masafumi Yamashita:::A Nonoblivious Bus Access Scheme Yields an Optimal Partial Sorting Algorithm.
+journals/jpdc/LuDCZ97:::Honghui Lu::Sandhya Dwarkadas::Alan L. Cox::Willy Zwaenepoel:::Quantifying the Performance Differences between PVM and TreadMarks.
+journals/jpdc/MilosavljeviJ01:::Igor Z. Milosavljevic::Marwan A. Jabri:::Experimental Evaluation of Automatic Array Alignment in Parallelized Matlab.
+journals/jpdc/GottliebHS96:::Allan Gottlieb::Kai Hwang::Sartaj Sahni:::Editorial Announcement.
+journals/jpdc/MendelsonK92:::Bilha Mendelson::Israel Koren:::Estimating the Potential Parallelism and Pipelining of Algorithms for Data Flow Machines.
+journals/jpdc/LiuLCL98:::J. G. Liu::H. F. Li::F. H. Y. Chan::F. K. Lam:::A Novel Approach to Fast Discrete Fourier Transform.
+journals/jpdc/Seredynski97:::Franciszek Seredynski:::Competitive Coevolutionary Multi-Agent Systems: The Application to Mapping and Scheduling Problems.
+journals/jpdc/BoxerMR98:::Laurence Boxer::Russ Miller::Andrew Rau-Chaplin:::Scaleable Parallel Algorithms for Lower Envelopes with Applications.
+journals/jpdc/Lisper90:::Björn Lisper:::Synthesis of Time-Optimal Systolic Arrays with Cells with Inner Structure.
+journals/jpdc/BemmerlB93:::Thomas Bemmerl::Peter Braun:::Visualization of Message Passing Parallel Programs with the TOPSYS Parallel Programming Environment.
+journals/jpdc/MailletT95:::Eric Maillet::Cécile Tron:::On Efficiently Implementing Global Time for Performance Evaluation on Multiprocessor Systems.
+journals/jpdc/Maheshwari95:::Piyush Maheshwari:::Partitioning and Scheduling of Parallel Functional Programs for Larger Grain.
+journals/jpdc/JohnsonN96:::Theodore Johnson::Richard E. Newman-Wolfe:::A Comparison of Fast and Low Overhead Distributed Priority Locks.
+journals/jpdc/GaoGB93:::Guang R. Gao::Jean-Luc Gaudiot::Lubomir Bic:::Special Issue on DataFlow and Multithreaded Architectures - Guest Editors' Introduction.
+journals/jpdc/HwangLJ98:::Gwan-Hwan Hwang::Jenq Kuen Lee::Roy Dz-Ching Ju:::A Function-Composition Approach to Synthesize Fortran 90 Array Operations.
+journals/jpdc/Sarbazi-AzadOMA02:::Hamid Sarbazi-Azad::Mohamed Ould-Khaoua::Lewis M. Mackenzie::Selim G. Akl:::A Parallel Algorithm for Lagrange Interpolation on the Star Graph.
+journals/jpdc/LesyngBE03:::Bogdan Lesyng::Piotr Bala::Dietmar W. Erwin:::EUROGRID--European computational grid testbed.
+journals/jpdc/CarothersBP02:::Christopher D. Carothers::David Bauer::Shawn Pearce:::ROSS: A high-performance, low-memory, modular Time Warp system.
+journals/jpdc/SaavedraMH94:::Rafael H. Saavedra::Weihua Mao::Kai Hwang:::Performance and Optimization of Data Prefetching Strategies in Scalable Multiprocessors.
+journals/jpdc/KopidakisLZ97:::Y. Kopidakis::M. Lamari::Vassilis Zissimopoulos:::On the Task Assignment Problem: Two New Efficient Heuristic Algorithms.
+journals/jpdc/MayLWVHBWBJB97:::Phil May::Myunghee Lee::Scott T. Wilkinson::Olivier Vendier::Zhuang Ho::Steven W. Bond::D. Scott Wills::Martin Brooke::Nan M. Jokerst::April Brown:::A 100 Mbps, LED Through-Wafer Optoelectronic Link for Multicomputer Interconnection Networks.
+journals/jpdc/JegouS86:::Yvon Jégou::André Seznec:::Data Synchronized Pipeline Architecture: Pipelining in Multiprocessor Environments.
+journals/jpdc/WilliamsR95:::Craig Williams::Paul F. Reynolds Jr.:::Combining Atomic Actions.
+journals/jpdc/KnollM03:::Peter Knoll::Siroos Mirzaei:::Validation of a parallel genetic algorithm for image reconstruction from projections.
+journals/jpdc/ZhangK94:::Weixiong Zhang::Richard E. Korf:::Parallel Heap Operations on an EREW PRAM.
+journals/jpdc/GrahnS00:::Håkan Grahn::Per Stenström:::Comparative Evaluation of Latency-Tolerating and -Reducing Techniques for Hardware-Only and Software-Only Directory Protocols.
+journals/jpdc/ButtnerNS99:::Lars Büttner::Jörg Nolte::Wolfgang Schröder-Preikschat:::ARTS of PEACE - A High-Performance Middleware Layer for Parallel Distributed Computing.
+journals/jpdc/MakedonS94:::Fillia Makedon::Antonios Symvonis:::Optimal-Algorithms for Multipacket Routing Problems on Rings.
+journals/jpdc/BlellochS90:::Guy E. Blelloch::Gary Sabot:::Compiling Collection-Oriented Languages onto Massively Parallel Computers.
+journals/jpdc/CarlsonF88:::William W. Carlson::José A. B. Fortes:::On the Performance of Combined Data Flow and Control Flow Systems: Experiments Using Two Iterative Algorithms.
+journals/jpdc/OklobdzijaB88:::Vojin G. Oklobdzija::Earl R. Barnes:::On Implementing Addition in VLSI Technology.
+journals/jpdc/ZhengW00:::Si-Qing Zheng::Jie Wu:::Dual of a Complete Graph as an Interconnection Network.
+journals/jpdc/SalingerT02:::Petr Salinger::Pavel Tvrdík:::Broadcasting in All-Output-Port Meshes of Trees with Distance-Insensitive Switching.
+journals/jpdc/Sarbazi-AzadOM03:::Hamid Sarbazi-Azad::Mohamed Ould-Khaoua::Lewis M. Mackenzie:::Analytical modelling of wormhole-routed k-ary n-cubes in the presence of matrix-transpose traffic.
+journals/jpdc/DessmarkL98:::Anders Dessmark::Andrzej Lingas:::Improved Bounds for Integer Sorting in the EREW PRAM Model.
+journals/jpdc/NavaneethanJ91:::P. Navaneethan::Lawrence Jenkins:::Design of Nonequivalent Self-Routing Networks Based on a Matrix Model.
+journals/jpdc/BarthouCF97:::Denis Barthou::Jean-Francois Collard::Paul Feautrier:::Fuzzy Array Dataflow Analysis.
+journals/jpdc/TewksburyHNLHHM93:::S. K. Tewksbury::L. A. Hornak::H. E. Nariman::S. M. Langsjoen::N. J. Hall::J. J. Hall::S. P. Mcginnis:::Toward Cointegration of Optical Interconnections within Silicon Microelectronic Systems.
+journals/jpdc/PrylliT97:::Loïc Prylli::Bernard Tourancheau:::Fast Runtime Block Cyclic Data Redistribution on Multiprocessors.
+journals/jpdc/TzengC92:::Nian-Feng Tzeng::Hsing-Lung Chen:::An Effective Approach t the Enhancement of Incomplete Hypercube Computers.
+journals/jpdc/FangCF00:::Yugang Fang::Imrich Chlamtac::Hong-Bing Fei:::Failure Recovery of HLR Mobility Databases and Parameter Optimization for PCS Networks.
+journals/jpdc/PercusD92:::Ora E. Percus::Susan R. Dickey:::Performance Analysis of Clock-Regulated Queues with Output Multiplexing in Three Different 2 x 2 Crossbar Switch Architectures.
+journals/jpdc/SterlingA93:::Thomas L. Sterling::Jeffrey M. Arnold:::Fine Grain Dataflow Computation without Tokens for Balanced Execution.
+journals/jpdc/Charney95:::Mark Charney:::The Role of Network Bandwidth in Barrier Synchronizations.
+journals/jpdc/AvudainayagamLF03:::Arun Avudainayagam::Wenjing Lou::Yuguang Fang:::DEAR: A Device and Energy Aware Routing protocol for heterogeneous ad hoc networks.
+journals/jpdc/DreznerB86:::Zvi Drezner::Amnon Barak:::An Asychronous Algorithm for Scattering Information between the Active Nodes of a Multicomputer System.
+journals/jpdc/BianchiniC01:::Ricardo Bianchini::Enrique V. Carrera:::Designing and Evaluating a Cost-Effective Optical Network for Multiprocessors.
+journals/jpdc/DramitinosM99:::George Dramitinos::Evangelos P. Markatos:::Adaptive and Reliable Paging to Remote Main Memory.
+journals/jpdc/ChangS93:::Yi-Chieh Chang::Kang G. Shin:::Optimal Load Sharing in Distributed Real-Time Systems.
+journals/jpdc/Al-TawilM01:::Khalid Al-Tawil::Csaba Andras Moritz:::Performance Modeling and Evaluation of MPI.
+journals/joop/Vadaparty96:::Kumar V. Vadaparty:::Developing an ODBMS Application: Basic Steps.
+journals/joop/PantHV96:::Y. R. Pant::Brian Henderson-Sellers::June M. Verner:::Generalization of Object-Oriented Components for Reuse: Measurements of Effort and Size Change.
+journals/joop/MinginsMDP99:::Christine Mingins::Jan Miller::Martin Dick::Margot Postema:::How We Teach Software Engineering.
+journals/joop/LaLondeP95b:::Wilf R. LaLonde::John R. Pugh:::Complexity in C++: A Smalltalk Perspective.
+journals/joop/LaLondeP96e:::Wilf R. LaLonde::John R. Pugh:::Smalltalk on the World Wide Web.
+journals/joop/LaLondeP97d:::Wilf R. LaLonde::John R. Pugh:::A Reader for VRML.
+journals/joop/EtzkornDL98:::Letha H. Etzkorn::Carl G. Davis::Wei Li:::A Practical Look at the Lack of Cohesion in Methods Metric.
+journals/joop/McGregor98d:::John D. McGregor:::The Fifty-Foot Look at Analysis and Design Models.
+journals/joop/MannsSPM98:::Mary Lynn Manns::Helen Sharp::Maximo Prieto::Phil McLaughlin:::Capturing Successful Practices on OT Education and Training.
+journals/joop/Heintze94:::Siegfried Heintze:::Designing Efficient Container Classes.
+journals/joop/Vadaparty96a:::Kumar V. Vadaparty:::Programmer's Interface to Persistence_in_ODBMSs ObjectStore.
+journals/joop/MannsN96:::Mary Lynn Manns::H. James Nelson:::Retraining Procedure-Oriented Developers: An Issue of Skill Transfer.
+journals/joop/Kim97b:::Won Kim:::OLTP Versus DSS/OLAP/Data Mining.
+journals/joop/Lato97:::Katherine Lato:::Learn to Learn: Training on New Technology.
+journals/joop/Love97:::Tom Love:::Avoiding Uninteresting Old Mistakes.
+journals/joop/Gabriel94:::Richard P. Gabriel:::Productivity: Is there a Silver Bullet?
+journals/joop/Koenig94b:::Andrew Koenig:::Templates and Generic Algorithms.
+journals/joop/Koenig95e:::Andrew Koenig:::An Example of Language-Sensitive Design.
+journals/joop/Koenig96e:::Andrew Koenig:::Design, Behavior, and Expectation.
+journals/joop/Koenig98b:::Andrew Koenig:::A Programming Revolution in Languages Founded on Object Logic.
+journals/joop/Koenig98c:::Andrew Koenig:::Is Abstraction Good?
+journals/joop/Koenig98d:::Andrew Koenig:::Simulating Dynamic Types in C++, Part 1.
+journals/joop/Pang99:::Chung-Yeung Pang:::A Pattern of Inheritance and Polymorphism for Persistent Objects Stored in a Relational Database.
+journals/joop/BockO97:::Conrad Bock::James Odell:::A More Complete Model of Relations and Their Implementation.
+journals/joop/Cockburn97a:::Alistair Cockburn:::Using Goal-Based Use Cases.
+journals/joop/Shilling94:::John J. Shilling:::How to Roll your own Persistent Objects in C++.
+journals/joop/Rumbaugh94:::James E. Rumbaugh:::The Life of an Object Model.
+journals/joop/Rumbaugh96:::James E. Rumbaugh:::To Form a More Perfect Union: Unifying the OMT and Booch Methods.
+journals/joop/Rumbaugh97:::James E. Rumbaugh:::OO Myths: Assumptions from a Language View.
+journals/joop/CookD95:::Steve Cook::John Daniels:::Domains for Flexibility, Symplicity, and Reuse.
+journals/joop/Hillegass94:::Aaron Hillegass:::An Afternoon with Eiffel and C++.
+journals/joop/Blasband95:::Darius Blasband:::The YAFL Programming Language.
+journals/joop/BlaschekF98:::G. Blaschek::Joachim Hans Fröhlich:::Recursion in Object-Oriented Programs.
+journals/joop/McCarthy97:::Brendan McCarthy:::Association Inheritance and Composition.
+journals/joop/DuncanRM99:::Ishbel Duncan::Dave Robson::Malcolm Munro:::Test-Case Development During OO Lifecycle and Evolution.
+journals/joop/McKim96:::James C. McKim:::Programming by Contract: Designing for Correctness.
+journals/joop/Mellor94:::Stephen J. Mellor:::...at Archetypes.
+journals/joop/SpinellisDE95:::Diomidis Spinellis::Sophia Drossopoulou::Susan Eisenbach:::Object-Oriented Technology in Multiparadigm Language Implementation.
+journals/joop/McKeownS97:::David W. McKeown::Hossein Saiedian:::Triggers for Object-Oriented Database Systems.
+journals/joop/Meyer98b:::Bertrand Meyer:::The Power of Round-Trip Engineering.
+journals/joop/Meyer98d:::Bertrand Meyer:::Free EiffelBase: Eiffel Libraries Go Open Source.
+journals/joop/MarksST96:::Donald G. Marks::Peter J. Sell::Bhavani M. Thuraisingham:::MOMT: A Multilevel Object Modeling Technique for Designing Secure Database Applications.
+journals/joop/Pachet95:::François Pachet:::On the Embeddability of Production Rules in Object-Oriented Languages.
+journals/joop/ChangT95a:::Wen-Tsung Chang::Chien-Chao Tseng:::Clustering Approach to Grouping Objects in Message-Passing Systems.
+journals/joop/Rumbaugh95e:::James E. Rumbaugh:::What is a Method?
+journals/joop/Rumbaugh96c:::James E. Rumbaugh:::Notation Notes: Principles for Choosing Notation.
+journals/joop/Ashbacher98:::Charles Ashbacher:::You are There.
+journals/joop/Capretz98:::Luiz Fernando Capretz:::A CASE of Reusability.
+journals/joop/Charron98:::Ron Charron:::Training and the Push for Change.
+journals/joop/Murray96b:::Kelly E. Murray:::Under the Hood.
+journals/joop/DSouza98a:::Desmond D'Souza:::Interface Specification, Refinement, and Design with UML/Catalysis.
+journals/joop/DSouzaW97:::Desmond D'Souza::Alan Wills:::Collaboration Frameworks.
+journals/joop/Odell95:::James Odell:::Approaches go Finite-State Machine Modeling.
+journals/joop/Odell96:::James Odell:::User Workshop Techniques.
+journals/joop/FiresmithH98b:::Donald Firesmith::Brian Henderson-Sellers:::Upgrading OML to Version 1.1: Part 2 Additional Concepts and Notation.
+journals/joop/MarcosMP98:::Esperanza Marcos::Adoración de Miguel Castaño::Mario Piattini:::About Abstract Classes.
+journals/joop/Firesmith95a:::Donald Firesmith:::Inheritance Guidelines.
+journals/jsac/EdelsteinSB90:::D. Vera Edelstein::Pasquale Sullo::Lawrence A. Boguchwal:::Making Software Engineering Happen in a Telecommunications R&amp;D Organization.
+journals/jsac/GiacopelliHMSL91:::James N. Giacopelli::Jason J. Hickey::William S. Marcus::W. David Sincoskie::Morgan Littlewood:::Sunshine: A High-Performance Self-Routing Broadband Packet Switch Architecture.
+journals/jsac/Boyd93:::Colin Boyd:::Security Architectures Using Formal Methods.
+journals/jsac/Chimiak92:::William J. Chimiak:::The Digital Radiology Environment.
+journals/jsac/Schiess95:::Marcel Schiess:::Three-Level Modulation Scheme on Standard Fibers to Extend the Dispersion Limit.
+journals/jsac/Shalaby95:::Hossam M. H. Shalaby:::A Comparison between the Performance of Number-State and Coherent-State Optical CDMA in Lossy Photon Channels.
+journals/jsac/FettweisM90:::Gerhard Fettweis::Heinrich Meyr:::High-Rate Viterbi Processor: A Systolic Array Solution.
+journals/jsac/ChenDR90:::Mon-Song Chen::Nicholas R. Dono::Rajiv Ramaswami:::A Media-Access Protocol for Packet-Switched Wavelength Division Multiaccess Metropolitan Area Networks.
+journals/jsac/Cruz95:::Rene L. Cruz:::Quality of Service Guarantees in Virtual Circuit Switched Networks.
+journals/jsac/KasturiaW91:::Sanjay Kasturia::Jack H. Winters:::Techniques for High-Speed Implementation of Nonlinear Cancellation.
+journals/jsac/Toussaint93:::Marie-Jeanne Toussaint:::A New Method for Analyzing the Security of Cryptographic Protocols.
+journals/jsac/Cheung90:::Kwok-Wai Cheung:::Acoustooptic Tunable Filters in Narrowband WDM Networks: System Issues and Network Applications.
+journals/jsac/Haindl96:::Michal Haindl:::A New Multimedia Synchronization Model.
+journals/jsac/WickertS92:::Mark A. Wickert::William C. Staton:::The Effect of Multipath on the Detection of Symbol-Rate Spectral Lines by Delay and Multiply Receivers.
+journals/jsac/Gray92:::Steven D. Gray:::Multipath Reduction Using Constant Modulus Conjugate Gradient Techniques.
+journals/jsac/Mandeville90:::William A. Mandeville:::Software Costs of Quality.
+journals/jsac/HuR95:::Long-Rong Hu::Stephen S. Rappaport:::Personal Communication Systems Using Multiple Hierarchical Cellular Overlays.
+journals/jsac/GibbensKK95:::Richard J. Gibbens::Frank P. Kelly::Peter B. Key:::A Decision-Theoretic Approach to Call Admission Control in ATM Networks.
+journals/jsac/TakemotoWNSKYHM90:::Akira Takemoto::Hitoshi Watanabe::Yasuo Nakajima::Yasushi Sakakibara::Syoichi Kakimoto::Junichiro Yamashita::Tatsuo Hatta::Yoshio Miyake:::Distributed Feedback Laser Diode and Module for CATV Systems.
+journals/jsac/WangA97:::Gangsheng Wang::Nirwan Ansari:::Optimal Broadcast Scheduling in Packet Radio Networks Using Mean Field Annealing.
+journals/jsac/WalkerHYDS91:::Richard C. Walker::Thomas Hornak::Chu-Sun Yen::Joey Doernberg::Kent H. Springer:::A 1.5 Gb/s Link Interface Chipset for Computer Data Transmission.
+journals/jsac/Wei93:::Lee-Fang Wei:::Precoding Technique for Partial-Response Channels with Applications to HDTV Transmission.
+journals/jsac/Itoh91:::Arata Itoh:::A Fault-Tolerant Switching Network for B-ISDN.
+journals/jsac/YuS96:::Li Yu::J. Eric Salt:::A Hybrid Spreading/Despreading Function with Good SNR Performance for Band-Limited DS-CDMA.
+journals/jsac/WernerJLB95:::Markus Werner::Axel Jahn::Erich Lutz::Axel Böttcher:::Analysis of System Parameters for LEO/ICO-Satellite Communication Networks.
+journals/jsac/KemdirimW90:::Donald C. Kemdirim::Jim S. Wight:::DS SSMA with Some IC Realizations.
+journals/jsac/LeeL97:::Tony T. Lee::Cheuk H. Lam:::Path Switching - A Quasi-Static Routing Scheme for Large-Scale ATM Packet Switches.
+journals/jsac/LoNY96:::Fook Loong Lo::Tung-Sang Ng::Tony T. Yuk:::Performance Analysis of a Fully-Connected, Full-Duplex CDMA ALOHA Network with Channel Sensing and Collision Detection.
+journals/jsac/PriscoliMPS97:::Francesco Delli Priscoli::Nicola Pio Magnani::Valerio Palestini::Fabrizio Sestini:::Application of Dynamic Channel Allocation Strategies to the GSM Cellular Network.
+journals/jsac/WenLL01:::Jyh-Horng Wen::Jenn-Kaie Lain::Yu-Wen Lai:::Performance evaluation of a joint CDMA/NC-PRMA protocol for wireless multimedia communications.
+journals/jsac/Al-QaqT97:::Wael A. Al-Qaq::J. Keith Townsend:::A Stochastic Importance Sampling Methodology for the Efficient Simulation of Adaptive Systems in Frequency Nonselective Rayleigh Fading Channels.
+journals/jsac/TanabeF92:::Naoto Tanabe::Nariman Farvardin:::Subband Image Coding Using Entropy-Coded Quantization over Noisy Channels.
+journals/jsac/RuschP95:::Leslie A. Rusch::H. Vincent Poor:::Effects of Laser Phase Drift on Coherent Optical CDMA.
+journals/jsac/MoorsC93:::Tim Moors::Antonio Cantoni:::ATM Receiver Implementation Issues.
+journals/jsac/WangGS92:::Limin Wang::Morris Goldberg::Seymour Shlien:::Unified Variable-Length Transform Coding and Image-Adaptive Vector Quantization.
+journals/jsac/WangLB91:::Zhigong Wang::Ulrich Langmann::Berthold G. Bosch:::Multi-Gb/s Silicon Bipolar Clock Recovery IC.
+journals/jsac/MattaS95:::Ibrahim Matta::A. Udaya Shankar:::Type-of-Service Routing in Datagram Delivery Systems.
+journals/jsac/RanganKR96:::P. Venkat Rangan::Shrihari Sampath Kumar::Sreerang Rajan:::Continuity and Synchronization in MPEG.
+journals/jsac/MouftahS90:::H. T. Mouftah::Rene P. Sturgeon:::Distributed Discrete Event Simulation for Communication Networks.
+journals/jsac/ShovalSJ95:::Ayal Shoval::Martin Snelgrove::David A. Johns:::A 100 Mb/s BiCMOS Adaptive Pulse-Shaping Filter.
+journals/jsac/Rose90:::Marshall T. Rose:::Transition and Coexistence Strategies for TCP/IP to OSI.
+journals/jsac/YeadonGHS96:::Nicholas J. Yeadon::Francisco Garcia::David Hutchison::Doug Shepherd:::Filters: QoS Support Mechanisms for Multipeer Communications.
+journals/jsac/SandbergT95:::Stuart D. Sandberg::Michael A. Tzannes:::Overlapped Discrete Multitone Modulation for High Speed Copper Wire Communication.
+journals/jsac/ChowA90:::Ching-Hua Chow::Motomitsu Adachi:::Achieving Multimedia Communications on a Heterogeneous Network.
+journals/jsac/LazarTG90:::Aurel A. Lazar::Adam T. Temple::Rafael Gidron:::MAGNET II: A Metropolitan Area Network Based on Asynchronous Time Sharing.
+journals/jsac/LindbladT96:::Christopher J. Lindblad::David L. Tennenhouse:::The VuSystem: A Programming System for Compute-Intensive Multimedia.
+journals/jsac/MarsanBBN90:::Marco Ajmone Marsan::Gianfranco Balbo::Giorgio Bruno::Fabio Neri:::TOPNET: A Tool for the Visual Simulation of Communication Networks.
+journals/jsac/BaiocchiMLRW91:::Andrea Baiocchi::Nicola Blefari-Melazzi::Marco Listanti::Aldo Roveri::Roberto Winkler:::Loss Performance Analysis of an ATM Multiplexer Loaded with High-Speed ON-OFF Sources.
+journals/jsac/FischerFGL91:::Wolfgang Fischer::Oswald Fundneider::Ernst-Heinrich Goeldner::Karl Anton Lutz:::A Scalable ATM Switching System Architecture.
+journals/jsac/SuzukiSY97:::Shigefusa Suzuki::Takaho Shibata::Masanobu Yoshimi:::PHS Roaming Signaling Protocol Architecture Toward Global Mobility Network.
+journals/jsac/SriramH01:::S. Sriram::S. Hosur:::Cyclically permutable codes for rapid acquisition in DS-CDMA systems with asynchronous base stations.
+journals/jsac/Kaleh95:::Ghassan Kawas Kaleh:::Channel Equalization for Block Transmission Systems.
+journals/jsac/DeMarcoP97:::Martino DeMarco::Achille Pattavina:::Distributed Routing Protocols for ATM Extended Banyan Networks.
+journals/jsac/ReissleinR97:::Martin Reisslein::Keith W. Ross:::Call Admission for Prerecorded Sources with Packet Loss.
+journals/jsac/BabuLH01:::T. V. J. Ganesh Babu::Tho Le-Ngoc::Jeremiah F. Hayes:::Performance of a priority-based dynamic capacity allocation scheme for wireless ATM systems.
+journals/jsac/KurnerCW93:::Thomas Kürner::Dieter J. Cichon::Werner Wiesbeck:::Concepts and Results for 3D Digital Terrain-Based Wave Propagation Models: An Overview.
+journals/jsac/EckardtMP97:::Tim O. Eckardt::Thomas Magedanz::Radu Popescu-Zeletin:::Beyond IN and UPT - A Personal Communications Support System Based on TMN Concepts.
+journals/jsac/McManusR96:::Jean M. McManus::Keith W. Ross:::Video-on-Demand Over ATM: Constant-Rate Transmission and Transport.
+journals/jsac/KwokKAP96:::Yu-Kwong Kwok::Kamalakar Karlapalem::Ishfaq Ahmad::Ng Moon Pun:::Design and Evaluation of Data Allocation Algorithms for Distributed Multimedia Database Systems.
+journals/jsac/IshikawaU97:::Yoshihiro Ishikawa::Narumi Umeda:::Capacity Design and Performance of Call Admission Control in Cellular CDMA Systems.
+journals/jsac/LittleG90:::Thomas D. C. Little::Arif Ghafoor:::Synchronization and Storage Models for Multimedia Objects.
+journals/jsac/QuirkM01:::K. J. Quirk::Laurence B. Milstein:::The effect of low SNR in phase estimation in wideband CDMA.
+journals/jsac/FultonLL97:::Cathy A. Fulton::San-qi Li::Arthur Y. M. Lin:::Measurement-Based Performance Evaluation of an ATM Switch with External Multicasting Engine and Multiple-Priority Classes.
+journals/jsac/BerggrenKJZ01:::Fredrik Berggren::Seong-Lyun Kim::Riku Jantti::Jens Zander:::Joint power control and intracell scheduling of DS-CDMA nonreal time data.
+journals/jsac/LeungBHMT90:::Wu-Hon F. Leung::Thomas J. Baumgartner::Yeou H. Hwang::Mike J. Morgan::Shi-Chuan Tu:::A Software Architecture for Workstations Supporting Multimedia Conferencing in Packet Switching Networks.
